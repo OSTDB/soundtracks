@@ -568,6 +568,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e03909239cc479fbf7cc994b" width="60" /> | [Mafia III](https://ostdb.net/games/mafia-iii) | **Mafia III (Expanded Game Score)** · [Spotify](https://open.spotify.com/album/1jCfzTRSGbTSr8IGiBoROz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3ec7c4bb8e3092e6713a49b" width="60" /> | [Mafia: Definitive Edition](https://ostdb.net/games/mafia-definitive-edition) | **Mafia (Definitive Edition) [Original Score]** · [Spotify](https://open.spotify.com/album/6PLBtzn4bzfqrEuL6WtQ81) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4ffd6ddc31e6e8566db9a11" width="60" /> | [Mafia: The Old Country](https://ostdb.net/games/mafia-the-old-country) | **Mafia: The Old Country (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6R41tA5v3ZOyTj0X3umReN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731aa2c3442ba26dbb6e7d0879" width="60" /> | [Manor Lords](https://ostdb.net/games/manor-lords) | **Manor Lords (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0NRScKQ0E4Sa0ExtY6W8ug) |
 
 ### 0-9
 
@@ -580,4 +581,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_731 soundtracks · last updated 2026-08-25T16:16:06.682Z_
+_732 soundtracks · last updated 2026-08-25T16:16:11.054Z_
