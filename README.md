@@ -295,6 +295,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/8a/2a/dc8a2a42-cbb0-a7f5-0982-32b261574780/3663729331892_cover.jpg/600x600bb.jpg" width="60" /> | [Dustborn](https://ostdb.net/games/dustborn) | **Dustborn (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dustborn-original-game-soundtrack/1763069973?uo=4) · [Album](https://album.link/i/1763069973)<br>**Good Ways to Cry (From Dustborn) - Single** · [Spotify](https://music.apple.com/us/album/good-ways-to-cry-from-dustborn-single/1762847076?uo=4) · [Album](https://album.link/i/1762847076) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/52/3c/0f523c1e-fa4b-853b-5023-557c9e1522c7/artwork.jpg/600x600bb.jpg" width="60" /> | [Dwarf Fortress](https://ostdb.net/games/dwarf-fortress) | **Dwarf Fortress (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dwarf-fortress-original-game-soundtrack/1656317303?uo=4) · [Album](https://album.link/i/1656317303) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b115f5280b63bbbbd8c6f290" width="60" /> | [Dying Light](https://ostdb.net/games/dying-light) | **Dying Light (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4o6yHpn2AY3E00wpeP9drI)<br>**Dying Light: The Bozak Horde (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4Pjq36hTVet7KYapefp7Z0)<br>**Dying Light: The Following (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7kobJ5vE5lgyq0keEpMfCx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731191472294b5568cb4230b51" width="60" /> | [Dying Light 2: Stay Human](https://ostdb.net/games/dying-light-2-stay-human) | **Dying Light 2 Stay Human (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5ur7NIodjVeOdQAnHUNPTJ) |
 
 ### 0-9
 
@@ -307,4 +308,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_378 soundtracks · last updated 2026-08-25T14:42:06.296Z_
+_379 soundtracks · last updated 2026-08-25T14:42:11.174Z_
