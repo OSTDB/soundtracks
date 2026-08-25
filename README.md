@@ -191,6 +191,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273911a180041abfbd6ce99212b" width="60" /> | [Command & Conquer 3: Tiberium Wars](https://ostdb.net/games/command-and-conquer-3-tiberium-wars) | **Command & Conquer 3: Tiberium Wars (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2etzvydPfRqbAlwHk3NPv8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e88e648ca6669d82ae2c9a" width="60" /> | [Command & Conquer: Red Alert](https://ostdb.net/games/command-and-conquer-red-alert) | **Command & Conquer: Red Alert (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/0PVfiTe7jFoMIcKr4yvkEk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323c39897ccdc9ed187eeacdf" width="60" /> | [Command & Conquer: Red Alert 2](https://ostdb.net/games/command-and-conquer-red-alert-2) | **Command & Conquer: Red Alert 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0mL0e9FMnDXyZieyyrpH1q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27383fe2e01c8ebb3df005aff3f" width="60" /> | [Command & Conquer: Tiberian Sun](https://ostdb.net/games/command-and-conquer-tiberian-sun) | **Command & Conquer: Tiberian Sun (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5fUxoN1qAXttP5t4YrJKaI) |
 
 ### 0-9
 
@@ -203,4 +204,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_230 soundtracks · last updated 2026-08-25T14:06:26.773Z_
+_231 soundtracks · last updated 2026-08-25T14:06:30.667Z_
