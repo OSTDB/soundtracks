@@ -132,6 +132,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273c16e37995b122c1bfcab9c06" width="60" /> | [Batman: Arkham Asylum](https://ostdb.net/games/500) | Batman: Arkham Asylum (Original Video Game Score) | [Spotify](https://open.spotify.com/album/74GEvuE0RHdovProvUrGEt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273947f89646e236798bae3aa1b" width="60" /> | [Batman: Arkham City](https://ostdb.net/games/501) | Batman: Arkham City (Original Video Game Score) | [Spotify](https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4301b7609607cdbda99efa" width="60" /> | [Batman: Arkham Knight](https://ostdb.net/games/5503) | Batman: Arkham Knight, Vol. 1 (Original Video Game Score) | [Spotify](https://open.spotify.com/album/5BIfgnary4Wmqx6Bgs3iqb) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273fded328c6ba87b43251c5abb" width="60" /> | [Batman: Arkham Origins](https://ostdb.net/games/2003) | Batman: Arkham Origins (Original Video Game Score) | [Spotify](https://open.spotify.com/album/3RYePrI25rEQ1iMIRA8B4n) |
 
 ### 0-9
 
@@ -148,4 +149,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_117 soundtracks · last updated 2026-08-25T07:06:02.092Z_
+_118 soundtracks · last updated 2026-08-25T07:06:04.417Z_
