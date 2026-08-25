@@ -717,6 +717,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2dc789478798d967adfa12" width="60" /> | [Prince of Persia](https://ostdb.net/games/prince-of-persia) | **Prince of Persia Trilogy (Original Game Soundtracks)** · [Spotify](https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a3fea088a2fc38d9d6fdc6" width="60" /> | [Prince of Persia: The Forgotten Sands](https://ostdb.net/games/prince-of-persia-the-forgotten-sands) | **Prince of Persia: The Forgotten Sands (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3hNLjKxhFmzR2V0XloauhA) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/03/94/f6039418-ecc8-f8cf-dc05-5da3b2d0f0d2/889845222378.jpg/600x600bb.jpg" width="60" /> | [Project CARS](https://ostdb.net/games/project-cars) | **Project CARS (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/project-cars-original-soundtrack/1008677481?uo=4) · [Album](https://album.link/i/1008677481) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/2b/5f/e22b5f22-d899-b7df-e4c2-3073ee6508ed/artwork.jpg/600x600bb.jpg" width="60" /> | [Project Songbird](https://ostdb.net/games/project-songbird) | **Project Songbird (Official Video Game Soundtrack & Dakota's Demos)** · [Spotify](https://music.apple.com/us/album/project-songbird-official-video-game-soundtrack-dakotas/1890698487?uo=4) · [Album](https://album.link/i/1890698487) |
 
 ### 0-9
 
@@ -729,4 +730,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_933 soundtracks · last updated 2026-08-25T17:06:17.117Z_
+_934 soundtracks · last updated 2026-08-25T17:06:22.440Z_
