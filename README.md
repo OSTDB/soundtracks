@@ -363,6 +363,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/0e/86/fb0e8658-94eb-4bbe-6738-3171c6fc59c8/artwork.jpg/600x600bb.jpg" width="60" /> | [Floatlands](https://ostdb.net/games/floatlands) | **Floatlands** · [Spotify](https://music.apple.com/us/album/floatlands/1381096859?uo=4) · [Album](https://album.link/i/1381096859) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce740506d99dfb9f6d46744d" width="60" /> | [For Honor](https://ostdb.net/games/for-honor) | **For Honor (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4M78XpHDFGUAIOMPaMInva)<br>**For Honor : Year of The Covenants (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0zjUHLToqdXDGG2sLXa03u)<br>**For Honor: Forged in War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7Ku3C0ZO9Nem5hegZJumbQ)<br>**For Honor: Lost Horizons (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3ENGdsH7MeS7CaQixbw56h)<br>**For Honor: Marching Fire (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6HTCGT7Qac0HbKKhPMSpva)<br>**For Honor: Theaters of War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7ir3ZQ1HXQLj9gi8rgU8p9)<br>**For Honor: Year of Reckoning (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0JRybfJ6X52gxLVdGNSenK)<br>**For Honor: Year of the Harbinger (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2QtvSDgDX1WnZKuZRvUnaQ) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/b4/11/49b4110e-51db-13ce-2e66-737622998cd5/SQEX-11012-1_3000_3000.jpg/1000x1000bb.jpg" width="60" /> | [Forspoken](https://ostdb.net/games/forspoken) | **FORSPOKEN Original Soundtrack** · [Apple Music](https://music.apple.com/us/album/forspoken-original-soundtrack/1671501085?uo=4) · [Album](https://album.link/i/1671501085) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731927704eea912f62ee949044" width="60" /> | [Forza Horizon 4](https://ostdb.net/games/forza-horizon-4) | **Forza Horizon 4: Hospital Soundtrack** · [Spotify](https://open.spotify.com/album/20M60ExbQAk4MO83glFisb) |
 
 ### 0-9
 
@@ -375,4 +376,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_462 soundtracks · last updated 2026-08-25T15:05:52.260Z_
+_463 soundtracks · last updated 2026-08-25T15:05:56.573Z_
