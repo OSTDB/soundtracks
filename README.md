@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [0-9](#0-9)
 
 ### A
 
@@ -372,6 +372,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba2d2ef7bab9b8c321160bd4" width="60" /> | [Frostpunk](https://ostdb.net/games/frostpunk) | **Frostpunk (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5TbVBAhE5xa2DL8t3qdAxC)<br>**Frostpunk Expansions (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/frostpunk-expansions-original-soundtrack/1564354484?uo=4) · [Album](https://album.link/i/1564354484) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0df2a8ad127e554af82e2ae" width="60" /> | [Frostpunk 2](https://ostdb.net/games/frostpunk-2) | **Frostpunk 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6kutYftoI7Pzx1AvnwCNru) |
 
+### G
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/a1/12/bda11290-d756-a27a-1fb7-c8a2094449df/artwork.jpg/600x600bb.jpg" width="60" /> | [Garten of Banban 8: Anti Devil](https://ostdb.net/games/garten-of-banban-8-anti-devil) | **Garten of Banban 8: Anti Devil (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/garten-of-banban-8-anti-devil-original-game-soundtrack/1836505340?uo=4) · [Album](https://album.link/i/1836505340) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -383,4 +389,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_479 soundtracks · last updated 2026-08-25T15:07:04.278Z_
+_480 soundtracks · last updated 2026-08-25T15:07:07.570Z_
