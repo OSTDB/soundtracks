@@ -198,6 +198,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731622bcd7b629c4f3f202e249" width="60" /> | [Cookie Clicker](https://ostdb.net/games/cookie-clicker) | **Cookie Clicker** · [Spotify](https://open.spotify.com/album/5VeKlnm3zx3y24HONzr6S9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b5eb9cd39e9fedfce94c38d" width="60" /> | [Counter-Strike 2](https://ostdb.net/games/counter-strike-2) | **Counter-Strike 2** · [Spotify](https://open.spotify.com/album/6T0iFELA3hoLXxdzk6cmD5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273260538838801a22e47f4f48c" width="60" /> | [Crackdown 3](https://ostdb.net/games/crackdown-3) | **Crackdown 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0iSiF52TBMfPoMEC9giccQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c476a9f39fa358efad960035" width="60" /> | [Crash Bandicoot N. Sane Trilogy](https://ostdb.net/games/crash-bandicoot-n-sane-trilogy) | **Music from Crash Bandicoot N. Sane Trilogy (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0seis2rI9tpi9u9I3Dnza2) |
 
 ### 0-9
 
@@ -210,4 +211,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_237 soundtracks · last updated 2026-08-25T14:06:55.006Z_
+_238 soundtracks · last updated 2026-08-25T14:06:58.235Z_
