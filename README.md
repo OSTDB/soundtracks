@@ -873,6 +873,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27369aff599538f15c73a34252c" width="60" /> | [Stellaris](https://ostdb.net/games/stellaris) | **Stellaris (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5hCoZYvVBKqOBst0qfgApe) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/58/a3/2758a31e-7c1d-ee98-d72f-81b44e3e2a24/8721093177395.png/600x600bb.jpg" width="60" /> | [Still Wakes the Deep](https://ostdb.net/games/still-wakes-the-deep) | **Still Wakes the Deep (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/still-wakes-the-deep-original-soundtrack/1746500611?uo=4) · [Album](https://album.link/i/1746500611) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/bd/4b/77bd4b23-c9e3-ccfe-7d8d-509fbb8e47a6/663918438091.jpg/600x600bb.jpg" width="60" /> | [Strange Antiquities](https://ostdb.net/games/strange-antiquities) | **Strange Antiquities (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/strange-antiquities-original-soundtrack/1832578890?uo=4) · [Album](https://album.link/i/1832578890) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273979a0f02bb2b74ef74ae7b82" width="60" /> | [Stray](https://ostdb.net/games/stray) | **Stray (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5F0wtZDesD8FWgFiggrMir) |
 
 ### 0-9
 
@@ -885,4 +886,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1127 soundtracks · last updated 2026-08-25T17:55:49.465Z_
+_1128 soundtracks · last updated 2026-08-25T17:55:54.345Z_
