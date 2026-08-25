@@ -413,6 +413,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273707fe4c159f0384c613dc4d2" width="60" /> | [Grand Theft Auto V](https://ostdb.net/games/grand-theft-auto-v) | **The Music of Grand Theft Auto V, Vol. 1: Original Music** · [Spotify](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr)<br>**The Music of Grand Theft Auto V, Vol. 2: The Score** · [Spotify](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bdd081ed2b3594be6174df88" width="60" /> | [Grand Theft Auto V](https://ostdb.net/games/grand-theft-auto-v) | **The Music of Grand Theft Auto V, Vol. 2: The Score** · [Spotify](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8d9bdb33b7a4d6098a77446" width="60" /> | [Grand Theft Auto: San Andreas](https://ostdb.net/games/grand-theft-auto-san-andreas) | **Grand Theft Auto: San Andreas (Official Theme Song)** · [Spotify](https://open.spotify.com/album/20kEyCFY0DQz9VwbhxkKgZ) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b8/92/43b8921e-3607-cf00-8bc3-80d9ed81087b/PA00033149_0_45330_jacket.jpg/600x600bb.jpg" width="60" /> | [Gravity Rush 2](https://ostdb.net/games/gravity-rush-2) | **Gravity Rush 2 (Original Soundtrack Japan Deluxe Edition)** · [Spotify](https://music.apple.com/us/album/gravity-rush-2-original-soundtrack-japan-deluxe-edition/1251233028?uo=4) · [Album](https://album.link/i/1251233028) |
 
 ### 0-9
 
@@ -425,4 +426,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_540 soundtracks · last updated 2026-08-25T15:26:38.876Z_
+_541 soundtracks · last updated 2026-08-25T15:26:42.474Z_
