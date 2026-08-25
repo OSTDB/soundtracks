@@ -366,6 +366,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731927704eea912f62ee949044" width="60" /> | [Forza Horizon 4](https://ostdb.net/games/forza-horizon-4) | **Forza Horizon 4: Hospital Soundtrack** · [Spotify](https://open.spotify.com/album/20M60ExbQAk4MO83glFisb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273130db10e76a16fdabae65897" width="60" /> | [Forza Horizon 5](https://ostdb.net/games/forza-horizon-5) | **Forza Horizon 5: Hospital Soundtrack** · [Spotify](https://open.spotify.com/album/6taAtNTGEX9SMmjWvo1Snl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ddf3b528dfa26d5759b45245" width="60" /> | [Forza Motorsport](https://ostdb.net/games/forza-motorsport) | **Forza Motorsport (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28ucEqNu7ZKpHnl0Qeq5f6) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/e7/7b/dbe77bd1-9ff9-22c5-8350-57106204b7c3/cover.jpg/1000x1000bb.jpg" width="60" /> | [FragPunk](https://ostdb.net/games/fragpunk) | **界外狂潮 (FragPunk Original Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/%E7%95%8C%E5%A4%96%E7%8B%82%E6%BD%AE-fragpunk-original-game-soundtrack/1826730533?uo=4) · [Album](https://album.link/i/1826730533) |
 
 ### 0-9
 
@@ -378,4 +379,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_465 soundtracks · last updated 2026-08-25T15:06:04.621Z_
+_466 soundtracks · last updated 2026-08-25T15:06:09.034Z_
