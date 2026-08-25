@@ -796,6 +796,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f2/e1/3c/f2e13c0b-ed12-61ce-a0cc-4a32fd1191cc/859768443235_cover.jpg/600x600bb.jpg" width="60" /> | [Saints Row](https://ostdb.net/games/saints-row) | **Saints Row (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/saints-row-original-soundtrack/1660725568?uo=4) · [Album](https://album.link/i/1660725568) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe5ae364ffdbe47515b12892" width="60" /> | [Saints Row IV](https://ostdb.net/games/saints-row-iv) | **Saints Row IV - The Soundtrack** · [Spotify](https://open.spotify.com/album/3s2svfAFATDhQXves2TQYG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ca78f2b96c753e0fd85ba09" width="60" /> | [Samson](https://ostdb.net/games/samson) | **Samson (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7vmGJV1hPgmhZftFn5qiMg) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e3/59/72e359af-2faf-c9eb-a8df-8a6eeb98ef9b/196874109861.jpg/600x600bb.jpg" width="60" /> | [Saros](https://ostdb.net/games/saros) | **SAROS (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/saros-original-soundtrack/6768415565?uo=4) |
 
 ### 0-9
 
@@ -808,4 +809,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1020 soundtracks · last updated 2026-08-25T17:26:43.519Z_
+_1021 soundtracks · last updated 2026-08-25T17:26:47.682Z_
