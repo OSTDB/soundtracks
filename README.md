@@ -58,7 +58,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2b53d25a09cbca21b0f1ec2" width="60" /> | [Arena Breakout: Infinite](https://ostdb.net/games/arena-breakout-infinite) | **Arena Breakout: Infinite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4oK7uAdU2W49XQI7U4oVfR) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/02/ba/9302ba76-b2e4-41b8-4c69-6b04ea0c46da/811576033985.png/1000x1000bb.jpg" width="60" /> | [Ark II](https://ostdb.net/games/ark-ii) | **Ark II - Single** · [Spotify](https://open.spotify.com/album/5eS6gmIYNgKqxAM7eYk8Y0) · [Apple Music](https://music.apple.com/us/album/ark-ii-single/1545547574?uo=4) · [Album](https://album.link/i/1545547574) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ade26649be7bbca6c1477ee" width="60" /> | [Ark: Survival Evolved](https://ostdb.net/games/ark-survival-evolved) | **ARK Fjordur Theme (ARK Survival Evolved Soundtrack)** · [Spotify](https://open.spotify.com/album/0ektAmthJKtBiC25P4yif0)<br>**ARK Ragnarok Theme (ARK Survival Evolved Soundtrack)** · [Spotify](https://open.spotify.com/album/1Wlh36bAXJP5kD30gU7l2X)<br>**ARK: Expansion Packs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6VgROyPc71A5C3YrDMbXDC) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27345fcca6d8f6edf6344090931" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/arknights-endfield) | **Endfield brennt (Arknights: Endfield)** · [Spotify](https://open.spotify.com/album/3A4LU9ROwEaCMCwR7C4Het)<br>**Give Me Something (for Arknights Endfield)** · [Spotify](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB)<br>**Rossi Arknights:Endfield Wolf** · [Spotify](https://open.spotify.com/album/5cQR6qQE68akfMqkxlRmAN) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27345fcca6d8f6edf6344090931" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/arknights-endfield) | **Endfield brennt (Arknights: Endfield)** · [Spotify](https://open.spotify.com/album/3A4LU9ROwEaCMCwR7C4Het)<br>**Give Me Something (for Arknights Endfield)** · [Spotify](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB)<br>**Rossi Arknights:Endfield Wolf** · [Spotify](https://open.spotify.com/album/5cQR6qQE68akfMqkxlRmAN)<br>**Welcome to Endfield Industries (ARKNIGHTS:ENDFIELD)** · [Spotify](https://open.spotify.com/album/1zrHuNbd6pF2x9GMfwIvFR) |
 
 ### 0-9
 
@@ -71,4 +71,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_60 soundtracks · last updated 2026-08-25T13:21:55.408Z_
+_61 soundtracks · last updated 2026-08-25T13:25:48.766Z_
