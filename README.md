@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [0-9](#0-9)
 
 ### A
 
@@ -145,6 +145,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e4/43/a8e443ba-471c-256d-a50f-0f3243082857/5063812298121_cover.jpg/600x600bb.jpg" width="60" /> | [Bye Sweet Carole](https://ostdb.net/games/bye-sweet-carole) | **Bye Sweet Carole (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/bye-sweet-carole-original-game-soundtrack/1834071514?uo=4) · [Album](https://album.link/i/1834071514) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/e1/16/d3e116bb-aba1-f44b-d809-c17b315c5394/0.jpg/600x600bb.jpg" width="60" /> | [Bō: Path of the Teal Lotus](https://ostdb.net/games/bo-path-of-the-teal-lotus) | **Bō: Path of the Teal Lotus (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/b%C5%8D-path-of-the-teal-lotus-original-game-soundtrack/1756886758?uo=4) · [Album](https://album.link/i/1756886758) |
 
+### C
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b8c7c61c19e54862a3023a65" width="60" /> | [Cairn](https://ostdb.net/games/cairn) | **Cairn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3goW8YLesdd64Jh2DBiWhw) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -156,4 +162,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_177 soundtracks · last updated 2026-08-25T13:51:57.030Z_
+_178 soundtracks · last updated 2026-08-25T13:52:00.992Z_
