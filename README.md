@@ -189,6 +189,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/c2/8b/0cc28bd5-dd5f-95c1-4540-5dc5439e4d8a/artwork.jpg/600x600bb.jpg" width="60" /> | [Code Violet](https://ostdb.net/games/code-violet) | **Code Violet (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4) · [Album](https://album.link/i/1866128877) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd25136985700afc78789434" width="60" /> | [Command & Conquer](https://ostdb.net/games/command-and-conquer) | **Command & Conquer (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0KcJLecyk7ZETfxI8Py1nB)<br>**Command & Conquer: The Ultimate Music Collection** · [Spotify](https://open.spotify.com/album/1PYoAEQ21UGMrcPiz5NW2c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273911a180041abfbd6ce99212b" width="60" /> | [Command & Conquer 3: Tiberium Wars](https://ostdb.net/games/command-and-conquer-3-tiberium-wars) | **Command & Conquer 3: Tiberium Wars (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2etzvydPfRqbAlwHk3NPv8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3e88e648ca6669d82ae2c9a" width="60" /> | [Command & Conquer: Red Alert](https://ostdb.net/games/command-and-conquer-red-alert) | **Command & Conquer: Red Alert (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/0PVfiTe7jFoMIcKr4yvkEk) |
 
 ### 0-9
 
@@ -201,4 +202,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_228 soundtracks · last updated 2026-08-25T14:06:17.963Z_
+_229 soundtracks · last updated 2026-08-25T14:06:22.396Z_
