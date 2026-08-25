@@ -611,6 +611,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f48e9f05b018b46139ba8dc" width="60" /> | [Metro: Last Light](https://ostdb.net/games/metro-last-light) | **Metro: Last Light (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/3vYh7KxXWpm9o7yjnmTS3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f48e9f05b018b46139ba8dc" width="60" /> | [Metro: Last Light Redux](https://ostdb.net/games/metro-last-light-redux) | **Metro: Last Light (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/3vYh7KxXWpm9o7yjnmTS3N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737675a15cc34b94365dca640e" width="60" /> | [Metroid Prime 4: Beyond](https://ostdb.net/games/metroid-prime-4-beyond) | **Metroid Prime 4: Beyond Piano Collection** · [Spotify](https://open.spotify.com/album/0PdBzJAZiHKQBTiYWbiJJy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27357bffd3f2850352fab58d15a" width="60" /> | [Metroid: Zero Mission](https://ostdb.net/games/metroid-zero-mission) | **Metroid Zero Mission: Iconic Themes** · [Spotify](https://open.spotify.com/album/4TQhtK4W4UX336NOi8Dzp6) |
 
 ### 0-9
 
@@ -623,4 +624,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_786 soundtracks · last updated 2026-08-25T16:27:16.092Z_
+_787 soundtracks · last updated 2026-08-25T16:30:48.893Z_
