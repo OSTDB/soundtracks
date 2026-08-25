@@ -494,6 +494,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737209ad2f466a356bce120417" width="60" /> | [Injustice 2](https://ostdb.net/games/injustice-2) | **Injustice 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/52XfICgltrHT1t8Mllytof) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a05ad97ad0dc641f55dfdfb" width="60" /> | [Inscryption](https://ostdb.net/games/inscryption) | **Inscryption (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6wwwfIpHTlrQpp62VUDWv3) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/95/c3/9c95c392-4b7a-54bc-e105-2e567444bb31/f5a4f4e7-d33a-4457-91ec-aad6a498de36.jpg/600x600bb.jpg" width="60" /> | [Insurgency: Sandstorm](https://ostdb.net/games/insurgency-sandstorm) | **Insurgency: Sandstorm (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1708391877?uo=4) · [Album](https://album.link/i/1708391877)<br>**Insurgency: Sandstorm (Original Video Game Soundtrack), Vol. II** · [Spotify](https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1783316406?uo=4) · [Album](https://album.link/i/1783316406) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273706d196a31a51dacea189378" width="60" /> | [Into the Breach](https://ostdb.net/games/into-the-breach) | **Into the Breach Soundtrack** · [Spotify](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) |
 
 ### 0-9
 
@@ -506,4 +507,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_648 soundtracks · last updated 2026-08-25T15:55:48.773Z_
+_649 soundtracks · last updated 2026-08-25T15:55:53.214Z_
