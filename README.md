@@ -840,6 +840,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731cf29a235d958a3cb7f40e5e" width="60" /> | [South of Midnight](https://ostdb.net/games/south-of-midnight) | **South of Midnight (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4qYOy49shZKUGUtjRhy1Lo) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/e6/e2/b6e6e2b3-0590-9b7d-e100-c004b42d58e9/5053760057918.png/600x600bb.jpg" width="60" /> | [Space Hulk: Deathwing](https://ostdb.net/games/space-hulk-deathwing) | **Space Hulk: Deathwing (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/space-hulk-deathwing-original-soundtrack/1745114592?uo=4) · [Album](https://album.link/i/1745114592) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273556009add0d1441d508cc405" width="60" /> | [Space Quest 6: The Spinal Frontier](https://ostdb.net/games/space-quest-6-the-spinal-frontier) | **Space Quest 6: The Spinal Frontier, Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2gIMa3729cW9t9jOe33FYs)<br>**Space Quest 6: The Spinal Frontier, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7GHDpte4gcBfEiKcpRUzpQ)<br>**Space Quest 6: The Spinal Frontier, Vol. 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/149y1ZwmwhuY6yffcXgIif)<br>**Space Quest 6: The Spinal Frontier, Vol. 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4gFW4Sgq28hVDMGDNx7I1c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391e0bc96d255c1e7237ca3c3" width="60" /> | [Space Quest II: Vohaul's Revenge](https://ostdb.net/games/space-quest-ii-vohauls-revenge) | **Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe) |
 
 ### 0-9
 
@@ -852,4 +853,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1081 soundtracks · last updated 2026-08-25T17:41:55.831Z_
+_1082 soundtracks · last updated 2026-08-25T17:42:00.354Z_
