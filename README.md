@@ -411,6 +411,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7d910e948d40b7acb9e6682" width="60" /> | [Grand Theft Auto IV](https://ostdb.net/games/grand-theft-auto-iv) | **Grand Theft Auto IV — The Theme Song Collection** · [Spotify](https://open.spotify.com/album/5R60iGPQs53iEs5EYnWwT7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737407cd059c32222e0a95c767" width="60" /> | [Grand Theft Auto IV: The Lost and Damned](https://ostdb.net/games/grand-theft-auto-iv-the-lost-and-damned) | **Grand Theft Auto IV: The Lost & Damned EP Special Edition** · [Spotify](https://open.spotify.com/album/6NfcpkdDYGSthARL5MZPbW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273707fe4c159f0384c613dc4d2" width="60" /> | [Grand Theft Auto V](https://ostdb.net/games/grand-theft-auto-v) | **The Music of Grand Theft Auto V, Vol. 1: Original Music** · [Spotify](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr)<br>**The Music of Grand Theft Auto V, Vol. 2: The Score** · [Spotify](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bdd081ed2b3594be6174df88" width="60" /> | [Grand Theft Auto V](https://ostdb.net/games/grand-theft-auto-v) | **The Music of Grand Theft Auto V, Vol. 2: The Score** · [Spotify](https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD) |
 
 ### 0-9
 
@@ -423,4 +424,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_538 soundtracks · last updated 2026-08-25T15:26:28.603Z_
+_539 soundtracks · last updated 2026-08-25T15:26:34.353Z_
