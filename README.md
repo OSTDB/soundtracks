@@ -99,6 +99,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4301b7609607cdbda99efa" width="60" /> | [Batman: Arkham Knight](https://ostdb.net/games/batman-arkham-knight) | **Batman: Arkham Knight, Vol. 1 (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/5BIfgnary4Wmqx6Bgs3iqb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fded328c6ba87b43251c5abb" width="60" /> | [Batman: Arkham Origins](https://ostdb.net/games/batman-arkham-origins) | **Batman: Arkham Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/3RYePrI25rEQ1iMIRA8B4n) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/38/7e/ac387e73-3304-0752-1161-f42cba505561/794043224256.jpg/600x600bb.jpg" width="60" /> | [Batman: Arkham Shadow](https://ostdb.net/games/batman-arkham-shadow) | **Batman: Arkham Shadow (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4) · [Album](https://album.link/i/1794869007) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b0cb3f2c1f62a6e51c1ad75f" width="60" /> | [Battlefield 1](https://ostdb.net/games/battlefield-1) | **Battlefield 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0vQW7tVDwoJHMSTqWmnaKC) |
 
 ### 0-9
 
@@ -111,4 +112,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_119 soundtracks · last updated 2026-08-25T13:36:54.719Z_
+_120 soundtracks · last updated 2026-08-25T13:36:58.440Z_
