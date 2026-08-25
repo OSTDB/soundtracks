@@ -214,6 +214,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 |---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/3d/98/513d9861-002b-3b8c-0513-afabfa76ddd9/4571374915482_cover.jpg/600x600bb.jpg" width="60" /> | [Daemon x Machina: Titanic Scion](https://ostdb.net/games/daemon-x-machina-titanic-scion) | **DAEMON X MACHINA Original Soundtrack** · [Spotify](https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4) · [Album](https://album.link/i/1479691576) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4c501cff74b4b43e3f146e9" width="60" /> | [Danganronpa 2: Goodbye Despair](https://ostdb.net/games/danganronpa-2-goodbye-despair) | **Danganronpa 2: Goodbye Despair Original Soundtrack** · [Spotify](https://open.spotify.com/album/5aZnHNph7U5FLfIO4ZCz3l) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/b4/9d/3fb49dc3-63ab-7736-c992-d327c93b0991/4580327260159_cover.jpg/600x600bb.jpg" width="60" /> | [Danganronpa V3: Killing Harmony](https://ostdb.net/games/danganronpa-v3-killing-harmony) | **ニューダンガンロンパV3 みんなのコロシアイ新学期 オリジナルサウンドトラック クロ** · [Spotify](https://music.apple.com/us/album/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91v3-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A4%E6%96%B0%E5%AD%A6%E6%9C%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%AF%E3%83%AD/1289072552?uo=4) · [Album](https://album.link/i/1289072552) |
 
 ### 0-9
 
@@ -226,4 +227,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_257 soundtracks · last updated 2026-08-25T14:11:57.369Z_
+_258 soundtracks · last updated 2026-08-25T14:12:01.415Z_
