@@ -50,7 +50,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/67/bf/ed67bf96-8b5f-a4eb-91af-cf8f0669dff9/artwork.jpg/600x600bb.jpg" width="60" /> | [Anger Foot](https://ostdb.net/games/anger-foot) | **Anger Foot (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4) · [Album](https://album.link/i/1755913370) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ea0b2e2cc94ed73dad7f62c" width="60" /> | [Aniimo](https://ostdb.net/games/aniimo) | **Shine Beyond the Sky ("Aniimo"The Game Awards Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcqhr2NN4TiVh2ydl8TP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0ea09074e6c0634b6f5e168" width="60" /> | [Anno 117: Pax Romana](https://ostdb.net/games/anno-117-pax-romana) | **Anno 117: Pax Romana (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0IMO2z0yWS7LNWWHq356Wu) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f83c7a47e9d6b1bb408c4dcf" width="60" /> | [Anno 1800](https://ostdb.net/games/anno-1800) | **Anno 1800 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Dvo7WKqOHr0UL5jhfIRPr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f83c7a47e9d6b1bb408c4dcf" width="60" /> | [Anno 1800](https://ostdb.net/games/anno-1800) | **Anno 1800 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Dvo7WKqOHr0UL5jhfIRPr)<br>**Anno 1800 – Post-Launch Compilation (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D) |
 
 ### 0-9
 
@@ -63,4 +63,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_46 soundtracks · last updated 2026-08-25T13:21:07.444Z_
+_47 soundtracks · last updated 2026-08-25T13:21:10.910Z_
