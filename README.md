@@ -205,7 +205,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/8e/8c/3e8e8ccb-6945-0370-fdf3-d598d2c7d98c/3663729441638_cover.jpg/1000x1000bb.jpg" width="60" /> | [Cthulhu: The Cosmic Abyss](https://ostdb.net/games/cthulhu-the-cosmic-abyss) | **Cthulhu The Cosmic Abyss (Original Soundtrack) [feat. Tina Guo]** · [Apple Music](https://music.apple.com/us/album/cthulhu-the-cosmic-abyss-original-soundtrack-feat-tina-guo/1894271902?uo=4) · [Album](https://album.link/i/1894271902) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305ded1194cfefa65af276a4e" width="60" /> | [Cuphead](https://ostdb.net/games/cuphead) | **Cuphead (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu)<br>**Cuphead - The Delicious Last Course (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/10o5BqeBBtoOIhpddPY76l) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/1d/6f/f81d6fef-6595-8b68-f752-6f30d40f26ae/198003998216.jpg/600x600bb.jpg" width="60" /> | [Cuphead: The Delicious Last Course](https://ostdb.net/games/cuphead-the-delicious-last-course) | **Cuphead - The Delicious Last Course (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4) · [Album](https://album.link/i/1632758089) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" /> | [Cyberpunk 2077](https://ostdb.net/games/cyberpunk-2077) | **Cyberpunk 2077 - Original Score** · [Spotify](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp)<br>**Cyberpunk 2077 - Original Score EP** · [Spotify](https://open.spotify.com/album/2GNFbKiwmvWQaOfYeRjDd4)<br>**Cyberpunk 2077: More Music from Night City Radio (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" /> | [Cyberpunk 2077](https://ostdb.net/games/cyberpunk-2077) | **Cyberpunk 2077 - Original Score** · [Spotify](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp)<br>**Cyberpunk 2077 - Original Score EP** · [Spotify](https://open.spotify.com/album/2GNFbKiwmvWQaOfYeRjDd4)<br>**Cyberpunk 2077: More Music from Night City Radio (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC)<br>**Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4IzV5XnSOvOBZ2z9WKsi3W) |
 
 ### 0-9
 
@@ -218,4 +218,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_249 soundtracks · last updated 2026-08-25T14:11:21.651Z_
+_250 soundtracks · last updated 2026-08-25T14:11:26.485Z_
