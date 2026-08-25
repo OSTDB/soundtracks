@@ -818,6 +818,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5544cb7421364721f760dad" width="60" /> | [Silent Hill 2](https://ostdb.net/games/silent-hill-2) | **SILENT HILL 2 ORIGINAL SOUNDTRACK -2024-** · [Spotify](https://open.spotify.com/album/41VcU0C6ZqUmPEgL9amcqw)<br>**SILENT HILL 2 ORIGINAL SOUNDTRACK -2024- Extra Edition** · [Spotify](https://open.spotify.com/album/5QrIOFDYaunR708DEYrcvu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734951c33c9c8273a0f0d2da22" width="60" /> | [Silent Hill 2](https://ostdb.net/games/silent-hill-2) | **SILENT HILL2 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/37SU6K9WOuYJ5VQQ3UmtKO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273832b77dc1cfccecad346457f" width="60" /> | [Silent Hill 3](https://ostdb.net/games/silent-hill-3) | **SILENT HILL3 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/7mUy29OoRRIqmm3XsBrdoV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273adfec9dc7988eb699cfb1590" width="60" /> | [Silent Hill 4: The Room](https://ostdb.net/games/silent-hill-4-the-room) | **SILENT HILL4 -THE ROOM- (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1WXlLnSpVnaFWQj0VdRgYT) |
 
 ### 0-9
 
@@ -830,4 +831,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1051 soundtracks · last updated 2026-08-25T17:36:09.316Z_
+_1052 soundtracks · last updated 2026-08-25T17:36:14.382Z_
