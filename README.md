@@ -174,6 +174,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bff93ea9999b57b00e143b5" width="60" /> | [Castlevania](https://ostdb.net/games/castlevania) | **Castlevania Original Soundtrack** · [Spotify](https://open.spotify.com/album/6JAnS1tfK3gHce4eLjnWOC) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8e/d2/3f8ed2cb-6e2f-515d-903d-bfa096fd0d48/artwork.jpg/600x600bb.jpg" width="60" /> | [Cat Quest III](https://ostdb.net/games/cat-quest-iii) | **Cat Quest III (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4) · [Album](https://album.link/i/1762343344) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039" width="60" /> | [Celeste](https://ostdb.net/games/celeste) | **Celeste (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf)<br>**Celeste B-Sides (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3lRqLudF94UtGUmTM2bjfd)<br>**Celeste: Farewell (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2AdTRKcovqwu73wltc4ufs) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/8d/6b/578d6b4d-5555-f1b0-3153-a8868cf68c61/artwork.jpg/1000x1000bb.jpg" width="60" /> | [Chasm](https://ostdb.net/games/chasm) | **Chasm (Original Sountrack)** · [Apple Music](https://music.apple.com/us/album/chasm-original-sountrack/1445715659?uo=4) · [Album](https://album.link/i/1445715659) |
 
 ### 0-9
 
@@ -186,4 +187,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_206 soundtracks · last updated 2026-08-25T14:01:09.956Z_
+_207 soundtracks · last updated 2026-08-25T14:01:14.459Z_
