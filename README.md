@@ -698,7 +698,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Revival](https://ostdb.net/games/persona-4-revival) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8329930b500b5603a4482a2" width="60" /> | [Persona 5](https://ostdb.net/games/persona-5) | **PERSONA5 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c8329930b500b5603a4482a2" width="60" /> | [Persona 5 Royal](https://ostdb.net/games/persona-5-royal) | **PERSONA5 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC)<br>**Persona 5 Royal: Original Soundtrack** · [Spotify](https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bb4fea50fe04007d41fbab37" width="60" /> | [Phantasy Star Online 2](https://ostdb.net/games/phantasy-star-online-2) | **PHANTASY STAR ONLINE2 Original Soundtracks (Vol. 1)** · [Spotify](https://open.spotify.com/album/5HOdHGs5a1XVjSjuadcMAv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb4fea50fe04007d41fbab37" width="60" /> | [Phantasy Star Online 2](https://ostdb.net/games/phantasy-star-online-2) | **PHANTASY STAR ONLINE2 Original Soundtracks (Vol. 1)** · [Spotify](https://open.spotify.com/album/5HOdHGs5a1XVjSjuadcMAv)<br>**PHANTASY STAR ONLINE2 Original Soundtracks (Vol. 2)** · [Spotify](https://open.spotify.com/album/5rzr06rnIejIXTAqZSmQNX) |
 
 ### 0-9
 
@@ -711,4 +711,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_905 soundtracks · last updated 2026-08-25T16:57:08.090Z_
+_906 soundtracks · last updated 2026-08-25T16:57:13.007Z_
