@@ -430,6 +430,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27334081de9218c5014fefa5ecc" width="60" /> | [Hades](https://ostdb.net/games/hades) | **Hades: Original Soundtrack** · [Spotify](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389ebad2a3639189d9ecd8ee4" width="60" /> | [Hades II](https://ostdb.net/games/hades-ii) | **Hades II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/57mGfvVFvAuGhzS1RlNzvm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/c5/66/eec566d5-a6a7-e651-c63b-336953ec693d/artwork.jpg/600x600bb.jpg" width="60" /> | [Hail to the Rainbow](https://ostdb.net/games/hail-to-the-rainbow) | **Hail to the Rainbow (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/hail-to-the-rainbow-original-game-soundtrack/1856182636?uo=4) · [Album](https://album.link/i/1856182636) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27348f8da348865f6b136265de3" width="60" /> | [Half Sword](https://ostdb.net/games/half-sword) | **Half Sword: Early Soundtrack** · [Spotify](https://open.spotify.com/album/7mhfwHnjvNcQznk4TcyP3i) |
 
 ### 0-9
 
@@ -442,4 +443,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_558 soundtracks · last updated 2026-08-25T15:31:37.042Z_
+_559 soundtracks · last updated 2026-08-25T15:31:41.677Z_
