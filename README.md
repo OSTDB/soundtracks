@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [0-9](#0-9)
 
 ### A
 
@@ -1068,6 +1068,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730f5e76d18b52c48a4ab1ccaa" width="60" /> | [Wuchang: Fallen Feathers](https://ostdb.net/games/wuchang-fallen-feathers) | **明末渊虚之羽 原声音乐 (WUCHANG: Fallen Feathers Soundtrack)** · [Spotify](https://open.spotify.com/album/2XgP8o6WfLLULebkCHxSNT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f8e00a3b2a515b1a8fa66bd" width="60" /> | [Wuthering Waves](https://ostdb.net/games/wuthering-waves) | **Against the Tide(Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5BbfFdELdZZbdUsvlc04GA)<br>**An Untitled Long Poem（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/6IoZ8KdcWyVTTvnmaHShA7)<br>**Catch Me If You Can (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FVBY8hpZv4jaJB5lkMAod)<br>**Dawn Breaks（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/3YOcMnih7puGbJrNJ4iAxV)<br>**Dawn over the Ruins（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/4QFupmK8bePrnf3viFwaZ6)<br>**Dreams of the Deep（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/1pm7u0ZMvqmavAMMYuT9Oc)<br>**Duplicitous Tower(Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5E29u0icwpLAwqyEaB381c)<br>**Running For Your Life（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/1iWbui6LG8VNuuzxnbQKIP)<br>**She Who Defies All Measures（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/7kawX1fNJSke2BQakrlILt)<br>**Sun Chaser's Path（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/0KDxNEnWLawyaU9JqmCgvL)<br>**There's No Moonlight This Night（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/736sI63GaGzHE9VP7Xenlv)<br>**To the New World** · [Spotify](https://open.spotify.com/album/2vloi9VrjJrlRWXJukpX9k)<br>**Unending Verses（Original Game Soundtrack）** · [Spotify](https://open.spotify.com/album/5NzHvDgdIaaipi1KlaYXbp) |
 
+### X
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2738fc6764dc9a866578bd683a3" width="60" /> | [XCOM 2](https://ostdb.net/games/xcom-2) | **XCOM 2 (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn) · [Apple Music](https://music.apple.com/us/album/xcom-2-original-soundtrack-from-the-video-game/1077916402) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1079,4 +1085,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1414 soundtracks · last updated 2026-08-25T19:06:25.525Z_
+_1415 soundtracks · last updated 2026-08-25T19:06:30.320Z_
