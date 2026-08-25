@@ -176,6 +176,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039" width="60" /> | [Celeste](https://ostdb.net/games/celeste) | **Celeste (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf)<br>**Celeste B-Sides (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3lRqLudF94UtGUmTM2bjfd)<br>**Celeste: Farewell (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2AdTRKcovqwu73wltc4ufs) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/8d/6b/578d6b4d-5555-f1b0-3153-a8868cf68c61/artwork.jpg/1000x1000bb.jpg" width="60" /> | [Chasm](https://ostdb.net/games/chasm) | **Chasm (Original Sountrack)** · [Apple Music](https://music.apple.com/us/album/chasm-original-sountrack/1445715659?uo=4) · [Album](https://album.link/i/1445715659) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/a5/3c/b3a53c64-6934-fc13-3c4d-c80bc9ad57cb/859752782418_cover.jpg/600x600bb.jpg" width="60" /> | [Chernobylite](https://ostdb.net/games/chernobylite) | **Chernobylite (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4) · [Album](https://album.link/i/1603631498) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738765e9ba233a6ff4345578ec" width="60" /> | [Child of Light](https://ostdb.net/games/child-of-light) | **Child of Light** · [Spotify](https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r) |
 
 ### 0-9
 
@@ -188,4 +189,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_208 soundtracks · last updated 2026-08-25T14:01:19.261Z_
+_209 soundtracks · last updated 2026-08-25T14:01:23.684Z_
