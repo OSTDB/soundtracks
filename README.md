@@ -848,7 +848,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/4c/1f/b54c1ff5-52bc-b023-11a0-ceb2176e82ce/197773773184_cover.jpg/600x600bb.jpg" width="60" /> | [Spyro Reignited Trilogy](https://ostdb.net/games/spyro-reignited-trilogy) | **Spyro Reignited Trilogy (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/spyro-reignited-trilogy-official-game-soundtrack/1702933759?uo=4) · [Album](https://album.link/i/1702933759) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a62985be1117d736f9502d" width="60" /> | [Spyro the Dragon](https://ostdb.net/games/spyro-the-dragon) | **Spyro the Dragon, The Themes** · [Spotify](https://open.spotify.com/album/0tPPzqU4UiNPgJMcoPfCnO) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/f3/ce/e4f3cebb-97c5-0652-3dff-c4499e54476b/0.jpg/1000x1000bb.jpg" width="60" /> | [Stage Fright](https://ostdb.net/games/stage-fright) | **Stage Fright (Original Game Soundtrack) - Single** · [Apple Music](https://music.apple.com/us/album/stage-fright-original-game-soundtrack-single/1761094077?uo=4) · [Album](https://album.link/i/1761094077) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273ecb8de93a9db91a5696ebe4b" width="60" /> | [Star Fox 64](https://ostdb.net/games/star-fox-64) | **Corneria (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/1OG1d1V7DojJ0qYiA0PDGv)<br>**Destinations Map (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/2ub6akTCnX3FRlur4BAHIS)<br>**Katina (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/538Yu8xVDKfqD7atFaYVcw)<br>**Meteo (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/3C4NvT4JafLWyqiougFFtX) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ecb8de93a9db91a5696ebe4b" width="60" /> | [Star Fox 64](https://ostdb.net/games/star-fox-64) | **Corneria (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/1OG1d1V7DojJ0qYiA0PDGv)<br>**Destinations Map (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/2ub6akTCnX3FRlur4BAHIS)<br>**Katina (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/538Yu8xVDKfqD7atFaYVcw)<br>**Meteo (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/3C4NvT4JafLWyqiougFFtX)<br>**Opening Theme (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/6AeoJyfQknt7afE8IMSEiE) |
 
 ### 0-9
 
@@ -861,4 +861,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1094 soundtracks · last updated 2026-08-25T17:46:38.898Z_
+_1095 soundtracks · last updated 2026-08-25T17:46:44.242Z_
