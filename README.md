@@ -933,6 +933,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27368e5e7cc9256ca8c0917a9dd" width="60" /> | [The Last of Us](https://ostdb.net/games/the-last-of-us) | **The Last of Us** · [Spotify](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27368e5e7cc9256ca8c0917a9dd" width="60" /> | [The Last of Us Part I](https://ostdb.net/games/the-last-of-us-part-i) | **The Last of Us** · [Spotify](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2b57bf3f59cdd9f8e326e86" width="60" /> | [The Last of Us Part II](https://ostdb.net/games/the-last-of-us-part-ii) | **The Last of Us Part II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b2b57bf3f59cdd9f8e326e86" width="60" /> | [The Last of Us Part II Remastered](https://ostdb.net/games/the-last-of-us-part-ii-remastered) | **The Last of Us Part II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) |
 
 ### 0-9
 
@@ -945,4 +946,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1221 soundtracks · last updated 2026-08-25T18:16:56.533Z_
+_1222 soundtracks · last updated 2026-08-25T18:17:00.766Z_
