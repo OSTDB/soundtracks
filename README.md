@@ -578,6 +578,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/7a/c1/967ac1ce-8eaf-5009-17f2-1e1423fba45b/25UM1IM98998.rgb.jpg/600x600bb.jpg" width="60" /> | [Marvel's Deadpool VR](https://ostdb.net/games/marvels-deadpool-vr) | **Marvel's Deadpool VR (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/marvels-deadpool-vr-original-video-game-soundtrack/1860107533?uo=4) · [Album](https://album.link/i/1860107533) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273316936e6affaad21c2656db7" width="60" /> | [Marvel's Guardians of the Galaxy](https://ostdb.net/games/marvels-guardians-of-the-galaxy) | **Marvel's Guardians of the Galaxy (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0TaMkvR6vwkzhk2Ie6EeLN)<br>**Marvel's Guardians of the Galaxy: Welcome to Knowhere (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4RBwaucGyX77MRF1hGjXd3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7" width="60" /> | [Marvel's Spider-Man](https://ostdb.net/games/marvels-spider-man) | **Marvel's Spider-Man (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735253b6f717df8be8ad98d5f1" width="60" /> | [Marvel's Spider-Man 2](https://ostdb.net/games/marvels-spider-man-2) | **Marvel's Spider-Man 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) |
 
 ### 0-9
 
@@ -590,4 +591,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_745 soundtracks · last updated 2026-08-25T16:17:08.831Z_
+_746 soundtracks · last updated 2026-08-25T16:17:13.386Z_
