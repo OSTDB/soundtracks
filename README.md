@@ -267,6 +267,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/56/89/875689fa-147e-07b6-b91f-55a14779205f/199999653103.png/600x600bb.jpg" width="60" /> | [Directive 8020](https://ostdb.net/games/directive-8020) | **The Dark Pictures Anthology: Directive 8020 (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/the-dark-pictures-anthology-directive-8020-original/6771017114?uo=4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ee8d315dabd024eedf1a82" width="60" /> | [Disco Elysium](https://ostdb.net/games/disco-elysium) | **Disco Elysium** · [Spotify](https://open.spotify.com/album/5IhBwGYrQotmDvfLcdIj8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346fc05cf410db939e4370606" width="60" /> | [Dishonored](https://ostdb.net/games/dishonored) | **Dishonored: Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/30LcobDusMVZc6mKgXNEH3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a097f7a40543aecb3fd6c5f6" width="60" /> | [Dishonored 2](https://ostdb.net/games/dishonored-2) | **Dishonored 2 (Deluxe Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4g7JIOhSJv3eYEzCCwIchi) |
 
 ### 0-9
 
@@ -279,4 +280,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_342 soundtracks · last updated 2026-08-25T14:35:53.113Z_
+_343 soundtracks · last updated 2026-08-25T14:35:56.979Z_
