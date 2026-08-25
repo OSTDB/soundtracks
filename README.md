@@ -968,6 +968,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher: Enhanced Edition](https://ostdb.net/games/the-witcher-enhanced-edition) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0edc9f63c99a1454a9f6d3" width="60" /> | [Thief](https://ostdb.net/games/thief) | **Thief (Original Soundtrack - Director's Cut)** · [Spotify](https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cff40156a150f6c73d345d7" width="60" /> | [This War of Mine](https://ostdb.net/games/this-war-of-mine) | **This War of Mine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/a0/46/5ca046b5-e6b0-eaa6-5c4a-e794904a7c59/artwork.jpg/600x600bb.jpg" width="60" /> | [Tiny Glade](https://ostdb.net/games/tiny-glade) | **Tiny Glade (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4) · [Album](https://album.link/i/1770531849) |
 
 ### 0-9
 
@@ -980,4 +981,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1263 soundtracks · last updated 2026-08-25T18:27:04.407Z_
+_1264 soundtracks · last updated 2026-08-25T18:27:09.469Z_
