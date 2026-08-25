@@ -620,6 +620,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/75/1f/61751fc1-82b0-1a63-b315-6134f04b5883/198009620401.png/600x600bb.jpg" width="60" /> | [Mineko's Night Market](https://ostdb.net/games/minekos-night-market) | **Mineko's Night Market (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/minekos-night-market-original-game-soundtrack/1736348740?uo=4) · [Album](https://album.link/i/1736348740) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273adacd2c69aabd53c50edd68a" width="60" /> | [Mio: Memories in Orbit](https://ostdb.net/games/mio-memories-in-orbit) | **MIO: Memories in Orbit (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5RyKJQMMiMQTjfW6lvTF3m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384ffaa884f1344f916f87299" width="60" /> | [Mirror's Edge](https://ostdb.net/games/mirrors-edge) | **Mirror's Edge (Original Videogame Score)** · [Spotify](https://open.spotify.com/album/07igNBjUqmgregGtDpnTNg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27377ee9e2be5e1ba80106cfe53" width="60" /> | [Mirror's Edge Catalyst](https://ostdb.net/games/mirrors-edge-catalyst) | **Mirror's Edge Catalyst (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/2wy9EzWP9NuyVt4TSCz3qs) |
 
 ### 0-9
 
@@ -632,4 +633,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_811 soundtracks · last updated 2026-08-25T16:36:07.029Z_
+_812 soundtracks · last updated 2026-08-25T16:36:11.537Z_
