@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [0-9](#0-9)
 
 ### A
 
@@ -682,6 +682,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52" width="60" /> | [Overwatch](https://ostdb.net/games/overwatch) | **Overwatch Collector's Edition Soundtrack** · [Spotify](https://open.spotify.com/album/73SENSYPOTAeBUy7LDvBtr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52" width="60" /> | [Overwatch](https://ostdb.net/games/overwatch) | **Overwatch Collector's Edition Soundtrack** · [Spotify](https://open.spotify.com/album/73SENSYPOTAeBUy7LDvBtr)<br>**Overwatch: Cities & Countries** · [Spotify](https://open.spotify.com/album/3fo9CAyeVMs9bRhuIduvHB)<br>**Overwatch: Heroes & Villains** · [Spotify](https://open.spotify.com/album/3KbOqTOg6jQ3PjPaT2con8) |
 
+### P
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273bcbb72c5c1fcc083a47a8925" width="60" /> | [PUBG: Battlegrounds](https://ostdb.net/games/pubg-battlegrounds) | **Thank you, 5urvivors (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6LWwIqfOPOJLxwhgwm8ECq) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -693,4 +699,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_884 soundtracks · last updated 2026-08-25T16:52:08.014Z_
+_885 soundtracks · last updated 2026-08-25T16:52:13.155Z_
