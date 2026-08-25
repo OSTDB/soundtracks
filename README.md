@@ -446,6 +446,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260" width="60" /> | [Halo: Combat Evolved](https://ostdb.net/games/halo-combat-evolved) | **Halo: Combat Evolved (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736026e2faf75794b222e8c0e2" width="60" /> | [Halo: Reach](https://ostdb.net/games/halo-reach) | **Halo: Reach (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6uUz4LzAehf8ZzWhZzoIc1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e" width="60" /> | [Halo: The Master Chief Collection](https://ostdb.net/games/halo-the-master-chief-collection) | **Halo 2, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/29K85ghxBzcQHPNPX6QVld)<br>**Halo 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5X4MhnXjrQ0zQIBW8a4ivf)<br>**Halo 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7utu5zCUpUhmh0kbPsku7N)<br>**Halo 4: Forward Unto Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5QaiPJKkEujdDDAE4zx3Zm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737111a362ba32266ae5b738f4" width="60" /> | [Harold Halibut](https://ostdb.net/games/harold-halibut) | **Harold Halibut (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KlL7ddeIkQ8wqHvqubURS) |
 
 ### 0-9
 
@@ -458,4 +459,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_584 soundtracks · last updated 2026-08-25T15:36:54.623Z_
+_585 soundtracks · last updated 2026-08-25T15:36:58.694Z_
