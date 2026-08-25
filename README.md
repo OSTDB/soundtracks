@@ -523,6 +523,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27333e0e068c7cf9bb9805815bf" width="60" /> | [Kingdom Come: Deliverance](https://ostdb.net/games/kingdom-come-deliverance) | **Kingdom Come: Deliverance (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317138be0fd62144b040c2d9b" width="60" /> | [Kingdom Come: Deliverance II](https://ostdb.net/games/kingdom-come-deliverance-ii) | **Kingdom Come: Deliverance II (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/5vKkv2K1xaCByhz04JaiQn)<br>**Music of Pubs & Baths (Kingdom Come: Deliverance II Extended Soundtrack)** · [Spotify](https://open.spotify.com/album/6yQJ9PlkrZLaL3jPi02nq9)<br>**Music of Trosky (Kingdom Come: Deliverance II Extended Soundtrack)** · [Spotify](https://open.spotify.com/album/7JcqD03gIdkbZFkdZNW7oW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a5a249912d0d3573aaa264f" width="60" /> | [Kingdom Hearts III](https://ostdb.net/games/kingdom-hearts-iii) | **KINGDOM HEARTS - III, II.8, Unchained χ & Union χ [Cross] – (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/cb/56/5ccb5636-2883-2131-f3ef-2cbf5f2c8954/artwork.jpg/600x600bb.jpg" width="60" /> | [Kingdoms of Amalur: Re-Reckoning](https://ostdb.net/games/kingdoms-of-amalur-re-reckoning) | **Kingdoms of Amalur: Reckoning (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625?uo=4) · [Album](https://album.link/i/1484888625) |
 
 ### 0-9
 
@@ -535,4 +536,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_674 soundtracks · last updated 2026-08-25T16:01:18.898Z_
+_675 soundtracks · last updated 2026-08-25T16:01:22.699Z_
