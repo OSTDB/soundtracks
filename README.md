@@ -155,6 +155,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f28d6b7edf68c40dec23bd" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 1) | [Spotify](https://open.spotify.com/album/7n72bbR6BZjcK4UrUkEr72) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f822d0a263232ffa64d8bcdc" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 2) | [Spotify](https://open.spotify.com/album/72kpBnT3p5VDc3MukvnG9C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273287a0ebdc63a6985051678b1" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 3) | [Spotify](https://open.spotify.com/album/6v3RvJ9WhM3qnDkCv1Gr9i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac8b790c9992511c39b4d9a2" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 4) | [Spotify](https://open.spotify.com/album/48O82ARzlDY7DOxHPJZ7YL) |
 
 ### 0-9
 
@@ -171,4 +172,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_140 soundtracks · last updated 2026-08-25T07:11:04.670Z_
+_141 soundtracks · last updated 2026-08-25T07:15:28.689Z_
