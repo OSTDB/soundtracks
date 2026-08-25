@@ -882,6 +882,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f88548922a8a837046148789" width="60" /> | [Super Mario 3D Land](https://ostdb.net/games/super-mario-3d-land) | **Super Mario 3D Land, The Themes** · [Spotify](https://open.spotify.com/album/6yEX4lbfm1gSYXeSt6rYxF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d768f68ef75bb33647a7597a" width="60" /> | [Super Mario 3D World](https://ostdb.net/games/super-mario-3d-world) | **Super Mario 3D World - Covers** · [Spotify](https://open.spotify.com/album/3m1wKJh2NEOzm6L4M4iLJu)<br>**Super Mario 3D World - Covers, Pt. 2** · [Spotify](https://open.spotify.com/album/2HlGQzkTK599eW2HXBGcRy)<br>**Super Mario 3D World - Piano Covers** · [Spotify](https://open.spotify.com/album/08YIoqdWkIs1HWVSeiPh5c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731134e6b97732064715dd8029" width="60" /> | [Super Mario Sunshine](https://ostdb.net/games/super-mario-sunshine) | **Super Mario Sunshine, Iconic Themes** · [Spotify](https://open.spotify.com/album/7gEz7Nz4vWrA1iCXKKjdMI)<br>**Super Mario Sunshine: Iconic Themes, Vol. 2** · [Spotify](https://open.spotify.com/album/5LvyFBNsFGml16qpa1hyHI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734655a98284f1ab6841c6a474" width="60" /> | [Super Meat Boy](https://ostdb.net/games/super-meat-boy) | **Super Meat Boy! - Official Special Edition Soundtrack** · [Spotify](https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN) |
 
 ### 0-9
 
@@ -894,4 +895,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1139 soundtracks · last updated 2026-08-25T17:56:47.619Z_
+_1140 soundtracks · last updated 2026-08-25T17:56:54.484Z_
