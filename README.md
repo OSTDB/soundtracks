@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [0-9](#0-9)
+[A](#a) · [B](#b) · [0-9](#0-9)
 
 ### A
 
@@ -85,6 +85,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/98/5c/23985c2d-7493-9aa2-9690-140897703b99/780163649727.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/avatar-frontiers-of-pandora) | **Avatar: Frontiers of Pandora (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-original-game-soundtrack/1716963311?uo=4) · [Album](https://album.link/i/1716963311)<br>**Avatar: Frontiers of Pandora - From the Ashes (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-from-the-ashes-original/1860022847?uo=4) · [Album](https://album.link/i/1860022847)<br>**Avatar: Frontiers of Pandora - Secrets of the Spires (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4) · [Album](https://album.link/i/1778719367) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a83d5a189b3249fe0fe189b3" width="60" /> | [Avowed](https://ostdb.net/games/avowed) | **Avowed (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/51t8gJnpvhIJuuQjmFs1v3) |
 
+### B
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/5d/06/ff5d06e1-f8ab-c580-5cb4-45394ff834fb/SQEX-10925-1_3000x3000.jpg/600x600bb.jpg" width="60" /> | [Babylon's Fall](https://ostdb.net/games/babylons-fall) | **BABYLON'S FALL ORIGINAL SOUNDTRACK** · [Spotify](https://music.apple.com/us/album/babylons-fall-original-soundtrack/1610985916?uo=4) · [Album](https://album.link/i/1610985916) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -96,4 +102,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_107 soundtracks · last updated 2026-08-25T13:36:11.929Z_
+_108 soundtracks · last updated 2026-08-25T13:36:15.329Z_
