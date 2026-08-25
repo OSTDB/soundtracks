@@ -157,6 +157,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe86a199ac452042a531bf5e" width="60" /> | [Call of Duty: Black Ops 7](https://ostdb.net/games/call-of-duty-black-ops-7) | **Call of Duty®: Black Ops 7 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/39QVPHCfcdePV1RB2KFy13) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" /> | [Call of Duty: Black Ops II](https://ostdb.net/games/call-of-duty-black-ops-ii) | **Call of Duty Black Ops II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Ktys9SYMY2DeqyhGLzQBn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c62e46fa22df6cbafaaf123" width="60" /> | [Call of Duty: Black Ops III](https://ostdb.net/games/call-of-duty-black-ops-iii) | **Call of Duty: Black Ops III (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4AaHaHi12etrGsJA22bHIz) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27360ec894609c6328a965cb3ea" width="60" /> | [Call of Duty: Ghosts](https://ostdb.net/games/call-of-duty-ghosts) | **Call of Duty: Ghosts (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/466DK5sv0ncvQgyDSV69pL) |
 
 ### 0-9
 
@@ -169,4 +170,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_185 soundtracks · last updated 2026-08-25T13:56:08.714Z_
+_186 soundtracks · last updated 2026-08-25T13:56:13.412Z_
