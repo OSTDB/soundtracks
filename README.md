@@ -748,6 +748,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/5e/d1/7b5ed17c-aa5e-6f66-c0b5-9a6b47362dc2/093155176201_cover.jpg/600x600bb.jpg" width="60" /> | [Redfall](https://ostdb.net/games/redfall) | **Redfall: Original Game Soundtrack** · [Spotify](https://music.apple.com/us/album/redfall-original-game-soundtrack/1683192350?uo=4) · [Album](https://album.link/i/1683192350) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/41/3c/bd413cb9-57f0-020f-b489-f680ae1005aa/artwork.jpg/600x600bb.jpg" width="60" /> | [Relooted](https://ostdb.net/games/relooted) | **Relooted (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/relooted-original-soundtrack/1862636303?uo=4) · [Album](https://album.link/i/1862636303) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735151b2f9071c2bfc5cabeb2a" width="60" /> | [Rematch](https://ostdb.net/games/rematch) | **Rematch (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2PvHVzU982Xh9yet8vjDgy)<br>**Rematch - Season 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0yOSAFXVeUg4cJ4atxpC3m)<br>**Rematch - Season 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3UDUjGxRdW1Pvue81IvLlF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d4943032ae2f885baa50313f" width="60" /> | [Remember Me](https://ostdb.net/games/remember-me) | **Remember Me (feat. Philharmonia Orchestra) [Original Soundtrack]** · [Spotify](https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ) |
 
 ### 0-9
 
@@ -760,4 +761,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_966 soundtracks · last updated 2026-08-25T17:12:09.827Z_
+_967 soundtracks · last updated 2026-08-25T17:15:48.281Z_
