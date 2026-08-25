@@ -164,6 +164,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273dcfd9151d08d8b2d57162c17" width="60" /> | [Call of Duty: Modern Warfare 2](https://ostdb.net/games/call-of-duty-modern-warfare-2) | **Call of Duty: Modern Warfare 2 (Original Game Score)** · [Spotify](https://open.spotify.com/album/6MLrVz0HyVkRUd9jnhagKc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312948f906db09c7cebdc58c3" width="60" /> | [Call of Duty: Modern Warfare 3](https://ostdb.net/games/call-of-duty-modern-warfare-3) | **Call of Duty: Modern Warfare 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7kUZkoeJ3Fl47y4PPCbp3Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992ad8ffefc03006f08cc3f8" width="60" /> | [Call of Duty: Modern Warfare II](https://ostdb.net/games/call-of-duty-modern-warfare-ii) | **Call of Duty®: Modern Warfare II (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4eUfjPGaHBA3AuR3gGdct0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cf98725f005820d3d26fcf5f" width="60" /> | [Call of Duty: Modern Warfare III](https://ostdb.net/games/call-of-duty-modern-warfare-iii) | **Call of Duty®: Modern Warfare III (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ckWCNAs9yTEdoEq6LVYZX) |
 
 ### 0-9
 
@@ -176,4 +177,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_193 soundtracks · last updated 2026-08-25T13:56:40.014Z_
+_194 soundtracks · last updated 2026-08-25T13:56:43.687Z_
