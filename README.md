@@ -71,6 +71,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2731d582a27bf16b563991487cd" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/194558) | Give Me Something (for Arknights Endfield) | [Spotify](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734d670e69af92ea9759c4f022" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/194558) | Rossi Arknights:Endfield Wolf | [Spotify](https://open.spotify.com/album/5cQR6qQE68akfMqkxlRmAN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d90fed680b8c2f70d458e3c" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/194558) | Welcome to Endfield Industries (ARKNIGHTS:ENDFIELD) | [Spotify](https://open.spotify.com/album/1zrHuNbd6pF2x9GMfwIvFR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ea6604b612adde6f00d8af04" width="60" /> | [Ashen](https://ostdb.net/games/17001) | Ashen (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) |
 
 ### 0-9
 
@@ -87,4 +88,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_61 soundtracks · last updated 2026-08-25T06:55:29.056Z_
+_62 soundtracks · last updated 2026-08-25T06:55:31.041Z_
