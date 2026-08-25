@@ -52,6 +52,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec30cc09171e890a275e52ab" width="60" /> | [Amnesia: The Dark Descent](https://ostdb.net/games/111) | Amnesia: The Dark Descent (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/0cQnMgWqL2mpuEiQ4cYJx0) · [Apple Music](https://music.apple.com/us/album/amnesia-the-dark-descent-original-game-soundtrack/1501860159) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d123957361ad3c05a693181d" width="60" /> | [Among Us](https://ostdb.net/games/111469) | Among Us Theme | [Spotify](https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/09/e9/9d09e990-345f-bc12-ee18-63989406cde1/859740936007_cover.jpg/600x600bb.jpg" width="60" /> | [Ancestors: The Humankind Odyssey](https://ostdb.net/games/10032) | Ancestors: The Humankind Odyssey (Official Soundtrack) | [Spotify](https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4) · [Album](https://album.link/i/1527723283) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/67/bf/ed67bf96-8b5f-a4eb-91af-cf8f0669dff9/artwork.jpg/600x600bb.jpg" width="60" /> | [Anger Foot](https://ostdb.net/games/147184) | Anger Foot (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4) · [Album](https://album.link/i/1755913370) |
 
 ### 0-9
 
@@ -68,4 +69,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_42 soundtracks · last updated 2026-08-25T06:50:31.830Z_
+_43 soundtracks · last updated 2026-08-25T06:50:34.050Z_
