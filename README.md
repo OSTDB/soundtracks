@@ -63,6 +63,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273298bcfa5e07904af0f967e34" width="60" /> | [Assassin's Creed](https://ostdb.net/games/assassins-creed) | **Assassin's Creed (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4PPrQHip0EOfO3tqgDgwZ8) |
 | <img src="https://images.igdb.com/igdb/image/upload/t_1080p/cobyue.jpg" width="60" /> | [Assassin's Creed Black Flag Resynced](https://ostdb.net/games/assassins-creed-black-flag-resynced) | **Leave Her Johnny (Woodkid Resynced)** · [Spotify](https://open.spotify.com/album/6DXor4YOfWZCsfoHDMwEpH) · [Apple Music](https://music.apple.com/us/album/leave-her-johnny-woodkid-resynced-single/6771741159) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b25f472dbe302bb5c3bd2592" width="60" /> | [Assassin's Creed Brotherhood](https://ostdb.net/games/assassins-creed-brotherhood) | **Assassin's Creed Brotherhood (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1qvTY6mcUNAzP9BCABiMIe) · [Apple Music](https://music.apple.com/us/album/assassins-creed-brotherhood-original-game-soundtrack/1640078747) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/assassins-creed-ii) | **Assassin's Creed 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 
 ### 0-9
 
@@ -75,4 +76,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_65 soundtracks · last updated 2026-08-25T13:26:02.162Z_
+_66 soundtracks · last updated 2026-08-25T13:26:05.712Z_
