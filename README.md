@@ -772,6 +772,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/a5/1d/eea51d79-a1b5-871b-e7c3-0919f4bf9e19/859720963214_cover.jpg/600x600bb.jpg" width="60" /> | [RiME](https://ostdb.net/games/rime) | **RiME (Deluxe Soundtrack)** · [Spotify](https://music.apple.com/us/album/rime-deluxe-soundtrack/1236238983?uo=4) · [Album](https://album.link/i/1236238983) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/81/b2/2781b2df-d0cc-b5bc-4b38-37fdc496cb2e/3663729173232_cover.jpg/600x600bb.jpg" width="60" /> | [Riders Republic](https://ostdb.net/games/riders-republic) | **Riders Republic (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/riders-republic-original-game-soundtrack/1590373590?uo=4) · [Album](https://album.link/i/1590373590) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab8cc13b3f0191f2f74431b8" width="60" /> | [RimWorld](https://ostdb.net/games/rimworld) | **RimWorld** · [Spotify](https://open.spotify.com/album/4tDKGO2yOjukbFIvbW54mG)<br>**RimWorld 1.1** · [Spotify](https://open.spotify.com/album/0Z650ZWvTgUC7aYl2AfJE5)<br>**RimWorld 1.3** · [Spotify](https://open.spotify.com/album/7gYmgm8jcbal1eIycURTww)<br>**RimWorld 1.4** · [Spotify](https://open.spotify.com/album/1lZPexU4X8os0ukTLl3lGl)<br>**RimWorld 1.5** · [Spotify](https://open.spotify.com/album/21c4EskBkL8LfAeZoBNZuy)<br>**RimWorld 1.6** · [Spotify](https://open.spotify.com/album/4XD5meq4RCUSeXnoCleoZv)<br>**RimWorld 1.7** · [Spotify](https://open.spotify.com/album/1h7zhp08ylhoNxvymYSRW8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1bb0d55d140898c6337175a" width="60" /> | [Rise of the Ronin](https://ostdb.net/games/rise-of-the-ronin) | **Rise of the Ronin (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1lRnUh6zSBos3gPEFBTOBA) |
 
 ### 0-9
 
@@ -784,4 +785,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1001 soundtracks · last updated 2026-08-25T17:21:54.552Z_
+_1002 soundtracks · last updated 2026-08-25T17:21:59.085Z_
