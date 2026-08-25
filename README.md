@@ -160,6 +160,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd542f427477ea8fb242d4e8" width="60" /> | [Bayonetta 3](https://ostdb.net/games/76888) | BAYONETTA 3 ORIGINAL SOUNDTRACK | [Spotify](https://open.spotify.com/album/1211sU3w0IhoCHuyAXMQqn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5af0e90266198d87ba6f4e3" width="60" /> | [Below](https://ostdb.net/games/3231) | Below (Original Soundtrack) | [Spotify](https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33f191570b327c989976220" width="60" /> | [Beyond Good & Evil](https://ostdb.net/games/1341) | Beyond Good and Evil 20th Anniversary (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1VHWvVa7DVTR6igxCVHP3l) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27338e52f5d4343995653376218" width="60" /> | [Beyond: Two Souls](https://ostdb.net/games/1342) | Beyond: Two Souls (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR) |
 
 ### 0-9
 
@@ -176,4 +177,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_145 soundtracks · last updated 2026-08-25T07:15:36.243Z_
+_146 soundtracks · last updated 2026-08-25T07:15:38.089Z_
