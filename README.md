@@ -775,6 +775,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1bb0d55d140898c6337175a" width="60" /> | [Rise of the Ronin](https://ostdb.net/games/rise-of-the-ronin) | **Rise of the Ronin (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1lRnUh6zSBos3gPEFBTOBA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f309603516ae0698ebbbf244" width="60" /> | [Rise of the Tomb Raider](https://ostdb.net/games/rise-of-the-tomb-raider) | **Rise of the Tomb Raider (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5wRvkOWkIYe7YhyAvUABN9) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/ef/9a/74/mzi.ewaxdwhf.jpg/600x600bb.jpg" width="60" /> | [Riven](https://ostdb.net/games/riven) | **Riven - The Soundtrack** · [Spotify](https://music.apple.com/us/album/riven-the-soundtrack/319255281?uo=4) · [Album](https://album.link/i/319255281) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/6b/b3/276bb3f8-3dee-d5f7-5a9a-797fd571750f/4059251120094.jpg/600x600bb.jpg" width="60" /> | [Robinson: The Journey](https://ostdb.net/games/robinson-the-journey) | **Robinson: The Journey (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4) · [Album](https://album.link/i/1746292612) |
 
 ### 0-9
 
@@ -787,4 +788,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1004 soundtracks · last updated 2026-08-25T17:22:07.800Z_
+_1005 soundtracks · last updated 2026-08-25T17:22:12.288Z_
