@@ -923,6 +923,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273bbd54b6904a458f8912bff7f" width="60" /> | [The Elder Scrolls V: Skyrim - Special Edition](https://ostdb.net/games/the-elder-scrolls-v-skyrim-special-edition) | **The Elder Scrolls V: Skyrim (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2tl723oVsgonNLqJRBwQg5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a40b45e619f65d0082f03d48" width="60" /> | [The Elder Scrolls: Blades](https://ostdb.net/games/the-elder-scrolls-blades) | **The Elder Scrolls Blades (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5mZZ07PWIsF1qpyz8HIeLX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273107b21ec016eedb6cbe9ebd9" width="60" /> | [The Evil Within](https://ostdb.net/games/the-evil-within) | **The Evil Within: Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2msJRcxYx2PWANNSoF0vGr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c773a459c0461c40b83ed52" width="60" /> | [The Evil Within 2](https://ostdb.net/games/the-evil-within-2) | **The Evil Within 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4j0WNXyaoIOstnw3nWqUAe) |
 
 ### 0-9
 
@@ -935,4 +936,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1200 soundtracks · last updated 2026-08-25T18:11:58.046Z_
+_1201 soundtracks · last updated 2026-08-25T18:12:03.218Z_
