@@ -382,6 +382,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27392dcfa62bdf573bdde3573cf" width="60" /> | [Gears of War 2](https://ostdb.net/games/gears-of-war-2) | **Gears of War 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/204DKUbxUavxA3oJSglXcC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c521d8196d3fd73858232d3" width="60" /> | [Gears of War 3](https://ostdb.net/games/gears-of-war-3) | **Gears of War 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5VsPDKDVgDMqQAo227VnvA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325a67dfd0bb2e7146a5c9c7a" width="60" /> | [Gears of War 4](https://ostdb.net/games/gears-of-war-4) | **Gears of War 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6w8Vd1h9utHK0DvBWbBV0C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ca06ad5fb2f892ad2b8f1444" width="60" /> | [Genshin Impact](https://ostdb.net/games/genshin-impact) | **Genshin Impact - Blazing Heart (Mavuika's Character Trailer Song)** · [Spotify](https://open.spotify.com/album/6DnItmT5fmEApgbGMWYa2X) |
 
 ### 0-9
 
@@ -394,4 +395,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_485 soundtracks · last updated 2026-08-25T15:11:17.863Z_
+_486 soundtracks · last updated 2026-08-25T15:11:22.551Z_
