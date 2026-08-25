@@ -432,7 +432,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/c5/66/eec566d5-a6a7-e651-c63b-336953ec693d/artwork.jpg/600x600bb.jpg" width="60" /> | [Hail to the Rainbow](https://ostdb.net/games/hail-to-the-rainbow) | **Hail to the Rainbow (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/hail-to-the-rainbow-original-game-soundtrack/1856182636?uo=4) · [Album](https://album.link/i/1856182636) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348f8da348865f6b136265de3" width="60" /> | [Half Sword](https://ostdb.net/games/half-sword) | **Half Sword: Early Soundtrack** · [Spotify](https://open.spotify.com/album/7mhfwHnjvNcQznk4TcyP3i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd5a39ff214061217fdbbded" width="60" /> | [Half-Life](https://ostdb.net/games/half-life) | **Half-Life (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1SeR1UIwutdeFZw2zLsLl8) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273d75eb6fcaabaf5e780ffc4db" width="60" /> | [Half-Life 2](https://ostdb.net/games/half-life-2) | **Half-Life 2** · [Spotify](https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d75eb6fcaabaf5e780ffc4db" width="60" /> | [Half-Life 2](https://ostdb.net/games/half-life-2) | **Half-Life 2** · [Spotify](https://open.spotify.com/album/2V0wi4SuioFjmpMu9u60bg)<br>**Half-Life 2 Episode 1** · [Spotify](https://open.spotify.com/album/4enwecElYfZVyXOe16rPHt) |
 
 ### 0-9
 
@@ -445,4 +445,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_561 soundtracks · last updated 2026-08-25T15:31:49.653Z_
+_562 soundtracks · last updated 2026-08-25T15:31:53.679Z_
