@@ -459,6 +459,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27354931c2d81a2e56ec6bda69a" width="60" /> | [Heroes of the Storm](https://ostdb.net/games/heroes-of-the-storm) | **Heroes of the Storm (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77EgoQoBR4KyoYoqYt079E)<br>**Heroes of the Storm (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/heroes-of-the-storm-original-soundtrack/1815478441?uo=4) · [Album](https://album.link/i/1815478441) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fd/22/74/fd22745d-b339-08d3-e85c-6f762ebb9cc2/197368023939_cover.jpg/600x600bb.jpg" width="60" /> | [High on Life](https://ostdb.net/games/high-on-life) | **High on Life, Vol. 1 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/high-on-life-vol-1-original-soundtrack/1665729766?uo=4) · [Album](https://album.link/i/1665729766) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739201d4cd9ca005a06f8619e4" width="60" /> | [High on Life 2](https://ostdb.net/games/high-on-life-2) | **High on Life 2 (Original Game Soundtrack) Vol. 1** · [Spotify](https://open.spotify.com/album/4sfR0S7DYNbSefE9l7H5IF)<br>**High on Life 2 (Original Game Soundtrack) Vol. 2** · [Spotify](https://open.spotify.com/album/0GGLdh7z23hXXF4OGxxXLG) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/10/bb/db10bbfb-6ccc-d666-98dc-3a89074c6b3a/artwork.jpg/600x600bb.jpg" width="60" /> | [Highguard](https://ostdb.net/games/highguard) | **The Call of Wardens (HIGHGUARD Original Soundtrack Original Soundtrack) [English Version] - Single** · [Spotify](https://music.apple.com/us/album/the-call-of-wardens-highguard-original/1873364312?uo=4) · [Album](https://album.link/i/1873364312) |
 
 ### 0-9
 
@@ -471,4 +472,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_603 soundtracks · last updated 2026-08-25T15:41:59.219Z_
+_604 soundtracks · last updated 2026-08-25T15:42:03.588Z_
