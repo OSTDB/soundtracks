@@ -161,6 +161,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5af0e90266198d87ba6f4e3" width="60" /> | [Below](https://ostdb.net/games/3231) | Below (Original Soundtrack) | [Spotify](https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33f191570b327c989976220" width="60" /> | [Beyond Good & Evil](https://ostdb.net/games/1341) | Beyond Good and Evil 20th Anniversary (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1VHWvVa7DVTR6igxCVHP3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338e52f5d4343995653376218" width="60" /> | [Beyond: Two Souls](https://ostdb.net/games/1342) | Beyond: Two Souls (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a8097948a01da4e3b6e27283" width="60" /> | [BioShock 2](https://ostdb.net/games/21) | Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game | [Spotify](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) |
 
 ### 0-9
 
@@ -177,4 +178,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_146 soundtracks · last updated 2026-08-25T07:15:38.089Z_
+_147 soundtracks · last updated 2026-08-25T07:15:39.995Z_
