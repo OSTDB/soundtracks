@@ -644,7 +644,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7e0bba4db02119848e44e7" width="60" /> | [Need for Speed: The Run](https://ostdb.net/games/need-for-speed-the-run) | **Need for Speed: The Run** · [Spotify](https://open.spotify.com/album/5UZkKCQFxHhvCKTOIlwhDm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cd59c9f067b296fc69e65b73" width="60" /> | [Need for Speed: Undercover](https://ostdb.net/games/need-for-speed-undercover) | **Need for Speed: Undercover (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/64YpBQd84gpKlQwt19I9GY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dee0d149e8df588a72a345" width="60" /> | [Need for Speed: Underground](https://ostdb.net/games/need-for-speed-underground) | **Need for Speed: Underground (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2739266f739b7199250e3121029" width="60" /> | [Neva](https://ostdb.net/games/neva) | **Neva (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6NLJwYiAKI6I16CBQy5pqP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739266f739b7199250e3121029" width="60" /> | [Neva](https://ostdb.net/games/neva) | **Neva (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6NLJwYiAKI6I16CBQy5pqP)<br>**Neva Prologue (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0aEaJETzc0QMN0gzqmulUa) |
 
 ### 0-9
 
@@ -657,4 +657,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_840 soundtracks · last updated 2026-08-25T16:41:45.676Z_
+_841 soundtracks · last updated 2026-08-25T16:41:50.608Z_
