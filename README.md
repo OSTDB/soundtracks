@@ -312,6 +312,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a22122dde8f636cc21cad3b5" width="60" /> | [Elden Ring: Shadow of the Erdtree](https://ostdb.net/games/elden-ring-shadow-of-the-erdtree) | **ELDEN RING SHADOW OF THE ERDTREE ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/6ucsCXHRL0OXnAM51V8Cb9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fc558424d48e34e35b90e32" width="60" /> | [Empire Earth](https://ostdb.net/games/empire-earth) | **Empire Earth I (Soundtrack)** · [Spotify](https://open.spotify.com/album/7MpwpMpuyB8GCwJf6b2H3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c439b993db66b84b2e13c874" width="60" /> | [Empire: Total War](https://ostdb.net/games/empire-total-war) | **Total War: Empire (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/7wz81TdNzkRAoh5whQvQki) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/19/2c/90192ccd-81a4-844b-8a4a-1d526ac06daf/artwork.jpg/600x600bb.jpg" width="60" /> | [Enigma of Fear](https://ostdb.net/games/enigma-of-fear) | **Enigma of Fear (Original Sound Track Volume 1)** · [Spotify](https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-1/1786149436?uo=4) · [Album](https://album.link/i/1786149436) |
 
 ### 0-9
 
@@ -324,4 +325,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_395 soundtracks · last updated 2026-08-25T14:46:50.527Z_
+_396 soundtracks · last updated 2026-08-25T14:46:54.382Z_
