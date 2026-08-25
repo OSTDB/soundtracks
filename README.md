@@ -953,7 +953,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27335b061ddb14b44a1a8fdffad" width="60" /> | [The Sims](https://ostdb.net/games/the-sims) | **The Sims (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46" width="60" /> | [The Sims 2](https://ostdb.net/games/the-sims-2) | **The Sims 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12" width="60" /> | [The Sims 3](https://ostdb.net/games/the-sims-3) | **The Sims 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735ec8b11d58c6650cc3dff10f" width="60" /> | [The Sims 4](https://ostdb.net/games/the-sims-4) | **The Sims 4** · [Spotify](https://open.spotify.com/album/1EPkfmIAZtQdYuieEgaDud) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735ec8b11d58c6650cc3dff10f" width="60" /> | [The Sims 4](https://ostdb.net/games/the-sims-4) | **The Sims 4** · [Spotify](https://open.spotify.com/album/1EPkfmIAZtQdYuieEgaDud)<br>**The Sims 4, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64) |
 
 ### 0-9
 
@@ -966,4 +966,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1245 soundtracks · last updated 2026-08-25T18:22:13.995Z_
+_1246 soundtracks · last updated 2026-08-25T18:22:18.495Z_
