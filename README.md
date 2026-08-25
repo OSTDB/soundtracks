@@ -80,6 +80,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b27309b5a361d82bb471d9d38c07" width="60" /> | [Assassin's Creed III](https://ostdb.net/games/1266) | Assassin's Creed 3 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c6d155c7dc4f59e7d61f5859" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/8a/b4/258ab476-9abc-92a2-3299-5c81974a84a2/3663729217523_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack] | [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4) · [Album](https://album.link/i/1640100747) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/6b/29/3c6b290c-e86e-f97d-e85c-41716b4c097d/3663729217554_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack] | [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-vol/1640088677?uo=4) · [Album](https://album.link/i/1640088677) |
 
 ### 0-9
 
@@ -96,4 +97,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_70 soundtracks · last updated 2026-08-25T06:55:46.051Z_
+_71 soundtracks · last updated 2026-08-25T06:55:47.907Z_
