@@ -648,7 +648,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/44/eb/3044eb49-1db8-4ab6-8f4c-288801a4a65c/8721465515763.png/600x600bb.jpg" width="60" /> | [Neva: Prologue](https://ostdb.net/games/neva-prologue) | **Neva Prologue (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4) · [Album](https://album.link/i/1873035980) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d7cf2ff2ac125759fcc9d07" width="60" /> | [New Super Mario Bros. Wii](https://ostdb.net/games/new-super-mario-bros-wii) | **New Super Mario Bros. Wii, The Themes** · [Spotify](https://open.spotify.com/album/0tvzCGYNyMuo51gf4Ck1DZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732481a8b29f98c95101e3a12c" width="60" /> | [New World: Aeternum](https://ostdb.net/games/new-world-aeternum) | **New World: Aeternum (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3Nt9XtDZCJmzzG4BDsyI59) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f4/f7/6f/f4f76f01-200e-d3f3-fa9d-e92f4d519a51/XELJR20544.jpg/1000x1000bb.jpg" width="60" /> | [Ni no Kuni II: Revenant Kingdom](https://ostdb.net/games/ni-no-kuni-ii-revenant-kingdom) | **Evermore Theme (From "Ni No Kuni 2: Revenant Kingdom") [Piano Version] - Single** · [Apple Music](https://music.apple.com/us/album/evermore-theme-from-ni-no-kuni-2-revenant-kingdom-piano/1516575204?uo=4) · [Album](https://album.link/i/1516575204) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f4/f7/6f/f4f76f01-200e-d3f3-fa9d-e92f4d519a51/XELJR20544.jpg/1000x1000bb.jpg" width="60" /> | [Ni no Kuni II: Revenant Kingdom](https://ostdb.net/games/ni-no-kuni-ii-revenant-kingdom) | **Evermore Theme (From "Ni No Kuni 2: Revenant Kingdom") [Piano Version] - Single** · [Apple Music](https://music.apple.com/us/album/evermore-theme-from-ni-no-kuni-2-revenant-kingdom-piano/1516575204?uo=4) · [Album](https://album.link/i/1516575204)<br>**二ノ国II レヴァナントキングダム オリジナルサウンドトラック** · [Apple Music](https://music.apple.com/us/album/%E4%BA%8C%E3%83%8E%E5%9B%BDii-%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%8A%E3%83%B3%E3%83%88%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1388245426?uo=4) · [Album](https://album.link/i/1388245426) |
 
 ### 0-9
 
@@ -661,4 +661,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_845 soundtracks · last updated 2026-08-25T16:42:09.133Z_
+_846 soundtracks · last updated 2026-08-25T16:42:14.230Z_
