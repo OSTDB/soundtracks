@@ -887,6 +887,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d00bd1a575bebede546037b" width="60" /> | [Superliminal](https://ostdb.net/games/superliminal) | **Superliminal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731dd8bb66949fccf8f527a3e2" width="60" /> | [Sword of the Sea](https://ostdb.net/games/sword-of-the-sea) | **Sword of the Sea (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/4taiq7ZXGV00KOMROWIIMO) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/76/90/f8769027-e3ae-07ce-5e75-214a7691c804/197208333013_cover.jpg/600x600bb.jpg" width="60" /> | [Syberia 3](https://ostdb.net/games/syberia-3) | **Syberia 3 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/syberia-3-original-game-soundtrack/1867243966?uo=4) · [Album](https://album.link/i/1867243966) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28133721cc1fc141205e67" width="60" /> | [System Shock](https://ostdb.net/games/system-shock) | **System Shock (Remastered) [Original Video Game Soundtrack]** · [Spotify](https://open.spotify.com/album/3nhrXH7EKXwDdC381DjD3n) |
 
 ### 0-9
 
@@ -899,4 +900,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1144 soundtracks · last updated 2026-08-25T17:57:16.119Z_
+_1145 soundtracks · last updated 2026-08-25T17:57:26.049Z_
