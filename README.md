@@ -31,6 +31,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/a5/15/2ea51568-ea33-4ae7-6332-569d2780b476/f61387df-996e-4be6-af92-906db461fac6.jpg/600x600bb.jpg" width="60" /> | [Absolver](https://ostdb.net/games/19333) | Absolver | [Spotify](https://music.apple.com/us/album/absolver/1281122592?uo=4) · [Album](https://album.link/i/1281122592) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a99366b985121f2f60b749d" width="60" /> | [Abzu](https://ostdb.net/games/7352) | Abzu | [Spotify](https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs) · [Apple Music](https://music.apple.com/us/album/abzu/1138476050) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/28/2c/94282c4c-a4f5-4cd0-9eb3-7a21d2af39e5/PA00134026_0_180021_jacket.jpg/600x600bb.jpg" width="60" /> | [Ace Combat 7: Skies Unknown](https://ostdb.net/games/14758) | ACE COMBAT 7: Skies Unknown (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4) · [Album](https://album.link/i/1724893711) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27323e3eaf5ae420dd755f310c2" width="60" /> | [Ace Combat: Assault Horizon](https://ostdb.net/games/531) | ACE COMBAT ASSAULT HORIZON Original Soundtrack | [Spotify](https://open.spotify.com/album/5VQHio0GwQxH4Zs7U7jJwm) |
 
 ### 0-9
 
@@ -47,4 +48,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_21 soundtracks · last updated 2026-08-25T06:44:22.920Z_
+_22 soundtracks · last updated 2026-08-25T06:44:25.415Z_
