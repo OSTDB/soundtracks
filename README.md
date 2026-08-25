@@ -141,6 +141,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736433ac168f12282fd029710e" width="60" /> | [Brothers: A Tale of Two Sons](https://ostdb.net/games/brothers-a-tale-of-two-sons) | **Brothers: A Tale of Two Sons Remake (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/70GKsHcGolG4rvXOgwoeG9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273853476634097535220798db9" width="60" /> | [Brütal Legend](https://ostdb.net/games/brutal-legend) | **Brutal Legend Original Soundtrack** · [Spotify](https://open.spotify.com/album/2GzGAZj81x56d6Jsvyukre) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/c6/2c/13c62c32-bcce-6522-556f-8d6174362327/artwork.jpg/600x600bb.jpg" width="60" /> | [Bubsy 4D](https://ostdb.net/games/bubsy-4d) | **Bubsy 4D (Main Theme) - Single** · [Spotify](https://music.apple.com/us/album/bubsy-4d-main-theme-single/1843871745?uo=4) · [Album](https://album.link/i/1843871745) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb21645e44080ffc9df788c8" width="60" /> | [Bully](https://ostdb.net/games/bully) | **Bully (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6FRWV9d4hXU15UkH6rGpcS) |
 
 ### 0-9
 
@@ -153,4 +154,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_174 soundtracks · last updated 2026-08-25T13:51:45.531Z_
+_175 soundtracks · last updated 2026-08-25T13:51:49.555Z_
