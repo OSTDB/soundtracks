@@ -976,6 +976,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27323af14953accb8483d6e3fd1" width="60" /> | [Tom Clancy's Splinter Cell: Conviction](https://ostdb.net/games/tom-clancys-splinter-cell-conviction) | **Tom Clancy's Splinter Cell Conviction (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5QwO3vHUx9DvFPywMXV8nG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a31e84d5a0392408031c3864" width="60" /> | [Tom Clancy's The Division](https://ostdb.net/games/tom-clancys-the-division) | **Tom Clancy's The Division (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5cIdK8l3v0B1jdtWlsvwS2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397492f3e156c08d5c785dbf5" width="60" /> | [Tom Clancy's The Division 2](https://ostdb.net/games/tom-clancys-the-division-2) | **Tom Clancy's the Division 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3R5k4e56SgjFyi2H9XrAJk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737678962264bc2a62cca543e0" width="60" /> | [Tomb Raider](https://ostdb.net/games/tomb-raider) | **Tomb Raider (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN) |
 
 ### 0-9
 
@@ -988,4 +989,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1272 soundtracks · last updated 2026-08-25T18:31:14.834Z_
+_1273 soundtracks · last updated 2026-08-25T18:31:21.482Z_
