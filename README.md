@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [0-9](#0-9)
 
 ### A
 
@@ -723,6 +723,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c370b4de93e3d6475be6ccc" width="60" /> | [Psychonauts](https://ostdb.net/games/psychonauts) | **Psychonauts Original Soundtrack** · [Spotify](https://open.spotify.com/album/2F32Xg7gK6iGyqU17Ifijm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b247a08c1e46cf0cc02a7a85" width="60" /> | [Psychonauts 2](https://ostdb.net/games/psychonauts-2) | **Psychonauts 2 (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/3frLr5zs6LqAAermJwJea1)<br>**Psychonauts 2 (Original Soundtrack), Vol. 2** · [Spotify](https://open.spotify.com/album/2VBMfsXNU21uZkJjgRu8cM)<br>**Psychonauts 2 (Original Soundtrack), Vol. 3** · [Spotify](https://open.spotify.com/album/6ZtimESqKrMunc60ME5DlX) |
 
+### Q
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737353c718565116bca7b4380d" width="60" /> | [Quantum Break](https://ostdb.net/games/quantum-break) | **Quantum Break - Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -734,4 +740,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_940 soundtracks · last updated 2026-08-25T17:06:52.072Z_
+_941 soundtracks · last updated 2026-08-25T17:06:58.735Z_
