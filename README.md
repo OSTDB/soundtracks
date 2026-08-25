@@ -171,6 +171,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/f0/9f/b9f09f0c-83df-d25d-ae70-57d45ffd020d/199806233368.jpg/600x600bb.jpg" width="60" /> | [Carmageddon: Rogue Shift](https://ostdb.net/games/carmageddon-rogue-shift) | **Carmageddon: Rogue Shift (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/carmageddon-rogue-shift-original-game-soundtrack/1849313072?uo=4) · [Album](https://album.link/i/1849313072) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/65/43/9e6543b7-f4a3-e919-b5d5-05ecea599b21/811576033565.png/600x600bb.jpg" width="60" /> | [Carrion](https://ostdb.net/games/carrion) | **Carrion (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/carrion-original-game-soundtrack/1524271050?uo=4) · [Album](https://album.link/i/1524271050) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731edca0ce125c53b5a103611a" width="60" /> | [Castle Crashers](https://ostdb.net/games/castle-crashers) | **Castle Crashers Themes** · [Spotify](https://open.spotify.com/album/3vt3TNtonZPc8us4MABj4o) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738bff93ea9999b57b00e143b5" width="60" /> | [Castlevania](https://ostdb.net/games/castlevania) | **Castlevania Original Soundtrack** · [Spotify](https://open.spotify.com/album/6JAnS1tfK3gHce4eLjnWOC) |
 
 ### 0-9
 
@@ -183,4 +184,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_201 soundtracks · last updated 2026-08-25T14:00:48.471Z_
+_202 soundtracks · last updated 2026-08-25T14:00:52.901Z_
