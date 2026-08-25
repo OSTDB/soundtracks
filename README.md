@@ -48,6 +48,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d123957361ad3c05a693181d" width="60" /> | [Among Us](https://ostdb.net/games/among-us) | **Among Us Theme** · [Spotify](https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/09/e9/9d09e990-345f-bc12-ee18-63989406cde1/859740936007_cover.jpg/600x600bb.jpg" width="60" /> | [Ancestors: The Humankind Odyssey](https://ostdb.net/games/ancestors-the-humankind-odyssey) | **Ancestors: The Humankind Odyssey (Official Soundtrack)** · [Spotify](https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4) · [Album](https://album.link/i/1527723283) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/67/bf/ed67bf96-8b5f-a4eb-91af-cf8f0669dff9/artwork.jpg/600x600bb.jpg" width="60" /> | [Anger Foot](https://ostdb.net/games/anger-foot) | **Anger Foot (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4) · [Album](https://album.link/i/1755913370) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739ea0b2e2cc94ed73dad7f62c" width="60" /> | [Aniimo](https://ostdb.net/games/aniimo) | **Shine Beyond the Sky ("Aniimo"The Game Awards Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcqhr2NN4TiVh2ydl8TP2) |
 
 ### 0-9
 
@@ -60,4 +61,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_43 soundtracks · last updated 2026-08-25T13:20:56.532Z_
+_44 soundtracks · last updated 2026-08-25T13:21:00.001Z_
