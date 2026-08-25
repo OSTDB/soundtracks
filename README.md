@@ -46,6 +46,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27361372a875ec8c254f6046870" width="60" /> | [Amnesia: A Machine for Pigs](https://ostdb.net/games/amnesia-a-machine-for-pigs) | **Amnesia: A Machine for Pigs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/13A78JSddJrfblPkMdXND2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec30cc09171e890a275e52ab" width="60" /> | [Amnesia: The Dark Descent](https://ostdb.net/games/amnesia-the-dark-descent) | **Amnesia: The Dark Descent (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0cQnMgWqL2mpuEiQ4cYJx0) · [Apple Music](https://music.apple.com/us/album/amnesia-the-dark-descent-original-game-soundtrack/1501860159) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d123957361ad3c05a693181d" width="60" /> | [Among Us](https://ostdb.net/games/among-us) | **Among Us Theme** · [Spotify](https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/09/e9/9d09e990-345f-bc12-ee18-63989406cde1/859740936007_cover.jpg/600x600bb.jpg" width="60" /> | [Ancestors: The Humankind Odyssey](https://ostdb.net/games/ancestors-the-humankind-odyssey) | **Ancestors: The Humankind Odyssey (Official Soundtrack)** · [Spotify](https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4) · [Album](https://album.link/i/1527723283) |
 
 ### 0-9
 
@@ -58,4 +59,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_41 soundtracks · last updated 2026-08-25T13:20:48.824Z_
+_42 soundtracks · last updated 2026-08-25T13:20:52.772Z_
