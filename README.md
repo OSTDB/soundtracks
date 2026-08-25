@@ -716,6 +716,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2dc789478798d967adfa12" width="60" /> | [Prince of Persia](https://ostdb.net/games/prince-of-persia) | **Prince of Persia Trilogy (Original Game Soundtracks)** · [Spotify](https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346a3fea088a2fc38d9d6fdc6" width="60" /> | [Prince of Persia: The Forgotten Sands](https://ostdb.net/games/prince-of-persia-the-forgotten-sands) | **Prince of Persia: The Forgotten Sands (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3hNLjKxhFmzR2V0XloauhA) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f6/03/94/f6039418-ecc8-f8cf-dc05-5da3b2d0f0d2/889845222378.jpg/600x600bb.jpg" width="60" /> | [Project CARS](https://ostdb.net/games/project-cars) | **Project CARS (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/project-cars-original-soundtrack/1008677481?uo=4) · [Album](https://album.link/i/1008677481) |
 
 ### 0-9
 
@@ -728,4 +729,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_932 soundtracks · last updated 2026-08-25T17:06:12.629Z_
+_933 soundtracks · last updated 2026-08-25T17:06:17.117Z_
