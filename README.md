@@ -457,6 +457,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/65/cd/6765cdd5-6621-1bc4-79be-587fc2f01375/cover_4062851182560.jpg/1000x1000bb.jpg" width="60" /> | [Herdling](https://ostdb.net/games/herdling) | **Herdling** · [Apple Music](https://music.apple.com/us/album/herdling/1831208279?uo=4) · [Album](https://album.link/i/1831208279)<br>**Herdling - Single** · [Apple Music](https://music.apple.com/us/album/herdling-single/1830995667?uo=4) · [Album](https://album.link/i/1830995667) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d83e3608294add3b3ed22191" width="60" /> | [Heroes of Might and Magic III: The Restoration of Erathia](https://ostdb.net/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia) | **Main Theme (From Heroes of Might and Magic 3)** · [Spotify](https://open.spotify.com/album/03ZjOH6fuy2yPYPMY3yQxM) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27354931c2d81a2e56ec6bda69a" width="60" /> | [Heroes of the Storm](https://ostdb.net/games/heroes-of-the-storm) | **Heroes of the Storm (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77EgoQoBR4KyoYoqYt079E)<br>**Heroes of the Storm (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/heroes-of-the-storm-original-soundtrack/1815478441?uo=4) · [Album](https://album.link/i/1815478441) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fd/22/74/fd22745d-b339-08d3-e85c-6f762ebb9cc2/197368023939_cover.jpg/600x600bb.jpg" width="60" /> | [High on Life](https://ostdb.net/games/high-on-life) | **High on Life, Vol. 1 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/high-on-life-vol-1-original-soundtrack/1665729766?uo=4) · [Album](https://album.link/i/1665729766) |
 
 ### 0-9
 
@@ -469,4 +470,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_600 soundtracks · last updated 2026-08-25T15:41:45.372Z_
+_601 soundtracks · last updated 2026-08-25T15:41:49.276Z_
