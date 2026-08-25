@@ -166,6 +166,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273992ad8ffefc03006f08cc3f8" width="60" /> | [Call of Duty: Modern Warfare II](https://ostdb.net/games/call-of-duty-modern-warfare-ii) | **Call of Duty®: Modern Warfare II (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4eUfjPGaHBA3AuR3gGdct0) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf98725f005820d3d26fcf5f" width="60" /> | [Call of Duty: Modern Warfare III](https://ostdb.net/games/call-of-duty-modern-warfare-iii) | **Call of Duty®: Modern Warfare III (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ckWCNAs9yTEdoEq6LVYZX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273706e2b6feecdc1b45d16508a" width="60" /> | [Call of Duty: WWII](https://ostdb.net/games/call-of-duty-wwii) | **Call of Duty®: WWII (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5az6WU4HzWivrLCxdgAY7s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27380e64c6b02ff48df0361b484" width="60" /> | [Candy Crush Saga](https://ostdb.net/games/candy-crush-saga) | **Candy Crush Saga (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2bzzpQlbIeuGrXlkyW12ex) |
 
 ### 0-9
 
@@ -178,4 +179,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_195 soundtracks · last updated 2026-08-25T13:56:48.253Z_
+_196 soundtracks · last updated 2026-08-25T13:56:52.509Z_
