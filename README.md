@@ -835,6 +835,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f47a2edf009c94a50002051" width="60" /> | [Sonic Forces](https://ostdb.net/games/sonic-forces) | **Sonic Forces Original Soundtrack A Hero Will Rise** · [Spotify](https://open.spotify.com/album/1Ht999BUq7ENW64QwYbugA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0146f1b7ffeb0a6d66bf31a" width="60" /> | [Sonic Generations](https://ostdb.net/games/sonic-generations) | **SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.1)** · [Spotify](https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn)<br>**SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.2)** · [Spotify](https://open.spotify.com/album/0FJAQqlAUqF45cicXfuZpw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a7a8fc35f4dc366e948e2b02" width="60" /> | [Sonic Mania](https://ostdb.net/games/sonic-mania) | **Sonic Mania Original Sound Track (Selected Edition)** · [Spotify](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5)<br>**Sonic Mania Remixed** · [Spotify](https://open.spotify.com/album/3mMmasSVKlms5xBrShauPh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e16d9395265f79b335c58903" width="60" /> | [Sonic Racing: CrossWorlds](https://ostdb.net/games/sonic-racing-crossworlds) | **Sonic Racing - Cross the Worlds -** · [Spotify](https://open.spotify.com/album/2TWtSepQgXZNizaOO1lnsT) |
 
 ### 0-9
 
@@ -847,4 +848,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1071 soundtracks · last updated 2026-08-25T17:41:09.200Z_
+_1072 soundtracks · last updated 2026-08-25T17:41:13.223Z_
