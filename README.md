@@ -703,6 +703,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273486983be2d3af3d6d09d20d4" width="60" /> | [Plants vs. Zombies](https://ostdb.net/games/plants-vs-zombies) | **Plants Vs. Zombies (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2362558f7ad4958afc0bba2" width="60" /> | [Pokémon HeartGold Version](https://ostdb.net/games/pokemon-heartgold-version) | **Pokémon HeartGold, SoulSilver: Iconic Themes** · [Spotify](https://open.spotify.com/album/6bVKXTToP5bUlXgZ5VodxV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dc24bedcfef42844fcb07b6f" width="60" /> | [Pokémon Ultra Sun](https://ostdb.net/games/pokemon-ultra-sun) | **Pokémon Ultra Sun & Ultra Moon, Alola (Original Game Score)** · [Spotify](https://open.spotify.com/album/5WEHZUjHRx0Ny7rd8h9WpG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273709c244c5135d67174c5dea4" width="60" /> | [Pokémon X](https://ostdb.net/games/pokemon-x) | **Pokémon X : Ten Years Of Pokémon (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6JFJzQffuXf7wxKgXEjeRK) |
 
 ### 0-9
 
@@ -715,4 +716,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_911 soundtracks · last updated 2026-08-25T17:01:05.399Z_
+_912 soundtracks · last updated 2026-08-25T17:01:10.757Z_
