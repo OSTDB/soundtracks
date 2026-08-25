@@ -1006,6 +1006,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/33/56/d13356e3-56a5-a29c-1c3b-9571def71617/PA00186263_0_222614_jacket.jpg/600x600bb.jpg" width="60" /> | [Unicorn Overlord](https://ostdb.net/games/unicorn-overlord) | **Unicorn Overlord Orchestral Album ~Atlus X Vanillaware Works~** · [Spotify](https://music.apple.com/us/album/unicorn-overlord-orchestral-album-atlus-x-vanillaware/1815406178?uo=4) · [Album](https://album.link/i/1815406178)<br>**ユニコーンオーバーロード オリジナル・サウンドトラック** · [Spotify](https://music.apple.com/us/album/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1729313125?uo=4) · [Album](https://album.link/i/1729313125) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63510450bc728123634e44e" width="60" /> | [Unknown 9: Awakening](https://ostdb.net/games/unknown-9-awakening) | **Unknown 9: Awakening (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/15TWz4YSHmhrGI7F8kAVlB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7b6d05ea5a1ed8c279a641" width="60" /> | [Unravel](https://ostdb.net/games/unravel) | **Unravel (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3TjU2yKwySPgoS0JhsGckG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27308545d392c5081860c3fe32e" width="60" /> | [Until Dawn](https://ostdb.net/games/until-dawn) | **Until Dawn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5kNixndCUgxDLsGem0IgDJ) |
 
 ### 0-9
 
@@ -1018,4 +1019,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1303 soundtracks · last updated 2026-08-25T18:37:05.541Z_
+_1304 soundtracks · last updated 2026-08-25T18:37:10.245Z_
