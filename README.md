@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [0-9](#0-9)
 
 ### A
 
@@ -299,6 +299,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273115eaf86a8a5e219eca21511" width="60" /> | [Dying Light: The Beast](https://ostdb.net/games/dying-light-the-beast) | **Dying Light: The Beast (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4lFhlh9HpI8hed0HFsF3Ki) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/86/cc/4b86ccff-8cf5-c164-7da2-0fb99e1f27c5/PA00213657_1_240787_jacket.jpg/600x600bb.jpg" width="60" /> | [Dynasty Warriors: Origins](https://ostdb.net/games/dynasty-warriors-origins) | **Dynasty Warriors: Origins + Visions of Four Heroes (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/dynasty-warriors-origins-visions-of-four-heroes/1880302431?uo=4) · [Album](https://album.link/i/1880302431) |
 
+### E
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2737640e831a90a37478dd25231" width="60" /> | [Eastward](https://ostdb.net/games/eastward) | **Eastward (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zS310jZ6ZSimY2npbzJg4) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -310,4 +316,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_381 soundtracks · last updated 2026-08-25T14:45:48.830Z_
+_382 soundtracks · last updated 2026-08-25T14:45:52.787Z_
