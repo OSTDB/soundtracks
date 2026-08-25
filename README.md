@@ -354,6 +354,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a656ce42c32110de3dc13fd" width="60" /> | [Final Fantasy XI: Rise of the Zilart](https://ostdb.net/games/final-fantasy-xi-rise-of-the-zilart) | **FINAL FANTASY XI - Rise of the Zilart Original Soundtrack** · [Spotify](https://open.spotify.com/album/1pZpdilFPjiP34Ywazlvrg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c25b6793a30041e304d22d3b" width="60" /> | [Final Fantasy XI: Treasures of Aht Urhgan](https://ostdb.net/games/final-fantasy-xi-treasures-of-aht-urhgan) | **FINAL FANTASY XI-Treasures of Aht Urhgan(Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1bmWiaWlY8G1dM4FzvJtRh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388af15ab0a8c93b97515fc8f" width="60" /> | [Final Fantasy XII](https://ostdb.net/games/final-fantasy-xii) | **FINAL FANTASY XII Original Soundtrack** · [Spotify](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ab0de0ee1b4099ae9f3daf95" width="60" /> | [Final Fantasy XIII](https://ostdb.net/games/final-fantasy-xiii) | **FINAL FANTASY XIII Original Soundtrack** · [Spotify](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) |
 
 ### 0-9
 
@@ -366,4 +367,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_444 soundtracks · last updated 2026-08-25T15:01:00.841Z_
+_445 soundtracks · last updated 2026-08-25T15:01:04.791Z_
