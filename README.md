@@ -557,6 +557,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27374aa62a8cc77ced19f957b15" width="60" /> | [Lost Records: Bloom & Rage](https://ostdb.net/games/lost-records-bloom-and-rage) | **Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1** · [Spotify](https://open.spotify.com/album/1GR7EZWxuukQBvIHzFNoMB)<br>**Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1 & Tape 2** · [Spotify](https://open.spotify.com/album/6Sp1bcggdbLYtSML5Qrxyy) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/81/31/0881318e-268d-526c-c1f4-3aa30d44b862/artwork.jpg/600x600bb.jpg" width="60" /> | [Lost in Random: The Eternal Die](https://ostdb.net/games/lost-in-random-the-eternal-die) | **Lost in Random: The Eternal Die Official Soundtrack** · [Spotify](https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4) · [Album](https://album.link/i/1820923645) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/ff/db/ceffdb19-59ee-6e45-14fc-87f9e30bd638/859731455272_cover.jpg/600x600bb.jpg" width="60" /> | [Lumines Arise](https://ostdb.net/games/lumines-arise) | **Lumines Arise (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4) · [Album](https://album.link/i/1877399644) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/b3/77/b6b3778c-51ac-773b-5f2a-7f80ee8282d6/artwork.jpg/600x600bb.jpg" width="60" /> | [Luto](https://ostdb.net/games/luto) | **Luto (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/luto-original-soundtrack/1871913613?uo=4) · [Album](https://album.link/i/1871913613) |
 
 ### 0-9
 
@@ -569,4 +570,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_724 soundtracks · last updated 2026-08-25T16:12:07.667Z_
+_725 soundtracks · last updated 2026-08-25T16:12:12.213Z_
