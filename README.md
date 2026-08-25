@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [0-9](#0-9)
 
 ### A
 
@@ -323,6 +323,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/58/1f/99581f3c-8e40-58c1-b866-61b3356ca4e5/cover.jpg/600x600bb.jpg" width="60" /> | [Evil Genius 2: World Domination](https://ostdb.net/games/evil-genius-2-world-domination) | **Evil Genius 2: World Domination** · [Spotify](https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4) · [Album](https://album.link/i/1635588885) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/4f/10/764f1049-7a4b-170d-4c94-ba6783f69e44/5059806675030_cover.jpg/1000x1000bb.jpg" width="60" /> | [ExeKiller](https://ostdb.net/games/exekiller) | **I Am Exekiller (Original Game Soundtrack) - Single** · [Apple Music](https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4) · [Album](https://album.link/i/1598151208) |
 
+### F
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273771656be2fd0cc9c38fee74c" width="60" /> | [FTL: Faster Than Light](https://ostdb.net/games/ftl-faster-than-light) | **Ftl: Faster Than Light - Original Soundtrack** · [Spotify](https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -334,4 +340,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_408 soundtracks · last updated 2026-08-25T14:51:20.175Z_
+_409 soundtracks · last updated 2026-08-25T14:51:24.485Z_
