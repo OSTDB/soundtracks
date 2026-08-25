@@ -261,6 +261,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27355512ce314fa718d6649af4a" width="60" /> | [Diablo II](https://ostdb.net/games/diablo-ii) | **Diablo II Original Soundtrack** · [Spotify](https://open.spotify.com/album/6ni2P4G5YLJ689WDGyjTGn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355512ce314fa718d6649af4a" width="60" /> | [Diablo II: Lord of Destruction](https://ostdb.net/games/diablo-ii-lord-of-destruction) | **Diablo II Original Soundtrack** · [Spotify](https://open.spotify.com/album/6ni2P4G5YLJ689WDGyjTGn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f514f95fdded6ed885779e8" width="60" /> | [Diablo III](https://ostdb.net/games/diablo-iii) | **Diablo III Soundtrack** · [Spotify](https://open.spotify.com/album/3YEM8A1jRMEeGoqXPmOGHJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273becdb2c55037d6f27279b842" width="60" /> | [Diablo III: Reaper of Souls](https://ostdb.net/games/diablo-iii-reaper-of-souls) | **Diablo III Reaper of Souls Soundtrack** · [Spotify](https://open.spotify.com/album/0EHjKn2gwEpVF3aIkaBaIc) |
 
 ### 0-9
 
@@ -273,4 +274,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_335 soundtracks · last updated 2026-08-25T14:31:54.328Z_
+_336 soundtracks · last updated 2026-08-25T14:31:58.680Z_
