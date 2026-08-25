@@ -930,6 +930,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/25/3d/cf253db7-4df5-6dfb-7fa7-a9b42962f869/artwork.jpg/600x600bb.jpg" width="60" /> | [The Forever Winter](https://ostdb.net/games/the-forever-winter) | **The Forever Winter (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4) · [Album](https://album.link/i/1770372804) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/64/34/986434fa-4a12-6e25-5e55-bd6c987dcc61/4534530163110.jpg/600x600bb.jpg" width="60" /> | [The Hundred Line: Last Defense Academy](https://ostdb.net/games/the-hundred-line-last-defense-academy) | **HUNDRED LINE -最終防衛学園- Original Soundtrack** · [Spotify](https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4) · [Album](https://album.link/i/1868934594) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ae9fb33690240670a04643b3" width="60" /> | [The Last Guardian](https://ostdb.net/games/the-last-guardian) | **The Last Guardian Soundtrack (Composer's Choice Edition)** · [Spotify](https://open.spotify.com/album/0NY4XVz9uX7a1q6sPgdI4j)<br>**The Last Guardian Soundtrack (Japan Deluxe Edition)** · [Spotify](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo)<br>**「The Last Guardian」ORIGINAL SOUNDTRACK (2023 Remaster)** · [Spotify](https://open.spotify.com/album/5HQiXqJIddrZGsLpb4C7M1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27368e5e7cc9256ca8c0917a9dd" width="60" /> | [The Last of Us](https://ostdb.net/games/the-last-of-us) | **The Last of Us** · [Spotify](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) |
 
 ### 0-9
 
@@ -942,4 +943,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1218 soundtracks · last updated 2026-08-25T18:16:42.393Z_
+_1219 soundtracks · last updated 2026-08-25T18:16:47.179Z_
