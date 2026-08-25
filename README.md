@@ -133,6 +133,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738e1c96164f16a7a35608e5b8" width="60" /> | [Blue Prince](https://ostdb.net/games/blue-prince) | **Blue Prince - The Original Soundtrack** · [Spotify](https://open.spotify.com/album/4BFnDRHgKikc9HZbGNZPNn) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/a8/9a/5ca89a3f-2895-9c9e-c0ad-31000d88125c/4540774743841.png/600x600bb.jpg" width="60" /> | [Blue Protocol](https://ostdb.net/games/blue-protocol) | **『BLUE PROTOCOL』Music Collection** · [Spotify](https://music.apple.com/us/album/blue-protocol-music-collection/1797758696?uo=4) · [Album](https://album.link/i/1797758696)<br>**『BLUE PROTOCOL』Songs Collection「星の彼方へ / バファリア聖歌」 - EP** · [Spotify](https://music.apple.com/us/album/blue-protocol-songs-collection-%E6%98%9F%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%B8-%E3%83%90%E3%83%95%E3%82%A1%E3%83%AA%E3%82%A2%E8%81%96%E6%AD%8C-ep/1746439816?uo=4) · [Album](https://album.link/i/1746439816) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d5842657134bfcf49dc5ee6" width="60" /> | [Borderlands](https://ostdb.net/games/borderlands) | **Borderlands (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1UZ2cEug2ZyUbjC3pHTh0w) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730039af1cbe18ab33a4db805f" width="60" /> | [Borderlands 2](https://ostdb.net/games/borderlands-2) | **Borderlands 2: Complete (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/47Aq8InB8CyhErE3HEhkTL) |
 
 ### 0-9
 
@@ -145,4 +146,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_164 soundtracks · last updated 2026-08-25T13:51:01.878Z_
+_165 soundtracks · last updated 2026-08-25T13:51:06.518Z_
