@@ -556,6 +556,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/06/9e/d4/069ed4be-79a6-c0b0-02e4-b523f123d039/191079664375_cover.jpg/600x600bb.jpg" width="60" /> | [Lost Ember](https://ostdb.net/games/lost-ember) | **All That You Are (From "Lost Ember") - Single** · [Spotify](https://music.apple.com/us/album/all-that-you-are-from-lost-ember-single/1268248634?uo=4) · [Album](https://album.link/i/1268248634)<br>**Lost Ember (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/lost-ember-original-game-soundtrack/1489214612?uo=4) · [Album](https://album.link/i/1489214612) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27374aa62a8cc77ced19f957b15" width="60" /> | [Lost Records: Bloom & Rage](https://ostdb.net/games/lost-records-bloom-and-rage) | **Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1** · [Spotify](https://open.spotify.com/album/1GR7EZWxuukQBvIHzFNoMB)<br>**Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1 & Tape 2** · [Spotify](https://open.spotify.com/album/6Sp1bcggdbLYtSML5Qrxyy) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/81/31/0881318e-268d-526c-c1f4-3aa30d44b862/artwork.jpg/600x600bb.jpg" width="60" /> | [Lost in Random: The Eternal Die](https://ostdb.net/games/lost-in-random-the-eternal-die) | **Lost in Random: The Eternal Die Official Soundtrack** · [Spotify](https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4) · [Album](https://album.link/i/1820923645) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/ff/db/ceffdb19-59ee-6e45-14fc-87f9e30bd638/859731455272_cover.jpg/600x600bb.jpg" width="60" /> | [Lumines Arise](https://ostdb.net/games/lumines-arise) | **Lumines Arise (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4) · [Album](https://album.link/i/1877399644) |
 
 ### 0-9
 
@@ -568,4 +569,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_723 soundtracks · last updated 2026-08-25T16:12:01.638Z_
+_724 soundtracks · last updated 2026-08-25T16:12:07.667Z_
