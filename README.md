@@ -1028,7 +1028,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 | Cover | Game | Albums |
 |---|---|---|
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/06/fa/4b06fa83-6918-db46-daa7-a5b34757d886/8757.jpg/1000x1000bb.jpg" width="60" /> | [Wanderstop](https://ostdb.net/games/wanderstop) | **Wanderstop (Soundtrack)** · [Apple Music](https://music.apple.com/us/album/wanderstop-soundtrack/1797044536?uo=4) · [Album](https://album.link/i/1797044536)<br>**Wanderstop - Single** · [Apple Music](https://music.apple.com/us/album/wanderstop-single/1783644205?uo=4) · [Album](https://album.link/i/1783644205) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/06/fa/4b06fa83-6918-db46-daa7-a5b34757d886/8757.jpg/1000x1000bb.jpg" width="60" /> | [Wanderstop](https://ostdb.net/games/wanderstop) | **Wanderstop (Soundtrack)** · [Apple Music](https://music.apple.com/us/album/wanderstop-soundtrack/1797044536?uo=4) · [Album](https://album.link/i/1797044536)<br>**Wanderstop - Single** · [Apple Music](https://music.apple.com/us/album/wanderstop-single/1783644205?uo=4) · [Album](https://album.link/i/1783644205)<br>**Wanderstop FM** · [Apple Music](https://music.apple.com/us/album/wanderstop-fm/1799320063?uo=4) · [Album](https://album.link/i/1799320063) |
 
 ### 0-9
 
@@ -1041,4 +1041,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1328 soundtracks · last updated 2026-08-25T18:45:53.545Z_
+_1329 soundtracks · last updated 2026-08-25T18:45:57.540Z_
