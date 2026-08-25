@@ -1045,6 +1045,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6bdb2a2ea2a62667b039cf4" width="60" /> | [Watch Dogs: Legion](https://ostdb.net/games/watch-dogs-legion) | **Watch Dogs: Legion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6k0WbEKdmZyLaYtl1JvP06)<br>**Watch Dogs: Legion - Bloodline (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4DPKq0deFUNjGT9ESuY9HB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300613f5902f8da45d4bb0f1c" width="60" /> | [We Were Here Expeditions: The FriendShip](https://ostdb.net/games/we-were-here-expeditions-the-friendship) | **We Were Here Expeditions: The FriendShip (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Wxf6H5U1RSotDI0lsdRxE) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0b/35/21/0b3521c0-9002-4889-6b79-b60ffc396203/709401387184_cover.jpg/600x600bb.jpg" width="60" /> | [Weird West](https://ostdb.net/games/weird-west) | **Weird West (Original Soundtrack) [Weird Wolves Tracks] - EP** · [Spotify](https://music.apple.com/us/album/weird-west-original-soundtrack-weird-wolves-tracks-ep/1638962974?uo=4) · [Album](https://album.link/i/1638962974) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/cc/5b/cdcc5b50-7942-0b59-5f0d-ac6f63400e0e/3663729148285_cover.jpg/600x600bb.jpg" width="60" /> | [Werewolf: The Apocalypse - Earthblood](https://ostdb.net/games/werewolf-the-apocalypse-earthblood) | **Werewolf: The Apocalypse - Earthblood (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/werewolf-the-apocalypse-earthblood-original-game/1553795965?uo=4) · [Album](https://album.link/i/1553795965) |
 
 ### 0-9
 
@@ -1057,4 +1058,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1359 soundtracks · last updated 2026-08-25T18:51:46.672Z_
+_1360 soundtracks · last updated 2026-08-25T18:51:51.017Z_
