@@ -253,6 +253,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273cea30f405474464db6818273" width="60" /> | [Destiny](https://ostdb.net/games/destiny) | **Destiny (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ZJrV5uHaqQbQNdMIPhSct) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ac29925600db8fa6ffe1997" width="60" /> | [Destiny 2](https://ostdb.net/games/destiny-2) | **Destiny 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4OW58CdmJ2c0E6fqO9ktmE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bc7c8faf417b7b230a3e98d" width="60" /> | [Detroit: Become Human](https://ostdb.net/games/detroit-become-human) | **Detroit: Become Human (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3mlnG0QIGKsAp50vTBKSur) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bd5785665d6eed9e3203f525" width="60" /> | [Deus Ex: Human Revolution](https://ostdb.net/games/deus-ex-human-revolution) | **Deus Ex: Human Revolution (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3t0h9Jw2lbQFCrBuDUMARd) |
 
 ### 0-9
 
@@ -265,4 +266,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_327 soundtracks · last updated 2026-08-25T14:31:16.110Z_
+_328 soundtracks · last updated 2026-08-25T14:31:19.827Z_
