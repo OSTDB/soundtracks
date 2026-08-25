@@ -963,6 +963,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27364acfad0756b025aa0ff497e" width="60" /> | [The Witcher 2: Assassins of Kings](https://ostdb.net/games/the-witcher-2-assassins-of-kings) | **The Witcher 2: Assassins Of Kings (Enhanced Edition) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df756f52b91b4dcd656760b0" width="60" /> | [The Witcher 3: Wild Hunt](https://ostdb.net/games/the-witcher-3-wild-hunt) | **The Witcher 3: Wild Hunt (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn)<br>**The Witcher 3: Wild Hunt (Original Game Soundtrack) [Live at Video Game Show 2016]** · [Spotify](https://open.spotify.com/album/3px0Na2SdyLPs2IgNpKOeh)<br>**The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1C1wp0FcQRAU74VfkDWwSV)<br>**The Witcher 3: Wild Hunt - Hearts Of Stone (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/00EiQjifmFTLcEazkCM7Rl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389c3692370b29d8fd4bab431" width="60" /> | [The Witcher 3: Wild Hunt - Blood and Wine](https://ostdb.net/games/the-witcher-3-wild-hunt-blood-and-wine) | **The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1C1wp0FcQRAU74VfkDWwSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326a3ebdb4e994b45773488ed" width="60" /> | [The Witcher 3: Wild Hunt - Hearts of Stone](https://ostdb.net/games/the-witcher-3-wild-hunt-hearts-of-stone) | **The Witcher 3: Wild Hunt - Hearts Of Stone (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/00EiQjifmFTLcEazkCM7Rl) |
 
 ### 0-9
 
@@ -975,4 +976,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1258 soundtracks · last updated 2026-08-25T18:26:41.762Z_
+_1259 soundtracks · last updated 2026-08-25T18:26:46.188Z_
