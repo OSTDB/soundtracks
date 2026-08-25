@@ -50,7 +50,8 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc63ee72445e054406511b" width="60" /> | [2XKO](https://ostdb.net/games/126460) | Caitlyn Takes Aim (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/4cDmujk9Oy9n68uHNlnYwc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393383a0746eb55b3d1277c5f" width="60" /> | [2XKO](https://ostdb.net/games/126460) | Season 0 (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/6bCWKBxewkOffjIuOsTdnG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b6ba5d5ea19d9a5e9abbd0b" width="60" /> | [2XKO](https://ostdb.net/games/126460) | The Last Hit (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/13/3e/c6133e95-c3ca-d108-0495-4c7a44650598/199282765520_cover.jpg/600x600bb.jpg" width="60" /> | [33 Immortals](https://ostdb.net/games/252828) | 33 Immortals (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/33-immortals-original-soundtrack/1800447956?uo=4) · [Album](https://album.link/i/1800447956) |
 
 ---
 
-_27 soundtracks · last updated 2026-08-25T06:45:41.509Z_
+_28 soundtracks · last updated 2026-08-25T06:45:44.186Z_
