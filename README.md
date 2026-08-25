@@ -614,7 +614,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27357bffd3f2850352fab58d15a" width="60" /> | [Metroid: Zero Mission](https://ostdb.net/games/metroid-zero-mission) | **Metroid Zero Mission: Iconic Themes** · [Spotify](https://open.spotify.com/album/4TQhtK4W4UX336NOi8Dzp6) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c0/0b/05/c00b05df-9e05-6bbc-50b0-6772436e337b/Middle_Earth-Shadow_of_Mordor.jpg/1000x1000bb.jpg" width="60" /> | [Middle-earth: Shadow of Mordor](https://ostdb.net/games/middle-earth-shadow-of-mordor) | **The Gravewalker (From "Middle Earth:Shadow of Mordor" Video Game) - Single** · [Apple Music](https://music.apple.com/us/album/the-gravewalker-from-middle-earth-shadow-of-mordor/946042331?uo=4) · [Album](https://album.link/i/946042331) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/fa/1b/e1fa1baf-9341-eb7e-6a2c-88333f353559/199348155159_cover.jpg/600x600bb.jpg" width="60" /> | [Mindwave](https://ostdb.net/games/mindwave) | **Mindwave Demo Original Game Soundtrack** · [Spotify](https://music.apple.com/us/album/mindwave-demo-original-game-soundtrack/1830296146?uo=4) · [Album](https://album.link/i/1830296146) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e" width="60" /> | [Minecraft](https://ostdb.net/games/minecraft) | **Minecraft - Volume Alpha** · [Spotify](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e" width="60" /> | [Minecraft](https://ostdb.net/games/minecraft) | **Minecraft - Volume Alpha** · [Spotify](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7)<br>**Minecraft - Volume Beta** · [Spotify](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) |
 
 ### 0-9
 
@@ -627,4 +627,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_790 soundtracks · last updated 2026-08-25T16:31:01.915Z_
+_791 soundtracks · last updated 2026-08-25T16:31:06.174Z_
