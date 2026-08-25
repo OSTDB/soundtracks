@@ -799,6 +799,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e3/59/72e359af-2faf-c9eb-a8df-8a6eeb98ef9b/196874109861.jpg/600x600bb.jpg" width="60" /> | [Saros](https://ostdb.net/games/saros) | **SAROS (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/saros-original-soundtrack/6768415565?uo=4)<br>**Sun Is Forever (from "SAROS" Soundtrack)** · [Spotify](https://open.spotify.com/album/0nKFCGDoMQCFbGzaus4pQo) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/4d/de/084dde61-7b12-7119-64ae-e96643225867/150487.jpg/600x600bb.jpg" width="60" /> | [Satisfactory](https://ostdb.net/games/satisfactory) | **Satisfactory (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/satisfactory-original-game-soundtrack/1777461781?uo=4) · [Album](https://album.link/i/1777461781) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/8a/5a/6d8a5a33-6808-4687-8049-d71920f0b675/25UM1IM02326.rgb.jpg/600x600bb.jpg" width="60" /> | [Scarlet Nexus](https://ostdb.net/games/scarlet-nexus) | **SCARLET NEXUS Original Soundtrack** · [Spotify](https://music.apple.com/us/album/scarlet-nexus-original-soundtrack/1840140122?uo=4) · [Album](https://album.link/i/1840140122) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/3b/f4/ac3bf4f5-74f1-9f1f-05f0-e1da28d580ec/644110053299.png/1000x1000bb.jpg" width="60" /> | [Scott Pilgrim EX](https://ostdb.net/games/scott-pilgrim-ex) | **Scott Pilgrim EX (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/scott-pilgrim-ex-original-soundtrack/1877589654?uo=4) · [Album](https://album.link/i/1877589654) |
 
 ### 0-9
 
@@ -811,4 +812,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1024 soundtracks · last updated 2026-08-25T17:26:59.543Z_
+_1025 soundtracks · last updated 2026-08-25T17:27:04.050Z_
