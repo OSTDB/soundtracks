@@ -342,6 +342,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c07e90cc10f282d86fed523" width="60" /> | [Far Cry New Dawn](https://ostdb.net/games/far-cry-new-dawn) | **Far Cry New Dawn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6MnWCHQseLeD5OdTggW5iB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d1b31d9579b6c759de4913d" width="60" /> | [Far Cry: Primal](https://ostdb.net/games/far-cry-primal) | **Far Cry Primal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1smWW6pjklXAe61hde9ql0) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/42/25/d142254d-310d-6421-2bd8-36ba83e0ba38/4896004157910.jpg/1000x1000bb.jpg" width="60" /> | [Fate Trigger](https://ostdb.net/games/fate-trigger) | **Coming Like Fire (游戏《命运扳机》先觉测试主题曲) - Single** · [Apple Music](https://music.apple.com/us/album/coming-like-fire-%E6%B8%B8%E6%88%8F-%E5%91%BD%E8%BF%90%E6%89%B3%E6%9C%BA-%E5%85%88%E8%A7%89%E6%B5%8B%E8%AF%95%E4%B8%BB%E9%A2%98%E6%9B%B2-single/1831474095?uo=4) · [Album](https://album.link/i/1831474095) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d8c1455c23230dad29cf0ab2" width="60" /> | [Final Fantasy III](https://ostdb.net/games/final-fantasy-iii) | **FINAL FANTASY III Original Soundtrack** · [Spotify](https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd) |
 
 ### 0-9
 
@@ -354,4 +355,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_432 soundtracks · last updated 2026-08-25T14:56:33.632Z_
+_433 soundtracks · last updated 2026-08-25T14:56:38.315Z_
