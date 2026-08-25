@@ -365,6 +365,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/b4/11/49b4110e-51db-13ce-2e66-737622998cd5/SQEX-11012-1_3000_3000.jpg/1000x1000bb.jpg" width="60" /> | [Forspoken](https://ostdb.net/games/forspoken) | **FORSPOKEN Original Soundtrack** · [Apple Music](https://music.apple.com/us/album/forspoken-original-soundtrack/1671501085?uo=4) · [Album](https://album.link/i/1671501085) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731927704eea912f62ee949044" width="60" /> | [Forza Horizon 4](https://ostdb.net/games/forza-horizon-4) | **Forza Horizon 4: Hospital Soundtrack** · [Spotify](https://open.spotify.com/album/20M60ExbQAk4MO83glFisb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273130db10e76a16fdabae65897" width="60" /> | [Forza Horizon 5](https://ostdb.net/games/forza-horizon-5) | **Forza Horizon 5: Hospital Soundtrack** · [Spotify](https://open.spotify.com/album/6taAtNTGEX9SMmjWvo1Snl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ddf3b528dfa26d5759b45245" width="60" /> | [Forza Motorsport](https://ostdb.net/games/forza-motorsport) | **Forza Motorsport (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28ucEqNu7ZKpHnl0Qeq5f6) |
 
 ### 0-9
 
@@ -377,4 +378,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_464 soundtracks · last updated 2026-08-25T15:06:00.730Z_
+_465 soundtracks · last updated 2026-08-25T15:06:04.621Z_
