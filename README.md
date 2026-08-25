@@ -599,6 +599,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27339d0ff39207d42c081299f5f" width="60" /> | [Metal Gear Solid](https://ostdb.net/games/metal-gear-solid) | **Metal Gear Solid (Original Game Score)** · [Spotify](https://open.spotify.com/album/15a3t7NqMj6lY0qL4rofEt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f8f6863511a08639e053146" width="60" /> | [Metal Gear Solid 3: Snake Eater](https://ostdb.net/games/metal-gear-solid-3-snake-eater) | **Metal Gear Solid 3 - Snake Eater - Main Theme** · [Spotify](https://open.spotify.com/album/1aVtlmzDDQEcZvQL0LmxV6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734986cc00afdd51dd3a48288e" width="60" /> | [Metal Gear Solid 3: Subsistence](https://ostdb.net/games/metal-gear-solid-3-subsistence) | **Metal Gear Solid 3: Snake Eater Theme (From "Metal Gear Solid 3")** · [Spotify](https://open.spotify.com/album/3d5uQ4Rrunume9GpEr5mjn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9d14a61f033ae9e82a7a7ee" width="60" /> | [Metal Gear Solid 4: Guns of the Patriots](https://ostdb.net/games/metal-gear-solid-4-guns-of-the-patriots) | **METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) |
 
 ### 0-9
 
@@ -611,4 +612,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_771 soundtracks · last updated 2026-08-25T16:26:08.818Z_
+_772 soundtracks · last updated 2026-08-25T16:26:12.962Z_
