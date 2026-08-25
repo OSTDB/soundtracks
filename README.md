@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [0-9](#0-9)
 
 ### A
 
@@ -1024,6 +1024,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/90/65/fb906542-0a22-0035-73aa-036f2eaeeea1/artwork.jpg/600x600bb.jpg" width="60" /> | [Visage](https://ostdb.net/games/visage) | **Visage (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4) · [Album](https://album.link/i/1811122497) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/1c/93/4b1c9318-03b2-6517-41f6-607e995dfde8/SQEX-11094-1_3000_3000.jpg/600x600bb.jpg" width="60" /> | [Visions of Mana](https://ostdb.net/games/visions-of-mana) | **聖剣伝説 VISIONS of MANA Original Soundtrack** · [Spotify](https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4) · [Album](https://album.link/i/1765291659) |
 
+### W
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/06/fa/4b06fa83-6918-db46-daa7-a5b34757d886/8757.jpg/1000x1000bb.jpg" width="60" /> | [Wanderstop](https://ostdb.net/games/wanderstop) | **Wanderstop (Soundtrack)** · [Apple Music](https://music.apple.com/us/album/wanderstop-soundtrack/1797044536?uo=4) · [Album](https://album.link/i/1797044536) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1035,4 +1041,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1326 soundtracks · last updated 2026-08-25T18:42:20.078Z_
+_1327 soundtracks · last updated 2026-08-25T18:45:48.705Z_
