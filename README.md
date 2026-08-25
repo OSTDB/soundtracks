@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [0-9](#0-9)
 
 ### A
 
@@ -527,6 +527,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1918a3aa4800e8f60e956c9" width="60" /> | [Kirby Air Riders](https://ostdb.net/games/kirby-air-riders) | **Kirby Air Riders Themes (Original Soundtrack of Kirby Air Riders )** · [Spotify](https://open.spotify.com/album/7qh0xkhphxfDwrNq4PTRIF) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/38/c3/9e38c3f3-2ed6-0692-fdfc-52ddab998838/Kunitsu-Gami_soundtrack_JP_1500.jpg/600x600bb.jpg" width="60" /> | [Kunitsu-Gami: Path of the Goddess](https://ostdb.net/games/kunitsu-gami-path-of-the-goddess) | **祇:Path of the Goddess オリジナル・サウンドトラック** · [Spotify](https://music.apple.com/us/album/%E7%A5%87-path-of-the-goddess-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1770464357?uo=4) · [Album](https://album.link/i/1770464357) |
 
+### L
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273b1331a928ac09ac850ac6754" width="60" /> | [L.A. Noire](https://ostdb.net/games/l-a-noire) | **L.A. Noire Official Soundtrack** · [Spotify](https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -538,4 +544,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_677 soundtracks · last updated 2026-08-25T16:01:31.539Z_
+_678 soundtracks · last updated 2026-08-25T16:01:37.294Z_
