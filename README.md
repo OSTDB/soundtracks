@@ -271,6 +271,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27330b571609587240e493bd985" width="60" /> | [Dispatch](https://ostdb.net/games/dispatch) | **Dispatch, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7rByigEYU4ok9gsQG5ce9C)<br>**Dispatch, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Sxs1AGIMyaXy6b3Ttr4Xg)<br>**Dispatch, Vol. 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Hvg7EYmQHrUqtAxbbOPt3)<br>**Dispatch, Vol. 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5wrmdcLuPNgigLP8O4hCsl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734beb0f2dd457d2484095e6b9" width="60" /> | [Dissidia Final Fantasy](https://ostdb.net/games/dissidia-final-fantasy) | **DISSIDIA FINAL FANTASY Original Soundtrack** · [Spotify](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732085ca30362de37d7c3d6f83" width="60" /> | [Divinity: Original Sin II](https://ostdb.net/games/divinity-original-sin-ii) | **Divinity: Original Sin 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5HEC1svShRLqWyoPGaNujo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f65bcd5def30931cc3c8604" width="60" /> | [DmC: Devil May Cry](https://ostdb.net/games/dmc-devil-may-cry) | **Devil May Cry (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k) |
 
 ### 0-9
 
@@ -283,4 +284,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_349 soundtracks · last updated 2026-08-25T14:36:25.343Z_
+_350 soundtracks · last updated 2026-08-25T14:36:29.608Z_
