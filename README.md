@@ -42,6 +42,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273332c82b8b845a28e03c90e26" width="60" /> | [Age of Empires IV](https://ostdb.net/games/55029) | Age Of Empires IV (Extended Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1DGQDLGxnsFOP8UYxyyN6g) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/7c/49/8a7c499c-28a4-66df-47d1-e11ff8e87e37/198704110603_Cover.jpg/1000x1000bb.jpg" width="60" /> | [Age of Mythology: Retold](https://ostdb.net/games/222803) | Age Of Mythology Retold | [Apple Music](https://music.apple.com/us/album/age-of-mythology-retold/1763605860?uo=4) · [Album](https://album.link/i/1763605860) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b011fc18d8f6ad2a7128e28" width="60" /> | [Alan Wake II](https://ostdb.net/games/185246) | Alan Wake 2 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/034VyTtL5nH3a1nad0COtV) · [Apple Music](https://music.apple.com/ua/album/alan-wake-2-original-soundtrack/1775387483) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/b6/f7/86b6f7e8-b6f3-484a-ba0e-e2eefe804028/23UM1IM12225.rgb.jpg/600x600bb.jpg" width="60" /> | [Alan Wake II](https://ostdb.net/games/185246) | Follow You Into The Dark (feat. Rakel) - Single | [Spotify](https://music.apple.com/us/album/follow-you-into-the-dark-feat-rakel-single/1708860239?uo=4) · [Album](https://album.link/i/1708860239) |
 
 ### 0-9
 
@@ -58,4 +59,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_32 soundtracks · last updated 2026-08-25T06:44:49.416Z_
+_33 soundtracks · last updated 2026-08-25T06:44:51.634Z_
