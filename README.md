@@ -277,6 +277,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ba269cfd0d33ec064a70e7d" width="60" /> | [Don't Starve](https://ostdb.net/games/dont-starve) | **Don't Starve (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2WJi7JBYNsVuscCX7j8AkB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ac7c2271aebc053e1bf27a18" width="60" /> | [Doom: The Dark Ages](https://ostdb.net/games/doom-the-dark-ages) | **DOOM: The Dark Ages (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0uDPC7mKXQst5oZhvDD8QM) · [Apple Music](https://music.apple.com/us/album/doom-the-dark-ages-original-game-soundtrack/1884641346) |
 
 ### 0-9
 
@@ -289,4 +290,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_355 soundtracks · last updated 2026-08-25T14:36:51.863Z_
+_356 soundtracks · last updated 2026-08-25T14:36:55.782Z_
