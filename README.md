@@ -276,6 +276,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733925fdf9a87edf2350632d60" width="60" /> | [Doki Doki Literature Club!](https://ostdb.net/games/doki-doki-literature-club) | **Doki Doki Literature Club! (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ba269cfd0d33ec064a70e7d" width="60" /> | [Don't Starve](https://ostdb.net/games/dont-starve) | **Don't Starve (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2WJi7JBYNsVuscCX7j8AkB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273aad36b64a1a78951b504bc4e" width="60" /> | [Doom](https://ostdb.net/games/doom) | **Doom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) |
 
 ### 0-9
 
@@ -288,4 +289,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_354 soundtracks · last updated 2026-08-25T14:36:47.401Z_
+_355 soundtracks · last updated 2026-08-25T14:36:51.863Z_
