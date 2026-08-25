@@ -781,6 +781,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273eced698bff79d23073ade885" width="60" /> | [Rogue Legacy](https://ostdb.net/games/rogue-legacy) | **Rogue Legacy (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3q7evrOM3P3Q2VpOn3C5gQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737df13c3effa3dd085cb7fe96" width="60" /> | [RollerCoaster Tycoon 2](https://ostdb.net/games/rollercoaster-tycoon-2) | **Main Theme (From "RollerCoaster Tycoon 2")** · [Spotify](https://open.spotify.com/album/2JwrW0L5hTP5Zo5KcLDGOZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737df13c3effa3dd085cb7fe96" width="60" /> | [RollerCoaster Tycoon 3](https://ostdb.net/games/rollercoaster-tycoon-3) | **Main Theme (From "RollerCoaster Tycoon 2")** · [Spotify](https://open.spotify.com/album/2JwrW0L5hTP5Zo5KcLDGOZ) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/d8/5e/1ad85e87-6ffe-c056-8504-bbee92109a8d/SQEX-11136-1_3000_3000.jpg/600x600bb.jpg" width="60" /> | [Romancing SaGa 2: Revenge of the Seven](https://ostdb.net/games/romancing-saga-2-revenge-of-the-seven) | **ロマンシング サガ2 リベンジオブザセブン Original Soundtrack** · [Spotify](https://music.apple.com/us/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC2-%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%96%E3%82%B6%E3%82%BB%E3%83%96%E3%83%B3-original-soundtrack/1773944591?uo=4) · [Album](https://album.link/i/1773944591) |
 
 ### 0-9
 
@@ -793,4 +794,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1010 soundtracks · last updated 2026-08-25T17:26:01.414Z_
+_1011 soundtracks · last updated 2026-08-25T17:26:05.954Z_
