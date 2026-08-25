@@ -585,6 +585,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect](https://ostdb.net/games/mass-effect) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect](https://ostdb.net/games/mass-effect) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb503e280e71f2da99dfc135" width="60" /> | [Mass Effect 2](https://ostdb.net/games/mass-effect-2) | **Mass Effect 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KnSz1vjaGwl1KcfkTf6Nj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273deadf3aca148bed403c81558" width="60" /> | [Mass Effect 3](https://ostdb.net/games/mass-effect-3) | **Mass Effect 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2QfSNNISIlORduwQniMz91) |
 
 ### 0-9
 
@@ -597,4 +598,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_752 soundtracks · last updated 2026-08-25T16:21:11.426Z_
+_753 soundtracks · last updated 2026-08-25T16:21:15.926Z_
