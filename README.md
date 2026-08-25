@@ -142,6 +142,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273f702beb756ffb55d0b156d8c" width="60" /> | [Battlefield 2: Modern Combat](https://ostdb.net/games/348) | Battlefield 2: Modern Combat (Original Soundtrack) | [Spotify](https://open.spotify.com/album/4Tc9QcWRcZzSLnvqKzSIyn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273992d6894cd6070675e95293a" width="60" /> | [Battlefield 3](https://ostdb.net/games/343) | Battlefield 3 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273137165f5af6d821199d88a36" width="60" /> | [Battlefield 3](https://ostdb.net/games/343) | Battlefield 3 Premium Edition (Original Soundtrack) | [Spotify](https://open.spotify.com/album/5Oy8CsN2LGMOpVPOXbZuOE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273076ef3ba4d114dc3ceebe96a" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) |
 
 ### 0-9
 
@@ -158,4 +159,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_127 soundtracks · last updated 2026-08-25T07:10:40.275Z_
+_128 soundtracks · last updated 2026-08-25T07:10:42.108Z_
