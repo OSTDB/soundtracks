@@ -143,6 +143,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273992d6894cd6070675e95293a" width="60" /> | [Battlefield 3](https://ostdb.net/games/343) | Battlefield 3 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273137165f5af6d821199d88a36" width="60" /> | [Battlefield 3](https://ostdb.net/games/343) | Battlefield 3 Premium Edition (Original Soundtrack) | [Spotify](https://open.spotify.com/album/5Oy8CsN2LGMOpVPOXbZuOE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273076ef3ba4d114dc3ceebe96a" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273728c8f67d327859efff4308a" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) (Premium Edition) | [Spotify](https://open.spotify.com/album/04b0xmFOenZ0rSpTRE0DjX) |
 
 ### 0-9
 
@@ -159,4 +160,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_128 soundtracks · last updated 2026-08-25T07:10:42.108Z_
+_129 soundtracks · last updated 2026-08-25T07:10:43.934Z_
