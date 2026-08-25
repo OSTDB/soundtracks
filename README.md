@@ -116,6 +116,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/98/5c/23985c2d-7493-9aa2-9690-140897703b99/780163649727.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-original-game-soundtrack/1716963311?uo=4) · [Album](https://album.link/i/1716963311) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/40/5c/99405caf-993e-7226-c14e-d25211018443/780163683127.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora - From the Ashes (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-from-the-ashes-original/1860022847?uo=4) · [Album](https://album.link/i/1860022847) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/87/01/bc87011f-6aa0-0b79-1e27-ab76795a17df/780163665925.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora - Secrets of the Spires (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4) · [Album](https://album.link/i/1778719367) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a83d5a189b3249fe0fe189b3" width="60" /> | [Avowed](https://ostdb.net/games/135994) | Avowed (Official Game Soundtrack) | [Spotify](https://open.spotify.com/album/51t8gJnpvhIJuuQjmFs1v3) |
 
 ### 0-9
 
@@ -132,4 +133,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_106 soundtracks · last updated 2026-08-25T07:05:39.582Z_
+_107 soundtracks · last updated 2026-08-25T07:05:41.638Z_
