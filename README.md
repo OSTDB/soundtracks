@@ -856,6 +856,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a9280e9b124f4286a663bfa" width="60" /> | [Star Wars Outlaws](https://ostdb.net/games/star-wars-outlaws) | **Star Wars Outlaws (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap)<br>**Star Wars Outlaws: Wild Card & A Pirate's Fortune (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Icv3jy3YC3igZnwEipSIC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320e47ed1e2e80184c5f8ce6e" width="60" /> | [Star Wars: Battlefront](https://ostdb.net/games/star-wars-battlefront) | **Star Wars: Battlefront (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3QSV1jMUUJ2baFCfq8YIgG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273191b089dd90b2e84a8bd8fc4" width="60" /> | [Star Wars: Battlefront II](https://ostdb.net/games/star-wars-battlefront-ii) | **Star Wars: Battlefront II (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qilh9K60vswro2eujBqwC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cfa53143a42f9168fe29ee57" width="60" /> | [Star Wars: Knights of the Old Republic](https://ostdb.net/games/star-wars-knights-of-the-old-republic) | **Star Wars: Knights of the Old Republic II – The Sith Lords (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/28A1rmPQ5b0VvysXWxnkLJ) |
 
 ### 0-9
 
@@ -868,4 +869,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1105 soundtracks · last updated 2026-08-25T17:47:29.000Z_
+_1106 soundtracks · last updated 2026-08-25T17:47:33.794Z_
