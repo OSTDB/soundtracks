@@ -1,0 +1,69 @@
+name: Ingest submissions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "submissions/**.json"
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find changed submission files
+        id: files
+        run: |
+          FILES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'submissions/*.json' || true)
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Build payload and send to ingest endpoint
+        if: steps.files.outputs.files != ''
+        env:
+          FILES: ${{ steps.files.outputs.files }}
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
+        run: |
+          set -e
+          PAYLOAD="[]"
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            ITEM=$(cat "$file")
+            AUTHOR=$(git log -1 --format='%an' -- "$file")
+            ITEM=$(echo "$ITEM" | jq --arg by "$AUTHOR" '. + {submitted_by: $by}')
+            PAYLOAD=$(echo "$PAYLOAD" | jq --argjson item "$ITEM" '. + [$item]')
+          done <<< "$FILES"
+
+          echo "$PAYLOAD" | jq .
+
+          RESPONSE=$(curl -sf -X POST "https://ostdb-soundtracks-sync.metjum.workers.dev/ingest" \
+            -H "Content-Type: application/json" \
+            -H "X-Admin-Secret: $ADMIN_SECRET" \
+            -d "$PAYLOAD")
+
+          echo "$RESPONSE" | jq .
+          echo "$RESPONSE" > /tmp/ingest-result.json
+
+      - name: Remove processed submission files
+        if: steps.files.outputs.files != ''
+        env:
+          FILES: ${{ steps.files.outputs.files }}
+        run: |
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            git rm -q "$file"
+          done <<< "$FILES"
+
+          if ! git diff --cached --quiet; then
+            git config user.name "ostdb-bot"
+            git config user.email "bot@ostdb.net"
+            git commit -m "Remove processed submissions"
+            git push
+          fi
