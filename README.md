@@ -112,6 +112,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b27305387a820c2f217f5eb407e9" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7seBeGlBX5DtvEhldgbI8q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb984aaf874f8419b764dc09" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.3 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/4aIYGJRp8HuC2fxY7QsLGD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738572956cb0d177ba8d7c068b" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.4 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/77PYsQWJjBlN9ZhA68kRpf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a24aab10d2b27d63175c37a" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.5 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1spTBf3PQ2n0lzoFx14KPH) |
 
 ### 0-9
 
@@ -128,4 +129,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_102 soundtracks · last updated 2026-08-25T07:05:31.143Z_
+_103 soundtracks · last updated 2026-08-25T07:05:33.379Z_
