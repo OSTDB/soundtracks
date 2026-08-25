@@ -137,6 +137,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e90db85b8fe58fef96dd59e" width="60" /> | [Borderlands 3](https://ostdb.net/games/borderlands-3) | **Borderlands 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1evb6oJiL4jNcBCXdg8UTR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1ddcf164ebf930ed7b06c1c" width="60" /> | [Borderlands 4](https://ostdb.net/games/borderlands-4) | **Borderlands 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4qGpqQvPQ4zfzTGFiFjOwn)<br>**Borderlands 4: Break Free** · [Spotify](https://open.spotify.com/album/0DfBR42cqe75ze2SpQvgtA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27327e2f63387bad6caa3379b5a" width="60" /> | [Borderlands: The Pre-Sequel](https://ostdb.net/games/borderlands-the-pre-sequel) | **Borderlands: The Pre-Sequel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5oofwGEBykvo5L36VQnyRg)<br>**Borderlands: The Pre-Sequel - Claptastic Voyage (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4w6dJISMPFbanSqo3wafmL) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/3a/f9/463af98a-8222-1fc5-c9b5-9c036d34351c/artwork.jpg/600x600bb.jpg" width="60" /> | [BrokenLore: Unfollow](https://ostdb.net/games/brokenlore-unfollow) | **BrokenLore: UNFOLLOW Original Soundtrack (feat. Shorelle) - Single** · [Spotify](https://music.apple.com/us/album/brokenlore-unfollow-original-soundtrack-feat-shorelle/1711757115?uo=4) · [Album](https://album.link/i/1711757115) |
 
 ### 0-9
 
@@ -149,4 +150,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_170 soundtracks · last updated 2026-08-25T13:51:27.512Z_
+_171 soundtracks · last updated 2026-08-25T13:51:31.299Z_
