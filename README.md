@@ -842,6 +842,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273556009add0d1441d508cc405" width="60" /> | [Space Quest 6: The Spinal Frontier](https://ostdb.net/games/space-quest-6-the-spinal-frontier) | **Space Quest 6: The Spinal Frontier, Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2gIMa3729cW9t9jOe33FYs)<br>**Space Quest 6: The Spinal Frontier, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7GHDpte4gcBfEiKcpRUzpQ)<br>**Space Quest 6: The Spinal Frontier, Vol. 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/149y1ZwmwhuY6yffcXgIif)<br>**Space Quest 6: The Spinal Frontier, Vol. 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4gFW4Sgq28hVDMGDNx7I1c) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391e0bc96d255c1e7237ca3c3" width="60" /> | [Space Quest II: Vohaul's Revenge](https://ostdb.net/games/space-quest-ii-vohauls-revenge) | **Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6c4d0965873da59dcd5e85b" width="60" /> | [Space Quest IV: Roger Wilco and the Time Rippers](https://ostdb.net/games/space-quest-iv-roger-wilco-and-the-time-rippers) | **Space Quest IV: Roger Wilco and The Time Rippers: Roland MT-32, Vol.I (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4JlTU7LofJoh7k66qcpDiR)<br>**Space Quest IV: Roger Wilco and The Time Rippers: Roland MT-32, Vol.II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7wzKK3YR3algQeusOCGm24) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27391e0bc96d255c1e7237ca3c3" width="60" /> | [Space Quest: The Sarien Encounter](https://ostdb.net/games/space-quest-the-sarien-encounter) | **Space Quest I+II: The Sarien Encounter + Vohaul's Revenge: Roland MT-32 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fJa954PznMqCmHBV8jwbe) |
 
 ### 0-9
 
@@ -854,4 +855,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1084 soundtracks · last updated 2026-08-25T17:42:08.953Z_
+_1085 soundtracks · last updated 2026-08-25T17:42:12.977Z_
