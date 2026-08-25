@@ -101,6 +101,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273e95f4dec214d02d3060234d0" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: The Siege of Paris (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/2clk3QfapfzKkrSOnUishJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b244f24f8fa2ab36950389e3" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: The Wave of Giants (Original Soundtrack) | [Spotify](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5aef6abe8e730d77254619d" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Twilight of the Gods (Original Soundtrack) | [Spotify](https://open.spotify.com/album/3WDVwd8Ns69Pryp0A6ETL5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738c12abaaf464d02a574a36ec" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Wrath of the Druids (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7udn8jrY30HvTRCgqalmXF) |
 
 ### 0-9
 
@@ -117,4 +118,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_91 soundtracks · last updated 2026-08-25T07:00:50.279Z_
+_92 soundtracks · last updated 2026-08-25T07:00:52.480Z_
