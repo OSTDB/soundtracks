@@ -310,6 +310,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2734cf5f1a605482e2aa10b5740" width="60" /> | [Elden Ring](https://ostdb.net/games/elden-ring) | **ELDEN RING ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/72oL3sD7toB7YvInNmrznf)<br>**Elden Ring (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2gCFzRRO5acruR4y4QhIuI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273824682c38279d999362b6b39" width="60" /> | [Elden Ring Nightreign](https://ostdb.net/games/elden-ring-nightreign) | **ELDEN RING NIGHTREIGN Original Soundtrack** · [Spotify](https://open.spotify.com/album/5yYohcL2SzA0y4QQpCXweS)<br>**ELDEN RING NIGHTREIGN The Forsaken Hollows Original Soundtrack** · [Spotify](https://open.spotify.com/album/7dKUaMd8Xmi6qobT8TlAHK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a22122dde8f636cc21cad3b5" width="60" /> | [Elden Ring: Shadow of the Erdtree](https://ostdb.net/games/elden-ring-shadow-of-the-erdtree) | **ELDEN RING SHADOW OF THE ERDTREE ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/6ucsCXHRL0OXnAM51V8Cb9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fc558424d48e34e35b90e32" width="60" /> | [Empire Earth](https://ostdb.net/games/empire-earth) | **Empire Earth I (Soundtrack)** · [Spotify](https://open.spotify.com/album/7MpwpMpuyB8GCwJf6b2H3x) |
 
 ### 0-9
 
@@ -322,4 +323,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_393 soundtracks · last updated 2026-08-25T14:46:42.179Z_
+_394 soundtracks · last updated 2026-08-25T14:46:46.303Z_
