@@ -380,6 +380,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273229c96dcab12f9bba73c0c87" width="60" /> | [Gears 5](https://ostdb.net/games/gears-5) | **Gears 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6N0UffOBezxYYrtihxhymu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b4b54d847ad534eee3f54db7" width="60" /> | [Gears of War](https://ostdb.net/games/gears-of-war) | **Gears of War (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/21KNHRIQ41kKBjVZlRurZl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27392dcfa62bdf573bdde3573cf" width="60" /> | [Gears of War 2](https://ostdb.net/games/gears-of-war-2) | **Gears of War 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/204DKUbxUavxA3oJSglXcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730c521d8196d3fd73858232d3" width="60" /> | [Gears of War 3](https://ostdb.net/games/gears-of-war-3) | **Gears of War 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5VsPDKDVgDMqQAo227VnvA) |
 
 ### 0-9
 
@@ -392,4 +393,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_483 soundtracks · last updated 2026-08-25T15:11:05.098Z_
+_484 soundtracks · last updated 2026-08-25T15:11:13.030Z_
