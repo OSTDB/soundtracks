@@ -749,6 +749,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/41/3c/bd413cb9-57f0-020f-b489-f680ae1005aa/artwork.jpg/600x600bb.jpg" width="60" /> | [Relooted](https://ostdb.net/games/relooted) | **Relooted (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/relooted-original-soundtrack/1862636303?uo=4) · [Album](https://album.link/i/1862636303) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735151b2f9071c2bfc5cabeb2a" width="60" /> | [Rematch](https://ostdb.net/games/rematch) | **Rematch (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2PvHVzU982Xh9yet8vjDgy)<br>**Rematch - Season 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0yOSAFXVeUg4cJ4atxpC3m)<br>**Rematch - Season 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3UDUjGxRdW1Pvue81IvLlF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4943032ae2f885baa50313f" width="60" /> | [Remember Me](https://ostdb.net/games/remember-me) | **Remember Me (feat. Philharmonia Orchestra) [Original Soundtrack]** · [Spotify](https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a001fe4724414a194b35603" width="60" /> | [Resident Evil 2](https://ostdb.net/games/resident-evil-2) | **Resident Evil 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/29iqxEoRySD2jW0VXNjRzu) · [Apple Music](https://music.apple.com/us/album/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89-re-2-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1451575319?l=cs) |
 
 ### 0-9
 
@@ -761,4 +762,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_967 soundtracks · last updated 2026-08-25T17:15:48.281Z_
+_968 soundtracks · last updated 2026-08-25T17:15:52.257Z_
