@@ -151,6 +151,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b27332d8239eb1b3a31013f87176" width="60" /> | [Battlefield: Bad Company](https://ostdb.net/games/473) | Battlefield: Bad Company (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6Gc29RL3GIWI1X3LjkX3eI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731de8ab7596541987c401c4e1" width="60" /> | [Battlefield: Bad Company 2](https://ostdb.net/games/352) | Battlefield: Bad Company 2 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/a5/de/a5a5de44-8f29-ee01-4a66-445ba692e339/77507.jpg/1000x1000bb.jpg" width="60" /> | [Battletoads](https://ostdb.net/games/2970) | Battletoads (Original Soundtrack) | [Apple Music](https://music.apple.com/us/album/battletoads-original-soundtrack/1533321474?uo=4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735937e852f0c7935feb612a2d" width="60" /> | [Bayonetta](https://ostdb.net/games/2136) | BAYONETTA Original Soundtrack (Vol. 3) | [Spotify](https://open.spotify.com/album/0gbCEGCVlc1LYWTUw7eHhh) |
 
 ### 0-9
 
@@ -167,4 +168,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_136 soundtracks · last updated 2026-08-25T07:10:57.250Z_
+_137 soundtracks · last updated 2026-08-25T07:10:59.122Z_
