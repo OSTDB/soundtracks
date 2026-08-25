@@ -981,6 +981,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/0a/2b/040a2b59-f120-ace4-de93-54e7c963e0cf/199999460152.png/1000x1000bb.jpg" width="60" /> | [Tormented Souls II](https://ostdb.net/games/tormented-souls-ii) | **Tormented Souls 2 (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/tormented-souls-2-original-soundtrack/1847460718?uo=4) · [Album](https://album.link/i/1847460718) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d87ac072e48b81e8856a991" width="60" /> | [Totally Accurate Battle Simulator](https://ostdb.net/games/totally-accurate-battle-simulator) | **Totally Accurate Battle Simulator (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7hsP7zV6b8FFEFor8xNEuV) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/cb/e0/cdcbe0e1-81c2-ee18-55d9-6d4a35e470d4/PA00203258_0_230765_jacket.jpg/600x600bb.jpg" width="60" /> | [Towa and the Guardians of the Sacred Tree](https://ostdb.net/games/towa-and-the-guardians-of-the-sacred-tree) | **Towa and the Guardians of the Sacred Tree Original Soundtrack** · [Spotify](https://music.apple.com/us/album/towa-and-the-guardians-of-the/1843022579?uo=4) · [Album](https://album.link/i/1843022579) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c4/15/5bc41548-f885-6fce-d408-d5b8bc446e9c/artwork.jpg/600x600bb.jpg" width="60" /> | [Town to City](https://ostdb.net/games/town-to-city) | **Town to City (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/town-to-city-original-game-soundtrack/1835718039?uo=4) · [Album](https://album.link/i/1835718039) |
 
 ### 0-9
 
@@ -993,4 +994,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1277 soundtracks · last updated 2026-08-25T18:31:41.594Z_
+_1278 soundtracks · last updated 2026-08-25T18:31:46.778Z_
