@@ -660,6 +660,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737644f2989660f5b2ad737e33" width="60" /> | [No Man's Sky](https://ostdb.net/games/no-mans-sky) | **No Man's Sky - Vostok / The Journey (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7tAE4DlUVV4LDsn7PNoKLI)<br>**No Man's Sky: Journeys (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2yDUAuD1IJe5rOKim4DYRn)<br>**No Man's Sky: Music For An Infinite Universe (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0ZGVyb6ue49aXwtwAbOWfJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce0dcebc2aab1c1f42cc5ade" width="60" /> | [No Rest for the Wicked](https://ostdb.net/games/no-rest-for-the-wicked) | **No Rest for the Wicked (Original Early Access Soundtrack)** · [Spotify](https://open.spotify.com/album/2oKUi0T9VS5I5AidYcj9Zu) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/f2/89/87f289ed-9789-51f1-c60c-ad2679f55a04/PA00197542_0_226352_jacket.jpg/600x600bb.jpg" width="60" /> | [No Sleep for Kaname Date: From AI - The Somnium Files](https://ostdb.net/games/no-sleep-for-kaname-date-from-ai-the-somnium-files) | **No Sleep for Kaname Date - from Ai: the Somnium Files (Complete Soundtrack)** · [Spotify](https://music.apple.com/us/album/no-sleep-for-kaname-date-from-ai-the-somnium-files/1825527993?uo=4) · [Album](https://album.link/i/1825527993) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738edcce0bd1fe2c2aa27d0960" width="60" /> | [No, I'm Not A Human](https://ostdb.net/games/no-im-not-a-human) | **No, I'm not a Human (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3NzQf2ziIE4VdFjWsx4mGl) |
 
 ### 0-9
 
@@ -672,4 +673,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_862 soundtracks · last updated 2026-08-25T16:46:59.516Z_
+_863 soundtracks · last updated 2026-08-25T16:47:04.425Z_
