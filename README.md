@@ -114,6 +114,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2738572956cb0d177ba8d7c068b" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.4 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/77PYsQWJjBlN9ZhA68kRpf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a24aab10d2b27d63175c37a" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.5 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1spTBf3PQ2n0lzoFx14KPH) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/98/5c/23985c2d-7493-9aa2-9690-140897703b99/780163649727.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-original-game-soundtrack/1716963311?uo=4) · [Album](https://album.link/i/1716963311) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/40/5c/99405caf-993e-7226-c14e-d25211018443/780163683127.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora - From the Ashes (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-from-the-ashes-original/1860022847?uo=4) · [Album](https://album.link/i/1860022847) |
 
 ### 0-9
 
@@ -130,4 +131,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_104 soundtracks · last updated 2026-08-25T07:05:35.471Z_
+_105 soundtracks · last updated 2026-08-25T07:05:37.585Z_
