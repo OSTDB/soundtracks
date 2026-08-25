@@ -158,6 +158,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" /> | [Call of Duty: Black Ops II](https://ostdb.net/games/call-of-duty-black-ops-ii) | **Call of Duty Black Ops II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Ktys9SYMY2DeqyhGLzQBn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c62e46fa22df6cbafaaf123" width="60" /> | [Call of Duty: Black Ops III](https://ostdb.net/games/call-of-duty-black-ops-iii) | **Call of Duty: Black Ops III (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4AaHaHi12etrGsJA22bHIz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27360ec894609c6328a965cb3ea" width="60" /> | [Call of Duty: Ghosts](https://ostdb.net/games/call-of-duty-ghosts) | **Call of Duty: Ghosts (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/466DK5sv0ncvQgyDSV69pL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736ef3d2f7f719c57d46309c17" width="60" /> | [Call of Duty: Infinite Warfare](https://ostdb.net/games/call-of-duty-infinite-warfare) | **Call of Duty: Infinite Warfare (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4sQZrdJ9JkIu2Wa0diVEqp) |
 
 ### 0-9
 
@@ -170,4 +171,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_186 soundtracks · last updated 2026-08-25T13:56:13.412Z_
+_187 soundtracks · last updated 2026-08-25T13:56:16.889Z_
