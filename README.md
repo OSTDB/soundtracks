@@ -851,6 +851,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecb8de93a9db91a5696ebe4b" width="60" /> | [Star Fox 64](https://ostdb.net/games/star-fox-64) | **Corneria (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/1OG1d1V7DojJ0qYiA0PDGv)<br>**Destinations Map (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/2ub6akTCnX3FRlur4BAHIS)<br>**Katina (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/538Yu8xVDKfqD7atFaYVcw)<br>**Meteo (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/3C4NvT4JafLWyqiougFFtX)<br>**Opening Theme (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/6AeoJyfQknt7afE8IMSEiE)<br>**Select Screen (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/29OnvxyTkFF01166zel3ap)<br>**Title Screen (From "Star Fox 64 GMB Cinematic Soundtrack")** · [Spotify](https://open.spotify.com/album/67aJlqf9iBYS4p9XzJYJif) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320e47ed1e2e80184c5f8ce6e" width="60" /> | [Star Wars Battlefront](https://ostdb.net/games/star-wars-battlefront) | **Star Wars: Battlefront (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3QSV1jMUUJ2baFCfq8YIgG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273191b089dd90b2e84a8bd8fc4" width="60" /> | [Star Wars Battlefront II](https://ostdb.net/games/star-wars-battlefront-ii) | **Star Wars: Battlefront II (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qilh9K60vswro2eujBqwC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273915cb7f1dbb947f760ece407" width="60" /> | [Star Wars Jedi: Fallen Order](https://ostdb.net/games/star-wars-jedi-fallen-order) | **Star Wars Jedi: Fallen Order (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2wOSuU41ufyX9OkcBZ9F6C) |
 
 ### 0-9
 
@@ -863,4 +864,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1099 soundtracks · last updated 2026-08-25T17:47:02.923Z_
+_1100 soundtracks · last updated 2026-08-25T17:47:06.787Z_
