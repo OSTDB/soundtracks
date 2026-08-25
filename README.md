@@ -764,6 +764,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a1b934747b7630bfc3c6c0" width="60" /> | [Resident Evil 6](https://ostdb.net/games/resident-evil-6) | **Resident Evil 6 Original Soundtrack** · [Spotify](https://open.spotify.com/album/1XADjcwaevLuBUVlWhyS9G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273433deeb4d3f09f305e5db9a9" width="60" /> | [Resident Evil 7: Biohazard](https://ostdb.net/games/resident-evil-7-biohazard) | **BIOHAZARD 7 RESIDENT EVIL Best Track Collection** · [Spotify](https://open.spotify.com/album/6H705gAC5mDvzaVXs81yu0)<br>**BIOHAZARD 7 RESIDENT EVIL Special Tracks** · [Spotify](https://open.spotify.com/album/1cejUnbrLGzsvcCrTloWJW)<br>**RESIDENT EVIL 7 biohazard Original Soundtrack** · [Spotify](https://open.spotify.com/album/6ggoh2jAtFdWJOA6cO0ise) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa149c8944ee27a707698fca" width="60" /> | [Resident Evil Requiem](https://ostdb.net/games/resident-evil-requiem) | **Resident Evil Requiem - Extra Tracks** · [Spotify](https://open.spotify.com/album/77ddUeXchUsWbzwK6ZvD1p)<br>**Resident Evil Requiem Original Soundtrack** · [Spotify](https://open.spotify.com/album/427eHPGnKBypTVQ5x1K1GA) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273faca29fcef20f347868a87f5" width="60" /> | [Resident Evil Village](https://ostdb.net/games/resident-evil-village) | **RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2vk75ceKng4mZYzoQKqiIb) |
 
 ### 0-9
 
@@ -776,4 +777,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_986 soundtracks · last updated 2026-08-25T17:17:14.391Z_
+_987 soundtracks · last updated 2026-08-25T17:20:50.222Z_
