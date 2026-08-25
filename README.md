@@ -127,6 +127,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2736842c99f481b8560a7db0b35" width="60" /> | [Baldur's Gate III](https://ostdb.net/games/119171) | Baldur's Gate 3 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/6JR4qLOXu96krMWxBTpXSR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7e095d6385b80c6c7fc2d1b" width="60" /> | [Baldur's Gate III](https://ostdb.net/games/119171) | Baldur's Gate 3 (Original Game Soundtrack): Streets and Taverns | [Spotify](https://open.spotify.com/album/1saifXYtppiHtSmQKDFggA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba0fda45ed0af068e1ce6f3c" width="60" /> | [Baldur's Gate III](https://ostdb.net/games/119171) | Baldur's Gate 3 Guitar Collection | [Spotify](https://open.spotify.com/album/5DZhuqUUpEHCknlL7tSplR) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/ec/2f/bcec2f32-3e9d-588a-08a5-e12ecdec2831/artwork.jpg/600x600bb.jpg" width="60" /> | [Ball x Pit](https://ostdb.net/games/346035) | BALL x PIT (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/ball-x-pit-original-game-soundtrack/1839128069?uo=4) · [Album](https://album.link/i/1839128069) |
 
 ### 0-9
 
@@ -143,4 +144,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_112 soundtracks · last updated 2026-08-25T07:05:51.700Z_
+_113 soundtracks · last updated 2026-08-25T07:05:53.521Z_
