@@ -676,6 +676,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273811201642d36db7e7f18e16e" width="60" /> | [Ori and the Blind Forest](https://ostdb.net/games/ori-and-the-blind-forest) | **Ori and the Blind Forest (Definitive Edition)** · [Spotify](https://open.spotify.com/album/5ZgGLGN7oVtQF2bHJm1311)<br>**Ori and the Blind Forest (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c20c278a68424850767e4d9e" width="60" /> | [Ori and the Will of the Wisps](https://ostdb.net/games/ori-and-the-will-of-the-wisps) | **Ori and the Will of the Wisps (Original Soundtrack Recording)** · [Spotify](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db6b8ae97f69fee1d432334d" width="60" /> | [Outer Wilds](https://ostdb.net/games/outer-wilds) | **Outer Wilds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o)<br>**Outer Wilds: Echoes of the Eye (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs)<br>**Outer Wilds: Echoes of the Eye (The Lost Reels) [Deluxe Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/4vWd6SP0OiBAXINQZumdP2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353455c7abd6c7872c38ada1c" width="60" /> | [Outlast](https://ostdb.net/games/outlast) | **Outlast (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1cqBmpGNxTHLsT6OE1Z1r1) |
 
 ### 0-9
 
@@ -688,4 +689,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_877 soundtracks · last updated 2026-08-25T16:51:36.924Z_
+_878 soundtracks · last updated 2026-08-25T16:51:40.971Z_
