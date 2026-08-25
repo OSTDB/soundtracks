@@ -834,6 +834,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/96/2d/a7962dc3-36f1-348c-5ff8-59cff30df510/artwork.jpg/600x600bb.jpg" width="60" /> | [Somerville](https://ostdb.net/games/somerville) | **Somerville (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4) · [Album](https://album.link/i/1711799339) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f47a2edf009c94a50002051" width="60" /> | [Sonic Forces](https://ostdb.net/games/sonic-forces) | **Sonic Forces Original Soundtrack A Hero Will Rise** · [Spotify](https://open.spotify.com/album/1Ht999BUq7ENW64QwYbugA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0146f1b7ffeb0a6d66bf31a" width="60" /> | [Sonic Generations](https://ostdb.net/games/sonic-generations) | **SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.1)** · [Spotify](https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn)<br>**SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.2)** · [Spotify](https://open.spotify.com/album/0FJAQqlAUqF45cicXfuZpw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a7a8fc35f4dc366e948e2b02" width="60" /> | [Sonic Mania](https://ostdb.net/games/sonic-mania) | **Sonic Mania Original Sound Track (Selected Edition)** · [Spotify](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5) |
 
 ### 0-9
 
@@ -846,4 +847,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1069 soundtracks · last updated 2026-08-25T17:40:58.168Z_
+_1070 soundtracks · last updated 2026-08-25T17:41:03.362Z_
