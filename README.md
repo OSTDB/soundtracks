@@ -52,7 +52,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0ea09074e6c0634b6f5e168" width="60" /> | [Anno 117: Pax Romana](https://ostdb.net/games/anno-117-pax-romana) | **Anno 117: Pax Romana (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0IMO2z0yWS7LNWWHq356Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f83c7a47e9d6b1bb408c4dcf" width="60" /> | [Anno 1800](https://ostdb.net/games/anno-1800) | **Anno 1800 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Dvo7WKqOHr0UL5jhfIRPr)<br>**Anno 1800 – Post-Launch Compilation (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/anthem) | **Anthem (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/apex-legends) | **Apex Legends (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/apex-legends) | **Apex Legends (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd)<br>**Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw) · [Apple Music](https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054) |
 
 ### 0-9
 
@@ -65,4 +65,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_49 soundtracks · last updated 2026-08-25T13:21:17.412Z_
+_50 soundtracks · last updated 2026-08-25T13:21:21.215Z_
