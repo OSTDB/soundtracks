@@ -318,6 +318,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273203bbaab578c03db3a447d67" width="60" /> | [Escape from Tarkov](https://ostdb.net/games/escape-from-tarkov) | **Escape from Tarkov. Raid. (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/7d0bvNhiS8nlDEZfYDTwTP) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/b7/81/30b78128-fc15-2fec-1bea-53f69f3ce36b/cover.jpg/600x600bb.jpg" width="60" /> | [Esoteric Ebb](https://ostdb.net/games/esoteric-ebb) | **Esoteric Ebb, Vol. 1 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/esoteric-ebb-vol-1-original-soundtrack/1882323085?uo=4) · [Album](https://album.link/i/1882323085) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736c8a458f5067fcfa09b7ee27" width="60" /> | [Eternal Strands](https://ostdb.net/games/eternal-strands) | **Eternal Strands (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/6nij8OsV3RavWJSNeuaIq3) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/b1/08/9ab108d5-cfa7-2ded-29c9-2b4011adf78b/8721215562856.png/600x600bb.jpg" width="60" /> | [Europa Universalis V](https://ostdb.net/games/europa-universalis-v) | **Europa Universalis V (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/europa-universalis-v-original-game-soundtrack/1819494174?uo=4) · [Album](https://album.link/i/1819494174) |
 
 ### 0-9
 
@@ -330,4 +331,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_402 soundtracks · last updated 2026-08-25T14:50:52.852Z_
+_403 soundtracks · last updated 2026-08-25T14:50:57.605Z_
