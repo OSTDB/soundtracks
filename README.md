@@ -1018,6 +1018,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a70ea5a1deebf51427d6e2c" width="60" /> | [Valorant](https://ostdb.net/games/valorant) | **Clarity (BUNT. Remix)** · [Spotify](https://open.spotify.com/album/6K2nE1dbUqfQSvYvpI0FK7)<br>**Last Shot** · [Spotify](https://open.spotify.com/album/6YbUryprhSzMIHWxUdxUPL)<br>**M.I.A (VALORANT Game Changers Version)** · [Spotify](https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K)<br>**MV//MNT VOL. 02** · [Spotify](https://open.spotify.com/album/2jtWbfhatZEtFuQYI4H9XV)<br>**MV//MNT VOL. 03** · [Spotify](https://open.spotify.com/album/1jupKa5JdKf2hUanBcTMmV)<br>**MYTH.mix** · [Spotify](https://open.spotify.com/album/3N6WEbFgvSeuwE9NRxLO2t)<br>**RUN! (feat. Lay Bankz)** · [Spotify](https://open.spotify.com/album/2xZzXPedzddYGOzhRpIzvH)<br>**VALORANT Sounds, Vol. 1** · [Spotify](https://open.spotify.com/album/25j6HJglfSOeTMzm5ltSyj)<br>**in my zone** · [Spotify](https://open.spotify.com/album/6oCnO4qhtZbg6goxg14jqu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f19991aa9c33e9cd0d5728a" width="60" /> | [Vampire Survivors](https://ostdb.net/games/vampire-survivors) | **Vampire Survivors: Legacy of the Moonspell (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3d838QKeOuNTvtTvQ3m3Lb)<br>**Vampire Survivors: Tides of the Foscari (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/60hpjXtjlkYVkXdqjKYGAV)<br>**Vampire Survivors: Volume 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0zKaxTtMKbf7SH4zEqcthe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341f6dfc4035911c015211a41" width="60" /> | [Vampire: The Masquerade - Bloodlines](https://ostdb.net/games/vampire-the-masquerade-bloodlines) | **Vampire: The Masquerade - Bloodlines (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2XbziFsnZ9hWS2DGWtXNu7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735bdef5dcb15f46d3ff96e153" width="60" /> | [Vampire: The Masquerade - Bloodlines 2](https://ostdb.net/games/vampire-the-masquerade-bloodlines-2) | **Vampire: The Masquerade - Bloodlines 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4frosi4f327peOOCTIwX3F) |
 
 ### 0-9
 
@@ -1030,4 +1031,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1321 soundtracks · last updated 2026-08-25T18:41:54.340Z_
+_1322 soundtracks · last updated 2026-08-25T18:41:58.868Z_
