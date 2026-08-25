@@ -340,6 +340,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273835e253478d6e5baf86a3ee1" width="60" /> | [Far Cry 5](https://ostdb.net/games/far-cry-5) | **Far Cry 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1SHBTtjQvdlrWt3y7rtaHn)<br>**Far Cry 5 Presents: We Will Rise Again (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4Gxql1kKRbHfHZnqrBGuAz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731879a32d44efe2619536363a" width="60" /> | [Far Cry 6](https://ostdb.net/games/far-cry-6) | **Far Cry 6 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/464LjhUxPGmVwhm49mmSXg)<br>**Far Cry 6: Complete Music (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5ESF5nAk8EzItgGee3RtNM)<br>**Far Cry 6: The Music of Yara (From the Far Cry 6 Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4FbztpW4HQktzl4koc3gdm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c07e90cc10f282d86fed523" width="60" /> | [Far Cry New Dawn](https://ostdb.net/games/far-cry-new-dawn) | **Far Cry New Dawn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6MnWCHQseLeD5OdTggW5iB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738d1b31d9579b6c759de4913d" width="60" /> | [Far Cry: Primal](https://ostdb.net/games/far-cry-primal) | **Far Cry Primal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1smWW6pjklXAe61hde9ql0) |
 
 ### 0-9
 
@@ -352,4 +353,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_430 soundtracks · last updated 2026-08-25T14:56:25.392Z_
+_431 soundtracks · last updated 2026-08-25T14:56:29.397Z_
