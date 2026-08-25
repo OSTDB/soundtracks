@@ -655,6 +655,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/77/17/947717d1-b5fd-bf67-fea4-aba0fe046fe3/198588421086.jpg/600x600bb.jpg" width="60" /> | [Nine Sols](https://ostdb.net/games/nine-sols) | **Nine Sols (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/nine-sols-original-soundtrack/1753187376?uo=4) · [Album](https://album.link/i/1753187376) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273496ac5f3ce17ccdcfeca9314" width="60" /> | [Ninja Gaiden 4](https://ostdb.net/games/ninja-gaiden-4) | **Ninja Gaiden 4 Original Soundtrack** · [Spotify](https://open.spotify.com/album/5W8yC0gQQWgRs2rybdl0M2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c530143bded8275db8e1307" width="60" /> | [Ninja Gaiden: Ragebound](https://ostdb.net/games/ninja-gaiden-ragebound) | **NINJA GAIDEN: Ragebound (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FbIs0Va2ibzbxco84dC5V) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/ce/9e/28ce9e22-8172-f017-757f-a78f8e8ca7e7/077292_J.jpg/600x600bb.jpg" width="60" /> | [Nioh](https://ostdb.net/games/nioh) | **仁王 オリジナルサウンドトラック** · [Spotify](https://music.apple.com/us/album/%E4%BB%81%E7%8E%8B-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1502226324?uo=4) · [Album](https://album.link/i/1502226324) |
 
 ### 0-9
 
@@ -667,4 +668,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_855 soundtracks · last updated 2026-08-25T16:46:27.198Z_
+_856 soundtracks · last updated 2026-08-25T16:46:31.978Z_
