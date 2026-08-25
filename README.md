@@ -680,6 +680,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e6/32/3a/e6323acd-2a89-a9f9-0230-3247ac35e64e/859720195882_cover.jpg/600x600bb.jpg" width="60" /> | [Outlast II](https://ostdb.net/games/outlast-ii) | **Outlast II (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/outlast-ii-original-game-soundtrack/1228266432?uo=4) · [Album](https://album.link/i/1228266432) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fa8ed3647086565c2d4d24b" width="60" /> | [Outriders](https://ostdb.net/games/outriders) | **Outriders (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0UQJWW8he5n68KPhE9NTEC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52" width="60" /> | [Overwatch](https://ostdb.net/games/overwatch) | **Overwatch Collector's Edition Soundtrack** · [Spotify](https://open.spotify.com/album/73SENSYPOTAeBUy7LDvBtr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52" width="60" /> | [Overwatch](https://ostdb.net/games/overwatch) | **Overwatch Collector's Edition Soundtrack** · [Spotify](https://open.spotify.com/album/73SENSYPOTAeBUy7LDvBtr) |
 
 ### 0-9
 
@@ -692,4 +693,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_881 soundtracks · last updated 2026-08-25T16:51:54.685Z_
+_882 soundtracks · last updated 2026-08-25T16:51:59.186Z_
