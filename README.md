@@ -767,6 +767,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273faca29fcef20f347868a87f5" width="60" /> | [Resident Evil Village](https://ostdb.net/games/resident-evil-village) | **RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2vk75ceKng4mZYzoQKqiIb) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/ad/f0/57adf09c-c64a-baa6-2f32-709c123e7e6c/859742777233_cover.jpg/1000x1000bb.jpg" width="60" /> | [Resonance: A Plague Tale Legacy](https://ostdb.net/games/resonance-a-plague-tale-legacy) | **Resonance: A Plague Tale Legacy (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5gTB1Myqlxb2tbRJVW7Ayx) · [Apple Music](https://music.apple.com/us/album/resonance-a-plague-tale-legacy-original-game-soundtrack/6793270478?l=cs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319720a5876b9b799028512ac" width="60" /> | [Return of the Obra Dinn](https://ostdb.net/games/return-of-the-obra-dinn) | **Return of the Obra Dinn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/14osn269HYRr7M2lS2oS9a) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/00/c1/5f00c129-9f3f-cd8e-afe1-e91a000b7ea9/23UM1IM03915.rgb.jpg/600x600bb.jpg" width="60" /> | [Return to Monkey Island](https://ostdb.net/games/return-to-monkey-island) | **Return to Monkey Island (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/return-to-monkey-island-original-video-game-soundtrack/1706182743?uo=4) · [Album](https://album.link/i/1706182743) |
 
 ### 0-9
 
@@ -779,4 +780,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_989 soundtracks · last updated 2026-08-25T17:20:59.209Z_
+_990 soundtracks · last updated 2026-08-25T17:21:04.758Z_
