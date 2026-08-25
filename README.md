@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z) · [0-9](#0-9)
 
 ### A
 
@@ -1083,6 +1083,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e57daecf9b7b99070ce7663c" width="60" /> | [Yandere Simulator](https://ostdb.net/games/yandere-simulator) | **Yandere Simulator Original Soundtrack 2021, Vol. 1** · [Spotify](https://open.spotify.com/album/5IKaplNL0AHE0SHVstFY4n)<br>**Yandere Simulator Original Soundtrack 2021, Vol. 2** · [Spotify](https://open.spotify.com/album/1s0OGOdt3Nm1ad2cC9ZzIP)<br>**Yandere Simulator Original Soundtrack 2022** · [Spotify](https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/ad/9e/f8ad9efa-9067-9520-dce1-55db47365143/811576033183.png/600x600bb.jpg" width="60" /> | [Yooka-Laylee](https://ostdb.net/games/yooka-laylee) | **Yooka-Laylee (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/yooka-laylee-original-game-soundtrack/1501664719?uo=4) · [Album](https://album.link/i/1501664719) |
 
+### Z
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/a8/35/19a83569-0078-a740-a997-757143093b81/cover.jpg/1000x1000bb.jpg" width="60" /> | [Zenless Zone Zero](https://ostdb.net/games/zenless-zone-zero) | **Hyper Commission 2.0 (Zenless Zone Zero Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/hyper-commission-2-0-zenless-zone-zero-original-soundtrack/1873964895?uo=4) · [Album](https://album.link/i/1873964895) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1094,4 +1100,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1421 soundtracks · last updated 2026-08-25T19:06:57.352Z_
+_1422 soundtracks · last updated 2026-08-25T19:07:02.487Z_
