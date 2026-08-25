@@ -831,6 +831,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/e1/78/66e178eb-3f91-d04f-6339-e09f3ab543a6/780163661521.jpg/600x600bb.jpg" width="60" /> | [Smite 2](https://ostdb.net/games/smite-2) | **SMITE 2 (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/smite-2-official-game-soundtrack/1760409404?uo=4) · [Album](https://album.link/i/1760409404) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/9f/c3/d19fc3d5-6987-f336-693c-808085462790/859764942046_cover.jpg/600x600bb.jpg" width="60" /> | [Solar Ash](https://ostdb.net/games/solar-ash) | **Solar Ash (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/solar-ash-original-soundtrack/1643125222?uo=4) · [Album](https://album.link/i/1643125222) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4e7379a936ecbb8caa2c05c" width="60" /> | [Soma](https://ostdb.net/games/soma) | **SOMA (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19nBFW5TDocB8rQTBHO9Qc) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a7/96/2d/a7962dc3-36f1-348c-5ff8-59cff30df510/artwork.jpg/600x600bb.jpg" width="60" /> | [Somerville](https://ostdb.net/games/somerville) | **Somerville (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4) · [Album](https://album.link/i/1711799339) |
 
 ### 0-9
 
@@ -843,4 +844,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1065 soundtracks · last updated 2026-08-25T17:37:13.175Z_
+_1066 soundtracks · last updated 2026-08-25T17:37:18.376Z_
