@@ -710,6 +710,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/72/b7/b772b72c-0d1f-6d34-57c4-9810c3fda0f2/8721416686931.png/600x600bb.jpg" width="60" /> | [Possessor(s)](https://ostdb.net/games/possessor-s) | **POSSESSOR(S) (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/possessor-s-original-soundtrack/1851302948?uo=4) · [Album](https://album.link/i/1851302948) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/7f/46/ab7f4631-2456-01c9-15e6-73da2e94d5f5/artwork.jpg/600x600bb.jpg" width="60" /> | [Post Trauma](https://ostdb.net/games/post-trauma) | **Post Trauma (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/post-trauma-original-soundtrack/1810521799?uo=4) · [Album](https://album.link/i/1810521799)<br>**Post Trauma - Single** · [Spotify](https://music.apple.com/us/album/post-trauma-single/1774961123?uo=4) · [Album](https://album.link/i/1774961123) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal](https://ostdb.net/games/postal) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27347a44c70b36b3fd1aacfbfae" width="60" /> | [Postal 2](https://ostdb.net/games/postal-2) | **Postal & Postal 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6thJ4iC1v3ihCcTexCNzgU) |
 
 ### 0-9
 
@@ -722,4 +723,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_926 soundtracks · last updated 2026-08-25T17:02:12.506Z_
+_927 soundtracks · last updated 2026-08-25T17:05:48.488Z_
