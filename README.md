@@ -1040,6 +1040,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738cea9e05aca1a39ffa01292e" width="60" /> | [Warhammer 40,000: Space Marine](https://ostdb.net/games/warhammer-40-000-space-marine) | **Warhammer 40,000: Space Marine (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5NOC07ejuC5svE6snhXruN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcf1b2c674f5e9e0a79a2f90" width="60" /> | [Warhammer 40,000: Space Marine II](https://ostdb.net/games/warhammer-40-000-space-marine-ii) | **Warhammer 40,000: Space Marine 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5XjvjWWxv6YEFpvunulQzE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363f3be70513eaf47a599854f" width="60" /> | [Wasteland 3](https://ostdb.net/games/wasteland-3) | **Wasteland 3: Hymns & Ballads (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4UzVvF3JMbxM1svS6Ut8eB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27321f8885d43d4707e29aac4c0" width="60" /> | [Watch Dogs](https://ostdb.net/games/watch-dogs) | **Watch Dogs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiJZ2ddV6Ny31J6aHBVKk) |
 
 ### 0-9
 
@@ -1052,4 +1053,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1353 soundtracks · last updated 2026-08-25T18:51:16.127Z_
+_1354 soundtracks · last updated 2026-08-25T18:51:20.451Z_
