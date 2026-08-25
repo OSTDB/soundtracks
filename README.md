@@ -172,6 +172,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9e/65/43/9e6543b7-f4a3-e919-b5d5-05ecea599b21/811576033565.png/600x600bb.jpg" width="60" /> | [Carrion](https://ostdb.net/games/carrion) | **Carrion (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/carrion-original-game-soundtrack/1524271050?uo=4) · [Album](https://album.link/i/1524271050) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731edca0ce125c53b5a103611a" width="60" /> | [Castle Crashers](https://ostdb.net/games/castle-crashers) | **Castle Crashers Themes** · [Spotify](https://open.spotify.com/album/3vt3TNtonZPc8us4MABj4o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bff93ea9999b57b00e143b5" width="60" /> | [Castlevania](https://ostdb.net/games/castlevania) | **Castlevania Original Soundtrack** · [Spotify](https://open.spotify.com/album/6JAnS1tfK3gHce4eLjnWOC) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8e/d2/3f8ed2cb-6e2f-515d-903d-bfa096fd0d48/artwork.jpg/600x600bb.jpg" width="60" /> | [Cat Quest III](https://ostdb.net/games/cat-quest-iii) | **Cat Quest III (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4) · [Album](https://album.link/i/1762343344) |
 
 ### 0-9
 
@@ -184,4 +185,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_202 soundtracks · last updated 2026-08-25T14:00:52.901Z_
+_203 soundtracks · last updated 2026-08-25T14:00:57.620Z_
