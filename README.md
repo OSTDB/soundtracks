@@ -25,6 +25,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273398031a5614e2b330ffc9c6e" width="60" /> | [A Plague Tale: Requiem](https://ostdb.net/games/152242) | A Plague Tale: Requiem (Original Soundtrack) | [Spotify](https://open.spotify.com/album/5Yzbew7AnCrYDAD0fPkT3T) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8b4524d928f403c7042940" width="60" /> | [A Short Hike](https://ostdb.net/games/116753) | A Short Hike | [Spotify](https://open.spotify.com/album/2JshDNPO0R0OrXRqO7oIIB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366cbc5183929f2d43dc485c0" width="60" /> | [A Way Out](https://ostdb.net/games/36897) | A Way Out (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0c8aa904c211f1f46735228" width="60" /> | [ARC Raiders](https://ostdb.net/games/185258) | ARC Raiders (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/0ByQSivdl2dJdSTulqzBOV) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/28/2c/94282c4c-a4f5-4cd0-9eb3-7a21d2af39e5/PA00134026_0_180021_jacket.jpg/600x600bb.jpg" width="60" /> | [Ace Combat 7: Skies Unknown](https://ostdb.net/games/14758) | ACE COMBAT 7: Skies Unknown (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4) · [Album](https://album.link/i/1724893711) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323e3eaf5ae420dd755f310c2" width="60" /> | [Ace Combat: Assault Horizon](https://ostdb.net/games/531) | ACE COMBAT ASSAULT HORIZON Original Soundtrack | [Spotify](https://open.spotify.com/album/5VQHio0GwQxH4Zs7U7jJwm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/dd/91/6fdd91cb-fbe7-733a-2326-23e4b43d3d5a/810123166244.png/600x600bb.jpg" width="60" /> | [Afterparty](https://ostdb.net/games/78152) | Afterparty | [Spotify](https://music.apple.com/us/album/afterparty/1804710578?uo=4) · [Album](https://album.link/i/1804710578) |
@@ -61,4 +62,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_35 soundtracks · last updated 2026-08-25T06:45:57.948Z_
+_36 soundtracks · last updated 2026-08-25T06:45:59.843Z_
