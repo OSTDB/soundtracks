@@ -996,6 +996,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273aa82e45cd18df77d166e7977" width="60" /> | [Uncharted 2: Among Thieves](https://ostdb.net/games/uncharted-2-among-thieves) | **Uncharted 2: Among Thieves (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369453e92913ed939a7c11b64" width="60" /> | [Uncharted 3: Drake's Deception](https://ostdb.net/games/uncharted-3-drakes-deception) | **Uncharted 3: Drake's Deception (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5LrG1kmYsNmMvKh9ofcvrc) |
 
 ### 0-9
 
@@ -1008,4 +1009,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1291 soundtracks · last updated 2026-08-25T18:36:06.953Z_
+_1292 soundtracks · last updated 2026-08-25T18:36:12.131Z_
