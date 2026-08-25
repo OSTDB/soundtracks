@@ -1043,6 +1043,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27321f8885d43d4707e29aac4c0" width="60" /> | [Watch Dogs](https://ostdb.net/games/watch-dogs) | **Watch Dogs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiJZ2ddV6Ny31J6aHBVKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9d9db2218bb7e0e0ff8887f" width="60" /> | [Watch Dogs 2](https://ostdb.net/games/watch-dogs-2) | **Watch Dogs 2 Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2jD8KimPoLcPE21gK3i1Sr) · [Apple Music](https://music.apple.com/us/album/dedsec-watch-dogs-2-original-game-soundtrack/1168661969) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6bdb2a2ea2a62667b039cf4" width="60" /> | [Watch Dogs: Legion](https://ostdb.net/games/watch-dogs-legion) | **Watch Dogs: Legion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6k0WbEKdmZyLaYtl1JvP06)<br>**Watch Dogs: Legion - Bloodline (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4DPKq0deFUNjGT9ESuY9HB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27300613f5902f8da45d4bb0f1c" width="60" /> | [We Were Here Expeditions: The FriendShip](https://ostdb.net/games/we-were-here-expeditions-the-friendship) | **We Were Here Expeditions: The FriendShip (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Wxf6H5U1RSotDI0lsdRxE) |
 
 ### 0-9
 
@@ -1055,4 +1056,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1357 soundtracks · last updated 2026-08-25T18:51:37.007Z_
+_1358 soundtracks · last updated 2026-08-25T18:51:41.139Z_
