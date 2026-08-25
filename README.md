@@ -203,6 +203,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273874c6d90012e65e4de94610d" width="60" /> | [Cronos: The New Dawn](https://ostdb.net/games/cronos-the-new-dawn) | **Cronos: The New Dawn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7zzcgH4Ls9ITc64EPpAGPE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389f43a7f99466fc08bc50947" width="60" /> | [Crysis 2](https://ostdb.net/games/crysis-2) | **Crysis 2** · [Spotify](https://open.spotify.com/album/0VjrajlqFQUYud5YDKYxNH) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/8e/8c/3e8e8ccb-6945-0370-fdf3-d598d2c7d98c/3663729441638_cover.jpg/1000x1000bb.jpg" width="60" /> | [Cthulhu: The Cosmic Abyss](https://ostdb.net/games/cthulhu-the-cosmic-abyss) | **Cthulhu The Cosmic Abyss (Original Soundtrack) [feat. Tina Guo]** · [Apple Music](https://music.apple.com/us/album/cthulhu-the-cosmic-abyss-original-soundtrack-feat-tina-guo/1894271902?uo=4) · [Album](https://album.link/i/1894271902) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305ded1194cfefa65af276a4e" width="60" /> | [Cuphead](https://ostdb.net/games/cuphead) | **Cuphead (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu) |
 
 ### 0-9
 
@@ -215,4 +216,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_243 soundtracks · last updated 2026-08-25T14:10:57.434Z_
+_244 soundtracks · last updated 2026-08-25T14:11:01.034Z_
