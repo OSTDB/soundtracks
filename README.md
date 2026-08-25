@@ -813,6 +813,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9e/1b/5f/9e1b5f78-8fd2-a745-ab45-9cc3eb393e15/3663729143570_cover.jpg/1000x1000bb.jpg" width="60" /> | [Shenmue III](https://ostdb.net/games/shenmue-iii) | **Shenmue III The Definitive Soundtrack** · [Apple Music](https://music.apple.com/us/album/shenmue-iii-the-definitive-soundtrack/1547575397?uo=4) · [Album](https://album.link/i/1547575397) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737582b1edfeac005f53f1a49d" width="60" /> | [Shin Megami Tensei V: Vengeance](https://ostdb.net/games/shin-megami-tensei-v-vengeance) | **Shin Megami Tensei V: Vengeance Original Soundtrack** · [Spotify](https://open.spotify.com/album/1zO2V5WtzAHLulAiRUoUcS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733759235f0bba18d3051dca54" width="60" /> | [Shovel Knight](https://ostdb.net/games/shovel-knight) | **Shovel Knight The Definitive Soundtrack** · [Spotify](https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27332eaaf5e0282f4605d34536f" width="60" /> | [Sid Meier's Civilization VI](https://ostdb.net/games/sid-meiers-civilization-vi) | **Sid Meier's Civilization VI (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2) |
 
 ### 0-9
 
@@ -825,4 +826,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1045 soundtracks · last updated 2026-08-25T17:32:06.850Z_
+_1046 soundtracks · last updated 2026-08-25T17:32:11.947Z_
