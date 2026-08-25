@@ -47,6 +47,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f9e3244b815da46cd246c4f" width="60" /> | [Albion Online](https://ostdb.net/games/19698) | Albion Online: Beyond the Veil (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7Myk0hc4UdqzXZrMSU7QeZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ab97657dd6309bfb3daabe3" width="60" /> | [Albion Online](https://ostdb.net/games/19698) | Albion Online: Lands Awakened (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/77eYSmKbjgGtssZ2t8xyY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345e9d667429df74e607f5967" width="60" /> | [Albion Online](https://ostdb.net/games/19698) | Albion Online: Rise of Avalon (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7JuFj5Z22JpGdLVUm3aXHy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f60164329f8e430b0061364" width="60" /> | [Alien: Isolation](https://ostdb.net/games/4754) | Alien: Isolation (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ) |
 
 ### 0-9
 
@@ -63,4 +64,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_37 soundtracks · last updated 2026-08-25T06:45:01.010Z_
+_38 soundtracks · last updated 2026-08-25T06:45:03.636Z_
