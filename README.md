@@ -16,7 +16,13 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[0-9](#0-9)
+[A](#a) · [0-9](#0-9)
+
+### A
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/af/95/8aaf9512-b9c3-1e66-be69-0f9b7c217c77/859723515090_cover.jpg/600x600bb.jpg" width="60" /> | [A Hat in Time](https://ostdb.net/games/a-hat-in-time) | **A Hat in Time (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4) · [Album](https://album.link/i/1299393881) |
 
 ### 0-9
 
@@ -29,4 +35,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_8 soundtracks · last updated 2026-08-25T13:10:40.240Z_
+_9 soundtracks · last updated 2026-08-25T13:10:43.019Z_
