@@ -165,6 +165,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2735077f6d6eddd3ca99157639f" width="60" /> | [BioShock Infinite](https://ostdb.net/games/538) | Bioshock Infinite - After You've Gone - Main Theme | [Spotify](https://open.spotify.com/album/477Zdh9sUk9wKxjXw7zemx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273954dd27b6c23d96c1316ad04" width="60" /> | [Biomutant](https://ostdb.net/games/54842) | Biomutant (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/2LD9tt2gdlML2es5XZH2x4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b72c78aa721beab0ddaaa106" width="60" /> | [Black Mesa](https://ostdb.net/games/6739) | Black Mesa Soundtrack | [Spotify](https://open.spotify.com/album/1muCc0xAE42hkbwhnu4ALc) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737c06eed183de7869dd59a61d" width="60" /> | [Black Myth: Wukong](https://ostdb.net/games/136879) | 《黑神话：悟空》游戏音乐精选集（Black Myth: Wukong Soundtrack Selection） | [Spotify](https://open.spotify.com/album/0tdZ4l3vrAbRFcCT7B4kmY) |
 
 ### 0-9
 
@@ -181,4 +182,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_150 soundtracks · last updated 2026-08-25T07:15:46.075Z_
+_151 soundtracks · last updated 2026-08-25T07:15:48.021Z_
