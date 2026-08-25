@@ -602,6 +602,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9d14a61f033ae9e82a7a7ee" width="60" /> | [Metal Gear Solid 4: Guns of the Patriots](https://ostdb.net/games/metal-gear-solid-4-guns-of-the-patriots) | **METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5f25a9bc55275bcf4c2d2b9" width="60" /> | [Metal Gear Solid Delta: Snake Eater](https://ostdb.net/games/metal-gear-solid-delta-snake-eater) | **METAL GEAR SOLID Δ: SNAKE EATER (ORIGINAL SOUNDTRACK)** · [Spotify](https://open.spotify.com/album/1tSkLcMMxz6JRI6A3tLTRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5f25a9bc55275bcf4c2d2b9" width="60" /> | [Metal Gear Solid V: The Phantom Pain](https://ostdb.net/games/metal-gear-solid-v-the-phantom-pain) | **METAL GEAR SOLID Δ: SNAKE EATER (ORIGINAL SOUNDTRACK)** · [Spotify](https://open.spotify.com/album/1tSkLcMMxz6JRI6A3tLTRE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273190c14807f4821560cfb8614" width="60" /> | [Metal Slug](https://ostdb.net/games/metal-slug) | **Metal Slug Tactics (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6hKl1F85awlR62pFFqGl2I) |
 
 ### 0-9
 
@@ -614,4 +615,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_774 soundtracks · last updated 2026-08-25T16:26:22.733Z_
+_775 soundtracks · last updated 2026-08-25T16:26:27.142Z_
