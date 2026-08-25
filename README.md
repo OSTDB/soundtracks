@@ -607,6 +607,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f0cc5dea6d3b98b9745a5ae7" width="60" /> | [Metaphor: ReFantazio](https://ostdb.net/games/metaphor-refantazio) | **Metaphor: ReFantazio Original Soundtrack** · [Spotify](https://open.spotify.com/album/2xtfVwo1C8S6pwAoOoU559)<br>**Metaphor: ReFantazio Special Soundtrack** · [Spotify](https://open.spotify.com/album/4t0OSUQj2rwY3vQnWRYXVm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bd30be81c2ee6f235794ad3" width="60" /> | [Metro 2033](https://ostdb.net/games/metro-2033) | **Metro 2033 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1WWW60sb6bTikzNd1PUzSf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bd30be81c2ee6f235794ad3" width="60" /> | [Metro 2033 Redux](https://ostdb.net/games/metro-2033-redux) | **Metro 2033 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1WWW60sb6bTikzNd1PUzSf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27361ef5c66240a84435d3bf32b" width="60" /> | [Metro Exodus](https://ostdb.net/games/metro-exodus) | **Metro Exodus Soundtrack** · [Spotify](https://open.spotify.com/album/48skMic15wV2zu4HAOx28s) |
 
 ### 0-9
 
@@ -619,4 +620,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_780 soundtracks · last updated 2026-08-25T16:26:49.265Z_
+_781 soundtracks · last updated 2026-08-25T16:26:53.496Z_
