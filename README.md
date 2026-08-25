@@ -959,6 +959,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273248ba64df3cd01498bb9f10f" width="60" /> | [The Talos Principle](https://ostdb.net/games/the-talos-principle) | **The Talos Principle (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7CneZnc5pSVscz4QszEGht) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/14/7c/14/147c1406-d2bc-a5a7-763d-dcd607594749/artwork.jpg/600x600bb.jpg" width="60" /> | [The Turing Test](https://ostdb.net/games/the-turing-test) | **The Turing Test (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-turing-test-original-game-soundtrack/1149057891?uo=4) · [Album](https://album.link/i/1149057891) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27390be048c91915f41181fc262" width="60" /> | [The Walking Dead](https://ostdb.net/games/the-walking-dead) | **The Walking Dead: The Telltale Series Soundtrack (Season 1, Pt. 1)** · [Spotify](https://open.spotify.com/album/1y7gG7YkBPThMQnchbWQaU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher](https://ostdb.net/games/the-witcher) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 
 ### 0-9
 
@@ -971,4 +972,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1251 soundtracks · last updated 2026-08-25T18:26:09.179Z_
+_1252 soundtracks · last updated 2026-08-25T18:26:14.651Z_
