@@ -521,7 +521,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/5c/a9/195ca990-472f-f270-031b-428dc17c957e/dj.fyfcgnpm.jpg/600x600bb.jpg" width="60" /> | [Killing Floor 2](https://ostdb.net/games/killing-floor-2) | **Killing Floor 2 (Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/killing-floor-2-video-game-soundtrack/982942195?uo=4) · [Album](https://album.link/i/982942195) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335a62f13bb75911008d20449" width="60" /> | [Killing Floor III](https://ostdb.net/games/killing-floor-iii) | **Killing Floor 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6waZ9YsTCsWBuM26Z9v6Fo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333e0e068c7cf9bb9805815bf" width="60" /> | [Kingdom Come: Deliverance](https://ostdb.net/games/kingdom-come-deliverance) | **Kingdom Come: Deliverance (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27317138be0fd62144b040c2d9b" width="60" /> | [Kingdom Come: Deliverance II](https://ostdb.net/games/kingdom-come-deliverance-ii) | **Kingdom Come: Deliverance II (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/5vKkv2K1xaCByhz04JaiQn)<br>**Music of Pubs & Baths (Kingdom Come: Deliverance II Extended Soundtrack)** · [Spotify](https://open.spotify.com/album/6yQJ9PlkrZLaL3jPi02nq9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317138be0fd62144b040c2d9b" width="60" /> | [Kingdom Come: Deliverance II](https://ostdb.net/games/kingdom-come-deliverance-ii) | **Kingdom Come: Deliverance II (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/5vKkv2K1xaCByhz04JaiQn)<br>**Music of Pubs & Baths (Kingdom Come: Deliverance II Extended Soundtrack)** · [Spotify](https://open.spotify.com/album/6yQJ9PlkrZLaL3jPi02nq9)<br>**Music of Trosky (Kingdom Come: Deliverance II Extended Soundtrack)** · [Spotify](https://open.spotify.com/album/7JcqD03gIdkbZFkdZNW7oW) |
 
 ### 0-9
 
@@ -534,4 +534,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_672 soundtracks · last updated 2026-08-25T16:01:11.026Z_
+_673 soundtracks · last updated 2026-08-25T16:01:15.405Z_
