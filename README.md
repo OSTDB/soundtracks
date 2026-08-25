@@ -695,6 +695,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/23/10/e5231053-bbe8-80cf-6307-d4425e54a973/5053760117070.png/600x600bb.jpg" width="60" /> | [Pepper Grinder](https://ostdb.net/games/pepper-grinder) | **Pepper Grinder (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4) · [Album](https://album.link/i/1745068247) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4](https://ostdb.net/games/persona-4) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Golden](https://ostdb.net/games/persona-4-golden) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys)<br>**ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Revival](https://ostdb.net/games/persona-4-revival) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
 
 ### 0-9
 
@@ -707,4 +708,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_900 soundtracks · last updated 2026-08-25T16:56:47.471Z_
+_901 soundtracks · last updated 2026-08-25T16:56:52.160Z_
