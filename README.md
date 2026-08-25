@@ -98,6 +98,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d5291fcec7aedfe5265c6c" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Out of the North (Original Soundtrack) | [Spotify](https://open.spotify.com/album/1XVLOMqM70YmlLnkLCWAR8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734c3059d6cc85a0f191dc7599" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Sons of the Great North (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6CHc9xmOgdJKBvsP5tX7KX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330fdf1dbf050f911754d311f" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack) | [Spotify](https://open.spotify.com/album/110uNoGfCxMoMgbE7t8fBU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e95f4dec214d02d3060234d0" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: The Siege of Paris (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/2clk3QfapfzKkrSOnUishJ) |
 
 ### 0-9
 
@@ -114,4 +115,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_88 soundtracks · last updated 2026-08-25T07:00:43.817Z_
+_89 soundtracks · last updated 2026-08-25T07:00:45.839Z_
