@@ -40,6 +40,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe678571545d5d7e0c662f32" width="60" /> | [Age of Empires II: The Age of Kings](https://ostdb.net/games/327) | Age of Empires II Definitive Edition, Vol. 2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/0rfBys0r43S965yGUo7grO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363a972b3ee2fc1e25d61fef4" width="60" /> | [Age of Empires III](https://ostdb.net/games/299) | Age of Empires III (Definitive Edition) | [Spotify](https://open.spotify.com/album/1Hxlk2iuzHt5rgbQMQm5V5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273332c82b8b845a28e03c90e26" width="60" /> | [Age of Empires IV](https://ostdb.net/games/55029) | Age Of Empires IV (Extended Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1DGQDLGxnsFOP8UYxyyN6g) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/7c/49/8a7c499c-28a4-66df-47d1-e11ff8e87e37/198704110603_Cover.jpg/1000x1000bb.jpg" width="60" /> | [Age of Mythology: Retold](https://ostdb.net/games/222803) | Age Of Mythology Retold | [Apple Music](https://music.apple.com/us/album/age-of-mythology-retold/1763605860?uo=4) · [Album](https://album.link/i/1763605860) |
 
 ### 0-9
 
@@ -56,4 +57,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_30 soundtracks · last updated 2026-08-25T06:44:44.210Z_
+_31 soundtracks · last updated 2026-08-25T06:44:46.938Z_
