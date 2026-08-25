@@ -780,6 +780,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a82a02e5c283d3a70ebf24ad" width="60" /> | [Rocket League Sideswipe](https://ostdb.net/games/rocket-league-sideswipe) | **Rocket League: Sideswipe (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/7jIRopIWDP8zwlq6RfsWpS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eced698bff79d23073ade885" width="60" /> | [Rogue Legacy](https://ostdb.net/games/rogue-legacy) | **Rogue Legacy (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3q7evrOM3P3Q2VpOn3C5gQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737df13c3effa3dd085cb7fe96" width="60" /> | [RollerCoaster Tycoon 2](https://ostdb.net/games/rollercoaster-tycoon-2) | **Main Theme (From "RollerCoaster Tycoon 2")** · [Spotify](https://open.spotify.com/album/2JwrW0L5hTP5Zo5KcLDGOZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737df13c3effa3dd085cb7fe96" width="60" /> | [RollerCoaster Tycoon 3](https://ostdb.net/games/rollercoaster-tycoon-3) | **Main Theme (From "RollerCoaster Tycoon 2")** · [Spotify](https://open.spotify.com/album/2JwrW0L5hTP5Zo5KcLDGOZ) |
 
 ### 0-9
 
@@ -792,4 +793,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1009 soundtracks · last updated 2026-08-25T17:25:56.609Z_
+_1010 soundtracks · last updated 2026-08-25T17:26:01.414Z_
