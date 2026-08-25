@@ -940,6 +940,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/b9/78/76b97813-cc96-c825-8999-c7bf738fa9aa/3616552673899.jpg/600x600bb.jpg" width="60" /> | [The Medium](https://ostdb.net/games/the-medium) | **The Medium (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-medium-original-game-soundtrack/1746308052?uo=4) · [Album](https://album.link/i/1746308052) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4dcde04007fa5cf03b9effb" width="60" /> | [The Midnight Walk](https://ostdb.net/games/the-midnight-walk) | **The Midnight Walk (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/137eY5Pe8DpnI9V3CRONM0) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2f/53/742f5353-69db-472f-2a21-52afcff54d45/7300349645881.jpg/1000x1000bb.jpg" width="60" /> | [The Occultist](https://ostdb.net/games/the-occultist) | **The Occultist (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/the-occultist-original-video-game-soundtrack/1892042305?uo=4) · [Album](https://album.link/i/1892042305) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e13b9a7a44f95ab37b99861" width="60" /> | [The Orange Box](https://ostdb.net/games/the-orange-box) | **The Orange Box (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syA0RmvTCZ3W78EMiByTa) |
 
 ### 0-9
 
@@ -952,4 +953,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1230 soundtracks · last updated 2026-08-25T18:21:03.698Z_
+_1231 soundtracks · last updated 2026-08-25T18:21:08.415Z_
