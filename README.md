@@ -445,6 +445,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/9a/7f/799a7fd0-f681-15b6-cf88-1f79bf6796f3/198001563416.png/1000x1000bb.jpg" width="60" /> | [Halo: Campaign Evolved](https://ostdb.net/games/halo-campaign-evolved) | **Covenant Dance (From "Halo: Combat Evolved") [Remake 2021] - Single** · [Apple Music](https://music.apple.com/us/album/covenant-dance-from-halo-combat-evolved-remake-2021-single/1597849643?uo=4) · [Album](https://album.link/i/1597849643)<br>**Halo: Combat Evolved (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/halo-combat-evolved-original-soundtrack/1682519536?uo=4) · [Album](https://album.link/i/1682519536)<br>**Halo: Combat Evolved Anniversary (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/halo-combat-evolved-anniversary-original-soundtrack/1682536194?uo=4) · [Album](https://album.link/i/1682536194) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731531d525ee57b2f6b44d9260" width="60" /> | [Halo: Combat Evolved](https://ostdb.net/games/halo-combat-evolved) | **Halo: Combat Evolved (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736026e2faf75794b222e8c0e2" width="60" /> | [Halo: Reach](https://ostdb.net/games/halo-reach) | **Halo: Reach (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6uUz4LzAehf8ZzWhZzoIc1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733d85808897b5cd1ef0b31a1e" width="60" /> | [Halo: The Master Chief Collection](https://ostdb.net/games/halo-the-master-chief-collection) | **Halo 2, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/29K85ghxBzcQHPNPX6QVld) |
 
 ### 0-9
 
@@ -457,4 +458,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_580 soundtracks · last updated 2026-08-25T15:36:38.617Z_
+_581 soundtracks · last updated 2026-08-25T15:36:42.269Z_
