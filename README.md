@@ -65,6 +65,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b25f472dbe302bb5c3bd2592" width="60" /> | [Assassin's Creed Brotherhood](https://ostdb.net/games/assassins-creed-brotherhood) | **Assassin's Creed Brotherhood (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1qvTY6mcUNAzP9BCABiMIe) · [Apple Music](https://music.apple.com/us/album/assassins-creed-brotherhood-original-game-soundtrack/1640078747) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/assassins-creed-ii) | **Assassin's Creed 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/assassins-creed-ii) | **Assassin's Creed 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27309b5a361d82bb471d9d38c07" width="60" /> | [Assassin's Creed III](https://ostdb.net/games/assassins-creed-iii) | **Assassin's Creed 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy) |
 
 ### 0-9
 
@@ -77,4 +78,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_67 soundtracks · last updated 2026-08-25T13:26:09.542Z_
+_68 soundtracks · last updated 2026-08-25T13:26:14.126Z_
