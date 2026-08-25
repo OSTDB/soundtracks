@@ -621,6 +621,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273adacd2c69aabd53c50edd68a" width="60" /> | [Mio: Memories in Orbit](https://ostdb.net/games/mio-memories-in-orbit) | **MIO: Memories in Orbit (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5RyKJQMMiMQTjfW6lvTF3m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27384ffaa884f1344f916f87299" width="60" /> | [Mirror's Edge](https://ostdb.net/games/mirrors-edge) | **Mirror's Edge (Original Videogame Score)** · [Spotify](https://open.spotify.com/album/07igNBjUqmgregGtDpnTNg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377ee9e2be5e1ba80106cfe53" width="60" /> | [Mirror's Edge Catalyst](https://ostdb.net/games/mirrors-edge-catalyst) | **Mirror's Edge Catalyst (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/2wy9EzWP9NuyVt4TSCz3qs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f71f2f4d90c8df4a6ec38675" width="60" /> | [Mobile Legends: Bang Bang](https://ostdb.net/games/mobile-legends-bang-bang) | **B.A.N.G** · [Spotify](https://open.spotify.com/album/2lPb4CMgS8o0nD3Z5Mt5MK) |
 
 ### 0-9
 
@@ -633,4 +634,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_812 soundtracks · last updated 2026-08-25T16:36:11.537Z_
+_813 soundtracks · last updated 2026-08-25T16:36:15.905Z_
