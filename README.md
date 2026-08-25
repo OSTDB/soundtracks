@@ -496,7 +496,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/95/c3/9c95c392-4b7a-54bc-e105-2e567444bb31/f5a4f4e7-d33a-4457-91ec-aad6a498de36.jpg/600x600bb.jpg" width="60" /> | [Insurgency: Sandstorm](https://ostdb.net/games/insurgency-sandstorm) | **Insurgency: Sandstorm (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1708391877?uo=4) · [Album](https://album.link/i/1708391877)<br>**Insurgency: Sandstorm (Original Video Game Soundtrack), Vol. II** · [Spotify](https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1783316406?uo=4) · [Album](https://album.link/i/1783316406) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273706d196a31a51dacea189378" width="60" /> | [Into the Breach](https://ostdb.net/games/into-the-breach) | **Into the Breach Soundtrack** · [Spotify](https://open.spotify.com/album/5HaoWXvyhc7jFlPb0vCVfM) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/bc/de/22bcde47-554f-3494-2d2d-b8e10381855e/8721466136646.png/600x600bb.jpg" width="60" /> | [Invincible Vs.](https://ostdb.net/games/invincible-vs) | **Invincible VS (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/invincible-vs-original-game-soundtrack/1884287801?uo=4) · [Album](https://album.link/i/1884287801) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27364f81b5b57ae9d53c07ec567" width="60" /> | [Inzoi](https://ostdb.net/games/inzoi) | **inZOI : Island Getaway Soundtrack (DLC)** · [Spotify](https://open.spotify.com/album/0qGZT9xgqUspvx0mOvbqDu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27364f81b5b57ae9d53c07ec567" width="60" /> | [Inzoi](https://ostdb.net/games/inzoi) | **inZOI : Island Getaway Soundtrack (DLC)** · [Spotify](https://open.spotify.com/album/0qGZT9xgqUspvx0mOvbqDu)<br>**inZOI: Original Soundtrack (Early Access)** · [Spotify](https://open.spotify.com/album/56iJ3GVdTvvhZJfMqZdzxb) |
 
 ### 0-9
 
@@ -509,4 +509,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_651 soundtracks · last updated 2026-08-25T15:56:02.211Z_
+_652 soundtracks · last updated 2026-08-25T15:56:06.436Z_
