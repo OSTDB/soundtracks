@@ -901,6 +901,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e9726694dc3974b1d231755" width="60" /> | [Tekken 5](https://ostdb.net/games/tekken-5) | **TEKKEN 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3VmBSW1iNRRgRp4wTSnQ7n)<br>**TEKKEN 5 DARK RESURRECTION (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3JiKbufQ6jn4YAwmQbcrjz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350d891828e868c643e48b097" width="60" /> | [Tekken 7](https://ostdb.net/games/tekken-7) | **TEKKEN 7 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3FbknwsvffLmSpdKdtmyyZ)<br>**TEKKEN 7 (Original Soundtrack) [vol.2]** · [Spotify](https://open.spotify.com/album/4w5u1ApwM6kZz7evqqW0QP) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/55/34/26553421-66c8-0cf3-3b13-001a50f21694/artwork.jpg/600x600bb.jpg" width="60" /> | [Tempest Rising](https://ostdb.net/games/tempest-rising) | **Tempest Rising (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tempest-rising-original-game-soundtrack/1828806556?uo=4) · [Album](https://album.link/i/1828806556) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/28/8e/5a288eec-4713-9cc7-bd23-64c5a270d938/artwork.jpg/600x600bb.jpg" width="60" /> | [Terminator: Survivors](https://ostdb.net/games/terminator-survivors) | **Terminator Survivors (The Aftermath Trailer soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/terminator-survivors-the-aftermath-trailer-soundtrack/1738445443?uo=4) · [Album](https://album.link/i/1738445443) |
 
 ### 0-9
 
@@ -913,4 +914,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1155 soundtracks · last updated 2026-08-25T18:01:30.015Z_
+_1156 soundtracks · last updated 2026-08-25T18:01:35.409Z_
