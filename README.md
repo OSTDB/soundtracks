@@ -857,6 +857,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27320e47ed1e2e80184c5f8ce6e" width="60" /> | [Star Wars: Battlefront](https://ostdb.net/games/star-wars-battlefront) | **Star Wars: Battlefront (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3QSV1jMUUJ2baFCfq8YIgG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273191b089dd90b2e84a8bd8fc4" width="60" /> | [Star Wars: Battlefront II](https://ostdb.net/games/star-wars-battlefront-ii) | **Star Wars: Battlefront II (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qilh9K60vswro2eujBqwC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cfa53143a42f9168fe29ee57" width="60" /> | [Star Wars: Knights of the Old Republic](https://ostdb.net/games/star-wars-knights-of-the-old-republic) | **Star Wars: Knights of the Old Republic II – The Sith Lords (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/28A1rmPQ5b0VvysXWxnkLJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cfa53143a42f9168fe29ee57" width="60" /> | [Star Wars: Knights of the Old Republic II - The Sith Lords](https://ostdb.net/games/star-wars-knights-of-the-old-republic-ii-the-sith-lords) | **Star Wars: Knights of the Old Republic II – The Sith Lords (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/28A1rmPQ5b0VvysXWxnkLJ) |
 
 ### 0-9
 
@@ -869,4 +870,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1106 soundtracks · last updated 2026-08-25T17:47:33.794Z_
+_1107 soundtracks · last updated 2026-08-25T17:50:49.070Z_
