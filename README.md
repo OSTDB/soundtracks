@@ -45,6 +45,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f60164329f8e430b0061364" width="60" /> | [Alien: Isolation](https://ostdb.net/games/alien-isolation) | **Alien: Isolation (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361372a875ec8c254f6046870" width="60" /> | [Amnesia: A Machine for Pigs](https://ostdb.net/games/amnesia-a-machine-for-pigs) | **Amnesia: A Machine for Pigs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/13A78JSddJrfblPkMdXND2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ec30cc09171e890a275e52ab" width="60" /> | [Amnesia: The Dark Descent](https://ostdb.net/games/amnesia-the-dark-descent) | **Amnesia: The Dark Descent (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0cQnMgWqL2mpuEiQ4cYJx0) · [Apple Music](https://music.apple.com/us/album/amnesia-the-dark-descent-original-game-soundtrack/1501860159) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d123957361ad3c05a693181d" width="60" /> | [Among Us](https://ostdb.net/games/among-us) | **Among Us Theme** · [Spotify](https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0) |
 
 ### 0-9
 
@@ -57,4 +58,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_40 soundtracks · last updated 2026-08-25T13:16:50.421Z_
+_41 soundtracks · last updated 2026-08-25T13:20:48.824Z_
