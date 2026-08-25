@@ -285,6 +285,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins](https://ostdb.net/games/dragon-age-origins) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins - Awakening](https://ostdb.net/games/dragon-age-origins-awakening) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2239925f340dfd031ef1e4a" width="60" /> | [Dragon Age: The Veilguard](https://ostdb.net/games/dragon-age-the-veilguard) | **Dragon Age: The Veilguard (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5E12lxPMKhhkS5IXl0jtsk)<br>**Dragon Age: The Veilguard Main Theme [From "Dragon Age: The Veilguard (Original Soundtrack)"]** · [Spotify](https://open.spotify.com/album/5MEWANQ4igrisbN7mDFYho) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273506d4863d9bf9a5648ec9727" width="60" /> | [Dragon's Dogma II](https://ostdb.net/games/dragons-dogma-ii) | **Dragon's Dogma 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XLrb4v672hJNV3YO4LPUo) |
 
 ### 0-9
 
@@ -297,4 +298,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_364 soundtracks · last updated 2026-08-25T14:41:02.373Z_
+_365 soundtracks · last updated 2026-08-25T14:41:07.007Z_
