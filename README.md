@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [0-9](#0-9)
 
 ### A
 
@@ -208,6 +208,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" /> | [Cyberpunk 2077](https://ostdb.net/games/cyberpunk-2077) | **Cyberpunk 2077 - Original Score** · [Spotify](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp)<br>**Cyberpunk 2077 - Original Score EP** · [Spotify](https://open.spotify.com/album/2GNFbKiwmvWQaOfYeRjDd4)<br>**Cyberpunk 2077: More Music from Night City Radio (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC)<br>**Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4IzV5XnSOvOBZ2z9WKsi3W)<br>**Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A)<br>**Cyberpunk 2077: Radio, Vol. 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4L3cV9CUK0MVXUXLYkWY23)<br>**Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bfc999ddee55ad4c4995619b" width="60" /> | [Cyberpunk 2077: Phantom Liberty](https://ostdb.net/games/cyberpunk-2077-phantom-liberty) | **Cyberpunk 2077: Phantom Liberty (Original Score - Deluxe Edition)** · [Spotify](https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh)<br>**Cyberpunk 2077: Phantom Liberty (Original Score)** · [Spotify](https://open.spotify.com/album/0YmI7KdXpmTikNmFHVMilu) |
 
+### D
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/3d/98/513d9861-002b-3b8c-0513-afabfa76ddd9/4571374915482_cover.jpg/600x600bb.jpg" width="60" /> | [Daemon x Machina: Titanic Scion](https://ostdb.net/games/daemon-x-machina-titanic-scion) | **DAEMON X MACHINA Original Soundtrack** · [Spotify](https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4) · [Album](https://album.link/i/1479691576) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -219,4 +225,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_255 soundtracks · last updated 2026-08-25T14:11:47.140Z_
+_256 soundtracks · last updated 2026-08-25T14:11:51.053Z_
