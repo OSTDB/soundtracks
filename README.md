@@ -751,6 +751,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4943032ae2f885baa50313f" width="60" /> | [Remember Me](https://ostdb.net/games/remember-me) | **Remember Me (feat. Philharmonia Orchestra) [Original Soundtrack]** · [Spotify](https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a001fe4724414a194b35603" width="60" /> | [Resident Evil 2](https://ostdb.net/games/resident-evil-2) | **Resident Evil 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/29iqxEoRySD2jW0VXNjRzu) · [Apple Music](https://music.apple.com/us/album/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89-re-2-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1451575319?l=cs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e4bb95d1fa4e3d52e951cd" width="60" /> | [Resident Evil 2](https://ostdb.net/games/resident-evil-2) | **Resident Evil 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6g1kFxoweA9jLX4Vb4f1Gd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27336f1f8d22e27899a60289452" width="60" /> | [Resident Evil 3](https://ostdb.net/games/resident-evil-3) | **Resident Evil 3 Special Soundtrack** · [Spotify](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) |
 
 ### 0-9
 
@@ -763,4 +764,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_969 soundtracks · last updated 2026-08-25T17:15:56.152Z_
+_970 soundtracks · last updated 2026-08-25T17:16:00.819Z_
