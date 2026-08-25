@@ -81,6 +81,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/a6/92/bda6929b-1b66-2995-2147-ac045ff82b61/artwork.jpg/600x600bb.jpg" width="60" /> | [Astroneer](https://ostdb.net/games/astroneer) | **Astroneer (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack/1184503748?uo=4) · [Album](https://album.link/i/1184503748)<br>**Astroneer (Original Game Soundtrack) Volume 2** · [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4) · [Album](https://album.link/i/1313308881) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/b4/34/81b43427-9032-75af-3c5c-e7a94d42f4e6/PA00200523_0_228942_jacket.jpg/600x600bb.jpg" width="60" /> | [Atelier Yumia: The Alchemist of Memories & the Envisioned Land](https://ostdb.net/games/atelier-yumia-the-alchemist-of-memories-and-the-envisioned-land) | **Atelier Yumia: the Alchemist of Memories & the Envisioned Land (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4) · [Album](https://album.link/i/1837059774) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/df/3a/a8df3ac0-e082-e940-b91f-0ae49fba48a0/197190789010.jpg/600x600bb.jpg" width="60" /> | [Atlas Fallen](https://ostdb.net/games/atlas-fallen) | **Atlas Fallen (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4) · [Album](https://album.link/i/1724853286) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d5c0a5bc4afd1d9d16cac98e" width="60" /> | [Atomic Heart](https://ostdb.net/games/atomic-heart) | **Atomic Heart (Original Game Soundtrack) Vol.1** · [Spotify](https://open.spotify.com/album/3MSPMZnQtg2wCxkuaz7lCU) |
 
 ### 0-9
 
@@ -93,4 +94,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_98 soundtracks · last updated 2026-08-25T13:31:54.391Z_
+_99 soundtracks · last updated 2026-08-25T13:31:58.111Z_
