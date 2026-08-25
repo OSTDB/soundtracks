@@ -186,6 +186,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/23/17/7a231712-c4ed-f99a-a636-8b03ef653957/artwork.jpg/600x600bb.jpg" width="60" /> | [Cloverpit](https://ostdb.net/games/cloverpit) | **CloverPit (Original Soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/cloverpit-original-soundtrack-single/1842729435?uo=4) · [Album](https://album.link/i/1842729435) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273198189ab0548d73143ba7ce5" width="60" /> | [Code Vein](https://ostdb.net/games/code-vein) | **CODE VEIN Original Soundtrack** · [Spotify](https://open.spotify.com/album/0Dt2xVZ4ahjqRjDIz5Jfxu) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/12/19/4012194e-bad9-53b7-143e-9d4504353693/PA00105546_3_154599_jacket.jpg/1000x1000bb.jpg" width="60" /> | [Code Vein II](https://ostdb.net/games/code-vein-ii) | **Code Vein (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/code-vein-original-soundtrack/1644859831?uo=4) · [Album](https://album.link/i/1644859831)<br>**Code Vein Ⅱ - Main Theme - Single** · [Apple Music](https://music.apple.com/us/album/code-vein-main-theme-single/1838651736?uo=4) · [Album](https://album.link/i/1838651736) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/c2/8b/0cc28bd5-dd5f-95c1-4540-5dc5439e4d8a/artwork.jpg/600x600bb.jpg" width="60" /> | [Code Violet](https://ostdb.net/games/code-violet) | **Code Violet (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4) · [Album](https://album.link/i/1866128877) |
 
 ### 0-9
 
@@ -198,4 +199,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_224 soundtracks · last updated 2026-08-25T14:06:01.424Z_
+_225 soundtracks · last updated 2026-08-25T14:06:05.577Z_
