@@ -947,6 +947,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b17c361c34dd626781d91dec" width="60" /> | [The Plucky Squire](https://ostdb.net/games/the-plucky-squire) | **The Plucky Squire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6d1Kq46nCQQLr5x7jjaF9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730659339c434f07beb835941c" width="60" /> | [The Precinct](https://ostdb.net/games/the-precinct) | **The Precinct (Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0WtrTNBnJiyVfjEkXqRVqd) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/17/a2/0817a22f-95b0-471a-8ded-af8c91173492/3663729396228_cover.jpg/600x600bb.jpg" width="60" /> | [The Rogue Prince of Persia](https://ostdb.net/games/the-rogue-prince-of-persia) | **The Rogue Prince of Persia (The Complete Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225?uo=4) · [Album](https://album.link/i/1830448225) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d9689627cde7a24697f84bc" width="60" /> | [The Secret of Monkey Island](https://ostdb.net/games/the-secret-of-monkey-island) | **Monkey Island Theme (From "The Secret of Monkey Island") [Tavern Version]** · [Spotify](https://open.spotify.com/album/0ET5NuhF5WJpuRxuTVpC9N) |
 
 ### 0-9
 
@@ -959,4 +960,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1237 soundtracks · last updated 2026-08-25T18:21:36.818Z_
+_1238 soundtracks · last updated 2026-08-25T18:21:41.286Z_
