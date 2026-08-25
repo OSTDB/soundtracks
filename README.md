@@ -109,6 +109,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/b4/34/81b43427-9032-75af-3c5c-e7a94d42f4e6/PA00200523_0_228942_jacket.jpg/600x600bb.jpg" width="60" /> | [Atelier Yumia: The Alchemist of Memories & the Envisioned Land](https://ostdb.net/games/314943) | Atelier Yumia: the Alchemist of Memories & the Envisioned Land (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4) · [Album](https://album.link/i/1837059774) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/df/3a/a8df3ac0-e082-e940-b91f-0ae49fba48a0/197190789010.jpg/600x600bb.jpg" width="60" /> | [Atlas Fallen](https://ostdb.net/games/214409) | Atlas Fallen (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4) · [Album](https://album.link/i/1724853286) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d5c0a5bc4afd1d9d16cac98e" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart (Original Game Soundtrack) Vol.1 | [Spotify](https://open.spotify.com/album/3MSPMZnQtg2wCxkuaz7lCU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27305387a820c2f217f5eb407e9" width="60" /> | [Atomic Heart](https://ostdb.net/games/76747) | Atomic Heart, Vol.2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7seBeGlBX5DtvEhldgbI8q) |
 
 ### 0-9
 
@@ -125,4 +126,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_99 soundtracks · last updated 2026-08-25T07:01:07.633Z_
+_100 soundtracks · last updated 2026-08-25T07:01:09.906Z_
