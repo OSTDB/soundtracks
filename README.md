@@ -917,6 +917,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/a6/4f/0ea64f7a-3c9f-2b3a-2a38-77a87c37cd4f/3663729054111_cover.jpg/600x600bb.jpg" width="60" /> | [The Crew 2](https://ostdb.net/games/the-crew-2) | **The Crew 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-crew-2-original-game-soundtrack/1594441555?uo=4) · [Album](https://album.link/i/1594441555) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8a8250a7570db957d5792a2" width="60" /> | [The Dark Pictures Anthology: Man of Medan](https://ostdb.net/games/the-dark-pictures-anthology-man-of-medan) | **The Dark Pictures Anthology: Man of Medan (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/64lei3sfEkuot8MnEAefPj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c514472ef0b60fae00177687" width="60" /> | [The Elder Scrolls III: Morrowind](https://ostdb.net/games/the-elder-scrolls-iii-morrowind) | **The Elder Scrolls III: Morrowind (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4sUEXYiX5dLNq0N284zTua) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27313d5746aa8f8ec2b8813d306" width="60" /> | [The Elder Scrolls IV: Oblivion](https://ostdb.net/games/the-elder-scrolls-iv-oblivion) | **The Elder Scrolls IV: Oblivion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6N8T2IG2ztOrDXXAdmJUP5) |
 
 ### 0-9
 
@@ -929,4 +930,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1185 soundtracks · last updated 2026-08-25T18:07:15.036Z_
+_1186 soundtracks · last updated 2026-08-25T18:07:19.213Z_
