@@ -58,6 +58,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273f83c7a47e9d6b1bb408c4dcf" width="60" /> | [Anno 1800](https://ostdb.net/games/55036) | Anno 1800 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/5Dvo7WKqOHr0UL5jhfIRPr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db0a8bb8ba586b9e2cbdd6b5" width="60" /> | [Anno 1800](https://ostdb.net/games/55036) | Anno 1800 – Post-Launch Compilation (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/36950) | Anthem (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/114795) | Apex Legends (Original Soundtrack) | [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd) |
 
 ### 0-9
 
@@ -74,4 +75,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_48 soundtracks · last updated 2026-08-25T06:50:44.637Z_
+_49 soundtracks · last updated 2026-08-25T06:50:46.698Z_
