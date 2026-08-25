@@ -785,6 +785,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War](https://ostdb.net/games/rome-total-war) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Alexander](https://ostdb.net/games/rome-total-war-alexander) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Barbarian Invasion](https://ostdb.net/games/rome-total-war-barbarian-invasion) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/87/68/7c876843-600d-9100-c551-7d4315419ba5/8721466129389.png/600x600bb.jpg" width="60" /> | [Rust](https://ostdb.net/games/rust) | **Rust Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N) · [Apple Music](https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023) · [Album](https://album.link/i/1887857023) |
 
 ### 0-9
 
@@ -797,4 +798,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1014 soundtracks · last updated 2026-08-25T17:26:19.716Z_
+_1015 soundtracks · last updated 2026-08-25T17:26:23.750Z_
