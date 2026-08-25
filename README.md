@@ -120,6 +120,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33f191570b327c989976220" width="60" /> | [Beyond Good & Evil](https://ostdb.net/games/beyond-good-and-evil) | **Beyond Good and Evil 20th Anniversary (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1VHWvVa7DVTR6igxCVHP3l) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27338e52f5d4343995653376218" width="60" /> | [Beyond: Two Souls](https://ostdb.net/games/beyond-two-souls) | **Beyond: Two Souls (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a8097948a01da4e3b6e27283" width="60" /> | [BioShock 2](https://ostdb.net/games/bioshock-2) | **Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game** · [Spotify](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735077f6d6eddd3ca99157639f" width="60" /> | [BioShock Infinite](https://ostdb.net/games/bioshock-infinite) | **Bioshock Infinite - After You've Gone - Main Theme** · [Spotify](https://open.spotify.com/album/477Zdh9sUk9wKxjXw7zemx) |
 
 ### 0-9
 
@@ -132,4 +133,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_147 soundtracks · last updated 2026-08-25T13:46:10.878Z_
+_148 soundtracks · last updated 2026-08-25T13:46:14.803Z_
