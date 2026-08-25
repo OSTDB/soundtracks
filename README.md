@@ -96,6 +96,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcc3349cbe642f327a02b282" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Blood, Fire, Tears (Dawn of Ragnarök Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/3kz3z5MewDUNEXLzdUQWdv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326e5850b3c9620e477fcb011" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Dawn of Ragnarök (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/3BjlyxJMtsTQJnZREHRNwz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b2d5291fcec7aedfe5265c6c" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Out of the North (Original Soundtrack) | [Spotify](https://open.spotify.com/album/1XVLOMqM70YmlLnkLCWAR8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c3059d6cc85a0f191dc7599" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Sons of the Great North (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6CHc9xmOgdJKBvsP5tX7KX) |
 
 ### 0-9
 
@@ -112,4 +113,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_86 soundtracks · last updated 2026-08-25T07:00:39.634Z_
+_87 soundtracks · last updated 2026-08-25T07:00:41.644Z_
