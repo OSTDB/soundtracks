@@ -387,6 +387,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/df/9f/ff/df9fff36-0f49-56df-2e8f-a227f8572998/191061549987.jpg/600x600bb.jpg" width="60" /> | [Get Even](https://ostdb.net/games/get-even) | **Get Even (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4) · [Album](https://album.link/i/1238451700) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/26/6d/61/266d612c-7147-2362-01a7-1b5bc213d9bf/artwork.jpg/600x600bb.jpg" width="60" /> | [Ghost Song](https://ostdb.net/games/ghost-song) | **Ghost Song (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghost-song-original-game-soundtrack/1650917141?uo=4) · [Album](https://album.link/i/1650917141) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima](https://ostdb.net/games/ghost-of-tsushima) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima: Director's Cut](https://ostdb.net/games/ghost-of-tsushima-directors-cut) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
 
 ### 0-9
 
@@ -399,4 +400,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_511 soundtracks · last updated 2026-08-25T15:21:01.702Z_
+_512 soundtracks · last updated 2026-08-25T15:21:05.709Z_
