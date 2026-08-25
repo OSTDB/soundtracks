@@ -817,6 +817,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27388a8d6db048ec4364c56583f" width="60" /> | [Sid Meier's Civilization VII](https://ostdb.net/games/sid-meiers-civilization-vii) | **Sid Meier's Civilization VII (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5544cb7421364721f760dad" width="60" /> | [Silent Hill 2](https://ostdb.net/games/silent-hill-2) | **SILENT HILL 2 ORIGINAL SOUNDTRACK -2024-** · [Spotify](https://open.spotify.com/album/41VcU0C6ZqUmPEgL9amcqw)<br>**SILENT HILL 2 ORIGINAL SOUNDTRACK -2024- Extra Edition** · [Spotify](https://open.spotify.com/album/5QrIOFDYaunR708DEYrcvu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734951c33c9c8273a0f0d2da22" width="60" /> | [Silent Hill 2](https://ostdb.net/games/silent-hill-2) | **SILENT HILL2 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/37SU6K9WOuYJ5VQQ3UmtKO) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273832b77dc1cfccecad346457f" width="60" /> | [Silent Hill 3](https://ostdb.net/games/silent-hill-3) | **SILENT HILL3 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/7mUy29OoRRIqmm3XsBrdoV) |
 
 ### 0-9
 
@@ -829,4 +830,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1050 soundtracks · last updated 2026-08-25T17:36:04.439Z_
+_1051 soundtracks · last updated 2026-08-25T17:36:09.316Z_
