@@ -762,7 +762,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ebeabadec5a32af7fa6652a" width="60" /> | [Resident Evil 4: Mobile Edition](https://ostdb.net/games/resident-evil-4-mobile-edition) | **Resident Evil 4 Sound Collection** · [Spotify](https://open.spotify.com/album/2ySOqNj3s1LhMkcKWoKYl2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b14206d42523dc40eec3eef" width="60" /> | [Resident Evil 5](https://ostdb.net/games/resident-evil-5) | **Biohazard5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1s5GqO8enWc2EmJHhpUWn1) · [Apple Music](https://music.apple.com/cz/album/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%895-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/305850628) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364a1b934747b7630bfc3c6c0" width="60" /> | [Resident Evil 6](https://ostdb.net/games/resident-evil-6) | **Resident Evil 6 Original Soundtrack** · [Spotify](https://open.spotify.com/album/1XADjcwaevLuBUVlWhyS9G) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273433deeb4d3f09f305e5db9a9" width="60" /> | [Resident Evil 7: Biohazard](https://ostdb.net/games/resident-evil-7-biohazard) | **BIOHAZARD 7 RESIDENT EVIL Best Track Collection** · [Spotify](https://open.spotify.com/album/6H705gAC5mDvzaVXs81yu0)<br>**BIOHAZARD 7 RESIDENT EVIL Special Tracks** · [Spotify](https://open.spotify.com/album/1cejUnbrLGzsvcCrTloWJW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273433deeb4d3f09f305e5db9a9" width="60" /> | [Resident Evil 7: Biohazard](https://ostdb.net/games/resident-evil-7-biohazard) | **BIOHAZARD 7 RESIDENT EVIL Best Track Collection** · [Spotify](https://open.spotify.com/album/6H705gAC5mDvzaVXs81yu0)<br>**BIOHAZARD 7 RESIDENT EVIL Special Tracks** · [Spotify](https://open.spotify.com/album/1cejUnbrLGzsvcCrTloWJW)<br>**RESIDENT EVIL 7 biohazard Original Soundtrack** · [Spotify](https://open.spotify.com/album/6ggoh2jAtFdWJOA6cO0ise) |
 
 ### 0-9
 
@@ -775,4 +775,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_983 soundtracks · last updated 2026-08-25T17:17:00.809Z_
+_984 soundtracks · last updated 2026-08-25T17:17:05.548Z_
