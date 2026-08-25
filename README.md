@@ -357,6 +357,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab0de0ee1b4099ae9f3daf95" width="60" /> | [Final Fantasy XIII](https://ostdb.net/games/final-fantasy-xiii) | **FINAL FANTASY XIII Original Soundtrack** · [Spotify](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g)<br>**FINAL FANTASY XIII-2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK)<br>**LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736011819525a1d54e78836426" width="60" /> | [Final Fantasy XIII-2](https://ostdb.net/games/final-fantasy-xiii-2) | **FINAL FANTASY XIII-2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f12e9091af7a7626f1bf37db" width="60" /> | [Final Fantasy XV](https://ostdb.net/games/final-fantasy-xv) | **FINAL FANTASY XV Original Soundtrack** · [Spotify](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732f0f0877a0d7301a716fb9c2" width="60" /> | [Final Fantasy XVI](https://ostdb.net/games/final-fantasy-xvi) | **FINAL FANTASY XVI Original Soundtrack** · [Spotify](https://open.spotify.com/album/18XUpKyB2Ptj73BZzA6scS) |
 
 ### 0-9
 
@@ -369,4 +370,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_449 soundtracks · last updated 2026-08-25T15:01:21.204Z_
+_450 soundtracks · last updated 2026-08-25T15:01:26.209Z_
