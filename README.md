@@ -825,6 +825,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273359cd1a4a09bcbd4f63e45d5" width="60" /> | [Skull and Bones](https://ostdb.net/games/skull-and-bones) | **Skull and Bones (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3kuFLe0af6knBBoRtYDta0)<br>**Skull and Bones: Rise of the Kingpins (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Ka5oZIVMtC7SU0e3EdZ1e) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/4b/ba/d54bba7e-9143-2851-f737-fdabde127932/780163672121.jpg/600x600bb.jpg" width="60" /> | [Skydance's Behemoth](https://ostdb.net/games/skydances-behemoth) | **Skydance's BEHEMOTH (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/skydances-behemoth-original-game-soundtrack/1810311737?uo=4) · [Album](https://album.link/i/1810311737) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcec406a14284cb37371f958" width="60" /> | [Slay the Spire](https://ostdb.net/games/slay-the-spire) | **Slay the Spire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5AdlJGBQAioI4n8ZQCTG33) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/70/67/9b7067b7-f05b-3c92-db44-bc9c043edc70/196873675886.jpg/600x600bb.jpg" width="60" /> | [Sleep Awake](https://ostdb.net/games/sleep-awake) | **Sleep Awake (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4) · [Album](https://album.link/i/1853942095) |
 
 ### 0-9
 
@@ -837,4 +838,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1059 soundtracks · last updated 2026-08-25T17:36:46.430Z_
+_1060 soundtracks · last updated 2026-08-25T17:36:51.385Z_
