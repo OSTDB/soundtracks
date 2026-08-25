@@ -389,6 +389,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima](https://ostdb.net/games/ghost-of-tsushima) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima: Director's Cut](https://ostdb.net/games/ghost-of-tsushima-directors-cut) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329d460119dff39078361513d" width="60" /> | [Ghost of Yotei](https://ostdb.net/games/ghost-of-yotei) | **Ghost of Yōtei (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7fvFqlSScHtQ6RVpV7XN3Y) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d9/96/14d9963e-74ba-6bae-8d8e-f3fdcdd9d0d9/196874199831.jpg/600x600bb.jpg" width="60" /> | [Ghost of Yotei: Legends](https://ostdb.net/games/ghost-of-yotei-legends) | **Ghost of Yōtei Legends (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghost-of-y%C5%8Dtei-legends-original-soundtrack/1887165944?uo=4) · [Album](https://album.link/i/1887165944) |
 
 ### 0-9
 
@@ -401,4 +402,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_513 soundtracks · last updated 2026-08-25T15:21:09.898Z_
+_514 soundtracks · last updated 2026-08-25T15:21:14.074Z_
