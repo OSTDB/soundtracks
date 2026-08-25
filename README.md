@@ -297,6 +297,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b115f5280b63bbbbd8c6f290" width="60" /> | [Dying Light](https://ostdb.net/games/dying-light) | **Dying Light (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4o6yHpn2AY3E00wpeP9drI)<br>**Dying Light: The Bozak Horde (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4Pjq36hTVet7KYapefp7Z0)<br>**Dying Light: The Following (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7kobJ5vE5lgyq0keEpMfCx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731191472294b5568cb4230b51" width="60" /> | [Dying Light 2: Stay Human](https://ostdb.net/games/dying-light-2-stay-human) | **Dying Light 2 Stay Human (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5ur7NIodjVeOdQAnHUNPTJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273115eaf86a8a5e219eca21511" width="60" /> | [Dying Light: The Beast](https://ostdb.net/games/dying-light-the-beast) | **Dying Light: The Beast (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4lFhlh9HpI8hed0HFsF3Ki) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/86/cc/4b86ccff-8cf5-c164-7da2-0fb99e1f27c5/PA00213657_1_240787_jacket.jpg/600x600bb.jpg" width="60" /> | [Dynasty Warriors: Origins](https://ostdb.net/games/dynasty-warriors-origins) | **Dynasty Warriors: Origins + Visions of Four Heroes (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/dynasty-warriors-origins-visions-of-four-heroes/1880302431?uo=4) · [Album](https://album.link/i/1880302431) |
 
 ### 0-9
 
@@ -309,4 +310,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_380 soundtracks · last updated 2026-08-25T14:42:15.054Z_
+_381 soundtracks · last updated 2026-08-25T14:45:48.830Z_
