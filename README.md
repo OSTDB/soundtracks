@@ -1064,6 +1064,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a903a4b330dca3e6fab05558" width="60" /> | [World of Warcraft: Cataclysm](https://ostdb.net/games/world-of-warcraft-cataclysm) | **World of Warcraft: Cataclysm (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1kL1L0jw3yW4l312Se50XP)<br>**World of Warcraft: Cataclysm Original Soundtrack** · [Spotify](https://open.spotify.com/album/2FwGdWEQ3LdWRdnUotSD64) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27349f7720a05ae123fda060ad5" width="60" /> | [World of Warcraft: The Burning Crusade](https://ostdb.net/games/world-of-warcraft-the-burning-crusade) | **World of Warcraft: The Burning Crusade Original Soundtrack** · [Spotify](https://open.spotify.com/album/2iuGJN8oFczX7R8rMvQnkq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273354a2bc4726942dca13885ef" width="60" /> | [World of Warcraft: Wrath of the Lich King](https://ostdb.net/games/world-of-warcraft-wrath-of-the-lich-king) | **World of Warcraft: Wrath of the Lich King Original Soundtrack** · [Spotify](https://open.spotify.com/album/2Xp4otgl6M8iAK9srxuawh) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/9e/4b/509e4bed-61fd-fb14-b805-28e48d2d2db3/199800832321.jpg/600x600bb.jpg" width="60" /> | [World of Warships](https://ostdb.net/games/world-of-warships) | **A Decade at Sea (Anniversary Soundtrack Collection)** · [Spotify](https://music.apple.com/us/album/a-decade-at-sea-anniversary-soundtrack-collection/1865570857?uo=4) · [Album](https://album.link/i/1865570857) |
 
 ### 0-9
 
@@ -1076,4 +1077,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1398 soundtracks · last updated 2026-08-25T19:01:45.762Z_
+_1399 soundtracks · last updated 2026-08-25T19:01:49.955Z_
