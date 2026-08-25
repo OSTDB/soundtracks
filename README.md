@@ -130,6 +130,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/2f/16/5e2f16fa-8d12-254e-86ff-f2b1671f34bb/artwork.jpg/600x600bb.jpg" width="60" /> | [Bleak Faith: Forsaken](https://ostdb.net/games/bleak-faith-forsaken) | **Übermensch (from Bleak Faith: Forsaken) - Single** · [Spotify](https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4) · [Album](https://album.link/i/1570538934) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8" width="60" /> | [Bloodborne](https://ostdb.net/games/bloodborne) | **Bloodborne Original Soundtrack** · [Spotify](https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL)<br>**Bloodborne the Old Hunters Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273875ba1a62fe21d124fd4709d" width="60" /> | [Bloons TD 6](https://ostdb.net/games/bloons-td-6) | **Bloons Tower Defense 6 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5th4BDlPz8KDSHKWemthHh)<br>**Sails Again : Bloons Tower Defense 6 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3lOvrOzOjUeDy2u0DT2MA3)<br>**Winter Is Coming, Bloons Tower Defense 6 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4jzKBW04YNZTbJw1YhKPbm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738e1c96164f16a7a35608e5b8" width="60" /> | [Blue Prince](https://ostdb.net/games/blue-prince) | **Blue Prince - The Original Soundtrack** · [Spotify](https://open.spotify.com/album/4BFnDRHgKikc9HZbGNZPNn) |
 
 ### 0-9
 
@@ -142,4 +143,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_160 soundtracks · last updated 2026-08-25T13:47:01.331Z_
+_161 soundtracks · last updated 2026-08-25T13:50:48.735Z_
