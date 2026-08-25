@@ -95,6 +95,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/ec/2f/bcec2f32-3e9d-588a-08a5-e12ecdec2831/artwork.jpg/600x600bb.jpg" width="60" /> | [Ball x Pit](https://ostdb.net/games/ball-x-pit) | **BALL x PIT (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/ball-x-pit-original-game-soundtrack/1839128069?uo=4) · [Album](https://album.link/i/1839128069) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397ae11a69efd78d88238ba45" width="60" /> | [Bastion](https://ostdb.net/games/bastion) | **Bastion Original Soundtrack** · [Spotify](https://open.spotify.com/album/2r4a3PREYIRF2QdbcPnrEO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c16e37995b122c1bfcab9c06" width="60" /> | [Batman: Arkham Asylum](https://ostdb.net/games/batman-arkham-asylum) | **Batman: Arkham Asylum (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/74GEvuE0RHdovProvUrGEt) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273947f89646e236798bae3aa1b" width="60" /> | [Batman: Arkham City](https://ostdb.net/games/batman-arkham-city) | **Batman: Arkham City (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL) |
 
 ### 0-9
 
@@ -107,4 +108,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_115 soundtracks · last updated 2026-08-25T13:36:40.177Z_
+_116 soundtracks · last updated 2026-08-25T13:36:43.988Z_
