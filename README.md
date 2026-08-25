@@ -116,6 +116,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735937e852f0c7935feb612a2d" width="60" /> | [Bayonetta](https://ostdb.net/games/bayonetta) | **BAYONETTA Original Soundtrack (Vol. 3)** · [Spotify](https://open.spotify.com/album/0gbCEGCVlc1LYWTUw7eHhh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f28d6b7edf68c40dec23bd" width="60" /> | [Bayonetta 2](https://ostdb.net/games/bayonetta-2) | **BAYONETTA 2 Original Soundtrack (Vol. 1)** · [Spotify](https://open.spotify.com/album/7n72bbR6BZjcK4UrUkEr72)<br>**BAYONETTA 2 Original Soundtrack (Vol. 2)** · [Spotify](https://open.spotify.com/album/72kpBnT3p5VDc3MukvnG9C)<br>**BAYONETTA 2 Original Soundtrack (Vol. 3)** · [Spotify](https://open.spotify.com/album/6v3RvJ9WhM3qnDkCv1Gr9i)<br>**BAYONETTA 2 Original Soundtrack (Vol. 4)** · [Spotify](https://open.spotify.com/album/48O82ARzlDY7DOxHPJZ7YL)<br>**BAYONETTA 2 Original Soundtrack (Vol. 5)** · [Spotify](https://open.spotify.com/album/3zS2SZxS9qiYgysrde8FH1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd542f427477ea8fb242d4e8" width="60" /> | [Bayonetta 3](https://ostdb.net/games/bayonetta-3) | **BAYONETTA 3 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/1211sU3w0IhoCHuyAXMQqn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e5af0e90266198d87ba6f4e3" width="60" /> | [Below](https://ostdb.net/games/below) | **Below (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9) |
 
 ### 0-9
 
@@ -128,4 +129,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_143 soundtracks · last updated 2026-08-25T13:45:55.339Z_
+_144 soundtracks · last updated 2026-08-25T13:45:59.176Z_
