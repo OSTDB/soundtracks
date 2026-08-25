@@ -970,6 +970,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732cff40156a150f6c73d345d7" width="60" /> | [This War of Mine](https://ostdb.net/games/this-war-of-mine) | **This War of Mine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/a0/46/5ca046b5-e6b0-eaa6-5c4a-e794904a7c59/artwork.jpg/600x600bb.jpg" width="60" /> | [Tiny Glade](https://ostdb.net/games/tiny-glade) | **Tiny Glade (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4) · [Album](https://album.link/i/1770531849) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e23b4eca6e885b7c1c4aa4b" width="60" /> | [Titanfall](https://ostdb.net/games/titanfall) | **Titanfall** · [Spotify](https://open.spotify.com/album/5jbYUxvdzAj6zpSp01o1J8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8b008615918e3da909a455e" width="60" /> | [Titanfall 2](https://ostdb.net/games/titanfall-2) | **Titanfall 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6obLTHdJ6Dt2fubk4iP9QB) |
 
 ### 0-9
 
@@ -982,4 +983,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1265 soundtracks · last updated 2026-08-25T18:27:14.449Z_
+_1266 soundtracks · last updated 2026-08-25T18:27:19.476Z_
