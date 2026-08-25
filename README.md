@@ -952,6 +952,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/ea/1e/32ea1ebc-96e5-8dbd-7dac-70cfe70754f5/jacket_SVWC70040B00Z_550.jpg/600x600bb.jpg" width="60" /> | [The Seven Deadly Sins: Origin](https://ostdb.net/games/the-seven-deadly-sins-origin) | **七つの大罪 オリジナル・サウンドトラック** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1537790373?uo=4) · [Album](https://album.link/i/1537790373)<br>**七つの大罪 オリジナル・サウンドトラック 2** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-2/1537791355?uo=4) · [Album](https://album.link/i/1537791355) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335b061ddb14b44a1a8fdffad" width="60" /> | [The Sims](https://ostdb.net/games/the-sims) | **The Sims (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0sSQLHnZOm240uhrPmycuk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46" width="60" /> | [The Sims 2](https://ostdb.net/games/the-sims-2) | **The Sims 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12" width="60" /> | [The Sims 3](https://ostdb.net/games/the-sims-3) | **The Sims 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop) |
 
 ### 0-9
 
@@ -964,4 +965,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1243 soundtracks · last updated 2026-08-25T18:22:05.268Z_
+_1244 soundtracks · last updated 2026-08-25T18:22:10.312Z_
