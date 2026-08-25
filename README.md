@@ -927,6 +927,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d57fc75b5d8a6901912c67ff" width="60" /> | [The Finals](https://ostdb.net/games/the-finals) | **THE FINALS (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3qa278k1yFyeCfZyGL7clo)<br>**THE FINALS (S3 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3IjdSoJTM4pdlUUSLQzTv3)<br>**THE FINALS (S4 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6hNwygvY7mqq6uoJ5lreQD)<br>**THE FINALS (S5 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4ZgxMrdqWmQGaloQrXGfRY)<br>**THE FINALS (S6 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1zrdgL2WmTj90iQrREUzjK)<br>**THE FINALS (S7 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/01uooqbnU173TI4thOlwSg)<br>**THE FINALS (S8 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6xrygAfeoaO5ZAsfR70E9D)<br>**THE FINALS (S9 Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5GYsfi0PJhPJGIvUG66xgp)<br>**THE FINALS B-SIDES (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6XDJSmH3JvwRRuJJHK3EmT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b6f0e643f8fd4c6f427539ef" width="60" /> | [The First Berserker: Khazan](https://ostdb.net/games/the-first-berserker-khazan) | **The First Berserker: Khazan (Extended Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0OIYWNtzajWwqJmm8cDUDD)<br>**The First Berserker: Khazan (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2vjngJHHiAl1Ne9UCc3AZ5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c2b3be02979e2e5227b39d" width="60" /> | [The First Descendant](https://ostdb.net/games/the-first-descendant) | **The First Descendant (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4wglXs9CPzXyzUdQNXIa0y) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/25/3d/cf253db7-4df5-6dfb-7fa7-a9b42962f869/artwork.jpg/600x600bb.jpg" width="60" /> | [The Forever Winter](https://ostdb.net/games/the-forever-winter) | **The Forever Winter (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4) · [Album](https://album.link/i/1770372804) |
 
 ### 0-9
 
@@ -939,4 +940,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1213 soundtracks · last updated 2026-08-25T18:16:18.163Z_
+_1214 soundtracks · last updated 2026-08-25T18:16:23.909Z_
