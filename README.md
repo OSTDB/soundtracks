@@ -1007,6 +1007,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c63510450bc728123634e44e" width="60" /> | [Unknown 9: Awakening](https://ostdb.net/games/unknown-9-awakening) | **Unknown 9: Awakening (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/15TWz4YSHmhrGI7F8kAVlB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f7b6d05ea5a1ed8c279a641" width="60" /> | [Unravel](https://ostdb.net/games/unravel) | **Unravel (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3TjU2yKwySPgoS0JhsGckG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27308545d392c5081860c3fe32e" width="60" /> | [Until Dawn](https://ostdb.net/games/until-dawn) | **Until Dawn (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5kNixndCUgxDLsGem0IgDJ)<br>**Until Dawn (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3VnBTVrco3d2LJyfdvpp33) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737fdb8e8ba698ddf7c052840d" width="60" /> | [Until Dawn](https://ostdb.net/games/until-dawn) | **Until Dawn (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3VnBTVrco3d2LJyfdvpp33) |
 
 ### 0-9
 
@@ -1019,4 +1020,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1305 soundtracks · last updated 2026-08-25T18:37:13.964Z_
+_1306 soundtracks · last updated 2026-08-25T18:37:19.091Z_
