@@ -281,6 +281,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/f0/6d/adf06da1-b288-94da-5163-6b7b6e50d9ae/artwork.jpg/600x600bb.jpg" width="60" /> | [Dosa Divas](https://ostdb.net/games/dosa-divas) | **Dosa Divas (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dosa-divas-original-video-game-soundtrack/1890991981?uo=4) · [Album](https://album.link/i/1890991981) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a1de04c51a595e81f943f28" width="60" /> | [Dota 2](https://ostdb.net/games/dota-2) | **The Dota 2 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/6fpvsv041NQCRMpxAvwgLI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aeb708b08a8e826989252666" width="60" /> | [Dragon Age II](https://ostdb.net/games/dragon-age-ii) | **Dragon Age 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2vSoOzmVXLb9gq5Murz6qy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd4e5991823db2018ec8836c" width="60" /> | [Dragon Age: Inquisition](https://ostdb.net/games/dragon-age-inquisition) | **Dragon Age Inquisition (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/61WUabRxjIa2wkJ2npnaex) |
 
 ### 0-9
 
@@ -293,4 +294,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_359 soundtracks · last updated 2026-08-25T14:37:07.482Z_
+_360 soundtracks · last updated 2026-08-25T14:37:12.337Z_
