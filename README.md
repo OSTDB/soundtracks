@@ -967,6 +967,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fc1a959c4dec7ff06d5875b" width="60" /> | [The Witcher IV](https://ostdb.net/games/the-witcher-iv) | **No Gods, Only Monsters (The Witcher IV)** · [Spotify](https://open.spotify.com/album/5lbpfkGC6Eg9QM4YvGsF6J) · [Apple Music](https://music.apple.com/us/album/no-gods-only-monsters-the-witcher-iv-single/1785603201) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher: Enhanced Edition](https://ostdb.net/games/the-witcher-enhanced-edition) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0edc9f63c99a1454a9f6d3" width="60" /> | [Thief](https://ostdb.net/games/thief) | **Thief (Original Soundtrack - Director's Cut)** · [Spotify](https://open.spotify.com/album/17oWmJUNsl9GLGAGo4eUdx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732cff40156a150f6c73d345d7" width="60" /> | [This War of Mine](https://ostdb.net/games/this-war-of-mine) | **This War of Mine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgslC8ZcPPxaiuBLmKoKU) |
 
 ### 0-9
 
@@ -979,4 +980,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1262 soundtracks · last updated 2026-08-25T18:26:59.536Z_
+_1263 soundtracks · last updated 2026-08-25T18:27:04.407Z_
