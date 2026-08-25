@@ -284,7 +284,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd4e5991823db2018ec8836c" width="60" /> | [Dragon Age: Inquisition](https://ostdb.net/games/dragon-age-inquisition) | **Dragon Age Inquisition (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/61WUabRxjIa2wkJ2npnaex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins](https://ostdb.net/games/dragon-age-origins) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins - Awakening](https://ostdb.net/games/dragon-age-origins-awakening) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e2239925f340dfd031ef1e4a" width="60" /> | [Dragon Age: The Veilguard](https://ostdb.net/games/dragon-age-the-veilguard) | **Dragon Age: The Veilguard (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5E12lxPMKhhkS5IXl0jtsk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e2239925f340dfd031ef1e4a" width="60" /> | [Dragon Age: The Veilguard](https://ostdb.net/games/dragon-age-the-veilguard) | **Dragon Age: The Veilguard (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5E12lxPMKhhkS5IXl0jtsk)<br>**Dragon Age: The Veilguard Main Theme [From "Dragon Age: The Veilguard (Original Soundtrack)"]** · [Spotify](https://open.spotify.com/album/5MEWANQ4igrisbN7mDFYho) |
 
 ### 0-9
 
@@ -297,4 +297,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_363 soundtracks · last updated 2026-08-25T14:40:57.847Z_
+_364 soundtracks · last updated 2026-08-25T14:41:02.373Z_
