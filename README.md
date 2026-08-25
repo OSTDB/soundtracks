@@ -239,7 +239,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/18/f5/8e18f51f-a53c-e443-36af-1f7485f97a95/artwork.jpg/600x600bb.jpg" width="60" /> | [Dead Static Drive](https://ostdb.net/games/dead-static-drive) | **Dead Static Drive (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dead-static-drive-original-game-soundtrack/1850755043?uo=4) · [Album](https://album.link/i/1850755043) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737101c4b3c01d5136834266bb" width="60" /> | [Dead by Daylight](https://ostdb.net/games/dead-by-daylight) | **Dead by Daylight (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/42dRVLUkUT03uiuGv8kPQm)<br>**Dead by Daylight, Vol. 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/30zkj6wmPmTB25gaSmLr8j)<br>**Dead by Daylight, Vol. 3 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4MUkmcbygtJzOQNybi8HuH) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ae/36/bcae36a7-a53a-6673-5f68-35f04eff7cea/199538831801.jpg/600x600bb.jpg" width="60" /> | [Death Howl](https://ostdb.net/games/death-howl) | **Death Howl (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/death-howl-original-game-soundtrack/1858185421?uo=4) · [Album](https://album.link/i/1858185421) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/8d/5d/958d5d12-4265-dec8-f8df-38c47d6af350/886449581863.jpg/1000x1000bb.jpg" width="60" /> | [Death Stranding](https://ostdb.net/games/death-stranding) | **Death Stranding (Original Score Volume 2)** · [Apple Music](https://music.apple.com/us/album/death-stranding-original-score-volume-2/1586678251?uo=4) · [Album](https://album.link/i/1586678251) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/8d/5d/958d5d12-4265-dec8-f8df-38c47d6af350/886449581863.jpg/1000x1000bb.jpg" width="60" /> | [Death Stranding](https://ostdb.net/games/death-stranding) | **Death Stranding (Original Score Volume 2)** · [Apple Music](https://music.apple.com/us/album/death-stranding-original-score-volume-2/1586678251?uo=4) · [Album](https://album.link/i/1586678251)<br>**Death Stranding (Original Score)** · [Apple Music](https://music.apple.com/us/album/death-stranding-original-score/1485424444?uo=4) · [Album](https://album.link/i/1485424444) |
 
 ### 0-9
 
@@ -252,4 +252,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_297 soundtracks · last updated 2026-08-25T14:21:57.274Z_
+_298 soundtracks · last updated 2026-08-25T14:22:01.128Z_
