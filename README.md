@@ -862,6 +862,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecfbe57592649dfad8c709b0" width="60" /> | [StarCraft](https://ostdb.net/games/starcraft) | **StarCraft Original Soundtrack** · [Spotify](https://open.spotify.com/album/2xbVEaxFjTkMDUuk3fSt0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4981efc0730721fff0f84dc" width="60" /> | [StarCraft II: Heart of the Swarm](https://ostdb.net/games/starcraft-ii-heart-of-the-swarm) | **StarCraft II: Heart of the Swarm Original Soundtrack** · [Spotify](https://open.spotify.com/album/3AZXVTPrwQM2ELT44qedxp) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f9/74/5bf97421-2030-345a-6316-46bd4c279d71/047875729766_cover.jpg/600x600bb.jpg" width="60" /> | [StarCraft II: Legacy of the Void](https://ostdb.net/games/starcraft-ii-legacy-of-the-void) | **StarCraft 2: Legacy of the Void Soundtrack** · [Spotify](https://music.apple.com/us/album/starcraft-2-legacy-of-the-void-soundtrack/1810417351?uo=4) · [Album](https://album.link/i/1810417351) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b1c30a83402de52d5331f9f" width="60" /> | [StarCraft II: Wings of Liberty](https://ostdb.net/games/starcraft-ii-wings-of-liberty) | **StarCraft II Original Soundtrack** · [Spotify](https://open.spotify.com/album/5oGThAvj5C4AQB3giIQ1hj) |
 
 ### 0-9
 
@@ -874,4 +875,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1111 soundtracks · last updated 2026-08-25T17:51:08.055Z_
+_1112 soundtracks · last updated 2026-08-25T17:51:12.067Z_
