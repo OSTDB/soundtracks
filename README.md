@@ -974,6 +974,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/40/2f/ed402f87-cc94-c5db-a159-0ffd8ffe63a1/3663729096258_cover.jpg/600x600bb.jpg" width="60" /> | [Tom Clancy's Ghost Recon: Breakpoint](https://ostdb.net/games/tom-clancys-ghost-recon-breakpoint) | **Karma Police (Tom Clancy's Ghost Recon Breakpoint Game: Announce Trailer Cover Song) - Single** · [Spotify](https://music.apple.com/us/album/karma-police-tom-clancys-ghost-recon-breakpoint-game/1475648408?uo=4) · [Album](https://album.link/i/1475648408)<br>**Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tom-clancys-ghost-recon-breakpoint-original-game-soundtrack/1593869909?uo=4) · [Album](https://album.link/i/1593869909) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4055a11bad70099e805af05" width="60" /> | [Tom Clancy's Ghost Recon: Wildlands](https://ostdb.net/games/tom-clancys-ghost-recon-wildlands) | **Tom Clancy's Ghost Recon Wildlands (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/070T6VGF62h9yxjyZpBBAe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323af14953accb8483d6e3fd1" width="60" /> | [Tom Clancy's Splinter Cell: Conviction](https://ostdb.net/games/tom-clancys-splinter-cell-conviction) | **Tom Clancy's Splinter Cell Conviction (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5QwO3vHUx9DvFPywMXV8nG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a31e84d5a0392408031c3864" width="60" /> | [Tom Clancy's The Division](https://ostdb.net/games/tom-clancys-the-division) | **Tom Clancy's The Division (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5cIdK8l3v0B1jdtWlsvwS2) |
 
 ### 0-9
 
@@ -986,4 +987,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1270 soundtracks · last updated 2026-08-25T18:31:04.396Z_
+_1271 soundtracks · last updated 2026-08-25T18:31:09.568Z_
