@@ -827,6 +827,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcec406a14284cb37371f958" width="60" /> | [Slay the Spire](https://ostdb.net/games/slay-the-spire) | **Slay the Spire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5AdlJGBQAioI4n8ZQCTG33) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/70/67/9b7067b7-f05b-3c92-db44-bc9c043edc70/196873675886.jpg/600x600bb.jpg" width="60" /> | [Sleep Awake](https://ostdb.net/games/sleep-awake) | **Sleep Awake (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4) · [Album](https://album.link/i/1853942095) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733a624ac96f1cfb39602cf1b3" width="60" /> | [Sleeping Dogs](https://ostdb.net/games/sleeping-dogs) | **Sleeping Dogs (Original Motion Picture Soundtrack)** · [Spotify](https://open.spotify.com/album/5EtvSNRBjcMAAaalUMYprz) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/86/17/858617f8-6e3e-2d96-61c0-8ad85f43fe8b/196872535068.jpg/600x600bb.jpg" width="60" /> | [Slitterhead](https://ostdb.net/games/slitterhead) | **Slitterhead (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4) · [Album](https://album.link/i/1784820377) |
 
 ### 0-9
 
@@ -839,4 +840,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1061 soundtracks · last updated 2026-08-25T17:36:55.109Z_
+_1062 soundtracks · last updated 2026-08-25T17:36:59.659Z_
