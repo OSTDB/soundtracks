@@ -454,6 +454,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b60998bfc1c339ff2b03ee43" width="60" /> | [Hellblade: Senua's Sacrifice](https://ostdb.net/games/hellblade-senuas-sacrifice) | **Hellblade: Senua's Sacrifice (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ihHcMdKtZ3qY5eRXYxcl8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9f52929a2b124caf309f9a4" width="60" /> | [Helldivers 2](https://ostdb.net/games/helldivers-2) | **Helldivers 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1T3dB5mtp6IaQekRZ8Qu7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273441dc8bbd97604ca7fde513a" width="60" /> | [Hellgate: London](https://ostdb.net/games/hellgate-london) | **Hellgate: London Original Video Game Soundtrack** · [Spotify](https://open.spotify.com/album/0z8WtBB9fInccrwLHMCjkx) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/65/cd/6765cdd5-6621-1bc4-79be-587fc2f01375/cover_4062851182560.jpg/1000x1000bb.jpg" width="60" /> | [Herdling](https://ostdb.net/games/herdling) | **Herdling** · [Apple Music](https://music.apple.com/us/album/herdling/1831208279?uo=4) · [Album](https://album.link/i/1831208279) |
 
 ### 0-9
 
@@ -466,4 +467,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_595 soundtracks · last updated 2026-08-25T15:41:20.544Z_
+_596 soundtracks · last updated 2026-08-25T15:41:25.182Z_
