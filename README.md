@@ -955,6 +955,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12" width="60" /> | [The Sims 3](https://ostdb.net/games/the-sims-3) | **The Sims 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735ec8b11d58c6650cc3dff10f" width="60" /> | [The Sims 4](https://ostdb.net/games/the-sims-4) | **The Sims 4** · [Spotify](https://open.spotify.com/album/1EPkfmIAZtQdYuieEgaDud)<br>**The Sims 4, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Mm4jKQfmwgJettxDVHf64) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a" width="60" /> | [The Stanley Parable](https://ostdb.net/games/the-stanley-parable) | **The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26yMmck9922U47xc62MbOw) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/c3/01/56c3011b-6230-4b5f-93bd-c83908288cd7/cover.jpg/600x600bb.jpg" width="60" /> | [The Surge 2](https://ostdb.net/games/the-surge-2) | **The Surge 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-surge-2-original-game-soundtrack/1571149387?uo=4) · [Album](https://album.link/i/1571149387) |
 
 ### 0-9
 
@@ -967,4 +968,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1247 soundtracks · last updated 2026-08-25T18:25:48.861Z_
+_1248 soundtracks · last updated 2026-08-25T18:25:53.939Z_
