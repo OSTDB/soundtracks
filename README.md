@@ -441,6 +441,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5fd8a3a6d77ea8587937a64" width="60" /> | [Halo 4](https://ostdb.net/games/halo-4) | **Halo 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7utu5zCUpUhmh0kbPsku7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fa2849a9b9cab679c09b26b" width="60" /> | [Halo 5: Guardians](https://ostdb.net/games/halo-5-guardians) | **Halo 5: Guardians (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6pdsDEWBozSiKc5G5MGTRG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c77acddbf2379000b29a3f42" width="60" /> | [Halo Infinite](https://ostdb.net/games/halo-infinite) | **Halo Infinite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4RrysJGiFbsvZi1KvRpzKl)<br>**Halo Infinite Multiplayer: A New Generation (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5nDHWO82TbGBbqbsPqKqec)<br>**Halo Infinite Multiplayer: Anthems for a Fireteam (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7DYEZ9YgpiD9oBq0ZzDZFP) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/b3/c4/b5b3c435-c9e4-c067-8cdc-dafcc08847e9/669311320421_cover.jpg/600x600bb.jpg" width="60" /> | [Halo Wars 2](https://ostdb.net/games/halo-wars-2) | **Halo Wars 2 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/halo-wars-2-original-soundtrack/1682542980?uo=4) · [Album](https://album.link/i/1682542980) |
 
 ### 0-9
 
@@ -453,4 +454,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_574 soundtracks · last updated 2026-08-25T15:36:13.194Z_
+_575 soundtracks · last updated 2026-08-25T15:36:17.403Z_
