@@ -105,6 +105,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f9c2767f6e3da0c45389d8e" width="60" /> | [Astro Bot](https://ostdb.net/games/303811) | ASTRO BOT (Original Soundtrack) | [Spotify](https://open.spotify.com/album/0TrNstPaeRP0BI4Q5qCclZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b9af9f954a7a03756f7b798" width="60" /> | [Astro's Playroom](https://ostdb.net/games/134597) | Astro's Playroom (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/5mVO2ZbuN7Cz6wgeyJPGLH) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/a6/92/bda6929b-1b66-2995-2147-ac045ff82b61/artwork.jpg/600x600bb.jpg" width="60" /> | [Astroneer](https://ostdb.net/games/13205) | Astroneer (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack/1184503748?uo=4) · [Album](https://album.link/i/1184503748) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1f/5b/c4/1f5bc493-7123-eb67-fd07-33fc81fa8725/artwork.jpg/600x600bb.jpg" width="60" /> | [Astroneer](https://ostdb.net/games/13205) | Astroneer (Original Game Soundtrack) Volume 2 | [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4) · [Album](https://album.link/i/1313308881) |
 
 ### 0-9
 
@@ -121,4 +122,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_95 soundtracks · last updated 2026-08-25T07:00:59.015Z_
+_96 soundtracks · last updated 2026-08-25T07:01:01.100Z_
