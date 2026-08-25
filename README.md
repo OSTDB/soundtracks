@@ -291,6 +291,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b8/6d/d6b86d7e-6cda-5fd0-79d7-19205f5ce8df/artwork.jpg/600x600bb.jpg" width="60" /> | [Duet Night Abyss](https://ostdb.net/games/duet-night-abyss) | **Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.1)** · [Spotify](https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1852635266?uo=4) · [Album](https://album.link/i/1852635266)<br>**Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.2)** · [Spotify](https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1853780904?uo=4) · [Album](https://album.link/i/1853780904) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b7fc94a51d8c75c027c89ff" width="60" /> | [Duke Nukem 3D](https://ostdb.net/games/duke-nukem-3d) | **Duke Nukem 3d Soundtrack Rebuild** · [Spotify](https://open.spotify.com/album/3zBmExKhhB4FvrrQRVFyf2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738367d9d8bd46511f8de2ea02" width="60" /> | [Dune: Awakening](https://ostdb.net/games/dune-awakening) | **Dune: Awakening (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739271d8cfc4dc7d9aab7a3cb4" width="60" /> | [Dungeon Keeper](https://ostdb.net/games/dungeon-keeper) | **Dungeons & Dragons - Official Roleplaying Soundtrack** · [Spotify](https://open.spotify.com/album/4vlLjXLtpTqL3516bAWNHx) |
 
 ### 0-9
 
@@ -303,4 +304,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_371 soundtracks · last updated 2026-08-25T14:41:33.453Z_
+_372 soundtracks · last updated 2026-08-25T14:41:37.856Z_
