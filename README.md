@@ -167,7 +167,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf98725f005820d3d26fcf5f" width="60" /> | [Call of Duty: Modern Warfare III](https://ostdb.net/games/call-of-duty-modern-warfare-iii) | **Call of Duty®: Modern Warfare III (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ckWCNAs9yTEdoEq6LVYZX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273706e2b6feecdc1b45d16508a" width="60" /> | [Call of Duty: WWII](https://ostdb.net/games/call-of-duty-wwii) | **Call of Duty®: WWII (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5az6WU4HzWivrLCxdgAY7s) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27380e64c6b02ff48df0361b484" width="60" /> | [Candy Crush Saga](https://ostdb.net/games/candy-crush-saga) | **Candy Crush Saga (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2bzzpQlbIeuGrXlkyW12ex) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/6b/9e/436b9e95-4ec5-9f31-ed51-1b9dbdabc54d/3663729331144_cover.jpg/600x600bb.jpg" width="60" /> | [Caravan SandWitch](https://ostdb.net/games/caravan-sandwitch) | **Caravan SandWitch (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/caravan-sandwitch-original-game-soundtrack/1762933484?uo=4) · [Album](https://album.link/i/1762933484) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/6b/9e/436b9e95-4ec5-9f31-ed51-1b9dbdabc54d/3663729331144_cover.jpg/600x600bb.jpg" width="60" /> | [Caravan SandWitch](https://ostdb.net/games/caravan-sandwitch) | **Caravan SandWitch (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/caravan-sandwitch-original-game-soundtrack/1762933484?uo=4) · [Album](https://album.link/i/1762933484)<br>**Pensée Dérobée (From Caravan SandWitch) - Single** · [Spotify](https://music.apple.com/us/album/pens%C3%A9e-d%C3%A9rob%C3%A9e-from-caravan-sandwitch-single/1760169435?uo=4) · [Album](https://album.link/i/1760169435) |
 
 ### 0-9
 
@@ -180,4 +180,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_197 soundtracks · last updated 2026-08-25T13:56:55.989Z_
+_198 soundtracks · last updated 2026-08-25T13:56:59.362Z_
