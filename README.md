@@ -944,6 +944,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733adab8dab81791a09ba11810" width="60" /> | [The Order: 1886](https://ostdb.net/games/the-order-1886) | **The Order: 1886 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1IamuMB8i2g2vEJKNv7NFC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c5a5dc6fe110de0d2e06d635" width="60" /> | [The Outer Worlds](https://ostdb.net/games/the-outer-worlds) | **The Outer Worlds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Hd0qkZ6fnN981YtFQI6oG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27302b687ccdb90518000924803" width="60" /> | [The Outer Worlds 2](https://ostdb.net/games/the-outer-worlds-2) | **The Outer Worlds 2 (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BA7Qn0gdTIIPERJs5M1zR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b17c361c34dd626781d91dec" width="60" /> | [The Plucky Squire](https://ostdb.net/games/the-plucky-squire) | **The Plucky Squire (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6d1Kq46nCQQLr5x7jjaF9m) |
 
 ### 0-9
 
@@ -956,4 +957,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1234 soundtracks · last updated 2026-08-25T18:21:21.840Z_
+_1235 soundtracks · last updated 2026-08-25T18:21:27.102Z_
