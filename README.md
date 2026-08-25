@@ -949,6 +949,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/17/a2/0817a22f-95b0-471a-8ded-af8c91173492/3663729396228_cover.jpg/600x600bb.jpg" width="60" /> | [The Rogue Prince of Persia](https://ostdb.net/games/the-rogue-prince-of-persia) | **The Rogue Prince of Persia (The Complete Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225?uo=4) · [Album](https://album.link/i/1830448225) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d9689627cde7a24697f84bc" width="60" /> | [The Secret of Monkey Island](https://ostdb.net/games/the-secret-of-monkey-island) | **Monkey Island Theme (From "The Secret of Monkey Island") [Tavern Version]** · [Spotify](https://open.spotify.com/album/0ET5NuhF5WJpuRxuTVpC9N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a3475616727f7f5c1050c54d" width="60" /> | [The Settlers: New Allies](https://ostdb.net/games/the-settlers-new-allies) | **The Settlers: New Allies (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2R0GNJJt4AvrFSH68QnGg0) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/ea/1e/32ea1ebc-96e5-8dbd-7dac-70cfe70754f5/jacket_SVWC70040B00Z_550.jpg/600x600bb.jpg" width="60" /> | [The Seven Deadly Sins: Origin](https://ostdb.net/games/the-seven-deadly-sins-origin) | **七つの大罪 オリジナル・サウンドトラック** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1537790373?uo=4) · [Album](https://album.link/i/1537790373) |
 
 ### 0-9
 
@@ -961,4 +962,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1239 soundtracks · last updated 2026-08-25T18:21:45.467Z_
+_1240 soundtracks · last updated 2026-08-25T18:21:49.882Z_
