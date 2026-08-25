@@ -258,6 +258,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f65bcd5def30931cc3c8604" width="60" /> | [Devil May Cry](https://ostdb.net/games/devil-may-cry) | **Devil May Cry (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b46da7b4cade06f1ae9cc20b" width="60" /> | [Devil May Cry 4](https://ostdb.net/games/devil-may-cry-4) | **Devil May Cry 4 Original Soundtrack** · [Spotify](https://open.spotify.com/album/3uDaCAvjoxo837koy8weel) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ab9aff73fa181d27dd8b9e0" width="60" /> | [Devil May Cry 5](https://ostdb.net/games/devil-may-cry-5) | **DEVIL MAY CRY 5 Original SoundTrack** · [Spotify](https://open.spotify.com/album/57bqKQ5YarXCm4BB9dwBOW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27355512ce314fa718d6649af4a" width="60" /> | [Diablo II](https://ostdb.net/games/diablo-ii) | **Diablo II Original Soundtrack** · [Spotify](https://open.spotify.com/album/6ni2P4G5YLJ689WDGyjTGn) |
 
 ### 0-9
 
@@ -270,4 +271,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_332 soundtracks · last updated 2026-08-25T14:31:40.569Z_
+_333 soundtracks · last updated 2026-08-25T14:31:44.992Z_
