@@ -1033,7 +1033,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732d2a5a2313730455c5b7b5ed" width="60" /> | [Warcraft II: Tides of Darkness](https://ostdb.net/games/warcraft-ii-tides-of-darkness) | **Warcraft II: Tides of Darkness Collection** · [Spotify](https://open.spotify.com/album/1PrOE477CXNMDykTHybbia) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735171245cc9db241fc58a1fa3" width="60" /> | [Warcraft: Orcs & Humans](https://ostdb.net/games/warcraft-orcs-and-humans) | **Warcraft I: Orcs & Humans: Roland Sound Canvas SC-55 Edition (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5qEiBrNbCIyEtRglcxkXWI)<br>**Warcraft I: Orcs & Humans: Sound Blaster 16 OPL3 (Original Game Soundtrack, Gregory Alper Official Edition)** · [Spotify](https://open.spotify.com/album/3fdZSd7rT2uioPiTBJk7Xl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27314404e8ec5f02564ab40d83b" width="60" /> | [Warframe](https://ostdb.net/games/warframe) | **Warframe (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5FDDMVvTedW6pf49044B3T) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/fc/b5/07fcb548-8900-ebdc-a7a2-dc9a652080e3/5053760098966.png/600x600bb.jpg" width="60" /> | [Warhammer 40,000: Darktide](https://ostdb.net/games/warhammer-40-000-darktide) | **Warhammer 40,000: Darktide (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-original-soundtrack/1745118506?uo=4) · [Album](https://album.link/i/1745118506) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/fc/b5/07fcb548-8900-ebdc-a7a2-dc9a652080e3/5053760098966.png/600x600bb.jpg" width="60" /> | [Warhammer 40,000: Darktide](https://ostdb.net/games/warhammer-40-000-darktide) | **Warhammer 40,000: Darktide (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-original-soundtrack/1745118506?uo=4) · [Album](https://album.link/i/1745118506)<br>**Warhammer 40,000: Darktide Vol. 2 (Original Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-vol-2-original-soundtrack-ep/1745068273?uo=4) · [Album](https://album.link/i/1745068273) |
 
 ### 0-9
 
@@ -1046,4 +1046,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1344 soundtracks · last updated 2026-08-25T18:47:08.677Z_
+_1345 soundtracks · last updated 2026-08-25T18:47:13.383Z_
