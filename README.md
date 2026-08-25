@@ -759,6 +759,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ebeabadec5a32af7fa6652a" width="60" /> | [Resident Evil 4](https://ostdb.net/games/resident-evil-4) | **Resident Evil 4 Sound Collection** · [Spotify](https://open.spotify.com/album/2ySOqNj3s1LhMkcKWoKYl2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ebeabadec5a32af7fa6652a" width="60" /> | [Resident Evil 4](https://ostdb.net/games/resident-evil-4) | **Resident Evil 4 Sound Collection** · [Spotify](https://open.spotify.com/album/2ySOqNj3s1LhMkcKWoKYl2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730ebeabadec5a32af7fa6652a" width="60" /> | [Resident Evil 4 VR](https://ostdb.net/games/resident-evil-4-vr) | **Resident Evil 4 Sound Collection** · [Spotify](https://open.spotify.com/album/2ySOqNj3s1LhMkcKWoKYl2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730ebeabadec5a32af7fa6652a" width="60" /> | [Resident Evil 4: Mobile Edition](https://ostdb.net/games/resident-evil-4-mobile-edition) | **Resident Evil 4 Sound Collection** · [Spotify](https://open.spotify.com/album/2ySOqNj3s1LhMkcKWoKYl2) |
 
 ### 0-9
 
@@ -771,4 +772,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_978 soundtracks · last updated 2026-08-25T17:16:37.313Z_
+_979 soundtracks · last updated 2026-08-25T17:16:43.807Z_
