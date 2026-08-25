@@ -87,6 +87,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/30/ca/bc30caca-c2b1-44e5-38e2-e736c0cceb58/3663729410344_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed Mirage](https://ostdb.net/games/215060) | Assassin's Creed Mirage: Valley of Memory (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/assassins-creed-mirage-valley-of-memory-original/1850997103?uo=4) · [Album](https://album.link/i/1850997103) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aa84b613963d8ad62d245d5" width="60" /> | [Assassin's Creed Odyssey](https://ostdb.net/games/103054) | Assassin's Creed Odyssey (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/19WTqbdqDMWMthZfkmxSbx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc47bb4ce1690aa0915c097f" width="60" /> | [Assassin's Creed Origins](https://ostdb.net/games/28540) | Assassin's Creed Origins (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1tGG9ggFTIX8LZt8lH9hqF) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273af90297c92789c595aeb64db" width="60" /> | [Assassin's Creed Revelations](https://ostdb.net/games/537) | Assassin's Creed Revelations (The Complete Recordings) [Original Game Soundtrack] | [Spotify](https://open.spotify.com/album/4YQsbhCYkpmueqKC4aEn7f) |
 
 ### 0-9
 
@@ -103,4 +104,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_77 soundtracks · last updated 2026-08-25T06:55:58.969Z_
+_78 soundtracks · last updated 2026-08-25T06:56:00.887Z_
