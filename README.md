@@ -868,6 +868,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27329bd89ef72092bd982b32e30" width="60" /> | [Starfield](https://ostdb.net/games/starfield) | **Starfield: Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27333ef1b628c916c245b74e4d9" width="60" /> | [State of Decay 2](https://ostdb.net/games/state-of-decay-2) | **State of Decay 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3DfZXfUWuPAIGljNmyNvR1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/0b/8b/9b0b8b53-11ea-b674-c425-2bee6feb8dfc/artwork.jpg/600x600bb.jpg" width="60" /> | [Steel Seed](https://ostdb.net/games/steel-seed) | **Steel Seed (Original Game Soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/steel-seed-original-game-soundtrack-single/1808746968?uo=4) · [Album](https://album.link/i/1808746968) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d832768a591d9104472c9e0b" width="60" /> | [Steins;Gate](https://ostdb.net/games/steins-gate) | **STEINS;GATE Original Soundtrack** · [Spotify](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) |
 
 ### 0-9
 
@@ -880,4 +881,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1121 soundtracks · last updated 2026-08-25T17:51:54.209Z_
+_1122 soundtracks · last updated 2026-08-25T17:51:58.638Z_
