@@ -853,6 +853,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273191b089dd90b2e84a8bd8fc4" width="60" /> | [Star Wars Battlefront II](https://ostdb.net/games/star-wars-battlefront-ii) | **Star Wars: Battlefront II (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qilh9K60vswro2eujBqwC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273915cb7f1dbb947f760ece407" width="60" /> | [Star Wars Jedi: Fallen Order](https://ostdb.net/games/star-wars-jedi-fallen-order) | **Star Wars Jedi: Fallen Order (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2wOSuU41ufyX9OkcBZ9F6C) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27331e1dbe79500a7f8c03b242c" width="60" /> | [Star Wars Jedi: Survivor](https://ostdb.net/games/star-wars-jedi-survivor) | **Star Wars Jedi: Survivor (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735a9280e9b124f4286a663bfa" width="60" /> | [Star Wars Outlaws](https://ostdb.net/games/star-wars-outlaws) | **Star Wars Outlaws (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap) |
 
 ### 0-9
 
@@ -865,4 +866,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1101 soundtracks · last updated 2026-08-25T17:47:11.547Z_
+_1102 soundtracks · last updated 2026-08-25T17:47:16.064Z_
