@@ -42,6 +42,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/7c/49/8a7c499c-28a4-66df-47d1-e11ff8e87e37/198704110603_Cover.jpg/1000x1000bb.jpg" width="60" /> | [Age of Mythology: Retold](https://ostdb.net/games/age-of-mythology-retold) | **Age Of Mythology Retold** · [Apple Music](https://music.apple.com/us/album/age-of-mythology-retold/1763605860?uo=4) · [Album](https://album.link/i/1763605860) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734b011fc18d8f6ad2a7128e28" width="60" /> | [Alan Wake II](https://ostdb.net/games/alan-wake-ii) | **Alan Wake 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/034VyTtL5nH3a1nad0COtV) · [Apple Music](https://music.apple.com/ua/album/alan-wake-2-original-soundtrack/1775387483)<br>**Follow You Into The Dark (feat. Rakel) - Single** · [Spotify](https://music.apple.com/us/album/follow-you-into-the-dark-feat-rakel-single/1708860239?uo=4) · [Album](https://album.link/i/1708860239) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397" width="60" /> | [Albion Online](https://ostdb.net/games/albion-online) | **Albion Online (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4AgjTBD4I6jGQATHO2BssF)<br>**Albion Online: Beyond the Veil (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7Myk0hc4UdqzXZrMSU7QeZ)<br>**Albion Online: Lands Awakened (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77eYSmKbjgGtssZ2t8xyY7)<br>**Albion Online: Rise of Avalon (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7JuFj5Z22JpGdLVUm3aXHy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f60164329f8e430b0061364" width="60" /> | [Alien: Isolation](https://ostdb.net/games/alien-isolation) | **Alien: Isolation (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7mZJK1B3ym6z4Nwrga6eYJ) |
 
 ### 0-9
 
@@ -54,4 +55,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_37 soundtracks · last updated 2026-08-25T13:16:40.556Z_
+_38 soundtracks · last updated 2026-08-25T13:16:43.922Z_
