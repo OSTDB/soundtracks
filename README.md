@@ -822,6 +822,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737ae09da793dcc634cf777cb9" width="60" /> | [SimCity 3000](https://ostdb.net/games/simcity-3000) | **Simcity 3000 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/79DD1VgOYakea84R5eR0hV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccb84e207902cb4b5410336f" width="60" /> | [Singularity](https://ostdb.net/games/singularity) | **Singularity** · [Spotify](https://open.spotify.com/album/71jzI7W70aASd7bDIN2jxN) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5e/be/7c/5ebe7c7c-3c3e-91e8-fba9-1e28d796f83b/780163568929.jpg/600x600bb.jpg" width="60" /> | [Skate.](https://ostdb.net/games/skate) | **skate. (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/skate-original-soundtrack/1514706097?uo=4) · [Album](https://album.link/i/1514706097) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273359cd1a4a09bcbd4f63e45d5" width="60" /> | [Skull and Bones](https://ostdb.net/games/skull-and-bones) | **Skull and Bones (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3kuFLe0af6knBBoRtYDta0) |
 
 ### 0-9
 
@@ -834,4 +835,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1055 soundtracks · last updated 2026-08-25T17:36:27.927Z_
+_1056 soundtracks · last updated 2026-08-25T17:36:32.856Z_
