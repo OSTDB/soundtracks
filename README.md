@@ -133,6 +133,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273947f89646e236798bae3aa1b" width="60" /> | [Batman: Arkham City](https://ostdb.net/games/501) | Batman: Arkham City (Original Video Game Score) | [Spotify](https://open.spotify.com/album/1TXy0eNffZssA66lDpoAPL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f4301b7609607cdbda99efa" width="60" /> | [Batman: Arkham Knight](https://ostdb.net/games/5503) | Batman: Arkham Knight, Vol. 1 (Original Video Game Score) | [Spotify](https://open.spotify.com/album/5BIfgnary4Wmqx6Bgs3iqb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fded328c6ba87b43251c5abb" width="60" /> | [Batman: Arkham Origins](https://ostdb.net/games/2003) | Batman: Arkham Origins (Original Video Game Score) | [Spotify](https://open.spotify.com/album/3RYePrI25rEQ1iMIRA8B4n) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/38/7e/ac387e73-3304-0752-1161-f42cba505561/794043224256.jpg/600x600bb.jpg" width="60" /> | [Batman: Arkham Shadow](https://ostdb.net/games/299736) | Batman: Arkham Shadow (Original Video Game Soundtrack) | [Spotify](https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4) · [Album](https://album.link/i/1794869007) |
 
 ### 0-9
 
@@ -149,4 +150,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_118 soundtracks · last updated 2026-08-25T07:06:04.417Z_
+_119 soundtracks · last updated 2026-08-25T07:06:06.477Z_
