@@ -580,6 +580,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7" width="60" /> | [Marvel's Spider-Man](https://ostdb.net/games/marvels-spider-man) | **Marvel's Spider-Man (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735253b6f717df8be8ad98d5f1" width="60" /> | [Marvel's Spider-Man 2](https://ostdb.net/games/marvels-spider-man-2) | **Marvel's Spider-Man 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7" width="60" /> | [Marvel's Spider-Man Remastered](https://ostdb.net/games/marvels-spider-man-remastered) | **Marvel's Spider-Man (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736094c28a79dc47837fd269d9" width="60" /> | [Marvel's Spider-Man: Miles Morales](https://ostdb.net/games/marvels-spider-man-miles-morales) | **Marvel’s Spider-Man: Miles Morales (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8) |
 
 ### 0-9
 
@@ -592,4 +593,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_747 soundtracks · last updated 2026-08-25T16:20:48.247Z_
+_748 soundtracks · last updated 2026-08-25T16:20:52.901Z_
