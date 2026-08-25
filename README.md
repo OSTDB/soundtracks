@@ -1058,6 +1058,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb27e957fcf3d9622a5c8c8a" width="60" /> | [Wolfenstein: The New Order](https://ostdb.net/games/wolfenstein-the-new-order) | **Wolfenstein: The New Order Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/6VNnTz7roRd6qVDQlBZWFr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273467a7260e0370198c1ef3ccd" width="60" /> | [Wolfenstein: Youngblood](https://ostdb.net/games/wolfenstein-youngblood) | **Wolfenstein: Youngblood (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0DU8ApvJxO9FjSIR7NQ5Ga) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273397ed2399dba1866776ffc43" width="60" /> | [World of Goo](https://ostdb.net/games/world-of-goo) | **World of Goo (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6GPRPIjTpzln7dYCYC27rW) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/3c/26/3d3c2606-e8e1-2846-8734-7f3d7c323c85/5063642281607_cover.jpg/600x600bb.jpg" width="60" /> | [World of Goo 2](https://ostdb.net/games/world-of-goo-2) | **World of Goo 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/world-of-goo-2-original-game-soundtrack/1782984637?uo=4) · [Album](https://album.link/i/1782984637) |
 
 ### 0-9
 
@@ -1070,4 +1071,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1375 soundtracks · last updated 2026-08-25T18:56:28.363Z_
+_1376 soundtracks · last updated 2026-08-25T18:56:34.030Z_
