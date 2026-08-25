@@ -535,6 +535,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2734fa7ed6bdd4f6dc8a6c2de41" width="60" /> | [LEGO Batman: Legacy of the Dark Knight](https://ostdb.net/games/lego-batman-legacy-of-the-dark-knight) | **LEGO® Batman™: Legacy of the Dark Knight (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7vBbRdipmtaMCqekWGx6Ik) · [Apple Music](https://music.apple.com/us/album/lego-batman-legacy-of-the-dark-knight-original/1895080309) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/a0/d8/73a0d863-a38e-8f32-e9d2-6efbabbaa7e1/196872755732.jpg/600x600bb.jpg" width="60" /> | [LEGO Horizon Adventures](https://ostdb.net/games/lego-horizon-adventures) | **LEGO® Horizon Adventures™ (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/lego-horizon-adventures-original-game-soundtrack/1805638652?uo=4) · [Album](https://album.link/i/1805638652) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273440265622dca32b5b819f1be" width="60" /> | [LEGO Marvel Super Heroes](https://ostdb.net/games/lego-marvel-super-heroes) | **Marvel Superheroes Compilation, Vol. one** · [Spotify](https://open.spotify.com/album/4HyhfPFm4VjGygwV3As5ef) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27363e21532c3c69a653859462c" width="60" /> | [LEGO Voyagers](https://ostdb.net/games/lego-voyagers) | **LEGO Voyagers (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7rjVUsWvSi304oX18mWTYm) |
 
 ### 0-9
 
@@ -547,4 +548,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_681 soundtracks · last updated 2026-08-25T16:01:50.600Z_
+_682 soundtracks · last updated 2026-08-25T16:01:54.970Z_
