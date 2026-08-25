@@ -20,6 +20,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 |---|---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/af/95/8aaf9512-b9c3-1e66-be69-0f9b7c217c77/859723515090_cover.jpg/600x600bb.jpg" width="60" /> | [A Hat in Time](https://ostdb.net/games/6705) | A Hat in Time (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4) · [Album](https://album.link/i/1299393881) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273858544fa6d76b5182a87888c" width="60" /> | [A Plague Tale: Innocence](https://ostdb.net/games/27316) | A Plague Tale: Innocence (Original Soundtrack) | [Spotify](https://open.spotify.com/album/2wD6ibumlAybToO5Mpy9pK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730050e5eda53a31f7710d1621" width="60" /> | [A Plague Tale: Requiem](https://ostdb.net/games/152242) | A Plague Tale Requiem Symphony (Live) | [Spotify](https://open.spotify.com/album/0H4CLvPmkMmezXlXtEICEj) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/28/2c/94282c4c-a4f5-4cd0-9eb3-7a21d2af39e5/PA00134026_0_180021_jacket.jpg/600x600bb.jpg" width="60" /> | [Ace Combat 7: Skies Unknown](https://ostdb.net/games/14758) | ACE COMBAT 7: Skies Unknown (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4) · [Album](https://album.link/i/1724893711) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323e3eaf5ae420dd755f310c2" width="60" /> | [Ace Combat: Assault Horizon](https://ostdb.net/games/531) | ACE COMBAT ASSAULT HORIZON Original Soundtrack | [Spotify](https://open.spotify.com/album/5VQHio0GwQxH4Zs7U7jJwm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/dd/91/6fdd91cb-fbe7-733a-2326-23e4b43d3d5a/810123166244.png/600x600bb.jpg" width="60" /> | [Afterparty](https://ostdb.net/games/78152) | Afterparty | [Spotify](https://music.apple.com/us/album/afterparty/1804710578?uo=4) · [Album](https://album.link/i/1804710578) |
@@ -56,4 +57,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_30 soundtracks · last updated 2026-08-25T06:45:47.996Z_
+_31 soundtracks · last updated 2026-08-25T06:45:50.100Z_
