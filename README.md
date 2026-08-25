@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [0-9](#0-9)
 
 ### A
 
@@ -501,6 +501,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/dc/15/83dc1556-8a1e-43f4-95f1-2147845b9cd4/199538137606.jpg/600x600bb.jpg" width="60" /> | [Is This Seat Taken?](https://ostdb.net/games/is-this-seat-taken) | **Is This Seat Taken? (Original Game Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4) · [Album](https://album.link/i/1830248552) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e4094996e6638715e1c26d6" width="60" /> | [It Takes Two](https://ostdb.net/games/it-takes-two) | **It Takes Two (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV) |
 
+### J
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d9e31d06b87b1a6d4065fc1" width="60" /> | [John Carpenter's Toxic Commando](https://ostdb.net/games/john-carpenters-toxic-commando) | **In the Hall of the Zombie King (Toxic Commando Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/5k8uX7ZJzTI4FFyUNdugjg) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -512,4 +518,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_655 soundtracks · last updated 2026-08-25T15:56:17.707Z_
+_656 soundtracks · last updated 2026-08-25T15:56:22.123Z_
