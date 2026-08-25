@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [0-9](#0-9)
 
 ### A
 
@@ -889,6 +889,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/76/90/f8769027-e3ae-07ce-5e75-214a7691c804/197208333013_cover.jpg/600x600bb.jpg" width="60" /> | [Syberia 3](https://ostdb.net/games/syberia-3) | **Syberia 3 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/syberia-3-original-game-soundtrack/1867243966?uo=4) · [Album](https://album.link/i/1867243966) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28133721cc1fc141205e67" width="60" /> | [System Shock](https://ostdb.net/games/system-shock) | **System Shock (Remastered) [Original Video Game Soundtrack]** · [Spotify](https://open.spotify.com/album/3nhrXH7EKXwDdC381DjD3n) |
 
+### T
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/f4/44/fef44435-99ec-8b72-25b8-d6817546b1ac/198595859636.jpg/600x600bb.jpg" width="60" /> | [Tactical Breach Wizards](https://ostdb.net/games/tactical-breach-wizards) | **Tactical Breach Wizards (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4) · [Album](https://album.link/i/1769289561) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -900,4 +906,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1145 soundtracks · last updated 2026-08-25T17:57:26.049Z_
+_1146 soundtracks · last updated 2026-08-25T17:57:31.555Z_
