@@ -248,7 +248,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27306f2539e9993e43ae9adcc69" width="60" /> | [Deltarune](https://ostdb.net/games/deltarune) | **DELTARUNE Chapter 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6putGW0KxGMrgTZzplp2pF)<br>**DELTARUNE Chapter 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7DAiPXN3HdbktwwFzQXqrZ)<br>**DELTARUNE Chapters 3+4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/fa/25/18fa2516-8b87-8c5a-61b9-b43ddfacd321/artwork.jpg/600x600bb.jpg" width="60" /> | [Demon Tides](https://ostdb.net/games/demon-tides) | **Demon Tides (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/demon-tides-original-game-soundtrack/1871532363?uo=4) · [Album](https://album.link/i/1871532363) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397cae1b2dfe4943cc6c7c755" width="60" /> | [Demon's Souls](https://ostdb.net/games/demons-souls) | **Demon's Souls Original Soundtrack** · [Spotify](https://open.spotify.com/album/7BfMeuxfDi6Q4AtPLa6gRZ) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/41/1f/98411fb1-a133-121a-d783-ef95104c5edd/3663729409492_cover.jpg/1000x1000bb.jpg" width="60" /> | [Denshattack!](https://ostdb.net/games/denshattack) | **Coastline Funk (From Denshattack!) - Single** · [Apple Music](https://music.apple.com/us/album/coastline-funk-from-denshattack-single/1846868450?uo=4) · [Album](https://album.link/i/1846868450) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/41/1f/98411fb1-a133-121a-d783-ef95104c5edd/3663729409492_cover.jpg/1000x1000bb.jpg" width="60" /> | [Denshattack!](https://ostdb.net/games/denshattack) | **Coastline Funk (From Denshattack!) - Single** · [Apple Music](https://music.apple.com/us/album/coastline-funk-from-denshattack-single/1846868450?uo=4) · [Album](https://album.link/i/1846868450)<br>**Cross the Tracks (From Denshattack!) - Single** · [Apple Music](https://music.apple.com/us/album/cross-the-tracks-from-denshattack-single/1877168348?uo=4) · [Album](https://album.link/i/1877168348) |
 
 ### 0-9
 
@@ -261,4 +261,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_316 soundtracks · last updated 2026-08-25T14:26:51.261Z_
+_317 soundtracks · last updated 2026-08-25T14:26:55.521Z_
