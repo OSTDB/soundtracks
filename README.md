@@ -469,6 +469,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9bb10e381fbd4f78ce2a511" width="60" /> | [Hollow Knight: Silksong](https://ostdb.net/games/hollow-knight-silksong) | **Hollow Knight: Silksong (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2mvEK1s3lpArLiUVRkqoD5) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/fd/c6/7efdc675-ae42-b13f-3009-5f10da4bdb9d/8721093103479.png/600x600bb.jpg" width="60" /> | [Homeworld 3](https://ostdb.net/games/homeworld-3) | **Homeworld 3 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4) · [Album](https://album.link/i/1745081505) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d93472745d93f50a571b1514" width="60" /> | [Horizon Forbidden West](https://ostdb.net/games/horizon-forbidden-west) | **Horizon Forbidden West (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273508b0d1163de5fc62f6cc914" width="60" /> | [Horizon Zero Dawn](https://ostdb.net/games/horizon-zero-dawn) | **Horizon Zero Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1tnJU98uHAWkkAsRekqtTe) |
 
 ### 0-9
 
@@ -481,4 +482,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_614 soundtracks · last updated 2026-08-25T15:46:18.380Z_
+_615 soundtracks · last updated 2026-08-25T15:46:23.472Z_
