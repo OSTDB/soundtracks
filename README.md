@@ -628,6 +628,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/8d/14/148d14a3-1fbc-ec63-b293-4dfe8c091f1a/3663729404442_cover.jpg/600x600bb.jpg" width="60" /> | [Morbid Metal](https://ostdb.net/games/morbid-metal) | **Saru (From Morbid Metal) - Single** · [Spotify](https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4) · [Album](https://album.link/i/1840670106) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732684410b60ac67b8d069fb08" width="60" /> | [Mortal Kombat 11](https://ostdb.net/games/mortal-kombat-11) | **Mortal Kombat 11 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/11fV9jbJ5hva1YW7xsx31e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312df1c30937734754238de99" width="60" /> | [Mortal Kombat X](https://ostdb.net/games/mortal-kombat-x) | **Mortal Kombat X (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4kvOe1lD5xYRrsv1QLkUhr) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731ee1e664029dbbe5934534a8" width="60" /> | [Mouse: P.I. For Hire](https://ostdb.net/games/mouse-p-i-for-hire) | **Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa) |
 
 ### 0-9
 
@@ -640,4 +641,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_828 soundtracks · last updated 2026-08-25T16:40:52.912Z_
+_829 soundtracks · last updated 2026-08-25T16:40:57.306Z_
