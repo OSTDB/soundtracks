@@ -747,7 +747,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f56ff807f33d6df60fa02234" width="60" /> | [Red Faction: Armageddon](https://ostdb.net/games/red-faction-armageddon) | **Red Faction: Armageddon (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3dzPS0HCk5ryzA6qHOPP9U) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7b/5e/d1/7b5ed17c-aa5e-6f66-c0b5-9a6b47362dc2/093155176201_cover.jpg/600x600bb.jpg" width="60" /> | [Redfall](https://ostdb.net/games/redfall) | **Redfall: Original Game Soundtrack** · [Spotify](https://music.apple.com/us/album/redfall-original-game-soundtrack/1683192350?uo=4) · [Album](https://album.link/i/1683192350) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/41/3c/bd413cb9-57f0-020f-b489-f680ae1005aa/artwork.jpg/600x600bb.jpg" width="60" /> | [Relooted](https://ostdb.net/games/relooted) | **Relooted (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/relooted-original-soundtrack/1862636303?uo=4) · [Album](https://album.link/i/1862636303) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2735151b2f9071c2bfc5cabeb2a" width="60" /> | [Rematch](https://ostdb.net/games/rematch) | **Rematch (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2PvHVzU982Xh9yet8vjDgy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735151b2f9071c2bfc5cabeb2a" width="60" /> | [Rematch](https://ostdb.net/games/rematch) | **Rematch (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2PvHVzU982Xh9yet8vjDgy)<br>**Rematch - Season 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0yOSAFXVeUg4cJ4atxpC3m) |
 
 ### 0-9
 
@@ -760,4 +760,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_964 soundtracks · last updated 2026-08-25T17:12:00.361Z_
+_965 soundtracks · last updated 2026-08-25T17:12:04.533Z_
