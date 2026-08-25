@@ -304,6 +304,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737640e831a90a37478dd25231" width="60" /> | [Eastward](https://ostdb.net/games/eastward) | **Eastward (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zS310jZ6ZSimY2npbzJg4) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/86/08/0e860867-b70d-c28e-ac16-680324e7f24c/199800512773.jpg/600x600bb.jpg" width="60" /> | [Easy Delivery Co.](https://ostdb.net/games/easy-delivery-co) | **Easy Delivery Co. 101.7 FM (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/easy-delivery-co-101-7-fm-original-soundtrack/1835977740?uo=4) · [Album](https://album.link/i/1835977740) |
 
 ### 0-9
 
@@ -316,4 +317,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_382 soundtracks · last updated 2026-08-25T14:45:52.787Z_
+_383 soundtracks · last updated 2026-08-25T14:45:57.540Z_
