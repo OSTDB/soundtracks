@@ -903,6 +903,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/55/34/26553421-66c8-0cf3-3b13-001a50f21694/artwork.jpg/600x600bb.jpg" width="60" /> | [Tempest Rising](https://ostdb.net/games/tempest-rising) | **Tempest Rising (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tempest-rising-original-game-soundtrack/1828806556?uo=4) · [Album](https://album.link/i/1828806556) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/28/8e/5a288eec-4713-9cc7-bd23-64c5a270d938/artwork.jpg/600x600bb.jpg" width="60" /> | [Terminator: Survivors](https://ostdb.net/games/terminator-survivors) | **Terminator Survivors (The Aftermath Trailer soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/terminator-survivors-the-aftermath-trailer-soundtrack/1738445443?uo=4) · [Album](https://album.link/i/1738445443) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379a9be8af1193f50b28f7a54" width="60" /> | [Terraria](https://ostdb.net/games/terraria) | **Terraria (Soundtrack)** · [Spotify](https://open.spotify.com/album/00NU9JjK7J3YSYhDzfuzrb)<br>**Terraria, Vol. 2 (Soundtrack)** · [Spotify](https://open.spotify.com/album/7A1QprDPoFkpmCJNnHmBM3)<br>**Terraria, Vol. 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3z6V5WbswrBf8WjkrZHvBt)<br>**Terraria, Vol. 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5BxS6n0U8Gr3Er0sFxgtAY)<br>**Terraria, Vol. 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4EXwIZGrAgJv2b0EMfPvyM)<br>**Terraria: Otherworld (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4V9VF252QFPNN7nb0Fveq5) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/31/8c/8b318c68-c933-5628-285c-6773e222ebd7/198999593204.jpg/600x600bb.jpg" width="60" /> | [Tetr.io](https://ostdb.net/games/tetr-io) | **TETR.IO Holidays 2024 (Original Game Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/tetr-io-holidays-2024-original-game-soundtrack-ep/1784924273?uo=4) · [Album](https://album.link/i/1784924273) |
 
 ### 0-9
 
@@ -915,4 +916,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1162 soundtracks · last updated 2026-08-25T18:02:02.454Z_
+_1163 soundtracks · last updated 2026-08-25T18:02:07.391Z_
