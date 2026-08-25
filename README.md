@@ -108,6 +108,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273992d6894cd6070675e95293a" width="60" /> | [Battlefield 3](https://ostdb.net/games/battlefield-3) | **Battlefield 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC)<br>**Battlefield 3 Premium Edition (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Oy8CsN2LGMOpVPOXbZuOE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273076ef3ba4d114dc3ceebe96a" width="60" /> | [Battlefield 4](https://ostdb.net/games/battlefield-4) | **Battlefield 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e)<br>**Battlefield 4 (Original Soundtrack) (Premium Edition)** · [Spotify](https://open.spotify.com/album/04b0xmFOenZ0rSpTRE0DjX)<br>**Battlefield 4 (Original Soundtrack) [Premium Edition]** · [Spotify](https://music.apple.com/us/album/battlefield-4-original-soundtrack-premium-edition/1460182990?uo=4) · [Album](https://album.link/i/1460182990) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731880ed5b4e5b7caa71b66326" width="60" /> | [Battlefield 6](https://ostdb.net/games/battlefield-6) | **Battlefield 6 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273226cbcfe1dd8db22f39ff04a" width="60" /> | [Battlefield Hardline](https://ostdb.net/games/battlefield-hardline) | **Battlefield Hardline (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2S22o87iyGRP9CuTu7YyDT) |
 
 ### 0-9
 
@@ -120,4 +121,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_131 soundtracks · last updated 2026-08-25T13:41:28.495Z_
+_132 soundtracks · last updated 2026-08-25T13:41:33.230Z_
