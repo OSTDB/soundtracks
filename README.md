@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [0-9](#0-9)
 
 ### A
 
@@ -510,6 +510,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/70/90/37/7090374b-db22-7331-9cca-84f17814e56c/7575.jpg/600x600bb.jpg" width="60" /> | [Jurassic World Evolution](https://ostdb.net/games/jurassic-world-evolution) | **Jurassic World Evolution (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/jurassic-world-evolution-official-game-soundtrack/1701111795?uo=4) · [Album](https://album.link/i/1701111795) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f23c85162d6e196899853ab4" width="60" /> | [Jötunnslayer: Hordes of Hel](https://ostdb.net/games/jotunnslayer-hordes-of-hel) | **Jotunnslayer: Hordes of Hel (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6WC66wleUNZAZRmhwCI5Xg) |
 
+### K
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/1c/3d/6c1c3dc7-35f3-90be-b799-fb2e28ff066d/5063654958634_cover.jpg/1000x1000bb.jpg" width="60" /> | [Karma: The Dark World](https://ostdb.net/games/karma-the-dark-world) | **Karma: The Dark World (Official Soundtrack)** · [Apple Music](https://music.apple.com/us/album/karma-the-dark-world-official-soundtrack/1802044288?uo=4) · [Album](https://album.link/i/1802044288) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -521,4 +527,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_659 soundtracks · last updated 2026-08-25T15:56:35.390Z_
+_660 soundtracks · last updated 2026-08-25T15:56:40.093Z_
