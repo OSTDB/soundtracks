@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [0-9](#0-9)
 
 ### A
 
@@ -1010,6 +1010,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fdb8e8ba698ddf7c052840d" width="60" /> | [Until Dawn](https://ostdb.net/games/until-dawn) | **Until Dawn (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3VnBTVrco3d2LJyfdvpp33) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/4b/8b/2b4b8b0e-0ecd-20f8-501f-8f4fbba9b836/artwork.jpg/600x600bb.jpg" width="60" /> | [Untitled Goose Game](https://ostdb.net/games/untitled-goose-game) | **Untitled Goose Game (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/untitled-goose-game-original-soundtrack/1858300347?uo=4) · [Album](https://album.link/i/1858300347) |
 
+### V
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27339abed1189d75fcf985eeab5" width="60" /> | [Valheim](https://ostdb.net/games/valheim) | **Valheim (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2CseSQFwwwDSYcAwHvT8Mt) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1021,4 +1027,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1307 soundtracks · last updated 2026-08-25T18:40:48.737Z_
+_1308 soundtracks · last updated 2026-08-25T18:40:53.788Z_
