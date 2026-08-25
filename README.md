@@ -82,6 +82,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/25/8a/b4/258ab476-9abc-92a2-3299-5c81974a84a2/3663729217523_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack] | [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4) · [Album](https://album.link/i/1640100747) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/6b/29/3c6b290c-e86e-f97d-e85c-41716b4c097d/3663729217554_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack] | [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-vol/1640088677?uo=4) · [Album](https://album.link/i/1640088677) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/70/99/eb7099b0-f0df-e269-bac2-24fbc6515316/3663729217530_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (The Complete Edition) [Original Game Soundtrack] | [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-the-complete-edition/1640108719?uo=4) · [Album](https://album.link/i/1640108719) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/51/14/f4/5114f496-88cb-2904-2753-bd3f32966789/3663729271532_cover.jpg/600x600bb.jpg" width="60" /> | [Assassin's Creed Mirage](https://ostdb.net/games/215060) | Assassin's Creed Mirage (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/assassins-creed-mirage-original-game-soundtrack/1706138098?uo=4) · [Album](https://album.link/i/1706138098) |
 
 ### 0-9
 
@@ -98,4 +99,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_72 soundtracks · last updated 2026-08-25T06:55:49.786Z_
+_73 soundtracks · last updated 2026-08-25T06:55:51.630Z_
