@@ -715,6 +715,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273874abca41b40af49736fdd57" width="60" /> | [Prey](https://ostdb.net/games/prey) | **Prey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7dsFpra92ogATVcROcJyZ1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a2dc789478798d967adfa12" width="60" /> | [Prince of Persia](https://ostdb.net/games/prince-of-persia) | **Prince of Persia Trilogy (Original Game Soundtracks)** · [Spotify](https://open.spotify.com/album/2J2XOIDnJSyNko5Vc4GII5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27346a3fea088a2fc38d9d6fdc6" width="60" /> | [Prince of Persia: The Forgotten Sands](https://ostdb.net/games/prince-of-persia-the-forgotten-sands) | **Prince of Persia: The Forgotten Sands (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3hNLjKxhFmzR2V0XloauhA) |
 
 ### 0-9
 
@@ -727,4 +728,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_931 soundtracks · last updated 2026-08-25T17:06:08.547Z_
+_932 soundtracks · last updated 2026-08-25T17:06:12.629Z_
