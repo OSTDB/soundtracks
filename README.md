@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [0-9](#0-9)
 
 ### A
 
@@ -477,6 +477,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730eacc52ccf167bddfb239188" width="60" /> | [Hyper Light Drifter](https://ostdb.net/games/hyper-light-drifter) | **Hyper Light Drifter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5v5mSuw9o5DIHbA2qwFOUt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fd1ac2c7bf19ab1998c6c78" width="60" /> | [Hytale](https://ostdb.net/games/hytale) | **Hytale (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/4P3GyB2Qg9TR9u2tnnX374)<br>**Hytale (Original Soundtrack), Vol. 2** · [Spotify](https://open.spotify.com/album/6AdguZ0Z6xlHbqsXq6SNdc) |
 
+### I
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2730b5ed306b8a6ae152809d161" width="60" /> | [Ico](https://ostdb.net/games/ico) | **ICO -霧の中の旋律- (2021 Remaster)** · [Spotify](https://open.spotify.com/album/4m6LzuC4f5K6vifk2Rpje1) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -488,4 +494,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_622 soundtracks · last updated 2026-08-25T15:46:56.183Z_
+_623 soundtracks · last updated 2026-08-25T15:46:59.526Z_
