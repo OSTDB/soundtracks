@@ -609,6 +609,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737bd30be81c2ee6f235794ad3" width="60" /> | [Metro 2033 Redux](https://ostdb.net/games/metro-2033-redux) | **Metro 2033 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1WWW60sb6bTikzNd1PUzSf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361ef5c66240a84435d3bf32b" width="60" /> | [Metro Exodus](https://ostdb.net/games/metro-exodus) | **Metro Exodus Soundtrack** · [Spotify](https://open.spotify.com/album/48skMic15wV2zu4HAOx28s)<br>**Metro Exodus: The Two Colonels (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BQ8UzhWitmrepUWN1Za3m)<br>**Sam's Story Soundtrack** · [Spotify](https://open.spotify.com/album/1t9HHfYtLAANTskOITEGH5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f48e9f05b018b46139ba8dc" width="60" /> | [Metro: Last Light](https://ostdb.net/games/metro-last-light) | **Metro: Last Light (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/3vYh7KxXWpm9o7yjnmTS3N) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736f48e9f05b018b46139ba8dc" width="60" /> | [Metro: Last Light Redux](https://ostdb.net/games/metro-last-light-redux) | **Metro: Last Light (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/3vYh7KxXWpm9o7yjnmTS3N) |
 
 ### 0-9
 
@@ -621,4 +622,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_784 soundtracks · last updated 2026-08-25T16:27:07.264Z_
+_785 soundtracks · last updated 2026-08-25T16:27:12.008Z_
