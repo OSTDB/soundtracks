@@ -440,7 +440,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273584436303db5a5bc45843f8d" width="60" /> | [Halo 3: ODST](https://ostdb.net/games/halo-3-odst) | **Halo 3: ODST (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6kTb4wCSrCugBKLqBOvzNG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5fd8a3a6d77ea8587937a64" width="60" /> | [Halo 4](https://ostdb.net/games/halo-4) | **Halo 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7utu5zCUpUhmh0kbPsku7N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735fa2849a9b9cab679c09b26b" width="60" /> | [Halo 5: Guardians](https://ostdb.net/games/halo-5-guardians) | **Halo 5: Guardians (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6pdsDEWBozSiKc5G5MGTRG) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c77acddbf2379000b29a3f42" width="60" /> | [Halo Infinite](https://ostdb.net/games/halo-infinite) | **Halo Infinite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4RrysJGiFbsvZi1KvRpzKl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c77acddbf2379000b29a3f42" width="60" /> | [Halo Infinite](https://ostdb.net/games/halo-infinite) | **Halo Infinite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4RrysJGiFbsvZi1KvRpzKl)<br>**Halo Infinite Multiplayer: A New Generation (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5nDHWO82TbGBbqbsPqKqec) |
 
 ### 0-9
 
@@ -453,4 +453,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_572 soundtracks · last updated 2026-08-25T15:36:04.994Z_
+_573 soundtracks · last updated 2026-08-25T15:36:09.660Z_
