@@ -360,6 +360,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0f0877a0d7301a716fb9c2" width="60" /> | [Final Fantasy XVI](https://ostdb.net/games/final-fantasy-xvi) | **FINAL FANTASY XVI Original Soundtrack** · [Spotify](https://open.spotify.com/album/18XUpKyB2Ptj73BZzA6scS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273394498e071a0655bfddf94bd" width="60" /> | [Firewatch](https://ostdb.net/games/firewatch) | **Firewatch (Original Score)** · [Spotify](https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d9b0a08f52ac7332833964" width="60" /> | [Flintlock: The Siege of Dawn](https://ostdb.net/games/flintlock-the-siege-of-dawn) | **Flintlock: The Siege of Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28JRK04RtUl4Yjj7MDjN1c) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/0e/86/fb0e8658-94eb-4bbe-6738-3171c6fc59c8/artwork.jpg/600x600bb.jpg" width="60" /> | [Floatlands](https://ostdb.net/games/floatlands) | **Floatlands** · [Spotify](https://music.apple.com/us/album/floatlands/1381096859?uo=4) · [Album](https://album.link/i/1381096859) |
 
 ### 0-9
 
@@ -372,4 +373,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_452 soundtracks · last updated 2026-08-25T15:01:34.976Z_
+_453 soundtracks · last updated 2026-08-25T15:01:39.170Z_
