@@ -51,6 +51,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ea0b2e2cc94ed73dad7f62c" width="60" /> | [Aniimo](https://ostdb.net/games/aniimo) | **Shine Beyond the Sky ("Aniimo"The Game Awards Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcqhr2NN4TiVh2ydl8TP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0ea09074e6c0634b6f5e168" width="60" /> | [Anno 117: Pax Romana](https://ostdb.net/games/anno-117-pax-romana) | **Anno 117: Pax Romana (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0IMO2z0yWS7LNWWHq356Wu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f83c7a47e9d6b1bb408c4dcf" width="60" /> | [Anno 1800](https://ostdb.net/games/anno-1800) | **Anno 1800 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Dvo7WKqOHr0UL5jhfIRPr)<br>**Anno 1800 – Post-Launch Compilation (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/anthem) | **Anthem (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
 
 ### 0-9
 
@@ -63,4 +64,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_47 soundtracks · last updated 2026-08-25T13:21:10.910Z_
+_48 soundtracks · last updated 2026-08-25T13:21:14.321Z_
