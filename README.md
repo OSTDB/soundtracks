@@ -174,6 +174,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273efb37b38711d954a7c927799" width="60" /> | [Bloodborne](https://ostdb.net/games/7334) | Bloodborne the Old Hunters Original Soundtrack | [Spotify](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273875ba1a62fe21d124fd4709d" width="60" /> | [Bloons TD 6](https://ostdb.net/games/103380) | Bloons Tower Defense 6 (Official Soundtrack) | [Spotify](https://open.spotify.com/album/5th4BDlPz8KDSHKWemthHh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bec33ab9e446fe9d0880710" width="60" /> | [Bloons TD 6](https://ostdb.net/games/103380) | Sails Again : Bloons Tower Defense 6 (Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/3lOvrOzOjUeDy2u0DT2MA3) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27359c4bbe58d75f7baeca12993" width="60" /> | [Bloons TD 6](https://ostdb.net/games/103380) | Winter Is Coming, Bloons Tower Defense 6 (Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/4jzKBW04YNZTbJw1YhKPbm) |
 
 ### 0-9
 
@@ -190,4 +191,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_159 soundtracks · last updated 2026-08-25T07:16:03.374Z_
+_160 soundtracks · last updated 2026-08-25T07:16:05.293Z_
