@@ -911,6 +911,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733f893192c8b9101645963869" width="60" /> | [The Beginner's Guide](https://ostdb.net/games/the-beginners-guide) | **The Beginner's Guide** · [Spotify](https://open.spotify.com/album/17PZkpr7sonufLV22ZYxio) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341893317955ea99b69b1e039" width="60" /> | [The Binding of Isaac](https://ostdb.net/games/the-binding-of-isaac) | **The Binding of Isaac: Afterbirth (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3eXltMcjg93gl5bNw13Sd7)<br>**The Binding of Isaac: Afterbirth + (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4kpz0LIs7KqKyN8n6jqUQs)<br>**The Binding of Isaac: Rebirth (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6xmFMdtFR9InDhMZFiCwCZ)<br>**The Binding of Isaac: Repentance (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7mWeSocrNQ0OvsWauMDSHq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd82634d67d4e092963948d" width="60" /> | [The Binding of Isaac: Rebirth](https://ostdb.net/games/the-binding-of-isaac-rebirth) | **The Binding of Isaac: Rebirth (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6xmFMdtFR9InDhMZFiCwCZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27369eec53123c58b1c0ca61a74" width="60" /> | [The Blood of Dawnwalker](https://ostdb.net/games/the-blood-of-dawnwalker) | **Dawnwalker (Vampire Music inspired by the Blood of Dawnwalker Original Soundtrack)** · [Spotify](https://open.spotify.com/album/40kjmATL675wv80CZdm3Tp) |
 
 ### 0-9
 
@@ -923,4 +924,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1179 soundtracks · last updated 2026-08-25T18:06:46.187Z_
+_1180 soundtracks · last updated 2026-08-25T18:06:50.897Z_
