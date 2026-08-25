@@ -337,7 +337,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f42f5fa47050322fa6d1eb9e" width="60" /> | [Far Cry 3](https://ostdb.net/games/far-cry-3) | **Far Cry 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cda9492983b4a34045b706ed" width="60" /> | [Far Cry 3: Blood Dragon](https://ostdb.net/games/far-cry-3-blood-dragon) | **Far Cry 3: Blood Dragon (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/231L8hGyehsAzmrPrd785m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df65debb89f88135fc0f84e9" width="60" /> | [Far Cry 4](https://ostdb.net/games/far-cry-4) | **Far Cry 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2QNXFirE3DfqroVD1xzfeZ) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273835e253478d6e5baf86a3ee1" width="60" /> | [Far Cry 5](https://ostdb.net/games/far-cry-5) | **Far Cry 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1SHBTtjQvdlrWt3y7rtaHn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273835e253478d6e5baf86a3ee1" width="60" /> | [Far Cry 5](https://ostdb.net/games/far-cry-5) | **Far Cry 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1SHBTtjQvdlrWt3y7rtaHn)<br>**Far Cry 5 Presents: We Will Rise Again (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4Gxql1kKRbHfHZnqrBGuAz) |
 
 ### 0-9
 
@@ -350,4 +350,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_425 soundtracks · last updated 2026-08-25T14:56:04.331Z_
+_426 soundtracks · last updated 2026-08-25T14:56:08.474Z_
