@@ -12,7 +12,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ## Browse by letter
 
-[A](#a) · [0-9](#0-9)
+[A](#a) · [B](#b) · [0-9](#0-9)
 
 ### A
 
@@ -118,6 +118,12 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/87/01/bc87011f-6aa0-0b79-1e27-ab76795a17df/780163665925.jpg/600x600bb.jpg" width="60" /> | [Avatar: Frontiers of Pandora](https://ostdb.net/games/152202) | Avatar: Frontiers of Pandora - Secrets of the Spires (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4) · [Album](https://album.link/i/1778719367) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a83d5a189b3249fe0fe189b3" width="60" /> | [Avowed](https://ostdb.net/games/135994) | Avowed (Official Game Soundtrack) | [Spotify](https://open.spotify.com/album/51t8gJnpvhIJuuQjmFs1v3) |
 
+### B
+
+| Cover | Game | Album | Links |
+|---|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ff/5d/06/ff5d06e1-f8ab-c580-5cb4-45394ff834fb/SQEX-10925-1_3000x3000.jpg/600x600bb.jpg" width="60" /> | [Babylon's Fall](https://ostdb.net/games/103312) | BABYLON'S FALL ORIGINAL SOUNDTRACK | [Spotify](https://music.apple.com/us/album/babylons-fall-original-soundtrack/1610985916?uo=4) · [Album](https://album.link/i/1610985916) |
+
 ### 0-9
 
 | Cover | Game | Album | Links |
@@ -133,4 +139,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_107 soundtracks · last updated 2026-08-25T07:05:41.638Z_
+_108 soundtracks · last updated 2026-08-25T07:05:43.681Z_
