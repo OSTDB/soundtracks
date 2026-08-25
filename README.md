@@ -805,6 +805,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/81/84/31818499-f8c5-81c6-9a14-f092f295dbbb/886447613894.jpg/600x600bb.jpg" width="60" /> | [Sea of Solitude](https://ostdb.net/games/sea-of-solitude) | **Sea of Solitude (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/sea-of-solitude-original-soundtrack/1470363266?uo=4) · [Album](https://album.link/i/1470363266) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27334ca5f3f122f5d5b0eb16a71" width="60" /> | [Sea of Thieves](https://ostdb.net/games/sea-of-thieves) | **Ballad of the Mer (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Q0Xxiy91IG7P33owTxxty)<br>**Becalmed (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RWfLTjnEMQYq9a8e658qo)<br>**Maiden Voyage (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/453hA9f1yOdt4NvigpkTLg)<br>**The Summoning (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6iMpim4d8639MOVftPj9cV)<br>**We Shall Sail Together (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5RavM0tHAVB19OqEK4dXNJ) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/19/cc/c119ccbc-5317-a140-1d4e-9c8d05428098/38218.jpg/600x600bb.jpg" width="60" /> | [Season: A Letter to the Future](https://ostdb.net/games/season-a-letter-to-the-future) | **SEASON: A letter to the future (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/season-a-letter-to-the-future-original-soundtrack/1668889357?uo=4) · [Album](https://album.link/i/1668889357) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730dd51c0c9fcfb4709c6c87f7" width="60" /> | [Senua's Saga: Hellblade II](https://ostdb.net/games/senuas-saga-hellblade-ii) | **Senua's Saga: Hellblade II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/43zMvhlfOFGNYN25w5QM2t) |
 
 ### 0-9
 
@@ -817,4 +818,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1037 soundtracks · last updated 2026-08-25T17:31:32.455Z_
+_1038 soundtracks · last updated 2026-08-25T17:31:37.134Z_
