@@ -525,6 +525,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736a5a249912d0d3573aaa264f" width="60" /> | [Kingdom Hearts III](https://ostdb.net/games/kingdom-hearts-iii) | **KINGDOM HEARTS - III, II.8, Unchained χ & Union χ [Cross] – (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3e7IU11zNQe3GzMnGDeQOX) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/cb/56/5ccb5636-2883-2131-f3ef-2cbf5f2c8954/artwork.jpg/600x600bb.jpg" width="60" /> | [Kingdoms of Amalur: Re-Reckoning](https://ostdb.net/games/kingdoms-of-amalur-re-reckoning) | **Kingdoms of Amalur: Reckoning (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625?uo=4) · [Album](https://album.link/i/1484888625) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1918a3aa4800e8f60e956c9" width="60" /> | [Kirby Air Riders](https://ostdb.net/games/kirby-air-riders) | **Kirby Air Riders Themes (Original Soundtrack of Kirby Air Riders )** · [Spotify](https://open.spotify.com/album/7qh0xkhphxfDwrNq4PTRIF) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/38/c3/9e38c3f3-2ed6-0692-fdfc-52ddab998838/Kunitsu-Gami_soundtrack_JP_1500.jpg/600x600bb.jpg" width="60" /> | [Kunitsu-Gami: Path of the Goddess](https://ostdb.net/games/kunitsu-gami-path-of-the-goddess) | **祇:Path of the Goddess オリジナル・サウンドトラック** · [Spotify](https://music.apple.com/us/album/%E7%A5%87-path-of-the-goddess-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1770464357?uo=4) · [Album](https://album.link/i/1770464357) |
 
 ### 0-9
 
@@ -537,4 +538,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_676 soundtracks · last updated 2026-08-25T16:01:27.192Z_
+_677 soundtracks · last updated 2026-08-25T16:01:31.539Z_
