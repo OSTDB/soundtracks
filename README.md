@@ -270,6 +270,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a097f7a40543aecb3fd6c5f6" width="60" /> | [Dishonored 2](https://ostdb.net/games/dishonored-2) | **Dishonored 2 (Deluxe Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4g7JIOhSJv3eYEzCCwIchi) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27330b571609587240e493bd985" width="60" /> | [Dispatch](https://ostdb.net/games/dispatch) | **Dispatch, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7rByigEYU4ok9gsQG5ce9C)<br>**Dispatch, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Sxs1AGIMyaXy6b3Ttr4Xg)<br>**Dispatch, Vol. 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Hvg7EYmQHrUqtAxbbOPt3)<br>**Dispatch, Vol. 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5wrmdcLuPNgigLP8O4hCsl) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734beb0f2dd457d2484095e6b9" width="60" /> | [Dissidia Final Fantasy](https://ostdb.net/games/dissidia-final-fantasy) | **DISSIDIA FINAL FANTASY Original Soundtrack** · [Spotify](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732085ca30362de37d7c3d6f83" width="60" /> | [Divinity: Original Sin II](https://ostdb.net/games/divinity-original-sin-ii) | **Divinity: Original Sin 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5HEC1svShRLqWyoPGaNujo) |
 
 ### 0-9
 
@@ -282,4 +283,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_348 soundtracks · last updated 2026-08-25T14:36:21.540Z_
+_349 soundtracks · last updated 2026-08-25T14:36:25.343Z_
