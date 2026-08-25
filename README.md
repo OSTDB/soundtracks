@@ -404,6 +404,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730036f956ce96c4293059d039" width="60" /> | [GoldenEye 007](https://ostdb.net/games/goldeneye-007) | **GoldenEye 007, Iconic Themes** · [Spotify](https://open.spotify.com/album/7wEcz0DKQrgR1R1f1dS782) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273303aa4ddc3326db309cc1694" width="60" /> | [Gone Home](https://ostdb.net/games/gone-home) | **Gone Home: Original Soundtrack** · [Spotify](https://open.spotify.com/album/2trGaSVNffD8KeX1Gy5TdF) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/9d/4a/b09d4ae6-509b-fd77-b3ed-c7961cbc4359/8721416830891.png/600x600bb.jpg" width="60" /> | [Goodnight Universe](https://ostdb.net/games/goodnight-universe) | **Goodnight Universe (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/goodnight-universe-original-video-game-soundtrack/1854320361?uo=4) · [Album](https://album.link/i/1854320361) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736661f8ef9265a64d3293e857" width="60" /> | [Gotham Knights](https://ostdb.net/games/gotham-knights) | **Gotham Knights (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7hMLyLcxF0LyjxI93RjYAg) |
 
 ### 0-9
 
@@ -416,4 +417,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_529 soundtracks · last updated 2026-08-25T15:25:52.336Z_
+_530 soundtracks · last updated 2026-08-25T15:25:56.856Z_
