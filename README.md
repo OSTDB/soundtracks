@@ -646,6 +646,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0dee0d149e8df588a72a345" width="60" /> | [Need for Speed: Underground](https://ostdb.net/games/need-for-speed-underground) | **Need for Speed: Underground (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Q2lxZxlCweUaM29KGN9oc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739266f739b7199250e3121029" width="60" /> | [Neva](https://ostdb.net/games/neva) | **Neva (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6NLJwYiAKI6I16CBQy5pqP)<br>**Neva Prologue (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0aEaJETzc0QMN0gzqmulUa) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/44/eb/3044eb49-1db8-4ab6-8f4c-288801a4a65c/8721465515763.png/600x600bb.jpg" width="60" /> | [Neva: Prologue](https://ostdb.net/games/neva-prologue) | **Neva Prologue (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4) · [Album](https://album.link/i/1873035980) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2736d7cf2ff2ac125759fcc9d07" width="60" /> | [New Super Mario Bros. Wii](https://ostdb.net/games/new-super-mario-bros-wii) | **New Super Mario Bros. Wii, The Themes** · [Spotify](https://open.spotify.com/album/0tvzCGYNyMuo51gf4Ck1DZ) |
 
 ### 0-9
 
@@ -658,4 +659,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_842 soundtracks · last updated 2026-08-25T16:41:54.711Z_
+_843 soundtracks · last updated 2026-08-25T16:41:58.804Z_
