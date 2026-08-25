@@ -145,6 +145,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273076ef3ba4d114dc3ceebe96a" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/7D9uN16qCeZsxjhksbRA5e) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273728c8f67d327859efff4308a" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) (Premium Edition) | [Spotify](https://open.spotify.com/album/04b0xmFOenZ0rSpTRE0DjX) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/df/da/93dfda7b-0499-2ac0-09f8-964e361493b0/67003858151.jpg/600x600bb.jpg" width="60" /> | [Battlefield 4](https://ostdb.net/games/1979) | Battlefield 4 (Original Soundtrack) [Premium Edition] | [Spotify](https://music.apple.com/us/album/battlefield-4-original-soundtrack-premium-edition/1460182990?uo=4) · [Album](https://album.link/i/1460182990) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731880ed5b4e5b7caa71b66326" width="60" /> | [Battlefield 6](https://ostdb.net/games/317407) | Battlefield 6 (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/6mOnfNEZwyHMUo0UMIf3Z7) |
 
 ### 0-9
 
@@ -161,4 +162,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_130 soundtracks · last updated 2026-08-25T07:10:45.834Z_
+_131 soundtracks · last updated 2026-08-25T07:10:47.657Z_
