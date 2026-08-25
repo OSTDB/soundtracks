@@ -652,6 +652,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e74a476f1e5ad65918341cc" width="60" /> | [NieR Replicant ver.1.22474487139...](https://ostdb.net/games/nier-replicant-ver-1-22474487139) | **NieR Gestalt & NieR Replicant Original Soundtrack** · [Spotify](https://open.spotify.com/album/5EvfMZYvdWB2XPZT0IvcyI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273982eee6d02a43ff48199972a" width="60" /> | [NieR: Automata](https://ostdb.net/games/nier-automata) | **NieR:Automata Arranged & Unreleased Tracks** · [Spotify](https://open.spotify.com/album/3cmjQJKn8f3Wio9Rro3asA)<br>**NieR:Automata Original Soundtrack** · [Spotify](https://open.spotify.com/album/6Nws2NAPuxaHzB7MfD1lhg)<br>**Piano Collections NieR:Automata** · [Spotify](https://open.spotify.com/album/1nZIYthE0D6Tc6bP0OkmV9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1ae29bb5e7e53c17b4a4fd8" width="60" /> | [Night in the Woods](https://ostdb.net/games/night-in-the-woods) | **Night in the Woods (Original Soundtrack, Vol. 1) [At the End of Everything]** · [Spotify](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8)<br>**Night in the Woods (Original Soundtrack, Vol. 2) [Hold onto Anything]** · [Spotify](https://open.spotify.com/album/5M5lsqSuJQ4TbvzOBMyOee) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/77/17/947717d1-b5fd-bf67-fea4-aba0fe046fe3/198588421086.jpg/600x600bb.jpg" width="60" /> | [Nine Sols](https://ostdb.net/games/nine-sols) | **Nine Sols (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/nine-sols-original-soundtrack/1753187376?uo=4) · [Album](https://album.link/i/1753187376) |
 
 ### 0-9
 
@@ -664,4 +665,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_852 soundtracks · last updated 2026-08-25T16:46:14.218Z_
+_853 soundtracks · last updated 2026-08-25T16:46:18.378Z_
