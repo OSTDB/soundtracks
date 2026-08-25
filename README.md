@@ -321,6 +321,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/b1/08/9ab108d5-cfa7-2ded-29c9-2b4011adf78b/8721215562856.png/600x600bb.jpg" width="60" /> | [Europa Universalis V](https://ostdb.net/games/europa-universalis-v) | **Europa Universalis V (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/europa-universalis-v-original-game-soundtrack/1819494174?uo=4) · [Album](https://album.link/i/1819494174) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/10/5d/38105d6a-d63d-e31b-f296-8af2a4daff6c/199800266775.jpg/600x600bb.jpg" width="60" /> | [Everspace 2](https://ostdb.net/games/everspace-2) | **The EVERSPACE™ 2 (Official Soundtrack) [Expansion Tracks]** · [Spotify](https://music.apple.com/us/album/the-everspace-2-official-soundtrack-expansion-tracks/1832911450?uo=4) · [Album](https://album.link/i/1832911450)<br>**The EVERSPACE™ 2, Vol. 1 (Official Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-everspace-2-vol-1-official-soundtrack/1832911352?uo=4) · [Album](https://album.link/i/1832911352)<br>**The EVERSPACE™ 2, Vol. 2 (Official Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-everspace-2-vol-2-official-soundtrack/1832910949?uo=4) · [Album](https://album.link/i/1832910949) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/58/1f/99581f3c-8e40-58c1-b866-61b3356ca4e5/cover.jpg/600x600bb.jpg" width="60" /> | [Evil Genius 2: World Domination](https://ostdb.net/games/evil-genius-2-world-domination) | **Evil Genius 2: World Domination** · [Spotify](https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4) · [Album](https://album.link/i/1635588885) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/4f/10/764f1049-7a4b-170d-4c94-ba6783f69e44/5059806675030_cover.jpg/1000x1000bb.jpg" width="60" /> | [ExeKiller](https://ostdb.net/games/exekiller) | **I Am Exekiller (Original Game Soundtrack) - Single** · [Apple Music](https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4) · [Album](https://album.link/i/1598151208) |
 
 ### 0-9
 
@@ -333,4 +334,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_407 soundtracks · last updated 2026-08-25T14:51:16.546Z_
+_408 soundtracks · last updated 2026-08-25T14:51:20.175Z_
