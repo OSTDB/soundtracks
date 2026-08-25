@@ -869,7 +869,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27333ef1b628c916c245b74e4d9" width="60" /> | [State of Decay 2](https://ostdb.net/games/state-of-decay-2) | **State of Decay 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3DfZXfUWuPAIGljNmyNvR1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/0b/8b/9b0b8b53-11ea-b674-c425-2bee6feb8dfc/artwork.jpg/600x600bb.jpg" width="60" /> | [Steel Seed](https://ostdb.net/games/steel-seed) | **Steel Seed (Original Game Soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/steel-seed-original-game-soundtrack-single/1808746968?uo=4) · [Album](https://album.link/i/1808746968) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d832768a591d9104472c9e0b" width="60" /> | [Steins;Gate](https://ostdb.net/games/steins-gate) | **STEINS;GATE Original Soundtrack** · [Spotify](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) |
-| <img src="https://i.scdn.co/image/ab67616d0000b2733719a102bfd7bc1408a00462" width="60" /> | [Stellar Blade](https://ostdb.net/games/stellar-blade) | **STELLAR BLADE ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/0ImRpX3Ce1Gr7MWH4vehzw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733719a102bfd7bc1408a00462" width="60" /> | [Stellar Blade](https://ostdb.net/games/stellar-blade) | **STELLAR BLADE ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/0ImRpX3Ce1Gr7MWH4vehzw)<br>**STELLAR BLADE ORIGINAL SOUNDTRACK PLUS** · [Spotify](https://open.spotify.com/album/4JiiBsMl6DiM1WGJYa4TDs) |
 
 ### 0-9
 
@@ -882,4 +882,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1123 soundtracks · last updated 2026-08-25T17:52:03.518Z_
+_1124 soundtracks · last updated 2026-08-25T17:52:07.972Z_
