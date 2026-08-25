@@ -702,6 +702,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27345e067542e1387d6d7dbe514" width="60" /> | [Pillars of Eternity](https://ostdb.net/games/pillars-of-eternity) | **Pillars of Eternity (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/3QBQCycojhOJLYlHhaCgVm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273486983be2d3af3d6d09d20d4" width="60" /> | [Plants vs. Zombies](https://ostdb.net/games/plants-vs-zombies) | **Plants Vs. Zombies (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2362558f7ad4958afc0bba2" width="60" /> | [Pokémon HeartGold Version](https://ostdb.net/games/pokemon-heartgold-version) | **Pokémon HeartGold, SoulSilver: Iconic Themes** · [Spotify](https://open.spotify.com/album/6bVKXTToP5bUlXgZ5VodxV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dc24bedcfef42844fcb07b6f" width="60" /> | [Pokémon Ultra Sun](https://ostdb.net/games/pokemon-ultra-sun) | **Pokémon Ultra Sun & Ultra Moon, Alola (Original Game Score)** · [Spotify](https://open.spotify.com/album/5WEHZUjHRx0Ny7rd8h9WpG) |
 
 ### 0-9
 
@@ -714,4 +715,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_910 soundtracks · last updated 2026-08-25T17:01:01.094Z_
+_911 soundtracks · last updated 2026-08-25T17:01:05.399Z_
