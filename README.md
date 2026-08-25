@@ -520,6 +520,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/15/7e/8a157e90-3b64-bc4b-51a9-0450a78eca10/SQEX-50252-1_3000x3000.jpg/600x600bb.jpg" width="60" /> | [Killer Inn](https://ostdb.net/games/killer-inn) | **KILLER INN ORIGINAL SOUNDTRACK Vol. 1** · [Spotify](https://music.apple.com/us/album/killer-inn-original-soundtrack-vol-1/1872874872?uo=4) · [Album](https://album.link/i/1872874872) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/5c/a9/195ca990-472f-f270-031b-428dc17c957e/dj.fyfcgnpm.jpg/600x600bb.jpg" width="60" /> | [Killing Floor 2](https://ostdb.net/games/killing-floor-2) | **Killing Floor 2 (Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/killing-floor-2-video-game-soundtrack/982942195?uo=4) · [Album](https://album.link/i/982942195) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27335a62f13bb75911008d20449" width="60" /> | [Killing Floor III](https://ostdb.net/games/killing-floor-iii) | **Killing Floor 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6waZ9YsTCsWBuM26Z9v6Fo) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333e0e068c7cf9bb9805815bf" width="60" /> | [Kingdom Come: Deliverance](https://ostdb.net/games/kingdom-come-deliverance) | **Kingdom Come: Deliverance (Original Soundtrack Essentials)** · [Spotify](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) |
 
 ### 0-9
 
@@ -532,4 +533,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_669 soundtracks · last updated 2026-08-25T16:00:58.333Z_
+_670 soundtracks · last updated 2026-08-25T16:01:02.397Z_
