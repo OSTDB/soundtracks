@@ -61,6 +61,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27345fcca6d8f6edf6344090931" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/arknights-endfield) | **Endfield brennt (Arknights: Endfield)** · [Spotify](https://open.spotify.com/album/3A4LU9ROwEaCMCwR7C4Het)<br>**Give Me Something (for Arknights Endfield)** · [Spotify](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB)<br>**Rossi Arknights:Endfield Wolf** · [Spotify](https://open.spotify.com/album/5cQR6qQE68akfMqkxlRmAN)<br>**Welcome to Endfield Industries (ARKNIGHTS:ENDFIELD)** · [Spotify](https://open.spotify.com/album/1zrHuNbd6pF2x9GMfwIvFR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ea6604b612adde6f00d8af04" width="60" /> | [Ashen](https://ostdb.net/games/ashen) | **Ashen (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6on5VDqh0Fpp5yFWlyo8kk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273298bcfa5e07904af0f967e34" width="60" /> | [Assassin's Creed](https://ostdb.net/games/assassins-creed) | **Assassin's Creed (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4PPrQHip0EOfO3tqgDgwZ8) |
+| <img src="https://images.igdb.com/igdb/image/upload/t_1080p/cobyue.jpg" width="60" /> | [Assassin's Creed Black Flag Resynced](https://ostdb.net/games/assassins-creed-black-flag-resynced) | **Leave Her Johnny (Woodkid Resynced)** · [Spotify](https://open.spotify.com/album/6DXor4YOfWZCsfoHDMwEpH) · [Apple Music](https://music.apple.com/us/album/leave-her-johnny-woodkid-resynced-single/6771741159) |
 
 ### 0-9
 
@@ -73,4 +74,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_63 soundtracks · last updated 2026-08-25T13:25:55.168Z_
+_64 soundtracks · last updated 2026-08-25T13:25:58.553Z_
