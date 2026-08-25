@@ -331,6 +331,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273291c0a3a6c9eb4ff73d6ec70" width="60" /> | [Fall Guys](https://ostdb.net/games/fall-guys) | **Fall Guys (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT)<br>**Fall Guys Free For All (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23zSfX6rJ8x3yfOfQI1tIV)<br>**Fall Guys Season 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/03pT3frTAB4jI5xBCGNMuB)<br>**Fall Guys Season 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0AXFLnDN54Wfon2XffLNUb)<br>**Fall Guys Season 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6F1bpnMl66b3lKJoxEXyQ6)<br>**Fall Guys Season 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qRJZzeTmDEppnllFr9Toz)<br>**Fall Guys Season 6 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1uogBDRYJCphAanxRe7EXv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325f0615aeb6e2096bae05190" width="60" /> | [Fallout 3](https://ostdb.net/games/fallout-3) | **Fallout 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4i1lZko6QctdpzbLa8hLP4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee81b3d1a2d4185c24845c09" width="60" /> | [Fallout 4](https://ostdb.net/games/fallout-4) | **Fallout 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3vwXVCjVCFDhw8ePrWfgWJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e385bbc599b50986fe0aafcc" width="60" /> | [Fallout 76](https://ostdb.net/games/fallout-76) | **Fallout 76 (Original Game Score)** · [Spotify](https://open.spotify.com/album/3ADB1ffqYnHvd8vAMfL5YP) |
 
 ### 0-9
 
@@ -343,4 +344,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_418 soundtracks · last updated 2026-08-25T14:52:01.869Z_
+_419 soundtracks · last updated 2026-08-25T14:52:06.926Z_
