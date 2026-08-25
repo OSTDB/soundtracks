@@ -802,6 +802,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/3b/f4/ac3bf4f5-74f1-9f1f-05f0-e1da28d580ec/644110053299.png/1000x1000bb.jpg" width="60" /> | [Scott Pilgrim EX](https://ostdb.net/games/scott-pilgrim-ex) | **Scott Pilgrim EX (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/scott-pilgrim-ex-original-soundtrack/1877589654?uo=4) · [Album](https://album.link/i/1877589654) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db6b1884af16e75008824e1f" width="60" /> | [Screamer](https://ostdb.net/games/screamer) | **Screamer (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/67qIncdOXMn8t2w3SlX9to)<br>**Screamer (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7qrn2IN2OV8Xo0LLJ8Mf0E) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/40/58/0940586a-20a9-c73d-f763-7ae3020682f4/4711506901123.jpg/1000x1000bb.jpg" width="60" /> | [Sea of Remnants](https://ostdb.net/games/sea-of-remnants) | **Memories go, memories stay (《遺忘之海》歌曲) - Single** · [Apple Music](https://music.apple.com/us/album/memories-go-memories-stay-%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7-%E6%AD%8C%E6%9B%B2-single/1820128157?uo=4) · [Album](https://album.link/i/1820128157)<br>**What You’ve Done (《遺忘之海》歌曲) - Single** · [Apple Music](https://music.apple.com/us/album/what-youve-done-%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7-%E6%AD%8C%E6%9B%B2-single/1821583930?uo=4) · [Album](https://album.link/i/1821583930)<br>**Yo Ho! (《遺忘之海》首曝概念片主題曲) - Single** · [Apple Music](https://music.apple.com/us/album/yo-ho-%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7-%E9%A6%96%E6%9B%9D%E6%A6%82%E5%BF%B5%E7%89%87%E4%B8%BB%E9%A1%8C%E6%9B%B2-single/1816142274?uo=4) · [Album](https://album.link/i/1816142274) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/31/81/84/31818499-f8c5-81c6-9a14-f092f295dbbb/886447613894.jpg/600x600bb.jpg" width="60" /> | [Sea of Solitude](https://ostdb.net/games/sea-of-solitude) | **Sea of Solitude (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/sea-of-solitude-original-soundtrack/1470363266?uo=4) · [Album](https://album.link/i/1470363266) |
 
 ### 0-9
 
@@ -814,4 +815,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1030 soundtracks · last updated 2026-08-25T17:31:02.728Z_
+_1031 soundtracks · last updated 2026-08-25T17:31:07.400Z_
