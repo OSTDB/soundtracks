@@ -1050,6 +1050,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/fd/db/55fddb2c-43ea-2acf-2c09-092073380fec/cover.jpg/1000x1000bb.jpg" width="60" /> | [Where Winds Meet](https://ostdb.net/games/where-winds-meet) | **凉州箫鼓 \|《燕云十六声》游戏原声音乐辑(凉州卷) - Single** · [Apple Music](https://music.apple.com/us/album/%E5%87%89%E5%B7%9E%E7%AE%AB%E9%BC%93-%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0-%E6%B8%B8%E6%88%8F%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E8%BE%91-%E5%87%89%E5%B7%9E%E5%8D%B7-single/1890397193?uo=4) · [Album](https://album.link/i/1890397193)<br>**風起之時 (《燕雲十六聲》遊戲原聲音樂輯 (清河卷))** · [Apple Music](https://music.apple.com/us/album/%E9%A2%A8%E8%B5%B7%E4%B9%8B%E6%99%82-%E7%87%95%E9%9B%B2%E5%8D%81%E5%85%AD%E8%81%B2-%E9%81%8A%E6%88%B2%E5%8E%9F%E8%81%B2%E9%9F%B3%E6%A8%82%E8%BC%AF-%E6%B8%85%E6%B2%B3%E5%8D%B7/1849127993?uo=4) · [Album](https://album.link/i/1849127993) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735f225efb4cf8249e7d6fea29" width="60" /> | [Wii Sports](https://ostdb.net/games/wii-sports) | **Wii Sports 2: The Themes, Vol. 2** · [Spotify](https://open.spotify.com/album/09HlU8p9rY5vWHiTtNDTDt)<br>**Wii Sports Theme (From "Nintendo Wii")** · [Spotify](https://open.spotify.com/album/7rPJPRoRQ9r9nBsmVsKEbd)<br>**Wii Sports, The Themes** · [Spotify](https://open.spotify.com/album/65zljnN59aurCCMAmPCGxg) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/20/ce/c220ce6b-5af8-d5d6-fec8-c6a27c6ab0cc/artwork.jpg/600x600bb.jpg" width="60" /> | [Wildgate](https://ostdb.net/games/wildgate) | **Wildgate (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/wildgate-original-game-soundtrack/1834323015?uo=4) · [Album](https://album.link/i/1834323015) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/d4/8b/f6d48b44-a94b-75b6-4718-9474347c99b9/cover.jpg/600x600bb.jpg" width="60" /> | [Windblown](https://ostdb.net/games/windblown) | **Windblown (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/windblown-original-game-soundtrack/1848418181?uo=4) · [Album](https://album.link/i/1848418181) |
 
 ### 0-9
 
@@ -1062,4 +1063,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1367 soundtracks · last updated 2026-08-25T18:55:48.596Z_
+_1368 soundtracks · last updated 2026-08-25T18:55:52.561Z_
