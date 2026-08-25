@@ -604,6 +604,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273a5f25a9bc55275bcf4c2d2b9" width="60" /> | [Metal Gear Solid V: The Phantom Pain](https://ostdb.net/games/metal-gear-solid-v-the-phantom-pain) | **METAL GEAR SOLID Δ: SNAKE EATER (ORIGINAL SOUNDTRACK)** · [Spotify](https://open.spotify.com/album/1tSkLcMMxz6JRI6A3tLTRE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273190c14807f4821560cfb8614" width="60" /> | [Metal Slug](https://ostdb.net/games/metal-slug) | **Metal Slug Tactics (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6hKl1F85awlR62pFFqGl2I) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/5a/e7/9c5ae7f5-2f63-2bfb-cd1d-6dcc78c011fc/3663729343888_cover.jpg/600x600bb.jpg" width="60" /> | [Metal Slug Tactics](https://ostdb.net/games/metal-slug-tactics) | **Metal Slug Tactics (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/metal-slug-tactics-original-game-soundtrack/1776636935?uo=4) · [Album](https://album.link/i/1776636935) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f0cc5dea6d3b98b9745a5ae7" width="60" /> | [Metaphor: ReFantazio](https://ostdb.net/games/metaphor-refantazio) | **Metaphor: ReFantazio Original Soundtrack** · [Spotify](https://open.spotify.com/album/2xtfVwo1C8S6pwAoOoU559) |
 
 ### 0-9
 
@@ -616,4 +617,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_776 soundtracks · last updated 2026-08-25T16:26:32.178Z_
+_777 soundtracks · last updated 2026-08-25T16:26:36.706Z_
