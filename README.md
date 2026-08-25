@@ -153,6 +153,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/a5/de/a5a5de44-8f29-ee01-4a66-445ba692e339/77507.jpg/1000x1000bb.jpg" width="60" /> | [Battletoads](https://ostdb.net/games/2970) | Battletoads (Original Soundtrack) | [Apple Music](https://music.apple.com/us/album/battletoads-original-soundtrack/1533321474?uo=4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735937e852f0c7935feb612a2d" width="60" /> | [Bayonetta](https://ostdb.net/games/2136) | BAYONETTA Original Soundtrack (Vol. 3) | [Spotify](https://open.spotify.com/album/0gbCEGCVlc1LYWTUw7eHhh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8f28d6b7edf68c40dec23bd" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 1) | [Spotify](https://open.spotify.com/album/7n72bbR6BZjcK4UrUkEr72) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f822d0a263232ffa64d8bcdc" width="60" /> | [Bayonetta 2](https://ostdb.net/games/2135) | BAYONETTA 2 Original Soundtrack (Vol. 2) | [Spotify](https://open.spotify.com/album/72kpBnT3p5VDc3MukvnG9C) |
 
 ### 0-9
 
@@ -169,4 +170,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_138 soundtracks · last updated 2026-08-25T07:11:00.880Z_
+_139 soundtracks · last updated 2026-08-25T07:11:02.759Z_
