@@ -547,7 +547,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/71/98/8e/71988ecd-ba5f-b287-a3b0-dd11e51ad586/PA00108987_3_158042_jacket.jpg/600x600bb.jpg" width="60" /> | [Like a Dragon: Ishin!](https://ostdb.net/games/like-a-dragon-ishin) | **Like a Dragon: Ishin! Complete Karaoke Songs** · [Spotify](https://music.apple.com/us/album/like-a-dragon-ishin-complete-karaoke-songs/1656182148?uo=4) · [Album](https://album.link/i/1656182148) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/fa/54/1afa54c2-676d-bb67-d041-a40d92adc59a/198704358005_Cover.jpg/1000x1000bb.jpg" width="60" /> | [Like a Dragon: Pirate Yakuza in Hawaii](https://ostdb.net/games/like-a-dragon-pirate-yakuza-in-hawaii) | **龍が如く8外伝 Pirates in Hawaii (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F8%E5%A4%96%E4%BC%9D-pirates-in-hawaii-original-soundtrack/1795611204?uo=4) · [Album](https://album.link/i/1795611204) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273337247f66404f4962a0ed4cc" width="60" /> | [Limbo](https://ostdb.net/games/limbo) | **Limbo (Original Videogame Soundtrack)** · [Spotify](https://open.spotify.com/album/06i5zPGRMQaAbDWq4ITNjj) · [Apple Music](https://music.apple.com/us/album/limbo-original-videogame-soundtrack-ep/1109391252) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/46/6e/66466ec6-63ee-fb39-b664-817a3ecc9dc3/198009638666.png/600x600bb.jpg" width="60" /> | [Little Kitty, Big City](https://ostdb.net/games/little-kitty-big-city) | **Little Kitty Big City (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/little-kitty-big-city-original-soundtrack/1738342035?uo=4) · [Album](https://album.link/i/1738342035) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/46/6e/66466ec6-63ee-fb39-b664-817a3ecc9dc3/198009638666.png/600x600bb.jpg" width="60" /> | [Little Kitty, Big City](https://ostdb.net/games/little-kitty-big-city) | **Little Kitty Big City (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/little-kitty-big-city-original-soundtrack/1738342035?uo=4) · [Album](https://album.link/i/1738342035)<br>**Little Kitty, Big City: The Picture Purrfect Update (Original Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/little-kitty-big-city-the-picture-purrfect-update/1839317244?uo=4) · [Album](https://album.link/i/1839317244) |
 
 ### 0-9
 
@@ -560,4 +560,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_711 soundtracks · last updated 2026-08-25T16:11:05.894Z_
+_712 soundtracks · last updated 2026-08-25T16:11:10.397Z_
