@@ -885,6 +885,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2734655a98284f1ab6841c6a474" width="60" /> | [Super Meat Boy](https://ostdb.net/games/super-meat-boy) | **Super Meat Boy! - Official Special Edition Soundtrack** · [Spotify](https://open.spotify.com/album/1a4TATTxo7fdfqYxn2uMFN) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/25/ae/a6/25aea601-b8c8-8781-53db-190cf7e70de0/195999235929.jpg/600x600bb.jpg" width="60" /> | [Super Meat Boy Forever](https://ostdb.net/games/super-meat-boy-forever) | **Super Meat Boy Forever (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/super-meat-boy-forever-original-soundtrack/1546648358?uo=4) · [Album](https://album.link/i/1546648358) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d00bd1a575bebede546037b" width="60" /> | [Superliminal](https://ostdb.net/games/superliminal) | **Superliminal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4PK7GiRv8Vpq0xtuyB0g0r) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731dd8bb66949fccf8f527a3e2" width="60" /> | [Sword of the Sea](https://ostdb.net/games/sword-of-the-sea) | **Sword of the Sea (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/4taiq7ZXGV00KOMROWIIMO) |
 
 ### 0-9
 
@@ -897,4 +898,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1142 soundtracks · last updated 2026-08-25T17:57:04.367Z_
+_1143 soundtracks · last updated 2026-08-25T17:57:10.773Z_
