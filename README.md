@@ -255,6 +255,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bc7c8faf417b7b230a3e98d" width="60" /> | [Detroit: Become Human](https://ostdb.net/games/detroit-become-human) | **Detroit: Become Human (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3mlnG0QIGKsAp50vTBKSur) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd5785665d6eed9e3203f525" width="60" /> | [Deus Ex: Human Revolution](https://ostdb.net/games/deus-ex-human-revolution) | **Deus Ex: Human Revolution (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3t0h9Jw2lbQFCrBuDUMARd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731a3d2cdfcbaabab967f3468c" width="60" /> | [Deus Ex: Mankind Divided](https://ostdb.net/games/deus-ex-mankind-divided) | **Deus Ex: Mankind Divided (Original Soundtrack - Extended Edition)** · [Spotify](https://open.spotify.com/album/6E3Bji2Z4yNO4LZQbJdoHI) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733f65bcd5def30931cc3c8604" width="60" /> | [Devil May Cry](https://ostdb.net/games/devil-may-cry) | **Devil May Cry (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k) |
 
 ### 0-9
 
@@ -267,4 +268,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_329 soundtracks · last updated 2026-08-25T14:31:25.549Z_
+_330 soundtracks · last updated 2026-08-25T14:31:30.536Z_
