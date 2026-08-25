@@ -877,6 +877,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/a1/b9/47/a1b9473c-781b-c5f2-a84f-f21a7d9672eb/SFVAE_OST.jpg/600x600bb.jpg" width="60" /> | [Street Fighter V](https://ostdb.net/games/street-fighter-v) | **Street Fighter V (Arcade Edition) [Original Soundtrack]** · [Spotify](https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4) · [Album](https://album.link/i/1341577409) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/c5/f4/08c5f417-0013-2ea3-0759-29153e818e6d/3663729431554_cover.jpg/600x600bb.jpg" width="60" /> | [Styx: Blades of Greed](https://ostdb.net/games/styx-blades-of-greed) | **Styx: Blades of Greed (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/styx-blades-of-greed-original-game-soundtrack/1878398482?uo=4) · [Album](https://album.link/i/1878398482) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f156d74f3617e3c795ab2dd" width="60" /> | [Subnautica](https://ostdb.net/games/subnautica) | **Subnautica (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb078bc6992ab6ad7ca6179a" width="60" /> | [Subway Surfers](https://ostdb.net/games/subway-surfers) | **12 YEARS 12 TRACKS** · [Spotify](https://open.spotify.com/album/3bW6NzfeUmX81nZBMUecOi) |
 
 ### 0-9
 
@@ -889,4 +890,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1131 soundtracks · last updated 2026-08-25T17:56:08.100Z_
+_1132 soundtracks · last updated 2026-08-25T17:56:13.134Z_
