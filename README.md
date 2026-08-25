@@ -777,6 +777,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/ef/9a/74/mzi.ewaxdwhf.jpg/600x600bb.jpg" width="60" /> | [Riven](https://ostdb.net/games/riven) | **Riven - The Soundtrack** · [Spotify](https://music.apple.com/us/album/riven-the-soundtrack/319255281?uo=4) · [Album](https://album.link/i/319255281) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/6b/b3/276bb3f8-3dee-d5f7-5a9a-797fd571750f/4059251120094.jpg/600x600bb.jpg" width="60" /> | [Robinson: The Journey](https://ostdb.net/games/robinson-the-journey) | **Robinson: The Journey (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4) · [Album](https://album.link/i/1746292612) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b4f333c30b954b3ccd4d81" width="60" /> | [Rocket League](https://ostdb.net/games/rocket-league) | **Rocket League x Monstercat - Legacy** · [Spotify](https://open.spotify.com/album/1tug0tdqpXDnWAosTGU6fS) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a82a02e5c283d3a70ebf24ad" width="60" /> | [Rocket League Sideswipe](https://ostdb.net/games/rocket-league-sideswipe) | **Rocket League: Sideswipe (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/7jIRopIWDP8zwlq6RfsWpS) |
 
 ### 0-9
 
@@ -789,4 +790,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1006 soundtracks · last updated 2026-08-25T17:22:16.755Z_
+_1007 soundtracks · last updated 2026-08-25T17:25:48.716Z_
