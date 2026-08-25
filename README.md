@@ -236,6 +236,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736dd5788f289533a3026db22f" width="60" /> | [Dead Space](https://ostdb.net/games/dead-space) | **Dead Space (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6OjVMP3BmeADJjVAQ3Ng0y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398aab975a600c99bef4b9e60" width="60" /> | [Dead Space 2](https://ostdb.net/games/dead-space-2) | **Dead Space 2** · [Spotify](https://open.spotify.com/album/33KvqAEr1pSBVELS6EdMGR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a5fbffbb0a1c1ebdf424f29" width="60" /> | [Dead Space 3](https://ostdb.net/games/dead-space-3) | **Dead Space 3** · [Spotify](https://open.spotify.com/album/4BdIDGMMRlTS2WWzqPSMif) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/18/f5/8e18f51f-a53c-e443-36af-1f7485f97a95/artwork.jpg/600x600bb.jpg" width="60" /> | [Dead Static Drive](https://ostdb.net/games/dead-static-drive) | **Dead Static Drive (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dead-static-drive-original-game-soundtrack/1850755043?uo=4) · [Album](https://album.link/i/1850755043) |
 
 ### 0-9
 
@@ -248,4 +249,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_291 soundtracks · last updated 2026-08-25T14:21:32.722Z_
+_292 soundtracks · last updated 2026-08-25T14:21:36.790Z_
