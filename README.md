@@ -74,6 +74,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273561d3e583a11123ef101227b" width="60" /> | [Assassin's Creed Rogue](https://ostdb.net/games/assassins-creed-rogue) | **Assassin's Creed Rogue (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/576UCWC3doVjUcEZFuWMOS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273215cd91782c7680d96733e67" width="60" /> | [Assassin's Creed Shadows](https://ostdb.net/games/assassins-creed-shadows) | **Assassin's Creed Shadows (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/37GwxDlEShsv6NFe0Re264) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d41f3423642520a37f9e19" width="60" /> | [Assassin's Creed Syndicate](https://ostdb.net/games/assassins-creed-syndicate) | **Assassin's Creed Syndicate (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c91a14852cfa16c79969dc71" width="60" /> | [Assassin's Creed Unity](https://ostdb.net/games/assassins-creed-unity) | **Assassin's Creed Unity (The Complete Edition) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/7GXcRYmAw1fTgSa2Pdscwh) |
 
 ### 0-9
 
@@ -86,4 +87,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_81 soundtracks · last updated 2026-08-25T13:30:48.771Z_
+_82 soundtracks · last updated 2026-08-25T13:30:52.011Z_
