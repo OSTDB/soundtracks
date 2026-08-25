@@ -1021,6 +1021,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735bdef5dcb15f46d3ff96e153" width="60" /> | [Vampire: The Masquerade - Bloodlines 2](https://ostdb.net/games/vampire-the-masquerade-bloodlines-2) | **Vampire: The Masquerade - Bloodlines 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4frosi4f327peOOCTIwX3F) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346ac204a9d297ef8ed852674" width="60" /> | [Vampyr](https://ostdb.net/games/vampyr) | **Vampyr** · [Spotify](https://open.spotify.com/album/1cJ14OJ8a9MZvuPAi5anhd) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/08/dd/a708dd55-836b-0bf2-abb1-4fa949c9c2ad/195448542356.jpg/600x600bb.jpg" width="60" /> | [Vestige of the Past](https://ostdb.net/games/vestige-of-the-past) | **Vestige of the Past (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/vestige-of-the-past-original-soundtrack/1535312575?uo=4) · [Album](https://album.link/i/1535312575) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/90/65/fb906542-0a22-0035-73aa-036f2eaeeea1/artwork.jpg/600x600bb.jpg" width="60" /> | [Visage](https://ostdb.net/games/visage) | **Visage (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4) · [Album](https://album.link/i/1811122497) |
 
 ### 0-9
 
@@ -1033,4 +1034,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1324 soundtracks · last updated 2026-08-25T18:42:09.159Z_
+_1325 soundtracks · last updated 2026-08-25T18:42:14.602Z_
