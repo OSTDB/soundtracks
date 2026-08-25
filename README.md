@@ -127,6 +127,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/54/71/795471b1-3baf-840e-4ad0-72f709d491e3/cover.jpg/600x600bb.jpg" width="60" /> | [Blacksad: Under the Skin](https://ostdb.net/games/blacksad-under-the-skin) | **Blacksad Under the Skin (Original Score)** · [Spotify](https://music.apple.com/us/album/blacksad-under-the-skin-original-score/1488898005?uo=4) · [Album](https://album.link/i/1488898005) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/6e/7e/786e7e81-15cf-4309-c9f6-f46bcb971e7e/5059801190644.jpg/600x600bb.jpg" width="60" /> | [Blades of Fire](https://ostdb.net/games/blades-of-fire) | **Blades of Fire Soundtrack** · [Spotify](https://music.apple.com/us/album/blades-of-fire-soundtrack/1817492580?uo=4) · [Album](https://album.link/i/1817492580) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6a54da5a7a6b26f90066d61" width="60" /> | [Blasphemous](https://ostdb.net/games/blasphemous) | **Blasphemous (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1oGyVpRrssPhtz23UDTYYS) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/2f/16/5e2f16fa-8d12-254e-86ff-f2b1671f34bb/artwork.jpg/600x600bb.jpg" width="60" /> | [Bleak Faith: Forsaken](https://ostdb.net/games/bleak-faith-forsaken) | **Übermensch (from Bleak Faith: Forsaken) - Single** · [Spotify](https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4) · [Album](https://album.link/i/1570538934) |
 
 ### 0-9
 
@@ -139,4 +140,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_154 soundtracks · last updated 2026-08-25T13:46:36.747Z_
+_155 soundtracks · last updated 2026-08-25T13:46:41.193Z_
