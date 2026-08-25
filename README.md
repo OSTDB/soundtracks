@@ -489,6 +489,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/cd/a9/3bcda948-fe8a-9bf6-ee7e-17a0af2272cd/650311381222.png/600x600bb.jpg" width="60" /> | [Industries of Titan](https://ostdb.net/games/industries-of-titan) | **Industries of Titan Official Soundtrack** · [Spotify](https://music.apple.com/us/album/industries-of-titan-official-soundtrack/1669069296?uo=4) · [Album](https://album.link/i/1669069296) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273624ade271d6ae2a1314ef694" width="60" /> | [Infamous](https://ostdb.net/games/infamous) | **inFAMOUS (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7GTxIeHQDkREAtFeMNOo7Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0976dbb561453c9081e43fe" width="60" /> | [Infamous 2](https://ostdb.net/games/infamous-2) | **inFAMOUS 2 (The Blue Soundtrack)** · [Spotify](https://open.spotify.com/album/04r7PcyBAETPFy3CUxiuky) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c07df17aa2ea058a75405c9e" width="60" /> | [Infamous: Second Son](https://ostdb.net/games/infamous-second-son) | **inFAMOUS: Second Son (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1wKJmUvPUZvjpTuiWgMilm) |
 
 ### 0-9
 
@@ -501,4 +502,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_633 soundtracks · last updated 2026-08-25T15:51:11.464Z_
+_634 soundtracks · last updated 2026-08-25T15:51:15.952Z_
