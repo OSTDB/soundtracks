@@ -68,6 +68,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2731e6245da72b4058a02aedf2e" width="60" /> | [Ark: Survival Evolved](https://ostdb.net/games/10239) | ARK Ragnarok Theme (ARK Survival Evolved Soundtrack) | [Spotify](https://open.spotify.com/album/1Wlh36bAXJP5kD30gU7l2X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bc99f1f6991898988594d8ca" width="60" /> | [Ark: Survival Evolved](https://ostdb.net/games/10239) | ARK: Expansion Packs (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/6VgROyPc71A5C3YrDMbXDC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345fcca6d8f6edf6344090931" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/194558) | Endfield brennt (Arknights: Endfield) | [Spotify](https://open.spotify.com/album/3A4LU9ROwEaCMCwR7C4Het) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731d582a27bf16b563991487cd" width="60" /> | [Arknights: Endfield](https://ostdb.net/games/194558) | Give Me Something (for Arknights Endfield) | [Spotify](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) |
 
 ### 0-9
 
@@ -84,4 +85,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_58 soundtracks · last updated 2026-08-25T06:51:05.630Z_
+_59 soundtracks · last updated 2026-08-25T06:51:07.910Z_
