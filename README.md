@@ -63,6 +63,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273761a311920a2c0a1fc7c9815" width="60" /> | [Apsulov: End of Gods](https://ostdb.net/games/111130) | Apsulov: End of Gods (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/07/42/6807422b-951a-540b-1f7e-d6f9a2c4e9cf/artwork.jpg/600x600bb.jpg" width="60" /> | [Arctic Awakening](https://ostdb.net/games/145041) | Arctic Awakening (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/arctic-awakening-original-game-soundtrack/1839607348?uo=4) · [Album](https://album.link/i/1839607348) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2b53d25a09cbca21b0f1ec2" width="60" /> | [Arena Breakout: Infinite](https://ostdb.net/games/298915) | Arena Breakout: Infinite (Original Soundtrack) | [Spotify](https://open.spotify.com/album/4oK7uAdU2W49XQI7U4oVfR) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/02/ba/9302ba76-b2e4-41b8-4c69-6b04ea0c46da/811576033985.png/1000x1000bb.jpg" width="60" /> | [Ark II](https://ostdb.net/games/141542) | Ark II - Single | [Spotify](https://open.spotify.com/album/5eS6gmIYNgKqxAM7eYk8Y0) · [Apple Music](https://music.apple.com/us/album/ark-ii-single/1545547574?uo=4) · [Album](https://album.link/i/1545547574) |
 
 ### 0-9
 
@@ -79,4 +80,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_53 soundtracks · last updated 2026-08-25T06:50:55.011Z_
+_54 soundtracks · last updated 2026-08-25T06:50:57.026Z_
