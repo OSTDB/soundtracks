@@ -581,6 +581,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735253b6f717df8be8ad98d5f1" width="60" /> | [Marvel's Spider-Man 2](https://ostdb.net/games/marvels-spider-man-2) | **Marvel's Spider-Man 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7" width="60" /> | [Marvel's Spider-Man Remastered](https://ostdb.net/games/marvels-spider-man-remastered) | **Marvel's Spider-Man (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1Kx85IhG2J5vVOsNgDD8fw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736094c28a79dc47837fd269d9" width="60" /> | [Marvel's Spider-Man: Miles Morales](https://ostdb.net/games/marvels-spider-man-miles-morales) | **Marvel’s Spider-Man: Miles Morales (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c11c867588360f7284ab7f61" width="60" /> | [Marvel's Spider-Man: The City That Never Sleeps](https://ostdb.net/games/marvels-spider-man-the-city-that-never-sleeps) | **Marvel's Spider-Man: The City That Never Sleeps EP (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5aAKFAjc41b0tjf6WymsBV) |
 
 ### 0-9
 
@@ -593,4 +594,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_748 soundtracks · last updated 2026-08-25T16:20:52.901Z_
+_749 soundtracks · last updated 2026-08-25T16:20:56.951Z_
