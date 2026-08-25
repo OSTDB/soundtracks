@@ -463,6 +463,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0b737aa581fff8ed9a3f212" width="60" /> | [Hitman 2: Silent Assassin](https://ostdb.net/games/hitman-2-silent-assassin) | **Hitman 2: Silent Assassin (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5kK1FFsw7e1Gu7yOV6rDgH) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730617af302a400b7ab98a2dc6" width="60" /> | [Hitman: Blood Money](https://ostdb.net/games/hitman-blood-money) | **Hitman: Blood Money** · [Spotify](https://open.spotify.com/album/4NucWkMsyoitdbbQ4kdlqB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0d0f09754721321603028b" width="60" /> | [Hitman: Codename 47](https://ostdb.net/games/hitman-codename-47) | **Hitman Codename 47 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Vo78OjdDENJbFxVruM4Od) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c1a04391e6d0b9cd0b7894fc" width="60" /> | [Hitman: Contracts](https://ostdb.net/games/hitman-contracts) | **Hitman: Contracts (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0SiUDINVt394gDbBeMIez2) |
 
 ### 0-9
 
@@ -475,4 +476,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_608 soundtracks · last updated 2026-08-25T15:45:48.419Z_
+_609 soundtracks · last updated 2026-08-25T15:45:54.360Z_
