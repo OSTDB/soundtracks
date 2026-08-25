@@ -105,7 +105,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f702beb756ffb55d0b156d8c" width="60" /> | [Battlefield 2](https://ostdb.net/games/battlefield-2) | **Battlefield 2: Modern Combat (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Tc9QcWRcZzSLnvqKzSIyn) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/6f/9c/df6f9cad-3769-95d7-8a32-9ae8cf7950c4/780163607024.jpg/600x600bb.jpg" width="60" /> | [Battlefield 2042](https://ostdb.net/games/battlefield-2042) | **Battlefield 2042 (Official Soundtrack)** · [Spotify](https://music.apple.com/us/album/battlefield-2042-official-soundtrack/1583611639?uo=4) · [Album](https://album.link/i/1583611639) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f702beb756ffb55d0b156d8c" width="60" /> | [Battlefield 2: Modern Combat](https://ostdb.net/games/battlefield-2-modern-combat) | **Battlefield 2: Modern Combat (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Tc9QcWRcZzSLnvqKzSIyn) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273992d6894cd6070675e95293a" width="60" /> | [Battlefield 3](https://ostdb.net/games/battlefield-3) | **Battlefield 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273992d6894cd6070675e95293a" width="60" /> | [Battlefield 3](https://ostdb.net/games/battlefield-3) | **Battlefield 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2Qpc9XSTZWwhwfJ1g8F4fC)<br>**Battlefield 3 Premium Edition (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Oy8CsN2LGMOpVPOXbZuOE) |
 
 ### 0-9
 
@@ -118,4 +118,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_126 soundtracks · last updated 2026-08-25T13:41:09.311Z_
+_127 soundtracks · last updated 2026-08-25T13:41:12.939Z_
