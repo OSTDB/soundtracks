@@ -1,29 +1,32 @@
 # Submitting a soundtrack via pull request
 
-You can submit a soundtrack link — or a correction to an existing one — by opening a pull request instead of using [ostdb.net](https://ostdb.net) directly.
+You can submit a soundtrack link — or correct an existing one — by opening a pull request. You don't need to install Git or use the command line; this can all be done in the browser.
 
-## How it works
+## Step by step (browser only)
 
-1. Copy [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) to a new file under `submissions/`, e.g. `submissions/1234-example-game.json`.
-2. Fill in the fields (see below).
-3. Open a pull request.
-4. Once merged, the file is picked up automatically and added to the review queue on ostdb.net — it is **not** published immediately. An admin still reviews and approves it before it appears on the site, same as a submission made through the website.
-5. After processing, the bot removes your file from `submissions/` in a follow-up commit.
+1. Open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) in this repo.
+2. Click the **pencil (✎) icon** in the top right of the file view to edit a copy of it.
+3. GitHub will ask you to name the new file — change the filename at the top from `submissions/TEMPLATE.json` to something like `submissions/1234-example-game.json` (use the game's IGDB ID and a short name).
+4. Replace the example values with your game's info (see **Fields** below). Delete the `_readme` line — it's just a note, not a real field.
+5. Scroll down, and under "Commit changes" choose **"Create a new branch and start a pull request."** Click **Propose changes**, then **Create pull request** on the next screen.
+6. That's it — a maintainer will review it from here.
+
+Once your pull request is merged, the file is picked up automatically and added to the review queue on ostdb.net. It is **not published immediately** — an admin still approves it before it goes live, the same as a submission made through the website. After it's processed, a bot removes your file from `submissions/` in a follow-up commit — that's expected, not an error.
 
 ## Fields
 
 | Field | Required | Description |
 |---|---|---|
-| `igdb_id` | yes | The game's numeric [IGDB](https://www.igdb.com) ID — see below for how to find it |
+| `igdb_id` | yes | The game's numeric IGDB ID — see below for how to find it |
 | `game_name` | yes | Game name |
 | `album_name` | yes | Soundtrack/album name |
-| `spotify_url` | one of these three | Spotify album URL |
-| `apple_music_url` | one of these three | Apple Music album URL |
-| `album_link_url` | one of these three | [album.link](https://album.link) URL |
+| `spotify_url` | at least one of these three | Spotify album URL |
+| `apple_music_url` | at least one of these three | Apple Music album URL |
+| `album_link_url` | at least one of these three | [album.link](https://album.link) URL |
 | `cover_url` | no | Game cover art URL |
 | `album_cover_url` | yes | Album cover art URL |
 
-At least one of `spotify_url`, `apple_music_url`, or `album_link_url` must be filled in.
+Leave a field as `""` (empty string) if it doesn't apply — don't delete it from the file.
 
 ### Finding the IGDB ID
 
