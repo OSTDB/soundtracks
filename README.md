@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [0-9](#0-9)
 
 ### A
 
@@ -1074,6 +1074,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2738fc6764dc9a866578bd683a3" width="60" /> | [XCOM 2](https://ostdb.net/games/xcom-2) | **XCOM 2 (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/0Ghjope2CU9IqdmCZTCNgn) · [Apple Music](https://music.apple.com/us/album/xcom-2-original-soundtrack-from-the-video-game/1077916402) |
 
+### Y
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/80/9c/cf809cb5-f369-ad19-30e1-86c1a0a82c62/198704981326_Cover.jpg/600x600bb.jpg" width="60" /> | [Yakuza Kiwami 3](https://ostdb.net/games/yakuza-kiwami-3) | **龍が如く 極3 / 龍が如く3外伝 Dark Ties Original Soundtrack** · [Spotify](https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4) · [Album](https://album.link/i/1873461027) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1085,4 +1091,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1415 soundtracks · last updated 2026-08-25T19:06:30.320Z_
+_1416 soundtracks · last updated 2026-08-25T19:06:34.162Z_
