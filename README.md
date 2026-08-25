@@ -206,7 +206,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27305ded1194cfefa65af276a4e" width="60" /> | [Cuphead](https://ostdb.net/games/cuphead) | **Cuphead (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu)<br>**Cuphead - The Delicious Last Course (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/10o5BqeBBtoOIhpddPY76l) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f8/1d/6f/f81d6fef-6595-8b68-f752-6f30d40f26ae/198003998216.jpg/600x600bb.jpg" width="60" /> | [Cuphead: The Delicious Last Course](https://ostdb.net/games/cuphead-the-delicious-last-course) | **Cuphead - The Delicious Last Course (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4) · [Album](https://album.link/i/1632758089) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ca593ba6b61b7a164ae408b9" width="60" /> | [Cyberpunk 2077](https://ostdb.net/games/cyberpunk-2077) | **Cyberpunk 2077 - Original Score** · [Spotify](https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp)<br>**Cyberpunk 2077 - Original Score EP** · [Spotify](https://open.spotify.com/album/2GNFbKiwmvWQaOfYeRjDd4)<br>**Cyberpunk 2077: More Music from Night City Radio (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC)<br>**Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4IzV5XnSOvOBZ2z9WKsi3W)<br>**Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A)<br>**Cyberpunk 2077: Radio, Vol. 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4L3cV9CUK0MVXUXLYkWY23)<br>**Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273bfc999ddee55ad4c4995619b" width="60" /> | [Cyberpunk 2077: Phantom Liberty](https://ostdb.net/games/cyberpunk-2077-phantom-liberty) | **Cyberpunk 2077: Phantom Liberty (Original Score - Deluxe Edition)** · [Spotify](https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bfc999ddee55ad4c4995619b" width="60" /> | [Cyberpunk 2077: Phantom Liberty](https://ostdb.net/games/cyberpunk-2077-phantom-liberty) | **Cyberpunk 2077: Phantom Liberty (Original Score - Deluxe Edition)** · [Spotify](https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh)<br>**Cyberpunk 2077: Phantom Liberty (Original Score)** · [Spotify](https://open.spotify.com/album/0YmI7KdXpmTikNmFHVMilu) |
 
 ### 0-9
 
@@ -219,4 +219,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_254 soundtracks · last updated 2026-08-25T14:11:43.455Z_
+_255 soundtracks · last updated 2026-08-25T14:11:47.140Z_
