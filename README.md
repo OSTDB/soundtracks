@@ -178,6 +178,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b3/a5/3c/b3a53c64-6934-fc13-3c4d-c80bc9ad57cb/859752782418_cover.jpg/600x600bb.jpg" width="60" /> | [Chernobylite](https://ostdb.net/games/chernobylite) | **Chernobylite (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4) · [Album](https://album.link/i/1603631498) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738765e9ba233a6ff4345578ec" width="60" /> | [Child of Light](https://ostdb.net/games/child-of-light) | **Child of Light** · [Spotify](https://open.spotify.com/album/2Gy2IQbKCWP3ax77OVQk3r) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/88/24/64/882464bf-64a1-9ffb-1f88-17e47c3260d2/672985979604.png/600x600bb.jpg" width="60" /> | [Children of Morta](https://ostdb.net/games/children-of-morta) | **Children of Morta (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/children-of-morta-original-game-soundtrack/1581604536?uo=4) · [Album](https://album.link/i/1581604536) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b9cccd9497d99a869dcbb8af" width="60" /> | [Chrono Trigger](https://ostdb.net/games/chrono-trigger) | **CHRONO TRIGGER Original Soundtrack【DS Edition】** · [Spotify](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) |
 
 ### 0-9
 
@@ -190,4 +191,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_210 soundtracks · last updated 2026-08-25T14:01:26.795Z_
+_211 soundtracks · last updated 2026-08-25T14:01:31.344Z_
