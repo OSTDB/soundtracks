@@ -348,6 +348,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273012c8e26756d42328f4ec683" width="60" /> | [Final Fantasy VII](https://ostdb.net/games/final-fantasy-vii) | **FINAL FANTASY VII Original Soundtrack** · [Spotify](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357a74b53df3d4330532873d3" width="60" /> | [Final Fantasy VII Rebirth](https://ostdb.net/games/final-fantasy-vii-rebirth) | **FINAL FANTASY VII REBIRTH Original Soundtrack** · [Spotify](https://open.spotify.com/album/3D7VAlQ2iHnB54ZY8KzkDs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381f0f59e493858ea34dc569c" width="60" /> | [Final Fantasy VII Remake](https://ostdb.net/games/final-fantasy-vii-remake) | **FINAL FANTASY VII REMAKE Original Soundtrack** · [Spotify](https://open.spotify.com/album/4zv8L6EVSRuUDQ3JTrbbhn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734a8f99efdff178f3bdabde2a" width="60" /> | [Final Fantasy VIII](https://ostdb.net/games/final-fantasy-viii) | **FINAL FANTASY VIII Original Soundtrack** · [Spotify](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) |
 
 ### 0-9
 
@@ -360,4 +361,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_438 soundtracks · last updated 2026-08-25T14:56:57.938Z_
+_439 soundtracks · last updated 2026-08-25T14:57:02.527Z_
