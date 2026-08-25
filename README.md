@@ -28,6 +28,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd8b4524d928f403c7042940" width="60" /> | [A Short Hike](https://ostdb.net/games/a-short-hike) | **A Short Hike** · [Spotify](https://open.spotify.com/album/2JshDNPO0R0OrXRqO7oIIB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27366cbc5183929f2d43dc485c0" width="60" /> | [A Way Out](https://ostdb.net/games/a-way-out) | **A Way Out (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a0c8aa904c211f1f46735228" width="60" /> | [ARC Raiders](https://ostdb.net/games/arc-raiders) | **ARC Raiders (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0ByQSivdl2dJdSTulqzBOV)<br>**Themes from ARC Raiders (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4DhQlhLl1bABaHkM8g6wdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c45a655007a99980b7c54a45" width="60" /> | [Absolum](https://ostdb.net/games/absolum) | **Absolum (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23MImNdwzkpltH0gf111eJ) |
 
 ### 0-9
 
@@ -40,4 +41,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_17 soundtracks · last updated 2026-08-25T13:11:03.466Z_
+_18 soundtracks · last updated 2026-08-25T13:11:05.709Z_
