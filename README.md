@@ -107,6 +107,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bd/a6/92/bda6929b-1b66-2995-2147-ac045ff82b61/artwork.jpg/600x600bb.jpg" width="60" /> | [Astroneer](https://ostdb.net/games/13205) | Astroneer (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack/1184503748?uo=4) · [Album](https://album.link/i/1184503748) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/1f/5b/c4/1f5bc493-7123-eb67-fd07-33fc81fa8725/artwork.jpg/600x600bb.jpg" width="60" /> | [Astroneer](https://ostdb.net/games/13205) | Astroneer (Original Game Soundtrack) Volume 2 | [Spotify](https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4) · [Album](https://album.link/i/1313308881) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/b4/34/81b43427-9032-75af-3c5c-e7a94d42f4e6/PA00200523_0_228942_jacket.jpg/600x600bb.jpg" width="60" /> | [Atelier Yumia: The Alchemist of Memories & the Envisioned Land](https://ostdb.net/games/314943) | Atelier Yumia: the Alchemist of Memories & the Envisioned Land (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4) · [Album](https://album.link/i/1837059774) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a8/df/3a/a8df3ac0-e082-e940-b91f-0ae49fba48a0/197190789010.jpg/600x600bb.jpg" width="60" /> | [Atlas Fallen](https://ostdb.net/games/214409) | Atlas Fallen (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4) · [Album](https://album.link/i/1724853286) |
 
 ### 0-9
 
@@ -123,4 +124,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_97 soundtracks · last updated 2026-08-25T07:01:03.273Z_
+_98 soundtracks · last updated 2026-08-25T07:01:05.496Z_
