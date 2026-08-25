@@ -739,6 +739,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ba764b2e68b094130b33aef" width="60" /> | [Ratchet & Clank](https://ostdb.net/games/ratchet-and-clank) | **Ratchet & Clank (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/03XFveYzT5twRw5M8fbBey) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ba764b2e68b094130b33aef" width="60" /> | [Ratchet & Clank](https://ostdb.net/games/ratchet-and-clank) | **Ratchet & Clank (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/03XFveYzT5twRw5M8fbBey) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d0bcbd48a1aad365fac7c7e" width="60" /> | [Ratchet & Clank: Rift Apart](https://ostdb.net/games/ratchet-and-clank-rift-apart) | **Ratchet & Clank: Rift Apart (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27379801a545943d9948ddf453b" width="60" /> | [Rayman Legends](https://ostdb.net/games/rayman-legends) | **Rayman Legends (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp) |
 
 ### 0-9
 
@@ -751,4 +752,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_954 soundtracks · last updated 2026-08-25T17:11:18.186Z_
+_955 soundtracks · last updated 2026-08-25T17:11:22.050Z_
