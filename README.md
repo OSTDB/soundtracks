@@ -359,6 +359,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f12e9091af7a7626f1bf37db" width="60" /> | [Final Fantasy XV](https://ostdb.net/games/final-fantasy-xv) | **FINAL FANTASY XV Original Soundtrack** · [Spotify](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f0f0877a0d7301a716fb9c2" width="60" /> | [Final Fantasy XVI](https://ostdb.net/games/final-fantasy-xvi) | **FINAL FANTASY XVI Original Soundtrack** · [Spotify](https://open.spotify.com/album/18XUpKyB2Ptj73BZzA6scS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273394498e071a0655bfddf94bd" width="60" /> | [Firewatch](https://ostdb.net/games/firewatch) | **Firewatch (Original Score)** · [Spotify](https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7d9b0a08f52ac7332833964" width="60" /> | [Flintlock: The Siege of Dawn](https://ostdb.net/games/flintlock-the-siege-of-dawn) | **Flintlock: The Siege of Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28JRK04RtUl4Yjj7MDjN1c) |
 
 ### 0-9
 
@@ -371,4 +372,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_451 soundtracks · last updated 2026-08-25T15:01:30.297Z_
+_452 soundtracks · last updated 2026-08-25T15:01:34.976Z_
