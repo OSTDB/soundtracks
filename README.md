@@ -574,6 +574,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27360216c317ea5d04bbf10adcd" width="60" /> | [Mario Kart: Double Dash!!](https://ostdb.net/games/mario-kart-double-dash) | **Mario Kart, Double Dash!!, The Themes** · [Spotify](https://open.spotify.com/album/11In6zPxqYiRceJlWP8UbC) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/f3/e3/71f3e310-e456-d164-7df5-5d77dd77bcb3/26UMGIM40026.rgb.jpg/1000x1000bb.jpg" width="60" /> | [Marvel Cosmic Invasion](https://ostdb.net/games/marvel-cosmic-invasion) | **MARVEL Cosmic Invasion (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/marvel-cosmic-invasion-original-video-game-soundtrack/1893414757?uo=4) · [Album](https://album.link/i/1893414757) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301911060224d1c84e1717f09" width="60" /> | [Marvel Rivals](https://ostdb.net/games/marvel-rivals) | **MARVEL Rivals: Galactic Tunes (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1)<br>**MARVEL Rivals: Galactic Tunes Vol. 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5NbExStJilMIhbL3gfiE7M) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a1/ad/1f/a1ad1fb0-774e-6b2f-e5d8-2bf2b71f55b0/20UMGIM71632.rgb.jpg/1000x1000bb.jpg" width="60" /> | [Marvel's Avengers](https://ostdb.net/games/marvels-avengers) | **Marvel's Avengers (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/marvels-avengers-original-video-game-soundtrack/1529152990?uo=4) · [Album](https://album.link/i/1529152990) |
 
 ### 0-9
 
@@ -586,4 +587,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_740 soundtracks · last updated 2026-08-25T16:16:47.002Z_
+_741 soundtracks · last updated 2026-08-25T16:16:51.568Z_
