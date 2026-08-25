@@ -808,6 +808,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730dd51c0c9fcfb4709c6c87f7" width="60" /> | [Senua's Saga: Hellblade II](https://ostdb.net/games/senuas-saga-hellblade-ii) | **Senua's Saga: Hellblade II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/43zMvhlfOFGNYN25w5QM2t) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/98/81/279881f4-61bd-764d-ff28-f475e5a4ccfd/artwork.jpg/600x600bb.jpg" width="60" /> | [Serious Sam 4](https://ostdb.net/games/serious-sam-4) | **Serious Sam 4 (Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/serious-sam-4-video-game-soundtrack/1555315981?uo=4) · [Album](https://album.link/i/1555315981) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345ba39fac2b2742edbae0db0" width="60" /> | [Serious Sam: The First Encounter](https://ostdb.net/games/serious-sam-the-first-encounter) | **Serious Sam: The First Encounter (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3U6nN3EACeQ2Z6isbiZQjM) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/51/a2/b251a2b4-362b-a4f7-8aa7-57a5bb1e8b01/5053760100195.png/600x600bb.jpg" width="60" /> | [Shadow Warrior 3](https://ostdb.net/games/shadow-warrior-3) | **Shadow Warrior 3 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/shadow-warrior-3-original-soundtrack/1745065037?uo=4) · [Album](https://album.link/i/1745065037) |
 
 ### 0-9
 
@@ -820,4 +821,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1040 soundtracks · last updated 2026-08-25T17:31:45.742Z_
+_1041 soundtracks · last updated 2026-08-25T17:31:50.120Z_
