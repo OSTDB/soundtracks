@@ -370,6 +370,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d81f4d86acae8075596b767f" width="60" /> | [Friday Night Funkin'](https://ostdb.net/games/friday-night-funkin) | **Friday Night Funkin' (Original Game Soundtrack) Expansion, Vol. 1** · [Spotify](https://open.spotify.com/album/27VM07D5m7ZzCxw3t8U8hs)<br>**Friday Night Funkin' (Original Game Soundtrack) Expansion, Vol. 2** · [Spotify](https://open.spotify.com/album/2SgQZ7ykpQWH166GO3LYAN)<br>**Friday Night Funkin', Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0FUY1iMeo3mzcbdsEZOIfV)<br>**Friday Night Funkin', Vol. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6pi3jaRWRps4UYmFavwTLi)<br>**Friday Night Funkin', Vol. 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0DSKqwiO2wP7l19v2Mt6XW)<br>**Friday Night Funkin', Vol. 3 Original Game Soundtrack (The Instrumentals)** · [Spotify](https://open.spotify.com/album/7GuoQAZN8cXGT8ZzvOjGDB)<br>**Friday Night Funkin', Vol. 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7l5DM4aOj9MRS2PDm8sl9J)<br>**Friday Night Funkin', Vol. 4 Original Game Soundtrack (The Instrumentals)** · [Spotify](https://open.spotify.com/album/6hIY4HoJvk0JSLyL6B5Ctq) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/11/f5/1d/11f51d2a-b38c-200f-f9c2-436be589c5a6/859729096951_cover.jpg/600x600bb.jpg" width="60" /> | [Friday the 13th: The Game](https://ostdb.net/games/friday-the-13th-the-game) | **Friday the 13th: The Game (Official Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/friday-the-13th-the-game-official-game-soundtrack/1440201796?uo=4) · [Album](https://album.link/i/1440201796) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ba2d2ef7bab9b8c321160bd4" width="60" /> | [Frostpunk](https://ostdb.net/games/frostpunk) | **Frostpunk (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5TbVBAhE5xa2DL8t3qdAxC)<br>**Frostpunk Expansions (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/frostpunk-expansions-original-soundtrack/1564354484?uo=4) · [Album](https://album.link/i/1564354484) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e0df2a8ad127e554af82e2ae" width="60" /> | [Frostpunk 2](https://ostdb.net/games/frostpunk-2) | **Frostpunk 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6kutYftoI7Pzx1AvnwCNru) |
 
 ### 0-9
 
@@ -382,4 +383,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_478 soundtracks · last updated 2026-08-25T15:07:00.092Z_
+_479 soundtracks · last updated 2026-08-25T15:07:04.278Z_
