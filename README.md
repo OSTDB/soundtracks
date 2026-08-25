@@ -283,6 +283,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273aeb708b08a8e826989252666" width="60" /> | [Dragon Age II](https://ostdb.net/games/dragon-age-ii) | **Dragon Age 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2vSoOzmVXLb9gq5Murz6qy) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dd4e5991823db2018ec8836c" width="60" /> | [Dragon Age: Inquisition](https://ostdb.net/games/dragon-age-inquisition) | **Dragon Age Inquisition (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/61WUabRxjIa2wkJ2npnaex) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins](https://ostdb.net/games/dragon-age-origins) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins - Awakening](https://ostdb.net/games/dragon-age-origins-awakening) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
 
 ### 0-9
 
@@ -295,4 +296,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_361 soundtracks · last updated 2026-08-25T14:40:48.967Z_
+_362 soundtracks · last updated 2026-08-25T14:40:53.515Z_
