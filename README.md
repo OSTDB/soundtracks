@@ -352,6 +352,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273860486efff4e8bd54d6fe356" width="60" /> | [Final Fantasy X](https://ostdb.net/games/final-fantasy-x) | **FINAL FANTASY X Original Soundtrack** · [Spotify](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736397118ab8cd183058071496" width="60" /> | [Final Fantasy XI: Chains of Promathia](https://ostdb.net/games/final-fantasy-xi-chains-of-promathia) | **FINAL FANTASY XI-Chains of Promathia(Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1WvMeNWAG08e1ZjEtiZEDw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a656ce42c32110de3dc13fd" width="60" /> | [Final Fantasy XI: Rise of the Zilart](https://ostdb.net/games/final-fantasy-xi-rise-of-the-zilart) | **FINAL FANTASY XI - Rise of the Zilart Original Soundtrack** · [Spotify](https://open.spotify.com/album/1pZpdilFPjiP34Ywazlvrg) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c25b6793a30041e304d22d3b" width="60" /> | [Final Fantasy XI: Treasures of Aht Urhgan](https://ostdb.net/games/final-fantasy-xi-treasures-of-aht-urhgan) | **FINAL FANTASY XI-Treasures of Aht Urhgan(Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1bmWiaWlY8G1dM4FzvJtRh) |
 
 ### 0-9
 
@@ -364,4 +365,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_442 soundtracks · last updated 2026-08-25T15:00:53.176Z_
+_443 soundtracks · last updated 2026-08-25T15:00:57.046Z_
