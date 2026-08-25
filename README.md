@@ -1042,6 +1042,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27363f3be70513eaf47a599854f" width="60" /> | [Wasteland 3](https://ostdb.net/games/wasteland-3) | **Wasteland 3: Hymns & Ballads (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4UzVvF3JMbxM1svS6Ut8eB) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27321f8885d43d4707e29aac4c0" width="60" /> | [Watch Dogs](https://ostdb.net/games/watch-dogs) | **Watch Dogs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiJZ2ddV6Ny31J6aHBVKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9d9db2218bb7e0e0ff8887f" width="60" /> | [Watch Dogs 2](https://ostdb.net/games/watch-dogs-2) | **Watch Dogs 2 Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2jD8KimPoLcPE21gK3i1Sr) · [Apple Music](https://music.apple.com/us/album/dedsec-watch-dogs-2-original-game-soundtrack/1168661969) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a6bdb2a2ea2a62667b039cf4" width="60" /> | [Watch Dogs: Legion](https://ostdb.net/games/watch-dogs-legion) | **Watch Dogs: Legion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6k0WbEKdmZyLaYtl1JvP06) |
 
 ### 0-9
 
@@ -1054,4 +1055,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1355 soundtracks · last updated 2026-08-25T18:51:24.633Z_
+_1356 soundtracks · last updated 2026-08-25T18:51:30.795Z_
