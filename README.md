@@ -35,6 +35,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/dd/91/6fdd91cb-fbe7-733a-2326-23e4b43d3d5a/810123166244.png/600x600bb.jpg" width="60" /> | [Afterparty](https://ostdb.net/games/78152) | Afterparty | [Spotify](https://music.apple.com/us/album/afterparty/1804710578?uo=4) · [Album](https://album.link/i/1804710578) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cb/9d/d0cb9d59-cc77-bcdc-712e-21fec9d2c988/859714595544_cover.jpg/600x600bb.jpg" width="60" /> | [Agatha Christie: Death on the Nile](https://ostdb.net/games/326130) | Agatha Christie - Death on the Nile (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/agatha-christie-death-on-the-nile-original-game-soundtrack/1835606034?uo=4) · [Album](https://album.link/i/1835606034) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309d8a478d5ec28b7c9c09b91" width="60" /> | [Age of Empires](https://ostdb.net/games/289) | Age of Empires Definitive Edition (Original Soundtrack) | [Spotify](https://open.spotify.com/album/4KAb8KSRVnZqzn0q5LIn62) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738aa183dc29cf423db2349fb3" width="60" /> | [Age of Empires](https://ostdb.net/games/289) | Age of Empires: Definitive Edition (Original Game Soundtrack), Vol. 2 | [Spotify](https://open.spotify.com/album/76hQ5E6y5p8yvSwES6ZxsF) |
 
 ### 0-9
 
@@ -51,4 +52,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_25 soundtracks · last updated 2026-08-25T06:44:32.333Z_
+_26 soundtracks · last updated 2026-08-25T06:44:34.765Z_
