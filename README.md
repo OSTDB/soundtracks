@@ -984,6 +984,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c4/15/5bc41548-f885-6fce-d408-d5b8bc446e9c/artwork.jpg/600x600bb.jpg" width="60" /> | [Town to City](https://ostdb.net/games/town-to-city) | **Town to City (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/town-to-city-original-game-soundtrack/1835718039?uo=4) · [Album](https://album.link/i/1835718039) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/27/c0/f927c005-123d-1cf7-e014-907ee8a51033/H_NW10103680_Sora1-OST_3000.png/600x600bb.jpg" width="60" /> | [Trails in the Sky 1st Chapter](https://ostdb.net/games/trails-in-the-sky-1st-chapter) | **Trails in the Sky 1st Chapter Original Soundtrack** · [Spotify](https://music.apple.com/us/album/trails-in-the-sky-1st-chapter-original-soundtrack/1853770441?uo=4) · [Album](https://album.link/i/1853770441) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734a9d11cb845130066be1eada" width="60" /> | [Transistor](https://ostdb.net/games/transistor) | **Transistor Original Soundtrack** · [Spotify](https://open.spotify.com/album/3B0PgLmgaW0gJth55ApWbw)<br>**Transistor Original Soundtrack Extended** · [Spotify](https://open.spotify.com/album/5TiFIK3DBVyJqzMurOg7PR) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273032278dd79f7273594f1a6a3" width="60" /> | [Trine](https://ostdb.net/games/trine) | **Trine Soundtrack** · [Spotify](https://open.spotify.com/album/4GtBf49nlE85eh3FCCfmFT) |
 
 ### 0-9
 
@@ -996,4 +997,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1281 soundtracks · last updated 2026-08-25T18:32:01.578Z_
+_1282 soundtracks · last updated 2026-08-25T18:32:07.426Z_
