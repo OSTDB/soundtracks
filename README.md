@@ -708,6 +708,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733802ecfac3e3ef87101edae6" width="60" /> | [Poppy Playtime](https://ostdb.net/games/poppy-playtime) | **Poppy Playtime Ch. 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7uPFzczRvtufKOjrAk6IQu)<br>**Poppy Playtime Ch. 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0INZs0R4xWem1u4aRA4MOf)<br>**Poppy Playtime Ch. 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7IOmTTDVPuOJmbLNWDxd2l)<br>**Poppy Playtime Ch. 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7swHkPFMV81FRzMhyguryF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730350e3b73129e9cd2e17fefd" width="60" /> | [Poppy Playtime: Chapter 5 - Broken Things](https://ostdb.net/games/poppy-playtime-chapter-5-broken-things) | **Poppy Playtime Ch. 5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7swHkPFMV81FRzMhyguryF) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/72/b7/b772b72c-0d1f-6d34-57c4-9810c3fda0f2/8721416686931.png/600x600bb.jpg" width="60" /> | [Possessor(s)](https://ostdb.net/games/possessor-s) | **POSSESSOR(S) (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/possessor-s-original-soundtrack/1851302948?uo=4) · [Album](https://album.link/i/1851302948) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/7f/46/ab7f4631-2456-01c9-15e6-73da2e94d5f5/artwork.jpg/600x600bb.jpg" width="60" /> | [Post Trauma](https://ostdb.net/games/post-trauma) | **Post Trauma (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/post-trauma-original-soundtrack/1810521799?uo=4) · [Album](https://album.link/i/1810521799) |
 
 ### 0-9
 
@@ -720,4 +721,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_923 soundtracks · last updated 2026-08-25T17:01:57.327Z_
+_924 soundtracks · last updated 2026-08-25T17:02:02.469Z_
