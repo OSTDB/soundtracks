@@ -855,6 +855,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27331e1dbe79500a7f8c03b242c" width="60" /> | [Star Wars Jedi: Survivor](https://ostdb.net/games/star-wars-jedi-survivor) | **Star Wars Jedi: Survivor (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735a9280e9b124f4286a663bfa" width="60" /> | [Star Wars Outlaws](https://ostdb.net/games/star-wars-outlaws) | **Star Wars Outlaws (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3vrLHRoYfHplyA4VU0G2Ap)<br>**Star Wars Outlaws: Wild Card & A Pirate's Fortune (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Icv3jy3YC3igZnwEipSIC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27320e47ed1e2e80184c5f8ce6e" width="60" /> | [Star Wars: Battlefront](https://ostdb.net/games/star-wars-battlefront) | **Star Wars: Battlefront (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3QSV1jMUUJ2baFCfq8YIgG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273191b089dd90b2e84a8bd8fc4" width="60" /> | [Star Wars: Battlefront II](https://ostdb.net/games/star-wars-battlefront-ii) | **Star Wars: Battlefront II (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6qilh9K60vswro2eujBqwC) |
 
 ### 0-9
 
@@ -867,4 +868,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1104 soundtracks · last updated 2026-08-25T17:47:23.856Z_
+_1105 soundtracks · last updated 2026-08-25T17:47:29.000Z_
