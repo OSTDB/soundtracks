@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [0-9](#0-9)
 
 ### A
 
@@ -422,6 +422,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273617f4fde061a9606434719c2" width="60" /> | [Guild Wars 2](https://ostdb.net/games/guild-wars-2) | **Guild Wars 2: End of Dragons (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Lr3GusGBxNOVxInhU16yV)<br>**Guild Wars 2: Heart of Thorns (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/63g6HNjw2a7LSoU6YXDKhG)<br>**Guild Wars 2: Living World Season 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7gDQAeyr9tuYSqozoy7Zcb)<br>**Guild Wars 2: Living World Season 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/32DEY3Qoq6WcXYuJMo8B7p)<br>**Guild Wars 2: Original Soundtrack** · [Spotify](https://open.spotify.com/album/2bFdRdrSGU5l9o5MsMcjH8)<br>**Guild Wars 2: Path of Fire (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3d2Olp3LFuk2u2GQWrQYtG) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/db/c6/43dbc658-4f3e-02f8-f611-531c5184dc31/0000799811009.jpg/600x600bb.jpg" width="60" /> | [Gwent: The Witcher Card Game](https://ostdb.net/games/gwent-the-witcher-card-game) | **GWENT: the Witcher Card Game (Deluxe) [Original Game Soundtrack]** · [Spotify](https://music.apple.com/us/album/gwent-the-witcher-card-game-deluxe-original-game/1610779191?uo=4) · [Album](https://album.link/i/1610779191)<br>**GWENT: the Witcher Card Game (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/gwent-the-witcher-card-game-original-game-soundtrack/1445723918?uo=4) · [Album](https://album.link/i/1445723918) |
 
+### H
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/b4/99/39b4998e-709e-48f0-015d-62fd34c97fc9/5584510154835_cover.jpg/600x600bb.jpg" width="60" /> | [Habromania](https://ostdb.net/games/habromania) | **HABROMANIA (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4) · [Album](https://album.link/i/1846580881) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -433,4 +439,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_554 soundtracks · last updated 2026-08-25T15:31:18.095Z_
+_555 soundtracks · last updated 2026-08-25T15:31:22.415Z_
