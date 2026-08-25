@@ -155,6 +155,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738a4d8ac0ada9e4cfc97919f6" width="60" /> | [Call of Duty: Black Ops 4](https://ostdb.net/games/call-of-duty-black-ops-4) | **Call of Duty®: Black Ops 4 (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/0yIX61Pr3A4mE3JK015Vw4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b852099ff27ece2a3e789dd" width="60" /> | [Call of Duty: Black Ops 6](https://ostdb.net/games/call-of-duty-black-ops-6) | **Call of Duty®: Black Ops 6 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6HqYoe2ie8i2GV3x1BeyAA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe86a199ac452042a531bf5e" width="60" /> | [Call of Duty: Black Ops 7](https://ostdb.net/games/call-of-duty-black-ops-7) | **Call of Duty®: Black Ops 7 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/39QVPHCfcdePV1RB2KFy13) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb8639d1374637e0c6b47edb" width="60" /> | [Call of Duty: Black Ops II](https://ostdb.net/games/call-of-duty-black-ops-ii) | **Call of Duty Black Ops II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5Ktys9SYMY2DeqyhGLzQBn) |
 
 ### 0-9
 
@@ -167,4 +168,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_183 soundtracks · last updated 2026-08-25T13:56:00.185Z_
+_184 soundtracks · last updated 2026-08-25T13:56:04.513Z_
