@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [0-9](#0-9)
 
 ### A
 
@@ -729,6 +729,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2737353c718565116bca7b4380d" width="60" /> | [Quantum Break](https://ostdb.net/games/quantum-break) | **Quantum Break - Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/4qOpD0MgKVTaPahw9zHL59) |
 
+### R
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0e041aa5ff478f43b545ddd" width="60" /> | [Ragnarok Online](https://ostdb.net/games/ragnarok-online) | **Ragnarok Online BGM Part.3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/13FXPTxheHW69aTmmIKcXR) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -740,4 +746,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_941 soundtracks · last updated 2026-08-25T17:06:58.735Z_
+_942 soundtracks · last updated 2026-08-25T17:07:03.918Z_
