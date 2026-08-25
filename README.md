@@ -450,7 +450,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e9/b4/fe/e9b4fe63-8e19-a489-e793-f6cf21d30ea0/3663729140869_cover.jpg/600x600bb.jpg" width="60" /> | [Haven](https://ostdb.net/games/haven) | **Haven (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/haven-original-game-soundtrack/1541662378?uo=4) · [Album](https://album.link/i/1541662378) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e29150a6bdc5a9241a180219" width="60" /> | [Heartopia](https://ostdb.net/games/heartopia) | **Heartopia:Star 118 (Heartopia Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7lqzi0j78MezodzpYAfw30) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/8c/0a/f08c0a0a-b401-ae6f-412f-27c3360cf32d/artwork.jpg/600x600bb.jpg" width="60" /> | [Hell Pie](https://ostdb.net/games/hell-pie) | **Hell Pie (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/hell-pie-original-game-soundtrack/1644145297?uo=4) · [Album](https://album.link/i/1644145297) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273109276efaf4107fc52623001" width="60" /> | [Hell is Us](https://ostdb.net/games/hell-is-us) | **Hell Is Us Soundtrack (TERROR)** · [Spotify](https://open.spotify.com/album/2jM8YeVH5XY7oJAAkahZxL) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273109276efaf4107fc52623001" width="60" /> | [Hell is Us](https://ostdb.net/games/hell-is-us) | **Hell Is Us Soundtrack (TERROR)** · [Spotify](https://open.spotify.com/album/2jM8YeVH5XY7oJAAkahZxL)<br>**Hell is Us Soundtrack (ECSTASY)** · [Spotify](https://open.spotify.com/album/5ScvLJtXr8qPffLfd3IACu) |
 
 ### 0-9
 
@@ -463,4 +463,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_589 soundtracks · last updated 2026-08-25T15:40:52.122Z_
+_590 soundtracks · last updated 2026-08-25T15:40:57.076Z_
