@@ -399,6 +399,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27314705b00168168d58c98b013" width="60" /> | [God of War Ragnarök](https://ostdb.net/games/god-of-war-ragnarok) | **God of War Ragnarök (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273793278acba4d502d589c8cbe" width="60" /> | [God of War Sons of Sparta](https://ostdb.net/games/god-of-war-sons-of-sparta) | **God of War Sons of Sparta (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f5f178059689189dab7e4999" width="60" /> | [God of War: Ascension](https://ostdb.net/games/god-of-war-ascension) | **God of War: Ascension (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5HbN8AlVNXadPJglFJI8EC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c43b024d104fb89f5c632554" width="60" /> | [God of War: Ghost of Sparta](https://ostdb.net/games/god-of-war-ghost-of-sparta) | **God of War: Ghost of Sparta (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5yN2kJh22LtZVn55wVMH7h) |
 
 ### 0-9
 
@@ -411,4 +412,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_524 soundtracks · last updated 2026-08-25T15:22:00.390Z_
+_525 soundtracks · last updated 2026-08-25T15:22:03.925Z_
