@@ -15,15 +15,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Find changed submission files
         id: files
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
         run: |
-          FILES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'submissions/*.json' || true)
+          if git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            BASE="$BEFORE_SHA"
+          else
+            # First push, or a force-push GitHub can't diff against — fall back
+            # to comparing against the empty tree so every current file counts.
+            BASE=$(git hash-object -t tree /dev/null)
+          fi
+
+          FILES=$(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'submissions/*.json' | grep -v 'TEMPLATE.json' || true)
           echo "files<<EOF" >> "$GITHUB_OUTPUT"
           echo "$FILES" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
+          echo "Changed submission files:"
+          echo "$FILES"
 
       - name: Build payload and send to ingest endpoint
         if: steps.files.outputs.files != ''
@@ -35,29 +47,47 @@ jobs:
           PAYLOAD="[]"
           while IFS= read -r file; do
             [ -z "$file" ] && continue
+            [ ! -f "$file" ] && continue
             ITEM=$(cat "$file")
+            if ! echo "$ITEM" | jq empty 2>/dev/null; then
+              echo "::warning file=$file::Not valid JSON, skipping"
+              continue
+            fi
             AUTHOR=$(git log -1 --format='%an' -- "$file")
             ITEM=$(echo "$ITEM" | jq --arg by "$AUTHOR" '. + {submitted_by: $by}')
             PAYLOAD=$(echo "$PAYLOAD" | jq --argjson item "$ITEM" '. + [$item]')
           done <<< "$FILES"
 
+          echo "Payload:"
           echo "$PAYLOAD" | jq .
 
-          RESPONSE=$(curl -sf -X POST "https://ostdb-soundtracks-sync.metjum.workers.dev/ingest" \
+          if [ "$(echo "$PAYLOAD" | jq 'length')" = "0" ]; then
+            echo "Nothing valid to ingest."
+            exit 0
+          fi
+
+          HTTP_CODE=$(curl -s -o /tmp/ingest-result.json -w "%{http_code}" -X POST \
+            "https://ostdb-soundtracks-sync.metjum.workers.dev/ingest" \
             -H "Content-Type: application/json" \
             -H "X-Admin-Secret: $ADMIN_SECRET" \
             -d "$PAYLOAD")
 
-          echo "$RESPONSE" | jq .
-          echo "$RESPONSE" > /tmp/ingest-result.json
+          echo "HTTP $HTTP_CODE"
+          cat /tmp/ingest-result.json | jq . || cat /tmp/ingest-result.json
+
+          if [ "$HTTP_CODE" -ge 300 ]; then
+            echo "::error::Ingest request failed with HTTP $HTTP_CODE"
+            exit 1
+          fi
 
       - name: Remove processed submission files
-        if: steps.files.outputs.files != ''
+        if: steps.files.outputs.files != '' && success()
         env:
           FILES: ${{ steps.files.outputs.files }}
         run: |
           while IFS= read -r file; do
             [ -z "$file" ] && continue
+            [ ! -f "$file" ] && continue
             git rm -q "$file"
           done <<< "$FILES"
 
