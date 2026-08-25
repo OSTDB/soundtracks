@@ -66,7 +66,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/assassins-creed-ii) | **Assassin's Creed 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/assassins-creed-ii) | **Assassin's Creed 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309b5a361d82bb471d9d38c07" width="60" /> | [Assassin's Creed III](https://ostdb.net/games/assassins-creed-iii) | **Assassin's Creed 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273c6d155c7dc4f59e7d61f5859" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/assassins-creed-iv-black-flag) | **Assassin's Creed 4: Black Flag (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz)<br>**Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]** · [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4) · [Album](https://album.link/i/1640100747) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6d155c7dc4f59e7d61f5859" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/assassins-creed-iv-black-flag) | **Assassin's Creed 4: Black Flag (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz)<br>**Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]** · [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4) · [Album](https://album.link/i/1640100747)<br>**Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack]** · [Spotify](https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-vol/1640088677?uo=4) · [Album](https://album.link/i/1640088677) |
 
 ### 0-9
 
@@ -79,4 +79,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_70 soundtracks · last updated 2026-08-25T13:26:21.963Z_
+_71 soundtracks · last updated 2026-08-25T13:26:25.140Z_
