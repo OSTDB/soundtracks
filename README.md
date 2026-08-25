@@ -793,6 +793,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27353d5b26a3f0351960557117a" width="60" /> | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://ostdb.net/games/s-t-a-l-k-e-r-2-heart-of-chornobyl) | **S.T.A.L.K.E.R. 2: Heart of Chornobyl (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5FJkW0gvOl3pX1XNxyGols) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a9/83/cc/a983cc52-40ca-316f-7c9f-2d946cc75daa/886449206308.jpg/600x600bb.jpg" width="60" /> | [Sable](https://ostdb.net/games/sable) | **Sable (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/sable-original-video-game-soundtrack/1581665050?uo=4) · [Album](https://album.link/i/1581665050) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f2/e1/3c/f2e13c0b-ed12-61ce-a0cc-4a32fd1191cc/859768443235_cover.jpg/600x600bb.jpg" width="60" /> | [Saints Row](https://ostdb.net/games/saints-row) | **Saints Row (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/saints-row-original-soundtrack/1660725568?uo=4) · [Album](https://album.link/i/1660725568) |
 
 ### 0-9
 
@@ -805,4 +806,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1017 soundtracks · last updated 2026-08-25T17:26:31.403Z_
+_1018 soundtracks · last updated 2026-08-25T17:26:35.746Z_
