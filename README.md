@@ -332,6 +332,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27325f0615aeb6e2096bae05190" width="60" /> | [Fallout 3](https://ostdb.net/games/fallout-3) | **Fallout 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4i1lZko6QctdpzbLa8hLP4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ee81b3d1a2d4185c24845c09" width="60" /> | [Fallout 4](https://ostdb.net/games/fallout-4) | **Fallout 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3vwXVCjVCFDhw8ePrWfgWJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e385bbc599b50986fe0aafcc" width="60" /> | [Fallout 76](https://ostdb.net/games/fallout-76) | **Fallout 76 (Original Game Score)** · [Spotify](https://open.spotify.com/album/3ADB1ffqYnHvd8vAMfL5YP) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e4328e19566665a4648c8d6e" width="60" /> | [Fallout: New Vegas](https://ostdb.net/games/fallout-new-vegas) | **Fallout New Vegas (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0K8GaFtKYbE6kFwvG59xIK) |
 
 ### 0-9
 
@@ -344,4 +345,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_419 soundtracks · last updated 2026-08-25T14:52:06.926Z_
+_420 soundtracks · last updated 2026-08-25T14:52:11.278Z_
