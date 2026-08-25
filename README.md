@@ -642,6 +642,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/87/f8/a287f87f-1311-7f2b-f350-8297e38ed89f/67003462259.jpg/600x600bb.jpg" width="60" /> | [Need for Speed: Payback](https://ostdb.net/games/need-for-speed-payback) | **Need for Speed Payback (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/need-for-speed-payback-original-game-soundtrack/1513368364?uo=4) · [Album](https://album.link/i/1513368364) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb4a8253a1b8f68bbdfb2e3f" width="60" /> | [Need for Speed: ProStreet](https://ostdb.net/games/need-for-speed-prostreet) | **Need for Speed: Prostreet (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0GkqAfKIIhGGydfQo7lPnK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739e7e0bba4db02119848e44e7" width="60" /> | [Need for Speed: The Run](https://ostdb.net/games/need-for-speed-the-run) | **Need for Speed: The Run** · [Spotify](https://open.spotify.com/album/5UZkKCQFxHhvCKTOIlwhDm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cd59c9f067b296fc69e65b73" width="60" /> | [Need for Speed: Undercover](https://ostdb.net/games/need-for-speed-undercover) | **Need for Speed: Undercover (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/64YpBQd84gpKlQwt19I9GY) |
 
 ### 0-9
 
@@ -654,4 +655,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_837 soundtracks · last updated 2026-08-25T16:41:33.387Z_
+_838 soundtracks · last updated 2026-08-25T16:41:37.935Z_
