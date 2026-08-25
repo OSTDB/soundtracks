@@ -94,6 +94,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273c91a14852cfa16c79969dc71" width="60" /> | [Assassin's Creed Unity](https://ostdb.net/games/5606) | Assassin's Creed Unity (The Complete Edition) [Original Game Soundtrack] | [Spotify](https://open.spotify.com/album/7GXcRYmAw1fTgSa2Pdscwh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4f1f4a36dd76c7715e9ad2a" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/7FC2mWK1omHDkeTkDFMqEs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bcc3349cbe642f327a02b282" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Blood, Fire, Tears (Dawn of Ragnarök Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/3kz3z5MewDUNEXLzdUQWdv) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27326e5850b3c9620e477fcb011" width="60" /> | [Assassin's Creed Valhalla](https://ostdb.net/games/133004) | Assassin's Creed Valhalla: Dawn of Ragnarök (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/3BjlyxJMtsTQJnZREHRNwz) |
 
 ### 0-9
 
@@ -110,4 +111,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_84 soundtracks · last updated 2026-08-25T07:00:35.553Z_
+_85 soundtracks · last updated 2026-08-25T07:00:37.612Z_
