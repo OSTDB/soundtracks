@@ -135,6 +135,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273fded328c6ba87b43251c5abb" width="60" /> | [Batman: Arkham Origins](https://ostdb.net/games/2003) | Batman: Arkham Origins (Original Video Game Score) | [Spotify](https://open.spotify.com/album/3RYePrI25rEQ1iMIRA8B4n) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/38/7e/ac387e73-3304-0752-1161-f42cba505561/794043224256.jpg/600x600bb.jpg" width="60" /> | [Batman: Arkham Shadow](https://ostdb.net/games/299736) | Batman: Arkham Shadow (Original Video Game Soundtrack) | [Spotify](https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4) · [Album](https://album.link/i/1794869007) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b0cb3f2c1f62a6e51c1ad75f" width="60" /> | [Battlefield 1](https://ostdb.net/games/18320) | Battlefield 1 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/0vQW7tVDwoJHMSTqWmnaKC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c2ad3f23b5ed75ed4d4dee8f" width="60" /> | [Battlefield 1942](https://ostdb.net/games/240) | Battlefield 1942 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/1rz0pZ0UTAP3TLnQ9AmRsX) |
 
 ### 0-9
 
@@ -151,4 +152,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_120 soundtracks · last updated 2026-08-25T07:06:08.502Z_
+_121 soundtracks · last updated 2026-08-25T07:10:28.650Z_
