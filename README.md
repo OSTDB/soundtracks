@@ -753,6 +753,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27373e4bb95d1fa4e3d52e951cd" width="60" /> | [Resident Evil 2](https://ostdb.net/games/resident-evil-2) | **Resident Evil 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6g1kFxoweA9jLX4Vb4f1Gd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27336f1f8d22e27899a60289452" width="60" /> | [Resident Evil 3](https://ostdb.net/games/resident-evil-3) | **Resident Evil 3 Special Soundtrack** · [Spotify](https://open.spotify.com/album/7ruGj7abeKNiq1nROX0uC7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273efa85ee01345d442bd25cb0a" width="60" /> | [Resident Evil 3: Nemesis](https://ostdb.net/games/resident-evil-3-nemesis) | **Resident Evil 3 Nemesis Original Soundtrack** · [Spotify](https://open.spotify.com/album/3oQnsgnwv2hduhDK6rZ62m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efa85ee01345d442bd25cb0a" width="60" /> | [Resident Evil 3: Nemesis](https://ostdb.net/games/resident-evil-3-nemesis) | **Resident Evil 3 Nemesis Original Soundtrack** · [Spotify](https://open.spotify.com/album/3oQnsgnwv2hduhDK6rZ62m) |
 
 ### 0-9
 
@@ -765,4 +766,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_971 soundtracks · last updated 2026-08-25T17:16:05.308Z_
+_972 soundtracks · last updated 2026-08-25T17:16:09.356Z_
