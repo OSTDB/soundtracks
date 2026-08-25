@@ -537,7 +537,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273440265622dca32b5b819f1be" width="60" /> | [LEGO Marvel Super Heroes](https://ostdb.net/games/lego-marvel-super-heroes) | **Marvel Superheroes Compilation, Vol. one** · [Spotify](https://open.spotify.com/album/4HyhfPFm4VjGygwV3As5ef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e21532c3c69a653859462c" width="60" /> | [LEGO Voyagers](https://ostdb.net/games/lego-voyagers) | **LEGO Voyagers (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7rjVUsWvSi304oX18mWTYm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/96/99/7196995f-ce3c-06fb-c5f6-27bb5ad0d948/artwork.jpg/600x600bb.jpg" width="60" /> | [Last Sentinel](https://ostdb.net/games/last-sentinel) | **Last Sentinel: Chapter Green, Vol. 1 (Original Game Soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/last-sentinel-chapter-green-vol-1-original-game-soundtrack/1885208502?uo=4) · [Album](https://album.link/i/1885208502) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27390d1dd89316f336262258965" width="60" /> | [League of Legends](https://ostdb.net/games/league-of-legends) | **Arcane League of Legends (Soundtrack from the Animated Series)** · [Spotify](https://open.spotify.com/album/0jV32pIk8l3vTaU3thTaW2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390d1dd89316f336262258965" width="60" /> | [League of Legends](https://ostdb.net/games/league-of-legends) | **Arcane League of Legends (Soundtrack from the Animated Series)** · [Spotify](https://open.spotify.com/album/0jV32pIk8l3vTaU3thTaW2)<br>**Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)** · [Spotify](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) |
 
 ### 0-9
 
@@ -550,4 +550,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_684 soundtracks · last updated 2026-08-25T16:02:05.048Z_
+_685 soundtracks · last updated 2026-08-25T16:02:08.305Z_
