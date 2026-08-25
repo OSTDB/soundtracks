@@ -576,6 +576,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27301911060224d1c84e1717f09" width="60" /> | [Marvel Rivals](https://ostdb.net/games/marvel-rivals) | **MARVEL Rivals: Galactic Tunes (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1)<br>**MARVEL Rivals: Galactic Tunes Vol. 2 (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5NbExStJilMIhbL3gfiE7M) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a1/ad/1f/a1ad1fb0-774e-6b2f-e5d8-2bf2b71f55b0/20UMGIM71632.rgb.jpg/1000x1000bb.jpg" width="60" /> | [Marvel's Avengers](https://ostdb.net/games/marvels-avengers) | **Marvel's Avengers (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/marvels-avengers-original-video-game-soundtrack/1529152990?uo=4) · [Album](https://album.link/i/1529152990) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/7a/c1/967ac1ce-8eaf-5009-17f2-1e1423fba45b/25UM1IM98998.rgb.jpg/600x600bb.jpg" width="60" /> | [Marvel's Deadpool VR](https://ostdb.net/games/marvels-deadpool-vr) | **Marvel's Deadpool VR (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/marvels-deadpool-vr-original-video-game-soundtrack/1860107533?uo=4) · [Album](https://album.link/i/1860107533) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273316936e6affaad21c2656db7" width="60" /> | [Marvel's Guardians of the Galaxy](https://ostdb.net/games/marvels-guardians-of-the-galaxy) | **Marvel's Guardians of the Galaxy (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0TaMkvR6vwkzhk2Ie6EeLN) |
 
 ### 0-9
 
@@ -588,4 +589,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_742 soundtracks · last updated 2026-08-25T16:16:55.896Z_
+_743 soundtracks · last updated 2026-08-25T16:17:00.525Z_
