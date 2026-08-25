@@ -913,6 +913,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bd82634d67d4e092963948d" width="60" /> | [The Binding of Isaac: Rebirth](https://ostdb.net/games/the-binding-of-isaac-rebirth) | **The Binding of Isaac: Rebirth (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6xmFMdtFR9InDhMZFiCwCZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27369eec53123c58b1c0ca61a74" width="60" /> | [The Blood of Dawnwalker](https://ostdb.net/games/the-blood-of-dawnwalker) | **Dawnwalker (Vampire Music inspired by the Blood of Dawnwalker Original Soundtrack)** · [Spotify](https://open.spotify.com/album/40kjmATL675wv80CZdm3Tp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c102fc0d67702c2b474cc91e" width="60" /> | [The Callisto Protocol](https://ostdb.net/games/the-callisto-protocol) | **The Callisto Protocol (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2TzKa6fZV8syswzob8Sb19) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/2b/22/a62b221f-4208-991d-743c-29cfca22b8e6/198846392035.jpg/600x600bb.jpg" width="60" /> | [The Casting of Frank Stone](https://ostdb.net/games/the-casting-of-frank-stone) | **The Casting of Frank Stone (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-casting-of-frank-stone-original-game-soundtrack/1770791616?uo=4) · [Album](https://album.link/i/1770791616) |
 
 ### 0-9
 
@@ -925,4 +926,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1181 soundtracks · last updated 2026-08-25T18:06:54.897Z_
+_1182 soundtracks · last updated 2026-08-25T18:06:59.980Z_
