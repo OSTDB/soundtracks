@@ -49,7 +49,8 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b2732f09acc88c27f504a5a0660f" width="60" /> | [2XKO](https://ostdb.net/games/126460) | Akali Carves Her Path (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/4Yseu06FfTqAvPrCT5DX71) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738dcc63ee72445e054406511b" width="60" /> | [2XKO](https://ostdb.net/games/126460) | Caitlyn Takes Aim (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/4cDmujk9Oy9n68uHNlnYwc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27393383a0746eb55b3d1277c5f" width="60" /> | [2XKO](https://ostdb.net/games/126460) | Season 0 (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/6bCWKBxewkOffjIuOsTdnG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732b6ba5d5ea19d9a5e9abbd0b" width="60" /> | [2XKO](https://ostdb.net/games/126460) | The Last Hit (Original Soundtrack from 2XKO) | [Spotify](https://open.spotify.com/album/2rn6h5TCJuPUkwp0PQ8uLL) |
 
 ---
 
-_26 soundtracks · last updated 2026-08-25T06:45:39.599Z_
+_27 soundtracks · last updated 2026-08-25T06:45:41.509Z_
