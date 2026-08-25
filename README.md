@@ -465,6 +465,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736b0d0f09754721321603028b" width="60" /> | [Hitman: Codename 47](https://ostdb.net/games/hitman-codename-47) | **Hitman Codename 47 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1Vo78OjdDENJbFxVruM4Od) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1a04391e6d0b9cd0b7894fc" width="60" /> | [Hitman: Contracts](https://ostdb.net/games/hitman-contracts) | **Hitman: Contracts (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0SiUDINVt394gDbBeMIez2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273709343b456e9b36a834bf12f" width="60" /> | [Hogwarts Legacy](https://ostdb.net/games/hogwarts-legacy) | **Hogwarts Legacy (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dcbca161a7787a3fe0cb429c" width="60" /> | [Hollow Knight](https://ostdb.net/games/hollow-knight) | **Hollow Knight (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4XgGOMRY7H4hl6OQi5wb2Z) |
 
 ### 0-9
 
@@ -477,4 +478,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_610 soundtracks · last updated 2026-08-25T15:45:59.017Z_
+_611 soundtracks · last updated 2026-08-25T15:46:03.553Z_
