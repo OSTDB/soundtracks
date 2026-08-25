@@ -866,6 +866,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/89/67/8c89676f-f84b-fb45-2a9b-9f1fa589d87a/859726133932_cover.jpg/600x600bb.jpg" width="60" /> | [StarRupture](https://ostdb.net/games/starrupture) | **StarRupture (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/starrupture-original-video-game-soundtrack/1862484945?uo=4) · [Album](https://album.link/i/1862484945) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f31553286bd249a902b50d4" width="60" /> | [Stardew Valley](https://ostdb.net/games/stardew-valley) | **Stardew Valley (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk)<br>**Stardew Valley 1.1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5SWKLwXsjx1wtkc4uOiils)<br>**Stardew Valley 1.4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0QSZEwYxmAS7CE7wFRLTLC)<br>**Stardew Valley 1.5 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5O9DUWTuoCmFn39fQ56dGn)<br>**Stardew Valley Update 1.3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3Bw7iefjhungzLwETtN26i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329bd89ef72092bd982b32e30" width="60" /> | [Starfield](https://ostdb.net/games/starfield) | **Starfield: Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27333ef1b628c916c245b74e4d9" width="60" /> | [State of Decay 2](https://ostdb.net/games/state-of-decay-2) | **State of Decay 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3DfZXfUWuPAIGljNmyNvR1) |
 
 ### 0-9
 
@@ -878,4 +879,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1119 soundtracks · last updated 2026-08-25T17:51:44.973Z_
+_1120 soundtracks · last updated 2026-08-25T17:51:49.731Z_
