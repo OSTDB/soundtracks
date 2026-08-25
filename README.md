@@ -657,6 +657,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c530143bded8275db8e1307" width="60" /> | [Ninja Gaiden: Ragebound](https://ostdb.net/games/ninja-gaiden-ragebound) | **NINJA GAIDEN: Ragebound (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1FbIs0Va2ibzbxco84dC5V) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/28/ce/9e/28ce9e22-8172-f017-757f-a78f8e8ca7e7/077292_J.jpg/600x600bb.jpg" width="60" /> | [Nioh](https://ostdb.net/games/nioh) | **仁王 オリジナルサウンドトラック** · [Spotify](https://music.apple.com/us/album/%E4%BB%81%E7%8E%8B-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1502226324?uo=4) · [Album](https://album.link/i/1502226324) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398d050dff9c821452b5cca6f" width="60" /> | [Nioh 3](https://ostdb.net/games/nioh-3) | **Nioh 3 Original Soundtrack** · [Spotify](https://open.spotify.com/album/0Gia74LV7RF9JGdQTWeWxi) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737644f2989660f5b2ad737e33" width="60" /> | [No Man's Sky](https://ostdb.net/games/no-mans-sky) | **No Man's Sky - Vostok / The Journey (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7tAE4DlUVV4LDsn7PNoKLI) |
 
 ### 0-9
 
@@ -669,4 +670,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_857 soundtracks · last updated 2026-08-25T16:46:37.244Z_
+_858 soundtracks · last updated 2026-08-25T16:46:42.496Z_
