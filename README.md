@@ -219,6 +219,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ab41fb59ab94921d9372a0" width="60" /> | [Dark Souls](https://ostdb.net/games/dark-souls) | **Dark Souls (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3B9SD6YRBQce8AMVCL915V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339155c5d411c3c1f1ee84b30" width="60" /> | [Dark Souls II](https://ostdb.net/games/dark-souls-ii) | **Dark Souls 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1rJoXBUMGX6tX9ZELFLre6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27339155c5d411c3c1f1ee84b30" width="60" /> | [Dark Souls II: Scholar of the First Sin](https://ostdb.net/games/dark-souls-ii-scholar-of-the-first-sin) | **Dark Souls 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1rJoXBUMGX6tX9ZELFLre6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735b8b6bc0bd351d7129386d7f" width="60" /> | [Dark Souls III](https://ostdb.net/games/dark-souls-iii) | **Dark Souls 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5t5BES3FsvBvL21Fg6x1AA) |
 
 ### 0-9
 
@@ -231,4 +232,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_263 soundtracks · last updated 2026-08-25T14:15:56.757Z_
+_264 soundtracks · last updated 2026-08-25T14:16:01.448Z_
