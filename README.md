@@ -461,6 +461,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739201d4cd9ca005a06f8619e4" width="60" /> | [High on Life 2](https://ostdb.net/games/high-on-life-2) | **High on Life 2 (Original Game Soundtrack) Vol. 1** · [Spotify](https://open.spotify.com/album/4sfR0S7DYNbSefE9l7H5IF)<br>**High on Life 2 (Original Game Soundtrack) Vol. 2** · [Spotify](https://open.spotify.com/album/0GGLdh7z23hXXF4OGxxXLG) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/10/bb/db10bbfb-6ccc-d666-98dc-3a89074c6b3a/artwork.jpg/600x600bb.jpg" width="60" /> | [Highguard](https://ostdb.net/games/highguard) | **The Call of Wardens (HIGHGUARD Original Soundtrack Original Soundtrack) [English Version] - Single** · [Spotify](https://music.apple.com/us/album/the-call-of-wardens-highguard-original/1873364312?uo=4) · [Album](https://album.link/i/1873364312)<br>**ウォーデンの呼び声 (HIGHGUARD Original Soundtrack - OST) [Japanese Version] - Single** · [Spotify](https://music.apple.com/us/album/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%91%BC%E3%81%B3%E5%A3%B0-highguard-original-soundtrack-ost-japanese/1873365267?uo=4) · [Album](https://album.link/i/1873365267) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0b737aa581fff8ed9a3f212" width="60" /> | [Hitman 2: Silent Assassin](https://ostdb.net/games/hitman-2-silent-assassin) | **Hitman 2: Silent Assassin (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5kK1FFsw7e1Gu7yOV6rDgH) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730617af302a400b7ab98a2dc6" width="60" /> | [Hitman: Blood Money](https://ostdb.net/games/hitman-blood-money) | **Hitman: Blood Money** · [Spotify](https://open.spotify.com/album/4NucWkMsyoitdbbQ4kdlqB) |
 
 ### 0-9
 
@@ -473,4 +474,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_606 soundtracks · last updated 2026-08-25T15:42:12.345Z_
+_607 soundtracks · last updated 2026-08-25T15:42:17.018Z_
