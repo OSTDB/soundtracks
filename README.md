@@ -692,6 +692,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4eda058e55d0254a0f12f76" width="60" /> | [Papers, Please](https://ostdb.net/games/papers-please) | **Papers, Please (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe51a1cbc3b670ccfd336388" width="60" /> | [Payday 2](https://ostdb.net/games/payday-2) | **Payday 2 (Official Soundtrack, Vol. 2)** · [Spotify](https://open.spotify.com/album/6v0j3JMm1FXvPFy9ORAmrl)<br>**Payday 2 Remastered (Official Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/3vRxcJ43dTDDx5a77ccgxW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d9994edfb05a92103d2e4c" width="60" /> | [Payday 3](https://ostdb.net/games/payday-3) | **PAYDAY 3 - Jacket (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0aOuWq6eX71s7nXPkFWpJK)<br>**PAYDAY 3 Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3W4k3LJMbgEuyv3nyofNNp)<br>**PAYDAY 3 Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1UjTN0TwUS0SxUUmRBdfC4) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/23/10/e5231053-bbe8-80cf-6307-d4425e54a973/5053760117070.png/600x600bb.jpg" width="60" /> | [Pepper Grinder](https://ostdb.net/games/pepper-grinder) | **Pepper Grinder (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4) · [Album](https://album.link/i/1745068247) |
 
 ### 0-9
 
@@ -704,4 +705,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_896 soundtracks · last updated 2026-08-25T16:56:29.112Z_
+_897 soundtracks · last updated 2026-08-25T16:56:33.601Z_
