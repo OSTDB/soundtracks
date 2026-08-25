@@ -222,6 +222,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b8b6bc0bd351d7129386d7f" width="60" /> | [Dark Souls III](https://ostdb.net/games/dark-souls-iii) | **Dark Souls 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5t5BES3FsvBvL21Fg6x1AA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27325ab41fb59ab94921d9372a0" width="60" /> | [Dark Souls: Remastered](https://ostdb.net/games/dark-souls-remastered) | **Dark Souls (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3B9SD6YRBQce8AMVCL915V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cc3f777e98e4e93b20c33d99" width="60" /> | [Darkest Dungeon](https://ostdb.net/games/darkest-dungeon) | **Darkest Dungeon (Original Video Game Soundtrack) [Deluxe Edition]** · [Spotify](https://open.spotify.com/album/02D6lCDUToX2m7ucYlpXn6)<br>**Darkest Dungeon Color of Madness DLC (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Wf5jEtkaRyNcVTKSclZAK)<br>**Darkest Dungeon: The Butcher's Circus DLC (EP) [Official Video Game Soundtrack]** · [Spotify](https://open.spotify.com/album/6gVwAQ633mVNRYpcAWKg4q)<br>**Dungeons & Dragons - Official Roleplaying Soundtrack** · [Spotify](https://open.spotify.com/album/4vlLjXLtpTqL3516bAWNHx) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b7db030e62965b9942a610ed" width="60" /> | [Darksiders](https://ostdb.net/games/darksiders) | **Darksiders [Director's Cut] (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5M0v20pvmGMAIla2ICo0sJ) |
 
 ### 0-9
 
@@ -234,4 +235,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_269 soundtracks · last updated 2026-08-25T14:16:24.351Z_
+_270 soundtracks · last updated 2026-08-25T14:16:28.965Z_
