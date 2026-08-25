@@ -54,6 +54,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/anthem) | **Anthem (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/apex-legends) | **Apex Legends (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd)<br>**Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw) · [Apple Music](https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273761a311920a2c0a1fc7c9815" width="60" /> | [Apsulov: End of Gods](https://ostdb.net/games/apsulov-end-of-gods) | **Apsulov: End of Gods (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/07/42/6807422b-951a-540b-1f7e-d6f9a2c4e9cf/artwork.jpg/600x600bb.jpg" width="60" /> | [Arctic Awakening](https://ostdb.net/games/arctic-awakening) | **Arctic Awakening (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/arctic-awakening-original-game-soundtrack/1839607348?uo=4) · [Album](https://album.link/i/1839607348) |
 
 ### 0-9
 
@@ -66,4 +67,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_51 soundtracks · last updated 2026-08-25T13:21:24.290Z_
+_52 soundtracks · last updated 2026-08-25T13:21:27.828Z_
