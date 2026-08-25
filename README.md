@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [0-9](#0-9)
 
 ### A
 
@@ -664,6 +664,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273551990f90281ccedef33131b" width="60" /> | [Nobody Wants to Die](https://ostdb.net/games/nobody-wants-to-die) | **Nobody Wants To Die (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2TYkemIHChDJOPIqEdIJX9) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d2/9d/24/d29d2427-03b5-df72-7a71-130a3728c778/7321170019733.png/600x600bb.jpg" width="60" /> | [Noita](https://ostdb.net/games/noita) | **Noita, Vol. 1 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/noita-vol-1-original-game-soundtrack/1481320002?uo=4) · [Album](https://album.link/i/1481320002)<br>**Noita, Vol. 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/noita-vol-2-original-game-soundtrack/1521670900?uo=4) · [Album](https://album.link/i/1521670900) |
 
+### O
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/dd/bc/21/ddbc21df-296d-f950-2240-a699ad113c95/859718116158_cover.jpg/1000x1000bb.jpg" width="60" /> | [Obduction](https://ostdb.net/games/obduction) | **Obduction (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/obduction-original-soundtrack/1148568097?uo=4) · [Album](https://album.link/i/1148568097) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -675,4 +681,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_866 soundtracks · last updated 2026-08-25T16:47:17.354Z_
+_867 soundtracks · last updated 2026-08-25T16:50:48.340Z_
