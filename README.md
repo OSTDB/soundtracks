@@ -819,6 +819,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2734951c33c9c8273a0f0d2da22" width="60" /> | [Silent Hill 2](https://ostdb.net/games/silent-hill-2) | **SILENT HILL2 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/37SU6K9WOuYJ5VQQ3UmtKO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273832b77dc1cfccecad346457f" width="60" /> | [Silent Hill 3](https://ostdb.net/games/silent-hill-3) | **SILENT HILL3 （Original Soundtrack）** · [Spotify](https://open.spotify.com/album/7mUy29OoRRIqmm3XsBrdoV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273adfec9dc7988eb699cfb1590" width="60" /> | [Silent Hill 4: The Room](https://ostdb.net/games/silent-hill-4-the-room) | **SILENT HILL4 -THE ROOM- (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1WXlLnSpVnaFWQj0VdRgYT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737ae09da793dcc634cf777cb9" width="60" /> | [SimCity 3000](https://ostdb.net/games/simcity-3000) | **Simcity 3000 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/79DD1VgOYakea84R5eR0hV) |
 
 ### 0-9
 
@@ -831,4 +832,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1052 soundtracks · last updated 2026-08-25T17:36:14.382Z_
+_1053 soundtracks · last updated 2026-08-25T17:36:18.801Z_
