@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [0-9](#0-9)
 
 ### A
 
@@ -630,6 +630,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27312df1c30937734754238de99" width="60" /> | [Mortal Kombat X](https://ostdb.net/games/mortal-kombat-x) | **Mortal Kombat X (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4kvOe1lD5xYRrsv1QLkUhr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ee1e664029dbbe5934534a8" width="60" /> | [Mouse: P.I. For Hire](https://ostdb.net/games/mouse-p-i-for-hire) | **Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa) |
 
+### N
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273ed892fb5b5ce294862a116cd" width="60" /> | [Napoleon: Total War](https://ostdb.net/games/napoleon-total-war) | **Total War: Napoleon (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/3zTC53iHEE3QBSJW6cx3yt) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -641,4 +647,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_829 soundtracks · last updated 2026-08-25T16:40:57.306Z_
+_830 soundtracks · last updated 2026-08-25T16:41:01.647Z_
