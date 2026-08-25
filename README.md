@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [0-9](#0-9)
 
 ### A
 
@@ -991,6 +991,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739de84199defda845906bd96e" width="60" /> | [Twelve Minutes](https://ostdb.net/games/twelve-minutes) | **Twelve Minutes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4iQp0T3hWqb5XUnHG6Uh8t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bf692e6a1adcb86d81f5771" width="60" /> | [Twin Mirror](https://ostdb.net/games/twin-mirror) | **Twin Mirror (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg) |
 
+### U
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273aa82e45cd18df77d166e7977" width="60" /> | [Uncharted 2: Among Thieves](https://ostdb.net/games/uncharted-2-among-thieves) | **Uncharted 2: Among Thieves (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -1002,4 +1008,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1290 soundtracks · last updated 2026-08-25T18:36:02.935Z_
+_1291 soundtracks · last updated 2026-08-25T18:36:06.953Z_
