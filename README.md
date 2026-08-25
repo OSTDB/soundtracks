@@ -230,6 +230,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2736323899023ab47efa7dfd888" width="60" /> | [Days Gone](https://ostdb.net/games/days-gone) | **Days Gone (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2koUTJvJTFzOs8mresqtle) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736323899023ab47efa7dfd888" width="60" /> | [Days Gone Remastered](https://ostdb.net/games/days-gone-remastered) | **Days Gone (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2koUTJvJTFzOs8mresqtle) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a67f1d260e5f29701f27bae" width="60" /> | [Dead Cells](https://ostdb.net/games/dead-cells) | **Dead Cells (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5MuOiTfGZfVbZ1rPcDX5A0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccf810b42f34b3893fba3514" width="60" /> | [Dead Island 2](https://ostdb.net/games/dead-island-2) | **Dead Island 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3yC0S6Sa5OARUp59hDcQN1) |
 
 ### 0-9
 
@@ -242,4 +243,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_280 soundtracks · last updated 2026-08-25T14:17:10.266Z_
+_281 soundtracks · last updated 2026-08-25T14:20:48.827Z_
