@@ -59,6 +59,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273db0a8bb8ba586b9e2cbdd6b5" width="60" /> | [Anno 1800](https://ostdb.net/games/55036) | Anno 1800 – Post-Launch Compilation (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/58YS2SDRSNJxHm40C9A52D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/36950) | Anthem (Original Soundtrack) | [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/114795) | Apex Legends (Original Soundtrack) | [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273067447d99d8e98a90655c654" width="60" /> | [Apex Legends](https://ostdb.net/games/114795) | Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack) | [Spotify](https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw) · [Apple Music](https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054) |
 
 ### 0-9
 
@@ -75,4 +76,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_49 soundtracks · last updated 2026-08-25T06:50:46.698Z_
+_50 soundtracks · last updated 2026-08-25T06:50:48.591Z_
