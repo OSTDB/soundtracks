@@ -192,6 +192,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273d3e88e648ca6669d82ae2c9a" width="60" /> | [Command & Conquer: Red Alert](https://ostdb.net/games/command-and-conquer-red-alert) | **Command & Conquer: Red Alert (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/0PVfiTe7jFoMIcKr4yvkEk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323c39897ccdc9ed187eeacdf" width="60" /> | [Command & Conquer: Red Alert 2](https://ostdb.net/games/command-and-conquer-red-alert-2) | **Command & Conquer: Red Alert 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0mL0e9FMnDXyZieyyrpH1q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27383fe2e01c8ebb3df005aff3f" width="60" /> | [Command & Conquer: Tiberian Sun](https://ostdb.net/games/command-and-conquer-tiberian-sun) | **Command & Conquer: Tiberian Sun (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5fUxoN1qAXttP5t4YrJKaI) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c6/57/e2/c657e252-2b18-4a52-1e5f-584b08e5bea4/859729882554_cover.jpg/600x600bb.jpg" width="60" /> | [Conan Exiles](https://ostdb.net/games/conan-exiles) | **Conan Exiles (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/conan-exiles-original-soundtrack/1568919439?uo=4) · [Album](https://album.link/i/1568919439) |
 
 ### 0-9
 
@@ -204,4 +205,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_231 soundtracks · last updated 2026-08-25T14:06:30.667Z_
+_232 soundtracks · last updated 2026-08-25T14:06:34.658Z_
