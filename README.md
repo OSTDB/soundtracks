@@ -268,7 +268,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ee8d315dabd024eedf1a82" width="60" /> | [Disco Elysium](https://ostdb.net/games/disco-elysium) | **Disco Elysium** · [Spotify](https://open.spotify.com/album/5IhBwGYrQotmDvfLcdIj8R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346fc05cf410db939e4370606" width="60" /> | [Dishonored](https://ostdb.net/games/dishonored) | **Dishonored: Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/30LcobDusMVZc6mKgXNEH3) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a097f7a40543aecb3fd6c5f6" width="60" /> | [Dishonored 2](https://ostdb.net/games/dishonored-2) | **Dishonored 2 (Deluxe Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4g7JIOhSJv3eYEzCCwIchi) |
-| <img src="https://i.scdn.co/image/ab67616d0000b27330b571609587240e493bd985" width="60" /> | [Dispatch](https://ostdb.net/games/dispatch) | **Dispatch, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7rByigEYU4ok9gsQG5ce9C) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27330b571609587240e493bd985" width="60" /> | [Dispatch](https://ostdb.net/games/dispatch) | **Dispatch, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7rByigEYU4ok9gsQG5ce9C)<br>**Dispatch, Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Sxs1AGIMyaXy6b3Ttr4Xg) |
 
 ### 0-9
 
@@ -281,4 +281,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_344 soundtracks · last updated 2026-08-25T14:36:02.142Z_
+_345 soundtracks · last updated 2026-08-25T14:36:06.538Z_
