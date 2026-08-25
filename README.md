@@ -455,6 +455,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9f52929a2b124caf309f9a4" width="60" /> | [Helldivers 2](https://ostdb.net/games/helldivers-2) | **Helldivers 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1T3dB5mtp6IaQekRZ8Qu7Q) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273441dc8bbd97604ca7fde513a" width="60" /> | [Hellgate: London](https://ostdb.net/games/hellgate-london) | **Hellgate: London Original Video Game Soundtrack** · [Spotify](https://open.spotify.com/album/0z8WtBB9fInccrwLHMCjkx) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/65/cd/6765cdd5-6621-1bc4-79be-587fc2f01375/cover_4062851182560.jpg/1000x1000bb.jpg" width="60" /> | [Herdling](https://ostdb.net/games/herdling) | **Herdling** · [Apple Music](https://music.apple.com/us/album/herdling/1831208279?uo=4) · [Album](https://album.link/i/1831208279)<br>**Herdling - Single** · [Apple Music](https://music.apple.com/us/album/herdling-single/1830995667?uo=4) · [Album](https://album.link/i/1830995667) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d83e3608294add3b3ed22191" width="60" /> | [Heroes of Might and Magic III: The Restoration of Erathia](https://ostdb.net/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia) | **Main Theme (From Heroes of Might and Magic 3)** · [Spotify](https://open.spotify.com/album/03ZjOH6fuy2yPYPMY3yQxM) |
 
 ### 0-9
 
@@ -467,4 +468,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_597 soundtracks · last updated 2026-08-25T15:41:30.444Z_
+_598 soundtracks · last updated 2026-08-25T15:41:35.628Z_
