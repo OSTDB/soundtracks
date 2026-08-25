@@ -16,7 +16,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ## Browse by letter
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [0-9](#0-9)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [0-9](#0-9)
 
 ### A
 
@@ -787,6 +787,12 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Barbarian Invasion](https://ostdb.net/games/rome-total-war-barbarian-invasion) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/87/68/7c876843-600d-9100-c551-7d4315419ba5/8721466129389.png/600x600bb.jpg" width="60" /> | [Rust](https://ostdb.net/games/rust) | **Rust Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N) · [Apple Music](https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023) · [Album](https://album.link/i/1887857023) |
 
+### S
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27353d5b26a3f0351960557117a" width="60" /> | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://ostdb.net/games/s-t-a-l-k-e-r-2-heart-of-chornobyl) | **S.T.A.L.K.E.R. 2: Heart of Chornobyl (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5FJkW0gvOl3pX1XNxyGols) |
+
 ### 0-9
 
 | Cover | Game | Albums |
@@ -798,4 +804,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1015 soundtracks · last updated 2026-08-25T17:26:23.750Z_
+_1016 soundtracks · last updated 2026-08-25T17:26:27.242Z_
