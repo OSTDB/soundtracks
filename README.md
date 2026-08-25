@@ -112,6 +112,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273116ae080282cf4f09442896c" width="60" /> | [Battlefield V](https://ostdb.net/games/battlefield-v) | **Battlefield V (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4SAV75H61yWLg3tiIwM2FX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332d8239eb1b3a31013f87176" width="60" /> | [Battlefield: Bad Company](https://ostdb.net/games/battlefield-bad-company) | **Battlefield: Bad Company (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Gc29RL3GIWI1X3LjkX3eI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731de8ab7596541987c401c4e1" width="60" /> | [Battlefield: Bad Company 2](https://ostdb.net/games/battlefield-bad-company-2) | **Battlefield: Bad Company 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a5/a5/de/a5a5de44-8f29-ee01-4a66-445ba692e339/77507.jpg/1000x1000bb.jpg" width="60" /> | [Battletoads](https://ostdb.net/games/battletoads) | **Battletoads (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/battletoads-original-soundtrack/1533321474?uo=4) |
 
 ### 0-9
 
@@ -124,4 +125,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_135 soundtracks · last updated 2026-08-25T13:41:44.127Z_
+_136 soundtracks · last updated 2026-08-25T13:41:47.670Z_
