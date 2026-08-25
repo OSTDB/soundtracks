@@ -78,6 +78,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/127) | Assassin's Creed 2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27397dd973df77a343bd38bcff7" width="60" /> | [Assassin's Creed II](https://ostdb.net/games/221822) | Assassin's Creed 2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309b5a361d82bb471d9d38c07" width="60" /> | [Assassin's Creed III](https://ostdb.net/games/1266) | Assassin's Creed 3 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/23aWOneOrCl1KBfDCo2pFy) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c6d155c7dc4f59e7d61f5859" width="60" /> | [Assassin's Creed IV Black Flag](https://ostdb.net/games/1970) | Assassin's Creed 4: Black Flag (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) |
 
 ### 0-9
 
@@ -94,4 +95,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_68 soundtracks · last updated 2026-08-25T06:55:42.399Z_
+_69 soundtracks · last updated 2026-08-25T06:55:44.255Z_
