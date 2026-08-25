@@ -453,6 +453,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273109276efaf4107fc52623001" width="60" /> | [Hell is Us](https://ostdb.net/games/hell-is-us) | **Hell Is Us Soundtrack (TERROR)** · [Spotify](https://open.spotify.com/album/2jM8YeVH5XY7oJAAkahZxL)<br>**Hell is Us Soundtrack (ECSTASY)** · [Spotify](https://open.spotify.com/album/5ScvLJtXr8qPffLfd3IACu)<br>**Hell is Us Soundtrack (GRIEF)** · [Spotify](https://open.spotify.com/album/7daa7YwdYHAKrs383WoIvl)<br>**Hell is Us Soundtrack (RAGE)** · [Spotify](https://open.spotify.com/album/1vR5FmCUxR7Dng3nQRZcF9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b60998bfc1c339ff2b03ee43" width="60" /> | [Hellblade: Senua's Sacrifice](https://ostdb.net/games/hellblade-senuas-sacrifice) | **Hellblade: Senua's Sacrifice (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ihHcMdKtZ3qY5eRXYxcl8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9f52929a2b124caf309f9a4" width="60" /> | [Helldivers 2](https://ostdb.net/games/helldivers-2) | **Helldivers 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1T3dB5mtp6IaQekRZ8Qu7Q) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273441dc8bbd97604ca7fde513a" width="60" /> | [Hellgate: London](https://ostdb.net/games/hellgate-london) | **Hellgate: London Original Video Game Soundtrack** · [Spotify](https://open.spotify.com/album/0z8WtBB9fInccrwLHMCjkx) |
 
 ### 0-9
 
@@ -465,4 +466,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_594 soundtracks · last updated 2026-08-25T15:41:15.687Z_
+_595 soundtracks · last updated 2026-08-25T15:41:20.544Z_
