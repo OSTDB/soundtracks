@@ -135,7 +135,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2733d5842657134bfcf49dc5ee6" width="60" /> | [Borderlands](https://ostdb.net/games/borderlands) | **Borderlands (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1UZ2cEug2ZyUbjC3pHTh0w) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730039af1cbe18ab33a4db805f" width="60" /> | [Borderlands 2](https://ostdb.net/games/borderlands-2) | **Borderlands 2: Complete (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/47Aq8InB8CyhErE3HEhkTL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735e90db85b8fe58fef96dd59e" width="60" /> | [Borderlands 3](https://ostdb.net/games/borderlands-3) | **Borderlands 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1evb6oJiL4jNcBCXdg8UTR) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e1ddcf164ebf930ed7b06c1c" width="60" /> | [Borderlands 4](https://ostdb.net/games/borderlands-4) | **Borderlands 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4qGpqQvPQ4zfzTGFiFjOwn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e1ddcf164ebf930ed7b06c1c" width="60" /> | [Borderlands 4](https://ostdb.net/games/borderlands-4) | **Borderlands 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4qGpqQvPQ4zfzTGFiFjOwn)<br>**Borderlands 4: Break Free** · [Spotify](https://open.spotify.com/album/0DfBR42cqe75ze2SpQvgtA) |
 
 ### 0-9
 
@@ -148,4 +148,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_167 soundtracks · last updated 2026-08-25T13:51:15.215Z_
+_168 soundtracks · last updated 2026-08-25T13:51:19.426Z_
