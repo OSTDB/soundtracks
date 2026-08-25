@@ -894,6 +894,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/f4/44/fef44435-99ec-8b72-25b8-d6817546b1ac/198595859636.jpg/600x600bb.jpg" width="60" /> | [Tactical Breach Wizards](https://ostdb.net/games/tactical-breach-wizards) | **Tactical Breach Wizards (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4) · [Album](https://album.link/i/1769289561) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273ccdc0c7230cd697b5c17ec3a" width="60" /> | [Tales of Arise](https://ostdb.net/games/tales-of-arise) | **TALES OF ARISE Original Soundtrack** · [Spotify](https://open.spotify.com/album/1BeQ45CPEj51I2agsKlqOQ) |
 
 ### 0-9
 
@@ -906,4 +907,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1146 soundtracks · last updated 2026-08-25T17:57:31.555Z_
+_1147 soundtracks · last updated 2026-08-25T18:00:48.796Z_
