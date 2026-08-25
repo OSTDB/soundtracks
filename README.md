@@ -173,7 +173,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731edca0ce125c53b5a103611a" width="60" /> | [Castle Crashers](https://ostdb.net/games/castle-crashers) | **Castle Crashers Themes** · [Spotify](https://open.spotify.com/album/3vt3TNtonZPc8us4MABj4o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738bff93ea9999b57b00e143b5" width="60" /> | [Castlevania](https://ostdb.net/games/castlevania) | **Castlevania Original Soundtrack** · [Spotify](https://open.spotify.com/album/6JAnS1tfK3gHce4eLjnWOC) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8e/d2/3f8ed2cb-6e2f-515d-903d-bfa096fd0d48/artwork.jpg/600x600bb.jpg" width="60" /> | [Cat Quest III](https://ostdb.net/games/cat-quest-iii) | **Cat Quest III (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4) · [Album](https://album.link/i/1762343344) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039" width="60" /> | [Celeste](https://ostdb.net/games/celeste) | **Celeste (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039" width="60" /> | [Celeste](https://ostdb.net/games/celeste) | **Celeste (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf)<br>**Celeste B-Sides (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3lRqLudF94UtGUmTM2bjfd) |
 
 ### 0-9
 
@@ -186,4 +186,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_204 soundtracks · last updated 2026-08-25T14:01:01.468Z_
+_205 soundtracks · last updated 2026-08-25T14:01:06.264Z_
