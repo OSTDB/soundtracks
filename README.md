@@ -393,6 +393,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/ec/56/29ec568e-a90e-bc71-a5b5-e1c84d91bc9c/artwork.jpg/600x600bb.jpg" width="60" /> | [Ghostrunner](https://ostdb.net/games/ghostrunner) | **Ghostrunner (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghostrunner-original-soundtrack/1538078931?uo=4) · [Album](https://album.link/i/1538078931) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6a4a977b5ec99f2df9d70e" width="60" /> | [Ghostwire: Tokyo](https://ostdb.net/games/ghostwire-tokyo) | **Ghostwire Tokyo (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7veomM7sMglqkbrTsk1BaB)<br>**Ghostwire: Tokyo Spider's Thread (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0zvMFU4qtuT61XKbyMYo5k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8308515e3a4e530fd4c7b6f" width="60" /> | [God of War](https://ostdb.net/games/god-of-war) | **God of War (2005) (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/4tZGORVhBzO0Kzj5oaOOMn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27395cee0cbfd697f89f4b624e1" width="60" /> | [God of War](https://ostdb.net/games/god-of-war) | **God of War (PlayStation Soundtrack)** · [Spotify](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) |
 
 ### 0-9
 
@@ -405,4 +406,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_518 soundtracks · last updated 2026-08-25T15:21:31.587Z_
+_519 soundtracks · last updated 2026-08-25T15:21:35.890Z_
