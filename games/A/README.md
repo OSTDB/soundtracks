@@ -1,0 +1,19 @@
+# A
+
+[← Back to index](../../README.md)
+
+| Cover | Game | Album | Links |
+|---|---|---|---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/af/95/8aaf9512-b9c3-1e66-be69-0f9b7c217c77/859723515090_cover.jpg/600x600bb.jpg" width="60" /> | [A Hat in Time](https://ostdb.net/games/6705) | A Hat in Time (Original Game Soundtrack) | [Spotify](https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4) · [Album](https://album.link/i/1299393881) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273858544fa6d76b5182a87888c" width="60" /> | [A Plague Tale: Innocence](https://ostdb.net/games/27316) | A Plague Tale: Innocence (Original Soundtrack) | [Spotify](https://open.spotify.com/album/2wD6ibumlAybToO5Mpy9pK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2730050e5eda53a31f7710d1621" width="60" /> | [A Plague Tale: Requiem](https://ostdb.net/games/152242) | A Plague Tale Requiem Symphony (Live) | [Spotify](https://open.spotify.com/album/0H4CLvPmkMmezXlXtEICEj) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732536b38789b0b6364b1cbbe3" width="60" /> | [A Plague Tale: Requiem](https://ostdb.net/games/152242) | A Plague Tale: Requiem (Extended Soundtrack) | [Spotify](https://open.spotify.com/album/67zAJ4ABdMrNsa6zpxEF8s) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273398031a5614e2b330ffc9c6e" width="60" /> | [A Plague Tale: Requiem](https://ostdb.net/games/152242) | A Plague Tale: Requiem (Original Soundtrack) | [Spotify](https://open.spotify.com/album/5Yzbew7AnCrYDAD0fPkT3T) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273dd8b4524d928f403c7042940" width="60" /> | [A Short Hike](https://ostdb.net/games/116753) | A Short Hike | [Spotify](https://open.spotify.com/album/2JshDNPO0R0OrXRqO7oIIB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27366cbc5183929f2d43dc485c0" width="60" /> | [A Way Out](https://ostdb.net/games/36897) | A Way Out (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a0c8aa904c211f1f46735228" width="60" /> | [ARC Raiders](https://ostdb.net/games/185258) | ARC Raiders (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/0ByQSivdl2dJdSTulqzBOV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27365a73a81516ed5d693efe804" width="60" /> | [ARC Raiders](https://ostdb.net/games/185258) | Themes from ARC Raiders (Original Video Game Soundtrack) | [Spotify](https://open.spotify.com/album/4DhQlhLl1bABaHkM8g6wdh) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c45a655007a99980b7c54a45" width="60" /> | [Absolum](https://ostdb.net/games/334239) | Absolum (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/23MImNdwzkpltH0gf111eJ) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/a5/15/2ea51568-ea33-4ae7-6332-569d2780b476/f61387df-996e-4be6-af92-906db461fac6.jpg/600x600bb.jpg" width="60" /> | [Absolver](https://ostdb.net/games/19333) | Absolver | [Spotify](https://music.apple.com/us/album/absolver/1281122592?uo=4) · [Album](https://album.link/i/1281122592) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731a99366b985121f2f60b749d" width="60" /> | [Abzu](https://ostdb.net/games/7352) | Abzu | [Spotify](https://open.spotify.com/album/163rlW0yY6SUBETXD1tXFs) · [Apple Music](https://music.apple.com/us/album/abzu/1138476050) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/94/28/2c/94282c4c-a4f5-4cd0-9eb3-7a21d2af39e5/PA00134026_0_180021_jacket.jpg/600x600bb.jpg" width="60" /> | [Ace Combat 7: Skies Unknown](https://ostdb.net/games/14758) | ACE COMBAT 7: Skies Unknown (Original Soundtrack) | [Spotify](https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4) · [Album](https://album.link/i/1724893711) |
