@@ -415,6 +415,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8d9bdb33b7a4d6098a77446" width="60" /> | [Grand Theft Auto: San Andreas](https://ostdb.net/games/grand-theft-auto-san-andreas) | **Grand Theft Auto: San Andreas (Official Theme Song)** · [Spotify](https://open.spotify.com/album/20kEyCFY0DQz9VwbhxkKgZ) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/b8/92/43b8921e-3607-cf00-8bc3-80d9ed81087b/PA00033149_0_45330_jacket.jpg/600x600bb.jpg" width="60" /> | [Gravity Rush 2](https://ostdb.net/games/gravity-rush-2) | **Gravity Rush 2 (Original Soundtrack Japan Deluxe Edition)** · [Spotify](https://music.apple.com/us/album/gravity-rush-2-original-soundtrack-japan-deluxe-edition/1251233028?uo=4) · [Album](https://album.link/i/1251233028) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d8/f7/a7/d8f7a77a-0180-a5c8-6a7d-6a735598c4b3/194171678257.jpg/1000x1000bb.jpg" width="60" /> | [GreedFall](https://ostdb.net/games/greedfall) | **Greedfall (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/greedfall-original-soundtrack/1479031926?uo=4) · [Album](https://album.link/i/1479031926) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/85/01/61850180-6651-a1be-5ef4-f3141487c471/859731785904_cover.jpg/600x600bb.jpg" width="60" /> | [GreedFall: The Dying World](https://ostdb.net/games/greedfall-the-dying-world) | **GreedFall: The Dying World (Complete Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/greedfall-the-dying-world-complete-original-soundtrack/1878676297?uo=4) · [Album](https://album.link/i/1878676297) |
 
 ### 0-9
 
@@ -427,4 +428,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_542 soundtracks · last updated 2026-08-25T15:26:47.186Z_
+_543 soundtracks · last updated 2026-08-25T15:26:52.012Z_
