@@ -696,6 +696,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4](https://ostdb.net/games/persona-4) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Golden](https://ostdb.net/games/persona-4-golden) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys)<br>**ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93" width="60" /> | [Persona 4 Revival](https://ostdb.net/games/persona-4-revival) | **ペルソナ4 オリジナル・サウンドトラック** · [Spotify](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c8329930b500b5603a4482a2" width="60" /> | [Persona 5](https://ostdb.net/games/persona-5) | **PERSONA5 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) |
 
 ### 0-9
 
@@ -708,4 +709,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_901 soundtracks · last updated 2026-08-25T16:56:52.160Z_
+_902 soundtracks · last updated 2026-08-25T16:56:56.338Z_
