@@ -589,6 +589,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect Legendary Edition](https://ostdb.net/games/mass-effect-legendary-edition) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fd414d96c21bcdefd6bbd353" width="60" /> | [Mass Effect Trilogy](https://ostdb.net/games/mass-effect-trilogy) | **Mass Effect (EA Games Soundtrack)** · [Spotify](https://open.spotify.com/album/3BTF9q997KuKxN9JgOBn7g)<br>**Mass Effect 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KnSz1vjaGwl1KcfkTf6Nj)<br>**Mass Effect 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2QfSNNISIlORduwQniMz91) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6919d7a471d663ad15faca8" width="60" /> | [Mass Effect: Andromeda](https://ostdb.net/games/mass-effect-andromeda) | **Mass Effect Andromeda (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1B5vWuDmlBjH3DzFT5fsUB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a8de7e6cef29bb4b1de099d" width="60" /> | [Max Payne 3](https://ostdb.net/games/max-payne-3) | **Max Payne 3 Official Soundtrack** · [Spotify](https://open.spotify.com/album/5WWosyWLObT7BowuLqcnar) |
 
 ### 0-9
 
@@ -601,4 +602,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_760 soundtracks · last updated 2026-08-25T16:21:46.169Z_
+_761 soundtracks · last updated 2026-08-25T16:21:51.241Z_
