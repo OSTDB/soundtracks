@@ -243,6 +243,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e166ef05003c5ec724b87743" width="60" /> | [Death Stranding 2: On the Beach](https://ostdb.net/games/death-stranding-2-on-the-beach) | **Death Stranding 2: On The Beach (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/39MPSJCCB5njIfTEkm7W9Q) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7a/83/a3/7a83a3ba-e7a3-a1da-a7e2-ab3eecd12049/192914932864.jpg/600x600bb.jpg" width="60" /> | [Death's Gambit](https://ostdb.net/games/deaths-gambit) | **Death's Gambit (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/deaths-gambit-original-soundtrack/1438703795?uo=4) · [Album](https://album.link/i/1438703795) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a787dd6a6f354e1454f9dd87" width="60" /> | [Deathloop](https://ostdb.net/games/deathloop) | **Deathloop (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y)<br>**Deathloop: Down the Rabbit Hole (Original Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/7Hmpjfveg9xwH8t2eqSaxk)<br>**Deathloop: Déjà Vu (Goldenloop Remix) [Original Trailer Soundtrack]** · [Spotify](https://open.spotify.com/album/1IbtE2vUxAd0XHbcAVVOru)<br>**Deathloop: Déjà Vu (Original Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/5VDJ4bl5nB9mh15wVAFEsp)<br>**Deathloop: Pitch Black (Original Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/45MXckqRFUX9fjI1LTgZoF) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/16/ca/a916ca76-760d-d888-012b-3155ae65132b/196872929355.jpg/600x600bb.jpg" width="60" /> | [Deliver At All Costs](https://ostdb.net/games/deliver-at-all-costs) | **Deliver At All Costs (Original Game Soundtrack) [feat. Solid Sounds]** · [Spotify](https://music.apple.com/us/album/deliver-at-all-costs-original-game-soundtrack-feat/1815771261?uo=4) · [Album](https://album.link/i/1815771261) |
 
 ### 0-9
 
@@ -255,4 +256,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_305 soundtracks · last updated 2026-08-25T14:26:06.338Z_
+_306 soundtracks · last updated 2026-08-25T14:26:09.804Z_
