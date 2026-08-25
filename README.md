@@ -861,6 +861,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2738edceca8f6fb5cded952db23" width="60" /> | [Star Wars: Shadows of the Empire](https://ostdb.net/games/star-wars-shadows-of-the-empire) | **Star Wars: Shadows Of The Empire (Original Score)** · [Spotify](https://open.spotify.com/album/0ag5Ezx8zOp5CaHX7LZHqf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecfbe57592649dfad8c709b0" width="60" /> | [StarCraft](https://ostdb.net/games/starcraft) | **StarCraft Original Soundtrack** · [Spotify](https://open.spotify.com/album/2xbVEaxFjTkMDUuk3fSt0d) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d4981efc0730721fff0f84dc" width="60" /> | [StarCraft II: Heart of the Swarm](https://ostdb.net/games/starcraft-ii-heart-of-the-swarm) | **StarCraft II: Heart of the Swarm Original Soundtrack** · [Spotify](https://open.spotify.com/album/3AZXVTPrwQM2ELT44qedxp) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f9/74/5bf97421-2030-345a-6316-46bd4c279d71/047875729766_cover.jpg/600x600bb.jpg" width="60" /> | [StarCraft II: Legacy of the Void](https://ostdb.net/games/starcraft-ii-legacy-of-the-void) | **StarCraft 2: Legacy of the Void Soundtrack** · [Spotify](https://music.apple.com/us/album/starcraft-2-legacy-of-the-void-soundtrack/1810417351?uo=4) · [Album](https://album.link/i/1810417351) |
 
 ### 0-9
 
@@ -873,4 +874,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1110 soundtracks · last updated 2026-08-25T17:51:03.576Z_
+_1111 soundtracks · last updated 2026-08-25T17:51:08.055Z_
