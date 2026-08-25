@@ -336,6 +336,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273cbb9c2629f26e816fa37ba4b" width="60" /> | [Far Cry 2](https://ostdb.net/games/far-cry-2) | **Far Cry 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/697brlI2HQip1Obx1WyrFu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f42f5fa47050322fa6d1eb9e" width="60" /> | [Far Cry 3](https://ostdb.net/games/far-cry-3) | **Far Cry 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cda9492983b4a34045b706ed" width="60" /> | [Far Cry 3: Blood Dragon](https://ostdb.net/games/far-cry-3-blood-dragon) | **Far Cry 3: Blood Dragon (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/231L8hGyehsAzmrPrd785m) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df65debb89f88135fc0f84e9" width="60" /> | [Far Cry 4](https://ostdb.net/games/far-cry-4) | **Far Cry 4 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2QNXFirE3DfqroVD1xzfeZ) |
 
 ### 0-9
 
@@ -348,4 +349,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_423 soundtracks · last updated 2026-08-25T14:55:55.983Z_
+_424 soundtracks · last updated 2026-08-25T14:56:00.091Z_
