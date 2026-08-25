@@ -294,6 +294,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2739271d8cfc4dc7d9aab7a3cb4" width="60" /> | [Dungeon Keeper](https://ostdb.net/games/dungeon-keeper) | **Dungeons & Dragons - Official Roleplaying Soundtrack** · [Spotify](https://open.spotify.com/album/4vlLjXLtpTqL3516bAWNHx) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/8a/2a/dc8a2a42-cbb0-a7f5-0982-32b261574780/3663729331892_cover.jpg/600x600bb.jpg" width="60" /> | [Dustborn](https://ostdb.net/games/dustborn) | **Dustborn (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dustborn-original-game-soundtrack/1763069973?uo=4) · [Album](https://album.link/i/1763069973)<br>**Good Ways to Cry (From Dustborn) - Single** · [Spotify](https://music.apple.com/us/album/good-ways-to-cry-from-dustborn-single/1762847076?uo=4) · [Album](https://album.link/i/1762847076) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/52/3c/0f523c1e-fa4b-853b-5023-557c9e1522c7/artwork.jpg/600x600bb.jpg" width="60" /> | [Dwarf Fortress](https://ostdb.net/games/dwarf-fortress) | **Dwarf Fortress (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dwarf-fortress-original-game-soundtrack/1656317303?uo=4) · [Album](https://album.link/i/1656317303) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b115f5280b63bbbbd8c6f290" width="60" /> | [Dying Light](https://ostdb.net/games/dying-light) | **Dying Light (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4o6yHpn2AY3E00wpeP9drI) |
 
 ### 0-9
 
@@ -306,4 +307,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_375 soundtracks · last updated 2026-08-25T14:41:52.140Z_
+_376 soundtracks · last updated 2026-08-25T14:41:56.865Z_
