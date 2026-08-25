@@ -39,6 +39,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 | <img src="https://i.scdn.co/image/ab67616d0000b273a38422c6c8a8943a8c903f5f" width="60" /> | [Age of Empires II: The Age of Kings](https://ostdb.net/games/327) | Age of Empires II Definitive Edition, Vol. 1 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/59UJfUpjv8Io4viRUYHlmQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe678571545d5d7e0c662f32" width="60" /> | [Age of Empires II: The Age of Kings](https://ostdb.net/games/327) | Age of Empires II Definitive Edition, Vol. 2 (Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/0rfBys0r43S965yGUo7grO) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363a972b3ee2fc1e25d61fef4" width="60" /> | [Age of Empires III](https://ostdb.net/games/299) | Age of Empires III (Definitive Edition) | [Spotify](https://open.spotify.com/album/1Hxlk2iuzHt5rgbQMQm5V5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273332c82b8b845a28e03c90e26" width="60" /> | [Age of Empires IV](https://ostdb.net/games/55029) | Age Of Empires IV (Extended Original Game Soundtrack) | [Spotify](https://open.spotify.com/album/1DGQDLGxnsFOP8UYxyyN6g) |
 
 ### 0-9
 
@@ -55,4 +56,4 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 ---
 
-_29 soundtracks · last updated 2026-08-25T06:44:41.816Z_
+_30 soundtracks · last updated 2026-08-25T06:44:44.210Z_
