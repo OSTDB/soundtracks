@@ -961,7 +961,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b27390be048c91915f41181fc262" width="60" /> | [The Walking Dead](https://ostdb.net/games/the-walking-dead) | **The Walking Dead: The Telltale Series Soundtrack (Season 1, Pt. 1)** · [Spotify](https://open.spotify.com/album/1y7gG7YkBPThMQnchbWQaU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305d2c6b824cbf0babfd19bcc" width="60" /> | [The Witcher](https://ostdb.net/games/the-witcher) | **The Witcher (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19uGvOnAhqEQ7irwCEce99) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364acfad0756b025aa0ff497e" width="60" /> | [The Witcher 2: Assassins of Kings](https://ostdb.net/games/the-witcher-2-assassins-of-kings) | **The Witcher 2: Assassins Of Kings (Enhanced Edition) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/0dAhuTx13ciZIXgan98X7Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273df756f52b91b4dcd656760b0" width="60" /> | [The Witcher 3: Wild Hunt](https://ostdb.net/games/the-witcher-3-wild-hunt) | **The Witcher 3: Wild Hunt (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn)<br>**The Witcher 3: Wild Hunt (Original Game Soundtrack) [Live at Video Game Show 2016]** · [Spotify](https://open.spotify.com/album/3px0Na2SdyLPs2IgNpKOeh)<br>**The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1C1wp0FcQRAU74VfkDWwSV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273df756f52b91b4dcd656760b0" width="60" /> | [The Witcher 3: Wild Hunt](https://ostdb.net/games/the-witcher-3-wild-hunt) | **The Witcher 3: Wild Hunt (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn)<br>**The Witcher 3: Wild Hunt (Original Game Soundtrack) [Live at Video Game Show 2016]** · [Spotify](https://open.spotify.com/album/3px0Na2SdyLPs2IgNpKOeh)<br>**The Witcher 3: Wild Hunt - Blood and Wine (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/1C1wp0FcQRAU74VfkDWwSV)<br>**The Witcher 3: Wild Hunt - Hearts Of Stone (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/00EiQjifmFTLcEazkCM7Rl) |
 
 ### 0-9
 
@@ -974,4 +974,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1256 soundtracks · last updated 2026-08-25T18:26:33.212Z_
+_1257 soundtracks · last updated 2026-08-25T18:26:37.443Z_
