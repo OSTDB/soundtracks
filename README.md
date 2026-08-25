@@ -595,6 +595,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273eeaeaa132fe28447b6f26a12" width="60" /> | [Medal of Honor: Allied Assault](https://ostdb.net/games/medal-of-honor-allied-assault) | **Medal of Honor: Allied Assault (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3m7cunqxVwbQJxEvljkmEj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398ae3ea546054361c083b9bd" width="60" /> | [Mega Man 2](https://ostdb.net/games/mega-man-2) | **Mega Man 2 Sound Collection** · [Spotify](https://open.spotify.com/album/0D1qEM8x4CuxftLHLKfv9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731463d90516bacb6598778122" width="60" /> | [Metal Eden](https://ostdb.net/games/metal-eden) | **METAL EDEN (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/76bzrTXm7ieV6RN1M94JxW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27340d91097c1ed99b03d503754" width="60" /> | [Metal Gear Rising: Revengeance](https://ostdb.net/games/metal-gear-rising-revengeance) | **METAL GEAR RISING REVENGEANCE Vocal Tracks Selection** · [Spotify](https://open.spotify.com/album/3psg6BK9jwflF2zZCXiJ5d) |
 
 ### 0-9
 
@@ -607,4 +608,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_767 soundtracks · last updated 2026-08-25T16:25:49.120Z_
+_768 soundtracks · last updated 2026-08-25T16:25:54.259Z_
