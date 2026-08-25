@@ -451,6 +451,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b273e29150a6bdc5a9241a180219" width="60" /> | [Heartopia](https://ostdb.net/games/heartopia) | **Heartopia:Star 118 (Heartopia Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7lqzi0j78MezodzpYAfw30) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/8c/0a/f08c0a0a-b401-ae6f-412f-27c3360cf32d/artwork.jpg/600x600bb.jpg" width="60" /> | [Hell Pie](https://ostdb.net/games/hell-pie) | **Hell Pie (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/hell-pie-original-game-soundtrack/1644145297?uo=4) · [Album](https://album.link/i/1644145297) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273109276efaf4107fc52623001" width="60" /> | [Hell is Us](https://ostdb.net/games/hell-is-us) | **Hell Is Us Soundtrack (TERROR)** · [Spotify](https://open.spotify.com/album/2jM8YeVH5XY7oJAAkahZxL)<br>**Hell is Us Soundtrack (ECSTASY)** · [Spotify](https://open.spotify.com/album/5ScvLJtXr8qPffLfd3IACu)<br>**Hell is Us Soundtrack (GRIEF)** · [Spotify](https://open.spotify.com/album/7daa7YwdYHAKrs383WoIvl)<br>**Hell is Us Soundtrack (RAGE)** · [Spotify](https://open.spotify.com/album/1vR5FmCUxR7Dng3nQRZcF9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b60998bfc1c339ff2b03ee43" width="60" /> | [Hellblade: Senua's Sacrifice](https://ostdb.net/games/hellblade-senuas-sacrifice) | **Hellblade: Senua's Sacrifice (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ihHcMdKtZ3qY5eRXYxcl8) |
 
 ### 0-9
 
@@ -463,4 +464,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_592 soundtracks · last updated 2026-08-25T15:41:04.921Z_
+_593 soundtracks · last updated 2026-08-25T15:41:11.192Z_
