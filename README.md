@@ -1036,6 +1036,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/fc/b5/07fcb548-8900-ebdc-a7a2-dc9a652080e3/5053760098966.png/600x600bb.jpg" width="60" /> | [Warhammer 40,000: Darktide](https://ostdb.net/games/warhammer-40-000-darktide) | **Warhammer 40,000: Darktide (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-original-soundtrack/1745118506?uo=4) · [Album](https://album.link/i/1745118506)<br>**Warhammer 40,000: Darktide Vol. 2 (Original Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-vol-2-original-soundtrack-ep/1745068273?uo=4) · [Album](https://album.link/i/1745068273)<br>**Warhammer 40,000: Darktide Vol. 3 (Original Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-vol-3-original-soundtrack-ep/1754977418?uo=4) · [Album](https://album.link/i/1754977418)<br>**Warhammer 40,000: Darktide Vol. 4 (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-darktide-vol-4-original-soundtrack/1830302185?uo=4) · [Album](https://album.link/i/1830302185) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27357eb99a098a1ebe5588c5976" width="60" /> | [Warhammer 40,000: Dawn of War II](https://ostdb.net/games/warhammer-40-000-dawn-of-war-ii) | **Warhammer 40,000: Dawn of War II (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2pm6nSenoNA7Bi5G2bHF3J) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391bbdd3d3483c289ec8c7190" width="60" /> | [Warhammer 40,000: Dawn of War II - Retribution](https://ostdb.net/games/warhammer-40-000-dawn-of-war-ii-retribution) | **Warhammer 40,000: Dawn of War III (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1mlLZQVgtC3SHYnLKHjaH1) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/4d/e6/fb4de665-2fe9-d1f9-eeaf-59011aab5ef0/5053760057826.png/600x600bb.jpg" width="60" /> | [Warhammer 40,000: Dawn of War III](https://ostdb.net/games/warhammer-40-000-dawn-of-war-iii) | **Warhammer 40,000: Dawn of War III (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/warhammer-40-000-dawn-of-war-iii-original-soundtrack/1745067632?uo=4) · [Album](https://album.link/i/1745067632) |
 
 ### 0-9
 
@@ -1048,4 +1049,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1349 soundtracks · last updated 2026-08-25T18:50:57.413Z_
+_1350 soundtracks · last updated 2026-08-25T18:51:01.385Z_
