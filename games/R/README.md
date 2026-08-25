@@ -1,0 +1,7 @@
+# R
+
+[← Back to index](../../README.md)
+
+| Cover | Game | Albums |
+|---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273c0e041aa5ff478f43b545ddd" width="60" /> | [Ragnarok Online](https://ostdb.net/games/ragnarok-online) | **Ragnarok Online BGM Part.3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/13FXPTxheHW69aTmmIKcXR) |
