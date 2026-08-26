@@ -76,7 +76,7 @@ jobs:
           fi
 
           HTTP_CODE=$(curl -s -o /tmp/ingest-result.json -w "%{http_code}" -X POST \
-            "https://sync.ostdb.net/ingest" \
+            "https://ostdb-soundtracks-sync.metjum.workers.dev/ingest" \
             -H "Content-Type: application/json" \
             -H "X-Admin-Secret: $ADMIN_SECRET" \
             -d "$PAYLOAD")
