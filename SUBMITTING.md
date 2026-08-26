@@ -45,3 +45,23 @@ You don't need to look up or set any internal ID to add another soundtrack, or t
 - **Same `igdb_id` and `album_name` matching an existing approved soundtrack** → treated as a correction to that entry (its links get updated instead of creating a duplicate).
 
 This matches how it works on the website: pick a game, and you either add a new soundtrack or edit one that's already there.
+
+### How to actually do this via PR
+
+You always create a **new** JSON file in `submissions/` for this — never edit an already-merged submission file, since those get deleted by the bot right after they're processed.
+
+**To add another soundtrack (e.g. a second volume, or a DLC OST) to a game already on ostdb.net:**
+
+1. Same as a fresh submission: copy `submissions/TEMPLATE.json`, name the new file `submissions/<igdb_id>-<name>-vol2.json` (or similar — the filename itself doesn't matter, only the fields inside do).
+2. Use the **same `igdb_id`** as the existing game.
+3. Use a **different `album_name`** than any existing soundtrack for that game (e.g. `"Crimson Desert (Original Soundtrack Volume 2)"` instead of `"...Volume 1"`).
+4. Fill in `spotify_url` / `apple_music_url` / `album_link_url` and `album_cover_url` for this new album — its own cover, not the game's.
+5. Open the PR as usual.
+
+**To correct an existing soundtrack's links, name, or cover:**
+
+1. Same as above — new file in `submissions/`, same `igdb_id`.
+2. Use the **exact same `album_name`** (character-for-character) as the entry you're correcting — check the game's page on ostdb.net if you're not sure of the exact wording.
+3. Fill in the corrected fields. This gets treated as an edit request, not a duplicate — the admin will see it as an update to the existing entry, not a new one.
+
+In both cases the game's own cover art is **not** part of this file — it's fetched automatically from IGDB using `igdb_id`. `album_cover_url` here is only the cover of the soundtrack/album itself.
