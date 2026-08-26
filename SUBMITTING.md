@@ -23,7 +23,6 @@ Once your pull request is merged, the file is picked up automatically and added 
 | `spotify_url` | at least one of these three | Spotify album URL |
 | `apple_music_url` | at least one of these three | Apple Music album URL |
 | `album_link_url` | at least one of these three | [album.link](https://album.link) URL |
-| `cover_url` | no | Game cover art URL |
 | `album_cover_url` | yes | Album cover art URL |
 
 Leave a field as `""` (empty string) if it doesn't apply — don't delete it from the file.
