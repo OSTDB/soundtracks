@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "submissions/**.json"
+      - "missing/**.json"
 
 permissions:
   contents: write
@@ -30,7 +31,7 @@ jobs:
             BASE=$(git hash-object -t tree /dev/null)
           fi
 
-          FILES=$(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'submissions/*.json' | grep -v 'TEMPLATE.json' || true)
+          FILES=$(git diff --name-only --diff-filter=AM "$BASE" HEAD -- 'submissions/*.json' 'missing/*.json' | grep -v 'TEMPLATE.json' || true)
 
           MAX_FILES=20
           COUNT=$(echo "$FILES" | grep -c . || true)
