@@ -4,7 +4,9 @@ You can submit a soundtrack link — or correct an existing one — by opening a
 
 ## Step by step (browser only)
 
-1. Open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) in this repo.
+0. Check the [`missing/`](missing/) folder first — it may already have a file named `missing/<igdb_id>-<name>.json` for your game, with the IGDB ID and name pre-filled in. If so, edit that file directly (same pencil-icon flow as below) instead of starting from the template — you can skip straight to filling in the links.
+
+1. If there's no file for your game in `missing/`, open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) in this repo.
 2. Click the **pencil (✎) icon** in the top right of the file view to edit a copy of it.
 3. GitHub will ask you to name the new file — change the filename at the top from `submissions/TEMPLATE.json` to something like `submissions/1234-example-game.json` (use the game's IGDB ID and a short name).
 4. Replace the example values with your game's info (see **Fields** below). Delete the `_readme` line — it's just a note, not a real field.
