@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
+| Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Club | 276929 | [276929-rumble-club.json](./276929-rumble-club.json) |
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
+| Run and Jump | 86644 | [86644-run-and-jump.json](./86644-run-and-jump.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
