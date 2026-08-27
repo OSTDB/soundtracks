@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
+| Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
