@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
+| JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
