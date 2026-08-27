@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
+| Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
@@ -91,6 +92,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
+| Pleasure Puzzle | 110112 | [110112-pleasure-puzzle.json](./110112-pleasure-puzzle.json) |
+| Pleasure Puzzle:Workshop | 109644 | [109644-pleasure-puzzle-workshop.json](./109644-pleasure-puzzle-workshop.json) |
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
