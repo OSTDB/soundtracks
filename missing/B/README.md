@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
+| Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
+| Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
 | Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
