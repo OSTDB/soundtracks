@@ -33,9 +33,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
 | Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
+| Immune | 35785 | [35785-immune.json](./35785-immune.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
+| In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
