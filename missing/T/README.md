@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
+| Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
+| The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
@@ -70,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
+| The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
@@ -94,9 +97,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
+| The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
 | The Legend of Heroes: Trails from Zero | 23322 | [23322-the-legend-of-heroes-trails-from-zero.json](./23322-the-legend-of-heroes-trails-from-zero.json) |
 | The Legend of Heroes: Trails of Cold Steel III | 26564 | [26564-the-legend-of-heroes-trails-of-cold-steel-iii.json](./26564-the-legend-of-heroes-trails-of-cold-steel-iii.json) |
+| The Legend of Heroes: Trails Through Daybreak II | 185864 | [185864-the-legend-of-heroes-trails-through-daybreak-ii.json](./185864-the-legend-of-heroes-trails-through-daybreak-ii.json) |
 | The Legend of Kage | 4593 | [4593-the-legend-of-kage.json](./4593-the-legend-of-kage.json) |
 | The Legend of the Mystical Ninja | 28386 | [28386-the-legend-of-the-mystical-ninja.json](./28386-the-legend-of-the-mystical-ninja.json) |
 | The Legend of Zelda: Breath of the Wild - Expansion Pass | 41829 | [41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json](./41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json) |
@@ -139,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
+| The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
@@ -181,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Phantoms | 1304 | [1304-tom-clancys-ghost-recon-phantoms.json](./1304-tom-clancys-ghost-recon-phantoms.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 1297 | [1297-tom-clancys-ghost-recon-jungle-storm.json](./1297-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
+| Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
@@ -206,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
+| Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
