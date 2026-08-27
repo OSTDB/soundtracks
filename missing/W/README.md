@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels of Aurelia | 24463 | [24463-wheels-of-aurelia.json](./24463-wheels-of-aurelia.json) |
 | When the Darkness comes | 114420 | [114420-when-the-darkness-comes.json](./114420-when-the-darkness-comes.json) |
 | When They Arrived | 102324 | [102324-when-they-arrived.json](./102324-when-they-arrived.json) |
+| Where are my Internets? | 31491 | [31491-where-are-my-internets.json](./31491-where-are-my-internets.json) |
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
