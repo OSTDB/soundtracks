@@ -13,12 +13,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
+| Jay and Silent Bob: Mall Brawl | 124310 | [124310-jay-and-silent-bob-mall-brawl.json](./124310-jay-and-silent-bob-mall-brawl.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
+| Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
