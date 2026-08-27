@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
+| Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
@@ -19,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Gold Edition | 29164 | [29164-call-of-duty-black-ops-iii-gold-edition.json](./29164-call-of-duty-black-ops-iii-gold-edition.json) |
 | Call of Duty: Black Ops III - Salvation | 23727 | [23727-call-of-duty-black-ops-iii-salvation.json](./23727-call-of-duty-black-ops-iii-salvation.json) |
 | Call of Duty: Finest Hour | 3761 | [3761-call-of-duty-finest-hour.json](./3761-call-of-duty-finest-hour.json) |
+| Call of Duty: Infinite Warfare - Retribution | 57700 | [57700-call-of-duty-infinite-warfare-retribution.json](./57700-call-of-duty-infinite-warfare-retribution.json) |
 | Call of Duty: Modern Warfare Remastered | 24920 | [24920-call-of-duty-modern-warfare-remastered.json](./24920-call-of-duty-modern-warfare-remastered.json) |
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
@@ -70,10 +72,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
+| Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
+| Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
@@ -132,8 +136,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
+| Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
+| Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
@@ -142,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
+| Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
 | Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
@@ -149,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
+| Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
