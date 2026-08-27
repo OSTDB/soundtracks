@@ -41,6 +41,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
+| Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
+| Photographs | 80878 | [80878-photographs.json](./80878-photographs.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
@@ -74,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
+| Power Rangers: Legacy Wars | 74865 | [74865-power-rangers-legacy-wars.json](./74865-power-rangers-legacy-wars.json) |
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
 | Power Stone | 4355 | [4355-power-stone.json](./4355-power-stone.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
@@ -84,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
 | Princess Connect! Re:Dive | 22791 | [22791-princess-connect-re-dive.json](./22791-princess-connect-re-dive.json) |
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
+| Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
@@ -98,4 +102,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
+| Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
