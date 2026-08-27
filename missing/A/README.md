@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
+| Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
+| Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
 | Assassin's Creed Brotherhood: Deluxe Edition | 24743 | [24743-assassins-creed-brotherhood-deluxe-edition.json](./24743-assassins-creed-brotherhood-deluxe-edition.json) |
