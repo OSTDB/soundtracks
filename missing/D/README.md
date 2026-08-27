@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
+| Despair | 26646 | [26646-despair.json](./26646-despair.json) |
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
+| Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
@@ -92,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
+| Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
