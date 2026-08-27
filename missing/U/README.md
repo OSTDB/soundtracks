@@ -20,6 +20,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
+| Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
+| Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
