@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | S.p.l.i.t | 342566 | [342566-s-p-l-i-t.json](./342566-s-p-l-i-t.json) |
+| Saban's Mighty Morphin Power Rangers: Mega Battle | 27879 | [27879-sabans-mighty-morphin-power-rangers-mega-battle.json](./27879-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Sabre Wulf | 23057 | [23057-sabre-wulf.json](./23057-sabre-wulf.json) |
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
+| Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
@@ -111,12 +113,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 5178 | [5178-spider-man-3.json](./5178-spider-man-3.json) |
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
+| Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
+| SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
@@ -155,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Savvy | 85398 | [85398-style-savvy.json](./85398-style-savvy.json) |
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
+| Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
@@ -167,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
+| Super Hydlide | 27987 | [27987-super-hydlide.json](./27987-super-hydlide.json) |
 | Super Hydorah | 26975 | [26975-super-hydorah.json](./26975-super-hydorah.json) |
 | Super Mario 64 | 229245 | [229245-super-mario-64.json](./229245-super-mario-64.json) |
 | Super Mario Advance | 81197 | [81197-super-mario-advance.json](./81197-super-mario-advance.json) |
@@ -179,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
 | Super Paper Mario | 2191 | [2191-super-paper-mario.json](./2191-super-paper-mario.json) |
+| Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
@@ -187,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
+| Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
