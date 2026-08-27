@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
+| Fate: The Cursed King | 15472 | [15472-fate-the-cursed-king.json](./15472-fate-the-cursed-king.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
+| Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
@@ -87,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
 | Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
 | Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
@@ -113,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
+| Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
