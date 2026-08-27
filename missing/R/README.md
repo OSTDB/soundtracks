@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
+| Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
