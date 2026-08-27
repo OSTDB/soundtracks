@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
+| Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
 | Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | Bitku | 34453 | [34453-bitku.json](./34453-bitku.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
+| BitRay | 33025 | [33025-bitray.json](./33025-bitray.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
+| Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
 | Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
 | BlazBlue: Calamity Trigger | 6441 | [6441-blazblue-calamity-trigger.json](./6441-blazblue-calamity-trigger.json) |
@@ -144,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
+| BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
 | Bloodstained: Curse of the Moon 2 | 135337 | [135337-bloodstained-curse-of-the-moon-2.json](./135337-bloodstained-curse-of-the-moon-2.json) |
