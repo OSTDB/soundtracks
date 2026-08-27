@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
+| Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
+| Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | University Tycoon: 2019 | 102294 | [102294-university-tycoon-2019.json](./102294-university-tycoon-2019.json) |
