@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
 | Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
+| Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
+| Color by Number - Poly Art | 96084 | [96084-color-by-number-poly-art.json](./96084-color-by-number-poly-art.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
+| Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
