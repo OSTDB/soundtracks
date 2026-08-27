@@ -41,16 +41,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
+| Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
+| Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
+| God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
