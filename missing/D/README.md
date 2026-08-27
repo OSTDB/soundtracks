@@ -15,14 +15,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
 | Dark Age of Camelot | 657 | [657-dark-age-of-camelot.json](./657-dark-age-of-camelot.json) |
+| Dark Age of Camelot: Trials of Atlantis | 23744 | [23744-dark-age-of-camelot-trials-of-atlantis.json](./23744-dark-age-of-camelot-trials-of-atlantis.json) |
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
+| Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
+| De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
@@ -44,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
+| Default Dan | 24032 | [24032-default-dan.json](./24032-default-dan.json) |
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
@@ -94,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 3: Absence of Justice | 7297 | [7297-disgaea-3-absence-of-justice.json](./7297-disgaea-3-absence-of-justice.json) |
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
+| Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
 | Disney Illusion Island | 216278 | [216278-disney-illusion-island.json](./216278-disney-illusion-island.json) |
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
 | Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
@@ -116,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
+| Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
@@ -134,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II | 313164 | [313164-doom-ii.json](./313164-doom-ii.json) |
 | Doom VFR | 37031 | [37031-doom-vfr.json](./37031-doom-vfr.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
+| Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
@@ -143,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
+| Draft Day Sports Pro Basketball 4 | 17947 | [17947-draft-day-sports-pro-basketball-4.json](./17947-draft-day-sports-pro-basketball-4.json) |
 | Dragon Age II: Legacy | 21664 | [21664-dragon-age-ii-legacy.json](./21664-dragon-age-ii-legacy.json) |
 | Dragon Age II: Mark of the Assassin | 22552 | [22552-dragon-age-ii-mark-of-the-assassin.json](./22552-dragon-age-ii-mark-of-the-assassin.json) |
 | Dragon Age: Origins - Darkspawn Chronicles | 22963 | [22963-dragon-age-origins-darkspawn-chronicles.json](./22963-dragon-age-origins-darkspawn-chronicles.json) |
@@ -171,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
+| Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
@@ -178,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
+| Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
