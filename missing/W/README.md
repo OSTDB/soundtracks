@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
 | Wild Arms 5 | 1682 | [1682-wild-arms-5.json](./1682-wild-arms-5.json) |
+| Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
@@ -94,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
 | World End Syndrome | 74946 | [74946-world-end-syndrome.json](./74946-world-end-syndrome.json) |
+| World Inside Out | 89426 | [89426-world-inside-out.json](./89426-world-inside-out.json) |
 | World of Demons | 96500 | [96500-world-of-demons.json](./96500-world-of-demons.json) |
 | World of Outlaws: Sprint Cars | 7487 | [7487-world-of-outlaws-sprint-cars.json](./7487-world-of-outlaws-sprint-cars.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
