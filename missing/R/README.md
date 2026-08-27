@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Up Your Arsenal | 1773 | [1773-ratchet-and-clank-up-your-arsenal.json](./1773-ratchet-and-clank-up-your-arsenal.json) |
 | Ratchet: Deadlocked | 254579 | [254579-ratchet-deadlocked.json](./254579-ratchet-deadlocked.json) |
 | Ratopia | 236479 | [236479-ratopia.json](./236479-ratopia.json) |
+| Rave Master | 4082 | [4082-rave-master.json](./4082-rave-master.json) |
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
