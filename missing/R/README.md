@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
+| Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
