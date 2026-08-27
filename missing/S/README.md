@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | S.p.l.i.t | 342566 | [342566-s-p-l-i-t.json](./342566-s-p-l-i-t.json) |
+| S.W.I.N.E. HD Remaster | 114758 | [114758-s-w-i-n-e-hd-remaster.json](./114758-s-w-i-n-e-hd-remaster.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 27879 | [27879-sabans-mighty-morphin-power-rangers-mega-battle.json](./27879-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Sabre Wulf | 23057 | [23057-sabre-wulf.json](./23057-sabre-wulf.json) |
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
@@ -32,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
+| Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter II | 992 | [992-silent-hunter-ii.json](./992-silent-hunter-ii.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
+| Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
@@ -81,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
+| Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Yoda Stories | 155 | [155-star-wars-yoda-stories.json](./155-star-wars-yoda-stories.json) |
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
+| Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
 | Starship Troopers: Extermination | 228175 | [228175-starship-troopers-extermination.json](./228175-starship-troopers-extermination.json) |
 | Starship Troopers: Ultimate Bug War! | 380415 | [380415-starship-troopers-ultimate-bug-war.json](./380415-starship-troopers-ultimate-bug-war.json) |
@@ -212,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
+| Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
