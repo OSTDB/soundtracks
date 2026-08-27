@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
+| Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
@@ -178,7 +179,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
 | Time Crisis II | 13893 | [13893-time-crisis-ii.json](./13893-time-crisis-ii.json) |
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
+| Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
+| Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
@@ -189,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
+| Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
 | Tom & Jerry | 8026 | [8026-tom-and-jerry.json](./8026-tom-and-jerry.json) |
 | Tom and Jerry in Fists of Furry | 2714 | [2714-tom-and-jerry-in-fists-of-furry.json](./2714-tom-and-jerry-in-fists-of-furry.json) |
