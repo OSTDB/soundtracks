@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye: Source | 51239 | [51239-goldeneye-source.json](./51239-goldeneye-source.json) |
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
+| Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
 | Governor of Poker 2: Premium Edition | 30146 | [30146-governor-of-poker-2-premium-edition.json](./30146-governor-of-poker-2-premium-edition.json) |
+| Gradius Collection | 18192 | [18192-gradius-collection.json](./18192-gradius-collection.json) |
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
@@ -94,5 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
+| Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
+| Gynophobia | 18592 | [18592-gynophobia.json](./18592-gynophobia.json) |
 | Gyromancer | 10385 | [10385-gyromancer.json](./10385-gyromancer.json) |
