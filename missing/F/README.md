@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate: The Cursed King | 15472 | [15472-fate-the-cursed-king.json](./15472-fate-the-cursed-king.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
+| Fatehaven | 31422 | [31422-fatehaven.json](./31422-fatehaven.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | Football Manager Mobile 2018 | 76927 | [76927-football-manager-mobile-2018.json](./76927-football-manager-mobile-2018.json) |
 | Football Star - Super Striker | 101660 | [101660-football-star-super-striker.json](./101660-football-star-super-striker.json) |
+| Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
