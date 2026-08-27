@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
+| Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
+| Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
@@ -47,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
+| Heroes of Hellas Origins: Part One | 123917 | [123917-heroes-of-hellas-origins-part-one.json](./123917-heroes-of-hellas-origins-part-one.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
@@ -59,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
+| Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
