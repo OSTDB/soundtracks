@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
+| Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
+| Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
 | Michael Jordan: Chaos in the Windy City | 42490 | [42490-michael-jordan-chaos-in-the-windy-city.json](./42490-michael-jordan-chaos-in-the-windy-city.json) |
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
@@ -88,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
 | Might and Magic V: Darkside of Xeen | 7737 | [7737-might-and-magic-v-darkside-of-xeen.json](./7737-might-and-magic-v-darkside-of-xeen.json) |
+| Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
@@ -109,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
+| Mortal Kombat & Mortal Kombat II | 81899 | [81899-mortal-kombat-and-mortal-kombat-ii.json](./81899-mortal-kombat-and-mortal-kombat-ii.json) |
 | Mortal Kombat 3 | 242253 | [242253-mortal-kombat-3.json](./242253-mortal-kombat-3.json) |
 | Mortal Kombat: Armageddon | 1616 | [1616-mortal-kombat-armageddon.json](./1616-mortal-kombat-armageddon.json) |
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
@@ -126,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
+| My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
