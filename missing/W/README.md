@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
+| Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
+| World Ship Simulator | 34401 | [34401-world-ship-simulator.json](./34401-world-ship-simulator.json) |
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
