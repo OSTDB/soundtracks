@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
+| Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
+| Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
@@ -104,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic R | 19091 | [19091-sonic-r.json](./19091-sonic-r.json) |
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
+| Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
@@ -116,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
+| Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
