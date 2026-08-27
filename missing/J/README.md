@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
+| Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
