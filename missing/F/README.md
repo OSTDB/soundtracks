@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
+| Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
