@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
+| Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Banished | 2002 | [2002-banished.json](./2002-banished.json) |
 | Banjo-Kazooie | 201644 | [201644-banjo-kazooie.json](./201644-banjo-kazooie.json) |
@@ -38,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
+| Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
