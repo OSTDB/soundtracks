@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
+| What the Bat? | 204348 | [204348-what-the-bat.json](./204348-what-the-bat.json) |
 | Wheels of Aurelia | 24463 | [24463-wheels-of-aurelia.json](./24463-wheels-of-aurelia.json) |
 | When the Darkness comes | 114420 | [114420-when-the-darkness-comes.json](./114420-when-the-darkness-comes.json) |
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
@@ -54,6 +55,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
+| Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
+| Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
