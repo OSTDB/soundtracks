@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
+| Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
 | Banished | 2002 | [2002-banished.json](./2002-banished.json) |
 | Banjo-Kazooie | 201644 | [201644-banjo-kazooie.json](./201644-banjo-kazooie.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
+| Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
@@ -79,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Minerva's Den Remastered | 78451 | [78451-bioshock-2-minervas-den-remastered.json](./78451-bioshock-2-minervas-den-remastered.json) |
 | BioShock Infinite: Burial at Sea | 127036 | [127036-bioshock-infinite-burial-at-sea.json](./127036-bioshock-infinite-burial-at-sea.json) |
 | BioShock Remastered | 34293 | [34293-bioshock-remastered.json](./34293-bioshock-remastered.json) |
+| Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
 | Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
