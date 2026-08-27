@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Q-YO Blaster | 81901 | [81901-q-yo-blaster.json](./81901-q-yo-blaster.json) |
 | Q*bert | 1980 | [1980-q-bert.json](./1980-q-bert.json) |
+| Qrth-Phyl | 63053 | [63053-qrth-phyl.json](./63053-qrth-phyl.json) |
 | Quake III: Team Arena | 6634 | [6634-quake-iii-team-arena.json](./6634-quake-iii-team-arena.json) |
 | Qubed | 7150 | [7150-qubed.json](./7150-qubed.json) |
 | Queen At Arms | 24617 | [24617-queen-at-arms.json](./24617-queen-at-arms.json) |
