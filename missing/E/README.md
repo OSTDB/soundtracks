@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
+| EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Tigre: The Adventures of Manny Rivera | 7995 | [7995-el-tigre-the-adventures-of-manny-rivera.json](./7995-el-tigre-the-adventures-of-manny-rivera.json) |
@@ -81,6 +82,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
+| Extreme ATV Trials | 87648 | [87648-extreme-atv-trials.json](./87648-extreme-atv-trials.json) |
+| Extreme Bike Trials | 87632 | [87632-extreme-bike-trials.json](./87632-extreme-bike-trials.json) |
+| Extreme Hand and Foot | 87593 | [87593-extreme-hand-and-foot.json](./87593-extreme-hand-and-foot.json) |
 | Extreme-G | 3485 | [3485-extreme-g.json](./3485-extreme-g.json) |
 | Extreme-G: XG2 | 3486 | [3486-extreme-g-xg2.json](./3486-extreme-g-xg2.json) |
 | Extricate | 115694 | [115694-extricate.json](./115694-extricate.json) |
