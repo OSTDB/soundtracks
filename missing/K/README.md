@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
+| Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | King Arthur's World | 42506 | [42506-king-arthurs-world.json](./42506-king-arthurs-world.json) |
 | King of the Bridge | 260392 | [260392-king-of-the-bridge.json](./260392-king-of-the-bridge.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
 | Kingdom Hearts III: Re Mind | 117778 | [117778-kingdom-hearts-iii-re-mind.json](./117778-kingdom-hearts-iii-re-mind.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
+| Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
 | Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
