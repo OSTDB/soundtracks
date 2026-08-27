@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
+| Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
+| Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
@@ -58,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
+| Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
