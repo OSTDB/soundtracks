@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
+| Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Ratchet & Clank: Going Commando | 253138 | [253138-ratchet-and-clank-going-commando.json](./253138-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Size Matters | 1791 | [1791-ratchet-and-clank-size-matters.json](./1791-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Up Your Arsenal | 1773 | [1773-ratchet-and-clank-up-your-arsenal.json](./1773-ratchet-and-clank-up-your-arsenal.json) |
