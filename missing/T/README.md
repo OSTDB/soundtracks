@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Talk to Strangers | 111206 | [111206-talk-to-strangers.json](./111206-talk-to-strangers.json) |
 | Tally Ho | 81695 | [81695-tally-ho.json](./81695-tally-ho.json) |
 | Tangle Tower | 123775 | [123775-tangle-tower.json](./123775-tangle-tower.json) |
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
+| The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
@@ -61,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim Collector's Edition | 41597 | [41597-the-elder-scrolls-v-skyrim-collectors-edition.json](./41597-the-elder-scrolls-v-skyrim-collectors-edition.json) |
 | The Elder Scrolls: Arena | 52 | [52-the-elder-scrolls-arena.json](./52-the-elder-scrolls-arena.json) |
 | The Elder Scrolls: Legends | 11120 | [11120-the-elder-scrolls-legends.json](./11120-the-elder-scrolls-legends.json) |
+| The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
@@ -85,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
+| The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
 | The Legend of Heroes: Trails from Zero | 23322 | [23322-the-legend-of-heroes-trails-from-zero.json](./23322-the-legend-of-heroes-trails-from-zero.json) |
 | The Legend of Heroes: Trails of Cold Steel III | 26564 | [26564-the-legend-of-heroes-trails-of-cold-steel-iii.json](./26564-the-legend-of-heroes-trails-of-cold-steel-iii.json) |
@@ -134,12 +138,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
+| Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
+| Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
@@ -190,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
+| Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
