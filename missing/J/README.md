@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
+| Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Jay and Silent Bob: Mall Brawl | 124310 | [124310-jay-and-silent-bob-mall-brawl.json](./124310-jay-and-silent-bob-mall-brawl.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
