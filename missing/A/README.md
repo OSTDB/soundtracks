@@ -126,4 +126,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
+| Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
