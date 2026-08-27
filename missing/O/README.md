@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
+| Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
@@ -20,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
 | Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
+| OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
