@@ -28,8 +28,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
-| LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
+| LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
+| LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
+| Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
