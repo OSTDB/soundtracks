@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
 | Indiana Jones and His Desktop Adventures | 183 | [183-indiana-jones-and-his-desktop-adventures.json](./183-indiana-jones-and-his-desktop-adventures.json) |
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
+| Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
@@ -38,5 +39,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruders: Hide and Seek | 113999 | [113999-intruders-hide-and-seek.json](./113999-intruders-hide-and-seek.json) |
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
+| Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
