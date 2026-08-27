@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
+| PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
 | Persian Nights: Sands of Wonders | 38040 | [38040-persian-nights-sands-of-wonders.json](./38040-persian-nights-sands-of-wonders.json) |
 | Persona 2: Innocent Sin | 11453 | [11453-persona-2-innocent-sin.json](./11453-persona-2-innocent-sin.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
+| Plazma Being | 35832 | [35832-plazma-being.json](./35832-plazma-being.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
 | Pleasure Puzzle | 110112 | [110112-pleasure-puzzle.json](./110112-pleasure-puzzle.json) |
 | Pleasure Puzzle:Workshop | 109644 | [109644-pleasure-puzzle-workshop.json](./109644-pleasure-puzzle-workshop.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
+| Pro Basketball Manager 2016 | 35797 | [35797-pro-basketball-manager-2016.json](./35797-pro-basketball-manager-2016.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
