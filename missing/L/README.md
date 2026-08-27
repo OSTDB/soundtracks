@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
@@ -70,10 +71,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
+| Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
 | Loot Box Quest | 76499 | [76499-loot-box-quest.json](./76499-loot-box-quest.json) |
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
+| Lord of the Click | 116232 | [116232-lord-of-the-click.json](./116232-lord-of-the-click.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
 | Lost Civilization | 16863 | [16863-lost-civilization.json](./16863-lost-civilization.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
+| Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
