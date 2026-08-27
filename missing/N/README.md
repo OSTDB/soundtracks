@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Naboki | 125070 | [125070-naboki.json](./125070-naboki.json) |
 | Nalogi | 89428 | [89428-nalogi.json](./89428-nalogi.json) |
+| Nanashi no Game: Me | 47873 | [47873-nanashi-no-game-me.json](./47873-nanashi-no-game-me.json) |
 | Nancy Drew Dossier: Lights, Camera, Curses! | 15999 | [15999-nancy-drew-dossier-lights-camera-curses.json](./15999-nancy-drew-dossier-lights-camera-curses.json) |
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Rush | 20934 | [20934-nba-rush.json](./20934-nba-rush.json) |
 | NCAA Football 14 | 19673 | [19673-ncaa-football-14.json](./19673-ncaa-football-14.json) |
 | NCAA March Madness 08 | 7384 | [7384-ncaa-march-madness-08.json](./7384-ncaa-march-madness-08.json) |
+| Near Death Experience | 47228 | [47228-near-death-experience.json](./47228-near-death-experience.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
 | Need for Speed: High Stakes | 309579 | [309579-need-for-speed-high-stakes.json](./309579-need-for-speed-high-stakes.json) |
@@ -70,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K11 | 5070 | [5070-nhl-2k11.json](./5070-nhl-2k11.json) |
 | NHL Hitz Pro | 4048 | [4048-nhl-hitz-pro.json](./4048-nhl-hitz-pro.json) |
 | NHL Slapshot | 5071 | [5071-nhl-slapshot.json](./5071-nhl-slapshot.json) |
+| Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
 | Nier Replicant | 80468 | [80468-nier-replicant.json](./80468-nier-replicant.json) |
@@ -84,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
+| Ninja Usagimaru: The Gem of Blessings | 44390 | [44390-ninja-usagimaru-the-gem-of-blessings.json](./44390-ninja-usagimaru-the-gem-of-blessings.json) |
 | Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
