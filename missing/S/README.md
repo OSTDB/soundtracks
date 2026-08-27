@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
+| Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
+| Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
@@ -183,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
+| SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
@@ -208,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Assault II - The Hidden Empire | 162 | [162-star-wars-rebel-assault-ii-the-hidden-empire.json](./162-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rogue Squadron | 163 | [163-star-wars-rogue-squadron.json](./163-star-wars-rogue-squadron.json) |
 | Star Wars: TIE Fighter | 166 | [166-star-wars-tie-fighter.json](./166-star-wars-tie-fighter.json) |
+| Star Wars: TIE Fighter - Collector's CD-ROM | 22626 | [22626-star-wars-tie-fighter-collectors-cd-rom.json](./22626-star-wars-tie-fighter-collectors-cd-rom.json) |
 | Star Wars: Yoda Stories | 155 | [155-star-wars-yoda-stories.json](./155-star-wars-yoda-stories.json) |
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
@@ -233,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
+| Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
@@ -240,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
+| Striker '96 | 22675 | [22675-striker-96.json](./22675-striker-96.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
@@ -293,11 +299,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
+| Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
+| Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
