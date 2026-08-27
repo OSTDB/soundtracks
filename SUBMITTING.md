@@ -4,7 +4,7 @@ You can submit a soundtrack link — or correct an existing one — by opening a
 
 ## Step by step (browser only)
 
-1. Check the [`missing/`](missing/) folder for a file named `missing/<igdb_id>-<name>.json` matching your game — the `igdb_id` and `game_name` are already filled in for you. Browse or use GitHub's file search to find it.
+1. Check [`missing/`](missing/) for your game. It's bucketed by the first letter of the game's name, same as [`games/`](games/) — e.g. *Hollow Knight* is under [`missing/H/`](missing/H/). Start from the **[missing index](missing/README.md)**, pick the right letter, and look for a file named `missing/<letter>/<igdb_id>-<name>.json` — the `igdb_id` and `game_name` are already filled in for you.
    - **Found it?** Click the **pencil (✎) icon** in the top right of that file to edit it, fill in the fields below, and skip to step 3.
    - **Not there?** Your game hasn't been scanned into `missing/` yet (or already has a soundtrack). Open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) instead, click the pencil icon to edit a copy, and rename the file at the top to something like `submissions/1234-example-game.json` (use the game's IGDB ID and a short name).
 2. Fill in your game's info (see **Fields** below). Delete the `_readme` line — it's just a note, not a real field.
