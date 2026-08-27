@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
 | Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
+| PlanCon: Space Conflict | 33022 | [33022-plancon-space-conflict.json](./33022-plancon-space-conflict.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
 | Planescape: Torment & Icewind Dale: Enhanced Editions | 125019 | [125019-planescape-torment-and-icewind-dale-enhanced-editions.json](./125019-planescape-torment-and-icewind-dale-enhanced-editions.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
+| Pocket Kingdom | 32991 | [32991-pocket-kingdom.json](./32991-pocket-kingdom.json) |
 | Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
 | Pocky & Rocky 2 | 1536 | [1536-pocky-and-rocky-2.json](./1536-pocky-and-rocky-2.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
+| Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
