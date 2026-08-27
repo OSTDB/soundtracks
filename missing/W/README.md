@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
 | Warlords | 239503 | [239503-warlords.json](./239503-warlords.json) |
+| Warlords | 81371 | [81371-warlords.json](./81371-warlords.json) |
 | Warlords III: Reign of Heroes | 932 | [932-warlords-iii-reign-of-heroes.json](./932-warlords-iii-reign-of-heroes.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
+| World End Syndrome | 74946 | [74946-world-end-syndrome.json](./74946-world-end-syndrome.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
