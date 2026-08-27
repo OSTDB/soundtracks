@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
+| Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
 | Ultros | 250626 | [250626-ultros.json](./250626-ultros.json) |
