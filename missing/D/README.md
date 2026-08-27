@@ -45,11 +45,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
+| Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
 | Delta Force | 666 | [666-delta-force.json](./666-delta-force.json) |
 | Deltarune: Chapter 3 | 274236 | [274236-deltarune-chapter-3.json](./274236-deltarune-chapter-3.json) |
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
+| Deluded Mind | 93656 | [93656-deluded-mind.json](./93656-deluded-mind.json) |
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
+| Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
