@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
+| KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
+| Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
