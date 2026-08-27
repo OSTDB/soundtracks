@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
+| Dance Dance Revolution: Ultramix | 47301 | [47301-dance-dance-revolution-ultramix.json](./47301-dance-dance-revolution-ultramix.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
 | Dead or Alive 5 Ultimate | 7286 | [7286-dead-or-alive-5-ultimate.json](./7286-dead-or-alive-5-ultimate.json) |
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
+| Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
 | Demon King Domination: Deluxe Edition | 109687 | [109687-demon-king-domination-deluxe-edition.json](./109687-demon-king-domination-deluxe-edition.json) |
+| Demon Peak | 44282 | [44282-demon-peak.json](./44282-demon-peak.json) |
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
+| Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
@@ -178,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
+| Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
@@ -236,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
+| Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
 | Drakan: The Ancients' Gates | 7577 | [7577-drakan-the-ancients-gates.json](./7577-drakan-the-ancients-gates.json) |
 | Drake & Josh: Talent Showdown | 7971 | [7971-drake-and-josh-talent-showdown.json](./7971-drake-and-josh-talent-showdown.json) |
 | Drakengard 3 | 8576 | [8576-drakengard-3.json](./8576-drakengard-3.json) |
@@ -264,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
+| Duke Nukem: Critical Mass | 47967 | [47967-duke-nukem-critical-mass.json](./47967-duke-nukem-critical-mass.json) |
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
