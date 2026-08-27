@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
+| Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
 | Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
+| Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter 4: Wolves of the Pacific | 993 | [993-silent-hunter-4-wolves-of-the-pacific.json](./993-silent-hunter-4-wolves-of-the-pacific.json) |
 | Silent Hunter II | 992 | [992-silent-hunter-ii.json](./992-silent-hunter-ii.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
+| Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
@@ -179,7 +182,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Sok | 77170 | [77170-sok.json](./77170-sok.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
+| Solace Crafting | 46487 | [46487-solace-crafting.json](./46487-solace-crafting.json) |
+| Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
+| Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
@@ -218,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
+| SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
@@ -246,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
+| Squids From Space | 46758 | [46758-squids-from-space.json](./46758-squids-from-space.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
 | SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
@@ -378,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
+| Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
 | Supremacy MMA | 7200 | [7200-supremacy-mma.json](./7200-supremacy-mma.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
@@ -401,5 +410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Serpents | 48230 | [48230-swords-and-serpents.json](./48230-swords-and-serpents.json) |
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
+| Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
