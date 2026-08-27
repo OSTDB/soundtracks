@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
+| Hairy Little Buggers | 34381 | [34381-hairy-little-buggers.json](./34381-hairy-little-buggers.json) |
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
+| Heaven Island - VR MMO | 34476 | [34476-heaven-island-vr-mmo.json](./34476-heaven-island-vr-mmo.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
 | Heckabomb | 35880 | [35880-heckabomb.json](./35880-heckabomb.json) |
