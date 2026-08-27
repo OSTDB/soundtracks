@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
+| A Year of Rain | 116212 | [116212-a-year-of-rain.json](./116212-a-year-of-rain.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
@@ -98,3 +99,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
+| Audica | 115285 | [115285-audica.json](./115285-audica.json) |
