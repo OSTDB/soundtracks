@@ -11,6 +11,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
+| NBA 07 | 7381 | [7381-nba-07.json](./7381-nba-07.json) |
+| NBA 08 | 7382 | [7382-nba-08.json](./7382-nba-08.json) |
 | NBA 2K13 | 5058 | [5058-nba-2k13.json](./5058-nba-2k13.json) |
 | NBA 2K15 | 7614 | [7614-nba-2k15.json](./7614-nba-2k15.json) |
 | NBA 2K18: The Prelude | 83762 | [83762-nba-2k18-the-prelude.json](./83762-nba-2k18-the-prelude.json) |
