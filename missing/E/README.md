@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | EA Sports UFC 2 | 19918 | [19918-ea-sports-ufc-2.json](./19918-ea-sports-ufc-2.json) |
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
+| Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
@@ -17,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
+| Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
