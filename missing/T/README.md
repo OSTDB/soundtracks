@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
+| Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
 | Tap Tap Fish: AbyssRium | 86983 | [86983-tap-tap-fish-abyssrium.json](./86983-tap-tap-fish-abyssrium.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
+| The Book of Legends | 17059 | [17059-the-book-of-legends.json](./17059-the-book-of-legends.json) |
 | The Bradwell Conspiracy | 107314 | [107314-the-bradwell-conspiracy.json](./107314-the-bradwell-conspiracy.json) |
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
@@ -96,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
+| The Forest of Doom | 16938 | [16938-the-forest-of-doom.json](./16938-the-forest-of-doom.json) |
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
@@ -205,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
+| Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
@@ -224,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis II | 13893 | [13893-time-crisis-ii.json](./13893-time-crisis-ii.json) |
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
 | Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
+| Time Rifters | 16931 | [16931-time-rifters.json](./16931-time-rifters.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
@@ -249,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
+| Tom vs. The Armies of Hell | 16827 | [16827-tom-vs-the-armies-of-hell.json](./16827-tom-vs-the-armies-of-hell.json) |
 | Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
@@ -280,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
+| Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
@@ -313,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
+| TUG | 17067 | [17067-tug.json](./17067-tug.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
