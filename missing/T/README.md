@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
+| The Dark Room | 109841 | [109841-the-dark-room.json](./109841-the-dark-room.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
@@ -140,6 +141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Mystical Ninja | 28386 | [28386-the-legend-of-the-mystical-ninja.json](./28386-the-legend-of-the-mystical-ninja.json) |
 | The Legend of Zelda: Breath of the Wild - Expansion Pass | 41829 | [41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json](./41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json) |
 | The Legend of Zelda: Collector's Edition | 45139 | [45139-the-legend-of-zelda-collectors-edition.json](./45139-the-legend-of-zelda-collectors-edition.json) |
+| The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
+| The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
@@ -202,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
+| The Wall | 109648 | [109648-the-wall.json](./109648-the-wall.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Waylanders | 107211 | [107211-the-waylanders.json](./107211-the-waylanders.json) |
 | The Weaponographist | 11418 | [11418-the-weaponographist.json](./11418-the-weaponographist.json) |
@@ -226,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumper: Pocket Edition | 86886 | [86886-thumper-pocket-edition.json](./86886-thumper-pocket-edition.json) |
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
+| Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Woods PGA Tour 2005 | 906 | [906-tiger-woods-pga-tour-2005.json](./906-tiger-woods-pga-tour-2005.json) |
@@ -301,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
+| Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
