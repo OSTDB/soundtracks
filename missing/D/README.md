@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
+| DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
