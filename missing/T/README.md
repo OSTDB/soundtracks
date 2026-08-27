@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles | 86386 | [86386-teenage-mutant-ninja-turtles.json](./86386-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed | 289562 | [289562-teenage-mutant-ninja-turtles-mutants-unleashed.json](./289562-teenage-mutant-ninja-turtles-mutants-unleashed.json) |
 | Teenage Mutant Ninja Turtles: Out of the Shadows | 2598 | [2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json](./2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json) |
+| Teenage Mutant Ninja Turtles: Rooftop Run | 63499 | [63499-teenage-mutant-ninja-turtles-rooftop-run.json](./63499-teenage-mutant-ninja-turtles-rooftop-run.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock | 252825 | [252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json](./252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate | 248582 | [248582-teenage-mutant-ninja-turtles-splintered-fate.json](./248582-teenage-mutant-ninja-turtles-splintered-fate.json) |
 | Tekken | 304400 | [304400-tekken.json](./304400-tekken.json) |
@@ -91,6 +92,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Room | 109841 | [109841-the-dark-room.json](./109841-the-dark-room.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
+| The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
+| The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
+| The Incident | 66315 | [66315-the-incident.json](./66315-the-incident.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
@@ -217,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
 | The Treasures of Montezuma 4 | 36307 | [36307-the-treasures-of-montezuma-4.json](./36307-the-treasures-of-montezuma-4.json) |
 | The Tribe Must Survive | 188808 | [188808-the-tribe-must-survive.json](./188808-the-tribe-must-survive.json) |
+| The Unlikely Legend of Rusty Pup | 63281 | [63281-the-unlikely-legend-of-rusty-pup.json](./63281-the-unlikely-legend-of-rusty-pup.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
@@ -293,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 210463 | [210463-tony-hawks-pro-skater-4.json](./210463-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
+| Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
 | Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
@@ -330,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | TrainerVR | 77166 | [77166-trainervr.json](./77166-trainervr.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
+| Trajectory of Summer Flower | 64932 | [64932-trajectory-of-summer-flower.json](./64932-trajectory-of-summer-flower.json) |
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
@@ -363,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
+| Twisted Fusion | 61926 | [61926-twisted-fusion.json](./61926-twisted-fusion.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
 | Two Worlds | 7222 | [7222-two-worlds.json](./7222-two-worlds.json) |
