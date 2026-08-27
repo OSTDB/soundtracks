@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Tycoon: 2019 | 102294 | [102294-university-tycoon-2019.json](./102294-university-tycoon-2019.json) |
 | Unknown Fate | 31866 | [31866-unknown-fate.json](./31866-unknown-fate.json) |
 | Unknown Number: A First Person Talker | 190796 | [190796-unknown-number-a-first-person-talker.json](./190796-unknown-number-a-first-person-talker.json) |
+| Unknown Pharaoh | 29887 | [29887-unknown-pharaoh.json](./29887-unknown-pharaoh.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
 | Unleaving | 274707 | [274707-unleaving.json](./274707-unleaving.json) |
 | Unlimited SaGa | 11314 | [11314-unlimited-saga.json](./11314-unlimited-saga.json) |
