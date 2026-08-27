@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Trilogy | 83837 | [83837-fable-trilogy.json](./83837-fable-trilogy.json) |
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
+| Fairune Collection | 96241 | [96241-fairune-collection.json](./96241-fairune-collection.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
 | Fallout 3: Broken Steel | 10299 | [10299-fallout-3-broken-steel.json](./10299-fallout-3-broken-steel.json) |
@@ -25,10 +26,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
+| Fantasy Versus | 96514 | [96514-fantasy-versus.json](./96514-fantasy-versus.json) |
 | Fantasy World Dizzy | 12090 | [12090-fantasy-world-dizzy.json](./12090-fantasy-world-dizzy.json) |
 | FantaVision | 10392 | [10392-fantavision.json](./10392-fantavision.json) |
 | Far Cry 6: Insanity | 182125 | [182125-far-cry-6-insanity.json](./182125-far-cry-6-insanity.json) |
 | Far Cry Instincts: Predator | 22585 | [22585-far-cry-instincts-predator.json](./22585-far-cry-instincts-predator.json) |
+| Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
@@ -56,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 395 | [395-final-fantasy-ii.json](./395-final-fantasy-ii.json) |
 | Final Fantasy IV | 16587 | [16587-final-fantasy-iv.json](./16587-final-fantasy-iv.json) |
 | Final Fantasy IX | 205673 | [205673-final-fantasy-ix.json](./205673-final-fantasy-ix.json) |
+| Final Fantasy XI: Ultimate Collection - Seekers Edition | 90563 | [90563-final-fantasy-xi-ultimate-collection-seekers-edition.json](./90563-final-fantasy-xi-ultimate-collection-seekers-edition.json) |
 | Final Fantasy XII: Revenant Wings | 392 | [392-final-fantasy-xii-revenant-wings.json](./392-final-fantasy-xii-revenant-wings.json) |
 | Final Fantasy XIV: Dawntrail | 259338 | [259338-final-fantasy-xiv-dawntrail.json](./259338-final-fantasy-xiv-dawntrail.json) |
 | Final Fantasy XV: Episode Gladiolus | 28002 | [28002-final-fantasy-xv-episode-gladiolus.json](./28002-final-fantasy-xv-episode-gladiolus.json) |
@@ -78,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
+| Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
@@ -103,6 +108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
 | Framed 2 | 25236 | [25236-framed-2.json](./25236-framed-2.json) |
 | Framed Collection | 71957 | [71957-framed-collection.json](./71957-framed-collection.json) |
+| Fran Bow Chapter 2 | 91995 | [91995-fran-bow-chapter-2.json](./91995-fran-bow-chapter-2.json) |
+| Fran Bow Chapter 3 | 91977 | [91977-fran-bow-chapter-3.json](./91977-fran-bow-chapter-3.json) |
 | Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
