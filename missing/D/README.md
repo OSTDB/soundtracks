@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
 | Deisim | 31356 | [31356-deisim.json](./31356-deisim.json) |
+| Deity Empires | 109833 | [109833-deity-empires.json](./109833-deity-empires.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
 | Delta Force | 666 | [666-delta-force.json](./666-delta-force.json) |
 | Deltarune: Chapter 3 | 274236 | [274236-deltarune-chapter-3.json](./274236-deltarune-chapter-3.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
+| Demon King Domination: Deluxe Edition | 109687 | [109687-demon-king-domination-deluxe-edition.json](./109687-demon-king-domination-deluxe-edition.json) |
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
@@ -104,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
+| Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
@@ -160,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
+| DMT | 109811 | [109811-dmt.json](./109811-dmt.json) |
 | Doctor Lautrec and the Forgotten Knights | 6757 | [6757-doctor-lautrec-and-the-forgotten-knights.json](./6757-doctor-lautrec-and-the-forgotten-knights.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
@@ -236,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
+| Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
@@ -244,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
+| Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
