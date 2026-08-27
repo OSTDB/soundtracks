@@ -55,6 +55,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
+| Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
+| Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
@@ -90,3 +92,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
+| Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
+| Luxor MahJong | 7539 | [7539-luxor-mahjong.json](./7539-luxor-mahjong.json) |
