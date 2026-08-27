@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
+| Octopticom | 110147 | [110147-octopticom.json](./110147-octopticom.json) |
 | Odd Realm | 113138 | [113138-odd-realm.json](./113138-odd-realm.json) |
 | Oddworld: Soulstorm - Enhanced Edition | 178211 | [178211-oddworld-soulstorm-enhanced-edition.json](./178211-oddworld-soulstorm-enhanced-edition.json) |
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
