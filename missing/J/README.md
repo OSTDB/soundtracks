@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
 | Jetstream | 108280 | [108280-jetstream.json](./108280-jetstream.json) |
 | Jewel Factory | 20836 | [20836-jewel-factory.json](./20836-jewel-factory.json) |
+| Jewel Tree: Match It Puzzle | 87633 | [87633-jewel-tree-match-it-puzzle.json](./87633-jewel-tree-match-it-puzzle.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
@@ -35,6 +36,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
+| Jurassic Life: Tyrannosaurus Rex Dinosaur Simulator | 87577 | [87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json](./87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json) |
+| Jurassic Life: Velociraptor Dinosaur Simulator | 87579 | [87579-jurassic-life-velociraptor-dinosaur-simulator.json](./87579-jurassic-life-velociraptor-dinosaur-simulator.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
