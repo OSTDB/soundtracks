@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
+| Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
@@ -74,10 +75,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Omega | 89503 | [89503-alpha-omega.json](./89503-alpha-omega.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
 | Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
+| Alt-Play: Jason Rohrer Anthology | 63355 | [63355-alt-play-jason-rohrer-anthology.json](./63355-alt-play-jason-rohrer-anthology.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
 | Altered Space | 7752 | [7752-altered-space.json](./7752-altered-space.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
+| aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
 | Amazing Tater | 7754 | [7754-amazing-tater.json](./7754-amazing-tater.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
+| Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
