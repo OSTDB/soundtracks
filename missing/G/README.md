@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
+| Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTR: FIA GT Racing Game | 738 | [738-gtr-fia-gt-racing-game.json](./738-gtr-fia-gt-racing-game.json) |
 | Guacamelee! | 4838 | [4838-guacamelee.json](./4838-guacamelee.json) |
 | Guacamelee!: Gold Edition | 19121 | [19121-guacamelee-gold-edition.json](./19121-guacamelee-gold-edition.json) |
+| Guard of Wonderland | 109756 | [109756-guard-of-wonderland.json](./109756-guard-of-wonderland.json) |
 | Guardians of the Galaxy: The Universal Weapon | 20944 | [20944-guardians-of-the-galaxy-the-universal-weapon.json](./20944-guardians-of-the-galaxy-the-universal-weapon.json) |
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
