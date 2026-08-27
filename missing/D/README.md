@@ -23,11 +23,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
+| Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead or Alive 2 | 1388 | [1388-dead-or-alive-2.json](./1388-dead-or-alive-2.json) |
 | Dead or Alive 4 | 1392 | [1392-dead-or-alive-4.json](./1392-dead-or-alive-4.json) |
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
 | Dead or Alive 5 Ultimate | 7286 | [7286-dead-or-alive-5-ultimate.json](./7286-dead-or-alive-5-ultimate.json) |
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
+| Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Collectible Card Game | 78230 | [78230-dragon-ball-z-collectible-card-game.json](./78230-dragon-ball-z-collectible-card-game.json) |
 | Dragon Ball Z: Tenkaichi Tag Team | 2572 | [2572-dragon-ball-z-tenkaichi-tag-team.json](./2572-dragon-ball-z-tenkaichi-tag-team.json) |
 | Dragon Ball Z: Ultimate Battle 22 | 2543 | [2543-dragon-ball-z-ultimate-battle-22.json](./2543-dragon-ball-z-ultimate-battle-22.json) |
+| Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
