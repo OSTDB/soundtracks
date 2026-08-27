@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
+| SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
@@ -29,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
+| Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
@@ -153,9 +155,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
+| Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
+| Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
 | Style Savvy | 85398 | [85398-style-savvy.json](./85398-style-savvy.json) |
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
