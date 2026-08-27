@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter | 1908 | [1908-neverwinter.json](./1908-neverwinter.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
 | Neverwinter Nights: Kingmaker | 9225 | [9225-neverwinter-nights-kingmaker.json](./9225-neverwinter-nights-kingmaker.json) |
+| New Frontier Days: Founding Pioneers | 37050 | [37050-new-frontier-days-founding-pioneers.json](./37050-new-frontier-days-founding-pioneers.json) |
 | New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
 | New Super Luigi U | 2173 | [2173-new-super-luigi-u.json](./2173-new-super-luigi-u.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
+| Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
