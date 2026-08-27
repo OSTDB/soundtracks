@@ -13,10 +13,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
+| Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Banished | 2002 | [2002-banished.json](./2002-banished.json) |
 | Banjo-Kazooie | 201644 | [201644-banjo-kazooie.json](./201644-banjo-kazooie.json) |
 | Banjo-Kazooie: Grunty's Revenge | 6318 | [6318-banjo-kazooie-gruntys-revenge.json](./6318-banjo-kazooie-gruntys-revenge.json) |
+| Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
+| Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
