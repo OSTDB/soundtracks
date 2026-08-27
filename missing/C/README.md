@@ -88,11 +88,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
+| Chinbu's Adventure | 77160 | [77160-chinbus-adventure.json](./77160-chinbus-adventure.json) |
 | Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
 | Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
+| Chocolate makes you happy 2 | 76668 | [76668-chocolate-makes-you-happy-2.json](./76668-chocolate-makes-you-happy-2.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
+| Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
+| Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
 | Chroma Shift | 110098 | [110098-chroma-shift.json](./110098-chroma-shift.json) |
 | Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
@@ -107,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: VR | 185895 | [185895-cities-vr.json](./185895-cities-vr.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
+| Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
 | Class of '09: The Re-Up | 249830 | [249830-class-of-09-the-re-up.json](./249830-class-of-09-the-re-up.json) |
