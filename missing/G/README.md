@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
+| Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
+| Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
