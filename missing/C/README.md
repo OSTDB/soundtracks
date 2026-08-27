@@ -12,8 +12,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
+| Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
+| Call of Duty: Advanced Warfare - Digital Pro Edition | 86667 | [86667-call-of-duty-advanced-warfare-digital-pro-edition.json](./86667-call-of-duty-advanced-warfare-digital-pro-edition.json) |
 | Call of Duty: Black Ops III - Gold Edition | 29164 | [29164-call-of-duty-black-ops-iii-gold-edition.json](./29164-call-of-duty-black-ops-iii-gold-edition.json) |
 | Call of Duty: Black Ops III - Salvation | 23727 | [23727-call-of-duty-black-ops-iii-salvation.json](./23727-call-of-duty-black-ops-iii-salvation.json) |
 | Call of Duty: Finest Hour | 3761 | [3761-call-of-duty-finest-hour.json](./3761-call-of-duty-finest-hour.json) |
@@ -45,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
+| Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
@@ -66,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
+| Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
@@ -111,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
 | Contra: The Alien Wars | 48914 | [48914-contra-the-alien-wars.json](./48914-contra-the-alien-wars.json) |
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
+| Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
@@ -147,5 +152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
+| Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
