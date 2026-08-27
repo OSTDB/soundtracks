@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
+| LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
