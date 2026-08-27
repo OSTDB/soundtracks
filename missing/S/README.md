@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
 | Samurai Shodown: Edge of Destiny | 7172 | [7172-samurai-shodown-edge-of-destiny.json](./7172-samurai-shodown-edge-of-destiny.json) |
+| Samurai_Jazz | 35829 | [35829-samurai-jazz.json](./35829-samurai-jazz.json) |
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Railroad Tycoon | 962 | [962-sid-meiers-railroad-tycoon.json](./962-sid-meiers-railroad-tycoon.json) |
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
 | Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
+| Siege Wars | 35778 | [35778-siege-wars.json](./35778-siege-wars.json) |
 | Signs of Life | 16839 | [16839-signs-of-life.json](./16839-signs-of-life.json) |
 | Silent Hill 2 | 222485 | [222485-silent-hill-2.json](./222485-silent-hill-2.json) |
 | Silent Hill: Ascension | 274880 | [274880-silent-hill-ascension.json](./274880-silent-hill-ascension.json) |
@@ -138,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
+| Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
@@ -179,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
+| Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Sok | 77170 | [77170-sok.json](./77170-sok.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
@@ -288,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
+| Starship Traveller | 35773 | [35773-starship-traveller.json](./35773-starship-traveller.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
 | Starship Troopers: Extermination | 228175 | [228175-starship-troopers-extermination.json](./228175-starship-troopers-extermination.json) |
 | Starship Troopers: Ultimate Bug War! | 380415 | [380415-starship-troopers-ultimate-bug-war.json](./380415-starship-troopers-ultimate-bug-war.json) |
@@ -314,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
+| Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
@@ -367,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
 | Super Paper Mario | 2191 | [2191-super-paper-mario.json](./2191-super-paper-mario.json) |
+| Super Pixalo | 35804 | [35804-super-pixalo.json](./35804-super-pixalo.json) |
 | Super Robo Mouse | 61228 | [61228-super-robo-mouse.json](./61228-super-robo-mouse.json) |
 | Super Robot Taisen L | 66434 | [66434-super-robot-taisen-l.json](./66434-super-robot-taisen-l.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
