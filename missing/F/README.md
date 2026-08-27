@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
+| Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
 | Framed 2 | 25236 | [25236-framed-2.json](./25236-framed-2.json) |
 | Framed Collection | 71957 | [71957-framed-collection.json](./71957-framed-collection.json) |
+| Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
