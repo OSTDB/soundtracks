@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
+| The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
+| Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
