@@ -12,6 +12,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
+| You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
+| You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
 | Your Shape Fitness Evolved 2012 | 7536 | [7536-your-shape-fitness-evolved-2012.json](./7536-your-shape-fitness-evolved-2012.json) |
