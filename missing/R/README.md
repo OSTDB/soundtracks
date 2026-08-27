@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
