@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NBA 2K13 | 5058 | [5058-nba-2k13.json](./5058-nba-2k13.json) |
 | NBA 2K15 | 7614 | [7614-nba-2k15.json](./7614-nba-2k15.json) |
+| NBA 2K18: The Prelude | 83762 | [83762-nba-2k18-the-prelude.json](./83762-nba-2k18-the-prelude.json) |
 | NBA 2K21 | 134599 | [134599-nba-2k21.json](./134599-nba-2k21.json) |
 | NBA 2K24 | 255788 | [255788-nba-2k24.json](./255788-nba-2k24.json) |
 | NBA Live 08 | 5061 | [5061-nba-live-08.json](./5061-nba-live-08.json) |
