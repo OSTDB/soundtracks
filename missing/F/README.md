@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 23 | 240558 | [240558-f1-23.json](./240558-f1-23.json) |
 | F1 Manager 2022 | 193538 | [193538-f1-manager-2022.json](./193538-f1-manager-2022.json) |
 | F1 ROC: Race of Champions | 42571 | [42571-f1-roc-race-of-champions.json](./42571-f1-roc-race-of-champions.json) |
+| Fable Trilogy | 83837 | [83837-fable-trilogy.json](./83837-fable-trilogy.json) |
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
