@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
 | WBSC eBaseball: Power Pros | 236674 | [236674-wbsc-ebaseball-power-pros.json](./236674-wbsc-ebaseball-power-pros.json) |
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
+| We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
 | We Were Here Forever | 144455 | [144455-we-were-here-forever.json](./144455-we-were-here-forever.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
