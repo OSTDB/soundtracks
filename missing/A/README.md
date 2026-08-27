@@ -61,9 +61,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne | 11092 | [11092-anodyne.json](./11092-anodyne.json) |
 | Anomaly Defenders | 8993 | [8993-anomaly-defenders.json](./8993-anomaly-defenders.json) |
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
+| Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
+| Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
+| Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
