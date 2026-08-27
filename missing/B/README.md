@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
+| BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
 | Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
 | BlazBlue: Calamity Trigger | 6441 | [6441-blazblue-calamity-trigger.json](./6441-blazblue-calamity-trigger.json) |
 | Blazing Beaks | 75158 | [75158-blazing-beaks.json](./75158-blazing-beaks.json) |
