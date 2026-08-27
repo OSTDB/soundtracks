@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
+| ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
