@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
+| Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
