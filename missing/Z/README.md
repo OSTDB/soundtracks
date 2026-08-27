@@ -7,12 +7,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
+| Zapper: One Wicked Cricket! | 47332 | [47332-zapper-one-wicked-cricket.json](./47332-zapper-one-wicked-cricket.json) |
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
 | Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
+| Zenohell | 34456 | [34456-zenohell.json](./34456-zenohell.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zigfrak | 16771 | [16771-zigfrak.json](./16771-zigfrak.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
+| Zoids Assault | 47418 | [47418-zoids-assault.json](./47418-zoids-assault.json) |
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
 | Zombie City Defense 2 | 22806 | [22806-zombie-city-defense-2.json](./22806-zombie-city-defense-2.json) |
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
@@ -30,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoochosis | 282935 | [282935-zoochosis.json](./282935-zoochosis.json) |
 | Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
+| Zulu Response | 34494 | [34494-zulu-response.json](./34494-zulu-response.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zup! 6 | 54810 | [54810-zup-6.json](./54810-zup-6.json) |
 | Zup! 8 | 86571 | [86571-zup-8.json](./86571-zup-8.json) |
