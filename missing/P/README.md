@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
+| Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
