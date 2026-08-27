@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
 | Warcraft II: Remastered | 322109 | [322109-warcraft-ii-remastered.json](./322109-warcraft-ii-remastered.json) |
 | Wargame: AirLand Battle | 2978 | [2978-wargame-airland-battle.json](./2978-wargame-airland-battle.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
+| Wayward Strand | 123789 | [123789-wayward-strand.json](./123789-wayward-strand.json) |
 | WBSC eBaseball: Power Pros | 236674 | [236674-wbsc-ebaseball-power-pros.json](./236674-wbsc-ebaseball-power-pros.json) |
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
