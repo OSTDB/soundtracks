@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
+| I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
@@ -59,4 +60,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
+| Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
