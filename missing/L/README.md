@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
+| Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
