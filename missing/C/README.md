@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
+| Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
+| Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
@@ -91,9 +93,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
+| Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
+| Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
