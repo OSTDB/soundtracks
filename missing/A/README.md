@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
+| Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
 | Anno 1701 | 8225 | [8225-anno-1701.json](./8225-anno-1701.json) |
 | Anno 2070 | 2959 | [2959-anno-2070.json](./2959-anno-2070.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Claws of Awaji | 329312 | [329312-assassins-creed-shadows-claws-of-awaji.json](./329312-assassins-creed-shadows-claws-of-awaji.json) |
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
+| Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
 | Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
