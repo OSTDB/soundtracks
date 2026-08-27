@@ -12,10 +12,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabre Wulf | 23057 | [23057-sabre-wulf.json](./23057-sabre-wulf.json) |
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
+| Safari Photo Africa: Wild Earth | 23779 | [23779-safari-photo-africa-wild-earth.json](./23779-safari-photo-africa-wild-earth.json) |
+| SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
 | Salammbo: Battle for Carthage | 36310 | [36310-salammbo-battle-for-carthage.json](./36310-salammbo-battle-for-carthage.json) |
+| Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
@@ -62,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
+| SickBrick | 24601 | [24601-sickbrick.json](./24601-sickbrick.json) |
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
 | Sid Meier's Civilization III: Complete | 27820 | [27820-sid-meiers-civilization-iii-complete.json](./27820-sid-meiers-civilization-iii-complete.json) |
 | Sid Meier's Civilization IV: Colonization | 4228 | [4228-sid-meiers-civilization-iv-colonization.json](./4228-sid-meiers-civilization-iv-colonization.json) |
@@ -209,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
+| Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
 | Summoners War: Sky Arena | 23622 | [23622-summoners-war-sky-arena.json](./23622-summoners-war-sky-arena.json) |
 | Sumotori Dreams | 20974 | [20974-sumotori-dreams.json](./20974-sumotori-dreams.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
