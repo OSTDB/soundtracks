@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
+| Evil Come | 76929 | [76929-evil-come.json](./76929-evil-come.json) |
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
