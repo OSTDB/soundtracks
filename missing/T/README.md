@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
+| The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls V: Skyrim - Hearthfire | 6068 | [6068-the-elder-scrolls-v-skyrim-hearthfire.json](./6068-the-elder-scrolls-v-skyrim-hearthfire.json) |
@@ -67,7 +68,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
+| The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
+| The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
@@ -95,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Shadows of Angmar | 51193 | [51193-the-lord-of-the-rings-online-shadows-of-angmar.json](./51193-the-lord-of-the-rings-online-shadows-of-angmar.json) |
 | The Lord of the Rings: Return to Moria | 204460 | [204460-the-lord-of-the-rings-return-to-moria.json](./204460-the-lord-of-the-rings-return-to-moria.json) |
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
+| The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
@@ -125,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
+| The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
@@ -180,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
+| Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
@@ -197,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
+| Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
