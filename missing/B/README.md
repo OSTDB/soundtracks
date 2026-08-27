@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Animated Series | 7771 | [7771-batman-the-animated-series.json](./7771-batman-the-animated-series.json) |
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
+| Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | BattleBit Remastered | 50531 | [50531-battlebit-remastered.json](./50531-battlebit-remastered.json) |
 | Battleborn | 7687 | [7687-battleborn.json](./7687-battleborn.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
+| Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
