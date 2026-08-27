@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
+| Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
