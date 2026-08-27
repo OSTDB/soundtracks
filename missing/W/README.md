@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
 | We Were Here Forever | 144455 | [144455-we-were-here-forever.json](./144455-we-were-here-forever.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
+| Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
+| Wushu Chronicles | 107801 | [107801-wushu-chronicles.json](./107801-wushu-chronicles.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
 | WWE SmackDown vs. Raw 2009 | 5299 | [5299-wwe-smackdown-vs-raw-2009.json](./5299-wwe-smackdown-vs-raw-2009.json) |
