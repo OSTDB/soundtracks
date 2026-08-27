@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
+| Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
@@ -112,10 +113,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Goof Troop | 8163 | [8163-disneys-goof-troop.json](./8163-disneys-goof-troop.json) |
 | Disney's Lilo & Stitch | 25912 | [25912-disneys-lilo-and-stitch.json](./25912-disneys-lilo-and-stitch.json) |
 | Disney's Lilo & Stitch: Trouble in Paradise | 23792 | [23792-disneys-lilo-and-stitch-trouble-in-paradise.json](./23792-disneys-lilo-and-stitch-trouble-in-paradise.json) |
+| Disney's Magical Quest Starring Mickey & Minnie | 187209 | [187209-disneys-magical-quest-starring-mickey-and-minnie.json](./187209-disneys-magical-quest-starring-mickey-and-minnie.json) |
 | Disney's Pocahontas | 24979 | [24979-disneys-pocahontas.json](./24979-disneys-pocahontas.json) |
 | Disney's The Jungle Book | 6480 | [6480-disneys-the-jungle-book.json](./6480-disneys-the-jungle-book.json) |
 | Disney's Toy Story | 289027 | [289027-disneys-toy-story.json](./289027-disneys-toy-story.json) |
 | Disoriented | 30503 | [30503-disoriented.json](./30503-disoriented.json) |
+| Dispatch | 181624 | [181624-dispatch.json](./181624-dispatch.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
+| Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
 | Doodle Mafia | 29367 | [29367-doodle-mafia.json](./29367-doodle-mafia.json) |
 | Doom | 259939 | [259939-doom.json](./259939-doom.json) |
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
@@ -197,9 +201,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
+| Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
 | Dynasty Warriors: Godseekers | 25639 | [25639-dynasty-warriors-godseekers.json](./25639-dynasty-warriors-godseekers.json) |
 | Dynasty Warriors: Gundam Reborn | 21072 | [21072-dynasty-warriors-gundam-reborn.json](./21072-dynasty-warriors-gundam-reborn.json) |
+| Dyschronia: Chronos Alternate | 178825 | [178825-dyschronia-chronos-alternate.json](./178825-dyschronia-chronos-alternate.json) |
 | Dystopika | 268295 | [268295-dystopika.json](./268295-dystopika.json) |
