@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
+| On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
+| Operation Warcade VR | 36826 | [36826-operation-warcade-vr.json](./36826-operation-warcade-vr.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
@@ -40,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
+| Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
 | Outward: Definitive Edition | 201935 | [201935-outward-definitive-edition.json](./201935-outward-definitive-edition.json) |
