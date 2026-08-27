@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
+| Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
+| Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
@@ -135,7 +137,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain Bender | 92265 | [92265-brain-bender.json](./92265-brain-bender.json) |
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
+| Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
+| Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
