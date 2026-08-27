@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
+| Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
 | Call of Duty: Advanced Warfare - Digital Pro Edition | 86667 | [86667-call-of-duty-advanced-warfare-digital-pro-edition.json](./86667-call-of-duty-advanced-warfare-digital-pro-edition.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
+| Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
 | Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
