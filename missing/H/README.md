@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
+| Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
@@ -15,7 +16,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
+| Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
+| Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harry Potter and the Order of the Phoenix | 3011 | [3011-harry-potter-and-the-order-of-the-phoenix.json](./3011-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harvest Festival 64 | 230631 | [230631-harvest-festival-64.json](./230631-harvest-festival-64.json) |
 | Harvest Moon: Lil' Farmers | 36914 | [36914-harvest-moon-lil-farmers.json](./36914-harvest-moon-lil-farmers.json) |
@@ -44,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
+| Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
