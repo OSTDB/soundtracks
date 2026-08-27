@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
+| Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
 | Age of Empires III: The Asian Dynasties | 8220 | [8220-age-of-empires-iii-the-asian-dynasties.json](./8220-age-of-empires-iii-the-asian-dynasties.json) |
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
+| Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
@@ -128,3 +130,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
+| Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
