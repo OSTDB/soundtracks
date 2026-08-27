@@ -16,7 +16,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
 | You Are Disabled | 14739 | [14739-you-are-disabled.json](./14739-you-are-disabled.json) |
+| You Don't Know Jack Headrush | 16788 | [16788-you-dont-know-jack-headrush.json](./16788-you-dont-know-jack-headrush.json) |
 | You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
+| You Don't Know Jack Vol. 3 | 16783 | [16783-you-dont-know-jack-vol-3.json](./16783-you-dont-know-jack-vol-3.json) |
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
