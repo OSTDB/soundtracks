@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
+| Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
 | Garfield: A Tail of Two Kitties | 23734 | [23734-garfield-a-tail-of-two-kitties.json](./23734-garfield-a-tail-of-two-kitties.json) |
@@ -18,6 +19,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
+| Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
+| Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Ghostrunner: Project Hel | 183125 | [183125-ghostrunner-project-hel.json](./183125-ghostrunner-project-hel.json) |
