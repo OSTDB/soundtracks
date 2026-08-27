@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
+| Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
 | Ristar | 237315 | [237315-ristar.json](./237315-ristar.json) |
