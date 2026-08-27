@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
+| Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
@@ -202,3 +203,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
+| Bytepath | 86519 | [86519-bytepath.json](./86519-bytepath.json) |
