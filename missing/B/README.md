@@ -20,9 +20,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Grunty's Revenge | 6318 | [6318-banjo-kazooie-gruntys-revenge.json](./6318-banjo-kazooie-gruntys-revenge.json) |
 | Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
+| Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
+| Batman Returns | 14289 | [14289-batman-returns.json](./14289-batman-returns.json) |
 | Batman: Arkham Knight - Harley Quinn Story Pack | 26031 | [26031-batman-arkham-knight-harley-quinn-story-pack.json](./26031-batman-arkham-knight-harley-quinn-story-pack.json) |
 | Batman: The Animated Series | 7771 | [7771-batman-the-animated-series.json](./7771-batman-the-animated-series.json) |
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Remastered | 34293 | [34293-bioshock-remastered.json](./34293-bioshock-remastered.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
+| Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
@@ -118,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
 | Bugs Bunny Rabbit Rampage | 3054 | [3054-bugs-bunny-rabbit-rampage.json](./3054-bugs-bunny-rabbit-rampage.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
+| Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
