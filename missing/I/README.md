@@ -33,3 +33,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
+| It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
