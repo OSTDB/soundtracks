@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
+| Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
+| Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
@@ -270,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
+| Sword of Elpisia | 182267 | [182267-sword-of-elpisia.json](./182267-sword-of-elpisia.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
 | Swords 'n Magic and Stuff | 90235 | [90235-swords-n-magic-and-stuff.json](./90235-swords-n-magic-and-stuff.json) |
