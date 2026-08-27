@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
+| Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
 | Dark Age of Camelot | 657 | [657-dark-age-of-camelot.json](./657-dark-age-of-camelot.json) |
@@ -21,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
+| Dark Hero Party | 115867 | [115867-dark-hero-party.json](./115867-dark-hero-party.json) |
 | Dark Horizons: Mechanized Corps | 16890 | [16890-dark-horizons-mechanized-corps.json](./16890-dark-horizons-mechanized-corps.json) |
 | Dark Matter | 16668 | [16668-dark-matter.json](./16668-dark-matter.json) |
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
@@ -37,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
+| De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
@@ -222,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakkhen | 12057 | [12057-drakkhen.json](./12057-drakkhen.json) |
 | Draw Something | 22858 | [22858-draw-something.json](./22858-draw-something.json) |
 | Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
+| Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
