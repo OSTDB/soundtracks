@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
+| On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
