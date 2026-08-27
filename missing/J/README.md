@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
 | Jetstream | 108280 | [108280-jetstream.json](./108280-jetstream.json) |
+| Jewel Factory | 20836 | [20836-jewel-factory.json](./20836-jewel-factory.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
+| Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
