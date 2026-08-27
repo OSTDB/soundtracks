@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
+| Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
 | Samurai Shodown: Edge of Destiny | 7172 | [7172-samurai-shodown-edge-of-destiny.json](./7172-samurai-shodown-edge-of-destiny.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
+| Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
@@ -46,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
+| Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
@@ -238,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
+| Star Drift | 86578 | [86578-star-drift.json](./86578-star-drift.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
 | Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
 | Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
@@ -364,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
+| SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
