@@ -6,10 +6,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
 | Yohane the Parhelion: Numazu in the Mirage | 267625 | [267625-yohane-the-parhelion-numazu-in-the-mirage.json](./267625-yohane-the-parhelion-numazu-in-the-mirage.json) |
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
+| Yorg.io 3 | 124182 | [124182-yorg-io-3.json](./124182-yorg-io-3.json) |
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
@@ -26,3 +28,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge | 26893 | [26893-yu-gi-oh-power-of-chaos-kaiba-the-revenge.json](./26893-yu-gi-oh-power-of-chaos-kaiba-the-revenge.json) |
 | Yu-Gi-Oh! The Duelists of the Roses | 4630 | [4630-yu-gi-oh-the-duelists-of-the-roses.json](./4630-yu-gi-oh-the-duelists-of-the-roses.json) |
 | Yume Koujou: Doki-doki Panic | 41233 | [41233-yume-koujou-doki-doki-panic.json](./41233-yume-koujou-doki-doki-panic.json) |
+| Yuri | 123679 | [123679-yuri.json](./123679-yuri.json) |
