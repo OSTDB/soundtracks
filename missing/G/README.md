@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
+| Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
