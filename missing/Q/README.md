@@ -9,5 +9,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-YO Blaster | 81901 | [81901-q-yo-blaster.json](./81901-q-yo-blaster.json) |
 | Q*bert | 1980 | [1980-q-bert.json](./1980-q-bert.json) |
 | Quake III: Team Arena | 6634 | [6634-quake-iii-team-arena.json](./6634-quake-iii-team-arena.json) |
+| Quell Reflect | 15742 | [15742-quell-reflect.json](./15742-quell-reflect.json) |
 | Quest for Camelot | 49949 | [49949-quest-for-camelot.json](./49949-quest-for-camelot.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
