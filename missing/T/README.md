@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
+| The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims FreePlay | 13151 | [13151-the-sims-freeplay.json](./13151-the-sims-freeplay.json) |
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
+| The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
+| Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
 | Tom & Jerry | 8026 | [8026-tom-and-jerry.json](./8026-tom-and-jerry.json) |
 | Tom and Jerry in Fists of Furry | 2714 | [2714-tom-and-jerry-in-fists-of-furry.json](./2714-tom-and-jerry-in-fists-of-furry.json) |
@@ -207,6 +210,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
 | Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
+| Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
+| TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
@@ -218,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
+| Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
@@ -236,7 +242,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
+| Tropico 4: Gold Edition | 24226 | [24226-tropico-4-gold-edition.json](./24226-tropico-4-gold-edition.json) |
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
+| Tropico 5: Penultimate Edition | 24374 | [24374-tropico-5-penultimate-edition.json](./24374-tropico-5-penultimate-edition.json) |
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
