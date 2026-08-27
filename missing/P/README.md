@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
+| Persian Nights: Sands of Wonders | 38040 | [38040-persian-nights-sands-of-wonders.json](./38040-persian-nights-sands-of-wonders.json) |
 | Persona 2: Innocent Sin | 11453 | [11453-persona-2-innocent-sin.json](./11453-persona-2-innocent-sin.json) |
 | Persona 3 | 9577 | [9577-persona-3.json](./9577-persona-3.json) |
 | Persona 3 Portable | 234701 | [234701-persona-3-portable.json](./234701-persona-3-portable.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
+| Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
