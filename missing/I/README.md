@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Dawn of the Dinosaurs | 4923 | [4923-ice-age-dawn-of-the-dinosaurs.json](./4923-ice-age-dawn-of-the-dinosaurs.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
+| Icy | 24589 | [24589-icy.json](./24589-icy.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
@@ -24,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
+| In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
