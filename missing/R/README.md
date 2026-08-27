@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City: Rival Showdown | 36602 | [36602-river-city-rival-showdown.json](./36602-river-city-rival-showdown.json) |
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
+| Riverhill Trials | 89422 | [89422-riverhill-trials.json](./89422-riverhill-trials.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
