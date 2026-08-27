@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
 | World End Syndrome | 74946 | [74946-world-end-syndrome.json](./74946-world-end-syndrome.json) |
+| World of Demons | 96500 | [96500-world-of-demons.json](./96500-world-of-demons.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
