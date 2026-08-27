@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
+| Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
 | Tank 90 | 95626 | [95626-tank-90.json](./95626-tank-90.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
+| Tank Blast | 33010 | [33010-tank-blast.json](./33010-tank-blast.json) |
 | Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
@@ -99,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
+| The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
@@ -142,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
+| The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
@@ -195,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
+| The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
@@ -252,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
+| Thorne - Son of Slaves (Ep.2) | 33039 | [33039-thorne-son-of-slaves-ep-2.json](./33039-thorne-son-of-slaves-ep-2.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
@@ -260,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
 | Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
+| Tick Tock Bang Bang | 33067 | [33067-tick-tock-bang-bang.json](./33067-tick-tock-bang-bang.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
 | Tickle Zooz | 89471 | [89471-tickle-zooz.json](./89471-tickle-zooz.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
@@ -328,10 +335,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Suimusou: Immaterial and Missing Power | 27161 | [27161-touhou-suimusou-immaterial-and-missing-power.json](./27161-touhou-suimusou-immaterial-and-missing-power.json) |
+| Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
+| Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
@@ -370,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
 | Tropico 5: Penultimate Edition | 24374 | [24374-tropico-5-penultimate-edition.json](./24374-tropico-5-penultimate-edition.json) |
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
+| Trouble Witches Origin: Episode1 Daughters of Amalgam | 33066 | [33066-trouble-witches-origin-episode1-daughters-of-amalgam.json](./33066-trouble-witches-origin-episode1-daughters-of-amalgam.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
