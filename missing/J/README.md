@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
+| Jet Set Knights | 34385 | [34385-jet-set-knights.json](./34385-jet-set-knights.json) |
 | Jetstream | 108280 | [108280-jetstream.json](./108280-jetstream.json) |
 | Jewel Factory | 20836 | [20836-jewel-factory.json](./20836-jewel-factory.json) |
 | Jewel Tree: Match It Puzzle | 87633 | [87633-jewel-tree-match-it-puzzle.json](./87633-jewel-tree-match-it-puzzle.json) |
