@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts III: Re Mind | 117778 | [117778-kingdom-hearts-iii-re-mind.json](./117778-kingdom-hearts-iii-re-mind.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
+| Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
 | Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa Beach Volleyball | 22702 | [22702-klonoa-beach-volleyball.json](./22702-klonoa-beach-volleyball.json) |
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
+| Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
