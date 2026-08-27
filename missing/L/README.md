@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legends of Atlantis: Exodus | 35806 | [35806-legends-of-atlantis-exodus.json](./35806-legends-of-atlantis-exodus.json) |
 | Legends of Ellaria | 44161 | [44161-legends-of-ellaria.json](./44161-legends-of-ellaria.json) |
 | Legends of Elysium | 296537 | [296537-legends-of-elysium.json](./296537-legends-of-elysium.json) |
 | Legends of Iskaria | 44188 | [44188-legends-of-iskaria.json](./44188-legends-of-iskaria.json) |
