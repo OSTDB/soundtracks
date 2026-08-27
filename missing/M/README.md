@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
+| Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
 | Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
+| Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
@@ -168,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
+| Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
