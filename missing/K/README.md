@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
+| Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
@@ -60,4 +61,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
+| Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
