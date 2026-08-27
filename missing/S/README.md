@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
+| Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
+| Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
@@ -255,11 +257,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
+| Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
+| Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
+| Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
