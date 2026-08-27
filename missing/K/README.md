@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
 | Krystopia: A Puzzle Journey | 126880 | [126880-krystopia-a-puzzle-journey.json](./126880-krystopia-a-puzzle-journey.json) |
 | Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
+| Kubz VR | 31532 | [31532-kubz-vr.json](./31532-kubz-vr.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
