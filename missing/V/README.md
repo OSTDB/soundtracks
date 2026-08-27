@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| V-Racer Hoverbike | 95577 | [95577-v-racer-hoverbike.json](./95577-v-racer-hoverbike.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Vampire Savior 2: The Lord of Vampire | 39696 | [39696-vampire-savior-2-the-lord-of-vampire.json](./39696-vampire-savior-2-the-lord-of-vampire.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlak | 78148 | [78148-vlak.json](./78148-vlak.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
 | Volleyball | 55052 | [55052-volleyball.json](./55052-volleyball.json) |
+| Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voyage: Journey to the Moon | 9734 | [9734-voyage-journey-to-the-moon.json](./9734-voyage-journey-to-the-moon.json) |
 | Vs. Excitebike | 41296 | [41296-vs-excitebike.json](./41296-vs-excitebike.json) |
 | Vulcan Venture | 39999 | [39999-vulcan-venture.json](./39999-vulcan-venture.json) |
