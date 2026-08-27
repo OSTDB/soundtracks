@@ -32,7 +32,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
+| Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
+| NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
 | Nevermind | 14176 | [14176-nevermind.json](./14176-nevermind.json) |
 | Neverwinter | 1908 | [1908-neverwinter.json](./1908-neverwinter.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
