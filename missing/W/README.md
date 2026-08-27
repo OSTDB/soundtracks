@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
+| What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
 | What the Bat? | 204348 | [204348-what-the-bat.json](./204348-what-the-bat.json) |
 | Wheels of Aurelia | 24463 | [24463-wheels-of-aurelia.json](./24463-wheels-of-aurelia.json) |
 | When the Darkness comes | 114420 | [114420-when-the-darkness-comes.json](./114420-when-the-darkness-comes.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
+| Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
