@@ -79,6 +79,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
 | Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
 | Win the Game: WTF! | 102200 | [102200-win-the-game-wtf.json](./102200-win-the-game-wtf.json) |
+| Winds of Trade | 29892 | [29892-winds-of-trade.json](./29892-winds-of-trade.json) |
+| Winexy | 29799 | [29799-winexy.json](./29799-winexy.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
 | Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
