@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
 | Tekken: Dark Resurrection | 24181 | [24181-tekken-dark-resurrection.json](./24181-tekken-dark-resurrection.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
+| Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
+| The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
@@ -131,12 +133,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
+| The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
+| The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
+| The Works of Mercy | 31448 | [31448-the-works-of-mercy.json](./31448-the-works-of-mercy.json) |
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
@@ -145,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
+| Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
@@ -195,8 +201,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
+| TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
+| Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
