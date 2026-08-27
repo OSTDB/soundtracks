@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | C-12: Final Resistance | 26753 | [26753-c-12-final-resistance.json](./26753-c-12-final-resistance.json) |
 | Cabal Online | 28387 | [28387-cabal-online.json](./28387-cabal-online.json) |
+| Cabela's Big Game Hunter 2008 | 4735 | [4735-cabelas-big-game-hunter-2008.json](./4735-cabelas-big-game-hunter-2008.json) |
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
+| Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
+| Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
@@ -101,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
+| Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
