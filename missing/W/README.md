@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords | 81371 | [81371-warlords.json](./81371-warlords.json) |
 | Warlords III: Reign of Heroes | 932 | [932-warlords-iii-reign-of-heroes.json](./932-warlords-iii-reign-of-heroes.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
+| Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
