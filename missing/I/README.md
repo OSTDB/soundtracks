@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
+| Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
@@ -25,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
+| Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
