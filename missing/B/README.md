@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
+| Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | BattleBit Remastered | 50531 | [50531-battlebit-remastered.json](./50531-battlebit-remastered.json) |
 | Battleborn | 7687 | [7687-battleborn.json](./7687-battleborn.json) |
@@ -63,9 +64,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
+| Big Beach Sports | 4712 | [4712-big-beach-sports.json](./4712-big-beach-sports.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
+| Bigfoot: Collision Course | 4714 | [4714-bigfoot-collision-course.json](./4714-bigfoot-collision-course.json) |
 | Bill Elliott's NASCAR Challenge | 7785 | [7785-bill-elliotts-nascar-challenge.json](./7785-bill-elliotts-nascar-challenge.json) |
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
@@ -107,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
+| Boogie Superstar | 4726 | [4726-boogie-superstar.json](./4726-boogie-superstar.json) |
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
