@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
+| Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
