@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
+| Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
 | Pankapu | 24440 | [24440-pankapu.json](./24440-pankapu.json) |
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
@@ -31,6 +32,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
+| PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
+| PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
+| PapiEscape | 87564 | [87564-papiescape.json](./87564-papiescape.json) |
+| PapiMelt | 87568 | [87568-papimelt.json](./87568-papimelt.json) |
+| PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
+| PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
