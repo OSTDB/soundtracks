@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days of Lazarus | 172142 | [172142-last-days-of-lazarus.json](./172142-last-days-of-lazarus.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
 | Last Horizon | 14712 | [14712-last-horizon.json](./14712-last-horizon.json) |
+| Last Knight: Rogue Rider Edition | 16816 | [16816-last-knight-rogue-rider-edition.json](./16816-last-knight-rogue-rider-edition.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
+| Lost Civilization | 16863 | [16863-lost-civilization.json](./16863-lost-civilization.json) |
 | Lost Frontier | 58398 | [58398-lost-frontier.json](./58398-lost-frontier.json) |
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
