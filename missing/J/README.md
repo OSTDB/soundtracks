@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
+| Jump Like A Pirate | 29760 | [29760-jump-like-a-pirate.json](./29760-jump-like-a-pirate.json) |
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
