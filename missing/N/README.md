@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
 | NASCAR Unleashed | 6848 | [6848-nascar-unleashed.json](./6848-nascar-unleashed.json) |
+| Nash Racing | 29740 | [29740-nash-racing.json](./29740-nash-racing.json) |
 | Navalny 20!8 : The Rise of Evil | 76662 | [76662-navalny-20-8-the-rise-of-evil.json](./76662-navalny-20-8-the-rise-of-evil.json) |
 | NBA 07 | 7381 | [7381-nba-07.json](./7381-nba-07.json) |
 | NBA 08 | 7382 | [7382-nba-08.json](./7382-nba-08.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
+| Noda | 29803 | [29803-noda.json](./29803-noda.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
