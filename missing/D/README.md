@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
+| Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
@@ -81,12 +82,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
 | Divinity II: Developer's Cut | 78459 | [78459-divinity-ii-developers-cut.json](./78459-divinity-ii-developers-cut.json) |
+| Divinity II: Flames of Vengeance | 78635 | [78635-divinity-ii-flames-of-vengeance.json](./78635-divinity-ii-flames-of-vengeance.json) |
 | Divinity: Original Sin | 5082 | [5082-divinity-original-sin.json](./5082-divinity-original-sin.json) |
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
+| Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
@@ -116,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball | 48678 | [48678-dragon-ball.json](./48678-dragon-ball.json) |
 | Dragon Ball Z 2: Super Battle | 2562 | [2562-dragon-ball-z-2-super-battle.json](./2562-dragon-ball-z-2-super-battle.json) |
 | Dragon Ball Z: Budokai | 2563 | [2563-dragon-ball-z-budokai.json](./2563-dragon-ball-z-budokai.json) |
+| Dragon Ball Z: Collectible Card Game | 78230 | [78230-dragon-ball-z-collectible-card-game.json](./78230-dragon-ball-z-collectible-card-game.json) |
 | Dragon Ball Z: Tenkaichi Tag Team | 2572 | [2572-dragon-ball-z-tenkaichi-tag-team.json](./2572-dragon-ball-z-tenkaichi-tag-team.json) |
 | Dragon Ball Z: Ultimate Battle 22 | 2543 | [2543-dragon-ball-z-ultimate-battle-22.json](./2543-dragon-ball-z-ultimate-battle-22.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
