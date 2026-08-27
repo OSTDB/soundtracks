@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
+| Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
