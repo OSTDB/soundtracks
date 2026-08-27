@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 229862 | [229862-prince-of-persia.json](./229862-prince-of-persia.json) |
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
 | Princess Connect! Re:Dive | 22791 | [22791-princess-connect-re-dive.json](./22791-princess-connect-re-dive.json) |
+| Princess Isabella: The Rise Of An Heir | 91278 | [91278-princess-isabella-the-rise-of-an-heir.json](./91278-princess-isabella-the-rise-of-an-heir.json) |
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
@@ -105,13 +106,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
+| Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
+| Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
+| Putin vs. Isis | 95175 | [95175-putin-vs-isis.json](./95175-putin-vs-isis.json) |
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
 | Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
