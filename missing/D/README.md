@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
+| DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
@@ -37,6 +38,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
+| Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
+| Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
@@ -87,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pocahontas | 24979 | [24979-disneys-pocahontas.json](./24979-disneys-pocahontas.json) |
 | Disney's The Jungle Book | 6480 | [6480-disneys-the-jungle-book.json](./6480-disneys-the-jungle-book.json) |
 | Disney's Toy Story | 289027 | [289027-disneys-toy-story.json](./289027-disneys-toy-story.json) |
+| Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
 | Divinity II: Developer's Cut | 78459 | [78459-divinity-ii-developers-cut.json](./78459-divinity-ii-developers-cut.json) |
@@ -118,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
+| Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
