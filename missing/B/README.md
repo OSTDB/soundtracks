@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
+| Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
+| Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
+| Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
