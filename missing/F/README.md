@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
+| Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
 | Fantasy Versus | 96514 | [96514-fantasy-versus.json](./96514-fantasy-versus.json) |
@@ -59,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 96 | 240233 | [240233-fifa-soccer-96.json](./240233-fifa-soccer-96.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
+| Final Fantasy Fables: Chocobo's Dungeon | 18069 | [18069-final-fantasy-fables-chocobos-dungeon.json](./18069-final-fantasy-fables-chocobos-dungeon.json) |
 | Final Fantasy I & II: Dawn of Souls | 408 | [408-final-fantasy-i-and-ii-dawn-of-souls.json](./408-final-fantasy-i-and-ii-dawn-of-souls.json) |
 | Final Fantasy II | 395 | [395-final-fantasy-ii.json](./395-final-fantasy-ii.json) |
 | Final Fantasy IV | 16587 | [16587-final-fantasy-iv.json](./16587-final-fantasy-iv.json) |
