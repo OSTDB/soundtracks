@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter | 1908 | [1908-neverwinter.json](./1908-neverwinter.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
 | Neverwinter Nights: Kingmaker | 9225 | [9225-neverwinter-nights-kingmaker.json](./9225-neverwinter-nights-kingmaker.json) |
+| New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
 | New Super Luigi U | 2173 | [2173-new-super-luigi-u.json](./2173-new-super-luigi-u.json) |
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
+| Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
