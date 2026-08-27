@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
+| Deathstate | 34457 | [34457-deathstate.json](./34457-deathstate.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
+| Dungeon Manager ZV | 34466 | [34466-dungeon-manager-zv.json](./34466-dungeon-manager-zv.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
