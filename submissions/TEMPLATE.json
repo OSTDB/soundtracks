@@ -1,13 +1,11 @@
 {
-  "_readme": "Fill in the fields below, then delete this _readme line. See SUBMITTING.md for full instructions and how to find the igdb_id.",
+  "igdb_id": "36897",
+  "game_name": "A Way Out",
+  "album_name": "A Way Out (Original Game Soundtrack)",
 
-  "igdb_id": "1234",
-  "game_name": "Example Game",
-  "album_name": "Example Game (Original Soundtrack)",
-
-  "spotify_url": "",
-  "apple_music_url": "",
+  "spotify_url": "https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4",
+  "apple_music_url": "https://music.apple.com/cz/album/a-way-out-original-game-soundtrack/1499113151?l=cs",
   "album_link_url": "",
 
-  "album_cover_url": "https://example.com/cover.jpg"
+  "album_cover_url": "https://i.scdn.co/image/ab67616d0000b27366cbc5183929f2d43dc485c0"
 }
