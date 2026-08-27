@@ -89,8 +89,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
+| Wooden Block Puzzle Game | 87653 | [87653-wooden-block-puzzle-game.json](./87653-wooden-block-puzzle-game.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
+| Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
