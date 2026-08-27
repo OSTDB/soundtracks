@@ -19,14 +19,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulysses and the Golden Fleece | 7657 | [7657-ulysses-and-the-golden-fleece.json](./7657-ulysses-and-the-golden-fleece.json) |
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
+| Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
+| Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
+| Unleaving | 274707 | [274707-unleaving.json](./274707-unleaving.json) |
 | Unlimited SaGa | 11314 | [11314-unlimited-saga.json](./11314-unlimited-saga.json) |
 | Unloved | 17799 | [17799-unloved.json](./17799-unloved.json) |
 | Unreal Tournament 2003 | 926 | [926-unreal-tournament-2003.json](./926-unreal-tournament-2003.json) |
