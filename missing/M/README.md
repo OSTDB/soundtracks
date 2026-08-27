@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| M4 Tank Brigade | 35791 | [35791-m4-tank-brigade.json](./35791-m4-tank-brigade.json) |
 | Machines | 22821 | [22821-machines.json](./22821-machines.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
+| Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
 | Marvel: Ultimate Alliance | 288948 | [288948-marvel-ultimate-alliance.json](./288948-marvel-ultimate-alliance.json) |
@@ -143,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
 | Might and Magic V: Darkside of Xeen | 7737 | [7737-might-and-magic-v-darkside-of-xeen.json](./7737-might-and-magic-v-darkside-of-xeen.json) |
+| Mighty Dungeons | 35765 | [35765-mighty-dungeons.json](./35765-mighty-dungeons.json) |
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
@@ -228,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
+| Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
