@@ -11,10 +11,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
+| Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Banished | 2002 | [2002-banished.json](./2002-banished.json) |
 | Banjo-Kazooie | 201644 | [201644-banjo-kazooie.json](./201644-banjo-kazooie.json) |
 | Banjo-Kazooie: Grunty's Revenge | 6318 | [6318-banjo-kazooie-gruntys-revenge.json](./6318-banjo-kazooie-gruntys-revenge.json) |
+| Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
@@ -96,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Through | 229146 | [229146-broken-through.json](./229146-broken-through.json) |
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
+| Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
