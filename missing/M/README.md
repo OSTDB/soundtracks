@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
 | Magic Jewelry | 4628 | [4628-magic-jewelry.json](./4628-magic-jewelry.json) |
+| Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
+| Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
+| Michael Jordan: Chaos in the Windy City | 42490 | [42490-michael-jordan-chaos-in-the-windy-city.json](./42490-michael-jordan-chaos-in-the-windy-city.json) |
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
@@ -82,7 +85,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
-| Michael Jordan: Chaos in the Windy City | 42490 | [42490-michael-jordan-chaos-in-the-windy-city.json](./42490-michael-jordan-chaos-in-the-windy-city.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
@@ -106,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Armageddon | 1616 | [1616-mortal-kombat-armageddon.json](./1616-mortal-kombat-armageddon.json) |
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Special Forces | 1623 | [1623-mortal-kombat-special-forces.json](./1623-mortal-kombat-special-forces.json) |
+| Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
 | Moto Racer 3 | 10563 | [10563-moto-racer-3.json](./10563-moto-racer-3.json) |
