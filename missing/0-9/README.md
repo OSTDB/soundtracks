@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
+| 123 Kids Fun Puzzle Blue | 89315 | [89315-123-kids-fun-puzzle-blue.json](./89315-123-kids-fun-puzzle-blue.json) |
 | 1348: Ex Voto | 362064 | [362064-1348-ex-voto.json](./362064-1348-ex-voto.json) |
 | 140 | 9497 | [9497-140.json](./9497-140.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
