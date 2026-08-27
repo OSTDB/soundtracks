@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 14 | 19673 | [19673-ncaa-football-14.json](./19673-ncaa-football-14.json) |
 | NCAA March Madness 08 | 7384 | [7384-ncaa-march-madness-08.json](./7384-ncaa-march-madness-08.json) |
 | Near Death Experience | 47228 | [47228-near-death-experience.json](./47228-near-death-experience.json) |
+| Near Midnight | 31473 | [31473-near-midnight.json](./31473-near-midnight.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
 | Need for Speed: High Stakes | 309579 | [309579-need-for-speed-high-stakes.json](./309579-need-for-speed-high-stakes.json) |
