@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
+| FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
 | Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
+| Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
 | Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
