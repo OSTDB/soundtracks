@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
+| Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
