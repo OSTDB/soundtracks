@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
+| Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the 'Gator | 48916 | [48916-revenge-of-the-gator.json](./48916-revenge-of-the-gator.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
+| Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
 | Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
+| Risen Kingdoms | 176166 | [176166-risen-kingdoms.json](./176166-risen-kingdoms.json) |
 | Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
