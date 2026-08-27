@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Nuka World | 19534 | [19534-fallout-4-nuka-world.json](./19534-fallout-4-nuka-world.json) |
 | Fallout 4: Wasteland Workshop | 18030 | [18030-fallout-4-wasteland-workshop.json](./18030-fallout-4-wasteland-workshop.json) |
 | Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
+| Family cobweb | 46488 | [46488-family-cobweb.json](./46488-family-cobweb.json) |
 | Family Feud: 2010 Edition | 6677 | [6677-family-feud-2010-edition.json](./6677-family-feud-2010-edition.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
+| Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
@@ -176,14 +178,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
+| Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
+| Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
+| Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
