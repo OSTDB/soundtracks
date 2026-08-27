@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
+| Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
@@ -32,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
+| Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
