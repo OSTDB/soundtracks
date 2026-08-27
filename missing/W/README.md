@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
+| Wild Animal Sports Day | 86346 | [86346-wild-animal-sports-day.json](./86346-wild-animal-sports-day.json) |
 | Wild Arms 5 | 1682 | [1682-wild-arms-5.json](./1682-wild-arms-5.json) |
 | Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
+| Worlds At War | 86508 | [86508-worlds-at-war.json](./86508-worlds-at-war.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
