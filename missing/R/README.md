@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
+| Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
 | RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
 | RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
