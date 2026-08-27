@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
+| Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
+| Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
@@ -119,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
+| Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
 | Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
+| Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
