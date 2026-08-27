@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
+| Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
 | Medal of Honor: Frontline | 1309 | [1309-medal-of-honor-frontline.json](./1309-medal-of-honor-frontline.json) |
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
+| Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
@@ -145,6 +147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
+| MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
+| Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
@@ -210,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
 | Mr. Robot:1.51exfiltrati0n | 22748 | [22748-mr-robot-1-51exfiltrati0n.json](./22748-mr-robot-1-51exfiltrati0n.json) |
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
+| Mrs Snake | 89372 | [89372-mrs-snake.json](./89372-mrs-snake.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
@@ -220,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
+| MXGP2: The Official Motocross Videogame Compact | 89499 | [89499-mxgp2-the-official-motocross-videogame-compact.json](./89499-mxgp2-the-official-motocross-videogame-compact.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
