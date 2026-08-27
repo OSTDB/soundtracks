@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
+| Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
+| Mystery of Blackthorn Castle | 87623 | [87623-mystery-of-blackthorn-castle.json](./87623-mystery-of-blackthorn-castle.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
