@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
 | Kingdom Hearts III: Re Mind | 117778 | [117778-kingdom-hearts-iii-re-mind.json](./117778-kingdom-hearts-iii-re-mind.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
+| Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
 | Kirby's Return to Dream Land Deluxe | 217565 | [217565-kirbys-return-to-dream-land-deluxe.json](./217565-kirbys-return-to-dream-land-deluxe.json) |
