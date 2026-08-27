@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
+| Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
+| Cities: VR | 185895 | [185895-cities-vr.json](./185895-cities-vr.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
