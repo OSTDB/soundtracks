@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
+| Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
