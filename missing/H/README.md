@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
 | Haunted Castle Revisited | 314976 | [314976-haunted-castle-revisited.json](./314976-haunted-castle-revisited.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
+| Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
 | Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
