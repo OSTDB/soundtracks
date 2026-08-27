@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World Rally | 2654 | [2654-pac-man-world-rally.json](./2654-pac-man-world-rally.json) |
 | Pac-Man: Championship Edition DX+ | 16515 | [16515-pac-man-championship-edition-dx.json](./16515-pac-man-championship-edition-dx.json) |
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
+| Pachi-Slot Winning Post | 63590 | [63590-pachi-slot-winning-post.json](./63590-pachi-slot-winning-post.json) |
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
@@ -187,3 +188,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
+| Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
