@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: More Friends of Mineral Town | 49188 | [49188-harvest-moon-more-friends-of-mineral-town.json](./49188-harvest-moon-more-friends-of-mineral-town.json) |
 | Harvest Moon: Tree of Tranquility | 3388 | [3388-harvest-moon-tree-of-tranquility.json](./3388-harvest-moon-tree-of-tranquility.json) |
 | Has-Been Heroes | 26763 | [26763-has-been-heroes.json](./26763-has-been-heroes.json) |
+| Hashihime of the Old Book Town | 126103 | [126103-hashihime-of-the-old-book-town.json](./126103-hashihime-of-the-old-book-town.json) |
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
 | Haunted Castle Revisited | 314976 | [314976-haunted-castle-revisited.json](./314976-haunted-castle-revisited.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
+| Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
@@ -48,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
+| Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
