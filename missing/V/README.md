@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
+| Vantage: Primitive Survival Game | 44302 | [44302-vantage-primitive-survival-game.json](./44302-vantage-primitive-survival-game.json) |
 | Varius | 102308 | [102308-varius.json](./102308-varius.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Viking Saga: Epic Adventure | 77051 | [77051-viking-saga-epic-adventure.json](./77051-viking-saga-epic-adventure.json) |
+| Village of Souls | 47133 | [47133-village-of-souls.json](./47133-village-of-souls.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
@@ -49,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
 | Voyage: Journey to the Moon | 9734 | [9734-voyage-journey-to-the-moon.json](./9734-voyage-journey-to-the-moon.json) |
+| VR Shoot Around | 44215 | [44215-vr-shoot-around.json](./44215-vr-shoot-around.json) |
 | Vs. Excitebike | 41296 | [41296-vs-excitebike.json](./41296-vs-excitebike.json) |
 | Vulcan Venture | 39999 | [39999-vulcan-venture.json](./39999-vulcan-venture.json) |
 | Vulture for NetHack | 35946 | [35946-vulture-for-nethack.json](./35946-vulture-for-nethack.json) |
