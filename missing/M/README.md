@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
 | Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
+| Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
 | Mass O' Kyzt | 65785 | [65785-mass-o-kyzt.json](./65785-mass-o-kyzt.json) |
+| Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
@@ -139,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Space Adventure | 7654 | [7654-mickeys-space-adventure.json](./7654-mickeys-space-adventure.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
+| Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
@@ -203,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
+| Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
 | Morning Never Comes | 95613 | [95613-morning-never-comes.json](./95613-morning-never-comes.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
