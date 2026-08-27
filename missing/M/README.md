@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
+| Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
 | Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
@@ -178,11 +179,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
+| My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
+| My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
+| My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
