@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
+| Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
@@ -107,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
+| SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
@@ -132,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
+| Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
@@ -173,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man | 3325 | [3325-spider-man.json](./3325-spider-man.json) |
 | Spider-Man 3 | 252202 | [252202-spider-man-3.json](./252202-spider-man-3.json) |
 | Spider-Man 3 | 5178 | [5178-spider-man-3.json](./5178-spider-man-3.json) |
+| Spikit | 31867 | [31867-spikit.json](./31867-spikit.json) |
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
@@ -223,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
+| Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
