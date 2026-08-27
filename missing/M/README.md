@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
 | Magic Jewelry | 4628 | [4628-magic-jewelry.json](./4628-magic-jewelry.json) |
+| Magic Tiles 3 | 95874 | [95874-magic-tiles-3.json](./95874-magic-tiles-3.json) |
 | Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
@@ -146,11 +147,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
+| MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
+| My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
+| Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
