@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
+| Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
+| Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
