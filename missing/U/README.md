@@ -21,11 +21,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
+| Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
 | Unlimited SaGa | 11314 | [11314-unlimited-saga.json](./11314-unlimited-saga.json) |
+| Unloved | 17799 | [17799-unloved.json](./17799-unloved.json) |
 | Unreal Tournament 2003 | 926 | [926-unreal-tournament-2003.json](./926-unreal-tournament-2003.json) |
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
 | Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
