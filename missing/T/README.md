@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
+| The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
+| The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
