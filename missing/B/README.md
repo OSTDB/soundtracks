@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
+| Ballistics | 7495 | [7495-ballistics.json](./7495-ballistics.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
@@ -40,7 +41,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
+| Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
+| Battle of Giants: Dinosaurs | 7906 | [7906-battle-of-giants-dinosaurs.json](./7906-battle-of-giants-dinosaurs.json) |
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
@@ -99,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
+| Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
