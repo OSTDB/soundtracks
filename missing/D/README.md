@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
+| Death Train VR | 61883 | [61883-death-train-vr.json](./61883-death-train-vr.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
 | Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
 | Deep, In the Forest | 126412 | [126412-deep-in-the-forest.json](./126412-deep-in-the-forest.json) |
+| Deer Hunter Reloaded | 64363 | [64363-deer-hunter-reloaded.json](./64363-deer-hunter-reloaded.json) |
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
 | Default Dan | 24032 | [24032-default-dan.json](./24032-default-dan.json) |
