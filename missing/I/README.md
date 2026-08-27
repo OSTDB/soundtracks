@@ -9,7 +9,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
+| I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
+| I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
