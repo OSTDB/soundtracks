@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
+| Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
 | Football Manager Classic 2014 | 20943 | [20943-football-manager-classic-2014.json](./20943-football-manager-classic-2014.json) |
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
+| Football Star - Super Striker | 101660 | [101660-football-star-super-striker.json](./101660-football-star-super-striker.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
@@ -156,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
+| Freefall Tournament | 102152 | [102152-freefall-tournament.json](./102152-freefall-tournament.json) |
 | Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
