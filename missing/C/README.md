@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
+| Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
