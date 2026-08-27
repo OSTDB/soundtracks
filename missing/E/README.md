@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
+| Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
@@ -61,6 +62,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
+| escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
+| eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Ethereal | 109818 | [109818-ethereal.json](./109818-ethereal.json) |
