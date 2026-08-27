@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
+| Defense the Farm | 102185 | [102185-defense-the-farm.json](./102185-defense-the-farm.json) |
 | Deisim | 31356 | [31356-deisim.json](./31356-deisim.json) |
 | Deity Empires | 109833 | [109833-deity-empires.json](./109833-deity-empires.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: Resurrection of Evil | 672 | [672-doom-3-resurrection-of-evil.json](./672-doom-3-resurrection-of-evil.json) |
 | Doom II | 313164 | [313164-doom-ii.json](./313164-doom-ii.json) |
 | Doom VFR | 37031 | [37031-doom-vfr.json](./37031-doom-vfr.json) |
+| Doomed | 102285 | [102285-doomed.json](./102285-doomed.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
 | Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
@@ -237,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
+| Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
