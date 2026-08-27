@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
+| Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
@@ -189,9 +190,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
+| SpongeBob SquarePants: Plankton's Robotic Revenge | 20858 | [20858-spongebob-squarepants-planktons-robotic-revenge.json](./20858-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
+| Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
 | SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
