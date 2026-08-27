@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 288948 | [288948-marvel-ultimate-alliance.json](./288948-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance 2 | 568 | [568-marvel-ultimate-alliance-2.json](./568-marvel-ultimate-alliance-2.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series | 26165 | [26165-marvels-guardians-of-the-galaxy-the-telltale-series.json](./26165-marvels-guardians-of-the-galaxy-the-telltale-series.json) |
+| Mask of the Rose | 178073 | [178073-mask-of-the-rose.json](./178073-mask-of-the-rose.json) |
 | Masquerada: Songs and Shadows | 24474 | [24474-masquerada-songs-and-shadows.json](./24474-masquerada-songs-and-shadows.json) |
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
@@ -126,10 +127,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
+| Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
+| Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
@@ -162,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
+| Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
