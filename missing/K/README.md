@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
+| Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
