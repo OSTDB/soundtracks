@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
 | Ristar | 237315 | [237315-ristar.json](./237315-ristar.json) |
+| Rival Megagun | 90783 | [90783-rival-megagun.json](./90783-rival-megagun.json) |
 | River City Ransom: Underground | 27038 | [27038-river-city-ransom-underground.json](./27038-river-city-ransom-underground.json) |
 | River City Saga: Three Kingdoms | 173083 | [173083-river-city-saga-three-kingdoms.json](./173083-river-city-saga-three-kingdoms.json) |
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
