@@ -107,13 +107,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
+| Command Ops 2 | 31480 | [31480-command-ops-2.json](./31480-command-ops-2.json) |
 | Command: Modern Operations | 123352 | [123352-command-modern-operations.json](./123352-command-modern-operations.json) |
 | Commander Keen in Aliens Ate My Baby Sitter! | 2446 | [2446-commander-keen-in-aliens-ate-my-baby-sitter.json](./2446-commander-keen-in-aliens-ate-my-baby-sitter.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Conduit 2 | 4770 | [4770-conduit-2.json](./4770-conduit-2.json) |
+| Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
 | Conflict: Desert Storm II: Back to Baghdad | 3864 | [3864-conflict-desert-storm-ii-back-to-baghdad.json](./3864-conflict-desert-storm-ii-back-to-baghdad.json) |
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
+| Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Contra III: The Alien Wars | 6351 | [6351-contra-iii-the-alien-wars.json](./6351-contra-iii-the-alien-wars.json) |
 | Contra ReBirth | 11300 | [11300-contra-rebirth.json](./11300-contra-rebirth.json) |
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
@@ -163,3 +166,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
+| Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
