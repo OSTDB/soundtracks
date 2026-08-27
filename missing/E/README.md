@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
 | EA Sports UFC 2 | 19918 | [19918-ea-sports-ufc-2.json](./19918-ea-sports-ufc-2.json) |
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
+| Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
 | Extreme-G | 3485 | [3485-extreme-g.json](./3485-extreme-g.json) |
 | Extreme-G: XG2 | 3486 | [3486-extreme-g-xg2.json](./3486-extreme-g-xg2.json) |
