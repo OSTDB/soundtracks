@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
+| VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
