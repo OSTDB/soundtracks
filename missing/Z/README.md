@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
+| Zigfrak | 16771 | [16771-zigfrak.json](./16771-zigfrak.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
