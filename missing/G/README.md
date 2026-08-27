@@ -16,7 +16,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
+| Game Tycoon 2 | 34414 | [34414-game-tycoon-2.json](./34414-game-tycoon-2.json) |
 | Gamer Career Tycoon | 86611 | [86611-gamer-career-tycoon.json](./86611-gamer-career-tycoon.json) |
+| Gamer Simulator | 34462 | [34462-gamer-simulator.json](./34462-gamer-simulator.json) |
 | Gang Wars | 6796 | [6796-gang-wars.json](./6796-gang-wars.json) |
 | Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
