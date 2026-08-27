@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
+| AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
