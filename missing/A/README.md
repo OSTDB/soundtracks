@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
+| A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
+| AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: The Lake House | 273997 | [273997-alan-wake-ii-the-lake-house.json](./273997-alan-wake-ii-the-lake-house.json) |
 | Alarm for Cobra 11: Nitro | 81663 | [81663-alarm-for-cobra-11-nitro.json](./81663-alarm-for-cobra-11-nitro.json) |
@@ -60,11 +62,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
+| Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
 | Army Men: Sarge's War | 2702 | [2702-army-men-sarges-war.json](./2702-army-men-sarges-war.json) |
+| Army Men: Toys in Space | 27454 | [27454-army-men-toys-in-space.json](./27454-army-men-toys-in-space.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Art of Murder: Hunt for the Puppeteer | 14358 | [14358-art-of-murder-hunt-for-the-puppeteer.json](./14358-art-of-murder-hunt-for-the-puppeteer.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
@@ -86,3 +90,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athens 2004 | 22298 | [22298-athens-2004.json](./22298-athens-2004.json) |
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
+| Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
