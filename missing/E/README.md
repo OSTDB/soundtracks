@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
+| EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
