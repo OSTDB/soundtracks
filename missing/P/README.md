@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
 | Puyo Puyo Quest | 22847 | [22847-puyo-puyo-quest.json](./22847-puyo-puyo-quest.json) |
 | Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
+| Puzzle Ball | 34460 | [34460-puzzle-ball.json](./34460-puzzle-ball.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
