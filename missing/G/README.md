@@ -52,9 +52,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sun: The Lost Age | 1173 | [1173-golden-sun-the-lost-age.json](./1173-golden-sun-the-lost-age.json) |
 | GoldenEye 007 | 233877 | [233877-goldeneye-007.json](./233877-goldeneye-007.json) |
 | GoldenEye: Source | 51239 | [51239-goldeneye-source.json](./51239-goldeneye-source.json) |
+| Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
+| Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
@@ -63,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
+| Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle | 93901 | [93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json](./93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json) |
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
