@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
+| Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
 | MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
+| MLB Tap Sports Baseball 2018 | 96026 | [96026-mlb-tap-sports-baseball-2018.json](./96026-mlb-tap-sports-baseball-2018.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
@@ -183,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
+| Morning Never Comes | 95613 | [95613-morning-never-comes.json](./95613-morning-never-comes.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
 | Mortal Kombat & Mortal Kombat II | 81899 | [81899-mortal-kombat-and-mortal-kombat-ii.json](./81899-mortal-kombat-and-mortal-kombat-ii.json) |
