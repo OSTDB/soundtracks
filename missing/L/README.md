@@ -10,7 +10,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
+| Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
+| Last Horizon | 14712 | [14712-last-horizon.json](./14712-last-horizon.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
@@ -54,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
+| Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
