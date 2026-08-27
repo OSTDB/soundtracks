@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
+| Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
@@ -102,6 +103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluvion | 26743 | [26743-diluvion.json](./26743-diluvion.json) |
 | Diner Bros Inc | 166155 | [166155-diner-bros-inc.json](./166155-diner-bros-inc.json) |
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
+| Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
+| Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
 | DiscStorm | 11420 | [11420-discstorm.json](./11420-discstorm.json) |
@@ -162,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
+| Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
@@ -186,10 +190,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakensang: The Dark Eye | 8768 | [8768-drakensang-the-dark-eye.json](./8768-drakensang-the-dark-eye.json) |
 | Drakkhen | 12057 | [12057-drakkhen.json](./12057-drakkhen.json) |
 | Draw Something | 22858 | [22858-draw-something.json](./22858-draw-something.json) |
+| Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
+| Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
@@ -211,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
+| Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
