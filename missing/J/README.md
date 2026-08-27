@@ -18,7 +18,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
+| June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
+| Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
