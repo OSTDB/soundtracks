@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
+| Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
 | Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
+| Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
@@ -162,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Invade: Oz | 20915 | [20915-monsters-invade-oz.json](./20915-monsters-invade-oz.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
+| Montas | 16915 | [16915-montas.json](./16915-montas.json) |
 | Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
@@ -209,7 +212,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
+| My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
+| My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
