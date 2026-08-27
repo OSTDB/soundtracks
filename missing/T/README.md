@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangle Tower | 123775 | [123775-tangle-tower.json](./123775-tangle-tower.json) |
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
+| Tank 90 | 95626 | [95626-tank-90.json](./95626-tank-90.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
@@ -29,6 +30,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
+| Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
+| Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Tecmo Bowl | 285764 | [285764-tecmo-bowl.json](./285764-tecmo-bowl.json) |
 | Teenage Mutant Ninja Turtles | 86386 | [86386-teenage-mutant-ninja-turtles.json](./86386-teenage-mutant-ninja-turtles.json) |
@@ -63,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
+| The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
@@ -128,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
+| The Last Day Defense | 95637 | [95637-the-last-day-defense.json](./95637-the-last-day-defense.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
@@ -255,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
+| Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
@@ -303,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
+| Toy Puzzle | 95649 | [95649-toy-puzzle.json](./95649-toy-puzzle.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
