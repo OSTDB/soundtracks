@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | R-Type Dimensions | 21250 | [21250-r-type-dimensions.json](./21250-r-type-dimensions.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
+| R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
