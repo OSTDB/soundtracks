@@ -11,10 +11,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
+| Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
+| One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Piece: Grand Battle! | 75738 | [75738-one-piece-grand-battle.json](./75738-one-piece-grand-battle.json) |
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
@@ -32,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
+| Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
