@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
 | Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
+| Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
@@ -88,8 +89,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
+| Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
+| Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
 | Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
 | Framed 2 | 25236 | [25236-framed-2.json](./25236-framed-2.json) |
