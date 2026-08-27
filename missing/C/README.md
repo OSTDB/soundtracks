@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
+| CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
