@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
+| Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
