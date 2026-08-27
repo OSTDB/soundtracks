@@ -28,3 +28,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
 | Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
 | Use Your Words | 28113 | [28113-use-your-words.json](./28113-use-your-words.json) |
+| Utawarerumono: Zan | 95831 | [95831-utawarerumono-zan.json](./95831-utawarerumono-zan.json) |
