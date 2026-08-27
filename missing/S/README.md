@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
+| SinaRun | 17868 | [17868-sinarun.json](./17868-sinarun.json) |
 | SingStar: '90s | 15165 | [15165-singstar-90s.json](./15165-singstar-90s.json) |
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
+| SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
@@ -133,11 +135,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park | 1257 | [1257-south-park.json](./1257-south-park.json) |
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
 | South Park: Phone Destroyer | 37063 | [37063-south-park-phone-destroyer.json](./37063-south-park-phone-destroyer.json) |
+| Sovereignty: Crown of Kings | 17613 | [17613-sovereignty-crown-of-kings.json](./17613-sovereignty-crown-of-kings.json) |
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
+| Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
@@ -178,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Yoda Stories | 155 | [155-star-wars-yoda-stories.json](./155-star-wars-yoda-stories.json) |
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
+| Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
@@ -216,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
 | Summoners War: Sky Arena | 23622 | [23622-summoners-war-sky-arena.json](./23622-summoners-war-sky-arena.json) |
 | Sumotori Dreams | 20974 | [20974-sumotori-dreams.json](./20974-sumotori-dreams.json) |
+| SunAge: Battle for Elysium | 17750 | [17750-sunage-battle-for-elysium.json](./17750-sunage-battle-for-elysium.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
@@ -224,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
 | Super Hydlide | 27987 | [27987-super-hydlide.json](./27987-super-hydlide.json) |
 | Super Hydorah | 26975 | [26975-super-hydorah.json](./26975-super-hydorah.json) |
+| Super Indie Karts | 17853 | [17853-super-indie-karts.json](./17853-super-indie-karts.json) |
 | Super Kinky | 37386 | [37386-super-kinky.json](./37386-super-kinky.json) |
 | Super Mario 64 | 229245 | [229245-super-mario-64.json](./229245-super-mario-64.json) |
 | Super Mario Advance | 81197 | [81197-super-mario-advance.json](./81197-super-mario-advance.json) |
