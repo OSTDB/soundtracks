@@ -17,9 +17,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
+| Ballistic Attack | 44144 | [44144-ballistic-attack.json](./44144-ballistic-attack.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballistics | 7495 | [7495-ballistics.json](./7495-ballistics.json) |
 | Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
+| Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
@@ -41,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Harley Quinn Story Pack | 26031 | [26031-batman-arkham-knight-harley-quinn-story-pack.json](./26031-batman-arkham-knight-harley-quinn-story-pack.json) |
 | Batman: The Animated Series | 7771 | [7771-batman-the-animated-series.json](./7771-batman-the-animated-series.json) |
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
+| Batter Up! VR | 47167 | [47167-batter-up-vr.json](./47167-batter-up-vr.json) |
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
@@ -69,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
+| Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
@@ -202,8 +206,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
+| Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
