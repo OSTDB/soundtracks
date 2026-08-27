@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
+| LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
