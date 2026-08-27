@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tally Ho | 81695 | [81695-tally-ho.json](./81695-tally-ho.json) |
 | Tangle Tower | 123775 | [123775-tangle-tower.json](./123775-tangle-tower.json) |
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
+| The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
@@ -153,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
 | Tom & Jerry | 8026 | [8026-tom-and-jerry.json](./8026-tom-and-jerry.json) |
 | Tom and Jerry in Fists of Furry | 2714 | [2714-tom-and-jerry-in-fists-of-furry.json](./2714-tom-and-jerry-in-fists-of-furry.json) |
+| Tom Clancy's Ghost Recon | 77978 | [77978-tom-clancys-ghost-recon.json](./77978-tom-clancys-ghost-recon.json) |
 | Tom Clancy's Ghost Recon Phantoms | 1304 | [1304-tom-clancys-ghost-recon-phantoms.json](./1304-tom-clancys-ghost-recon-phantoms.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 1297 | [1297-tom-clancys-ghost-recon-jungle-storm.json](./1297-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
