@@ -50,11 +50,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
+| Carnival Games: Monkey See, Monkey Do | 47393 | [47393-carnival-games-monkey-see-monkey-do.json](./47393-carnival-games-monkey-see-monkey-do.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
+| Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
@@ -167,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
 | Contra: The Alien Wars | 48914 | [48914-contra-the-alien-wars.json](./48914-contra-the-alien-wars.json) |
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
+| Cookie & Cream | 47704 | [47704-cookie-and-cream.json](./47704-cookie-and-cream.json) |
 | Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
@@ -189,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
+| Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
@@ -196,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
+| Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
