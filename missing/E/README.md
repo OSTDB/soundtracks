@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
+| Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Tigre: The Adventures of Manny Rivera | 7995 | [7995-el-tigre-the-adventures-of-manny-rivera.json](./7995-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
+| Ethereal | 109818 | [109818-ethereal.json](./109818-ethereal.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
 | Etrian Odyssey 2 Untold: The Fafnir Knight | 14709 | [14709-etrian-odyssey-2-untold-the-fafnir-knight.json](./14709-etrian-odyssey-2-untold-the-fafnir-knight.json) |
 | Etrian Odyssey Nexus | 57012 | [57012-etrian-odyssey-nexus.json](./57012-etrian-odyssey-nexus.json) |
@@ -69,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
+| Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
