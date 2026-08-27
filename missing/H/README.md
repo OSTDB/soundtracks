@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
+| Heckabomb | 35880 | [35880-heckabomb.json](./35880-heckabomb.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
+| Heroes of Hellas 3: Athens | 35810 | [35810-heroes-of-hellas-3-athens.json](./35810-heroes-of-hellas-3-athens.json) |
 | Heroes of Hellas Origins: Part One | 123917 | [123917-heroes-of-hellas-origins-part-one.json](./123917-heroes-of-hellas-origins-part-one.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
@@ -71,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
+| Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
@@ -100,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
+| Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
@@ -120,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
+| Hyperspeed | 35801 | [35801-hyperspeed.json](./35801-hyperspeed.json) |
 | Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
 | Hyrule Warriors: Age of Calamity | 138343 | [138343-hyrule-warriors-age-of-calamity.json](./138343-hyrule-warriors-age-of-calamity.json) |
