@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
+| Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
 | Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
