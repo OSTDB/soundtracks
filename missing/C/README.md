@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
+| Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
