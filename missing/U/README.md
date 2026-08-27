@@ -14,9 +14,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
 | Ultros | 250626 | [250626-ultros.json](./250626-ultros.json) |
-| Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
+| Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
+| Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
