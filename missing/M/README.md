@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
 | Mass O' Kyzt | 65785 | [65785-mass-o-kyzt.json](./65785-mass-o-kyzt.json) |
+| Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
+| Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
@@ -191,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
+| Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters Invade: Oz | 20915 | [20915-monsters-invade-oz.json](./20915-monsters-invade-oz.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
@@ -215,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 3 | 10563 | [10563-moto-racer-3.json](./10563-moto-racer-3.json) |
 | Motocross Madness | 10261 | [10261-motocross-madness.json](./10261-motocross-madness.json) |
 | MotoGP | 23012 | [23012-motogp.json](./23012-motogp.json) |
+| MotoGP 15 Compact | 34399 | [34399-motogp-15-compact.json](./34399-motogp-15-compact.json) |
 | MotoGP 2 | 5933 | [5933-motogp-2.json](./5933-motogp-2.json) |
 | MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
 | MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
