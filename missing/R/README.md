@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
+| Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
@@ -69,10 +70,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
+| Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
+| Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
