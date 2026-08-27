@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
+| Naruto Online | 22797 | [22797-naruto-online.json](./22797-naruto-online.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
@@ -83,5 +84,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
+| North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
