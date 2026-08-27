@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
+| Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
 | Legends of Elysium | 296537 | [296537-legends-of-elysium.json](./296537-legends-of-elysium.json) |
 | LEGO 2K Drive | 242493 | [242493-lego-2k-drive.json](./242493-lego-2k-drive.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
+| Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
