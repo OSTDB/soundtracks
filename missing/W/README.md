@@ -55,8 +55,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
+| Winnie the Pooh | 17765 | [17765-winnie-the-pooh.json](./17765-winnie-the-pooh.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
+| WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
@@ -69,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
+| Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
