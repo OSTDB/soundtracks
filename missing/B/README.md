@@ -94,6 +94,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock 2: Minerva's Den Remastered | 78451 | [78451-bioshock-2-minervas-den-remastered.json](./78451-bioshock-2-minervas-den-remastered.json) |
 | BioShock Infinite: Burial at Sea | 127036 | [127036-bioshock-infinite-burial-at-sea.json](./127036-bioshock-infinite-burial-at-sea.json) |
 | BioShock Remastered | 34293 | [34293-bioshock-remastered.json](./34293-bioshock-remastered.json) |
+| Bioszard Corporation | 115703 | [115703-bioszard-corporation.json](./115703-bioszard-corporation.json) |
+| Biotope: Aquarium Simulator | 115812 | [115812-biotope-aquarium-simulator.json](./115812-biotope-aquarium-simulator.json) |
 | Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Lazers | 42125 | [42125-blazing-lazers.json](./42125-blazing-lazers.json) |
 | Bleach: Brave Souls | 23975 | [23975-bleach-brave-souls.json](./23975-bleach-brave-souls.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
+| Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
@@ -133,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
+| Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
 | Bokuten: Why I Became an Angel | 126100 | [126100-bokuten-why-i-became-an-angel.json](./126100-bokuten-why-i-became-an-angel.json) |
 | Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
@@ -167,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Through | 229146 | [229146-broken-through.json](./229146-broken-through.json) |
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
+| Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
