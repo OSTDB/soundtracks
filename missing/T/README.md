@@ -15,13 +15,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
+| Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Tecmo Bowl | 285764 | [285764-tecmo-bowl.json](./285764-tecmo-bowl.json) |
 | Teenage Mutant Ninja Turtles | 86386 | [86386-teenage-mutant-ninja-turtles.json](./86386-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed | 289562 | [289562-teenage-mutant-ninja-turtles-mutants-unleashed.json](./289562-teenage-mutant-ninja-turtles-mutants-unleashed.json) |
 | Teenage Mutant Ninja Turtles: Out of the Shadows | 2598 | [2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json](./2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock | 252825 | [252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json](./252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate | 248582 | [248582-teenage-mutant-ninja-turtles-splintered-fate.json](./248582-teenage-mutant-ninja-turtles-splintered-fate.json) |
-| Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Tekken | 304400 | [304400-tekken.json](./304400-tekken.json) |
 | Tekken 2 | 305775 | [305775-tekken-2.json](./305775-tekken-2.json) |
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
+| The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
@@ -66,10 +67,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
-| The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
+| The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
+| The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
+| True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
