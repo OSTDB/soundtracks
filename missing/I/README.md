@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
 | Ice Age: Dawn of the Dinosaurs | 4923 | [4923-ice-age-dawn-of-the-dinosaurs.json](./4923-ice-age-dawn-of-the-dinosaurs.json) |
+| Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Infinite Crisis | 6764 | [6764-infinite-crisis.json](./6764-infinite-crisis.json) |
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
+| Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
