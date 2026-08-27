@@ -9,6 +9,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
+| Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
+| Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
