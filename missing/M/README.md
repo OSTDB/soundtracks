@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
 | Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
+| Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 288948 | [288948-marvel-ultimate-alliance.json](./288948-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance 2 | 568 | [568-marvel-ultimate-alliance-2.json](./568-marvel-ultimate-alliance-2.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series | 26165 | [26165-marvels-guardians-of-the-galaxy-the-telltale-series.json](./26165-marvels-guardians-of-the-galaxy-the-telltale-series.json) |
+| Marvin's Mittens | 36157 | [36157-marvins-mittens.json](./36157-marvins-mittens.json) |
 | Mask of the Rose | 178073 | [178073-mask-of-the-rose.json](./178073-mask-of-the-rose.json) |
 | Masquerada: Songs and Shadows | 24474 | [24474-masquerada-songs-and-shadows.json](./24474-masquerada-songs-and-shadows.json) |
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
+| Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
