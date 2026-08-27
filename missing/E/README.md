@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
+| Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
 | Eqqo | 101685 | [101685-eqqo.json](./101685-eqqo.json) |
 | Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
+| Eric Carle's Brown Bear Animal Parade | 89310 | [89310-eric-carles-brown-bear-animal-parade.json](./89310-eric-carles-brown-bear-animal-parade.json) |
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
