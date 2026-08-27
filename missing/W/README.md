@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
 | Warcraft II: Remastered | 322109 | [322109-warcraft-ii-remastered.json](./322109-warcraft-ii-remastered.json) |
+| Warfare Nations | 20922 | [20922-warfare-nations.json](./20922-warfare-nations.json) |
 | Wargame: AirLand Battle | 2978 | [2978-wargame-airland-battle.json](./2978-wargame-airland-battle.json) |
 | Wargasm | 22805 | [22805-wargasm.json](./22805-wargasm.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption | 302169 | [302169-warhammer-40-000-boltgun-forges-of-corruption.json](./302169-warhammer-40-000-boltgun-forges-of-corruption.json) |
