@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
+| The Treasures of Montezuma 4 | 36307 | [36307-the-treasures-of-montezuma-4.json](./36307-the-treasures-of-montezuma-4.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
@@ -179,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
+| Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
 | Titan Quest | 8311 | [8311-titan-quest.json](./8311-titan-quest.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
@@ -204,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Pharaoh | 250531 | [250531-total-war-pharaoh.json](./250531-total-war-pharaoh.json) |
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
+| Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
@@ -224,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
+| TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
