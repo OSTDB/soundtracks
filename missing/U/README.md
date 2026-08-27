@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| U-Boats | 34376 | [34376-u-boats.json](./34376-u-boats.json) |
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
@@ -16,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
 | Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
+| Ultimate Rock Crawler | 34488 | [34488-ultimate-rock-crawler.json](./34488-ultimate-rock-crawler.json) |
 | Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
@@ -28,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
+| Undercover Missions: Operation Kursk K-141 | 34437 | [34437-undercover-missions-operation-kursk-k-141.json](./34437-undercover-missions-operation-kursk-k-141.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthed: Trail of Ibn Battuta | 20852 | [20852-unearthed-trail-of-ibn-battuta.json](./20852-unearthed-trail-of-ibn-battuta.json) |
