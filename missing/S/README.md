@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
+| Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
+| Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
 | Sonic Blast Man II | 42459 | [42459-sonic-blast-man-ii.json](./42459-sonic-blast-man-ii.json) |
@@ -129,7 +131,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
+| Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
 | Star of Providence | 262420 | [262420-star-of-providence.json](./262420-star-of-providence.json) |
+| Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
 | Star Wars: Episode I - Racer | 167641 | [167641-star-wars-episode-i-racer.json](./167641-star-wars-episode-i-racer.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
+| Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
@@ -202,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
+| Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
 | Swords and Serpents | 48230 | [48230-swords-and-serpents.json](./48230-swords-and-serpents.json) |
