@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colt Express | 31149 | [31149-colt-express.json](./31149-colt-express.json) |
+| Combat Air Patrol 2 | 35799 | [35799-combat-air-patrol-2.json](./35799-combat-air-patrol-2.json) |
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
@@ -234,3 +235,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
+| Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
