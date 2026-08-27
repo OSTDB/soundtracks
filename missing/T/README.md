@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
+| Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 | 305775 | [305775-tekken-2.json](./305775-tekken-2.json) |
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
 | Tekken: Dark Resurrection | 24181 | [24181-tekken-dark-resurrection.json](./24181-tekken-dark-resurrection.json) |
+| Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
@@ -54,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
+| The Bradwell Conspiracy | 107314 | [107314-the-bradwell-conspiracy.json](./107314-the-bradwell-conspiracy.json) |
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
@@ -75,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim Collector's Edition | 41597 | [41597-the-elder-scrolls-v-skyrim-collectors-edition.json](./41597-the-elder-scrolls-v-skyrim-collectors-edition.json) |
 | The Elder Scrolls: Arena | 52 | [52-the-elder-scrolls-arena.json](./52-the-elder-scrolls-arena.json) |
 | The Elder Scrolls: Legends | 11120 | [11120-the-elder-scrolls-legends.json](./11120-the-elder-scrolls-legends.json) |
+| The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
@@ -88,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
+| The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
 | The Guise | 123960 | [123960-the-guise.json](./123960-the-guise.json) |
@@ -133,12 +138,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
+| The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
+| The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
 | The Sims 2: FreeTime | 5537 | [5537-the-sims-2-freetime.json](./5537-the-sims-2-freetime.json) |
@@ -159,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
+| The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
@@ -169,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
+| The Waylanders | 107211 | [107211-the-waylanders.json](./107211-the-waylanders.json) |
 | The Weaponographist | 11418 | [11418-the-weaponographist.json](./11418-the-weaponographist.json) |
 | The White Laboratory | 93851 | [93851-the-white-laboratory.json](./93851-the-white-laboratory.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
@@ -238,11 +247,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster Connect | 124102 | [124102-touchmaster-connect.json](./124102-touchmaster-connect.json) |
+| Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
 | Touhou Shinkirou: Hopeless Masquerade | 27158 | [27158-touhou-shinkirou-hopeless-masquerade.json](./27158-touhou-shinkirou-hopeless-masquerade.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
+| Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Suimusou: Immaterial and Missing Power | 27161 | [27161-touhou-suimusou-immaterial-and-missing-power.json](./27161-touhou-suimusou-immaterial-and-missing-power.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
@@ -266,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
 | Treadnauts | 54785 | [54785-treadnauts.json](./54785-treadnauts.json) |
+| Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
