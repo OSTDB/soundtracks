@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
+| My Life as a Maiden | 76793 | [76793-my-life-as-a-maiden.json](./76793-my-life-as-a-maiden.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
 | My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
