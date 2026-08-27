@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
+| Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -90,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
 | The Dark Room | 109841 | [109841-the-dark-room.json](./109841-the-dark-room.json) |
+| The Dark Stone from Mebara | 35843 | [35843-the-dark-stone-from-mebara.json](./35843-the-dark-stone-from-mebara.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
