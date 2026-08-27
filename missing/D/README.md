@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
 | Dead or Alive 5 Ultimate | 7286 | [7286-dead-or-alive-5-ultimate.json](./7286-dead-or-alive-5-ultimate.json) |
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
+| Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
+| Desta: The Memories Between | 204376 | [204376-desta-the-memories-between.json](./204376-desta-the-memories-between.json) |
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
@@ -81,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon: Battle Spirit 2 | 6375 | [6375-digimon-battle-spirit-2.json](./6375-digimon-battle-spirit-2.json) |
 | Digital Devil Story: Megami Tensei | 5081 | [5081-digital-devil-story-megami-tensei.json](./5081-digital-devil-story-megami-tensei.json) |
 | Diluvion | 26743 | [26743-diluvion.json](./26743-diluvion.json) |
+| Diner Bros Inc | 166155 | [166155-diner-bros-inc.json](./166155-diner-bros-inc.json) |
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
