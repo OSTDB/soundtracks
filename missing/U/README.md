@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
+| Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
@@ -22,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
+| Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
