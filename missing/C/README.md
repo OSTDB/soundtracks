@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
+| Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
 | Capcom vs. SNK 2 EO | 86343 | [86343-capcom-vs-snk-2-eo.json](./86343-capcom-vs-snk-2-eo.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
+| Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
@@ -110,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
+| Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
