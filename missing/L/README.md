@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
@@ -52,3 +53,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
+| Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
