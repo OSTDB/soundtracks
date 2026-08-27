@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
+| Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
@@ -37,9 +38,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
+| Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
+| Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
@@ -103,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
 | Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
 | Disney Infinity 3.0: Gold Edition | 30979 | [30979-disney-infinity-3-0-gold-edition.json](./30979-disney-infinity-3-0-gold-edition.json) |
+| Disney Sing It | 4807 | [4807-disney-sing-it.json](./4807-disney-sing-it.json) |
 | Disney's Goof Troop | 8163 | [8163-disneys-goof-troop.json](./8163-disneys-goof-troop.json) |
 | Disney's Lilo & Stitch | 25912 | [25912-disneys-lilo-and-stitch.json](./25912-disneys-lilo-and-stitch.json) |
 | Disney's Lilo & Stitch: Trouble in Paradise | 23792 | [23792-disneys-lilo-and-stitch-trouble-in-paradise.json](./23792-disneys-lilo-and-stitch-trouble-in-paradise.json) |
@@ -160,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Collectible Card Game | 78230 | [78230-dragon-ball-z-collectible-card-game.json](./78230-dragon-ball-z-collectible-card-game.json) |
 | Dragon Ball Z: Tenkaichi Tag Team | 2572 | [2572-dragon-ball-z-tenkaichi-tag-team.json](./2572-dragon-ball-z-tenkaichi-tag-team.json) |
 | Dragon Ball Z: Ultimate Battle 22 | 2543 | [2543-dragon-ball-z-ultimate-battle-22.json](./2543-dragon-ball-z-ultimate-battle-22.json) |
+| Dragon Blade: Wrath of Fire | 4819 | [4819-dragon-blade-wrath-of-fire.json](./4819-dragon-blade-wrath-of-fire.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
