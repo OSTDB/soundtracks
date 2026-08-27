@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
+| Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hunting USA | 89490 | [89490-hunting-usa.json](./89490-hunting-usa.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
