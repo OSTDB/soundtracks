@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
 | Zombieville USA 2 | 86895 | [86895-zombieville-usa-2.json](./86895-zombieville-usa-2.json) |
 | Zombo Buster Rising | 24823 | [24823-zombo-buster-rising.json](./24823-zombo-buster-rising.json) |
+| ZombVR | 31408 | [31408-zombvr.json](./31408-zombvr.json) |
 | Zone of the Enders: The 2nd Runner | 1473 | [1473-zone-of-the-enders-the-2nd-runner.json](./1473-zone-of-the-enders-the-2nd-runner.json) |
 | Zone4 | 31575 | [31575-zone4.json](./31575-zone4.json) |
 | Zoo Tycoon 2 | 11581 | [11581-zoo-tycoon-2.json](./11581-zoo-tycoon-2.json) |
