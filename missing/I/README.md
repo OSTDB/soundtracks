@@ -80,4 +80,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
+| It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
