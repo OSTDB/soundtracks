@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
+| Pixel Shopkeeper | 44518 | [44518-pixel-shopkeeper.json](./44518-pixel-shopkeeper.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Race Driver | 2483 | [2483-pro-race-driver.json](./2483-pro-race-driver.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
+| Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
