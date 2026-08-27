@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
+| Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
