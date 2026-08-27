@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Instincts: Predator | 22585 | [22585-far-cry-instincts-predator.json](./22585-far-cry-instincts-predator.json) |
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
+| Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 2 | 91995 | [91995-fran-bow-chapter-2.json](./91995-fran-bow-chapter-2.json) |
 | Fran Bow Chapter 3 | 91977 | [91977-fran-bow-chapter-3.json](./91977-fran-bow-chapter-3.json) |
 | Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
+| Freakyforms Deluxe: Your Creations, Alive! | 24225 | [24225-freakyforms-deluxe-your-creations-alive.json](./24225-freakyforms-deluxe-your-creations-alive.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
