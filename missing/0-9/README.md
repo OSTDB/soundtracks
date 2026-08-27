@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 140 | 9497 | [9497-140.json](./9497-140.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
+| 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
