@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Tiret sur Will | 336493 | [336493-a-bibelot-tiret-sur-will.json](./336493-a-bibelot-tiret-sur-will.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
+| A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
+| Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
 | Atelier Annie: Alchemists of Sera Island | 24262 | [24262-atelier-annie-alchemists-of-sera-island.json](./24262-atelier-annie-alchemists-of-sera-island.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key | 217558 | [217558-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key.json](./217558-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key.json) |
 | Atelier Shallie Plus: Alchemists of the Dusk Sea | 25699 | [25699-atelier-shallie-plus-alchemists-of-the-dusk-sea.json](./25699-atelier-shallie-plus-alchemists-of-the-dusk-sea.json) |
