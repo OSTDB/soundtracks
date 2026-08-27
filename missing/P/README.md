@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
+| Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
+| Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
