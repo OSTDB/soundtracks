@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
+| Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
+| Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
