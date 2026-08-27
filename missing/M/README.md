@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
 | Magic Cat Story | 24580 | [24580-magic-cat-story.json](./24580-magic-cat-story.json) |
 | Magic Jewelry | 4628 | [4628-magic-jewelry.json](./4628-magic-jewelry.json) |
+| Magic of Autumn | 126691 | [126691-magic-of-autumn.json](./126691-magic-of-autumn.json) |
 | Magic Tiles 3 | 95874 | [95874-magic-tiles-3.json](./95874-magic-tiles-3.json) |
 | Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2013: Expansion | 20835 | [20835-magic-the-gathering-duels-of-the-planeswalkers-2013-expansion.json](./20835-magic-the-gathering-duels-of-the-planeswalkers-2013-expansion.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
+| Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
@@ -102,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
+| Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
@@ -139,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
+| MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
