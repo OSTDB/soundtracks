@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
+| Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
+| Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
@@ -90,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
+| Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
@@ -107,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
+| Sniper Elite VR: Winter Warrior | 275159 | [275159-sniper-elite-vr-winter-warrior.json](./275159-sniper-elite-vr-winter-warrior.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
@@ -155,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
+| Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
@@ -200,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
+| Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
@@ -213,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
+| Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
@@ -268,4 +275,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords 'n Magic and Stuff | 90235 | [90235-swords-n-magic-and-stuff.json](./90235-swords-n-magic-and-stuff.json) |
 | Swords and Serpents | 48230 | [48230-swords-and-serpents.json](./48230-swords-and-serpents.json) |
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
+| Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
