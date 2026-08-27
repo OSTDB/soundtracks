@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
+| The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
@@ -242,8 +243,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
+| To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
+| ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
 | Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
