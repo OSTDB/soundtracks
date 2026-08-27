@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Remastered | 24920 | [24920-call-of-duty-modern-warfare-remastered.json](./24920-call-of-duty-modern-warfare-remastered.json) |
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
+| Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
@@ -146,4 +147,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
+| Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
