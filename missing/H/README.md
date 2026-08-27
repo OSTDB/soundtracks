@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
+| Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
+| Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
