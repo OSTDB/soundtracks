@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
+| Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
+| Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
