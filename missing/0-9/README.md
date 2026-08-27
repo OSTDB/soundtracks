@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
+| 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
