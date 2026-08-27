@@ -76,5 +76,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
 | Extreme-G | 3485 | [3485-extreme-g.json](./3485-extreme-g.json) |
 | Extreme-G: XG2 | 3486 | [3486-extreme-g-xg2.json](./3486-extreme-g-xg2.json) |
+| Extricate | 115694 | [115694-extricate.json](./115694-extricate.json) |
 | Eye of the Beholder III: Assault on Myth Drannor | 2524 | [2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json](./2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json) |
 | Eyes: The Horror Game | 63565 | [63565-eyes-the-horror-game.json](./63565-eyes-the-horror-game.json) |
