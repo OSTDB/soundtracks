@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
+| NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
 | NBA 07 | 7381 | [7381-nba-07.json](./7381-nba-07.json) |
 | NBA 08 | 7382 | [7382-nba-08.json](./7382-nba-08.json) |
 | NBA 2K13 | 5058 | [5058-nba-2k13.json](./5058-nba-2k13.json) |
@@ -30,6 +31,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: V-Rally 2 | 6224 | [6224-need-for-speed-v-rally-2.json](./6224-need-for-speed-v-rally-2.json) |
 | Nefarious | 26864 | [26864-nefarious.json](./26864-nefarious.json) |
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
+| Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
+| Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
@@ -69,5 +72,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
+| NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
