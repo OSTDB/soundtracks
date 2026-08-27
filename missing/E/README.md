@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
+| EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
