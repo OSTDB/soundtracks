@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
+| Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
