@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
+| Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
+| DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
@@ -81,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
+| Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
@@ -155,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
+| Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
