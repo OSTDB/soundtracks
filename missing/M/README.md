@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
+| Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
+| Monster Max | 18629 | [18629-monster-max.json](./18629-monster-max.json) |
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
@@ -162,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
+| My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
