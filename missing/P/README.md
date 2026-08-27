@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
+| PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
+| Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Legacy Wars | 74865 | [74865-power-rangers-legacy-wars.json](./74865-power-rangers-legacy-wars.json) |
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
 | Power Stone | 4355 | [4355-power-stone.json](./4355-power-stone.json) |
+| Power-Up | 17617 | [17617-power-up.json](./17617-power-up.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
