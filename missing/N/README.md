@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 16 | 11074 | [11074-nba-live-16.json](./11074-nba-live-16.json) |
 | NBA Live 2004 | 4032 | [4032-nba-live-2004.json](./4032-nba-live-2004.json) |
 | NBA Live 98 | 26013 | [26013-nba-live-98.json](./26013-nba-live-98.json) |
+| NBA Rush | 20934 | [20934-nba-rush.json](./20934-nba-rush.json) |
 | NCAA Football 14 | 19673 | [19673-ncaa-football-14.json](./19673-ncaa-football-14.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
