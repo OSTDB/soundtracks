@@ -30,6 +30,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
+| Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
+| Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
@@ -43,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
+| Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
