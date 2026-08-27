@@ -36,12 +36,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
+| Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
+| Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amenti | 327698 | [327698-amenti.json](./327698-amenti.json) |
 | American Conquest | 596 | [596-american-conquest.json](./596-american-conquest.json) |
 | American Conquest: Fight Back | 9360 | [9360-american-conquest-fight-back.json](./9360-american-conquest-fight-back.json) |
@@ -54,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
+| Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
 | Anno 1701 | 8225 | [8225-anno-1701.json](./8225-anno-1701.json) |
