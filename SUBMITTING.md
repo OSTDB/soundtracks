@@ -4,16 +4,14 @@ You can submit a soundtrack link — or correct an existing one — by opening a
 
 ## Step by step (browser only)
 
-0. Check the [`missing/`](missing/) folder first — it may already have a file named `missing/<igdb_id>-<name>.json` for your game, with the IGDB ID and name pre-filled in. If so, edit that file directly (same pencil-icon flow as below) instead of starting from the template — you can skip straight to filling in the links.
+1. Check the [`missing/`](missing/) folder for a file named `missing/<igdb_id>-<name>.json` matching your game — the `igdb_id` and `game_name` are already filled in for you. Browse or use GitHub's file search to find it.
+   - **Found it?** Click the **pencil (✎) icon** in the top right of that file to edit it, fill in the fields below, and skip to step 3.
+   - **Not there?** Your game hasn't been scanned into `missing/` yet (or already has a soundtrack). Open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) instead, click the pencil icon to edit a copy, and rename the file at the top to something like `submissions/1234-example-game.json` (use the game's IGDB ID and a short name).
+2. Fill in your game's info (see **Fields** below). Delete the `_readme` line — it's just a note, not a real field.
+3. Scroll down, and under "Commit changes" choose **"Create a new branch and start a pull request."** Click **Propose changes**, then **Create pull request** on the next screen.
+4. That's it — a maintainer will review it from here.
 
-1. If there's no file for your game in `missing/`, open [`submissions/TEMPLATE.json`](submissions/TEMPLATE.json) in this repo.
-2. Click the **pencil (✎) icon** in the top right of the file view to edit a copy of it.
-3. GitHub will ask you to name the new file — change the filename at the top from `submissions/TEMPLATE.json` to something like `submissions/1234-example-game.json` (use the game's IGDB ID and a short name).
-4. Replace the example values with your game's info (see **Fields** below). Delete the `_readme` line — it's just a note, not a real field.
-5. Scroll down, and under "Commit changes" choose **"Create a new branch and start a pull request."** Click **Propose changes**, then **Create pull request** on the next screen.
-6. That's it — a maintainer will review it from here.
-
-Once your pull request is merged, the file is picked up automatically and added to the review queue on ostdb.net. It is **not published immediately** — an admin still approves it before it goes live, the same as a submission made through the website. After it's processed, a bot removes your file from `submissions/` in a follow-up commit — that's expected, not an error.
+Once your pull request is merged, the file is picked up automatically and added to the review queue on ostdb.net. It is **not published immediately** — an admin still approves it before it goes live, the same as a submission made through the website. Only after an admin approves it does a bot remove the file from `missing/` or `submissions/` in a follow-up commit — until then, the file stays put. That's expected, not an error.
 
 ## Fields
 
@@ -31,6 +29,8 @@ Leave a field as `""` (empty string) if it doesn't apply — don't delete it fro
 
 ### Finding the IGDB ID
 
+If you're editing a file from `missing/`, the `igdb_id` is already filled in — skip this section.
+
 ostdb.net URLs use a name-based slug (e.g. `ostdb.net/games/genshin-impact`), not the numeric IGDB ID, so you won't find it there directly. Instead:
 
 1. Find the game on [ostdb.net](https://ostdb.net) (search, or browse) and open its page.
@@ -46,7 +46,7 @@ You don't need to look up or set any internal ID to add another soundtrack, or t
 - **Same `igdb_id`, new `album_name`** → adds a new soundtrack entry alongside the existing one(s).
 - **Same `igdb_id` and `album_name` matching an existing approved soundtrack** → treated as a correction to that entry (its links get updated instead of creating a duplicate).
 
-This matches how it works on the website: pick a game, and you either add a new soundtrack or edit one that's already there.
+This matches how it works on the website: pick a game, and you either add a new soundtrack or edit one that's already there. Note that a game with an existing soundtrack won't have a file in `missing/` — use `submissions/TEMPLATE.json` for this instead.
 
 ### How to actually do this via PR
 
