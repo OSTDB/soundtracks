@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
 | Revelation Online | 26903 | [26903-revelation-online.json](./26903-revelation-online.json) |
 | Revenge of the 'Gator | 48916 | [48916-revenge-of-the-gator.json](./48916-revenge-of-the-gator.json) |
+| Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Adventures - Britons. Season 1 | 110074 | [110074-roman-adventures-britons-season-1.json](./110074-roman-adventures-britons-season-1.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
+| Romance of the Three Kingdoms X with Power Up Kit | 77038 | [77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json](./77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json) |
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
