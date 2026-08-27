@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
 | Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
+| Deep, In the Forest | 126412 | [126412-deep-in-the-forest.json](./126412-deep-in-the-forest.json) |
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
 | Default Dan | 24032 | [24032-default-dan.json](./24032-default-dan.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
+| Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
 | Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
+| Don't Die, Minerva! | 126345 | [126345-dont-die-minerva.json](./126345-dont-die-minerva.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
@@ -223,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
+| Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
