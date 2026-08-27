@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
+| Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
@@ -38,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
+| Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
 | Batman Returns | 14289 | [14289-batman-returns.json](./14289-batman-returns.json) |
 | Batman: Arkham Knight - Harley Quinn Story Pack | 26031 | [26031-batman-arkham-knight-harley-quinn-story-pack.json](./26031-batman-arkham-knight-harley-quinn-story-pack.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
+| Bitku | 34453 | [34453-bitku.json](./34453-bitku.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
@@ -129,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Beaks | 75158 | [75158-blazing-beaks.json](./75158-blazing-beaks.json) |
 | Blazing Lazers | 42125 | [42125-blazing-lazers.json](./42125-blazing-lazers.json) |
 | Bleach: Brave Souls | 23975 | [23975-bleach-brave-souls.json](./23975-bleach-brave-souls.json) |
+| Bleeding Blocks | 34483 | [34483-bleeding-blocks.json](./34483-bleeding-blocks.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
