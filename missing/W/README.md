@@ -10,9 +10,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
+| War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
 | Warcraft II: Remastered | 322109 | [322109-warcraft-ii-remastered.json](./322109-warcraft-ii-remastered.json) |
 | Wargame: AirLand Battle | 2978 | [2978-wargame-airland-battle.json](./2978-wargame-airland-battle.json) |
+| Wargasm | 22805 | [22805-wargasm.json](./22805-wargasm.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption | 302169 | [302169-warhammer-40-000-boltgun-forges-of-corruption.json](./302169-warhammer-40-000-boltgun-forges-of-corruption.json) |
 | Warhammer 40,000: Boltgun – Words of Vengeance | 344670 | [344670-warhammer-40-000-boltgun-words-of-vengeance.json](./344670-warhammer-40-000-boltgun-words-of-vengeance.json) |
 | Warhammer 40,000: Dawn of War - Dark Crusade | 467 | [467-warhammer-40-000-dawn-of-war-dark-crusade.json](./467-warhammer-40-000-dawn-of-war-dark-crusade.json) |
