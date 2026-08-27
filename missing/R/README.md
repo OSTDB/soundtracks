@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
+| Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
+| Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
+| Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
@@ -131,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
+| Rush | 95751 | [95751-rush.json](./95751-rush.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
