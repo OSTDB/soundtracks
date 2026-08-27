@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
+| Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
 | Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
+| Aggressors: Ancient Rome | 46076 | [46076-aggressors-ancient-rome.json](./46076-aggressors-ancient-rome.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
+| Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
@@ -125,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
+| Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
@@ -144,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
+| ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
@@ -169,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
+| Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
