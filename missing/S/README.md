@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
+| Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
+| SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
 | Spellsword Cards: Demontide | 115679 | [115679-spellsword-cards-demontide.json](./115679-spellsword-cards-demontide.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
@@ -220,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
+| Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
 | Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
 | Star of Providence | 262420 | [262420-star-of-providence.json](./262420-star-of-providence.json) |
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
