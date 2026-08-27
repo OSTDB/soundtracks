@@ -14,9 +14,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
+| One Piece: Grand Battle! | 75738 | [75738-one-piece-grand-battle.json](./75738-one-piece-grand-battle.json) |
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
 | One-Armed Robber | 263205 | [263205-one-armed-robber.json](./263205-one-armed-robber.json) |
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
+| Onirism | 77590 | [77590-onirism.json](./77590-onirism.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
