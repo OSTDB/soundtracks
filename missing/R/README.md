@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
+| Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
+| RollerCoaster Tycoon Adventures | 86497 | [86497-rollercoaster-tycoon-adventures.json](./86497-rollercoaster-tycoon-adventures.json) |
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
