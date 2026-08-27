@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
+| The Golf Club: Collector's Edition | 20862 | [20862-the-golf-club-collectors-edition.json](./20862-the-golf-club-collectors-edition.json) |
 | The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
+| Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
 | Two Worlds | 7222 | [7222-two-worlds.json](./7222-two-worlds.json) |
