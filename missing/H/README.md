@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
+| Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
