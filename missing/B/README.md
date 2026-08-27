@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
+| Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | BattleBit Remastered | 50531 | [50531-battlebit-remastered.json](./50531-battlebit-remastered.json) |
 | Battleborn | 7687 | [7687-battleborn.json](./7687-battleborn.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
+| Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
@@ -55,9 +57,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
+| Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
+| Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
@@ -100,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
 | Bomb Chicken | 27880 | [27880-bomb-chicken.json](./27880-bomb-chicken.json) |
 | Bomberman World | 27255 | [27255-bomberman-world.json](./27255-bomberman-world.json) |
+| Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
@@ -130,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
