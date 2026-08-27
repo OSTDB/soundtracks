@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
 | Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
+| Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
+| Cavern of Time | 29771 | [29771-cavern-of-time.json](./29771-cavern-of-time.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
+| Cyber Jolt | 29745 | [29745-cyber-jolt.json](./29745-cyber-jolt.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
