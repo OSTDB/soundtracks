@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
+| Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
 | Into the Pit | 165318 | [165318-into-the-pit.json](./165318-into-the-pit.json) |
