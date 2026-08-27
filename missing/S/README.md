@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
+| Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
+| Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
@@ -102,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
+| Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
 | Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
@@ -208,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
+| Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
@@ -284,3 +288,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
+| Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
