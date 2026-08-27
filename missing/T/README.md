@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Day Defense | 95637 | [95637-the-last-day-defense.json](./95637-the-last-day-defense.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
+| The Last Hope Trump vs. Mafia | 29759 | [29759-the-last-hope-trump-vs-mafia.json](./29759-the-last-hope-trump-vs-mafia.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
 | The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
 | Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
+| Tiny Wheels | 29796 | [29796-tiny-wheels.json](./29796-tiny-wheels.json) |
 | Tip of the Spear: Task Force Elite | 125393 | [125393-tip-of-the-spear-task-force-elite.json](./125393-tip-of-the-spear-task-force-elite.json) |
 | Titan Quest | 8311 | [8311-titan-quest.json](./8311-titan-quest.json) |
 | Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
@@ -340,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Suimusou: Immaterial and Missing Power | 27161 | [27161-touhou-suimusou-immaterial-and-missing-power.json](./27161-touhou-suimusou-immaterial-and-missing-power.json) |
+| Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
@@ -372,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
 | Treadnauts | 54785 | [54785-treadnauts.json](./54785-treadnauts.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
+| Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
@@ -389,7 +393,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
+| Trump Simulator 2017 | 29877 | [29877-trump-simulator-2017.json](./29877-trump-simulator-2017.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
+| Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
