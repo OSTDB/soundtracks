@@ -18,11 +18,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
+| iCraps | 87639 | [87639-icraps.json](./87639-icraps.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
+| iKout | 87629 | [87629-ikout.json](./87629-ikout.json) |
+| iLike Basket | 87647 | [87647-ilike-basket.json](./87647-ilike-basket.json) |
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
 | Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
