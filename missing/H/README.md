@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
 | Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
+| Headshot VR | 109838 | [109838-headshot-vr.json](./109838-headshot-vr.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
@@ -47,8 +48,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
+| Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
+| Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
+| Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
@@ -88,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
+| How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
