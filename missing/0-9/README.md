@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 100 Capitalist Cats | 282721 | [282721-100-capitalist-cats.json](./282721-100-capitalist-cats.json) |
 | 100 Christmas Cats | 276704 | [276704-100-christmas-cats.json](./276704-100-christmas-cats.json) |
+| 100 Euro | 115826 | [115826-100-euro.json](./115826-100-euro.json) |
 | 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
