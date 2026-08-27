@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
+| Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
 | Digimon Survive | 105417 | [105417-digimon-survive.json](./105417-digimon-survive.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity II: Developer's Cut | 78459 | [78459-divinity-ii-developers-cut.json](./78459-divinity-ii-developers-cut.json) |
 | Divinity II: Flames of Vengeance | 78635 | [78635-divinity-ii-flames-of-vengeance.json](./78635-divinity-ii-flames-of-vengeance.json) |
 | Divinity: Original Sin | 5082 | [5082-divinity-original-sin.json](./5082-divinity-original-sin.json) |
+| Dizzy Hearts | 89483 | [89483-dizzy-hearts.json](./89483-dizzy-hearts.json) |
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
@@ -269,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
+| Durak | 89459 | [89459-durak.json](./89459-durak.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
