@@ -133,5 +133,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
+| Gymnastics Salon - Makeup & Dressup Girls Game | 89534 | [89534-gymnastics-salon-makeup-and-dressup-girls-game.json](./89534-gymnastics-salon-makeup-and-dressup-girls-game.json) |
 | Gynophobia | 18592 | [18592-gynophobia.json](./18592-gynophobia.json) |
 | Gyromancer | 10385 | [10385-gyromancer.json](./10385-gyromancer.json) |
