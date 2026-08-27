@@ -26,8 +26,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
+| Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
+| Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
@@ -40,9 +42,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
+| Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
+| Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
@@ -73,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
+| Risk Urban Assault | 58036 | [58036-risk-urban-assault.json](./58036-risk-urban-assault.json) |
 | Ristar | 237315 | [237315-ristar.json](./237315-ristar.json) |
 | Rival Megagun | 90783 | [90783-rival-megagun.json](./90783-rival-megagun.json) |
 | River City Ransom: Underground | 27038 | [27038-river-city-ransom-underground.json](./27038-river-city-ransom-underground.json) |
@@ -100,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
 | Rugrats: Search for Reptar | 2787 | [2787-rugrats-search-for-reptar.json](./2787-rugrats-search-for-reptar.json) |
