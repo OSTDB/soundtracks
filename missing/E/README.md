@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
+| Eqqo | 101685 | [101685-eqqo.json](./101685-eqqo.json) |
 | Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
