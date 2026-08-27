@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man V | 1737 | [1737-mega-man-v.json](./1737-mega-man-v.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
+| Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
@@ -134,9 +136,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Madness | 10261 | [10261-motocross-madness.json](./10261-motocross-madness.json) |
 | MotoGP | 23012 | [23012-motogp.json](./23012-motogp.json) |
 | MotoGP 2 | 5933 | [5933-motogp-2.json](./5933-motogp-2.json) |
+| MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
+| Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
