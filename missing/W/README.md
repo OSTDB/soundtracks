@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
+| Warlocks vs Shadows | 36199 | [36199-warlocks-vs-shadows.json](./36199-warlocks-vs-shadows.json) |
 | Warlords | 239503 | [239503-warlords.json](./239503-warlords.json) |
 | Warlords | 81371 | [81371-warlords.json](./81371-warlords.json) |
 | Warlords III: Reign of Heroes | 932 | [932-warlords-iii-reign-of-heroes.json](./932-warlords-iii-reign-of-heroes.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
+| Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
 | Winnie the Pooh | 17765 | [17765-winnie-the-pooh.json](./17765-winnie-the-pooh.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
