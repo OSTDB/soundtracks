@@ -9,11 +9,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
 | EA Sports UFC 2 | 19918 | [19918-ea-sports-ufc-2.json](./19918-ea-sports-ufc-2.json) |
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
+| Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
+| Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
@@ -46,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Divine Wind | 10270 | [10270-europa-universalis-iii-divine-wind.json](./10270-europa-universalis-iii-divine-wind.json) |
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
+| EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
