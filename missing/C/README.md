@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
+| Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
+| Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
@@ -69,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
+| Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
+| Counter Terrorist Agency | 110697 | [110697-counter-terrorist-agency.json](./110697-counter-terrorist-agency.json) |
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
@@ -102,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
+| Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
