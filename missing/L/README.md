@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
+| Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
 | Loot Box Quest | 76499 | [76499-loot-box-quest.json](./76499-loot-box-quest.json) |
