@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
+| Geeksos | 116258 | [116258-geeksos.json](./116258-geeksos.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
 | Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
