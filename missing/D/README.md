@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
+| Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
+| DiscStorm | 11420 | [11420-discstorm.json](./11420-discstorm.json) |
 | Disgaea 3: Absence of Justice | 7297 | [7297-disgaea-3-absence-of-justice.json](./7297-disgaea-3-absence-of-justice.json) |
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
+| Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
 | Dynasty Warriors: Godseekers | 25639 | [25639-dynasty-warriors-godseekers.json](./25639-dynasty-warriors-godseekers.json) |
