@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
+| Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
+| Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
@@ -132,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
+| Blot | 95629 | [95629-blot.json](./95629-blot.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
