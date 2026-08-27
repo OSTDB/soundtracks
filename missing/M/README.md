@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
+| MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
+| Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
@@ -163,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
+| Monster Jaunt | 116261 | [116261-monster-jaunt.json](./116261-monster-jaunt.json) |
 | Monster Madness: Grave Danger | 7378 | [7378-monster-madness-grave-danger.json](./7378-monster-madness-grave-danger.json) |
 | Monster Max | 18629 | [18629-monster-max.json](./18629-monster-max.json) |
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
@@ -193,8 +196,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 2 | 5933 | [5933-motogp-2.json](./5933-motogp-2.json) |
 | MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
 | MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
+| Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
+| Mr. Hack Jack: Robot Detective | 115937 | [115937-mr-hack-jack-robot-detective.json](./115937-mr-hack-jack-robot-detective.json) |
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
 | Mr. Robot:1.51exfiltrati0n | 22748 | [22748-mr-robot-1-51exfiltrati0n.json](./22748-mr-robot-1-51exfiltrati0n.json) |
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
@@ -219,9 +224,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
+| My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
+| Mysteries of the Undead: The Cursed Island | 116331 | [116331-mysteries-of-the-undead-the-cursed-island.json](./116331-mysteries-of-the-undead-the-cursed-island.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
