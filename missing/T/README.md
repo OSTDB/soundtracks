@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
+| The Adventures of Fei Duanmu | 90464 | [90464-the-adventures-of-fei-duanmu.json](./90464-the-adventures-of-fei-duanmu.json) |
 | The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
@@ -96,6 +97,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
+| The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
+| The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
@@ -149,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Weaponographist | 11418 | [11418-the-weaponographist.json](./11418-the-weaponographist.json) |
+| The White Laboratory | 93851 | [93851-the-white-laboratory.json](./93851-the-white-laboratory.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
