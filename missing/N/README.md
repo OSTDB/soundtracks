@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: V-Rally 2 | 6224 | [6224-need-for-speed-v-rally-2.json](./6224-need-for-speed-v-rally-2.json) |
 | Nefarious | 26864 | [26864-nefarious.json](./26864-nefarious.json) |
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
+| Neko Arena | 125714 | [125714-neko-arena.json](./125714-neko-arena.json) |
 | Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
 | Nekro | 16622 | [16622-nekro.json](./16622-nekro.json) |
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
+| NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
 | NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
 | Nevermind | 14176 | [14176-nevermind.json](./14176-nevermind.json) |
@@ -54,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
 | New Super Luigi U | 2173 | [2173-new-super-luigi-u.json](./2173-new-super-luigi-u.json) |
+| New York Mysteries: The Outbreak | 126782 | [126782-new-york-mysteries-the-outbreak.json](./126782-new-york-mysteries-the-outbreak.json) |
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
 | NextWorld2 | 307930 | [307930-nextworld2.json](./307930-nextworld2.json) |
 | Nexuiz | 10595 | [10595-nexuiz.json](./10595-nexuiz.json) |
