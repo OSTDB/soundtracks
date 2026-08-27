@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 17 | 19463 | [19463-madden-nfl-17.json](./19463-madden-nfl-17.json) |
 | Madden NFL 19 | 102122 | [102122-madden-nfl-19.json](./102122-madden-nfl-19.json) |
 | Madden NFL 2003 | 776 | [776-madden-nfl-2003.json](./776-madden-nfl-2003.json) |
+| Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
+| Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
@@ -92,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
+| Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
@@ -110,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
+| Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
