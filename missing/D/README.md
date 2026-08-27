@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
+| Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
 | Dead or Alive 2 | 1388 | [1388-dead-or-alive-2.json](./1388-dead-or-alive-2.json) |
 | Dead or Alive 4 | 1392 | [1392-dead-or-alive-4.json](./1392-dead-or-alive-4.json) |
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
+| Detached | 16991 | [16991-detached.json](./16991-detached.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
