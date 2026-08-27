@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
 | Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
+| Eron | 24576 | [24576-eron.json](./24576-eron.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
