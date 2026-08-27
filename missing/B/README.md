@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Rising | 10017 | [10017-babel-rising.json](./10017-babel-rising.json) |
 | Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
+| Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
+| Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
 | Batman Returns | 14289 | [14289-batman-returns.json](./14289-batman-returns.json) |
 | Batman: Arkham Knight - Harley Quinn Story Pack | 26031 | [26031-batman-arkham-knight-harley-quinn-story-pack.json](./26031-batman-arkham-knight-harley-quinn-story-pack.json) |
@@ -59,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
+| Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
@@ -69,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
+| Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
 | Big Beach Sports | 4712 | [4712-big-beach-sports.json](./4712-big-beach-sports.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
@@ -87,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
+| BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
@@ -104,9 +109,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
 | Bloodstained: Curse of the Moon 2 | 135337 | [135337-bloodstained-curse-of-the-moon-2.json](./135337-bloodstained-curse-of-the-moon-2.json) |
+| Bloody Glimpse | 59138 | [59138-bloody-glimpse.json](./59138-bloody-glimpse.json) |
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
+| Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
@@ -123,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
+| Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain Bender | 92265 | [92265-brain-bender.json](./92265-brain-bender.json) |
