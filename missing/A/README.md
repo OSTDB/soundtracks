@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
+| Alpacapaca Dash | 29787 | [29787-alpacapaca-dash.json](./29787-alpacapaca-dash.json) |
 | Alpages: The Five Books | 34398 | [34398-alpages-the-five-books.json](./34398-alpages-the-five-books.json) |
 | Alpha Omega | 89503 | [89503-alpha-omega.json](./89503-alpha-omega.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
@@ -149,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma X: Anniversary Edition | 22639 | [22639-arma-x-anniversary-edition.json](./22639-arma-x-anniversary-edition.json) |
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
 | Armored Fist 3 | 14962 | [14962-armored-fist-3.json](./14962-armored-fist-3.json) |
+| Armored Gear | 29761 | [29761-armored-gear.json](./29761-armored-gear.json) |
 | Army Men: Sarge's War | 2702 | [2702-army-men-sarges-war.json](./2702-army-men-sarges-war.json) |
 | Army Men: Toys in Space | 27454 | [27454-army-men-toys-in-space.json](./27454-army-men-toys-in-space.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim | 18208 | [18208-army-of-tentacles-not-a-cthulhu-dating-sim.json](./18208-army-of-tentacles-not-a-cthulhu-dating-sim.json) |
