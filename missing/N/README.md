@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
 | NASCAR Unleashed | 6848 | [6848-nascar-unleashed.json](./6848-nascar-unleashed.json) |
+| Navalny 20!8 : The Rise of Evil | 76662 | [76662-navalny-20-8-the-rise-of-evil.json](./76662-navalny-20-8-the-rise-of-evil.json) |
 | NBA 07 | 7381 | [7381-nba-07.json](./7381-nba-07.json) |
 | NBA 08 | 7382 | [7382-nba-08.json](./7382-nba-08.json) |
 | NBA 2K13 | 5058 | [5058-nba-2k13.json](./5058-nba-2k13.json) |
