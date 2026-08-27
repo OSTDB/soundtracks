@@ -9,12 +9,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-12: Final Resistance | 26753 | [26753-c-12-final-resistance.json](./26753-c-12-final-resistance.json) |
 | Cabal Online | 28387 | [28387-cabal-online.json](./28387-cabal-online.json) |
 | Cabela's Big Game Hunter 2008 | 4735 | [4735-cabelas-big-game-hunter-2008.json](./4735-cabelas-big-game-hunter-2008.json) |
+| Cabela's Big Game Hunter: Pro Hunts | 16631 | [16631-cabelas-big-game-hunter-pro-hunts.json](./16631-cabelas-big-game-hunter-pro-hunts.json) |
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
+| Call of Cthulhu: The Wasted Land | 16667 | [16667-call-of-cthulhu-the-wasted-land.json](./16667-call-of-cthulhu-the-wasted-land.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
 | Call of Duty: Advanced Warfare - Digital Pro Edition | 86667 | [86667-call-of-duty-advanced-warfare-digital-pro-edition.json](./86667-call-of-duty-advanced-warfare-digital-pro-edition.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
+| Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
@@ -126,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Desert Storm II: Back to Baghdad | 3864 | [3864-conflict-desert-storm-ii-back-to-baghdad.json](./3864-conflict-desert-storm-ii-back-to-baghdad.json) |
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
+| Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Contra III: The Alien Wars | 6351 | [6351-contra-iii-the-alien-wars.json](./6351-contra-iii-the-alien-wars.json) |
 | Contra ReBirth | 11300 | [11300-contra-rebirth.json](./11300-contra-rebirth.json) |
