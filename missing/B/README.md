@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballistics | 7495 | [7495-ballistics.json](./7495-ballistics.json) |
+| Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
+| Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
@@ -155,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
+| Bor | 87631 | [87631-bor.json](./87631-bor.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
@@ -173,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
+| Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
 | Broken Sword: The Angel of Death | 353933 | [353933-broken-sword-the-angel-of-death.json](./353933-broken-sword-the-angel-of-death.json) |
 | Broken Sword: The Smoking Mirror - Remastered | 27860 | [27860-broken-sword-the-smoking-mirror-remastered.json](./27860-broken-sword-the-smoking-mirror-remastered.json) |
@@ -180,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
+| Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
