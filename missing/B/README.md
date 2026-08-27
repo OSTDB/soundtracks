@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
 | Batman: Arkham Knight - Harley Quinn Story Pack | 26031 | [26031-batman-arkham-knight-harley-quinn-story-pack.json](./26031-batman-arkham-knight-harley-quinn-story-pack.json) |
+| Batman: The Animated Series | 7771 | [7771-batman-the-animated-series.json](./7771-batman-the-animated-series.json) |
 | Batman: The Telltale Series - Episode 3: New World Order | 26993 | [26993-batman-the-telltale-series-episode-3-new-world-order.json](./26993-batman-the-telltale-series-episode-3-new-world-order.json) |
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
+| Bill Elliott's NASCAR Challenge | 7785 | [7785-bill-elliotts-nascar-challenge.json](./7785-bill-elliotts-nascar-challenge.json) |
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
 | BioShock | 152660 | [152660-bioshock.json](./152660-bioshock.json) |
@@ -70,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
+| Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
 | Bloodstained: Curse of the Moon 2 | 135337 | [135337-bloodstained-curse-of-the-moon-2.json](./135337-bloodstained-curse-of-the-moon-2.json) |
