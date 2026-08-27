@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
+| Gran Vitreous | 35824 | [35824-gran-vitreous.json](./35824-gran-vitreous.json) |
 | Grand Class Melee 2 | 36014 | [36014-grand-class-melee-2.json](./36014-grand-class-melee-2.json) |
 | Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
+| Gun Wings | 35774 | [35774-gun-wings.json](./35774-gun-wings.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
