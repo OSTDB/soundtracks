@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
+| Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
+| Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
@@ -110,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
 | Bugs Bunny Rabbit Rampage | 3054 | [3054-bugs-bunny-rabbit-rampage.json](./3054-bugs-bunny-rabbit-rampage.json) |
+| Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
