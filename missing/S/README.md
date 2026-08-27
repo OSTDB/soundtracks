@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Salting the Earth | 125111 | [125111-salting-the-earth.json](./125111-salting-the-earth.json) |
+| Salvation Prophecy | 16639 | [16639-salvation-prophecy.json](./16639-salvation-prophecy.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
+| Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Shufflepuck Cantina Deluxe VR | 16773 | [16773-shufflepuck-cantina-deluxe-vr.json](./16773-shufflepuck-cantina-deluxe-vr.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
 | SickBrick | 24601 | [24601-sickbrick.json](./24601-sickbrick.json) |
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
@@ -86,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Railroad Tycoon | 962 | [962-sid-meiers-railroad-tycoon.json](./962-sid-meiers-railroad-tycoon.json) |
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
 | Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
+| Signs of Life | 16839 | [16839-signs-of-life.json](./16839-signs-of-life.json) |
 | Silent Hill 2 | 222485 | [222485-silent-hill-2.json](./222485-silent-hill-2.json) |
 | Silent Hill: Ascension | 274880 | [274880-silent-hill-ascension.json](./274880-silent-hill-ascension.json) |
 | Silent Hill: The Short Message | 218744 | [218744-silent-hill-the-short-message.json](./218744-silent-hill-the-short-message.json) |
@@ -126,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
+| Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
@@ -172,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
+| Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
