@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
+| Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
@@ -114,7 +115,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Lazers | 42125 | [42125-blazing-lazers.json](./42125-blazing-lazers.json) |
 | Bleach: Brave Souls | 23975 | [23975-bleach-brave-souls.json](./23975-bleach-brave-souls.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
+| Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
+| Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
@@ -128,8 +131,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
+| Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
+| Bokuten: Why I Became an Angel | 126100 | [126100-bokuten-why-i-became-an-angel.json](./126100-bokuten-why-i-became-an-angel.json) |
 | Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
 | Bomb Chicken | 27880 | [27880-bomb-chicken.json](./27880-bomb-chicken.json) |
 | Bomberman World | 27255 | [27255-bomberman-world.json](./27255-bomberman-world.json) |
@@ -151,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
+| Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
