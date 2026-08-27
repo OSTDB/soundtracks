@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: The Complete Edition | 53610 | [53610-sid-meiers-civilization-v-the-complete-edition.json](./53610-sid-meiers-civilization-v-the-complete-edition.json) |
 | Sid Meier's Railroad Tycoon | 962 | [962-sid-meiers-railroad-tycoon.json](./962-sid-meiers-railroad-tycoon.json) |
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
+| Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
 | Silent Hill 2 | 222485 | [222485-silent-hill-2.json](./222485-silent-hill-2.json) |
 | Silent Hill: Ascension | 274880 | [274880-silent-hill-ascension.json](./274880-silent-hill-ascension.json) |
 | Silent Hill: The Short Message | 218744 | [218744-silent-hill-the-short-message.json](./218744-silent-hill-the-short-message.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
+| Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
@@ -107,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
+| Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
 | Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
@@ -132,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
+| Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
@@ -248,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
+| Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
@@ -266,11 +271,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
 | Super Paper Mario | 2191 | [2191-super-paper-mario.json](./2191-super-paper-mario.json) |
+| Super Robo Mouse | 61228 | [61228-super-robo-mouse.json](./61228-super-robo-mouse.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
+| Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
