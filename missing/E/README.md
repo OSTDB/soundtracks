@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
+| Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
