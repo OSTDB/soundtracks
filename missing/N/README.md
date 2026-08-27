@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefarious | 26864 | [26864-nefarious.json](./26864-nefarious.json) |
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
 | Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
+| Nekro | 16622 | [16622-nekro.json](./16622-nekro.json) |
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
