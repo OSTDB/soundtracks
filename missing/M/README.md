@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man V | 1737 | [1737-mega-man-v.json](./1737-mega-man-v.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
 | Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Madness: Grave Danger | 7378 | [7378-monster-madness-grave-danger.json](./7378-monster-madness-grave-danger.json) |
 | Monster Max | 18629 | [18629-monster-max.json](./18629-monster-max.json) |
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
+| Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Monsters Invade: Oz | 20915 | [20915-monsters-invade-oz.json](./20915-monsters-invade-oz.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
