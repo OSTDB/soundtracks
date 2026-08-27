@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
+| Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
