@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
+| Mental Asylum VR | 29792 | [29792-mental-asylum-vr.json](./29792-mental-asylum-vr.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
+| Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
@@ -218,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Special Forces | 1623 | [1623-mortal-kombat-special-forces.json](./1623-mortal-kombat-special-forces.json) |
 | Mortal Kombat: Tournament Edition | 26635 | [26635-mortal-kombat-tournament-edition.json](./26635-mortal-kombat-tournament-edition.json) |
+| Mortifero Motus | 29731 | [29731-mortifero-motus.json](./29731-mortifero-motus.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
@@ -264,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Addiction | 65779 | [65779-my-name-is-addiction.json](./65779-my-name-is-addiction.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
 | My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
+| My Super Tower 2 | 29847 | [29847-my-super-tower-2.json](./29847-my-super-tower-2.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
