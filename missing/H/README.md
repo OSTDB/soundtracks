@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
+| HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harry Potter and the Order of the Phoenix | 3011 | [3011-harry-potter-and-the-order-of-the-phoenix.json](./3011-harry-potter-and-the-order-of-the-phoenix.json) |
