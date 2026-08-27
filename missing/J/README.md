@@ -6,7 +6,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Jack Orlando: Director's Cut | 30239 | [30239-jack-orlando-directors-cut.json](./30239-jack-orlando-directors-cut.json) |
 | Jade Dynasty | 51194 | [51194-jade-dynasty.json](./51194-jade-dynasty.json) |
+| Jagged Alliance 2: Gold Pack | 29194 | [29194-jagged-alliance-2-gold-pack.json](./29194-jagged-alliance-2-gold-pack.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
