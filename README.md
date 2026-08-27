@@ -14,7 +14,7 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 You can also submit or correct a soundtrack by opening a pull request — no need to use the website. See **[SUBMITTING.md](SUBMITTING.md)** for instructions.
 
-Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 3483 known games without a soundtrack entry, bucketed by letter just like below. Pick one and open a pull request.
+Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 3566 known games without a soundtrack entry, bucketed by letter just like below. Pick one and open a pull request.
 
 ## Browse by letter
 
@@ -1107,4 +1107,4 @@ Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 348
 
 ---
 
-_1431 soundtracks · last updated 2026-08-27T22:04:27.151Z_
+_1431 soundtracks · last updated 2026-08-27T22:34:49.123Z_
