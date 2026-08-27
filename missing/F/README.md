@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Classic 2014 | 20943 | [20943-football-manager-classic-2014.json](./20943-football-manager-classic-2014.json) |
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
+| Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
