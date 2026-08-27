@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
 | LEGO Rock Raiders | 2157 | [2157-lego-rock-raiders.json](./2157-lego-rock-raiders.json) |
+| LEGO Star Wars: Microfighters | 20937 | [20937-lego-star-wars-microfighters.json](./20937-lego-star-wars-microfighters.json) |
 | LEGO Star Wars: The Force Awakens | 17030 | [17030-lego-star-wars-the-force-awakens.json](./17030-lego-star-wars-the-force-awakens.json) |
 | LEGO Star Wars: The Video Game | 2681 | [2681-lego-star-wars-the-video-game.json](./2681-lego-star-wars-the-video-game.json) |
 | Leisure Suit Larry: Reloaded | 2915 | [2915-leisure-suit-larry-reloaded.json](./2915-leisure-suit-larry-reloaded.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
+| Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
