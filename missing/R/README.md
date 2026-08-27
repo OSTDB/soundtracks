@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
+| Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
 | RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
+| RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
