@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
 | Legends of Atlantis: Exodus | 35806 | [35806-legends-of-atlantis-exodus.json](./35806-legends-of-atlantis-exodus.json) |
+| Legends of Dawn Reborn | 34434 | [34434-legends-of-dawn-reborn.json](./34434-legends-of-dawn-reborn.json) |
 | Legends of Ellaria | 44161 | [44161-legends-of-ellaria.json](./44161-legends-of-ellaria.json) |
 | Legends of Elysium | 296537 | [296537-legends-of-elysium.json](./296537-legends-of-elysium.json) |
 | Legends of Iskaria | 44188 | [44188-legends-of-iskaria.json](./44188-legends-of-iskaria.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
+| Lift It | 34464 | [34464-lift-it.json](./34464-lift-it.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
@@ -102,9 +104,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
+| Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
 | LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
+| Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
