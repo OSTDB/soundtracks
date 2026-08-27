@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
+| Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
+| The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
@@ -97,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
+| The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
+| The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
@@ -149,11 +153,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims FreePlay | 13151 | [13151-the-sims-freeplay.json](./13151-the-sims-freeplay.json) |
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
+| The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
 | The Treasures of Montezuma 4 | 36307 | [36307-the-treasures-of-montezuma-4.json](./36307-the-treasures-of-montezuma-4.json) |
+| The Tribe Must Survive | 188808 | [188808-the-tribe-must-survive.json](./188808-the-tribe-must-survive.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
@@ -191,10 +197,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
 | Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
 | Titan Quest | 8311 | [8311-titan-quest.json](./8311-titan-quest.json) |
+| Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
+| Togges | 182117 | [182117-togges.json](./182117-togges.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
 | Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
