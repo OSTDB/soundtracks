@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
+| Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
@@ -80,10 +81,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
+| Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
+| Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
 | Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
@@ -106,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
 | Class of '09: The Re-Up | 249830 | [249830-class-of-09-the-re-up.json](./249830-class-of-09-the-re-up.json) |
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
+| Classic TriPeaks HD | 89455 | [89455-classic-tripeaks-hd.json](./89455-classic-tripeaks-hd.json) |
 | Claws and Feathers | 24578 | [24578-claws-and-feathers.json](./24578-claws-and-feathers.json) |
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
@@ -127,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colt Express | 31149 | [31149-colt-express.json](./31149-colt-express.json) |
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
+| Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
@@ -201,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
+| Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
