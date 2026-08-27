@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
+| Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
