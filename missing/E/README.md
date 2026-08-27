@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
 | EA Sports Active | 4826 | [4826-ea-sports-active.json](./4826-ea-sports-active.json) |
+| EA Sports FIFA 18 & NBA LIVE 18: The One Edition Bundle | 86669 | [86669-ea-sports-fifa-18-and-nba-live-18-the-one-edition-bundle.json](./86669-ea-sports-fifa-18-and-nba-live-18-the-one-edition-bundle.json) |
+| EA Sports FIFA 18 and Need for Speed Payback Bundle | 86670 | [86670-ea-sports-fifa-18-and-need-for-speed-payback-bundle.json](./86670-ea-sports-fifa-18-and-need-for-speed-payback-bundle.json) |
 | EA Sports UFC 2 | 19918 | [19918-ea-sports-ufc-2.json](./19918-ea-sports-ufc-2.json) |
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
@@ -19,6 +21,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
+| Egress | 86496 | [86496-egress.json](./86496-egress.json) |
+| Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Tigre: The Adventures of Manny Rivera | 7995 | [7995-el-tigre-the-adventures-of-manny-rivera.json](./7995-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
@@ -28,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
+| Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
