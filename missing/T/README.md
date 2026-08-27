@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
+| Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
+| The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls V: Skyrim - Hearthfire | 6068 | [6068-the-elder-scrolls-v-skyrim-hearthfire.json](./6068-the-elder-scrolls-v-skyrim-hearthfire.json) |
@@ -135,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
+| The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
 | The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Miskatonic | 59833 | [59833-the-miskatonic.json](./59833-the-miskatonic.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
@@ -239,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
+| Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
 | Tomodachi Collection | 71900 | [71900-tomodachi-collection.json](./71900-tomodachi-collection.json) |
@@ -283,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
+| Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
