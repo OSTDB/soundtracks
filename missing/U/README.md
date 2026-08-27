@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
