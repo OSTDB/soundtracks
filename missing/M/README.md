@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
+| Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
+| Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
 | Miami Vice: The Game | 23818 | [23818-miami-vice-the-game.json](./23818-miami-vice-the-game.json) |
