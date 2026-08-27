@@ -36,16 +36,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
 | Onirism | 77590 | [77590-onirism.json](./77590-onirism.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
+| Only You | 86539 | [86539-only-you.json](./86539-only-you.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
 | Operation Warcade VR | 36826 | [36826-operation-warcade-vr.json](./36826-operation-warcade-vr.json) |
 | Opoona | 5087 | [5087-opoona.json](./5087-opoona.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
+| Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
+| Ore | 86465 | [86465-ore.json](./86465-ore.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
