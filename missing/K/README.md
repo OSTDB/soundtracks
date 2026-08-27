@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
+| Kids Math Magic | 89529 | [89529-kids-math-magic.json](./89529-kids-math-magic.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
