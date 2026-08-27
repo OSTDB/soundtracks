@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords | 239503 | [239503-warlords.json](./239503-warlords.json) |
 | Warlords | 81371 | [81371-warlords.json](./81371-warlords.json) |
 | Warlords III: Reign of Heroes | 932 | [932-warlords-iii-reign-of-heroes.json](./932-warlords-iii-reign-of-heroes.json) |
+| Warmachine: Tactics | 16695 | [16695-warmachine-tactics.json](./16695-warmachine-tactics.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
 | Wayward Strand | 123789 | [123789-wayward-strand.json](./123789-wayward-strand.json) |
+| WazHack | 16851 | [16851-wazhack.json](./16851-wazhack.json) |
 | WBSC eBaseball: Power Pros | 236674 | [236674-wbsc-ebaseball-power-pros.json](./236674-wbsc-ebaseball-power-pros.json) |
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
@@ -88,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
+| World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
