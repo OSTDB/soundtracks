@@ -22,7 +22,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
+| Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
+| Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
+| Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
@@ -45,7 +48,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
-| Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
 | Sid Meier's Civilization III: Complete | 27820 | [27820-sid-meiers-civilization-iii-complete.json](./27820-sid-meiers-civilization-iii-complete.json) |
 | Sid Meier's Civilization IV: Colonization | 4228 | [4228-sid-meiers-civilization-iv-colonization.json](./4228-sid-meiers-civilization-iv-colonization.json) |
@@ -65,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
+| Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
+| Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
@@ -79,9 +83,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
 | Sonic Blast Man II | 42459 | [42459-sonic-blast-man-ii.json](./42459-sonic-blast-man-ii.json) |
+| Sonic Chronicles: The Dark Brotherhood | 217 | [217-sonic-chronicles-the-dark-brotherhood.json](./217-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Drift 2 | 46358 | [46358-sonic-drift-2.json](./46358-sonic-drift-2.json) |
 | Sonic Eraser | 51946 | [51946-sonic-eraser.json](./51946-sonic-eraser.json) |
-| Sonic Chronicles: The Dark Brotherhood | 217 | [217-sonic-chronicles-the-dark-brotherhood.json](./217-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Mega Collection Plus | 22297 | [22297-sonic-mega-collection-plus.json](./22297-sonic-mega-collection-plus.json) |
 | Sonic R | 19091 | [19091-sonic-r.json](./19091-sonic-r.json) |
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
@@ -93,9 +97,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park | 1257 | [1257-south-park.json](./1257-south-park.json) |
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
 | South Park: Phone Destroyer | 37063 | [37063-south-park-phone-destroyer.json](./37063-south-park-phone-destroyer.json) |
-| Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
+| Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
@@ -106,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 252202 | [252202-spider-man-3.json](./252202-spider-man-3.json) |
 | Spider-Man 3 | 5178 | [5178-spider-man-3.json](./5178-spider-man-3.json) |
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
+| Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
@@ -138,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis | 9661 | [9661-stasis.json](./9661-stasis.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
+| Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
@@ -146,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
+| Style Savvy | 85398 | [85398-style-savvy.json](./85398-style-savvy.json) |
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
@@ -179,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
+| Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
