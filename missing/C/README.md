@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
+| Cargo Commander | 7880 | [7880-cargo-commander.json](./7880-cargo-commander.json) |
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
@@ -57,10 +58,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
 | Class of '09: The Re-Up | 249830 | [249830-class-of-09-the-re-up.json](./249830-class-of-09-the-re-up.json) |
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
+| Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
+| College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
+| Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
@@ -86,11 +90,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
+| Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
+| Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
