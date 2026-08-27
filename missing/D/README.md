@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
+| Damned Nation Reborn | 35856 | [35856-damned-nation-reborn.json](./35856-damned-nation-reborn.json) |
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
+| Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
