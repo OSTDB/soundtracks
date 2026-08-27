@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
+| Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
 | Zone of the Enders: The 2nd Runner | 1473 | [1473-zone-of-the-enders-the-2nd-runner.json](./1473-zone-of-the-enders-the-2nd-runner.json) |
