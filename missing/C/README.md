@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
+| Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
@@ -164,7 +165,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
+| Creature Card Idle | 126739 | [126739-creature-card-idle.json](./126739-creature-card-idle.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
+| Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
