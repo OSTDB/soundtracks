@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
+| Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
+| Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
@@ -90,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
+| Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
@@ -115,6 +118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
+| Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
+| HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
 | Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
 | Hyrule Warriors: Age of Calamity | 138343 | [138343-hyrule-warriors-age-of-calamity.json](./138343-hyrule-warriors-age-of-calamity.json) |
