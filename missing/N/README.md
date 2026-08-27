@@ -53,6 +53,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 19 | 103500 | [103500-nhl-19.json](./103500-nhl-19.json) |
 | NHL 24 | 261413 | [261413-nhl-24.json](./261413-nhl-24.json) |
 | NHL 26 | 359477 | [359477-nhl-26.json](./359477-nhl-26.json) |
+| NHL 2K11 | 5070 | [5070-nhl-2k11.json](./5070-nhl-2k11.json) |
+| NHL Hitz Pro | 4048 | [4048-nhl-hitz-pro.json](./4048-nhl-hitz-pro.json) |
+| NHL Slapshot | 5071 | [5071-nhl-slapshot.json](./5071-nhl-slapshot.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
 | Nier Replicant | 80468 | [80468-nier-replicant.json](./80468-nier-replicant.json) |
@@ -68,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
 | Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
+| Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
