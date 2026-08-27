@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salammbo: Battle for Carthage | 36310 | [36310-salammbo-battle-for-carthage.json](./36310-salammbo-battle-for-carthage.json) |
 | Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
+| Salting the Earth | 125111 | [125111-salting-the-earth.json](./125111-salting-the-earth.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
+| Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
@@ -236,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
+| Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
