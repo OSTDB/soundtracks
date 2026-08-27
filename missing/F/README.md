@@ -14,8 +14,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Trilogy | 83837 | [83837-fable-trilogy.json](./83837-fable-trilogy.json) |
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
+| FaeVerse Alchemy | 36421 | [36421-faeverse-alchemy.json](./36421-faeverse-alchemy.json) |
 | Fairune Collection | 96241 | [96241-fairune-collection.json](./96241-fairune-collection.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
+| Fairy Tale About Father Frost, Ivan and Nastya | 36384 | [36384-fairy-tale-about-father-frost-ivan-and-nastya.json](./36384-fairy-tale-about-father-frost-ivan-and-nastya.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
 | Fallout 3: Broken Steel | 10299 | [10299-fallout-3-broken-steel.json](./10299-fallout-3-broken-steel.json) |
 | Fallout 3: The Pitt | 10303 | [10303-fallout-3-the-pitt.json](./10303-fallout-3-the-pitt.json) |
@@ -32,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Insanity | 182125 | [182125-far-cry-6-insanity.json](./182125-far-cry-6-insanity.json) |
 | Far Cry Instincts: Predator | 22585 | [22585-far-cry-instincts-predator.json](./22585-far-cry-instincts-predator.json) |
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
+| Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
