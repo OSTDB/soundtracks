@@ -27,6 +27,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
+| Samurai of Hyuga | 31423 | [31423-samurai-of-hyuga.json](./31423-samurai-of-hyuga.json) |
+| Samurai of Hyuga Book 2 | 31424 | [31424-samurai-of-hyuga-book-2.json](./31424-samurai-of-hyuga-book-2.json) |
 | Samurai of Hyuga Book 3 | 76675 | [76675-samurai-of-hyuga-book-3.json](./76675-samurai-of-hyuga-book-3.json) |
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
@@ -220,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Explorers | 61877 | [61877-space-explorers.json](./61877-space-explorers.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
+| Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
@@ -327,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
+| Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
@@ -346,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
+| Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
@@ -390,9 +395,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
+| Super Spring Ninja | 31443 | [31443-super-spring-ninja.json](./31443-super-spring-ninja.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
 | Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
+| Super Switch | 31485 | [31485-super-switch.json](./31485-super-switch.json) |
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Uffe! | 89461 | [89461-super-uffe.json](./89461-super-uffe.json) |
@@ -419,10 +426,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
+| Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword and Shield | 76771 | [76771-sword-and-shield.json](./76771-sword-and-shield.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
+| Sword Master VR | 31451 | [31451-sword-master-vr.json](./31451-sword-master-vr.json) |
 | Sword of Elpisia | 182267 | [182267-sword-of-elpisia.json](./182267-sword-of-elpisia.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
