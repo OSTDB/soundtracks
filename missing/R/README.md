@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
+| Raygun Commando VR | 29896 | [29896-raygun-commando-vr.json](./29896-raygun-commando-vr.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance: Fall of Man | 1278 | [1278-resistance-fall-of-man.json](./1278-resistance-fall-of-man.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
+| Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
+| Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
 | Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
@@ -116,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
 | RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
+| Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
@@ -134,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
