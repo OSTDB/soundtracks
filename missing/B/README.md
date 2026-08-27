@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Naval Strike | 3094 | [3094-battlefield-4-naval-strike.json](./3094-battlefield-4-naval-strike.json) |
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
+| BattleLore: Command | 35779 | [35779-battlelore-command.json](./35779-battlelore-command.json) |
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
+| Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
@@ -131,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
+| Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
@@ -167,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
+| Boring Man: Online Tactical Stickman Combat | 35862 | [35862-boring-man-online-tactical-stickman-combat.json](./35862-boring-man-online-tactical-stickman-combat.json) |
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
@@ -181,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
+| Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
@@ -210,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
+| Burstfire | 35766 | [35766-burstfire.json](./35766-burstfire.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
