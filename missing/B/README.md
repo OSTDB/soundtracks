@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
+| Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Beach Sports | 4712 | [4712-big-beach-sports.json](./4712-big-beach-sports.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
