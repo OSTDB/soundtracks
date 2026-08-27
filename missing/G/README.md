@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
 | Geeksos | 116258 | [116258-geeksos.json](./116258-geeksos.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
+| Gelu | 44264 | [44264-gelu.json](./44264-gelu.json) |
 | Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
 | Generator Rex: Agent of Providence | 8005 | [8005-generator-rex-agent-of-providence.json](./8005-generator-rex-agent-of-providence.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
+| Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
