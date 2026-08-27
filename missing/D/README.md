@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hero Party | 115867 | [115867-dark-hero-party.json](./115867-dark-hero-party.json) |
 | Dark Horizons: Mechanized Corps | 16890 | [16890-dark-horizons-mechanized-corps.json](./16890-dark-horizons-mechanized-corps.json) |
 | Dark Matter | 16668 | [16668-dark-matter.json](./16668-dark-matter.json) |
+| Dark Parables: Curse of Briar Rose - Collector's Edition | 31425 | [31425-dark-parables-curse-of-briar-rose-collectors-edition.json](./31425-dark-parables-curse-of-briar-rose-collectors-edition.json) |
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
+| Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
 | Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Die, Minerva! | 126345 | [126345-dont-die-minerva.json](./126345-dont-die-minerva.json) |
+| Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Don't Touch the Walls | 86439 | [86439-dont-touch-the-walls.json](./86439-dont-touch-the-walls.json) |
@@ -214,7 +217,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
 | Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
 | Dora the Explorer: Dora Saves the Mermaids | 7975 | [7975-dora-the-explorer-dora-saves-the-mermaids.json](./7975-dora-the-explorer-dora-saves-the-mermaids.json) |
+| Doritos VR Battle | 31441 | [31441-doritos-vr-battle.json](./31441-doritos-vr-battle.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
+| Dots eXtreme | 31513 | [31513-dots-extreme.json](./31513-dots-extreme.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
@@ -265,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
+| Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
@@ -297,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
+| DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
