@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
+| Scary Granny Horror Game | 95639 | [95639-scary-granny-horror-game.json](./95639-scary-granny-horror-game.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
 | Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
@@ -138,12 +139,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
+| Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
+| Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Sniper Elite VR: Winter Warrior | 275159 | [275159-sniper-elite-vr-winter-warrior.json](./275159-sniper-elite-vr-winter-warrior.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
@@ -187,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
+| Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
@@ -256,7 +260,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
+| Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
+| Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
 | Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
 | Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
@@ -344,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
+| Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
