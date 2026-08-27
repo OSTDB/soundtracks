@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
+| Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
 | Power Hover | 30402 | [30402-power-hover.json](./30402-power-hover.json) |
 | Power Rangers: Legacy Wars | 74865 | [74865-power-rangers-legacy-wars.json](./74865-power-rangers-legacy-wars.json) |
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
