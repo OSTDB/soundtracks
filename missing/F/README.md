@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
+| Flappy Sky Bird | 87588 | [87588-flappy-sky-bird.json](./87588-flappy-sky-bird.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
 | Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
 | Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
+| Flo | 87585 | [87585-flo.json](./87585-flo.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
 | Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
