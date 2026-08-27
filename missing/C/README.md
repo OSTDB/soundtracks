@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
 | Call of Duty: Black Ops III - Gold Edition | 29164 | [29164-call-of-duty-black-ops-iii-gold-edition.json](./29164-call-of-duty-black-ops-iii-gold-edition.json) |
+| Call of Duty: Black Ops III - Salvation | 23727 | [23727-call-of-duty-black-ops-iii-salvation.json](./23727-call-of-duty-black-ops-iii-salvation.json) |
 | Call of Duty: Finest Hour | 3761 | [3761-call-of-duty-finest-hour.json](./3761-call-of-duty-finest-hour.json) |
 | Call of Duty: Modern Warfare Remastered | 24920 | [24920-call-of-duty-modern-warfare-remastered.json](./24920-call-of-duty-modern-warfare-remastered.json) |
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
 | Capcom vs. SNK 2 EO | 86343 | [86343-capcom-vs-snk-2-eo.json](./86343-capcom-vs-snk-2-eo.json) |
+| Captain America: The Winter Soldier | 23807 | [23807-captain-america-the-winter-soldier.json](./23807-captain-america-the-winter-soldier.json) |
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
@@ -47,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
+| Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
@@ -97,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
+| Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
