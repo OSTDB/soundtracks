@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
+| The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
+| The Survivor: Rusty Forest | 89305 | [89305-the-survivor-rusty-forest.json](./89305-the-survivor-rusty-forest.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
 | The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
@@ -239,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
 | Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
+| Tickle Zooz | 89471 | [89471-tickle-zooz.json](./89471-tickle-zooz.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Woods PGA Tour 2005 | 906 | [906-tiger-woods-pga-tour-2005.json](./906-tiger-woods-pga-tour-2005.json) |
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
