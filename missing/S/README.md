@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
+| Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
@@ -68,6 +69,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
+| SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
+| SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
@@ -83,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
+| Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
@@ -106,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
+| Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
