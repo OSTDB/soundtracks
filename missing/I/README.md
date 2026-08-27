@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
+| Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
