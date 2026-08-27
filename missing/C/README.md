@@ -28,11 +28,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
+| Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
 | Cargo Commander | 7880 | [7880-cargo-commander.json](./7880-cargo-commander.json) |
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
+| Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
@@ -125,3 +127,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
+| Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
