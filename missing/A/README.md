@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: The Lake House | 273997 | [273997-alan-wake-ii-the-lake-house.json](./273997-alan-wake-ii-the-lake-house.json) |
+| Alarm for Cobra 11: Nitro | 81663 | [81663-alarm-for-cobra-11-nitro.json](./81663-alarm-for-cobra-11-nitro.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
@@ -84,3 +85,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Shallie Plus: Alchemists of the Dusk Sea | 25699 | [25699-atelier-shallie-plus-alchemists-of-the-dusk-sea.json](./25699-atelier-shallie-plus-alchemists-of-the-dusk-sea.json) |
 | Athens 2004 | 22298 | [22298-athens-2004.json](./22298-athens-2004.json) |
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
+| AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
