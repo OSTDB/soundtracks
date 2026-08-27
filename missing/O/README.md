@@ -63,6 +63,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
 | Outward: Definitive Edition | 201935 | [201935-outward-definitive-edition.json](./201935-outward-definitive-edition.json) |
 | Over the Alps | 125509 | [125509-over-the-alps.json](./125509-over-the-alps.json) |
+| Overcoming Pain | 76707 | [76707-overcoming-pain.json](./76707-overcoming-pain.json) |
+| Overlord | 77197 | [77197-overlord.json](./77197-overlord.json) |
 | Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
