@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 4667 | [4667-alien-syndrome.json](./4667-alien-syndrome.json) |
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
+| All Day Dying | 126717 | [126717-all-day-dying.json](./126717-all-day-dying.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
 | Art of Murder: Hunt for the Puppeteer | 14358 | [14358-art-of-murder-hunt-for-the-puppeteer.json](./14358-art-of-murder-hunt-for-the-puppeteer.json) |
+| Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
+| Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
