@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
+| Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
+| Greg Hastings Paintball 2 | 24317 | [24317-greg-hastings-paintball-2.json](./24317-greg-hastings-paintball-2.json) |
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
