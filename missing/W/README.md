@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
+| Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
 | Winnie the Pooh | 17765 | [17765-winnie-the-pooh.json](./17765-winnie-the-pooh.json) |
+| Winter Warland | 76692 | [76692-winter-warland.json](./76692-winter-warland.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
