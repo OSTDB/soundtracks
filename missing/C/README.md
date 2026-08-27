@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
+| Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
@@ -121,9 +122,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
+| College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
+| Color Beatz | 87627 | [87627-color-beatz.json](./87627-color-beatz.json) |
 | Color by Number - Poly Art | 96084 | [96084-color-by-number-poly-art.json](./96084-color-by-number-poly-art.json) |
+| Color by Numbers - Halloween + | 87645 | [87645-color-by-numbers-halloween.json](./87645-color-by-numbers-halloween.json) |
+| Color Switch 3D | 87644 | [87644-color-switch-3d.json](./87644-color-switch-3d.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
@@ -204,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
+| Cubor | 87583 | [87583-cubor.json](./87583-cubor.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
