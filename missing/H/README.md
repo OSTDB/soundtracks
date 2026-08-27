@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
+| Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hip-Hop Trivia: Starring Murs | 20941 | [20941-hip-hop-trivia-starring-murs.json](./20941-hip-hop-trivia-starring-murs.json) |
