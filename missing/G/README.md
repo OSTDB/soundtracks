@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
+| Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
@@ -78,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
+| Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
