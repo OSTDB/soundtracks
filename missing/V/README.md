@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
+| Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
