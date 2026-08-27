@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
 | Voyage: Journey to the Moon | 9734 | [9734-voyage-journey-to-the-moon.json](./9734-voyage-journey-to-the-moon.json) |
+| VR Golf Online | 29851 | [29851-vr-golf-online.json](./29851-vr-golf-online.json) |
 | VR Shoot Around | 44215 | [44215-vr-shoot-around.json](./44215-vr-shoot-around.json) |
 | Vs. Excitebike | 41296 | [41296-vs-excitebike.json](./41296-vs-excitebike.json) |
 | Vulcan Venture | 39999 | [39999-vulcan-venture.json](./39999-vulcan-venture.json) |
