@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
 | Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
+| Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
+| Ouroboros Project | 101657 | [101657-ouroboros-project.json](./101657-ouroboros-project.json) |
 | Out of the Park Baseball 15 | 16955 | [16955-out-of-the-park-baseball-15.json](./16955-out-of-the-park-baseball-15.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
