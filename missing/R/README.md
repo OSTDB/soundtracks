@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
+| Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
+| Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
@@ -113,6 +115,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
+| Rugby Challenge 2 | 7166 | [7166-rugby-challenge-2.json](./7166-rugby-challenge-2.json) |
+| Rugby World Cup 2011 | 7165 | [7165-rugby-world-cup-2011.json](./7165-rugby-world-cup-2011.json) |
 | Rugrats: Search for Reptar | 2787 | [2787-rugrats-search-for-reptar.json](./2787-rugrats-search-for-reptar.json) |
 | Rumble Club | 276929 | [276929-rumble-club.json](./276929-rumble-club.json) |
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
@@ -125,3 +129,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
+| Ryzom | 6742 | [6742-ryzom.json](./6742-ryzom.json) |
