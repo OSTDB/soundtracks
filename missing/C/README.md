@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
+| Call of Duty: Black Ops III - Gold Edition | 29164 | [29164-call-of-duty-black-ops-iii-gold-edition.json](./29164-call-of-duty-black-ops-iii-gold-edition.json) |
 | Call of Duty: Finest Hour | 3761 | [3761-call-of-duty-finest-hour.json](./3761-call-of-duty-finest-hour.json) |
 | Call of Duty: Modern Warfare Remastered | 24920 | [24920-call-of-duty-modern-warfare-remastered.json](./24920-call-of-duty-modern-warfare-remastered.json) |
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
+| Colt Express | 31149 | [31149-colt-express.json](./31149-colt-express.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
