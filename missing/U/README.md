@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
+| Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
