@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm for Cobra 11: Nitro | 81663 | [81663-alarm-for-cobra-11-nitro.json](./81663-alarm-for-cobra-11-nitro.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
+| Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
+| Alpha Omega | 89503 | [89503-alpha-omega.json](./89503-alpha-omega.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
 | Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
@@ -78,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
 | Amazing Tater | 7754 | [7754-amazing-tater.json](./7754-amazing-tater.json) |
 | Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
+| Amelie's Café: Halloween | 89313 | [89313-amelies-cafe-halloween.json](./89313-amelies-cafe-halloween.json) |
 | Amenti | 327698 | [327698-amenti.json](./327698-amenti.json) |
 | American Conquest | 596 | [596-american-conquest.json](./596-american-conquest.json) |
 | American Conquest: Fight Back | 9360 | [9360-american-conquest-fight-back.json](./9360-american-conquest-fight-back.json) |
@@ -133,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
+| Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
 | Assassin's Creed Brotherhood: Deluxe Edition | 24743 | [24743-assassins-creed-brotherhood-deluxe-edition.json](./24743-assassins-creed-brotherhood-deluxe-edition.json) |
 | Assassin's Creed Chronicles: Trilogy Pack | 52416 | [52416-assassins-creed-chronicles-trilogy-pack.json](./52416-assassins-creed-chronicles-trilogy-pack.json) |
