@@ -33,8 +33,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
+| Entropy Rising | 36134 | [36134-entropy-rising.json](./36134-entropy-rising.json) |
 | Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
+| Ephemerid: A Musical Adventure | 36111 | [36111-ephemerid-a-musical-adventure.json](./36111-ephemerid-a-musical-adventure.json) |
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
@@ -60,6 +62,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
+| Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
+| Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
