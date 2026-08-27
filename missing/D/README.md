@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
+| Dex: Your AR Dog Companion | 95761 | [95761-dex-your-ar-dog-companion.json](./95761-dex-your-ar-dog-companion.json) |
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward | 31942 | [31942-downward.json](./31942-downward.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
+| Dr. Cares: Amy's Pet Clinic | 96078 | [96078-dr-cares-amys-pet-clinic.json](./96078-dr-cares-amys-pet-clinic.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
@@ -239,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
+| Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
