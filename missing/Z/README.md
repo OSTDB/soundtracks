@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
+| Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
