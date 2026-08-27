@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
+| Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
+| Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
@@ -86,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
+| FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
 | Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
