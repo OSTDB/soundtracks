@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
+| Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
+| Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
+| Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
@@ -137,3 +140,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
+| Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
