@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
+| Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
 | Summoners War: Sky Arena | 23622 | [23622-summoners-war-sky-arena.json](./23622-summoners-war-sky-arena.json) |
 | Sumotori Dreams | 20974 | [20974-sumotori-dreams.json](./20974-sumotori-dreams.json) |
@@ -259,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
+| Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
