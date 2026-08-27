@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
+| Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
+| Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
@@ -145,4 +147,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
 | Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
 | Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
+| Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
