@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immune | 35785 | [35785-immune.json](./35785-immune.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
+| Impulse of War | 31506 | [31506-impulse-of-war.json](./31506-impulse-of-war.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
 | Internet Simulator | 86517 | [86517-internet-simulator.json](./86517-internet-simulator.json) |
+| Intershelter | 31499 | [31499-intershelter.json](./31499-intershelter.json) |
 | Interstellar Transport Company | 46464 | [46464-interstellar-transport-company.json](./46464-interstellar-transport-company.json) |
 | Interwebs Troll Simulator | 20921 | [20921-interwebs-troll-simulator.json](./20921-interwebs-troll-simulator.json) |
 | Into Blue Valley | 36138 | [36138-into-blue-valley.json](./36138-into-blue-valley.json) |
