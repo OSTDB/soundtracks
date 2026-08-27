@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Horizon | 14712 | [14712-last-horizon.json](./14712-last-horizon.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
