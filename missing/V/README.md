@@ -37,10 +37,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
 | Virtua Tennis | 6291 | [6291-virtua-tennis.json](./6291-virtua-tennis.json) |
 | Virtual Battlegrounds | 115669 | [115669-virtual-battlegrounds.json](./115669-virtual-battlegrounds.json) |
+| Virtual Escape: The Play Room | 31477 | [31477-virtual-escape-the-play-room.json](./31477-virtual-escape-the-play-room.json) |
 | Virtual Mother Game: Family Mom Simulator | 95738 | [95738-virtual-mother-game-family-mom-simulator.json](./95738-virtual-mother-game-family-mom-simulator.json) |
 | Virtual Rides 3 | 31666 | [31666-virtual-rides-3.json](./31666-virtual-rides-3.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
+| Visitors | 31537 | [31537-visitors.json](./31537-visitors.json) |
 | Vlak | 78148 | [78148-vlak.json](./78148-vlak.json) |
 | Void Destroyer | 16776 | [16776-void-destroyer.json](./16776-void-destroyer.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
