@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F-22 Lightning II | 10759 | [10759-f-22-lightning-ii.json](./10759-f-22-lightning-ii.json) |
+| F-24 Stealth Fighter | 20980 | [20980-f-24-stealth-fighter.json](./20980-f-24-stealth-fighter.json) |
 | F1 2002 | 22059 | [22059-f1-2002.json](./22059-f1-2002.json) |
 | F1 23 | 240558 | [240558-f1-23.json](./240558-f1-23.json) |
 | F1 Manager 2022 | 193538 | [193538-f1-manager-2022.json](./193538-f1-manager-2022.json) |
@@ -54,6 +55,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
+| Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
+| Fibble | 20827 | [20827-fibble.json](./20827-fibble.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
 | FIFA 18 | 240452 | [240452-fifa-18.json](./240452-fifa-18.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
+| Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
@@ -110,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
 | Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
+| Football Manager Classic 2014 | 20943 | [20943-football-manager-classic-2014.json](./20943-football-manager-classic-2014.json) |
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
@@ -120,9 +125,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
+| Forza Horizon - 1000 Club Expansion Pack | 20851 | [20851-forza-horizon-1000-club-expansion-pack.json](./20851-forza-horizon-1000-club-expansion-pack.json) |
 | Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
 | Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
+| Forza Motorsport 4 Porsche | 20824 | [20824-forza-motorsport-4-porsche.json](./20824-forza-motorsport-4-porsche.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
