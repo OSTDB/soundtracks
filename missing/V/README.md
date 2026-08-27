@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Savior 2: The Lord of Vampire | 39696 | [39696-vampire-savior-2-the-lord-of-vampire.json](./39696-vampire-savior-2-the-lord-of-vampire.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
+| Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
