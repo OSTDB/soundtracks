@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
+| Zombie City Defense 2 | 22806 | [22806-zombie-city-defense-2.json](./22806-zombie-city-defense-2.json) |
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
 | Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
