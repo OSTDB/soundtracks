@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Machines | 22821 | [22821-machines.json](./22821-machines.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
 | Mad Tracks | 4982 | [4982-mad-tracks.json](./4982-mad-tracks.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
 | Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
+| Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
+| MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
 | MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
@@ -175,9 +178,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP | 23012 | [23012-motogp.json](./23012-motogp.json) |
 | MotoGP 2 | 5933 | [5933-motogp-2.json](./5933-motogp-2.json) |
 | MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
+| MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
+| Mr. Robot:1.51exfiltrati0n | 22748 | [22748-mr-robot-1-51exfiltrati0n.json](./22748-mr-robot-1-51exfiltrati0n.json) |
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
@@ -205,3 +210,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
+| Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
