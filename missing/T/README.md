@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
+| Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
+| The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Rifters | 16931 | [16931-time-rifters.json](./16931-time-rifters.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
+| Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
