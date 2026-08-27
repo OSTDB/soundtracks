@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Tactica | 252729 | [252729-persona-5-tactica.json](./252729-persona-5-tactica.json) |
 | Pet Society | 165165 | [165165-pet-society.json](./165165-pet-society.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
+| Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
