@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Year of Rain | 116212 | [116212-a-year-of-rain.json](./116212-a-year-of-rain.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
+| Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
+| Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
 | Amenti | 327698 | [327698-amenti.json](./327698-amenti.json) |
 | American Conquest | 596 | [596-american-conquest.json](./596-american-conquest.json) |
 | American Conquest: Fight Back | 9360 | [9360-american-conquest-fight-back.json](./9360-american-conquest-fight-back.json) |
