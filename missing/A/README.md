@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
+| Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
 | Age of Empires III: The Asian Dynasties | 8220 | [8220-age-of-empires-iii-the-asian-dynasties.json](./8220-age-of-empires-iii-the-asian-dynasties.json) |
+| Age of Gladiators II: Rome | 102245 | [102245-age-of-gladiators-ii-rome.json](./102245-age-of-gladiators-ii-rome.json) |
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
@@ -82,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amid Evil | 74904 | [74904-amid-evil.json](./74904-amid-evil.json) |
 | Amnesia Later x Crowd V Edition | 61256 | [61256-amnesia-later-x-crowd-v-edition.json](./61256-amnesia-later-x-crowd-v-edition.json) |
 | Amnesia: Collection | 25082 | [25082-amnesia-collection.json](./25082-amnesia-collection.json) |
+| Among the Stars | 101953 | [101953-among-the-stars.json](./101953-among-the-stars.json) |
 | Amorphous+ | 8061 | [8061-amorphous.json](./8061-amorphous.json) |
 | Amy | 3416 | [3416-amy.json](./3416-amy.json) |
 | An Assassin in Orlandes | 36099 | [36099-an-assassin-in-orlandes.json](./36099-an-assassin-in-orlandes.json) |
@@ -152,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
+| Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
