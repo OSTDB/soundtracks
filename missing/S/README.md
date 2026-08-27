@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
 | Safari Photo Africa: Wild Earth | 23779 | [23779-safari-photo-africa-wild-earth.json](./23779-safari-photo-africa-wild-earth.json) |
 | SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
+| Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
+| Samurai of Hyuga Book 3 | 76675 | [76675-samurai-of-hyuga-book-3.json](./76675-samurai-of-hyuga-book-3.json) |
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
 | Samurai Shodown: Edge of Destiny | 7172 | [7172-samurai-shodown-edge-of-destiny.json](./7172-samurai-shodown-edge-of-destiny.json) |
@@ -71,12 +73,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
+| Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
+| Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
@@ -168,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
+| Sok | 77170 | [77170-sok.json](./77170-sok.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
@@ -201,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
+| Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
@@ -219,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Nut: Christmas is Coming | 89522 | [89522-spin-the-nut-christmas-is-coming.json](./89522-spin-the-nut-christmas-is-coming.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
+| Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
@@ -365,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
+| Survival Games | 77053 | [77053-survival-games.json](./77053-survival-games.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
@@ -373,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
+| Sword and Shield | 76771 | [76771-sword-and-shield.json](./76771-sword-and-shield.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
 | Sword of Elpisia | 182267 | [182267-sword-of-elpisia.json](./182267-sword-of-elpisia.json) |
