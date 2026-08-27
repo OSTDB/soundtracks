@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
+| Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
@@ -90,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
+| Miami Vice: The Game | 23818 | [23818-miami-vice-the-game.json](./23818-miami-vice-the-game.json) |
 | Michael Jordan: Chaos in the Windy City | 42490 | [42490-michael-jordan-chaos-in-the-windy-city.json](./42490-michael-jordan-chaos-in-the-windy-city.json) |
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
@@ -112,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
+| MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
@@ -125,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
+| Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
@@ -160,5 +164,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
+| Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
