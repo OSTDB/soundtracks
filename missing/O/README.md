@@ -6,7 +6,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
+| Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
 | Odd Realm | 113138 | [113138-odd-realm.json](./113138-odd-realm.json) |
 | Oddworld: Soulstorm - Enhanced Edition | 178211 | [178211-oddworld-soulstorm-enhanced-edition.json](./178211-oddworld-soulstorm-enhanced-edition.json) |
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
@@ -33,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
 | Operation Warcade VR | 36826 | [36826-operation-warcade-vr.json](./36826-operation-warcade-vr.json) |
+| Opoona | 5087 | [5087-opoona.json](./5087-opoona.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
