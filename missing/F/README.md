@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
+| Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
 | Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
+| Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
@@ -173,4 +175,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
+| Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
