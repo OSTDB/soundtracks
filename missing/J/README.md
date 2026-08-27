@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Jade Dynasty | 51194 | [51194-jade-dynasty.json](./51194-jade-dynasty.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
+| Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
