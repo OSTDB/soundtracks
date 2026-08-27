@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
+| Faerie Solitaire Harvest | 115787 | [115787-faerie-solitaire-harvest.json](./115787-faerie-solitaire-harvest.json) |
 | FaeVerse Alchemy | 36421 | [36421-faeverse-alchemy.json](./36421-faeverse-alchemy.json) |
 | Fairune Collection | 96241 | [96241-fairune-collection.json](./96241-fairune-collection.json) |
 | Fairway Solitaire - Card Game | 86795 | [86795-fairway-solitaire-card-game.json](./86795-fairway-solitaire-card-game.json) |
@@ -67,8 +68,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2005 | 240278 | [240278-fifa-soccer-2005.json](./240278-fifa-soccer-2005.json) |
 | FIFA Soccer 2005 | 703 | [703-fifa-soccer-2005.json](./703-fifa-soccer-2005.json) |
 | FIFA Soccer 96 | 240233 | [240233-fifa-soccer-96.json](./240233-fifa-soccer-96.json) |
+| Fight Angel | 116318 | [116318-fight-angel.json](./116318-fight-angel.json) |
 | Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
+| Figure Quest | 115693 | [115693-figure-quest.json](./115693-figure-quest.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
 | Final Fantasy Fables: Chocobo's Dungeon | 18069 | [18069-final-fantasy-fables-chocobos-dungeon.json](./18069-final-fantasy-fables-chocobos-dungeon.json) |
 | Final Fantasy I & II: Dawn of Souls | 408 | [408-final-fantasy-i-and-ii-dawn-of-souls.json](./408-final-fantasy-i-and-ii-dawn-of-souls.json) |
