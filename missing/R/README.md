@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| R-Type Command | 24293 | [24293-r-type-command.json](./24293-r-type-command.json) |
 | R-Type Dimensions | 21250 | [21250-r-type-dimensions.json](./21250-r-type-dimensions.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
+| Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
 | Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
