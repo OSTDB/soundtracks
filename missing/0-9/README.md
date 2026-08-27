@@ -19,5 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
+| 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
 | Ōkami HD | 20744 | [20744-okami-hd.json](./20744-okami-hd.json) |
 | Öoo | 328028 | [328028-ooo.json](./328028-ooo.json) |
