@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Zookeeper Collection | 23011 | [23011-zoo-tycoon-2-zookeeper-collection.json](./23011-zoo-tycoon-2-zookeeper-collection.json) |
 | Zoo Tycoon: Complete Collection | 50863 | [50863-zoo-tycoon-complete-collection.json](./50863-zoo-tycoon-complete-collection.json) |
 | Zoochosis | 282935 | [282935-zoochosis.json](./282935-zoochosis.json) |
+| Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zup! 6 | 54810 | [54810-zup-6.json](./54810-zup-6.json) |
