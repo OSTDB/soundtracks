@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
+| Gang Wars | 6796 | [6796-gang-wars.json](./6796-gang-wars.json) |
 | Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
@@ -30,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
 | Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
+| Generator Rex: Agent of Providence | 8005 | [8005-generator-rex-agent-of-providence.json](./8005-generator-rex-agent-of-providence.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
