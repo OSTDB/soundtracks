@@ -228,6 +228,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blade: Wrath of Fire | 4819 | [4819-dragon-blade-wrath-of-fire.json](./4819-dragon-blade-wrath-of-fire.json) |
 | Dragon Bros | 31970 | [31970-dragon-bros.json](./31970-dragon-bros.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
+| Dragon Climax | 76856 | [76856-dragon-climax.json](./76856-dragon-climax.json) |
+| Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
