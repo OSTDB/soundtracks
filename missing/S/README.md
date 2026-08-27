@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
+| Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Scary Granny Horror Game | 95639 | [95639-scary-granny-horror-game.json](./95639-scary-granny-horror-game.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Air Supremacy | 62448 | [62448-sky-gamblers-air-supremacy.json](./62448-sky-gamblers-air-supremacy.json) |
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
+| Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
+| Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
@@ -266,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squids From Space | 46758 | [46758-squids-from-space.json](./46758-squids-from-space.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
 | SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
+| Srq | 29881 | [29881-srq.json](./29881-srq.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
@@ -397,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Spring Ninja | 31443 | [31443-super-spring-ninja.json](./31443-super-spring-ninja.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
+| Super Stone Legacy | 29752 | [29752-super-stone-legacy.json](./29752-super-stone-legacy.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
 | Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
 | Super Switch | 31485 | [31485-super-switch.json](./31485-super-switch.json) |
