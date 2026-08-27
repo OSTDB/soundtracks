@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
+| Permute | 29859 | [29859-permute.json](./29859-permute.json) |
 | Persian Nights: Sands of Wonders | 38040 | [38040-persian-nights-sands-of-wonders.json](./38040-persian-nights-sands-of-wonders.json) |
 | Persona 2: Innocent Sin | 11453 | [11453-persona-2-innocent-sin.json](./11453-persona-2-innocent-sin.json) |
 | Persona 3 | 9577 | [9577-persona-3.json](./9577-persona-3.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
 | Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
+| Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
