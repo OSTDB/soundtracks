@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
 | Headshot VR | 109838 | [109838-headshot-vr.json](./109838-headshot-vr.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
+| Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
+| Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
@@ -90,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
+| Horse Paradise: My Dream Ranch | 76693 | [76693-horse-paradise-my-dream-ranch.json](./76693-horse-paradise-my-dream-ranch.json) |
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
