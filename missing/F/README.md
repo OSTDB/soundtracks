@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
+| FPV Air Tracks | 33006 | [33006-fpv-air-tracks.json](./33006-fpv-air-tracks.json) |
 | Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
 | Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
