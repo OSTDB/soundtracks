@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
+| Existential Kitty Cat RPG | 95618 | [95618-existential-kitty-cat-rpg.json](./95618-existential-kitty-cat-rpg.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
