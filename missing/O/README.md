@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
+| Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
 | Odd Realm | 113138 | [113138-odd-realm.json](./113138-odd-realm.json) |
@@ -19,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
+| On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
 | On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
 | On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
@@ -42,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
+| Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
