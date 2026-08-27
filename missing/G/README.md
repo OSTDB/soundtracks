@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
+| Governor of Poker 2: Premium Edition | 30146 | [30146-governor-of-poker-2-premium-edition.json](./30146-governor-of-poker-2-premium-edition.json) |
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
