@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
+| Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
+| Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
 | Hyrule Warriors: Age of Calamity | 138343 | [138343-hyrule-warriors-age-of-calamity.json](./138343-hyrule-warriors-age-of-calamity.json) |
 | Hyrule Warriors: Definitive Edition | 81147 | [81147-hyrule-warriors-definitive-edition.json](./81147-hyrule-warriors-definitive-edition.json) |
