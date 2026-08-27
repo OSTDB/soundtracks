@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
 | Dark Age of Camelot | 657 | [657-dark-age-of-camelot.json](./657-dark-age-of-camelot.json) |
 | Dark Age of Camelot: Trials of Atlantis | 23744 | [23744-dark-age-of-camelot-trials-of-atlantis.json](./23744-dark-age-of-camelot-trials-of-atlantis.json) |
+| Dark and Deep | 273962 | [273962-dark-and-deep.json](./273962-dark-and-deep.json) |
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
+| Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
 | Disney Illusion Island | 216278 | [216278-disney-illusion-island.json](./216278-disney-illusion-island.json) |
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
 | Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
