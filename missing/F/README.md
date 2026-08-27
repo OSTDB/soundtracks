@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
+| Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
+| Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
