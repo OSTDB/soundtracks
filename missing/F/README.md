@@ -93,10 +93,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
+| Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
+| Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
