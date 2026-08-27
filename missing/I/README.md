@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
+| Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
+| Internet Simulator | 86517 | [86517-internet-simulator.json](./86517-internet-simulator.json) |
 | Interwebs Troll Simulator | 20921 | [20921-interwebs-troll-simulator.json](./20921-interwebs-troll-simulator.json) |
 | Into Blue Valley | 36138 | [36138-into-blue-valley.json](./36138-into-blue-valley.json) |
 | Into the Pit | 165318 | [165318-into-the-pit.json](./165318-into-the-pit.json) |
