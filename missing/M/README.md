@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
+| Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
+| Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
+| Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
@@ -193,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
+| Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
