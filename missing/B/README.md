@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Grunty's Revenge | 6318 | [6318-banjo-kazooie-gruntys-revenge.json](./6318-banjo-kazooie-gruntys-revenge.json) |
 | Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
+| Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
