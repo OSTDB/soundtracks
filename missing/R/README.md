@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
+| Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
+| Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
@@ -95,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Megagun | 90783 | [90783-rival-megagun.json](./90783-rival-megagun.json) |
 | River City Ransom: Underground | 27038 | [27038-river-city-ransom-underground.json](./27038-river-city-ransom-underground.json) |
 | River City Saga: Three Kingdoms | 173083 | [173083-river-city-saga-three-kingdoms.json](./173083-river-city-saga-three-kingdoms.json) |
+| River City Soccer Hooligans | 47838 | [47838-river-city-soccer-hooligans.json](./47838-river-city-soccer-hooligans.json) |
 | River City: Rival Showdown | 36602 | [36602-river-city-rival-showdown.json](./36602-river-city-rival-showdown.json) |
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
