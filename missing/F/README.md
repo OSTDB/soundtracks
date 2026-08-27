@@ -1,0 +1,102 @@
+# Missing — F
+
+[← Back to missing index](../README.md)
+
+Each file below is a placeholder submission. Fill it in and open a pull request — see [../../SUBMITTING.md](../../SUBMITTING.md).
+
+| Game | IGDB ID | File |
+|---|---|---|
+| F-22 Lightning II | 10759 | [10759-f-22-lightning-ii.json](./10759-f-22-lightning-ii.json) |
+| F1 2002 | 22059 | [22059-f1-2002.json](./22059-f1-2002.json) |
+| F1 23 | 240558 | [240558-f1-23.json](./240558-f1-23.json) |
+| F1 Manager 2022 | 193538 | [193538-f1-manager-2022.json](./193538-f1-manager-2022.json) |
+| F1 ROC: Race of Champions | 42571 | [42571-f1-roc-race-of-champions.json](./42571-f1-roc-race-of-champions.json) |
+| Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
+| Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
+| Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
+| Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
+| Fallout 3: Broken Steel | 10299 | [10299-fallout-3-broken-steel.json](./10299-fallout-3-broken-steel.json) |
+| Fallout 3: The Pitt | 10303 | [10303-fallout-3-the-pitt.json](./10303-fallout-3-the-pitt.json) |
+| Fallout 4: Nuka World | 19534 | [19534-fallout-4-nuka-world.json](./19534-fallout-4-nuka-world.json) |
+| Fallout 4: Wasteland Workshop | 18030 | [18030-fallout-4-wasteland-workshop.json](./18030-fallout-4-wasteland-workshop.json) |
+| Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
+| Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
+| Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
+| Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
+| Fantasy World Dizzy | 12090 | [12090-fantasy-world-dizzy.json](./12090-fantasy-world-dizzy.json) |
+| FantaVision | 10392 | [10392-fantavision.json](./10392-fantavision.json) |
+| Far Cry 6: Insanity | 182125 | [182125-far-cry-6-insanity.json](./182125-far-cry-6-insanity.json) |
+| Far Cry Instincts: Predator | 22585 | [22585-far-cry-instincts-predator.json](./22585-far-cry-instincts-predator.json) |
+| Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
+| Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
+| Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
+| Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
+| Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
+| Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
+| Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
+| Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
+| Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
+| FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
+| FIFA 18 | 240452 | [240452-fifa-18.json](./240452-fifa-18.json) |
+| FIFA International Soccer | 4345 | [4345-fifa-international-soccer.json](./4345-fifa-international-soccer.json) |
+| FIFA Soccer 09 | 240330 | [240330-fifa-soccer-09.json](./240330-fifa-soccer-09.json) |
+| FIFA Soccer 2005 | 240278 | [240278-fifa-soccer-2005.json](./240278-fifa-soccer-2005.json) |
+| FIFA Soccer 2005 | 703 | [703-fifa-soccer-2005.json](./703-fifa-soccer-2005.json) |
+| FIFA Soccer 96 | 240233 | [240233-fifa-soccer-96.json](./240233-fifa-soccer-96.json) |
+| Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
+| Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
+| Final Fantasy I & II: Dawn of Souls | 408 | [408-final-fantasy-i-and-ii-dawn-of-souls.json](./408-final-fantasy-i-and-ii-dawn-of-souls.json) |
+| Final Fantasy II | 395 | [395-final-fantasy-ii.json](./395-final-fantasy-ii.json) |
+| Final Fantasy IV | 16587 | [16587-final-fantasy-iv.json](./16587-final-fantasy-iv.json) |
+| Final Fantasy IX | 205673 | [205673-final-fantasy-ix.json](./205673-final-fantasy-ix.json) |
+| Final Fantasy XII: Revenant Wings | 392 | [392-final-fantasy-xii-revenant-wings.json](./392-final-fantasy-xii-revenant-wings.json) |
+| Final Fantasy XIV: Dawntrail | 259338 | [259338-final-fantasy-xiv-dawntrail.json](./259338-final-fantasy-xiv-dawntrail.json) |
+| Final Fantasy XV: Episode Gladiolus | 28002 | [28002-final-fantasy-xv-episode-gladiolus.json](./28002-final-fantasy-xv-episode-gladiolus.json) |
+| Final Fantasy XVI: Echoes of the Fallen | 279657 | [279657-final-fantasy-xvi-echoes-of-the-fallen.json](./279657-final-fantasy-xvi-echoes-of-the-fallen.json) |
+| Final Fantasy XVI: The Rising Tide | 279658 | [279658-final-fantasy-xvi-the-rising-tide.json](./279658-final-fantasy-xvi-the-rising-tide.json) |
+| Final Fantasy: Crystal Chronicles - My Life as a Darklord | 41856 | [41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json](./41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json) |
+| Final Fantasy: Record Keeper | 26981 | [26981-final-fantasy-record-keeper.json](./26981-final-fantasy-record-keeper.json) |
+| Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
+| Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
+| Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
+| Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
+| Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
+| Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
+| Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
+| Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
+| Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
+| Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
+| Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
+| Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
+| Flock | 210625 | [210625-flock.json](./210625-flock.json) |
+| flOw | 1353 | [1353-flow.json](./1353-flow.json) |
+| FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
+| Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
+| For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
+| Forced | 5626 | [5626-forced.json](./5626-forced.json) |
+| Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
+| Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
+| Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
+| Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
+| Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
+| FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
+| Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
+| Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
+| Framed 2 | 25236 | [25236-framed-2.json](./25236-framed-2.json) |
+| Framed Collection | 71957 | [71957-framed-collection.json](./71957-framed-collection.json) |
+| Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
+| Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
+| Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
+| Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
+| Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
+| FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
+| Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
+| Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
+| Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
+| From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
+| Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
+| Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
+| Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
+| Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
+| Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |

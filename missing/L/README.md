@@ -1,0 +1,51 @@
+# Missing — L
+
+[← Back to missing index](../README.md)
+
+Each file below is a placeholder submission. Fill it in and open a pull request — see [../../SUBMITTING.md](../../SUBMITTING.md).
+
+| Game | IGDB ID | File |
+|---|---|---|
+| Lake | 127743 | [127743-lake.json](./127743-lake.json) |
+| Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
+| Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
+| Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
+| Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
+| Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legends of Elysium | 296537 | [296537-legends-of-elysium.json](./296537-legends-of-elysium.json) |
+| LEGO 2K Drive | 242493 | [242493-lego-2k-drive.json](./242493-lego-2k-drive.json) |
+| LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
+| LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
+| LEGO Rock Raiders | 2157 | [2157-lego-rock-raiders.json](./2157-lego-rock-raiders.json) |
+| LEGO Star Wars: The Force Awakens | 17030 | [17030-lego-star-wars-the-force-awakens.json](./17030-lego-star-wars-the-force-awakens.json) |
+| LEGO Star Wars: The Video Game | 2681 | [2681-lego-star-wars-the-video-game.json](./2681-lego-star-wars-the-video-game.json) |
+| Leisure Suit Larry: Reloaded | 2915 | [2915-leisure-suit-larry-reloaded.json](./2915-leisure-suit-larry-reloaded.json) |
+| Lemmings | 238952 | [238952-lemmings.json](./238952-lemmings.json) |
+| Lemmings | 239309 | [239309-lemmings.json](./239309-lemmings.json) |
+| Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
+| Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
+| Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
+| LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
+| Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
+| LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
+| Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
+| Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
+| Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
+| LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
+| Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
+| LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
+| Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
+| Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
+| Loom | 191 | [191-loom.json](./191-loom.json) |
+| Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
+| Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
+| Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
+| Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
+| Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
+| Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
+| Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
+| Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
+| Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
+| Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
+| Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
