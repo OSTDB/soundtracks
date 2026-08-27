@@ -58,9 +58,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
+| Reptilian Rebellion | 33013 | [33013-reptilian-rebellion.json](./33013-reptilian-rebellion.json) |
 | Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Rescue Team 2 | 34430 | [34430-rescue-team-2.json](./34430-rescue-team-2.json) |
 | Rescue Team 3 | 34431 | [34431-rescue-team-3.json](./34431-rescue-team-3.json) |
+| Resette's Prescription: Book of Memory, Swaying Scale | 32976 | [32976-resettes-prescription-book-of-memory-swaying-scale.json](./32976-resettes-prescription-book-of-memory-swaying-scale.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
@@ -83,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
+| Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
