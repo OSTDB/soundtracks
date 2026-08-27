@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Naboki | 125070 | [125070-naboki.json](./125070-naboki.json) |
+| Nalogi | 89428 | [89428-nalogi.json](./89428-nalogi.json) |
 | Nancy Drew Dossier: Lights, Camera, Curses! | 15999 | [15999-nancy-drew-dossier-lights-camera-curses.json](./15999-nancy-drew-dossier-lights-camera-curses.json) |
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
