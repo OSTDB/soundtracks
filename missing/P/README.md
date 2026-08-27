@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Primal Carnage | 3066 | [3066-primal-carnage.json](./3066-primal-carnage.json) |
+| Primal Wars: Dino Age | 101954 | [101954-primal-wars-dino-age.json](./101954-primal-wars-dino-age.json) |
 | Prince of Persia | 229862 | [229862-prince-of-persia.json](./229862-prince-of-persia.json) |
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
 | Princess Connect! Re:Dive | 22791 | [22791-princess-connect-re-dive.json](./22791-princess-connect-re-dive.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
+| Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
