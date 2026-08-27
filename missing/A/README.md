@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
+| ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
+| Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
+| Anime Girls VR | 77169 | [77169-anime-girls-vr.json](./77169-anime-girls-vr.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
 | Anno 1701 | 8225 | [8225-anno-1701.json](./8225-anno-1701.json) |
 | Anno 2070 | 2959 | [2959-anno-2070.json](./2959-anno-2070.json) |
@@ -134,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
 | Art of Murder: Hunt for the Puppeteer | 14358 | [14358-art-of-murder-hunt-for-the-puppeteer.json](./14358-art-of-murder-hunt-for-the-puppeteer.json) |
+| Artifact Adventure Gaiden | 76753 | [76753-artifact-adventure-gaiden.json](./76753-artifact-adventure-gaiden.json) |
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
