@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | R-Type Command | 24293 | [24293-r-type-command.json](./24293-r-type-command.json) |
 | R-Type Dimensions | 21250 | [21250-r-type-dimensions.json](./21250-r-type-dimensions.json) |
+| R-Types | 22892 | [22892-r-types.json](./22892-r-types.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
@@ -118,5 +119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
+| Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
