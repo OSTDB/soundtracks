@@ -17,3 +17,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zup! 6 | 54810 | [54810-zup-6.json](./54810-zup-6.json) |
+| Zup! 8 | 86571 | [86571-zup-8.json](./86571-zup-8.json) |
