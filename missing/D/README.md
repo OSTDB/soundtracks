@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
+| Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
+| Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
 | Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
@@ -74,7 +76,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
+| Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
+| Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
@@ -232,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
+| Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
