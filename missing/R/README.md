@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
+| Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
