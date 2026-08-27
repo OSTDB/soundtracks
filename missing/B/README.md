@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Naval Strike | 3094 | [3094-battlefield-4-naval-strike.json](./3094-battlefield-4-naval-strike.json) |
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
+| BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonsai Barber | 20902 | [20902-bonsai-barber.json](./20902-bonsai-barber.json) |
 | Boogie Superstar | 4726 | [4726-boogie-superstar.json](./4726-boogie-superstar.json) |
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
+| Boot Hill Bounties | 76947 | [76947-boot-hill-bounties.json](./76947-boot-hill-bounties.json) |
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
