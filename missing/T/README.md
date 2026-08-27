@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
+| Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
