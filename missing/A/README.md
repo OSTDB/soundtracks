@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amerzone: The Explorer's Legacy | 289353 | [289353-amerzone-the-explorers-legacy.json](./289353-amerzone-the-explorers-legacy.json) |
 | Amid Evil | 74904 | [74904-amid-evil.json](./74904-amid-evil.json) |
 | Amnesia: Collection | 25082 | [25082-amnesia-collection.json](./25082-amnesia-collection.json) |
+| Amorphous+ | 8061 | [8061-amorphous.json](./8061-amorphous.json) |
 | Amy | 3416 | [3416-amy.json](./3416-amy.json) |
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
