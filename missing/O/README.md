@@ -50,5 +50,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
 | Outward: Definitive Edition | 201935 | [201935-outward-definitive-edition.json](./201935-outward-definitive-edition.json) |
+| Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
