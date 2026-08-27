@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
+| Unearthed: Trail of Ibn Battuta | 20852 | [20852-unearthed-trail-of-ibn-battuta.json](./20852-unearthed-trail-of-ibn-battuta.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
