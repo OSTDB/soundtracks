@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
+| Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye: Source | 51239 | [51239-goldeneye-source.json](./51239-goldeneye-source.json) |
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
+| Gone In November | 31912 | [31912-gone-in-november.json](./31912-gone-in-november.json) |
 | Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
 | Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
