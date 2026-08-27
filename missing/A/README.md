@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Assassin in Orlandes | 36099 | [36099-an-assassin-in-orlandes.json](./36099-an-assassin-in-orlandes.json) |
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
+| Ancient Frontier | 31479 | [31479-ancient-frontier.json](./31479-ancient-frontier.json) |
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
+| Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
