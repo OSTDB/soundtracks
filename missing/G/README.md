@@ -18,9 +18,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
+| Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Ghostrunner: Project Hel | 183125 | [183125-ghostrunner-project-hel.json](./183125-ghostrunner-project-hel.json) |
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
+| Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
@@ -60,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
+| Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
 | Growth | 238644 | [238644-growth.json](./238644-growth.json) |
 | GS Mikami: Joreishi ha Nice Body | 42373 | [42373-gs-mikami-joreishi-ha-nice-body.json](./42373-gs-mikami-joreishi-ha-nice-body.json) |
