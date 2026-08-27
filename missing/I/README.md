@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
+| Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
+| Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
 | Into the Pit | 165318 | [165318-into-the-pit.json](./165318-into-the-pit.json) |
