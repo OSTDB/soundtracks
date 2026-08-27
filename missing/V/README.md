@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
+| Viking Saga: Epic Adventure | 77051 | [77051-viking-saga-epic-adventure.json](./77051-viking-saga-epic-adventure.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
