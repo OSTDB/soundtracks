@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
