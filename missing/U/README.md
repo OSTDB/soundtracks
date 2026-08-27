@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
+| Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthed: Trail of Ibn Battuta | 20852 | [20852-unearthed-trail-of-ibn-battuta.json](./20852-unearthed-trail-of-ibn-battuta.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
+| University Tycoon: 2019 | 102294 | [102294-university-tycoon-2019.json](./102294-university-tycoon-2019.json) |
 | Unknown Fate | 31866 | [31866-unknown-fate.json](./31866-unknown-fate.json) |
 | Unknown Number: A First Person Talker | 190796 | [190796-unknown-number-a-first-person-talker.json](./190796-unknown-number-a-first-person-talker.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
@@ -44,5 +46,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
 | Urban Pirate | 17008 | [17008-urban-pirate.json](./17008-urban-pirate.json) |
 | Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
+| US Police limousine Car Quad Bike Transporter Game | 101642 | [101642-us-police-limousine-car-quad-bike-transporter-game.json](./101642-us-police-limousine-car-quad-bike-transporter-game.json) |
 | Use Your Words | 28113 | [28113-use-your-words.json](./28113-use-your-words.json) |
 | Utawarerumono: Zan | 95831 | [95831-utawarerumono-zan.json](./95831-utawarerumono-zan.json) |
