@@ -65,5 +65,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
+| Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
 | Kyoto Colorful Days | 32949 | [32949-kyoto-colorful-days.json](./32949-kyoto-colorful-days.json) |
