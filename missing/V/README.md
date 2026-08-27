@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Racer Hoverbike | 95577 | [95577-v-racer-hoverbike.json](./95577-v-racer-hoverbike.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Vampire Savior 2: The Lord of Vampire | 39696 | [39696-vampire-savior-2-the-lord-of-vampire.json](./39696-vampire-savior-2-the-lord-of-vampire.json) |
+| Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
