@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
+| Fireman Sam - Fire & Rescue | 89297 | [89297-fireman-sam-fire-and-rescue.json](./89297-fireman-sam-fire-and-rescue.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
+| Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
@@ -175,5 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
+| Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
+| Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
