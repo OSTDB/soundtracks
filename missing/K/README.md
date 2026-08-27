@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
+| Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
