@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
+| I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
@@ -32,11 +33,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
+| Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
+| Into Blue Valley | 36138 | [36138-into-blue-valley.json](./36138-into-blue-valley.json) |
 | Into the Pit | 165318 | [165318-into-the-pit.json](./165318-into-the-pit.json) |
 | Intravenous 2 | 270053 | [270053-intravenous-2.json](./270053-intravenous-2.json) |
 | Intruders: Hide and Seek | 113999 | [113999-intruders-hide-and-seek.json](./113999-intruders-hide-and-seek.json) |
