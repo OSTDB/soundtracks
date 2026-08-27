@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
+| Majong Games | 86671 | [86671-majong-games.json](./86671-majong-games.json) |
 | Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong: Mini-Land Mayhem! | 21093 | [21093-mario-vs-donkey-kong-mini-land-mayhem.json](./21093-mario-vs-donkey-kong-mini-land-mayhem.json) |
 | Mario's Time Machine | 48133 | [48133-marios-time-machine.json](./48133-marios-time-machine.json) |
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
+| Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
@@ -167,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
+| Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
