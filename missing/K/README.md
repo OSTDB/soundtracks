@@ -9,9 +9,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
+| Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
+| Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
