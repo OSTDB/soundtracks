@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
 | Panzer General 2 | 14416 | [14416-panzer-general-2.json](./14416-panzer-general-2.json) |
+| Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
+| Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Primal Carnage | 3066 | [3066-primal-carnage.json](./3066-primal-carnage.json) |
 | Prince of Persia | 229862 | [229862-prince-of-persia.json](./229862-prince-of-persia.json) |
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
