@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
 | Sid Meier's Civilization III: Complete | 27820 | [27820-sid-meiers-civilization-iii-complete.json](./27820-sid-meiers-civilization-iii-complete.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
+| Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
@@ -81,7 +83,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
+| Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
+| Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
@@ -92,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
+| SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
@@ -125,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
+| SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
@@ -163,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
+| Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
 | Starship Troopers: Extermination | 228175 | [228175-starship-troopers-extermination.json](./228175-starship-troopers-extermination.json) |
 | Starship Troopers: Ultimate Bug War! | 380415 | [380415-starship-troopers-ultimate-bug-war.json](./380415-starship-troopers-ultimate-bug-war.json) |
