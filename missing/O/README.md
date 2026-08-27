@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
+| One Piece Treasure Battle | 65410 | [65410-one-piece-treasure-battle.json](./65410-one-piece-treasure-battle.json) |
 | One Piece: Grand Battle! | 75738 | [75738-one-piece-grand-battle.json](./75738-one-piece-grand-battle.json) |
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
 | One-Armed Robber | 263205 | [263205-one-armed-robber.json](./263205-one-armed-robber.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
+| Otaku's Fantasy | 63718 | [63718-otakus-fantasy.json](./63718-otakus-fantasy.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
