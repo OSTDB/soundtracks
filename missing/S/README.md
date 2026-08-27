@@ -30,8 +30,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
+| Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
+| Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
@@ -73,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
+| Simon the Sorcerer: 25th Anniversary Edition | 95120 | [95120-simon-the-sorcerer-25th-anniversary-edition.json](./95120-simon-the-sorcerer-25th-anniversary-edition.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
@@ -180,7 +183,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
+| Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
+| Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
@@ -221,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
 | Super Paper Mario | 2191 | [2191-super-paper-mario.json](./2191-super-paper-mario.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
+| Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
@@ -238,5 +244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Hollow Realization - Deluxe Edition | 75161 | [75161-sword-art-online-hollow-realization-deluxe-edition.json](./75161-sword-art-online-hollow-realization-deluxe-edition.json) |
 | Sword of the Stars | 2027 | [2027-sword-of-the-stars.json](./2027-sword-of-the-stars.json) |
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
+| Swords 'n Magic and Stuff | 90235 | [90235-swords-n-magic-and-stuff.json](./90235-swords-n-magic-and-stuff.json) |
 | Swords and Serpents | 48230 | [48230-swords-and-serpents.json](./48230-swords-and-serpents.json) |
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
