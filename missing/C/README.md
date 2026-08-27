@@ -8,8 +8,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | C-12: Final Resistance | 26753 | [26753-c-12-final-resistance.json](./26753-c-12-final-resistance.json) |
 | Cabal Online | 28387 | [28387-cabal-online.json](./28387-cabal-online.json) |
+| Cabela's Alaskan Adventures | 6932 | [6932-cabelas-alaskan-adventures.json](./6932-cabelas-alaskan-adventures.json) |
 | Cabela's Big Game Hunter 2008 | 4735 | [4735-cabelas-big-game-hunter-2008.json](./4735-cabelas-big-game-hunter-2008.json) |
 | Cabela's Big Game Hunter: Pro Hunts | 16631 | [16631-cabelas-big-game-hunter-pro-hunts.json](./16631-cabelas-big-game-hunter-pro-hunts.json) |
+| Cabela's Hunting Expeditions | 7808 | [7808-cabelas-hunting-expeditions.json](./7808-cabelas-hunting-expeditions.json) |
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colt Express | 31149 | [31149-colt-express.json](./31149-colt-express.json) |
+| Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
@@ -126,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Conduit 2 | 4770 | [4770-conduit-2.json](./4770-conduit-2.json) |
 | Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
+| Conflict Zone | 6727 | [6727-conflict-zone.json](./6727-conflict-zone.json) |
 | Conflict: Desert Storm II: Back to Baghdad | 3864 | [3864-conflict-desert-storm-ii-back-to-baghdad.json](./3864-conflict-desert-storm-ii-back-to-baghdad.json) |
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
@@ -144,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
+| Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
@@ -164,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
+| Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
@@ -178,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
+| Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
