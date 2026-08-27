@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Baba Is You | 76638 | [76638-baba-is-you.json](./76638-baba-is-you.json) |
 | Babel Rising | 10017 | [10017-babel-rising.json](./10017-babel-rising.json) |
+| Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
+| BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
+| Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
 | BlazBlue: Calamity Trigger | 6441 | [6441-blazblue-calamity-trigger.json](./6441-blazblue-calamity-trigger.json) |
 | Blazing Beaks | 75158 | [75158-blazing-beaks.json](./75158-blazing-beaks.json) |
