@@ -32,12 +32,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
+| Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
+| Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
