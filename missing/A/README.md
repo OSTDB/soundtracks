@@ -19,8 +19,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
+| Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
+| Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
@@ -43,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
+| Alien Syndrome | 4667 | [4667-alien-syndrome.json](./4667-alien-syndrome.json) |
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
@@ -52,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
+| Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amenti | 327698 | [327698-amenti.json](./327698-amenti.json) |
