@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World Rally | 2654 | [2654-pac-man-world-rally.json](./2654-pac-man-world-rally.json) |
 | Pac-Man: Championship Edition DX+ | 16515 | [16515-pac-man-championship-edition-dx.json](./16515-pac-man-championship-edition-dx.json) |
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
+| Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
+| Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
@@ -53,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
+| Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
@@ -65,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
 | Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
+| Planescape: Torment & Icewind Dale: Enhanced Editions | 125019 | [125019-planescape-torment-and-icewind-dale-enhanced-editions.json](./125019-planescape-torment-and-icewind-dale-enhanced-editions.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
@@ -131,4 +135,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
 | Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
+| Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
