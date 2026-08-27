@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
 | Football Manager Classic 2014 | 20943 | [20943-football-manager-classic-2014.json](./20943-football-manager-classic-2014.json) |
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
+| Football Manager Mobile 2018 | 76927 | [76927-football-manager-mobile-2018.json](./76927-football-manager-mobile-2018.json) |
 | Football Star - Super Striker | 101660 | [101660-football-star-super-striker.json](./101660-football-star-super-striker.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
+| Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
