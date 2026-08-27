@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
+| Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
+| Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
