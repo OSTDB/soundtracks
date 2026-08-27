@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
+| Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
+| Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
