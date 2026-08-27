@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
+| #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
 | 007 Racing | 1642 | [1642-007-racing.json](./1642-007-racing.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 100 Capitalist Cats | 282721 | [282721-100-capitalist-cats.json](./282721-100-capitalist-cats.json) |
