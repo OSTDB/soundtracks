@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Book | 154902 | [154902-night-book.json](./154902-night-book.json) |
 | Night Crows | 290671 | [290671-night-crows.json](./290671-night-crows.json) |
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
+| Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
