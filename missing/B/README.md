@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
+| Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
 | Brain Bender | 92265 | [92265-brain-bender.json](./92265-brain-bender.json) |
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
 | Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
+| Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
