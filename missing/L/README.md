@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
+| Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
+| Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
