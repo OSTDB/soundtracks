@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
 | Tekken: Dark Resurrection | 24181 | [24181-tekken-dark-resurrection.json](./24181-tekken-dark-resurrection.json) |
 | Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
+| Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
+| The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
@@ -152,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
+| The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
