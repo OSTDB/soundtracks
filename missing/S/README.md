@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | Sky Gamblers: Air Supremacy | 62448 | [62448-sky-gamblers-air-supremacy.json](./62448-sky-gamblers-air-supremacy.json) |
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
+| Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
+| Star Command Galaxies | 34459 | [34459-star-command-galaxies.json](./34459-star-command-galaxies.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Drift | 86578 | [86578-star-drift.json](./86578-star-drift.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
@@ -310,12 +312,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
 | Stickman Volleyball | 89307 | [89307-stickman-volleyball.json](./89307-stickman-volleyball.json) |
 | Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
+| Stigmat | 34442 | [34442-stigmat.json](./34442-stigmat.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
+| Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
@@ -328,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
 | Striker '96 | 22675 | [22675-striker-96.json](./22675-striker-96.json) |
+| String Theory | 34458 | [34458-string-theory.json](./34458-string-theory.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
@@ -348,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoners War: Sky Arena | 23622 | [23622-summoners-war-sky-arena.json](./23622-summoners-war-sky-arena.json) |
 | Sumotori Dreams | 20974 | [20974-sumotori-dreams.json](./20974-sumotori-dreams.json) |
 | Sun Blast | 35887 | [35887-sun-blast.json](./35887-sun-blast.json) |
+| Sun Dogs | 34410 | [34410-sun-dogs.json](./34410-sun-dogs.json) |
 | SunAge: Battle for Elysium | 17750 | [17750-sunage-battle-for-elysium.json](./17750-sunage-battle-for-elysium.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
@@ -399,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Games | 77053 | [77053-survival-games.json](./77053-survival-games.json) |
+| Survival Is Not Enough | 34367 | [34367-survival-is-not-enough.json](./34367-survival-is-not-enough.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
