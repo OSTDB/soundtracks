@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
+| Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
+| Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
@@ -120,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
+| Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
@@ -178,12 +181,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
+| Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
+| Spellsword Cards: Demontide | 115679 | [115679-spellsword-cards-demontide.json](./115679-spellsword-cards-demontide.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
 | Sphinx and the Cursed Mummy | 4164 | [4164-sphinx-and-the-cursed-mummy.json](./4164-sphinx-and-the-cursed-mummy.json) |
@@ -210,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
+| Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
@@ -249,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
+| StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
