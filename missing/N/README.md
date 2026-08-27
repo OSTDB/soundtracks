@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
+| Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
+| Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
