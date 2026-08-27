@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
+| Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
+| Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
