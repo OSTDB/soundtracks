@@ -58,9 +58,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Otaku's Fantasy | 63718 | [63718-otakus-fantasy.json](./63718-otakus-fantasy.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
+| Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
 | Ouroboros Project | 101657 | [101657-ouroboros-project.json](./101657-ouroboros-project.json) |
+| Out of the Box | 29824 | [29824-out-of-the-box.json](./29824-out-of-the-box.json) |
 | Out of the Park Baseball 15 | 16955 | [16955-out-of-the-park-baseball-15.json](./16955-out-of-the-park-baseball-15.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
