@@ -14,6 +14,8 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 You can also submit or correct a soundtrack by opening a pull request — no need to use the website. See **[SUBMITTING.md](SUBMITTING.md)** for instructions.
 
+Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 1632 known games without a soundtrack entry, bucketed by letter just like below. Pick one and open a pull request.
+
 ## Browse by letter
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z) · [0-9](#0-9)
