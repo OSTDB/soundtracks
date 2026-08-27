@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
+| Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
+| PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
@@ -106,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
+| Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
 | Pro Race Driver | 2483 | [2483-pro-race-driver.json](./2483-pro-race-driver.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
@@ -113,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
+| Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
