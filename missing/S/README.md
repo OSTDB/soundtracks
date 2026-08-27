@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
+| Samurai Shodown: Edge of Destiny | 7172 | [7172-samurai-shodown-edge-of-destiny.json](./7172-samurai-shodown-edge-of-destiny.json) |
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
+| Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
@@ -198,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Lights, Camera, Pants! | 2768 | [2768-spongebob-squarepants-lights-camera-pants.json](./2768-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 20858 | [20858-spongebob-squarepants-planktons-robotic-revenge.json](./20858-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
+| SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
@@ -309,10 +312,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
+| Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
+| Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
+| Supremacy MMA | 7200 | [7200-supremacy-mma.json](./7200-supremacy-mma.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
