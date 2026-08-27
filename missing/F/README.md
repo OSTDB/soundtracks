@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
+| Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
 | Fantasy World Dizzy | 12090 | [12090-fantasy-world-dizzy.json](./12090-fantasy-world-dizzy.json) |
 | FantaVision | 10392 | [10392-fantavision.json](./10392-fantavision.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
+| Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
 | Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
