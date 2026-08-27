@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
+| Seduce Me 2: The Demon War | 33008 | [33008-seduce-me-2-the-demon-war.json](./33008-seduce-me-2-the-demon-war.json) |
 | Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
 | Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
+| Spellbound | 32972 | [32972-spellbound.json](./32972-spellbound.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
@@ -299,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Extermination | 228175 | [228175-starship-troopers-extermination.json](./228175-starship-troopers-extermination.json) |
 | Starship Troopers: Ultimate Bug War! | 380415 | [380415-starship-troopers-ultimate-bug-war.json](./380415-starship-troopers-ultimate-bug-war.json) |
 | Starsky & Hutch | 4183 | [4183-starsky-and-hutch.json](./4183-starsky-and-hutch.json) |
+| Starters Orders 6 | 33060 | [33060-starters-orders-6.json](./33060-starters-orders-6.json) |
 | Startup Company | 29173 | [29173-startup-company.json](./29173-startup-company.json) |
 | Stasis | 9661 | [9661-stasis.json](./9661-stasis.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
@@ -318,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
+| Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
@@ -367,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hydlide | 27987 | [27987-super-hydlide.json](./27987-super-hydlide.json) |
 | Super Hydorah | 26975 | [26975-super-hydorah.json](./26975-super-hydorah.json) |
 | Super Indie Karts | 17853 | [17853-super-indie-karts.json](./17853-super-indie-karts.json) |
+| Super Kaiju | 32987 | [32987-super-kaiju.json](./32987-super-kaiju.json) |
 | Super Kinky | 37386 | [37386-super-kinky.json](./37386-super-kinky.json) |
 | Super Mario 64 | 229245 | [229245-super-mario-64.json](./229245-super-mario-64.json) |
 | Super Mario Advance | 81197 | [81197-super-mario-advance.json](./81197-super-mario-advance.json) |
@@ -413,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
+| Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword and Shield | 76771 | [76771-sword-and-shield.json](./76771-sword-and-shield.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
