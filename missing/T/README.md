@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
+| The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
@@ -164,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
 | The Lord of the Rings Online: Shadows of Angmar | 51193 | [51193-the-lord-of-the-rings-online-shadows-of-angmar.json](./51193-the-lord-of-the-rings-online-shadows-of-angmar.json) |
 | The Lord of the Rings: Return to Moria | 204460 | [204460-the-lord-of-the-rings-return-to-moria.json](./204460-the-lord-of-the-rings-return-to-moria.json) |
+| The Lost Legends of Redwall: The Scout - Act 1 | 44140 | [44140-the-lost-legends-of-redwall-the-scout-act-1.json](./44140-the-lost-legends-of-redwall-the-scout-act-1.json) |
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
 | The Love Boat | 76649 | [76649-the-love-boat.json](./76649-the-love-boat.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
+| The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
@@ -243,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
+| This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
@@ -263,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi Paradox: Episode 1 | 76783 | [76783-time-tenshi-paradox-episode-1.json](./76783-time-tenshi-paradox-episode-1.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
+| Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
 | Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
