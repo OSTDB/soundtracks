@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
+| Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
@@ -80,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
 | Lost Civilization | 16863 | [16863-lost-civilization.json](./16863-lost-civilization.json) |
+| Lost Flame | 109624 | [109624-lost-flame.json](./109624-lost-flame.json) |
 | Lost Frontier | 58398 | [58398-lost-frontier.json](./58398-lost-frontier.json) |
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
