@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
+| Magic Cat Story | 24580 | [24580-magic-cat-story.json](./24580-magic-cat-story.json) |
 | Magic Jewelry | 4628 | [4628-magic-jewelry.json](./4628-magic-jewelry.json) |
 | Magic Tiles 3 | 95874 | [95874-magic-tiles-3.json](./95874-magic-tiles-3.json) |
 | Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
+| Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
@@ -129,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
+| Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
@@ -141,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
+| Monster Castle | 24606 | [24606-monster-castle.json](./24606-monster-castle.json) |
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
+| Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
