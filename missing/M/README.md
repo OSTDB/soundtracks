@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
+| Mad Tracks | 4982 | [4982-mad-tracks.json](./4982-mad-tracks.json) |
 | Madden NFL 07 | 243012 | [243012-madden-nfl-07.json](./243012-madden-nfl-07.json) |
 | Madden NFL 08 | 2746 | [2746-madden-nfl-08.json](./2746-madden-nfl-08.json) |
 | Madden NFL 17 | 19463 | [19463-madden-nfl-17.json](./19463-madden-nfl-17.json) |
@@ -24,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
+| Major Minor's Majestic March | 4994 | [4994-major-minors-majestic-march.json](./4994-major-minors-majestic-march.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man V | 1737 | [1737-mega-man-v.json](./1737-mega-man-v.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
@@ -120,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
+| Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
@@ -155,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
+| Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
