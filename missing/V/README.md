@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Varius | 102308 | [102308-varius.json](./102308-varius.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
+| Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
 | VenusBlood Frontier International | 126779 | [126779-venusblood-frontier-international.json](./126779-venusblood-frontier-international.json) |
 | Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
@@ -23,12 +24,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
+| Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
 | Virtua Tennis | 6291 | [6291-virtua-tennis.json](./6291-virtua-tennis.json) |
 | Virtual Battlegrounds | 115669 | [115669-virtual-battlegrounds.json](./115669-virtual-battlegrounds.json) |
+| Virtual Mother Game: Family Mom Simulator | 95738 | [95738-virtual-mother-game-family-mom-simulator.json](./95738-virtual-mother-game-family-mom-simulator.json) |
 | Virtual Rides 3 | 31666 | [31666-virtual-rides-3.json](./31666-virtual-rides-3.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
