@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures 2 | 23229 | [23229-pac-man-and-the-ghostly-adventures-2.json](./23229-pac-man-and-the-ghostly-adventures-2.json) |
 | Pac-Man Championship Edition | 20900 | [20900-pac-man-championship-edition.json](./20900-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 | 23240 | [23240-pac-man-championship-edition-2.json](./23240-pac-man-championship-edition-2.json) |
+| Pac-Man Mega Tunnel Battle: Chomp Champs | 271213 | [271213-pac-man-mega-tunnel-battle-chomp-champs.json](./271213-pac-man-mega-tunnel-battle-chomp-champs.json) |
 | Pac-Man World Rally | 2654 | [2654-pac-man-world-rally.json](./2654-pac-man-world-rally.json) |
 | Pac-Man: Championship Edition DX+ | 16515 | [16515-pac-man-championship-edition-dx.json](./16515-pac-man-championship-edition-dx.json) |
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
+| Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
