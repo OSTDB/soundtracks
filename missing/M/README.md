@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
+| Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
+| Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
+| Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
