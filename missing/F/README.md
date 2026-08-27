@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - My Life as a Darklord | 41856 | [41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json](./41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json) |
 | Final Fantasy: Record Keeper | 26981 | [26981-final-fantasy-record-keeper.json](./26981-final-fantasy-record-keeper.json) |
 | Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
+| Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
+| Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
