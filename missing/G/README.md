@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
+| Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
