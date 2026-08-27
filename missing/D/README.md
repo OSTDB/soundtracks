@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
+| Doctor Lautrec and the Forgotten Knights | 6757 | [6757-doctor-lautrec-and-the-forgotten-knights.json](./6757-doctor-lautrec-and-the-forgotten-knights.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
@@ -179,6 +180,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom VFR | 37031 | [37031-doom-vfr.json](./37031-doom-vfr.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
+| Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
+| Dora the Explorer: Dora Saves the Mermaids | 7975 | [7975-dora-the-explorer-dora-saves-the-mermaids.json](./7975-dora-the-explorer-dora-saves-the-mermaids.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
@@ -209,6 +212,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
+| Drakan: The Ancients' Gates | 7577 | [7577-drakan-the-ancients-gates.json](./7577-drakan-the-ancients-gates.json) |
+| Drake & Josh: Talent Showdown | 7971 | [7971-drake-and-josh-talent-showdown.json](./7971-drake-and-josh-talent-showdown.json) |
 | Drakengard 3 | 8576 | [8576-drakengard-3.json](./8576-drakengard-3.json) |
 | Drakensang: The Dark Eye | 8768 | [8768-drakensang-the-dark-eye.json](./8768-drakensang-the-dark-eye.json) |
 | Drakkhen | 12057 | [12057-drakkhen.json](./12057-drakkhen.json) |
