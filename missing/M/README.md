@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
+| Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Armageddon | 1616 | [1616-mortal-kombat-armageddon.json](./1616-mortal-kombat-armageddon.json) |
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Special Forces | 1623 | [1623-mortal-kombat-special-forces.json](./1623-mortal-kombat-special-forces.json) |
+| Mortal Kombat: Tournament Edition | 26635 | [26635-mortal-kombat-tournament-edition.json](./26635-mortal-kombat-tournament-edition.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
