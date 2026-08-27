@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
 | Harry Potter and the Order of the Phoenix | 3011 | [3011-harry-potter-and-the-order-of-the-phoenix.json](./3011-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harvest Festival 64 | 230631 | [230631-harvest-festival-64.json](./230631-harvest-festival-64.json) |
+| Harvest Moon: Lil' Farmers | 36914 | [36914-harvest-moon-lil-farmers.json](./36914-harvest-moon-lil-farmers.json) |
 | Harvest Moon: More Friends of Mineral Town | 49188 | [49188-harvest-moon-more-friends-of-mineral-town.json](./49188-harvest-moon-more-friends-of-mineral-town.json) |
 | Harvest Moon: Tree of Tranquility | 3388 | [3388-harvest-moon-tree-of-tranquility.json](./3388-harvest-moon-tree-of-tranquility.json) |
 | Has-Been Heroes | 26763 | [26763-has-been-heroes.json](./26763-has-been-heroes.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
+| Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
@@ -60,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
+| House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
