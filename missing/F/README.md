@@ -13,9 +13,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 ROC: Race of Champions | 42571 | [42571-f1-roc-race-of-champions.json](./42571-f1-roc-race-of-champions.json) |
 | Fable Trilogy | 83837 | [83837-fable-trilogy.json](./83837-fable-trilogy.json) |
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
+| Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | FaeVerse Alchemy | 36421 | [36421-faeverse-alchemy.json](./36421-faeverse-alchemy.json) |
 | Fairune Collection | 96241 | [96241-fairune-collection.json](./96241-fairune-collection.json) |
+| Fairway Solitaire - Card Game | 86795 | [86795-fairway-solitaire-card-game.json](./86795-fairway-solitaire-card-game.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
 | Fairy Tale About Father Frost, Ivan and Nastya | 36384 | [36384-fairy-tale-about-father-frost-ivan-and-nastya.json](./36384-fairy-tale-about-father-frost-ivan-and-nastya.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
@@ -46,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
+| Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
@@ -82,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
+| Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
