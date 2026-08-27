@@ -38,12 +38,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
+| Lines | 36633 | [36633-lines.json](./36633-lines.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
+| LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
