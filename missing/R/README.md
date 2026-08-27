@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance: Burning Skies | 19907 | [19907-resistance-burning-skies.json](./19907-resistance-burning-skies.json) |
 | Resistance: Fall of Man | 1278 | [1278-resistance-fall-of-man.json](./1278-resistance-fall-of-man.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
+| Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
