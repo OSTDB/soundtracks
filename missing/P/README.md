@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
+| Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
