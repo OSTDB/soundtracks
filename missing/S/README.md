@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
+| Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
+| Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
 | Shin Megami Tensei | 21074 | [21074-shin-megami-tensei.json](./21074-shin-megami-tensei.json) |
@@ -143,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
+| Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
@@ -205,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 5178 | [5178-spider-man-3.json](./5178-spider-man-3.json) |
 | Spikit | 31867 | [31867-spikit.json](./31867-spikit.json) |
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
+| Spin the Nut: Christmas is Coming | 89522 | [89522-spin-the-nut-christmas-is-coming.json](./89522-spin-the-nut-christmas-is-coming.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
@@ -225,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
+| Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
@@ -264,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
 | Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
+| Stickman Volleyball | 89307 | [89307-stickman-volleyball.json](./89307-stickman-volleyball.json) |
 | Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
@@ -293,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
+| Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
@@ -334,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
+| Super Uffe! | 89461 | [89461-super-uffe.json](./89461-super-uffe.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
