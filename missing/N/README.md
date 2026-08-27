@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
+| NASCAR Unleashed | 6848 | [6848-nascar-unleashed.json](./6848-nascar-unleashed.json) |
 | NBA 07 | 7381 | [7381-nba-07.json](./7381-nba-07.json) |
 | NBA 08 | 7382 | [7382-nba-08.json](./7382-nba-08.json) |
 | NBA 2K13 | 5058 | [5058-nba-2k13.json](./5058-nba-2k13.json) |
@@ -29,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 98 | 26013 | [26013-nba-live-98.json](./26013-nba-live-98.json) |
 | NBA Rush | 20934 | [20934-nba-rush.json](./20934-nba-rush.json) |
 | NCAA Football 14 | 19673 | [19673-ncaa-football-14.json](./19673-ncaa-football-14.json) |
+| NCAA March Madness 08 | 7384 | [7384-ncaa-march-madness-08.json](./7384-ncaa-march-madness-08.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
 | Need for Speed: High Stakes | 309579 | [309579-need-for-speed-high-stakes.json](./309579-need-for-speed-high-stakes.json) |
