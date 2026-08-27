@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tangle Tower | 123775 | [123775-tangle-tower.json](./123775-tangle-tower.json) |
+| Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
@@ -29,9 +30,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
+| Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
+| The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
@@ -40,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
+| The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
@@ -69,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
+| The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
@@ -96,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
@@ -137,12 +143,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
+| Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
+| Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
 | Titan Quest | 8311 | [8311-titan-quest.json](./8311-titan-quest.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
+| Tom & Jerry | 8026 | [8026-tom-and-jerry.json](./8026-tom-and-jerry.json) |
 | Tom and Jerry in Fists of Furry | 2714 | [2714-tom-and-jerry-in-fists-of-furry.json](./2714-tom-and-jerry-in-fists-of-furry.json) |
 | Tom Clancy's Ghost Recon Phantoms | 1304 | [1304-tom-clancys-ghost-recon-phantoms.json](./1304-tom-clancys-ghost-recon-phantoms.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 1297 | [1297-tom-clancys-ghost-recon-jungle-storm.json](./1297-tom-clancys-ghost-recon-jungle-storm.json) |
