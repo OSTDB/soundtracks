@@ -55,5 +55,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
+| Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
