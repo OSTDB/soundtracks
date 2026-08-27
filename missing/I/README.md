@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
+| Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
+| Infinite Crisis | 6764 | [6764-infinite-crisis.json](./6764-infinite-crisis.json) |
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
