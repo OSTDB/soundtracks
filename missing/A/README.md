@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
+| Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
