@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - The Warpath Campaign | 82085 | [82085-empire-total-war-the-warpath-campaign.json](./82085-empire-total-war-the-warpath-campaign.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
+| Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
