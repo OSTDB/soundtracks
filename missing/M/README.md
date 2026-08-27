@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 19 | 102122 | [102122-madden-nfl-19.json](./102122-madden-nfl-19.json) |
 | Madden NFL 2003 | 776 | [776-madden-nfl-2003.json](./776-madden-nfl-2003.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
+| MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
 | Magic Jewelry | 4628 | [4628-magic-jewelry.json](./4628-magic-jewelry.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
+| Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
