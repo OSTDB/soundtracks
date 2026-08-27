@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Christmas Cats | 276704 | [276704-100-christmas-cats.json](./276704-100-christmas-cats.json) |
 | 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
+| 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 1348: Ex Voto | 362064 | [362064-1348-ex-voto.json](./362064-1348-ex-voto.json) |
 | 140 | 9497 | [9497-140.json](./9497-140.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
@@ -20,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
+| 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
 | Ōkami HD | 20744 | [20744-okami-hd.json](./20744-okami-hd.json) |
