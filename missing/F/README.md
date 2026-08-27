@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2005 | 240278 | [240278-fifa-soccer-2005.json](./240278-fifa-soccer-2005.json) |
 | FIFA Soccer 2005 | 703 | [703-fifa-soccer-2005.json](./703-fifa-soccer-2005.json) |
 | FIFA Soccer 96 | 240233 | [240233-fifa-soccer-96.json](./240233-fifa-soccer-96.json) |
+| Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
 | Final Fantasy Fables: Chocobo's Dungeon | 18069 | [18069-final-fantasy-fables-chocobos-dungeon.json](./18069-final-fantasy-fables-chocobos-dungeon.json) |
@@ -82,12 +83,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
 | Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
+| Fire Department 3 | 22630 | [22630-fire-department-3.json](./22630-fire-department-3.json) |
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
 | Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
+| Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
@@ -107,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
 | Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
+| Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
