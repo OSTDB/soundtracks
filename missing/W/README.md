@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
+| WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
