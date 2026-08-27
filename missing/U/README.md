@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
+| Unknown Number: A First Person Talker | 190796 | [190796-unknown-number-a-first-person-talker.json](./190796-unknown-number-a-first-person-talker.json) |
 | Unleashed Recompiled | 333920 | [333920-unleashed-recompiled.json](./333920-unleashed-recompiled.json) |
 | Unleaving | 274707 | [274707-unleaving.json](./274707-unleaving.json) |
 | Unlimited SaGa | 11314 | [11314-unlimited-saga.json](./11314-unlimited-saga.json) |
