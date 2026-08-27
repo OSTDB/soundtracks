@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
+| Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
