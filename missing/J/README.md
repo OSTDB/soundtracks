@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
 | Jetstream | 108280 | [108280-jetstream.json](./108280-jetstream.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
+| Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
