@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
 | Panzer General 2 | 14416 | [14416-panzer-general-2.json](./14416-panzer-general-2.json) |
+| Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
+| Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
@@ -146,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
 | Puyo Puyo Fever 2 | 69551 | [69551-puyo-puyo-fever-2.json](./69551-puyo-puyo-fever-2.json) |
+| Puyo Puyo Quest | 22847 | [22847-puyo-puyo-quest.json](./22847-puyo-puyo-quest.json) |
 | Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
