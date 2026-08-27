@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
+| Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
@@ -73,6 +74,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
+| SingStar: '90s | 15165 | [15165-singstar-90s.json](./15165-singstar-90s.json) |
+| SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
@@ -92,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
+| Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
@@ -170,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
+| Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
@@ -214,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
+| Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
