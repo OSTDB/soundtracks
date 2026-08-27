@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
+| Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
+| AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: The Lake House | 273997 | [273997-alan-wake-ii-the-lake-house.json](./273997-alan-wake-ii-the-lake-house.json) |
@@ -68,9 +70,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Conquest: Fight Back | 9360 | [9360-american-conquest-fight-back.json](./9360-american-conquest-fight-back.json) |
 | Amerzone: The Explorer's Legacy | 289353 | [289353-amerzone-the-explorers-legacy.json](./289353-amerzone-the-explorers-legacy.json) |
 | Amid Evil | 74904 | [74904-amid-evil.json](./74904-amid-evil.json) |
+| Amnesia Later x Crowd V Edition | 61256 | [61256-amnesia-later-x-crowd-v-edition.json](./61256-amnesia-later-x-crowd-v-edition.json) |
 | Amnesia: Collection | 25082 | [25082-amnesia-collection.json](./25082-amnesia-collection.json) |
 | Amorphous+ | 8061 | [8061-amorphous.json](./8061-amorphous.json) |
 | Amy | 3416 | [3416-amy.json](./3416-amy.json) |
+| An Assassin in Orlandes | 36099 | [36099-an-assassin-in-orlandes.json](./36099-an-assassin-in-orlandes.json) |
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
@@ -84,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne | 11092 | [11092-anodyne.json](./11092-anodyne.json) |
 | Anomaly Defenders | 8993 | [8993-anomaly-defenders.json](./8993-anomaly-defenders.json) |
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
+| Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
@@ -118,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
+| Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
 | Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
 | Atelier Annie: Alchemists of Sera Island | 24262 | [24262-atelier-annie-alchemists-of-sera-island.json](./24262-atelier-annie-alchemists-of-sera-island.json) |
