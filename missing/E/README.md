@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
+| EA Sports Active | 4826 | [4826-ea-sports-active.json](./4826-ea-sports-active.json) |
 | EA Sports UFC 2 | 19918 | [19918-ea-sports-ufc-2.json](./19918-ea-sports-ufc-2.json) |
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
@@ -22,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
+| Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
