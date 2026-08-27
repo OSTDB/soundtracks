@@ -102,7 +102,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
+| Arma 3: Marksmen | 22674 | [22674-arma-3-marksmen.json](./22674-arma-3-marksmen.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
+| Arma X: Anniversary Edition | 22639 | [22639-arma-x-anniversary-edition.json](./22639-arma-x-anniversary-edition.json) |
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
 | Armored Fist 3 | 14962 | [14962-armored-fist-3.json](./14962-armored-fist-3.json) |
 | Army Men: Sarge's War | 2702 | [2702-army-men-sarges-war.json](./2702-army-men-sarges-war.json) |
