@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
