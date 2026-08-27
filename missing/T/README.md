@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
+| Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Tecmo Bowl | 285764 | [285764-tecmo-bowl.json](./285764-tecmo-bowl.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
+| The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
@@ -124,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
+| The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
@@ -211,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
+| Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
 | Total War: Pharaoh | 250531 | [250531-total-war-pharaoh.json](./250531-total-war-pharaoh.json) |
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
