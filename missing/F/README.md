@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Nuka World | 19534 | [19534-fallout-4-nuka-world.json](./19534-fallout-4-nuka-world.json) |
 | Fallout 4: Wasteland Workshop | 18030 | [18030-fallout-4-wasteland-workshop.json](./18030-fallout-4-wasteland-workshop.json) |
 | Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
+| Family Feud: 2010 Edition | 6677 | [6677-family-feud-2010-edition.json](./6677-family-feud-2010-edition.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
