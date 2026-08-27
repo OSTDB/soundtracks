@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
+| Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
