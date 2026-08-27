@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong: Mini-Land Mayhem! | 21093 | [21093-mario-vs-donkey-kong-mini-land-mayhem.json](./21093-mario-vs-donkey-kong-mini-land-mayhem.json) |
 | Mario's Time Machine | 48133 | [48133-marios-time-machine.json](./48133-marios-time-machine.json) |
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
+| Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
 | Marvel: Ultimate Alliance | 288948 | [288948-marvel-ultimate-alliance.json](./288948-marvel-ultimate-alliance.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
+| Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
