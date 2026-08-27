@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
+| A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
 | A Witch's Tale | 24264 | [24264-a-witchs-tale.json](./24264-a-witchs-tale.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
+| Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: The Lake House | 273997 | [273997-alan-wake-ii-the-lake-house.json](./273997-alan-wake-ii-the-lake-house.json) |
