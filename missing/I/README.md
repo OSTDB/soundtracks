@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
+| Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
 | Indiana Jones and His Desktop Adventures | 183 | [183-indiana-jones-and-his-desktop-adventures.json](./183-indiana-jones-and-his-desktop-adventures.json) |
