@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Dimensions | 21250 | [21250-r-type-dimensions.json](./21250-r-type-dimensions.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
+| Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
@@ -32,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
+| Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
@@ -62,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
+| Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
@@ -77,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
+| RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
