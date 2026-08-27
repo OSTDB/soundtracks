@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
 | World End Syndrome | 74946 | [74946-world-end-syndrome.json](./74946-world-end-syndrome.json) |
 | World of Demons | 96500 | [96500-world-of-demons.json](./96500-world-of-demons.json) |
+| World of Outlaws: Sprint Cars | 7487 | [7487-world-of-outlaws-sprint-cars.json](./7487-world-of-outlaws-sprint-cars.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
+| Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
