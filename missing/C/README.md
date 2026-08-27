@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
+| Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
+| Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
@@ -72,12 +74,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
+| Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
+| Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
@@ -159,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
+| Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
 | Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
