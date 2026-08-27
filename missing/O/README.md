@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
+| Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
@@ -29,4 +30,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
+| Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
