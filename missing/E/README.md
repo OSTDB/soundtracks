@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
+| Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
