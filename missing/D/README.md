@@ -22,9 +22,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
+| Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
+| David | 35866 | [35866-david.json](./35866-david.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
@@ -48,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
+| Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
@@ -71,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
+| Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
@@ -143,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
+| Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
@@ -209,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
+| Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
