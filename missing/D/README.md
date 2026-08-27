@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
+| Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
+| Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
