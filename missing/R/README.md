@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
+| Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Megagun | 90783 | [90783-rival-megagun.json](./90783-rival-megagun.json) |
 | River City Ransom: Underground | 27038 | [27038-river-city-ransom-underground.json](./27038-river-city-ransom-underground.json) |
 | River City Saga: Three Kingdoms | 173083 | [173083-river-city-saga-three-kingdoms.json](./173083-river-city-saga-three-kingdoms.json) |
+| River City: Rival Showdown | 36602 | [36602-river-city-rival-showdown.json](./36602-river-city-rival-showdown.json) |
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
@@ -88,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
+| Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
 | Rugrats: Search for Reptar | 2787 | [2787-rugrats-search-for-reptar.json](./2787-rugrats-search-for-reptar.json) |
 | Rumble Club | 276929 | [276929-rumble-club.json](./276929-rumble-club.json) |
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
