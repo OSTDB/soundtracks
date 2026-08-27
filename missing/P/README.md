@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
+| Painkiller: Hell & Damnation - The Clock Strikes Meat Night | 20849 | [20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json](./20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
@@ -63,6 +64,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
+| Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
+| Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
@@ -72,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
+| PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
@@ -85,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
+| Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
 | Pocky & Rocky 2 | 1536 | [1536-pocky-and-rocky-2.json](./1536-pocky-and-rocky-2.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
@@ -98,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
+| Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
@@ -138,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
+| Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
