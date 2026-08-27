@@ -20,8 +20,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
+| Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
+| In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
@@ -36,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
+| Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
