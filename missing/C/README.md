@@ -19,10 +19,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
+| Capcom vs. SNK 2 EO | 86343 | [86343-capcom-vs-snk-2-eo.json](./86343-capcom-vs-snk-2-eo.json) |
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
+| Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
@@ -36,7 +38,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
+| Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
+| Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
+| Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
+| Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
+| Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
+| Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
+| Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
+| Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
+| Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
+| Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
@@ -86,11 +98,3 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
-| Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
-| Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
-| Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
-| Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
-| Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
-| Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
-| Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
-| Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
