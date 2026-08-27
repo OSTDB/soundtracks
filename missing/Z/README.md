@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
+| Zombieville USA 2 | 86895 | [86895-zombieville-usa-2.json](./86895-zombieville-usa-2.json) |
 | Zone of the Enders: The 2nd Runner | 1473 | [1473-zone-of-the-enders-the-2nd-runner.json](./1473-zone-of-the-enders-the-2nd-runner.json) |
 | Zoo Tycoon 2 | 11581 | [11581-zoo-tycoon-2.json](./11581-zoo-tycoon-2.json) |
 | Zoo Tycoon 2: Zookeeper Collection | 23011 | [23011-zoo-tycoon-2-zookeeper-collection.json](./23011-zoo-tycoon-2-zookeeper-collection.json) |
