@@ -31,11 +31,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
+| Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
+| Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
 | FIFA 18 | 240452 | [240452-fifa-18.json](./240452-fifa-18.json) |
@@ -76,6 +78,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
+| Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
+| Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
 | Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
