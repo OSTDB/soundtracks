@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
+| Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
