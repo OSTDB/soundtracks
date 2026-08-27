@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will Rock | 23717 | [23717-will-rock.json](./23717-will-rock.json) |
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
+| Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
 | Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
