@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
+| Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
@@ -164,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
+| MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
+| Music Inside: A VR Rhythm Game | 31496 | [31496-music-inside-a-vr-rhythm-game.json](./31496-music-inside-a-vr-rhythm-game.json) |
 | Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
