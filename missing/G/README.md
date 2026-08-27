@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
+| Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Ghostrunner: Project Hel | 183125 | [183125-ghostrunner-project-hel.json](./183125-ghostrunner-project-hel.json) |
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
@@ -34,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
+| Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
@@ -56,7 +59,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
 | Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
+| Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
+| Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
@@ -67,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
+| Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
 | Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle | 93901 | [93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json](./93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json) |
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
@@ -75,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
 | Greg Hastings Paintball 2 | 24317 | [24317-greg-hastings-paintball-2.json](./24317-greg-hastings-paintball-2.json) |
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
+| Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
@@ -95,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
+| Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
