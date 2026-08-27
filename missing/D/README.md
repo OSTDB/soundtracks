@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
+| Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
+| Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
@@ -58,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
+| Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
@@ -67,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
+| Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
@@ -84,12 +88,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Illusion Island | 216278 | [216278-disney-illusion-island.json](./216278-disney-illusion-island.json) |
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
+| Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
+| Disney Infinity 3.0: Gold Edition | 30979 | [30979-disney-infinity-3-0-gold-edition.json](./30979-disney-infinity-3-0-gold-edition.json) |
 | Disney's Goof Troop | 8163 | [8163-disneys-goof-troop.json](./8163-disneys-goof-troop.json) |
 | Disney's Lilo & Stitch | 25912 | [25912-disneys-lilo-and-stitch.json](./25912-disneys-lilo-and-stitch.json) |
 | Disney's Lilo & Stitch: Trouble in Paradise | 23792 | [23792-disneys-lilo-and-stitch-trouble-in-paradise.json](./23792-disneys-lilo-and-stitch-trouble-in-paradise.json) |
 | Disney's Pocahontas | 24979 | [24979-disneys-pocahontas.json](./24979-disneys-pocahontas.json) |
 | Disney's The Jungle Book | 6480 | [6480-disneys-the-jungle-book.json](./6480-disneys-the-jungle-book.json) |
 | Disney's Toy Story | 289027 | [289027-disneys-toy-story.json](./289027-disneys-toy-story.json) |
+| Disoriented | 30503 | [30503-disoriented.json](./30503-disoriented.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
@@ -111,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
+| Doodle Mafia | 29367 | [29367-doodle-mafia.json](./29367-doodle-mafia.json) |
 | Doom | 259939 | [259939-doom.json](./259939-doom.json) |
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
 | Doom 3 | 260028 | [260028-doom-3.json](./260028-doom-3.json) |
@@ -150,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
+| Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
