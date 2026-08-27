@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
+| HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
