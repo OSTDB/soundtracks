@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Figure Quest | 115693 | [115693-figure-quest.json](./115693-figure-quest.json) |
+| FIM Speedway Grand Prix 15 | 35792 | [35792-fim-speedway-grand-prix-15.json](./35792-fim-speedway-grand-prix-15.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
 | Final Fantasy Fables: Chocobo's Dungeon | 18069 | [18069-final-fantasy-fables-chocobos-dungeon.json](./18069-final-fantasy-fables-chocobos-dungeon.json) |
 | Final Fantasy I & II: Dawn of Souls | 408 | [408-final-fantasy-i-and-ii-dawn-of-souls.json](./408-final-fantasy-i-and-ii-dawn-of-souls.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
+| Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
+| Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
