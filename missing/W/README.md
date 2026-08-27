@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun - Forges of Corruption | 302169 | [302169-warhammer-40-000-boltgun-forges-of-corruption.json](./302169-warhammer-40-000-boltgun-forges-of-corruption.json) |
 | Warhammer 40,000: Boltgun – Words of Vengeance | 344670 | [344670-warhammer-40-000-boltgun-words-of-vengeance.json](./344670-warhammer-40-000-boltgun-words-of-vengeance.json) |
 | Warhammer 40,000: Dawn of War - Dark Crusade | 467 | [467-warhammer-40-000-dawn-of-war-dark-crusade.json](./467-warhammer-40-000-dawn-of-war-dark-crusade.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: Last Stand | 36455 | [36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json](./36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json) |
 | Warhammer: End Times - Vermintide | 9181 | [9181-warhammer-end-times-vermintide.json](./9181-warhammer-end-times-vermintide.json) |
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
+| Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
 | WBSC eBaseball: Power Pros | 236674 | [236674-wbsc-ebaseball-power-pros.json](./236674-wbsc-ebaseball-power-pros.json) |
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
@@ -56,10 +58,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
+| Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
+| World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
 | World End Syndrome | 74946 | [74946-world-end-syndrome.json](./74946-world-end-syndrome.json) |
 | World of Demons | 96500 | [96500-world-of-demons.json](./96500-world-of-demons.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
@@ -77,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
 | WWE SmackDown vs. Raw 2009 | 5299 | [5299-wwe-smackdown-vs-raw-2009.json](./5299-wwe-smackdown-vs-raw-2009.json) |
 | WWF In Your House | 23238 | [23238-wwf-in-your-house.json](./23238-wwf-in-your-house.json) |
+| WWF Superstars | 39424 | [39424-wwf-superstars.json](./39424-wwf-superstars.json) |
 | WWF WrestleMania 2000 | 3646 | [3646-wwf-wrestlemania-2000.json](./3646-wwf-wrestlemania-2000.json) |
 | Wynncraft | 243997 | [243997-wynncraft.json](./243997-wynncraft.json) |
 | Wytchwood | 75341 | [75341-wytchwood.json](./75341-wytchwood.json) |
