@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
+| Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
 | Photographs | 80878 | [80878-photographs.json](./80878-photographs.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
+| Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
