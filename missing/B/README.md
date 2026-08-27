@@ -91,6 +91,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
 | Bigfoot: Collision Course | 4714 | [4714-bigfoot-collision-course.json](./4714-bigfoot-collision-course.json) |
+| Bike Rider DX | 61928 | [61928-bike-rider-dx.json](./61928-bike-rider-dx.json) |
+| Bike Rider DX2: Galaxy | 61925 | [61925-bike-rider-dx2-galaxy.json](./61925-bike-rider-dx2-galaxy.json) |
 | Bill Elliott's NASCAR Challenge | 7785 | [7785-bill-elliotts-nascar-challenge.json](./7785-bill-elliotts-nascar-challenge.json) |
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
+| Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
