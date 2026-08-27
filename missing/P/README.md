@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
+| Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
+| Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
@@ -176,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
+| Putin 20!8 | 86541 | [86541-putin-20-8.json](./86541-putin-20-8.json) |
 | Putin vs. Isis | 95175 | [95175-putin-vs-isis.json](./95175-putin-vs-isis.json) |
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
 | Puyo Pop Fever | 4075 | [4075-puyo-pop-fever.json](./4075-puyo-pop-fever.json) |
