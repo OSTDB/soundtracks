@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
+| Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | GhostControl Inc. | 17106 | [17106-ghostcontrol-inc.json](./17106-ghostcontrol-inc.json) |
 | Ghostrunner: Project Hel | 183125 | [183125-ghostrunner-project-hel.json](./183125-ghostrunner-project-hel.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
+| Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
 | Greg Hastings Paintball 2 | 24317 | [24317-greg-hastings-paintball-2.json](./24317-greg-hastings-paintball-2.json) |
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
 | Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
