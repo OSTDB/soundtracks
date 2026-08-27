@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
+| Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
