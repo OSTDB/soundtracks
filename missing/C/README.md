@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
+| Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
+| Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
@@ -85,6 +87,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
+| Chroma Shift | 110098 | [110098-chroma-shift.json](./110098-chroma-shift.json) |
+| Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
@@ -172,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
+| Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
@@ -183,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
+| Crypto Crisis | 110091 | [110091-crypto-crisis.json](./110091-crypto-crisis.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
