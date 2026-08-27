@@ -29,11 +29,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 | 305775 | [305775-tekken-2.json](./305775-tekken-2.json) |
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
 | Tekken: Dark Resurrection | 24181 | [24181-tekken-dark-resurrection.json](./24181-tekken-dark-resurrection.json) |
+| Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
+| The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
@@ -49,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
+| The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
@@ -67,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
+| The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
@@ -138,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
+| The Weaponographist | 11418 | [11418-the-weaponographist.json](./11418-the-weaponographist.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
