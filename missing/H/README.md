@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers 2: Machinery of Oppression | 389320 | [389320-helldivers-2-machinery-of-oppression.json](./389320-helldivers-2-machinery-of-oppression.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Help Me Hide the Body | 384929 | [384929-help-me-hide-the-body.json](./384929-help-me-hide-the-body.json) |
+| Help Santa In Christmas Xmas Game | 384404 | [384404-help-santa-in-christmas-xmas-game.json](./384404-help-santa-in-christmas-xmas-game.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
 | Hentai Balls 3D: Triple Trouble | 387245 | [387245-hentai-balls-3d-triple-trouble.json](./387245-hentai-balls-3d-triple-trouble.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
 | Ho Ho & Move | 387247 | [387247-ho-ho-and-move.json](./387247-ho-ho-and-move.json) |
 | Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
+| Hockey Pong | 384382 | [384382-hockey-pong.json](./384382-hockey-pong.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
