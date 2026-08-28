@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggconsole Hydlide MSX2 | 394717 | [394717-eggconsole-hydlide-msx2.json](./394717-eggconsole-hydlide-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
+| Eggconsole Super Cooks MSX2 | 392611 | [392611-eggconsole-super-cooks-msx2.json](./392611-eggconsole-super-cooks-msx2.json) |
 | Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
 | EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
+| Emoji Battlefield: Island Warfare | 392610 | [392610-emoji-battlefield-island-warfare.json](./392610-emoji-battlefield-island-warfare.json) |
 | Emoji Killer: Casino Massacre | 414230 | [414230-emoji-killer-casino-massacre.json](./414230-emoji-killer-casino-massacre.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
