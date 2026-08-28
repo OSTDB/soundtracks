@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemilla Millefolium | 398890 | [398890-alchemilla-millefolium.json](./398890-alchemilla-millefolium.json) |
 | Alchemist Watch | 397573 | [397573-alchemist-watch.json](./397573-alchemist-watch.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
+| Alestian Story | 386033 | [386033-alestian-story.json](./386033-alestian-story.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Coloring Books for Kids & Toddlers: Dinosaurs | 394722 | [394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json](./394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
+| Animals Memory | 386028 | [386028-animals-memory.json](./386028-animals-memory.json) |
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
 | Anime Girls VR | 77169 | [77169-anime-girls-vr.json](./77169-anime-girls-vr.json) |
 | Anime Girls: Sakura Love | 396100 | [396100-anime-girls-sakura-love.json](./396100-anime-girls-sakura-love.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
+| Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
