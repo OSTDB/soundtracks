@@ -115,6 +115,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Battlot | 404708 | [404708-battlot.json](./404708-battlot.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
+| BDSM Sex: Episode 7 | 371070 | [371070-bdsm-sex-episode-7.json](./371070-bdsm-sex-episode-7.json) |
+| BDSM Sex: Episode 8 | 371067 | [371067-bdsm-sex-episode-8.json](./371067-bdsm-sex-episode-8.json) |
+| BDSM Sex: Episode 9 | 371073 | [371073-bdsm-sex-episode-9.json](./371073-bdsm-sex-episode-9.json) |
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
