@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
 | Information Conveyed Information Received | 404763 | [404763-information-conveyed-information-received.json](./404763-information-conveyed-information-received.json) |
 | Injection π23: Tabula Rasa | 401404 | [401404-injection-23-tabula-rasa.json](./401404-injection-23-tabula-rasa.json) |
+| Ink Shadow: Zero | 389883 | [389883-ink-shadow-zero.json](./389883-ink-shadow-zero.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
