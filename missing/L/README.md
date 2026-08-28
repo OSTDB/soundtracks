@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Ladder Lad | 412153 | [412153-ladder-lad.json](./412153-ladder-lad.json) |
 | Lady Pearl | 412821 | [412821-lady-pearl.json](./412821-lady-pearl.json) |
+| Laer Gjoll: Horror at Cemetery | 398856 | [398856-laer-gjoll-horror-at-cemetery.json](./398856-laer-gjoll-horror-at-cemetery.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lamp Eyes | 24579 | [24579-lamp-eyes.json](./24579-lamp-eyes.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
+| Love You As I Am | 398894 | [398894-love-you-as-i-am.json](./398894-love-you-as-i-am.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | Love, Startup & Co-founder | 410129 | [410129-love-startup-and-co-founder.json](./410129-love-startup-and-co-founder.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
