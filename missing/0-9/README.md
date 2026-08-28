@@ -105,8 +105,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Life | 376946 | [376946-3d-life.json](./376946-3d-life.json) |
 | 3D Maze | 376945 | [376945-3d-maze.json](./376945-3d-maze.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
+| 3D Whac-A-Mole | 367771 | [367771-3d-whac-a-mole.json](./367771-3d-whac-a-mole.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
 | 4 in 1 Sports Bundle | 380847 | [380847-4-in-1-sports-bundle.json](./380847-4-in-1-sports-bundle.json) |
+| 4K Bricks Breaker Plus | 367774 | [367774-4k-bricks-breaker-plus.json](./367774-4k-bricks-breaker-plus.json) |
+| 5 Crowns | 367777 | [367777-5-crowns.json](./367777-5-crowns.json) |
 | 5318008 | 412168 | [412168-5318008.json](./412168-5318008.json) |
 | 6 Floors | 397549 | [397549-6-floors.json](./397549-6-floors.json) |
 | 6 in 1 Power Bundle Vol. 2 | 380848 | [380848-6-in-1-power-bundle-vol-2.json](./380848-6-in-1-power-bundle-vol-2.json) |
@@ -119,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Pro Online | 397546 | [397546-8-ball-pro-online.json](./397546-8-ball-pro-online.json) |
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
 | 8bit Salvage | 412828 | [412828-8bit-salvage.json](./412828-8bit-salvage.json) |
+| 99 Anime Girls | 367778 | [367778-99-anime-girls.json](./367778-99-anime-girls.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
 | Àoshì Xuè Mó | 372320 | [372320-aoshi-xue-mo.json](./372320-aoshi-xue-mo.json) |
 | Ōkami HD | 20744 | [20744-okami-hd.json](./20744-okami-hd.json) |
