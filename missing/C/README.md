@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
 | Car Simulator: Driving School | 409487 | [409487-car-simulator-driving-school.json](./409487-car-simulator-driving-school.json) |
+| Caravan Tactics: For Gold & Glory | 392632 | [392632-caravan-tactics-for-gold-and-glory.json](./392632-caravan-tactics-for-gold-and-glory.json) |
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
+| Castaway Cross | 392678 | [392678-castaway-cross.json](./392678-castaway-cross.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
@@ -224,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
 | Combolands | 398235 | [398235-combolands.json](./398235-combolands.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
+| Come Right Inn: Season 1 | 392663 | [392663-come-right-inn-season-1.json](./392663-come-right-inn-season-1.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
 | Command Ops 2 | 31480 | [31480-command-ops-2.json](./31480-command-ops-2.json) |
@@ -342,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
 | Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
+| Crushing Force | 392627 | [392627-crushing-force.json](./392627-crushing-force.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
 | Crypto Crisis | 110091 | [110091-crypto-crisis.json](./110091-crypto-crisis.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
