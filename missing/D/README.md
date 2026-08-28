@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
+| Don't Stay Awake | 382622 | [382622-dont-stay-awake.json](./382622-dont-stay-awake.json) |
 | Don't Touch the Walls | 86439 | [86439-dont-touch-the-walls.json](./86439-dont-touch-the-walls.json) |
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
 | Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
 | Donuts for Rollio | 413518 | [413518-donuts-for-rollio.json](./413518-donuts-for-rollio.json) |
+| Doodle Heads | 382615 | [382615-doodle-heads.json](./382615-doodle-heads.json) |
 | Doodle Mafia | 29367 | [29367-doodle-mafia.json](./29367-doodle-mafia.json) |
 | Doom | 259939 | [259939-doom.json](./259939-doom.json) |
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
