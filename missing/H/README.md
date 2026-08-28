@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes of Mount Dragon x G.I. Joe: Wrath of Cobra | 396118 | [396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json](./396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
+| Heroic Aegisio: Origins | 366036 | [366036-heroic-aegisio-origins.json](./366036-heroic-aegisio-origins.json) |
 | HeroInc | 386016 | [386016-heroinc.json](./386016-heroinc.json) |
 | Heroll | 382030 | [382030-heroll.json](./382030-heroll.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
 | Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
 | HoloVillage: Our Cozy Days | 379245 | [379245-holovillage-our-cozy-days.json](./379245-holovillage-our-cozy-days.json) |
+| Holy Hoop | 366067 | [366067-holy-hoop.json](./366067-holy-hoop.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | Holy Night | 375044 | [375044-holy-night.json](./375044-holy-night.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
@@ -306,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydlide 3: The Space Memories | 387874 | [387874-hydlide-3-the-space-memories.json](./387874-hydlide-3-the-space-memories.json) |
 | Hydlide 3: Yami kara no Houmonsha | 387877 | [387877-hydlide-3-yami-kara-no-houmonsha.json](./387877-hydlide-3-yami-kara-no-houmonsha.json) |
+| Hydra Heli | 366074 | [366074-hydra-heli.json](./366074-hydra-heli.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hygrim | 392654 | [392654-hygrim.json](./392654-hygrim.json) |
 | Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
