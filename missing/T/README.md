@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartarus: Dice & Blades | 404737 | [404737-tartarus-dice-and-blades.json](./404737-tartarus-dice-and-blades.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
+| Tattered Banners | 387214 | [387214-tattered-banners.json](./387214-tattered-banners.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
 | Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
 | Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
+| The Devil Card | 387251 | [387251-the-devil-card.json](./387251-the-devil-card.json) |
 | The Division 2: Rise Up | 396787 | [396787-the-division-2-rise-up.json](./396787-the-division-2-rise-up.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
@@ -235,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last Hand | 396792 | [396792-the-last-hand.json](./396792-the-last-hand.json) |
 | The Last Hope Trump vs. Mafia | 29759 | [29759-the-last-hope-trump-vs-mafia.json](./29759-the-last-hope-trump-vs-mafia.json) |
+| The Last Night: Zombie Attack | 387231 | [387231-the-last-night-zombie-attack.json](./387231-the-last-night-zombie-attack.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
 | The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
@@ -299,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
+| The Saplum Cradle | 387241 | [387241-the-saplum-cradle.json](./387241-the-saplum-cradle.json) |
 | The Scrolls | 395390 | [395390-the-scrolls.json](./395390-the-scrolls.json) |
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
 | The Second Sight: All Hallow's Eve | 402825 | [402825-the-second-sight-all-hallows-eve.json](./402825-the-second-sight-all-hallows-eve.json) |
