@@ -97,6 +97,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter The Stash Hunter | 406615 | [406615-peter-the-stash-hunter.json](./406615-peter-the-stash-hunter.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
 | Petz: Horsez 2 | 15817 | [15817-petz-horsez-2.json](./15817-petz-horsez-2.json) |
+| PGA Tour 2K25: Clubhouse Pass Premium Season 6 | 390935 | [390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json](./390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json) |
+| PGA Tour 2K25: Clubhouse Pass Premium Season 7 | 390936 | [390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json](./390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json) |
+| PGA Tour 2K25: Clubhouse Pass Premium Season 8 | 390937 | [390937-pga-tour-2k25-clubhouse-pass-premium-season-8.json](./390937-pga-tour-2k25-clubhouse-pass-premium-season-8.json) |
 | Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantacall Realm | 406613 | [406613-phantacall-realm.json](./406613-phantacall-realm.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
