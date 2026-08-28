@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
 | The Binding of Isaac: Most Unholy Edition | 382616 | [382616-the-binding-of-isaac-most-unholy-edition.json](./382616-the-binding-of-isaac-most-unholy-edition.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
+| The Black Pyramid | 378635 | [378635-the-black-pyramid.json](./378635-the-black-pyramid.json) |
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
@@ -388,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweet Spot | 380895 | [380895-the-sweet-spot.json](./380895-the-sweet-spot.json) |
 | The Sweetest Sound | 412871 | [412871-the-sweetest-sound.json](./412871-the-sweetest-sound.json) |
 | The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
+| The Thing | 378667 | [378667-the-thing.json](./378667-the-thing.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Tower | 380881 | [380881-the-tower.json](./380881-the-tower.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
@@ -397,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tribe Must Survive | 188808 | [188808-the-tribe-must-survive.json](./188808-the-tribe-must-survive.json) |
 | The True Bottom | 385466 | [385466-the-true-bottom.json](./385466-the-true-bottom.json) |
 | The Tunnel | 380879 | [380879-the-tunnel.json](./380879-the-tunnel.json) |
+| The Underpass | 378666 | [378666-the-underpass.json](./378666-the-underpass.json) |
 | The Unlikely Legend of Rusty Pup | 63281 | [63281-the-unlikely-legend-of-rusty-pup.json](./63281-the-unlikely-legend-of-rusty-pup.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
@@ -482,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Town Market Simulator | 406005 | [406005-tiny-town-market-simulator.json](./406005-tiny-town-market-simulator.json) |
 | Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
 | Tiny Wheels | 29796 | [29796-tiny-wheels.json](./29796-tiny-wheels.json) |
+| Tiny Worlds | 378617 | [378617-tiny-worlds.json](./378617-tiny-worlds.json) |
 | Tip of the Spear: Task Force Elite | 125393 | [125393-tip-of-the-spear-task-force-elite.json](./125393-tip-of-the-spear-task-force-elite.json) |
 | Titan Quest | 8311 | [8311-titan-quest.json](./8311-titan-quest.json) |
 | Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
@@ -591,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
+| Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | TrainerVR | 77166 | [77166-trainervr.json](./77166-trainervr.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
@@ -617,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treadnauts | 54785 | [54785-treadnauts.json](./54785-treadnauts.json) |
 | Treasure Hunter | 380859 | [380859-treasure-hunter.json](./380859-treasure-hunter.json) |
 | Treasure Island: Abandoned Enigma | 402770 | [402770-treasure-island-abandoned-enigma.json](./402770-treasure-island-abandoned-enigma.json) |
+| Treated | 378657 | [378657-treated.json](./378657-treated.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
