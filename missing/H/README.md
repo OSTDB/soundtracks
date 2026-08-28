@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
 | Haze | 399444 | [399444-haze.json](./399444-haze.json) |
+| Headache: Altered States | 386000 | [386000-headache-altered-states.json](./386000-headache-altered-states.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headcutter | 404100 | [404100-headcutter.json](./404100-headcutter.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
@@ -120,9 +121,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes of Mount Dragon x G.I. Joe: Wrath of Cobra | 396118 | [396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json](./396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
+| HeroInc | 386016 | [386016-heroinc.json](./386016-heroinc.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexa Rhythm | 388590 | [388590-hexa-rhythm.json](./388590-hexa-rhythm.json) |
+| Hexaloric | 386052 | [386052-hexaloric.json](./386052-hexaloric.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
@@ -237,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
+| HyperRouter | 385995 | [385995-hyperrouter.json](./385995-hyperrouter.json) |
 | Hyperspace Pinball | 22785 | [22785-hyperspace-pinball.json](./22785-hyperspace-pinball.json) |
 | Hyperspeed | 35801 | [35801-hyperspeed.json](./35801-hyperspeed.json) |
 | Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
