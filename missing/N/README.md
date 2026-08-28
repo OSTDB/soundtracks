@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekro | 16622 | [16622-nekro.json](./16622-nekro.json) |
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
+| Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
 | Neon Sun | 86405 | [86405-neon-sun.json](./86405-neon-sun.json) |
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
