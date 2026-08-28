@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Society | 165165 | [165165-pet-society.json](./165165-pet-society.json) |
 | Peter The Stash Hunter | 406615 | [406615-peter-the-stash-hunter.json](./406615-peter-the-stash-hunter.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
+| Petrichor | 387911 | [387911-petrichor.json](./387911-petrichor.json) |
 | Petz: Horsez 2 | 15817 | [15817-petz-horsez-2.json](./15817-petz-horsez-2.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 6 | 390935 | [390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json](./390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 7 | 390936 | [390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json](./390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photographs | 80878 | [80878-photographs.json](./80878-photographs.json) |
 | Photos | 393371 | [393371-photos.json](./393371-photos.json) |
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
+| Pickle Simulator | 387851 | [387851-pickle-simulator.json](./387851-pickle-simulator.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | PicoCross | 404743 | [404743-picocross.json](./404743-picocross.json) |
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
