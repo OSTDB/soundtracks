@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-YO Blaster | 81901 | [81901-q-yo-blaster.json](./81901-q-yo-blaster.json) |
 | Q*bert | 1980 | [1980-q-bert.json](./1980-q-bert.json) |
 | Qrth-Phyl | 63053 | [63053-qrth-phyl.json](./63053-qrth-phyl.json) |
+| Quake 30th Anniversary Jam | 402810 | [402810-quake-30th-anniversary-jam.json](./402810-quake-30th-anniversary-jam.json) |
 | Quake III: Team Arena | 6634 | [6634-quake-iii-team-arena.json](./6634-quake-iii-team-arena.json) |
 | Quantic Pinball | 29831 | [29831-quantic-pinball.json](./29831-quantic-pinball.json) |
 | Quantum Cowboy | 413516 | [413516-quantum-cowboy.json](./413516-quantum-cowboy.json) |
