@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Diner Simulator | 381466 | [381466-zombie-diner-simulator.json](./381466-zombie-diner-simulator.json) |
 | Zombie Emperor | 387862 | [387862-zombie-emperor.json](./387862-zombie-emperor.json) |
 | Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
+| Zombie Murder 3 | 367818 | [367818-zombie-murder-3.json](./367818-zombie-murder-3.json) |
 | Zombie Playground | 15316 | [15316-zombie-playground.json](./15316-zombie-playground.json) |
 | Zombie Solitaire 2 Chapter 3 | 86499 | [86499-zombie-solitaire-2-chapter-3.json](./86499-zombie-solitaire-2-chapter-3.json) |
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
@@ -44,7 +45,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Wars | 379216 | [379216-zoo-wars.json](./379216-zoo-wars.json) |
 | Zoochosis | 282935 | [282935-zoochosis.json](./282935-zoochosis.json) |
 | Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
+| Zoological Era II | 367816 | [367816-zoological-era-ii.json](./367816-zoological-era-ii.json) |
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
+| ZOSU VR Explosive Bow Hunting | 367810 | [367810-zosu-vr-explosive-bow-hunting.json](./367810-zosu-vr-explosive-bow-hunting.json) |
 | Zulu Response | 34494 | [34494-zulu-response.json](./34494-zulu-response.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zuma's Revenge!: Adventure | 405407 | [405407-zumas-revenge-adventure.json](./405407-zumas-revenge-adventure.json) |
