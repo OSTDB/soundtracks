@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
+| Jaws | 15704 | [15704-jaws.json](./15704-jaws.json) |
 | Jaws of Extinction | 44585 | [44585-jaws-of-extinction.json](./44585-jaws-of-extinction.json) |
 | Jay and Silent Bob: Mall Brawl | 124310 | [124310-jay-and-silent-bob-mall-brawl.json](./124310-jay-and-silent-bob-mall-brawl.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
+| Jolly Rover | 15056 | [15056-jolly-rover.json](./15056-jolly-rover.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
