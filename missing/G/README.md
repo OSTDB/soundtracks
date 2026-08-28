@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Tycoon 2 | 34414 | [34414-game-tycoon-2.json](./34414-game-tycoon-2.json) |
 | Gamer Career Tycoon | 86611 | [86611-gamer-career-tycoon.json](./86611-gamer-career-tycoon.json) |
 | Gamer Simulator | 34462 | [34462-gamer-simulator.json](./34462-gamer-simulator.json) |
+| GamerGio's Very Cool Level Pack | 394019 | [394019-gamergios-very-cool-level-pack.json](./394019-gamergios-very-cool-level-pack.json) |
 | Gang Wars | 6796 | [6796-gang-wars.json](./6796-gang-wars.json) |
 | Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
