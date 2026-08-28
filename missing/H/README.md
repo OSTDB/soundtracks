@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
+| Homushikku | 402211 | [402211-homushikku.json](./402211-homushikku.json) |
 | Hong Kong Ninja | 404107 | [404107-hong-kong-ninja.json](./404107-hong-kong-ninja.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
