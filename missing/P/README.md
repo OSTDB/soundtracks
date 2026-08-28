@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
+| Police Chief | 410745 | [410745-police-chief.json](./410745-police-chief.json) |
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
+| Poor Bird | 410763 | [410763-poor-bird.json](./410763-poor-bird.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
@@ -193,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
+| Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
