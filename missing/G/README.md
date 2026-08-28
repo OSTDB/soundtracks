@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Fit: Men’s Fitness | 394719 | [394719-get-fit-men-s-fitness.json](./394719-get-fit-men-s-fitness.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get That Box, Girl! | 404757 | [404757-get-that-box-girl.json](./404757-get-that-box-girl.json) |
+| Get to the Sus Bus | 368318 | [368318-get-to-the-sus-bus.json](./368318-get-to-the-sus-bus.json) |
 | Get to Work, Gnomes! Christmas Factory | 399472 | [399472-get-to-work-gnomes-christmas-factory.json](./399472-get-to-work-gnomes-christmas-factory.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | GGM | 383850 | [383850-ggm.json](./383850-ggm.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
 | Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
+| Goblins & Gun Runnin’ | 368306 | [368306-goblins-and-gun-runnin.json](./368306-goblins-and-gun-runnin.json) |
 | Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
 | God of Gamblers | 371677 | [371677-god-of-gamblers.json](./371677-god-of-gamblers.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone In November | 31912 | [31912-gone-in-november.json](./31912-gone-in-november.json) |
 | Gone Me | 407923 | [407923-gone-me.json](./407923-gone-me.json) |
 | Goo Deer | 408638 | [408638-goo-deer.json](./408638-goo-deer.json) |
+| Goo-B3-R | 368309 | [368309-goo-b3-r.json](./368309-goo-b3-r.json) |
 | Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
 | Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
@@ -225,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
 | Gravitten | 379775 | [379775-gravitten.json](./379775-gravitten.json) |
+| Gravosphere | 368334 | [368334-gravosphere.json](./368334-gravosphere.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
