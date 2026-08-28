@@ -26,8 +26,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
 | Baff A | 412146 | [412146-baff-a.json](./412146-baff-a.json) |
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
+| Baikin-kun | 385500 | [385500-baikin-kun.json](./385500-baikin-kun.json) |
 | Bait & Tackle Store Simulator | 389312 | [389312-bait-and-tackle-store-simulator.json](./389312-bait-and-tackle-store-simulator.json) |
+| Bakudan Man | 385501 | [385501-bakudan-man.json](./385501-bakudan-man.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
+| Bakuhatsu Dynaman | 385494 | [385494-bakuhatsu-dynaman.json](./385494-bakuhatsu-dynaman.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
 | Ballistic Attack | 44144 | [44144-ballistic-attack.json](./44144-ballistic-attack.json) |
@@ -57,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargalian Regicide | 387888 | [387888-bargalian-regicide.json](./387888-bargalian-regicide.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
+| Baseball | 385503 | [385503-baseball.json](./385503-baseball.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
@@ -82,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
 | Battle Simulator: Counter Terrorist | 404762 | [404762-battle-simulator-counter-terrorist.json](./404762-battle-simulator-counter-terrorist.json) |
+| Battle Slugger | 385495 | [385495-battle-slugger.json](./385495-battle-slugger.json) |
 | BattleBit Remastered | 50531 | [50531-battlebit-remastered.json](./50531-battlebit-remastered.json) |
 | Battleborn | 7687 | [7687-battleborn.json](./7687-battleborn.json) |
 | Battlefield 2: Euro Force | 3813 | [3813-battlefield-2-euro-force.json](./3813-battlefield-2-euro-force.json) |
@@ -247,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing Over It | 390388 | [390388-boing-over-it.json](./390388-boing-over-it.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
 | Bokuten: Why I Became an Angel | 126100 | [126100-bokuten-why-i-became-an-angel.json](./126100-bokuten-why-i-became-an-angel.json) |
+| Bokyaku Zenya | 385468 | [385468-bokyaku-zenya.json](./385468-bokyaku-zenya.json) |
 | Bolariki | 408636 | [408636-bolariki.json](./408636-bolariki.json) |
 | Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
 | Bomb Chicken | 27880 | [27880-bomb-chicken.json](./27880-bomb-chicken.json) |
