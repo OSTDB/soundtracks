@@ -73,6 +73,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
 | New Super Luigi U | 2173 | [2173-new-super-luigi-u.json](./2173-new-super-luigi-u.json) |
+| New Super Mario Bros. Wii-Hashed | 394008 | [394008-new-super-mario-bros-wii-hashed.json](./394008-new-super-mario-bros-wii-hashed.json) |
+| New Super Mario Bros. Wii: New Horizons | 394010 | [394010-new-super-mario-bros-wii-new-horizons.json](./394010-new-super-mario-bros-wii-new-horizons.json) |
+| New Super Mario Bros.: Burning Ice | 394012 | [394012-new-super-mario-bros-burning-ice.json](./394012-new-super-mario-bros-burning-ice.json) |
 | New Supermarket Simulator | 401415 | [401415-new-supermarket-simulator.json](./401415-new-supermarket-simulator.json) |
 | New York Mysteries: The Outbreak | 126782 | [126782-new-york-mysteries-the-outbreak.json](./126782-new-york-mysteries-the-outbreak.json) |
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
@@ -137,9 +140,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
 | Notary Block | 414999 | [414999-notary-block.json](./414999-notary-block.json) |
 | Nothing | 395420 | [395420-nothing.json](./395420-nothing.json) |
+| Nova Fight MMA | 394045 | [394045-nova-fight-mma.json](./394045-nova-fight-mma.json) |
 | Nova Fighter | 412148 | [412148-nova-fighter.json](./412148-nova-fighter.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
 | Nuktedan: The Forgotten Emotions | 406592 | [406592-nuktedan-the-forgotten-emotions.json](./406592-nuktedan-the-forgotten-emotions.json) |
+| Null Anchor | 394033 | [394033-null-anchor.json](./394033-null-anchor.json) |
 | Null Root | 398223 | [398223-null-root.json](./398223-null-root.json) |
 | Numb Digger | 410759 | [410759-numb-digger.json](./410759-numb-digger.json) |
