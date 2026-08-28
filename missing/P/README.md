@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
+| PBS Kids Games | 383813 | [383813-pbs-kids-games.json](./383813-pbs-kids-games.json) |
 | PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
 | PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pith | 412176 | [412176-pith.json](./412176-pith.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Cafe Minimal Chic | 386566 | [386566-pixel-cafe-minimal-chic.json](./386566-pixel-cafe-minimal-chic.json) |
+| Pixel Cross Stitch: Color by Number - Cats Pack | 383830 | [383830-pixel-cross-stitch-color-by-number-cats-pack.json](./383830-pixel-cross-stitch-color-by-number-cats-pack.json) |
 | Pixel Game Maker Series: Denizens of Darkwind | 396113 | [396113-pixel-game-maker-series-denizens-of-darkwind.json](./396113-pixel-game-maker-series-denizens-of-darkwind.json) |
 | Pixel Game Maker Series: MagicalShot The AttackBump | 396114 | [396114-pixel-game-maker-series-magicalshot-the-attackbump.json](./396114-pixel-game-maker-series-magicalshot-the-attackbump.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
@@ -244,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
 | Poor Bird | 410763 | [410763-poor-bird.json](./410763-poor-bird.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
+| Pop, Fizz, Cheers! | 383822 | [383822-pop-fizz-cheers.json](./383822-pop-fizz-cheers.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
 | Pops | 414962 | [414962-pops.json](./414962-pops.json) |
