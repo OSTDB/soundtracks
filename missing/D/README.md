@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
 | Dance Dance Revolution: Ultramix | 47301 | [47301-dance-dance-revolution-ultramix.json](./47301-dance-dance-revolution-ultramix.json) |
+| Dancers | 411477 | [411477-dancers.json](./411477-dancers.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
 | Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
 | Deep, In the Forest | 126412 | [126412-deep-in-the-forest.json](./126412-deep-in-the-forest.json) |
+| DeepCroak | 411429 | [411429-deepcroak.json](./411429-deepcroak.json) |
 | Deer Hunter Reloaded | 64363 | [64363-deer-hunter-reloaded.json](./64363-deer-hunter-reloaded.json) |
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
 | Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
+| Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
 | Desta: The Memories Between | 204376 | [204376-desta-the-memories-between.json](./204376-desta-the-memories-between.json) |
@@ -133,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
+| Devil Typocrypha: Alt-Eschatopia | 411467 | [411467-devil-typocrypha-alt-eschatopia.json](./411467-devil-typocrypha-alt-eschatopia.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
 | Dex: Your AR Dog Companion | 95761 | [95761-dex-your-ar-dog-companion.json](./95761-dex-your-ar-dog-companion.json) |
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
@@ -158,10 +162,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
 | DinerTown Detective Agency | 15001 | [15001-dinertown-detective-agency.json](./15001-dinertown-detective-agency.json) |
+| Dino Jump Deluxe | 411491 | [411491-dino-jump-deluxe.json](./411491-dino-jump-deluxe.json) |
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
+| Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
 | DiscStorm | 11420 | [11420-discstorm.json](./11420-discstorm.json) |
@@ -171,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
 | Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
+| Disney Dreamlight Valley: Pixel Perfect | 411474 | [411474-disney-dreamlight-valley-pixel-perfect.json](./411474-disney-dreamlight-valley-pixel-perfect.json) |
 | Disney Illusion Island | 216278 | [216278-disney-illusion-island.json](./216278-disney-illusion-island.json) |
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
 | Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
@@ -257,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Collectible Card Game | 78230 | [78230-dragon-ball-z-collectible-card-game.json](./78230-dragon-ball-z-collectible-card-game.json) |
 | Dragon Ball Z: Tenkaichi Tag Team | 2572 | [2572-dragon-ball-z-tenkaichi-tag-team.json](./2572-dragon-ball-z-tenkaichi-tag-team.json) |
 | Dragon Ball Z: Ultimate Battle 22 | 2543 | [2543-dragon-ball-z-ultimate-battle-22.json](./2543-dragon-ball-z-ultimate-battle-22.json) |
+| Dragon Ball: Sparking! Zero - Super Limit-Breaking Neo | 411452 | [411452-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./411452-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Blade: Wrath of Fire | 4819 | [4819-dragon-blade-wrath-of-fire.json](./4819-dragon-blade-wrath-of-fire.json) |
 | Dragon Bros | 31970 | [31970-dragon-bros.json](./31970-dragon-bros.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
