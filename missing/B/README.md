@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
 | Boring Man: Online Tactical Stickman Combat | 35862 | [35862-boring-man-online-tactical-stickman-combat.json](./35862-boring-man-online-tactical-stickman-combat.json) |
+| Born Again | 403461 | [403461-born-again.json](./403461-born-again.json) |
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs Bunny Rabbit Rampage | 3054 | [3054-bugs-bunny-rabbit-rampage.json](./3054-bugs-bunny-rabbit-rampage.json) |
 | Bugs in the Brain | 407931 | [407931-bugs-in-the-brain.json](./407931-bugs-in-the-brain.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
+| Builder Stimulator | 403492 | [403492-builder-stimulator.json](./403492-builder-stimulator.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
