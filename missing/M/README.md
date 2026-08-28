@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
+| Memeology Club | 414968 | [414968-memeology-club.json](./414968-memeology-club.json) |
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
+| Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
@@ -248,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mrs Snake | 89372 | [89372-mrs-snake.json](./89372-mrs-snake.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
+| Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
