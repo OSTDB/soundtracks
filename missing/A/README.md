@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
 | A Little Horror Story | 409474 | [409474-a-little-horror-story.json](./409474-a-little-horror-story.json) |
 | A Lucky Hunt With Lyra | 378631 | [378631-a-lucky-hunt-with-lyra.json](./378631-a-lucky-hunt-with-lyra.json) |
+| A Man's Work | 374461 | [374461-a-mans-work.json](./374461-a-mans-work.json) |
 | A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
+| Alley Cats Idle | 374484 | [374484-alley-cats-idle.json](./374484-alley-cats-idle.json) |
 | Almanach: Of Empires and Sorcery | 391493 | [391493-almanach-of-empires-and-sorcery.json](./391493-almanach-of-empires-and-sorcery.json) |
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
@@ -329,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Arrow Party | 382617 | [382617-arrow-party.json](./382617-arrow-party.json) |
+| Arrow Spire: Tower Defense | 374486 | [374486-arrow-spire-tower-defense.json](./374486-arrow-spire-tower-defense.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Drift: Cozy Drift Simulator | 414229 | [414229-art-of-drift-cozy-drift-simulator.json](./414229-art-of-drift-cozy-drift-simulator.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
@@ -407,5 +410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Animated Monster Maker Math | 380851 | [380851-awesome-animated-monster-maker-math.json](./380851-awesome-animated-monster-maker-math.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
+| Ayrton Idle | 374468 | [374468-ayrton-idle.json](./374468-ayrton-idle.json) |
 | Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
