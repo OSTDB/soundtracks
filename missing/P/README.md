@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Game | 398884 | [398884-parcel-game.json](./398884-parcel-game.json) |
 | Parcel Inspection Simulator | 401421 | [401421-parcel-inspection-simulator.json](./401421-parcel-inspection-simulator.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
+| Parking Simulator | 373910 | [373910-parking-simulator.json](./373910-parking-simulator.json) |
 | Parkour Simulator VR | 401420 | [401420-parkour-simulator-vr.json](./401420-parkour-simulator-vr.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
 | Party in my Dorm | 95646 | [95646-party-in-my-dorm.json](./95646-party-in-my-dorm.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | Pico-Ball | 387235 | [387235-pico-ball.json](./387235-pico-ball.json) |
 | PicoCross | 404743 | [404743-picocross.json](./404743-picocross.json) |
+| Picronix | 373956 | [373956-picronix.json](./373956-picronix.json) |
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Cafe Minimal Chic | 386566 | [386566-pixel-cafe-minimal-chic.json](./386566-pixel-cafe-minimal-chic.json) |
 | Pixel Cross Stitch: Color by Number - Cats Pack | 383830 | [383830-pixel-cross-stitch-color-by-number-cats-pack.json](./383830-pixel-cross-stitch-color-by-number-cats-pack.json) |
+| Pixel Game Maker Series Tyraels Ascension: Hell Walker - The Video Game | 373955 | [373955-pixel-game-maker-series-tyraels-ascension-hell-walker-the-video-game.json](./373955-pixel-game-maker-series-tyraels-ascension-hell-walker-the-video-game.json) |
 | Pixel Game Maker Series: Denizens of Darkwind | 396113 | [396113-pixel-game-maker-series-denizens-of-darkwind.json](./396113-pixel-game-maker-series-denizens-of-darkwind.json) |
 | Pixel Game Maker Series: MagicalShot The AttackBump | 396114 | [396114-pixel-game-maker-series-magicalshot-the-attackbump.json](./396114-pixel-game-maker-series-magicalshot-the-attackbump.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
@@ -201,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm Collection 8 | 401427 | [401427-pixicharm-collection-8.json](./401427-pixicharm-collection-8.json) |
 | Pixie Plates: Complete Edition | 402181 | [402181-pixie-plates-complete-edition.json](./402181-pixie-plates-complete-edition.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
+| Pizza Restaurant Together | 373941 | [373941-pizza-restaurant-together.json](./373941-pizza-restaurant-together.json) |
 | Pizza Tower: Collector's Edition | 399492 | [399492-pizza-tower-collectors-edition.json](./399492-pizza-tower-collectors-edition.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
@@ -369,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
+| Pure Shinty | 373947 | [373947-pure-shinty.json](./373947-pure-shinty.json) |
 | Purrfect Ascent | 388633 | [388633-purrfect-ascent.json](./388633-purrfect-ascent.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
 | Puss in Box | 402821 | [402821-puss-in-box.json](./402821-puss-in-box.json) |
