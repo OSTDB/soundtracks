@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Tiret sur Will | 336493 | [336493-a-bibelot-tiret-sur-will.json](./336493-a-bibelot-tiret-sur-will.json) |
 | A Bug’s (Short) Life | 414205 | [414205-a-bug-s-short-life.json](./414205-a-bug-s-short-life.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
+| A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hunter | 389862 | [389862-anime-hunter.json](./389862-anime-hunter.json) |
 | Anime Puzzle Collection | 411450 | [411450-anime-puzzle-collection.json](./411450-anime-puzzle-collection.json) |
 | Anime Video Puzzle | 411447 | [411447-anime-video-puzzle.json](./411447-anime-video-puzzle.json) |
+| Animic: Attack with Your Voice | 384973 | [384973-animic-attack-with-your-voice.json](./384973-animic-attack-with-your-voice.json) |
 | Annie Amber | 32954 | [32954-annie-amber.json](./32954-annie-amber.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
 | Anno 1701 | 8225 | [8225-anno-1701.json](./8225-anno-1701.json) |
@@ -238,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
+| Arcade Archives: The Outfoxies | 384946 | [384946-arcade-archives-the-outfoxies.json](./384946-arcade-archives-the-outfoxies.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
