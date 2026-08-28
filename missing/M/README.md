@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
 | Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
+| Man Simulator 2025 | 373911 | [373911-man-simulator-2025.json](./373911-man-simulator-2025.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
+| Mech and Tech 1 | 373930 | [373930-mech-and-tech-1.json](./373930-mech-and-tech-1.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
 | Medabots Card Robattle RB | 390961 | [390961-medabots-card-robattle-rb.json](./390961-medabots-card-robattle-rb.json) |
@@ -442,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutation Overload | 379195 | [379195-mutation-overload.json](./379195-mutation-overload.json) |
+| MuTris | 373934 | [373934-mutris.json](./373934-mutris.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MXGP2: The Official Motocross Videogame Compact | 89499 | [89499-mxgp2-the-official-motocross-videogame-compact.json](./89499-mxgp2-the-official-motocross-videogame-compact.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
