@@ -121,6 +121,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 2: Innocent Sin | 11453 | [11453-persona-2-innocent-sin.json](./11453-persona-2-innocent-sin.json) |
 | Persona 3 | 9577 | [9577-persona-3.json](./9577-persona-3.json) |
 | Persona 3 Portable | 234701 | [234701-persona-3-portable.json](./234701-persona-3-portable.json) |
+| Persona 3: Dancing in Moonlight - "Best Friends" (OP ver.) | 362115 | [362115-persona-3-dancing-in-moonlight-best-friends-op-ver.json](./362115-persona-3-dancing-in-moonlight-best-friends-op-ver.json) |
+| Persona 3: Dancing in Moonlight - "Break Out Of..." (OP ver.) | 362122 | [362122-persona-3-dancing-in-moonlight-break-out-of-op-ver.json](./362122-persona-3-dancing-in-moonlight-break-out-of-op-ver.json) |
+| Persona 3: Dancing in Moonlight - "Dance!" (OP ver.) | 362128 | [362128-persona-3-dancing-in-moonlight-dance-op-ver.json](./362128-persona-3-dancing-in-moonlight-dance-op-ver.json) |
+| Persona 3: Dancing in Moonlight - "Groovy" (full version) | 362129 | [362129-persona-3-dancing-in-moonlight-groovy-full-version.json](./362129-persona-3-dancing-in-moonlight-groovy-full-version.json) |
+| Persona 3: Dancing in Moonlight - "Shadow World" (OP ver.) | 362116 | [362116-persona-3-dancing-in-moonlight-shadow-world-op-ver.json](./362116-persona-3-dancing-in-moonlight-shadow-world-op-ver.json) |
+| Persona 3: Dancing in Moonlight - "Voice (ATLUS Tsuchiya Remix)" Koromaru on a Walk | 362107 | [362107-persona-3-dancing-in-moonlight-voice-atlus-tsuchiya-remix-koromaru-on-a-walk.json](./362107-persona-3-dancing-in-moonlight-voice-atlus-tsuchiya-remix-koromaru-on-a-walk.json) |
+| Persona 3: Dancing in Moonlight - Atlus Selection Set | 362119 | [362119-persona-3-dancing-in-moonlight-atlus-selection-set.json](./362119-persona-3-dancing-in-moonlight-atlus-selection-set.json) |
+| Persona 3: Dancing in Moonlight - Battle Hymn of the Soul (PSB2017) | 362082 | [362082-persona-3-dancing-in-moonlight-battle-hymn-of-the-soul-psb2017.json](./362082-persona-3-dancing-in-moonlight-battle-hymn-of-the-soul-psb2017.json) |
+| Persona 3: Dancing in Moonlight - Changing Me | 362113 | [362113-persona-3-dancing-in-moonlight-changing-me.json](./362113-persona-3-dancing-in-moonlight-changing-me.json) |
+| Persona 3: Dancing in Moonlight - Chibi Investigation Team Set | 362124 | [362124-persona-3-dancing-in-moonlight-chibi-investigation-team-set.json](./362124-persona-3-dancing-in-moonlight-chibi-investigation-team-set.json) |
+| Persona 3: Dancing in Moonlight - Chibi Phantom Thieves Set | 362125 | [362125-persona-3-dancing-in-moonlight-chibi-phantom-thieves-set.json](./362125-persona-3-dancing-in-moonlight-chibi-phantom-thieves-set.json) |
+| Persona 3: Dancing in Moonlight - Chibi SEES Set | 362126 | [362126-persona-3-dancing-in-moonlight-chibi-sees-set.json](./362126-persona-3-dancing-in-moonlight-chibi-sees-set.json) |
+| Persona 3: Dancing in Moonlight - Chibi Velvet Room Residents + Zen & Rei Set | 362127 | [362127-persona-3-dancing-in-moonlight-chibi-velvet-room-residents-zen-and-rei-set.json](./362127-persona-3-dancing-in-moonlight-chibi-velvet-room-residents-zen-and-rei-set.json) |
+| Persona 3: Dancing in Moonlight - Colored Contacts Set | 362112 | [362112-persona-3-dancing-in-moonlight-colored-contacts-set.json](./362112-persona-3-dancing-in-moonlight-colored-contacts-set.json) |
+| Persona 3: Dancing in Moonlight - Colored Wig Set | 362111 | [362111-persona-3-dancing-in-moonlight-colored-wig-set.json](./362111-persona-3-dancing-in-moonlight-colored-wig-set.json) |
+| Persona 3: Dancing in Moonlight - Featherman Set | 362120 | [362120-persona-3-dancing-in-moonlight-featherman-set.json](./362120-persona-3-dancing-in-moonlight-featherman-set.json) |
+| Persona 3: Dancing in Moonlight - Goro Akechi in "Will Power" | 362110 | [362110-persona-3-dancing-in-moonlight-goro-akechi-in-will-power.json](./362110-persona-3-dancing-in-moonlight-goro-akechi-in-will-power.json) |
+| Persona 3: Dancing in Moonlight - Heartful Cry (Game Symphony Japan) | 362108 | [362108-persona-3-dancing-in-moonlight-heartful-cry-game-symphony-japan.json](./362108-persona-3-dancing-in-moonlight-heartful-cry-game-symphony-japan.json) |
+| Persona 3: Dancing in Moonlight - Labrys in "Today" | 362093 | [362093-persona-3-dancing-in-moonlight-labrys-in-today.json](./362093-persona-3-dancing-in-moonlight-labrys-in-today.json) |
+| Persona 3: Dancing in Moonlight - Lavenza in "Beneath the Mask" | 362085 | [362085-persona-3-dancing-in-moonlight-lavenza-in-beneath-the-mask.json](./362085-persona-3-dancing-in-moonlight-lavenza-in-beneath-the-mask.json) |
+| Persona 3: Dancing in Moonlight - Mass Destruction (Persona Music FES 2013) | 362105 | [362105-persona-3-dancing-in-moonlight-mass-destruction-persona-music-fes-2013.json](./362105-persona-3-dancing-in-moonlight-mass-destruction-persona-music-fes-2013.json) |
+| Persona 3: Dancing in Moonlight - Memories of You | 362080 | [362080-persona-3-dancing-in-moonlight-memories-of-you.json](./362080-persona-3-dancing-in-moonlight-memories-of-you.json) |
+| Persona 3: Dancing in Moonlight - Original Crossdressing Set | 362077 | [362077-persona-3-dancing-in-moonlight-original-crossdressing-set.json](./362077-persona-3-dancing-in-moonlight-original-crossdressing-set.json) |
+| Persona 3: Dancing in Moonlight - P4A/AU Set | 362086 | [362086-persona-3-dancing-in-moonlight-p4a-au-set.json](./362086-persona-3-dancing-in-moonlight-p4a-au-set.json) |
+| Persona 3: Dancing in Moonlight - P4A/AU Set (Alternate Color) | 362121 | [362121-persona-3-dancing-in-moonlight-p4a-au-set-alternate-color.json](./362121-persona-3-dancing-in-moonlight-p4a-au-set-alternate-color.json) |
+| Persona 3: Dancing in Moonlight - P5A "Break In to Break Out" (OP ver.) | 362109 | [362109-persona-3-dancing-in-moonlight-p5a-break-in-to-break-out-op-ver.json](./362109-persona-3-dancing-in-moonlight-p5a-break-in-to-break-out-op-ver.json) |
+| Persona 3: Dancing in Moonlight - P5A "Infinity" (ED ver.) | 362103 | [362103-persona-3-dancing-in-moonlight-p5a-infinity-ed-ver.json](./362103-persona-3-dancing-in-moonlight-p5a-infinity-ed-ver.json) |
+| Persona 3: Dancing in Moonlight - Race Queen Set | 362078 | [362078-persona-3-dancing-in-moonlight-race-queen-set.json](./362078-persona-3-dancing-in-moonlight-race-queen-set.json) |
+| Persona 3: Dancing in Moonlight - Shinjiro Aragaki in "Battle Hymn of the Soul" | 362090 | [362090-persona-3-dancing-in-moonlight-shinjiro-aragaki-in-battle-hymn-of-the-soul.json](./362090-persona-3-dancing-in-moonlight-shinjiro-aragaki-in-battle-hymn-of-the-soul.json) |
+| Persona 3: Dancing in Moonlight - Sho Minazuki in "Break Out Of... ATLUS Kitajoh Remix" | 362101 | [362101-persona-3-dancing-in-moonlight-sho-minazuki-in-break-out-of-atlus-kitajoh-remix.json](./362101-persona-3-dancing-in-moonlight-sho-minazuki-in-break-out-of-atlus-kitajoh-remix.json) |
+| Persona 3: Dancing in Moonlight - Theodore in "A Way of Life (Deep Inside My Mind Remix)" | 362095 | [362095-persona-3-dancing-in-moonlight-theodore-in-a-way-of-life-deep-inside-my-mind-remix.json](./362095-persona-3-dancing-in-moonlight-theodore-in-a-way-of-life-deep-inside-my-mind-remix.json) |
 | Persona 5 Tactica | 252729 | [252729-persona-5-tactica.json](./252729-persona-5-tactica.json) |
 | Personal Best | 369440 | [369440-personal-best.json](./369440-personal-best.json) |
 | Pet Society | 165165 | [165165-pet-society.json](./165165-pet-society.json) |
