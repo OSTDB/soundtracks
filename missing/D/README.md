@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalic Multiplayer Bundle | 366657 | [366657-daedalic-multiplayer-bundle.json](./366657-daedalic-multiplayer-bundle.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
+| Daimon Blades | 362092 | [362092-daimon-blades.json](./362092-daimon-blades.json) |
 | Daisy Goes to Slime Castle for Tea | 387203 | [387203-daisy-goes-to-slime-castle-for-tea.json](./387203-daisy-goes-to-slime-castle-for-tea.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
 | Damn Exam | 405427 | [405427-damn-exam.json](./405427-damn-exam.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Train VR | 61883 | [61883-death-train-vr.json](./61883-death-train-vr.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death Upon an Austrian Sonata: A Dana Knightstone Novel - Collector's Edition | 381435 | [381435-death-upon-an-austrian-sonata-a-dana-knightstone-novel-collectors-edition.json](./381435-death-upon-an-austrian-sonata-a-dana-knightstone-novel-collectors-edition.json) |
+| Death Wish | 362073 | [362073-death-wish.json](./362073-death-wish.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
 | Deathmark | 387248 | [387248-deathmark.json](./387248-deathmark.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
 | Domain of Hallucination | 371715 | [371715-domain-of-hallucination.json](./371715-domain-of-hallucination.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
+| Dome Keeper: Multiplayer Update | 362083 | [362083-dome-keeper-multiplayer-update.json](./362083-dome-keeper-multiplayer-update.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
 | Don't Crack! | 390418 | [390418-dont-crack.json](./390418-dont-crack.json) |
