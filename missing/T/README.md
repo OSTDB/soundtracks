@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island: Abandoned Enigma | 402770 | [402770-treasure-island-abandoned-enigma.json](./402770-treasure-island-abandoned-enigma.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
+| Trials of Olympus | 392622 | [392622-trials-of-olympus.json](./392622-trials-of-olympus.json) |
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
