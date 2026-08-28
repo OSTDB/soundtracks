@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wealdfall Squirrel | 412152 | [412152-wealdfall-squirrel.json](./412152-wealdfall-squirrel.json) |
 | Weapon of Choice | 23028 | [23028-weapon-of-choice.json](./23028-weapon-of-choice.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
+| Webscape | 387883 | [387883-webscape.json](./387883-webscape.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weeb Store Simulator: Supermarket Together | 388610 | [388610-weeb-store-simulator-supermarket-together.json](./388610-weeb-store-simulator-supermarket-together.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
+| White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
 | Who is Here? | 394736 | [394736-who-is-here.json](./394736-who-is-here.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who Wants to Be an Ultimate? Retake | 399525 | [399525-who-wants-to-be-an-ultimate-retake.json](./399525-who-wants-to-be-an-ultimate-retake.json) |
@@ -148,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
 | Without a Hitch: Steam Exclusive - Valve Hat | 407229 | [407229-without-a-hitch-steam-exclusive-valve-hat.json](./407229-without-a-hitch-steam-exclusive-valve-hat.json) |
+| Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
@@ -175,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships X Azur Lane: Quest for Al Avrora | 400105 | [400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json](./400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json) |
 | World Ship Simulator | 34401 | [34401-world-ship-simulator.json](./34401-world-ship-simulator.json) |
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
+| World War Z x The Walking Dead | 387889 | [387889-world-war-z-x-the-walking-dead.json](./387889-world-war-z-x-the-walking-dead.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
 | World's Greatest Author | 400788 | [400788-worlds-greatest-author.json](./400788-worlds-greatest-author.json) |
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
