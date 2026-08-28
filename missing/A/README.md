@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
+| Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Sarge's War | 2702 | [2702-army-men-sarges-war.json](./2702-army-men-sarges-war.json) |
 | Army Men: Toys in Space | 27454 | [27454-army-men-toys-in-space.json](./27454-army-men-toys-in-space.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim | 18208 | [18208-army-of-tentacles-not-a-cthulhu-dating-sim.json](./18208-army-of-tentacles-not-a-cthulhu-dating-sim.json) |
+| Aromantic Confession | 406623 | [406623-aromantic-confession.json](./406623-aromantic-confession.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
