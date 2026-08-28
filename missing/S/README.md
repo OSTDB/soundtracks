@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Sangokuden Brave Battle Warriors Shin Mirisha Taisen | 66458 | [66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json](./66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json) |
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
+| Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
 | Settle or Sweep | 412861 | [412861-settle-or-sweep.json](./412861-settle-or-sweep.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
+| Seventh Mansion: The First Escape | 403505 | [403505-seventh-mansion-the-first-escape.json](./403505-seventh-mansion-the-first-escape.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
@@ -109,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
+| Shadow Saloon | 403481 | [403481-shadow-saloon.json](./403481-shadow-saloon.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
@@ -194,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | Sky Gamblers: Air Supremacy | 62448 | [62448-sky-gamblers-air-supremacy.json](./62448-sky-gamblers-air-supremacy.json) |
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
+| Sky Sword Strategy | 403512 | [403512-sky-sword-strategy.json](./403512-sky-sword-strategy.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
@@ -208,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
 | Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
+| Slender PSP | 403516 | [403516-slender-psp.json](./403516-slender-psp.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
