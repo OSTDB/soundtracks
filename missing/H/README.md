@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Roulette | 412154 | [412154-hell-roulette.json](./412154-hell-roulette.json) |
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
+| Hell Storage | 389868 | [389868-hell-storage.json](./389868-hell-storage.json) |
 | HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Sprint | 401397 | [401397-honey-sprint.json](./401397-honey-sprint.json) |
 | Honeysuckle | 398865 | [398865-honeysuckle.json](./398865-honeysuckle.json) |
 | Honeysuckle | 398864 | [398864-honeysuckle.json](./398864-honeysuckle.json) |
+| Hong Huang Evolution | 389892 | [389892-hong-huang-evolution.json](./389892-hong-huang-evolution.json) |
 | Hong Kong Ninja | 404107 | [404107-hong-kong-ninja.json](./404107-hong-kong-ninja.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
