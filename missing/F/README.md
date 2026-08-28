@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
 | Farming Simulator 25: Emergency Pack | 410125 | [410125-farming-simulator-25-emergency-pack.json](./410125-farming-simulator-25-emergency-pack.json) |
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
+| Farming Simulator 25: Vredo Pack | 392661 | [392661-farming-simulator-25-vredo-pack.json](./392661-farming-simulator-25-vredo-pack.json) |
 | Farming Simulator 26: Nintendo Switch Edition | 396105 | [396105-farming-simulator-26-nintendo-switch-edition.json](./396105-farming-simulator-26-nintendo-switch-edition.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
 | Footy Golf | 394029 | [394029-footy-golf.json](./394029-footy-golf.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
+| Forage & Brew | 392675 | [392675-forage-and-brew.json](./392675-forage-and-brew.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Force of Elements | 15573 | [15573-force-of-elements.json](./15573-force-of-elements.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
@@ -247,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
 | Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
+| Fritz Chess 20 Steam Edition | 392656 | [392656-fritz-chess-20-steam-edition.json](./392656-fritz-chess-20-steam-edition.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
 | Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
