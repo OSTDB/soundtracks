@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
+| Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
