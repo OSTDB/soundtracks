@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pancakes: The Stacking Game | 396825 | [396825-pancakes-the-stacking-game.json](./396825-pancakes-the-stacking-game.json) |
+| Panda Poet | 396047 | [396047-panda-poet.json](./396047-panda-poet.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
@@ -134,6 +135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
 | Pith | 412176 | [412176-pith.json](./412176-pith.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
+| Pixel Game Maker Series: Denizens of Darkwind | 396113 | [396113-pixel-game-maker-series-denizens-of-darkwind.json](./396113-pixel-game-maker-series-denizens-of-darkwind.json) |
+| Pixel Game Maker Series: MagicalShot The AttackBump | 396114 | [396114-pixel-game-maker-series-magicalshot-the-attackbump.json](./396114-pixel-game-maker-series-magicalshot-the-attackbump.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Into the Galaxy | 400782 | [400782-pixel-into-the-galaxy.json](./400782-pixel-into-the-galaxy.json) |
@@ -216,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
 | Postin Paradise | 406022 | [406022-postin-paradise.json](./406022-postin-paradise.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
+| Potted Pets | 396093 | [396093-potted-pets.json](./396093-potted-pets.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
 | Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
 | Power Hover | 30402 | [30402-power-hover.json](./30402-power-hover.json) |
@@ -254,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
+| Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
