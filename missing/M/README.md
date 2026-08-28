@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Donkey Kong: Mini-Land Mayhem! | 21093 | [21093-mario-vs-donkey-kong-mini-land-mayhem.json](./21093-mario-vs-donkey-kong-mini-land-mayhem.json) |
 | Mario's Time Machine | 48133 | [48133-marios-time-machine.json](./48133-marios-time-machine.json) |
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
+| Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
