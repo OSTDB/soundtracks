@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Cottage Witch | 402149 | [402149-cottage-witch.json](./402149-cottage-witch.json) |
+| Couch Planes | 362087 | [362087-couch-planes.json](./362087-couch-planes.json) |
 | Count | 372292 | [372292-count.json](./372292-count.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
 | Counter Attack | 396092 | [396092-counter-attack.json](./396092-counter-attack.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Craterville | 381436 | [381436-craterville.json](./381436-craterville.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
+| Crayola 3D Castle Creator | 362123 | [362123-crayola-3d-castle-creator.json](./362123-crayola-3d-castle-creator.json) |
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
 | Crayon Halloween | 373959 | [373959-crayon-halloween.json](./373959-crayon-halloween.json) |
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
