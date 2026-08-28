@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Heavenly Island | 407964 | [407964-heavenly-island.json](./407964-heavenly-island.json) |
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
+| Heavy Knight | 403509 | [403509-heavy-knight.json](./403509-heavy-knight.json) |
 | Heckabomb | 35880 | [35880-heckabomb.json](./35880-heckabomb.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
 | Hee-Hee Horror | 410779 | [410779-hee-hee-horror.json](./410779-hee-hee-horror.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill Climb Legends | 405387 | [405387-hill-climb-legends.json](./405387-hill-climb-legends.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
+| Hip Hop Immortals | 403477 | [403477-hip-hop-immortals.json](./403477-hip-hop-immortals.json) |
 | Hip-Hop Trivia: Starring Murs | 20941 | [20941-hip-hop-trivia-starring-murs.json](./20941-hip-hop-trivia-starring-murs.json) |
 | Hipster Attack | 107617 | [107617-hipster-attack.json](./107617-hipster-attack.json) |
 | Hitman Classic Trilogy Remastered | 404745 | [404745-hitman-classic-trilogy-remastered.json](./404745-hitman-classic-trilogy-remastered.json) |
@@ -168,3 +170,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
 | Hyrule Warriors: Age of Calamity | 138343 | [138343-hyrule-warriors-age-of-calamity.json](./138343-hyrule-warriors-age-of-calamity.json) |
 | Hyrule Warriors: Definitive Edition | 81147 | [81147-hyrule-warriors-definitive-edition.json](./81147-hyrule-warriors-definitive-edition.json) |
+| Hyve | 403454 | [403454-hyve.json](./403454-hyve.json) |
