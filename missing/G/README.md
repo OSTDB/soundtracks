@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
 | Game Settings | 365478 | [365478-game-settings.json](./365478-game-settings.json) |
+| Game Shop Simulator | 359267 | [359267-game-shop-simulator.json](./359267-game-shop-simulator.json) |
 | Game Tycoon 2 | 34414 | [34414-game-tycoon-2.json](./34414-game-tycoon-2.json) |
 | Gamer Career Tycoon | 86611 | [86611-gamer-career-tycoon.json](./86611-gamer-career-tycoon.json) |
 | Gamer Simulator | 34462 | [34462-gamer-simulator.json](./34462-gamer-simulator.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitten | 379775 | [379775-gravitten.json](./379775-gravitten.json) |
 | GravityMan | 366049 | [366049-gravityman.json](./366049-gravityman.json) |
 | Gravosphere | 368334 | [368334-gravosphere.json](./368334-gravosphere.json) |
+| Gray Goo | 359252 | [359252-gray-goo.json](./359252-gray-goo.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
@@ -321,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
 | Gulpy Gulpy! | 365492 | [365492-gulpy-gulpy.json](./365492-gulpy-gulpy.json) |
+| Gumball Guesser | 359268 | [359268-gumball-guesser.json](./359268-gumball-guesser.json) |
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
