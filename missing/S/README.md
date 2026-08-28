@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
 | Shadows Of Lir'Ah | 378057 | [378057-shadows-of-lirah.json](./378057-shadows-of-lirah.json) |
+| Shadowverse: Worlds Beyond - Skybound Dragons | 376300 | [376300-shadowverse-worlds-beyond-skybound-dragons.json](./376300-shadowverse-worlds-beyond-skybound-dragons.json) |
 | Shai’s Gambit | 391491 | [391491-shai-s-gambit.json](./391491-shai-s-gambit.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Showdown Next Week! | 376288 | [376288-showdown-next-week.json](./376288-showdown-next-week.json) |
 | Shroomwood | 378644 | [378644-shroomwood.json](./378644-shroomwood.json) |
 | Shrug Tides | 386011 | [386011-shrug-tides.json](./386011-shrug-tides.json) |
 | Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
@@ -502,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Mates | 410143 | [410143-stack-mates.json](./410143-stack-mates.json) |
 | Stack Prootocol | 378633 | [378633-stack-prootocol.json](./378633-stack-prootocol.json) |
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
+| Stack-Erz | 376323 | [376323-stack-erz.json](./376323-stack-erz.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
 | Stained Blade | 387868 | [387868-stained-blade.json](./387868-stained-blade.json) |
@@ -670,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
+| Super Dimensional Creator | 376302 | [376302-super-dimensional-creator.json](./376302-super-dimensional-creator.json) |
 | Super Doot Sunshine | 387856 | [387856-super-doot-sunshine.json](./387856-super-doot-sunshine.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Fluid Hyper Flow! | 412181 | [412181-super-fluid-hyper-flow.json](./412181-super-fluid-hyper-flow.json) |
@@ -754,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Vampire | 382028 | [382028-sweet-vampire.json](./382028-sweet-vampire.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Sweetie Candy Maze: Coral Peach | 412151 | [412151-sweetie-candy-maze-coral-peach.json](./412151-sweetie-candy-maze-coral-peach.json) |
+| Sweetie Candy Maze: Yellow Lemon | 376328 | [376328-sweetie-candy-maze-yellow-lemon.json](./376328-sweetie-candy-maze-yellow-lemon.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword and Shield | 76771 | [76771-sword-and-shield.json](./76771-sword-and-shield.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
@@ -773,4 +778,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
+| Synthwave Smashers | 376284 | [376284-synthwave-smashers.json](./376284-synthwave-smashers.json) |
 | SynthwaveZ | 395417 | [395417-synthwavez.json](./395417-synthwavez.json) |
