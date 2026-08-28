@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | iCraps | 87639 | [87639-icraps.json](./87639-icraps.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
+| Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
