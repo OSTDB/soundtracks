@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
+| Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Lust Anime: Egyptian Goddess Cleopatra | 404723 | [404723-lust-anime-egyptian-goddess-cleopatra.json](./404723-lust-anime-egyptian-goddess-cleopatra.json) |
 | Lux Anima | 406583 | [406583-lux-anima.json](./406583-lux-anima.json) |
