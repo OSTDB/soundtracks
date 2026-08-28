@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
+| Beasts That Swim | 370543 | [370543-beasts-that-swim.json](./370543-beasts-that-swim.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
 | Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
 | Beauty Store Simulator | 374490 | [374490-beauty-store-simulator.json](./374490-beauty-store-simulator.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
+| Beer Mania | 370497 | [370497-beer-mania.json](./370497-beer-mania.json) |
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines | 31447 | [31447-beyond-enemy-lines.json](./31447-beyond-enemy-lines.json) |
 | Beyond Good & Evil: 20th Anniversary Edition | 278326 | [278326-beyond-good-and-evil-20th-anniversary-edition.json](./278326-beyond-good-and-evil-20th-anniversary-edition.json) |
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
+| Beyond R: Rule Ripper | 370530 | [370530-beyond-r-rule-ripper.json](./370530-beyond-r-rule-ripper.json) |
 | Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
@@ -288,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
+| Blunderworld | 370524 | [370524-blunderworld.json](./370524-blunderworld.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Bob the Brick Breaker | 378041 | [378041-bob-the-brick-breaker.json](./378041-bob-the-brick-breaker.json) |
 | Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
@@ -432,4 +436,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
 | Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
+| Bye-Bye, Watashi no Hajimete no Koi | 370532 | [370532-bye-bye-watashi-no-hajimete-no-koi.json](./370532-bye-bye-watashi-no-hajimete-no-koi.json) |
 | Bytepath | 86519 | [86519-bytepath.json](./86519-bytepath.json) |
