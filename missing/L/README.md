@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
 | LEGO Rock Raiders | 2157 | [2157-lego-rock-raiders.json](./2157-lego-rock-raiders.json) |
+| LEGO Skylines | 414994 | [414994-lego-skylines.json](./414994-lego-skylines.json) |
 | LEGO Star Wars: Microfighters | 20937 | [20937-lego-star-wars-microfighters.json](./20937-lego-star-wars-microfighters.json) |
 | LEGO Star Wars: The Force Awakens | 17030 | [17030-lego-star-wars-the-force-awakens.json](./17030-lego-star-wars-the-force-awakens.json) |
 | LEGO Star Wars: The Video Game | 2681 | [2681-lego-star-wars-the-video-game.json](./2681-lego-star-wars-the-video-game.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lift It | 34464 | [34464-lift-it.json](./34464-lift-it.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
+| Like or Die | 415004 | [415004-like-or-die.json](./415004-like-or-die.json) |
 | Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
@@ -76,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
 | Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
+| Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
