@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City Defense 2 | 22806 | [22806-zombie-city-defense-2.json](./22806-zombie-city-defense-2.json) |
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
+| Zombie Emperor | 387862 | [387862-zombie-emperor.json](./387862-zombie-emperor.json) |
 | Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
 | Zombie Playground | 15316 | [15316-zombie-playground.json](./15316-zombie-playground.json) |
 | Zombie Solitaire 2 Chapter 3 | 86499 | [86499-zombie-solitaire-2-chapter-3.json](./86499-zombie-solitaire-2-chapter-3.json) |
