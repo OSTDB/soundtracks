@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
+| Eiga Sumikko Gurashi Sora no Oukoku to Futari no ko Asobou Chara Cross | 369420 | [369420-eiga-sumikko-gurashi-sora-no-oukoku-to-futari-no-ko-asobou-chara-cross.json](./369420-eiga-sumikko-gurashi-sora-no-oukoku-to-futari-no-ko-asobou-chara-cross.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
 | Eight Strange Corridors | 376341 | [376341-eight-strange-corridors.json](./376341-eight-strange-corridors.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Endless Summer Syndrome | 409434 | [409434-endless-summer-syndrome.json](./409434-endless-summer-syndrome.json) |
+| Enemy Territory Terrorists Takedown | 369390 | [369390-enemy-territory-terrorists-takedown.json](./369390-enemy-territory-terrorists-takedown.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Energy Bundle | 371728 | [371728-energy-bundle.json](./371728-energy-bundle.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
