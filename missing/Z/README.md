@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zulu Response | 34494 | [34494-zulu-response.json](./34494-zulu-response.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zuma's Revenge!: Adventure | 405407 | [405407-zumas-revenge-adventure.json](./405407-zumas-revenge-adventure.json) |
+| Zumba: Marble Zombie Invasion | 373954 | [373954-zumba-marble-zombie-invasion.json](./373954-zumba-marble-zombie-invasion.json) |
 | ZuOnline | 379737 | [379737-zuonline.json](./379737-zuonline.json) |
 | Zup! 6 | 54810 | [54810-zup-6.json](./54810-zup-6.json) |
 | Zup! 8 | 86571 | [86571-zup-8.json](./86571-zup-8.json) |
