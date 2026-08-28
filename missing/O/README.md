@@ -124,6 +124,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Fall: Biohazard | 394737 | [394737-outbreak-fall-biohazard.json](./394737-outbreak-fall-biohazard.json) |
 | Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
+| Outlanders: Complete Edition | 373405 | [373405-outlanders-complete-edition.json](./373405-outlanders-complete-edition.json) |
+| Outlanders: DLC Pack | 373406 | [373406-outlanders-dlc-pack.json](./373406-outlanders-dlc-pack.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
 | Outward: Definitive Edition | 201935 | [201935-outward-definitive-edition.json](./201935-outward-definitive-edition.json) |
 | Over the Alps | 125509 | [125509-over-the-alps.json](./125509-over-the-alps.json) |
