@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
+| Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
 | Subdivision Infinity | 87618 | [87618-subdivision-infinity.json](./87618-subdivision-infinity.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
+| Subject55 | 400154 | [400154-subject55.json](./400154-subject55.json) |
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
