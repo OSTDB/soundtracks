@@ -11,10 +11,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboomania | 413569 | [413569-kaboomania.json](./413569-kaboomania.json) |
 | Kacha Fruit Cut | 404156 | [404156-kacha-fruit-cut.json](./404156-kacha-fruit-cut.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
+| Kana.exe | 386009 | [386009-kana-exe.json](./386009-kana-exe.json) |
 | Kàngzhàn Shènglì 70 Zhōunián Dà Yuèbīng Zhè Tiān Wǒ Lǎopó Tūrán Xiāoshī Le | 395419 | [395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json](./395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kapuritto-kyu Minigame Collection | 391479 | [391479-kapuritto-kyu-minigame-collection.json](./391479-kapuritto-kyu-minigame-collection.json) |
 | Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
+| KARANTIIN | 386004 | [386004-karantiin.json](./386004-karantiin.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
@@ -119,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kupar: Horror Mystery | 414235 | [414235-kupar-horror-mystery.json](./414235-kupar-horror-mystery.json) |
 | Kurage no Gakkou | 393338 | [393338-kurage-no-gakkou.json](./393338-kurage-no-gakkou.json) |
 | Kuroko's Basketball Street Rivals | 410781 | [410781-kurokos-basketball-street-rivals.json](./410781-kurokos-basketball-street-rivals.json) |
+| Kuru | 386003 | [386003-kuru.json](./386003-kuru.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
 | Kvartirant | 387236 | [387236-kvartirant.json](./387236-kvartirant.json) |
