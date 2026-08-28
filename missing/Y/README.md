@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
+| You and Choice | 392667 | [392667-you-and-choice.json](./392667-you-and-choice.json) |
 | You Are Disabled | 14739 | [14739-you-are-disabled.json](./14739-you-are-disabled.json) |
 | You Don't Know Jack Headrush | 16788 | [16788-you-dont-know-jack-headrush.json](./16788-you-dont-know-jack-headrush.json) |
 | You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
