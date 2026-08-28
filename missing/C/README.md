@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
+| Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
+| Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
@@ -252,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
 | Creep Tank | 408652 | [408652-creep-tank.json](./408652-creep-tank.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
+| Cresata | 407972 | [407972-cresata.json](./407972-cresata.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
