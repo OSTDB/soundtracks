@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Return to Dream Land Deluxe | 217565 | [217565-kirbys-return-to-dream-land-deluxe.json](./217565-kirbys-return-to-dream-land-deluxe.json) |
 | Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
+| Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
 | Kitty Powers' Matchmaker | 11421 | [11421-kitty-powers-matchmaker.json](./11421-kitty-powers-matchmaker.json) |
 | Klonoa Beach Volleyball | 22702 | [22702-klonoa-beach-volleyball.json](./22702-klonoa-beach-volleyball.json) |
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
+| Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
 | Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
