@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
+| PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
+| Pith | 412176 | [412176-pith.json](./412176-pith.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
@@ -179,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
 | Pro Race Driver | 2483 | [2483-pro-race-driver.json](./2483-pro-race-driver.json) |
+| Probably Stolen | 412177 | [412177-probably-stolen.json](./412177-probably-stolen.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
