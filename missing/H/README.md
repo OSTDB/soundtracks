@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
+| Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heaven Island - VR MMO | 34476 | [34476-heaven-island-vr-mmo.json](./34476-heaven-island-vr-mmo.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
+| Heavenly Island | 407964 | [407964-heavenly-island.json](./407964-heavenly-island.json) |
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
 | Heckabomb | 35880 | [35880-heckabomb.json](./35880-heckabomb.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
+| Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
