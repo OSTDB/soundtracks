@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
+| Oblivion 2666 | 410132 | [410132-oblivion-2666.json](./410132-oblivion-2666.json) |
 | Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
