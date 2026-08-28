@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
 | Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
+| Rogue Stradale | 396794 | [396794-rogue-stradale.json](./396794-rogue-stradale.json) |
 | Rogue System | 22837 | [22837-rogue-system.json](./22837-rogue-system.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
