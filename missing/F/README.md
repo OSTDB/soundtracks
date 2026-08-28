@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
 | Fantastic Journey | 386582 | [386582-fantastic-journey.json](./386582-fantastic-journey.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
+| Fantasy Digging a Hole | 359797 | [359797-fantasy-digging-a-hole.json](./359797-fantasy-digging-a-hole.json) |
 | Fantasy Franchise | 373939 | [373939-fantasy-franchise.json](./373939-fantasy-franchise.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
 | Fantasy Mosaics 10: Time Travel | 365470 | [365470-fantasy-mosaics-10-time-travel.json](./365470-fantasy-mosaics-10-time-travel.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
 | Farming Simulator 25: Emergency Pack | 410125 | [410125-farming-simulator-25-emergency-pack.json](./410125-farming-simulator-25-emergency-pack.json) |
+| Farming Simulator 25: Mercedes-Benz Trucks Pack | 359781 | [359781-farming-simulator-25-mercedes-benz-trucks-pack.json](./359781-farming-simulator-25-mercedes-benz-trucks-pack.json) |
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
 | Farming Simulator 25: Vredo Pack | 392661 | [392661-farming-simulator-25-vredo-pack.json](./392661-farming-simulator-25-vredo-pack.json) |
 | Farming Simulator 26: Nintendo Switch Edition | 396105 | [396105-farming-simulator-26-nintendo-switch-edition.json](./396105-farming-simulator-26-nintendo-switch-edition.json) |
