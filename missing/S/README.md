@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Photo Africa: Wild Earth | 23779 | [23779-safari-photo-africa-wild-earth.json](./23779-safari-photo-africa-wild-earth.json) |
 | SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
+| Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | SakaTsuku DS: Touch and Direct | 406627 | [406627-sakatsuku-ds-touch-and-direct.json](./406627-sakatsuku-ds-touch-and-direct.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
 | Settle or Sweep | 412861 | [412861-settle-or-sweep.json](./412861-settle-or-sweep.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
+| Sevens | 393325 | [393325-sevens.json](./393325-sevens.json) |
 | Seventh Mansion: The First Escape | 403505 | [403505-seventh-mansion-the-first-escape.json](./403505-seventh-mansion-the-first-escape.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | SeverSoul Xookeeper | 396097 | [396097-seversoul-xookeeper.json](./396097-seversoul-xookeeper.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
+| Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
@@ -246,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
 | Slot Theory | 398896 | [398896-slot-theory.json](./398896-slot-theory.json) |
+| Slutty Wife | 393367 | [393367-slutty-wife.json](./393367-slutty-wife.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Small Bee | 396800 | [396800-small-bee.json](./396800-small-bee.json) |
@@ -298,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
+| Song of the Wind | 393336 | [393336-song-of-the-wind.json](./393336-song-of-the-wind.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
@@ -526,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
+| Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
@@ -613,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
+| Sweet Elf | 393363 | [393363-sweet-elf.json](./393363-sweet-elf.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Sweetie Candy Maze: Coral Peach | 412151 | [412151-sweetie-candy-maze-coral-peach.json](./412151-sweetie-candy-maze-coral-peach.json) |
