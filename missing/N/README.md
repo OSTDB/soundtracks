@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: Under the Genie's Thumb - Collector's Edition | 382631 | [382631-new-yankee-under-the-genies-thumb-collectors-edition.json](./382631-new-yankee-under-the-genies-thumb-collectors-edition.json) |
 | New York Mysteries: The Outbreak | 126782 | [126782-new-york-mysteries-the-outbreak.json](./126782-new-york-mysteries-the-outbreak.json) |
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
+| Next of Kin Duo Bundle | 373398 | [373398-next-of-kin-duo-bundle.json](./373398-next-of-kin-duo-bundle.json) |
 | NextWorld2 | 307930 | [307930-nextworld2.json](./307930-nextworld2.json) |
 | Nexuiz | 10595 | [10595-nexuiz.json](./10595-nexuiz.json) |
 | Nexvultus | 393359 | [393359-nexvultus.json](./393359-nexvultus.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niph | 391467 | [391467-niph.json](./391467-niph.json) |
 | Nira: Across Skies | 384938 | [384938-nira-across-skies.json](./384938-nira-across-skies.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
+| Nitroglycerine! | 373362 | [373362-nitroglycerine.json](./373362-nitroglycerine.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
