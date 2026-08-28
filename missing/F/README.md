@@ -162,6 +162,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
 | Fishing Master | 400772 | [400772-fishing-master.json](./400772-fishing-master.json) |
+| Fishing Planet: Bottom Power Pack | 376290 | [376290-fishing-planet-bottom-power-pack.json](./376290-fishing-planet-bottom-power-pack.json) |
+| Fishing Planet: Club Enthusiast Pack | 376292 | [376292-fishing-planet-club-enthusiast-pack.json](./376292-fishing-planet-club-enthusiast-pack.json) |
+| Fishing Planet: Hellfish Fighter Pack | 376293 | [376293-fishing-planet-hellfish-fighter-pack.json](./376293-fishing-planet-hellfish-fighter-pack.json) |
+| Fishing Planet: Holiday Pack | 376294 | [376294-fishing-planet-holiday-pack.json](./376294-fishing-planet-holiday-pack.json) |
+| Fishing Planet: Metalhead Motorboat Pack | 376291 | [376291-fishing-planet-metalhead-motorboat-pack.json](./376291-fishing-planet-metalhead-motorboat-pack.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
@@ -273,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
+| Freedom Planet Plus | 376353 | [376353-freedom-planet-plus.json](./376353-freedom-planet-plus.json) |
 | Freefall Tournament | 102152 | [102152-freefall-tournament.json](./102152-freefall-tournament.json) |
 | Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
