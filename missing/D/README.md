@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disoriented | 30503 | [30503-disoriented.json](./30503-disoriented.json) |
 | Dispatch | 181624 | [181624-dispatch.json](./181624-dispatch.json) |
 | Dispatch: Digital Deluxe Edition | 378015 | [378015-dispatch-digital-deluxe-edition.json](./378015-dispatch-digital-deluxe-edition.json) |
+| Dispatch: Episode 3 - Turnover | 376943 | [376943-dispatch-episode-3-turnover.json](./376943-dispatch-episode-3-turnover.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Dissolution of the Silent Union | 402212 | [402212-dissolution-of-the-silent-union.json](./402212-dissolution-of-the-silent-union.json) |
