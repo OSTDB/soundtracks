@@ -137,6 +137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
+| Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
