@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy 2 | 76668 | [76668-chocolate-makes-you-happy-2.json](./76668-chocolate-makes-you-happy-2.json) |
 | Chocolatier: Decadence by Design | 14999 | [14999-chocolatier-decadence-by-design.json](./14999-chocolatier-decadence-by-design.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
+| Chompers Playhouse: Chapter 1 | 396060 | [396060-chompers-playhouse-chapter-1.json](./396060-chompers-playhouse-chapter-1.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
 | Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
+| Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
@@ -237,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
 | Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
+| Console Archives: Terra Cresta | 396096 | [396096-console-archives-terra-cresta.json](./396096-console-archives-terra-cresta.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
@@ -252,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Definitive Edition | 402173 | [402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json](./402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json) |
+| Cool Story Bro! | 396054 | [396054-cool-story-bro.json](./396054-cool-story-bro.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
@@ -267,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Cottage Witch | 402149 | [402149-cottage-witch.json](./402149-cottage-witch.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
+| Counter Attack | 396092 | [396092-counter-attack.json](./396092-counter-attack.json) |
 | Counter Terrorist Agency | 110697 | [110697-counter-terrorist-agency.json](./110697-counter-terrorist-agency.json) |
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
@@ -305,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Crimson Loop | 402794 | [402794-crimson-loop.json](./402794-crimson-loop.json) |
