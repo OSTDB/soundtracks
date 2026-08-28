@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
+| Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
+| Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
