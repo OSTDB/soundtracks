@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
+| Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
 | Ride! Carnival Tycoon | 15788 | [15788-ride-carnival-tycoon.json](./15788-ride-carnival-tycoon.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
 | Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
 | RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
