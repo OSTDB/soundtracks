@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
 | Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
 | Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
+| Techmino | 371732 | [371732-techmino.json](./371732-techmino.json) |
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Technotron Defense | 77172 | [77172-technotron-defense.json](./77172-technotron-defense.json) |
 | Tecmo Bowl | 285764 | [285764-tecmo-bowl.json](./285764-tecmo-bowl.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Teleportal | 380850 | [380850-teleportal.json](./380850-teleportal.json) |
+| Tellyport | 371704 | [371704-tellyport.json](./371704-tellyport.json) |
 | Temari Trials: Dojo's Test | 387859 | [387859-temari-trials-dojos-test.json](./387859-temari-trials-dojos-test.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
@@ -211,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Final Shift | 379773 | [379773-the-final-shift.json](./379773-the-final-shift.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
+| The Floor Above | 371729 | [371729-the-floor-above.json](./371729-the-floor-above.json) |
 | The Florist | 375635 | [375635-the-florist.json](./375635-the-florist.json) |
 | The Forest of Doom | 16938 | [16938-the-forest-of-doom.json](./16938-the-forest-of-doom.json) |
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
@@ -623,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
 | Traditional Tactics With Sess-AI 2.0 | 376356 | [376356-traditional-tactics-with-sess-ai-2-0.json](./376356-traditional-tactics-with-sess-ai-2-0.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
+| Train Hero | 371651 | [371651-train-hero.json](./371651-train-hero.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
 | Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
@@ -674,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triz \| Triangular Dreaming | 390394 | [390394-triz-triangular-dreaming.json](./390394-triz-triangular-dreaming.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
 | Trombone Champ Unflattened: Disney Movie Magic Vol. 1 | 413539 | [413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json](./413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json) |
+| Trophy Phishing | 371730 | [371730-trophy-phishing.json](./371730-trophy-phishing.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
 | Tropico 4: Gold Edition | 24226 | [24226-tropico-4-gold-edition.json](./24226-tropico-4-gold-edition.json) |
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
