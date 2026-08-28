@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rampage | 383824 | [383824-robot-rampage.json](./383824-robot-rampage.json) |
 | Robot Recycler Ryn | 379231 | [379231-robot-recycler-ryn.json](./379231-robot-recycler-ryn.json) |
 | Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
+| Robot-LE | 375005 | [375005-robot-le.json](./375005-robot-le.json) |
 | Robot-Mail Rush | 378047 | [378047-robot-mail-rush.json](./378047-robot-mail-rush.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
