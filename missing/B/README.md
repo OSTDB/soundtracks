@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
+| Beak the Hunter | 376327 | [376327-beak-the-hunter.json](./376327-beak-the-hunter.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Bearly Flying | 379747 | [379747-bearly-flying.json](./379747-bearly-flying.json) |
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
+| Ben 10 Destroy All Aliens | 376310 | [376310-ben-10-destroy-all-aliens.json](./376310-ben-10-destroy-all-aliens.json) |
 | Ben Chandler: Paranormal Investigator | 383241 | [383241-ben-chandler-paranormal-investigator.json](./383241-ben-chandler-paranormal-investigator.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
@@ -332,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazzante | 387882 | [387882-brazzante.json](./387882-brazzante.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
+| Breachers: Cashflow Bundle | 376329 | [376329-breachers-cashflow-bundle.json](./376329-breachers-cashflow-bundle.json) |
 | Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
 | Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
 | Break Shoot | 390416 | [390416-break-shoot.json](./390416-break-shoot.json) |
@@ -364,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubble Sweeper | 384376 | [384376-bubble-sweeper.json](./384376-bubble-sweeper.json) |
+| Bubble Tea Sort | 376334 | [376334-bubble-tea-sort.json](./376334-bubble-tea-sort.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budgie's Bug Shop | 389905 | [389905-budgies-bug-shop.json](./389905-budgies-bug-shop.json) |
