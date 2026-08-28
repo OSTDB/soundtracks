@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
+| Neon City | 383833 | [383833-neon-city.json](./383833-neon-city.json) |
 | Neon Mind | 384406 | [384406-neon-mind.json](./384406-neon-mind.json) |
 | Neon Oblivion: Prelude | 404109 | [404109-neon-oblivion-prelude.json](./404109-neon-oblivion-prelude.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Sun | 86405 | [86405-neon-sun.json](./86405-neon-sun.json) |
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
+| Nest of Dust | 383801 | [383801-nest-of-dust.json](./383801-nest-of-dust.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
@@ -109,8 +111,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightbell | 395408 | [395408-nightbell.json](./395408-nightbell.json) |
 | Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
+| Nightfall | 383826 | [383826-nightfall.json](./383826-nightfall.json) |
 | Nightfall Berlin | 386572 | [386572-nightfall-berlin.json](./386572-nightfall-berlin.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
+| Nightlight | 383808 | [383808-nightlight.json](./383808-nightlight.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
 | NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
