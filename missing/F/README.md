@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Fechtbucher | 373918 | [373918-fechtbucher.json](./373918-fechtbucher.json) |
 | Feed My Mech | 374476 | [374476-feed-my-mech.json](./374476-feed-my-mech.json) |
+| Feed the Greed | 366061 | [366061-feed-the-greed.json](./366061-feed-the-greed.json) |
 | Feed The Void | 389311 | [389311-feed-the-void.json](./389311-feed-the-void.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Formation | 368837 | [368837-final-formation.json](./368837-final-formation.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
 | Find All: Christmas 2025 | 382656 | [382656-find-all-christmas-2025.json](./382656-find-all-christmas-2025.json) |
+| Find Kittens 5: Magic Tree | 366084 | [366084-find-kittens-5-magic-tree.json](./366084-find-kittens-5-magic-tree.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
 | Find the Cats | 407935 | [407935-find-the-cats.json](./407935-find-the-cats.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
