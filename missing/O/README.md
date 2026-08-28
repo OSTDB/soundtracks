@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Island Hustle | 406021 | [406021-oil-island-hustle.json](./406021-oil-island-hustle.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Oink & Collect | 410769 | [410769-oink-and-collect.json](./410769-oink-and-collect.json) |
+| OK Boomer | 403480 | [403480-ok-boomer.json](./403480-ok-boomer.json) |
 | Okurek | 404154 | [404154-okurek.json](./404154-okurek.json) |
 | OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
