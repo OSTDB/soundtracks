@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Thieves | 31419 | [31419-queen-of-thieves.json](./31419-queen-of-thieves.json) |
 | Quell Reflect | 15742 | [15742-quell-reflect.json](./15742-quell-reflect.json) |
 | Quest for Camelot | 49949 | [49949-quest-for-camelot.json](./49949-quest-for-camelot.json) |
+| Quest of Killer | 404133 | [404133-quest-of-killer.json](./404133-quest-of-killer.json) |
 | Quick Draw | 31468 | [31468-quick-draw.json](./31468-quick-draw.json) |
 | Quick Wordz | 24581 | [24581-quick-wordz.json](./24581-quick-wordz.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
