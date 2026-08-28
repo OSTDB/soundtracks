@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
+| Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
@@ -102,10 +103,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
 | Lingix Lingo | 409460 | [409460-lingix-lingo.json](./409460-lingix-lingo.json) |
 | Linked Wheels | 412859 | [412859-linked-wheels.json](./412859-linked-wheels.json) |
+| Lip Lipples | 395451 | [395451-lip-lipples.json](./395451-lip-lipples.json) |
 | Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
 | Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
+| Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
+| Lured In | 395423 | [395423-lured-in.json](./395423-lured-in.json) |
 | Lust Anime: Egyptian Goddess Cleopatra | 404723 | [404723-lust-anime-egyptian-goddess-cleopatra.json](./404723-lust-anime-egyptian-goddess-cleopatra.json) |
 | Lustquake Legion | 400116 | [400116-lustquake-legion.json](./400116-lustquake-legion.json) |
 | Lux Anima | 406583 | [406583-lux-anima.json](./406583-lux-anima.json) |
