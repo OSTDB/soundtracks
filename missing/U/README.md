@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| U Tsu Tsu Tsu | 406590 | [406590-u-tsu-tsu-tsu.json](./406590-u-tsu-tsu-tsu.json) |
 | U-Boats | 34376 | [34376-u-boats.json](./34376-u-boats.json) |
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
