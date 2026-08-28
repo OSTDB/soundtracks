@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
+| Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
 | Office Renovation | 405376 | [405376-office-renovation.json](./405376-office-renovation.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
+| Orbit to Riches | 399520 | [399520-orbit-to-riches.json](./399520-orbit-to-riches.json) |
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
