@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
+| Day Ticket | 407958 | [407958-day-ticket.json](./407958-day-ticket.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
+| Desktop Destroyer | 407976 | [407976-desktop-destroyer.json](./407976-desktop-destroyer.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
 | Desta: The Memories Between | 204376 | [204376-desta-the-memories-between.json](./204376-desta-the-memories-between.json) |
