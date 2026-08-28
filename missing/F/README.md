@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
+| Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
 | Football Cup 2026 | 396103 | [396103-football-cup-2026.json](./396103-football-cup-2026.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Legends 2025: Platinium Edition | 402172 | [402172-football-legends-2025-platinium-edition.json](./402172-football-legends-2025-platinium-edition.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
+| Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
