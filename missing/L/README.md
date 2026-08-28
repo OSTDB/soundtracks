@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethargic | 402813 | [402813-lethargic.json](./402813-lethargic.json) |
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
+| Letter Snap: Word Puzzle | 401408 | [401408-letter-snap-word-puzzle.json](./401408-letter-snap-word-puzzle.json) |
 | Level Up, Tiny King! | 406585 | [406585-level-up-tiny-king.json](./406585-level-up-tiny-king.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
+| Longboard Skate Downhill Simulator | 401409 | [401409-longboard-skate-downhill-simulator.json](./401409-longboard-skate-downhill-simulator.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
 | Looking Up I See Only A Ceiling: The Recall | 404104 | [404104-looking-up-i-see-only-a-ceiling-the-recall.json](./404104-looking-up-i-see-only-a-ceiling-the-recall.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
