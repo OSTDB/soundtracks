@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboomania | 413569 | [413569-kaboomania.json](./413569-kaboomania.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
+| Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
@@ -45,12 +46,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
 | Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
+| Kioskeria: Summer Breeze | 410751 | [410751-kioskeria-summer-breeze.json](./410751-kioskeria-summer-breeze.json) |
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
 | Kirby's Return to Dream Land Deluxe | 217565 | [217565-kirbys-return-to-dream-land-deluxe.json](./217565-kirbys-return-to-dream-land-deluxe.json) |
 | Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
 | Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
+| Kitty Clicker | 410770 | [410770-kitty-clicker.json](./410770-kitty-clicker.json) |
 | Kitty Powers' Matchmaker | 11421 | [11421-kitty-powers-matchmaker.json](./11421-kitty-powers-matchmaker.json) |
 | Klonoa Beach Volleyball | 22702 | [22702-klonoa-beach-volleyball.json](./22702-klonoa-beach-volleyball.json) |
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
@@ -73,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kupar: Horror Mystery | 414235 | [414235-kupar-horror-mystery.json](./414235-kupar-horror-mystery.json) |
+| Kuroko's Basketball Street Rivals | 410781 | [410781-kurokos-basketball-street-rivals.json](./410781-kurokos-basketball-street-rivals.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
