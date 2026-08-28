@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
+| Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
 | PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
 | PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanCon: Space Conflict | 33022 | [33022-plancon-space-conflict.json](./33022-plancon-space-conflict.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
 | Planescape: Torment & Icewind Dale: Enhanced Editions | 125019 | [125019-planescape-torment-and-icewind-dale-enhanced-editions.json](./125019-planescape-torment-and-icewind-dale-enhanced-editions.json) |
+| Planet of the Apes | 23692 | [23692-planet-of-the-apes.json](./23692-planet-of-the-apes.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
@@ -153,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
+| Premium Play Darkness | 22477 | [22477-premium-play-darkness.json](./22477-premium-play-darkness.json) |
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Primal Carnage | 3066 | [3066-primal-carnage.json](./3066-primal-carnage.json) |
 | Primal Wars: Dino Age | 101954 | [101954-primal-wars-dino-age.json](./101954-primal-wars-dino-age.json) |
@@ -198,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Quest | 22847 | [22847-puyo-puyo-quest.json](./22847-puyo-puyo-quest.json) |
 | Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
 | Puzzle Ball | 34460 | [34460-puzzle-ball.json](./34460-puzzle-ball.json) |
+| Puzzle Bobble Galaxy | 23257 | [23257-puzzle-bobble-galaxy.json](./23257-puzzle-bobble-galaxy.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
