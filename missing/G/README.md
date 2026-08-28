@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Greedy Mouse | 22718 | [22718-genius-greedy-mouse.json](./22718-genius-greedy-mouse.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
+| Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | GhostControl Inc. | 17106 | [17106-ghostcontrol-inc.json](./17106-ghostcontrol-inc.json) |
+| Ghoste's Grunge | 412867 | [412867-ghostes-grunge.json](./412867-ghostes-grunge.json) |
 | Ghostlords | 31471 | [31471-ghostlords.json](./31471-ghostlords.json) |
 | Ghostrunner: Project Hel | 183125 | [183125-ghostrunner-project-hel.json](./183125-ghostrunner-project-hel.json) |
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
+| Grave New World | 412860 | [412860-grave-new-world.json](./412860-grave-new-world.json) |
 | Graventh | 414971 | [414971-graventh.json](./414971-graventh.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
@@ -151,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gun Wings | 35774 | [35774-gun-wings.json](./35774-gun-wings.json) |
+| Gunboat Willie | 412879 | [412879-gunboat-willie.json](./412879-gunboat-willie.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
