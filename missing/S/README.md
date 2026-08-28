@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
+| Secrets of Solari | 387864 | [387864-secrets-of-solari.json](./387864-secrets-of-solari.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
 | Seduce Me 2: The Demon War | 33008 | [33008-seduce-me-2-the-demon-war.json](./33008-seduce-me-2-the-demon-war.json) |
 | Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spire of Chaos: Arcana Unleashed | 396085 | [396085-spire-of-chaos-arcana-unleashed.json](./396085-spire-of-chaos-arcana-unleashed.json) |
+| Spiredelve | 387887 | [387887-spiredelve.json](./387887-spiredelve.json) |
 | Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
 | Spirit of the Dome | 392065 | [392065-spirit-of-the-dome.json](./392065-spirit-of-the-dome.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
@@ -444,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
+| Stained Blade | 387868 | [387868-stained-blade.json](./387868-stained-blade.json) |
 | Stall Tycoon | 407205 | [407205-stall-tycoon.json](./407205-stall-tycoon.json) |
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
@@ -554,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
 | Striker '96 | 22675 | [22675-striker-96.json](./22675-striker-96.json) |
 | String Theory | 34458 | [34458-string-theory.json](./34458-string-theory.json) |
+| String Zero | 387897 | [387897-string-zero.json](./387897-string-zero.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Strozowka | 404151 | [404151-strozowka.json](./404151-strozowka.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
@@ -596,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
+| Super Doot Sunshine | 387856 | [387856-super-doot-sunshine.json](./387856-super-doot-sunshine.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Fluid Hyper Flow! | 412181 | [412181-super-fluid-hyper-flow.json](./412181-super-fluid-hyper-flow.json) |
 | Super Frozen World 2 | 394018 | [394018-super-frozen-world-2.json](./394018-super-frozen-world-2.json) |
