@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
+| Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
@@ -261,7 +262,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Drift 2 | 46358 | [46358-sonic-drift-2.json](./46358-sonic-drift-2.json) |
 | Sonic Eraser | 51946 | [51946-sonic-eraser.json](./51946-sonic-eraser.json) |
 | Sonic Mega Collection Plus | 22297 | [22297-sonic-mega-collection-plus.json](./22297-sonic-mega-collection-plus.json) |
+| Sonic Pico Park | 404714 | [404714-sonic-pico-park.json](./404714-sonic-pico-park.json) |
 | Sonic R | 19091 | [19091-sonic-r.json](./19091-sonic-r.json) |
+| Sonic Racing: CrossWorlds - Evangelion Pack | 404713 | [404713-sonic-racing-crossworlds-evangelion-pack.json](./404713-sonic-racing-crossworlds-evangelion-pack.json) |
+| Sonic Racing: CrossWorlds - Godzilla Pack | 404711 | [404711-sonic-racing-crossworlds-godzilla-pack.json](./404711-sonic-racing-crossworlds-godzilla-pack.json) |
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
@@ -416,6 +420,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
+| Street Fighter 6: Year 4 - Arjun | 404718 | [404718-street-fighter-6-year-4-arjun.json](./404718-street-fighter-6-year-4-arjun.json) |
+| Street Fighter 6: Year 4 - Bosch | 404719 | [404719-street-fighter-6-year-4-bosch.json](./404719-street-fighter-6-year-4-bosch.json) |
+| Street Fighter 6: Year 4 - Tifa | 404720 | [404720-street-fighter-6-year-4-tifa.json](./404720-street-fighter-6-year-4-tifa.json) |
+| Street Fighter 6: Year 4 - Yasmine | 404717 | [404717-street-fighter-6-year-4-yasmine.json](./404717-street-fighter-6-year-4-yasmine.json) |
+| Street Fighter 6: Year 4 Character Pass | 404753 | [404753-street-fighter-6-year-4-character-pass.json](./404753-street-fighter-6-year-4-character-pass.json) |
+| Street Fighter 6: Year 4 Ultimate Pass | 404755 | [404755-street-fighter-6-year-4-ultimate-pass.json](./404755-street-fighter-6-year-4-ultimate-pass.json) |
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
@@ -440,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
+| Sudoku Bactron | 404733 | [404733-sudoku-bactron.json](./404733-sudoku-bactron.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
@@ -496,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Uffe! | 89461 | [89461-super-uffe.json](./89461-super-uffe.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
+| Super Yooka-Laylee Kart | 404740 | [404740-super-yooka-laylee-kart.json](./404740-super-yooka-laylee-kart.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
