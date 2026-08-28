@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
 | Bamdmi | 393331 | [393331-bamdmi.json](./393331-bamdmi.json) |
+| Bamorota Defense | 374500 | [374500-bamorota-defense.json](./374500-bamorota-defense.json) |
 | Banana Airways | 412140 | [412140-banana-airways.json](./412140-banana-airways.json) |
 | Bananya Buddies | 412825 | [412825-bananya-buddies.json](./412825-bananya-buddies.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 385503 | [385503-baseball.json](./385503-baseball.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
+| Basement 66 | 374496 | [374496-basement-66.json](./374496-basement-66.json) |
 | Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
 | BaseStar | 390427 | [390427-basestar.json](./390427-basestar.json) |
 | Basketball Knockout | 382608 | [382608-basketball-knockout.json](./382608-basketball-knockout.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
+| Beauty Store Simulator | 374490 | [374490-beauty-store-simulator.json](./374490-beauty-store-simulator.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
