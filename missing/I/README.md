@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironforged | 391518 | [391518-ironforged.json](./391518-ironforged.json) |
 | Is Zombody Home? | 390392 | [390392-is-zombody-home.json](./390392-is-zombody-home.json) |
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
+| Isekai Wet Dream | 382014 | [382014-isekai-wet-dream.json](./382014-isekai-wet-dream.json) |
 | Iseki | 387194 | [387194-iseki.json](./387194-iseki.json) |
 | Island Survive Simulator: Craft, Build, Grow | 398199 | [398199-island-survive-simulator-craft-build-grow.json](./398199-island-survive-simulator-craft-build-grow.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
