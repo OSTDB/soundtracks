@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
 | A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
 | A Little Horror Story | 409474 | [409474-a-little-horror-story.json](./409474-a-little-horror-story.json) |
+| A Lucky Hunt With Lyra | 378631 | [378631-a-lucky-hunt-with-lyra.json](./378631-a-lucky-hunt-with-lyra.json) |
 | A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
