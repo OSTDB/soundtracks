@@ -37,12 +37,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
 | Illumination Point | 412852 | [412852-illumination-point.json](./412852-illumination-point.json) |
 | Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
+| Illusion Connect: Re | 404103 | [404103-illusion-connect-re.json](./404103-illusion-connect-re.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
 | Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
 | Immune | 35785 | [35785-immune.json](./35785-immune.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
+| ImpossibleBosses | 404155 | [404155-impossiblebosses.json](./404155-impossiblebosses.json) |
 | Impulse of War | 31506 | [31506-impulse-of-war.json](./31506-impulse-of-war.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
