@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
+| Get Fit: Beach Boys | 407262 | [407262-get-fit-beach-boys.json](./407262-get-fit-beach-boys.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
@@ -63,12 +64,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
 | Gigi il Guerriero | 408622 | [408622-gigi-il-guerriero.json](./408622-gigi-il-guerriero.json) |
+| Gion Corridor:Re | 407261 | [407261-gion-corridor-re.json](./407261-gion-corridor-re.json) |
 | Giraffe Raising Game: Reach for the sky | 413568 | [413568-giraffe-raising-game-reach-for-the-sky.json](./413568-giraffe-raising-game-reach-for-the-sky.json) |
 | Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
+| Girls Force 2: Rising Academy | 407260 | [407260-girls-force-2-rising-academy.json](./407260-girls-force-2-rising-academy.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls Theme Park Craft: Water Slide Fun Park Games | 101943 | [101943-girls-theme-park-craft-water-slide-fun-park-games.json](./101943-girls-theme-park-craft-water-slide-fun-park-games.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
+| Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
@@ -90,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
+| Gods With Guns | 407259 | [407259-gods-with-guns.json](./407259-gods-with-guns.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
