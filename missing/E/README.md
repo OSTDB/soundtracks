@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tarkov: Usec - ScavTac | 398230 | [398230-escape-from-tarkov-usec-scavtac.json](./398230-escape-from-tarkov-usec-scavtac.json) |
 | Escape Game The Edo Period | 373958 | [373958-escape-game-the-edo-period.json](./373958-escape-game-the-edo-period.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
+| Escape Protocol : Online | 364290 | [364290-escape-protocol-online.json](./364290-escape-protocol-online.json) |
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
+| Everspace 2: Galactic Edition | 364294 | [364294-everspace-2-galactic-edition.json](./364294-everspace-2-galactic-edition.json) |
 | Every 5x5 Nonogram | 402772 | [402772-every-5x5-nonogram.json](./402772-every-5x5-nonogram.json) |
 | Every 5x6 Nonogram | 402774 | [402774-every-5x6-nonogram.json](./402774-every-5x6-nonogram.json) |
 | Every Thought Flies | 390429 | [390429-every-thought-flies.json](./390429-every-thought-flies.json) |
