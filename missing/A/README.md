@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
+| After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
+| Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
 | Airline Director 2: Tycoon Game | 32995 | [32995-airline-director-2-tycoon-game.json](./32995-airline-director-2-tycoon-game.json) |
@@ -142,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
@@ -156,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Toys in Space | 27454 | [27454-army-men-toys-in-space.json](./27454-army-men-toys-in-space.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim | 18208 | [18208-army-of-tentacles-not-a-cthulhu-dating-sim.json](./18208-army-of-tentacles-not-a-cthulhu-dating-sim.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
+| Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
 | Art of Murder: Hunt for the Puppeteer | 14358 | [14358-art-of-murder-hunt-for-the-puppeteer.json](./14358-art-of-murder-hunt-for-the-puppeteer.json) |
