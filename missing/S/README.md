@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation DS | 66589 | [66589-sd-gundam-g-generation-ds.json](./66589-sd-gundam-g-generation-ds.json) |
 | SD Gundam Sangokuden Brave Battle Warriors Shin Mirisha Taisen | 66458 | [66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json](./66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json) |
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
+| Sea Adventure | 386571 | [386571-sea-adventure.json](./386571-sea-adventure.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
+| Senatordle | 386597 | [386597-senatordle.json](./386597-senatordle.json) |
 | Senchu | 395438 | [395438-senchu.json](./395438-senchu.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
@@ -167,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shinobi | 386580 | [386580-shinobi.json](./386580-shinobi.json) |
 | Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
@@ -315,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
 | Sociable Soccer Champions | 392619 | [392619-sociable-soccer-champions.json](./392619-sociable-soccer-champions.json) |
+| Social Caterpillar | 386616 | [386616-social-caterpillar.json](./386616-social-caterpillar.json) |
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Socket | 393996 | [393996-socket.json](./393996-socket.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
@@ -390,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
+| Special Order | 386570 | [386570-special-order.json](./386570-special-order.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | Speed Boom: Last Delivery | 394740 | [394740-speed-boom-last-delivery.json](./394740-speed-boom-last-delivery.json) |
 | Speed Rivals: Model Trains | 400759 | [400759-speed-rivals-model-trains.json](./400759-speed-rivals-model-trains.json) |
