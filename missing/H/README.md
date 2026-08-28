@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest: Massive Encounter | 15936 | [15936-harvest-massive-encounter.json](./15936-harvest-massive-encounter.json) |
 | Has-Been Heroes | 26763 | [26763-has-been-heroes.json](./26763-has-been-heroes.json) |
 | Hashihime of the Old Book Town | 126103 | [126103-hashihime-of-the-old-book-town.json](./126103-hashihime-of-the-old-book-town.json) |
+| Hataraku Otona no Renai Jijou 2 | 372295 | [372295-hataraku-otona-no-renai-jijou-2.json](./372295-hataraku-otona-no-renai-jijou-2.json) |
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
 | Haunted Castle Revisited | 314976 | [314976-haunted-castle-revisited.json](./314976-haunted-castle-revisited.json) |
 | HavenCraft | 404111 | [404111-havencraft.json](./404111-havencraft.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
 | Hentai Novel: Lily is stripping | 382018 | [382018-hentai-novel-lily-is-stripping.json](./382018-hentai-novel-lily-is-stripping.json) |
 | Hentai Party: Bikini Beach | 373381 | [373381-hentai-party-bikini-beach.json](./373381-hentai-party-bikini-beach.json) |
+| Hentai Party: Cyber Girls | 372306 | [372306-hentai-party-cyber-girls.json](./372306-hentai-party-cyber-girls.json) |
 | Hentai Photo Collection 8 in 1 | 373403 | [373403-hentai-photo-collection-8-in-1.json](./373403-hentai-photo-collection-8-in-1.json) |
 | Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
 | Hentai Secrets: Sexy Women | 373400 | [373400-hentai-secrets-sexy-women.json](./373400-hentai-secrets-sexy-women.json) |
@@ -251,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Haunters | 390964 | [390964-house-haunters.json](./390964-house-haunters.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
+| House Party: Nocturnal Temptations Expansion Pack | 372328 | [372328-house-party-nocturnal-temptations-expansion-pack.json](./372328-house-party-nocturnal-temptations-expansion-pack.json) |
 | How Shall We Die | 405992 | [405992-how-shall-we-die.json](./405992-how-shall-we-die.json) |
 | How Smart Are You? IQ Test | 389295 | [389295-how-smart-are-you-iq-test.json](./389295-how-smart-are-you-iq-test.json) |
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
@@ -259,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrror | 372852 | [372852-hrror.json](./372852-hrror.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
+| Hula Hula Wee | 372290 | [372290-hula-hula-wee.json](./372290-hula-hula-wee.json) |
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
 | Human Bowling: King Pin | 392617 | [392617-human-bowling-king-pin.json](./392617-human-bowling-king-pin.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
