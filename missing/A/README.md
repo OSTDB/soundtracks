@@ -444,6 +444,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Aualé | 375649 | [375649-auale.json](./375649-auale.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
+| Audica: DLC Pack 03 | 360371 | [360371-audica-dlc-pack-03.json](./360371-audica-dlc-pack-03.json) |
+| Audica: DLC Pack 04 | 360372 | [360372-audica-dlc-pack-04.json](./360372-audica-dlc-pack-04.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
 | Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
 | AutoMaker | 379228 | [379228-automaker.json](./379228-automaker.json) |
