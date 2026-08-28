@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guest II | 400111 | [400111-the-guest-ii.json](./400111-the-guest-ii.json) |
+| The Guidelines: Hotel Napoli | 399473 | [399473-the-guidelines-hotel-napoli.json](./399473-the-guidelines-hotel-napoli.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
 | The Guise | 123960 | [123960-the-guise.json](./123960-the-guise.json) |
 | The Hat Man | 406000 | [406000-the-hat-man.json](./406000-the-hat-man.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Floors | 404148 | [404148-thousand-floors.json](./404148-thousand-floors.json) |
 | Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
+| Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
 | Thumper: Pocket Edition | 86886 | [86886-thumper-pocket-edition.json](./86886-thumper-pocket-edition.json) |
@@ -476,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Triston | 407960 | [407960-triston.json](./407960-triston.json) |
+| Trivals | 399467 | [399467-trivals.json](./399467-trivals.json) |
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
