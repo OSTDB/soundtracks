@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
+| Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
 | Ratchet & Clank: Going Commando | 253138 | [253138-ratchet-and-clank-going-commando.json](./253138-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Size Matters | 1791 | [1791-ratchet-and-clank-size-matters.json](./1791-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Up Your Arsenal | 1773 | [1773-ratchet-and-clank-up-your-arsenal.json](./1773-ratchet-and-clank-up-your-arsenal.json) |
