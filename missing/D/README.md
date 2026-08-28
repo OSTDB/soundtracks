@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
 | Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
+| Darkspy | 372337 | [372337-darkspy.json](./372337-darkspy.json) |
 | Darkward | 379772 | [379772-darkward.json](./379772-darkward.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
 | Darts Fever: Upgrade Edition | 394747 | [394747-darts-fever-upgrade-edition.json](./394747-darts-fever-upgrade-edition.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Streets | 393315 | [393315-dead-end-streets.json](./393315-dead-end-streets.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
+| Dead Iron | 372296 | [372296-dead-iron.json](./372296-dead-iron.json) |
 | Dead or Alive 2 | 1388 | [1388-dead-or-alive-2.json](./1388-dead-or-alive-2.json) |
 | Dead or Alive 4 | 1392 | [1392-dead-or-alive-4.json](./1392-dead-or-alive-4.json) |
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dice or Die | 380263 | [380263-dice-or-die.json](./380263-dice-or-die.json) |
 | Dice Roller Incremental | 391520 | [391520-dice-roller-incremental.json](./391520-dice-roller-incremental.json) |
+| Dice with the Devil | 372293 | [372293-dice-with-the-devil.json](./372293-dice-with-the-devil.json) |
 | Dicegeon Whispers | 386602 | [386602-dicegeon-whispers.json](./386602-dicegeon-whispers.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
@@ -261,9 +264,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
 | Digimon Story: Time Stranger - Additional Digimon & Episode Pack 3: Anti-ParadoX | 390929 | [390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json](./390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json) |
+| Digimon Story: Time Stranger - Costume Chosen Children Set | 372298 | [372298-digimon-story-time-stranger-costume-chosen-children-set.json](./372298-digimon-story-time-stranger-costume-chosen-children-set.json) |
 | Digimon Story: Time Stranger - Costume Cyber Sleuth Set | 390934 | [390934-digimon-story-time-stranger-costume-cyber-sleuth-set.json](./390934-digimon-story-time-stranger-costume-cyber-sleuth-set.json) |
 | Digimon Story: Time Stranger - Costume Digimon Costume Set | 390933 | [390933-digimon-story-time-stranger-costume-digimon-costume-set.json](./390933-digimon-story-time-stranger-costume-digimon-costume-set.json) |
 | Digimon Story: Time Stranger - Costume Public Safety Suit & Special Supplies Set | 390932 | [390932-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json](./390932-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json) |
+| Digimon Story: Time Stranger - Costume Public Safety Suit & Special Supplies Set | 372299 | [372299-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json](./372299-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json) |
 | Digimon Story: Time Stranger - Costume Swimwear Set | 390931 | [390931-digimon-story-time-stranger-costume-swimwear-set.json](./390931-digimon-story-time-stranger-costume-swimwear-set.json) |
 | Digimon Story: Time Stranger - Farm Item Golden Moai | 390930 | [390930-digimon-story-time-stranger-farm-item-golden-moai.json](./390930-digimon-story-time-stranger-farm-item-golden-moai.json) |
 | Digimon Survive | 105417 | [105417-digimon-survive.json](./105417-digimon-survive.json) |
