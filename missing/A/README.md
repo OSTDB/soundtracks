@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 6: Recompiled | 412822 | [412822-ace-combat-6-recompiled.json](./412822-ace-combat-6-recompiled.json) |
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
+| Achievement Cage | 367779 | [367779-achievement-cage.json](./367779-achievement-cage.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
 | Achivement Maze 1 | 410122 | [410122-achivement-maze-1.json](./410122-achivement-maze-1.json) |
 | Acid Bunny | 389326 | [389326-acid-bunny.json](./389326-acid-bunny.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Add Cross | 377481 | [377481-add-cross.json](./377481-add-cross.json) |
 | Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
 | Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
+| ADT Pilot 01 | 367795 | [367795-adt-pilot-01.json](./367795-adt-pilot-01.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Agro Tycoon | 411442 | [411442-agro-tycoon.json](./411442-agro-tycoon.json) |
+| AI T/F Escape: 10 in a Row to Freedom | 367772 | [367772-ai-t-f-escape-10-in-a-row-to-freedom.json](./367772-ai-t-f-escape-10-in-a-row-to-freedom.json) |
 | Ai Yori Aoi Umi no Hate | 409427 | [409427-ai-yori-aoi-umi-no-hate.json](./409427-ai-yori-aoi-umi-no-hate.json) |
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
