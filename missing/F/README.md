@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 ROC: Race of Champions | 42571 | [42571-f1-roc-race-of-champions.json](./42571-f1-roc-race-of-champions.json) |
 | Fable Trilogy | 83837 | [83837-fable-trilogy.json](./83837-fable-trilogy.json) |
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
+| Fabric | 22722 | [22722-fabric.json](./22722-fabric.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | Faerie Solitaire Harvest | 115787 | [115787-faerie-solitaire-harvest.json](./115787-faerie-solitaire-harvest.json) |
