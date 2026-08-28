@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
 | Ring Master II: Forget You Not, Evermore | 402817 | [402817-ring-master-ii-forget-you-not-evermore.json](./402817-ring-master-ii-forget-you-not-evermore.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
+| Rings of Heaven | 382603 | [382603-rings-of-heaven.json](./382603-rings-of-heaven.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
 | RIP Love: A Story of Pain | 392665 | [392665-rip-love-a-story-of-pain.json](./392665-rip-love-a-story-of-pain.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rally Collection | 399481 | [399481-rush-rally-collection.json](./399481-rush-rally-collection.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
+| Rushy Road | 382653 | [382653-rushy-road.json](./382653-rushy-road.json) |
 | Russian Village Business | 397566 | [397566-russian-village-business.json](./397566-russian-village-business.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
