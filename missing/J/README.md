@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.U.R : Japan Underground Racing | 22724 | [22724-j-u-r-japan-underground-racing.json](./22724-j-u-r-japan-underground-racing.json) |
 | Jack Dragon | 413544 | [413544-jack-dragon.json](./413544-jack-dragon.json) |
 | Jack Orlando: Director's Cut | 30239 | [30239-jack-orlando-directors-cut.json](./30239-jack-orlando-directors-cut.json) |
+| Jackpot 21 | 405386 | [405386-jackpot-21.json](./405386-jackpot-21.json) |
 | Jade Dynasty | 51194 | [51194-jade-dynasty.json](./51194-jade-dynasty.json) |
 | Jagged Alliance 2: Gold Pack | 29194 | [29194-jagged-alliance-2-gold-pack.json](./29194-jagged-alliance-2-gold-pack.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
