@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
 | Otpisani: Nightingale | 400808 | [400808-otpisani-nightingale.json](./400808-otpisani-nightingale.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
+| Our Brief Eternity | 390400 | [390400-our-brief-eternity.json](./390400-our-brief-eternity.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
 | Ouroboros Project | 101657 | [101657-ouroboros-project.json](./101657-ouroboros-project.json) |
 | Out of the Box | 29824 | [29824-out-of-the-box.json](./29824-out-of-the-box.json) |
