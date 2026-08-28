@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 395 | [395-final-fantasy-ii.json](./395-final-fantasy-ii.json) |
 | Final Fantasy IV | 16587 | [16587-final-fantasy-iv.json](./16587-final-fantasy-iv.json) |
 | Final Fantasy IX | 205673 | [205673-final-fantasy-ix.json](./205673-final-fantasy-ix.json) |
+| Final Fantasy VII Revelation | 404721 | [404721-final-fantasy-vii-revelation.json](./404721-final-fantasy-vii-revelation.json) |
 | Final Fantasy XI: Ultimate Collection - Seekers Edition | 90563 | [90563-final-fantasy-xi-ultimate-collection-seekers-edition.json](./90563-final-fantasy-xi-ultimate-collection-seekers-edition.json) |
 | Final Fantasy XII: Revenant Wings | 392 | [392-final-fantasy-xii-revenant-wings.json](./392-final-fantasy-xii-revenant-wings.json) |
 | Final Fantasy XIV: Dawntrail | 259338 | [259338-final-fantasy-xiv-dawntrail.json](./259338-final-fantasy-xiv-dawntrail.json) |
