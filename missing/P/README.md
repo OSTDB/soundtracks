@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
+| Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
+| Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
 | PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
 | PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
@@ -88,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
+| Pill in the Pudding | 410159 | [410159-pill-in-the-pudding.json](./410159-pill-in-the-pudding.json) |
 | Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
@@ -157,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
+| Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
 | Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
@@ -200,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
+| Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
 | Provinces | 414998 | [414998-provinces.json](./414998-provinces.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
