@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 4: Secrets of the Purramids | 397544 | [397544-catjong-4-secrets-of-the-purramids.json](./397544-catjong-4-secrets-of-the-purramids.json) |
 | Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
+| Cats Organized Neatly 2 | 382652 | [382652-cats-organized-neatly-2.json](./382652-cats-organized-neatly-2.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
 | Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
 | Christmas with Father Ben | 383815 | [383815-christmas-with-father-ben.json](./383815-christmas-with-father-ben.json) |
+| Christmas Yarn 4: Blessing Star | 382626 | [382626-christmas-yarn-4-blessing-star.json](./382626-christmas-yarn-4-blessing-star.json) |
 | Chroma Shift | 110098 | [110098-chroma-shift.json](./110098-chroma-shift.json) |
 | Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
 | Chronicles Of Lumethis | 412175 | [412175-chronicles-of-lumethis.json](./412175-chronicles-of-lumethis.json) |
@@ -280,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Desert Storm II: Back to Baghdad | 3864 | [3864-conflict-desert-storm-ii-back-to-baghdad.json](./3864-conflict-desert-storm-ii-back-to-baghdad.json) |
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
+| Connect 4 Bounce | 382613 | [382613-connect-4-bounce.json](./382613-connect-4-bounce.json) |
 | Conquerline | 390408 | [390408-conquerline.json](./390408-conquerline.json) |
 | Consequently | 384360 | [384360-consequently.json](./384360-consequently.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
@@ -309,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
+| Corn Quest | 382648 | [382648-corn-quest.json](./382648-corn-quest.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Corridors | 389303 | [389303-corridors.json](./389303-corridors.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
@@ -317,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
 | Cosmic Twinvader | 385484 | [385484-cosmic-twinvader.json](./385484-cosmic-twinvader.json) |
 | Cosmic Wayfinder | 400799 | [400799-cosmic-wayfinder.json](./400799-cosmic-wayfinder.json) |
+| Cosmo Solitaire 3: New Horizons | 382627 | [382627-cosmo-solitaire-3-new-horizons.json](./382627-cosmo-solitaire-3-new-horizons.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
