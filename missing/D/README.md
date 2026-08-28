@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Curse of Briar Rose - Collector's Edition | 31425 | [31425-dark-parables-curse-of-briar-rose-collectors-edition.json](./31425-dark-parables-curse-of-briar-rose-collectors-edition.json) |
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
+| Dark Watching Chapter 2 | 400107 | [400107-dark-watching-chapter-2.json](./400107-dark-watching-chapter-2.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
 | Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directors Cut: Train | 406017 | [406017-directors-cut-train.json](./406017-directors-cut-train.json) |
 | Dirt Racers | 400771 | [400771-dirt-racers.json](./400771-dirt-racers.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
+| Dirtlight | 400138 | [400138-dirtlight.json](./400138-dirtlight.json) |
 | Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
@@ -328,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
 | Dress the Part! Outfit Puzzle | 409480 | [409480-dress-the-part-outfit-puzzle.json](./409480-dress-the-part-outfit-puzzle.json) |
+| Drift | 400129 | [400129-drift.json](./400129-drift.json) |
 | Drift Splatter | 408691 | [408691-drift-splatter.json](./408691-drift-splatter.json) |
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
 | Drifters: Blackout Crew | 413536 | [413536-drifters-blackout-crew.json](./413536-drifters-blackout-crew.json) |
@@ -351,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
 | Duke Nukem: Critical Mass | 47967 | [47967-duke-nukem-critical-mass.json](./47967-duke-nukem-critical-mass.json) |
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
+| Duke Nukem: Zero Hour Overclocked | 400102 | [400102-duke-nukem-zero-hour-overclocked.json](./400102-duke-nukem-zero-hour-overclocked.json) |
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
@@ -362,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
+| Dungeonery | 400137 | [400137-dungeonery.json](./400137-dungeonery.json) |
 | Dungeons & Donuts | 412163 | [412163-dungeons-and-donuts.json](./412163-dungeons-and-donuts.json) |
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
