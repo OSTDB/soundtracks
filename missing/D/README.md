@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Dying | 390413 | [390413-dawn-of-the-dying.json](./390413-dawn-of-the-dying.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
+| Day and Night | 386585 | [386585-day-and-night.json](./386585-day-and-night.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | Day Ticket | 407958 | [407958-day-ticket.json](./407958-day-ticket.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
@@ -184,12 +185,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dex: Your AR Dog Companion | 95761 | [95761-dex-your-ar-dog-companion.json](./95761-dex-your-ar-dog-companion.json) |
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
+| Diablo IV: Age of Hatred Collection | 386601 | [386601-diablo-iv-age-of-hatred-collection.json](./386601-diablo-iv-age-of-hatred-collection.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dice Roller Incremental | 391520 | [391520-dice-roller-incremental.json](./391520-dice-roller-incremental.json) |
+| Dicegeon Whispers | 386602 | [386602-dicegeon-whispers.json](./386602-dicegeon-whispers.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Dictatorship Simulator | 404159 | [404159-dictatorship-simulator.json](./404159-dictatorship-simulator.json) |
@@ -404,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
 | Drones Drop Bombs | 388634 | [388634-drones-drop-bombs.json](./388634-drones-drop-bombs.json) |
+| Drop Duchy: Complete Edition | 386593 | [386593-drop-duchy-complete-edition.json](./386593-drop-duchy-complete-edition.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
 | DroPlaying! | 397539 | [397539-droplaying.json](./397539-droplaying.json) |
@@ -418,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
+| Duckiost | 386618 | [386618-duckiost.json](./386618-duckiost.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
 | Duet Night Abyss: The Wind Awakening, Part 1 | 413547 | [413547-duet-night-abyss-the-wind-awakening-part-1.json](./413547-duet-night-abyss-the-wind-awakening-part-1.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
@@ -426,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
 | Duke Nukem: Zero Hour Overclocked | 400102 | [400102-duke-nukem-zero-hour-overclocked.json](./400102-duke-nukem-zero-hour-overclocked.json) |
 | DunDie | 390410 | [390410-dundie.json](./390410-dundie.json) |
+| Dune Rancher | 386586 | [386586-dune-rancher.json](./386586-dune-rancher.json) |
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
@@ -450,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
+| Dustland Delivery: Wildmax Edition | 386565 | [386565-dustland-delivery-wildmax-edition.json](./386565-dustland-delivery-wildmax-edition.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
 | Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
