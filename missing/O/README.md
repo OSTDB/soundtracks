@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm - Enhanced Edition | 178211 | [178211-oddworld-soulstorm-enhanced-edition.json](./178211-oddworld-soulstorm-enhanced-edition.json) |
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
+| Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
 | Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
+| Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
