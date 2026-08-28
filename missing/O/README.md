@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
 | Oblivion 2666 | 410132 | [410132-oblivion-2666.json](./410132-oblivion-2666.json) |
 | Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
+| Occult Hand of the Blood Lily | 383841 | [383841-occult-hand-of-the-blood-lily.json](./383841-occult-hand-of-the-blood-lily.json) |
 | Ocean Otter Swim | 388622 | [388622-ocean-otter-swim.json](./388622-ocean-otter-swim.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Ocean::Ephemera | 387853 | [387853-ocean-ephemera.json](./387853-ocean-ephemera.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
 | Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
 | Office Brawl: Room Smash | 394715 | [394715-office-brawl-room-smash.json](./394715-office-brawl-room-smash.json) |
+| Office Inspector | 383835 | [383835-office-inspector.json](./383835-office-inspector.json) |
 | Office Renovation | 405376 | [405376-office-renovation.json](./405376-office-renovation.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
@@ -47,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
 | On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
 | On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
+| Once a Porn a Time 3 | 383818 | [383818-once-a-porn-a-time-3.json](./383818-once-a-porn-a-time-3.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
