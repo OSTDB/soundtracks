@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Trade | 395418 | [395418-tales-of-the-trade.json](./395418-tales-of-the-trade.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
+| Tales' Epic Gang | 370492 | [370492-tales-epic-gang.json](./370492-tales-epic-gang.json) |
 | Talk to Strangers | 111206 | [111206-talk-to-strangers.json](./111206-talk-to-strangers.json) |
 | Talking Felix the Cat | 380854 | [380854-talking-felix-the-cat.json](./380854-talking-felix-the-cat.json) |
 | Talking Tom Jetski | 86827 | [86827-talking-tom-jetski.json](./86827-talking-tom-jetski.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Tarae The Unbound | 415003 | [415003-tarae-the-unbound.json](./415003-tarae-the-unbound.json) |
 | Tartarus: Dice & Blades | 404737 | [404737-tartarus-dice-and-blades.json](./404737-tartarus-dice-and-blades.json) |
+| Task Time | 370521 | [370521-task-time.json](./370521-task-time.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasogare no Shape Shifter | 382038 | [382038-tasogare-no-shape-shifter.json](./382038-tasogare-no-shape-shifter.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
@@ -124,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Hooman | 406579 | [406579-the-adventures-of-hooman.json](./406579-the-adventures-of-hooman.json) |
 | The Adventures of Horse the Horse | 412870 | [412870-the-adventures-of-horse-the-horse.json](./412870-the-adventures-of-horse-the-horse.json) |
 | The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
+| The Algian Sword | 370523 | [370523-the-algian-sword.json](./370523-the-algian-sword.json) |
 | The Alley | 380869 | [380869-the-alley.json](./380869-the-alley.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Archives of Trevosa | 400144 | [400144-the-archives-of-trevosa.json](./400144-the-archives-of-trevosa.json) |
@@ -325,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
 | The Myth of a Godslayer | 374478 | [374478-the-myth-of-a-godslayer.json](./374478-the-myth-of-a-godslayer.json) |
+| The Name of the Night | 370527 | [370527-the-name-of-the-night.json](./370527-the-name-of-the-night.json) |
 | The Never Ending Flower Shop | 375007 | [375007-the-never-ending-flower-shop.json](./375007-the-never-ending-flower-shop.json) |
 | The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Night Shift | 380885 | [380885-the-night-shift.json](./380885-the-night-shift.json) |
