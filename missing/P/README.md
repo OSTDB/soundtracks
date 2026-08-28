@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
 | Pick Up the Waste | 368868 | [368868-pick-up-the-waste.json](./368868-pick-up-the-waste.json) |
 | Pickle Simulator | 387851 | [387851-pickle-simulator.json](./387851-pickle-simulator.json) |
+| Pickscover 2 | 364929 | [364929-pickscover-2.json](./364929-pickscover-2.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | Pico-Ball | 387235 | [387235-pico-ball.json](./387235-pico-ball.json) |
 | PicoCross | 404743 | [404743-picocross.json](./404743-picocross.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane vs. Blocks | 391507 | [391507-plane-vs-blocks.json](./391507-plane-vs-blocks.json) |
 | Planes, Bullets and Vodka | 30340 | [30340-planes-bullets-and-vodka.json](./30340-planes-bullets-and-vodka.json) |
 | Planescape: Torment & Icewind Dale: Enhanced Editions | 125019 | [125019-planescape-torment-and-icewind-dale-enhanced-editions.json](./125019-planescape-torment-and-icewind-dale-enhanced-editions.json) |
+| Planet Drop | 364939 | [364939-planet-drop.json](./364939-planet-drop.json) |
 | Planet Harvester: Incremental Odyssey | 406582 | [406582-planet-harvester-incremental-odyssey.json](./406582-planet-harvester-incremental-odyssey.json) |
 | Planet of the Apes | 23692 | [23692-planet-of-the-apes.json](./23692-planet-of-the-apes.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
 | Pure Shinty | 373947 | [373947-pure-shinty.json](./373947-pure-shinty.json) |
+| Purple Maniac | 364926 | [364926-purple-maniac.json](./364926-purple-maniac.json) |
 | Purrfect Ascent | 388633 | [388633-purrfect-ascent.json](./388633-purrfect-ascent.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
 | Puss in Box | 402821 | [402821-puss-in-box.json](./402821-puss-in-box.json) |
@@ -421,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Ball | 34460 | [34460-puzzle-ball.json](./34460-puzzle-ball.json) |
 | Puzzle Bobble Galaxy | 23257 | [23257-puzzle-bobble-galaxy.json](./23257-puzzle-bobble-galaxy.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
+| Puzzle Journey | 364921 | [364921-puzzle-journey.json](./364921-puzzle-journey.json) |
 | Puzzle Piecer: The Joys of Spring | 405378 | [405378-puzzle-piecer-the-joys-of-spring.json](./405378-puzzle-piecer-the-joys-of-spring.json) |
 | Puzzle Playing Cards | 384377 | [384377-puzzle-playing-cards.json](./384377-puzzle-playing-cards.json) |
 | Puzzle Quest: Immortal Edition | 365495 | [365495-puzzle-quest-immortal-edition.json](./365495-puzzle-quest-immortal-edition.json) |
