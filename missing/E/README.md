@@ -22,9 +22,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edd Skeleton VR | 406597 | [406597-edd-skeleton-vr.json](./406597-edd-skeleton-vr.json) |
 | Eden Coil | 411448 | [411448-eden-coil.json](./411448-eden-coil.json) |
 | Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
+| EEP 18 | 403491 | [403491-eep-18.json](./403491-eep-18.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
+| Egg Related Videogame | 403459 | [403459-egg-related-videogame.json](./403459-egg-related-videogame.json) |
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
