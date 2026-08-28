@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
 | Yorg.io 3 | 124182 | [124182-yorg-io-3.json](./124182-yorg-io-3.json) |
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
+| Yoru ni Saku Hana ha, Kimi no You Datta | 370541 | [370541-yoru-ni-saku-hana-ha-kimi-no-you-datta.json](./370541-yoru-ni-saku-hana-ha-kimi-no-you-datta.json) |
 | Yorunomori Bus Stop | 375667 | [375667-yorunomori-bus-stop.json](./375667-yorunomori-bus-stop.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Egg's Journey | 384935 | [384935-yoshi-eggs-journey.json](./384935-yoshi-eggs-journey.json) |
