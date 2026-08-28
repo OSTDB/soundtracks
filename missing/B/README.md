@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Bardo | 410123 | [410123-bardo.json](./410123-bardo.json) |
 | Bargalian Regicide | 387888 | [387888-bargalian-regicide.json](./387888-bargalian-regicide.json) |
+| Baroque Syndrome | 380272 | [380272-baroque-syndrome.json](./380272-baroque-syndrome.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball | 385503 | [385503-baseball.json](./385503-baseball.json) |
