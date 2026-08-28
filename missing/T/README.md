@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butterfly | 366064 | [366064-the-butterfly.json](./366064-the-butterfly.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
+| The Callers | 364914 | [364914-the-callers.json](./364914-the-callers.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
 | The Celestial Seeker | 380271 | [380271-the-celestial-seeker.json](./380271-the-celestial-seeker.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
 | The Front | 383245 | [383245-the-front.json](./383245-the-front.json) |
+| The Gallery: A Riley Magras Exhibit | 364913 | [364913-the-gallery-a-riley-magras-exhibit.json](./364913-the-gallery-a-riley-magras-exhibit.json) |
 | The Game Dev Tree | 366683 | [366683-the-game-dev-tree.json](./366683-the-game-dev-tree.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
@@ -305,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
 | The Last Pawn | 367259 | [367259-the-last-pawn.json](./367259-the-last-pawn.json) |
+| The Last Prisoner | 364927 | [364927-the-last-prisoner.json](./364927-the-last-prisoner.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
@@ -366,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
+| The Pagemaster | 364892 | [364892-the-pagemaster.json](./364892-the-pagemaster.json) |
 | The Palace of Deceit: The Secret of Castle Lockemoer | 397578 | [397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json](./397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Perdition Man: Interval | 389276 | [389276-the-perdition-man-interval.json](./389276-the-perdition-man-interval.json) |
@@ -443,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweet Spot | 380895 | [380895-the-sweet-spot.json](./380895-the-sweet-spot.json) |
 | The Sweetest Sound | 412871 | [412871-the-sweetest-sound.json](./412871-the-sweetest-sound.json) |
 | The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
+| The Tavern at the End of the Road | 364900 | [364900-the-tavern-at-the-end-of-the-road.json](./364900-the-tavern-at-the-end-of-the-road.json) |
 | The Thing | 378667 | [378667-the-thing.json](./378667-the-thing.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Tiny World | 365527 | [365527-the-tiny-world.json](./365527-the-tiny-world.json) |
