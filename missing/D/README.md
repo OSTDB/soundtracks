@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
 | Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
+| Deadline Delivery | 359263 | [359263-deadline-delivery.json](./359263-deadline-delivery.json) |
 | Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Combat | 373371 | [373371-deadly-combat.json](./373371-deadly-combat.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Insanity Club! | 383817 | [383817-doki-doki-insanity-club.json](./383817-doki-doki-insanity-club.json) |
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
 | DokiDoki Shutter Chance: Koi no Puzzle wo Kumitatete | 396773 | [396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json](./396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json) |
+| Doljnik | 359279 | [359279-doljnik.json](./359279-doljnik.json) |
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
 | Domain of Hallucination | 371715 | [371715-domain-of-hallucination.json](./371715-domain-of-hallucination.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
@@ -403,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Freeze | 380280 | [380280-dont-freeze.json](./380280-dont-freeze.json) |
 | Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
 | Don't Look Back | 380279 | [380279-dont-look-back.json](./380279-dont-look-back.json) |
+| Don't Look Behind You | 359232 | [359232-dont-look-behind-you.json](./359232-dont-look-behind-you.json) |
 | Don't Panik | 380278 | [380278-dont-panik.json](./380278-dont-panik.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
