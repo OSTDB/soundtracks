@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
+| Nocan's Quest: Sex Gold Glory | 387866 | [387866-nocans-quest-sex-gold-glory.json](./387866-nocans-quest-sex-gold-glory.json) |
 | Nocternum | 396088 | [396088-nocternum.json](./396088-nocternum.json) |
 | Nocturne Routes | 398202 | [398202-nocturne-routes.json](./398202-nocturne-routes.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noodlebound | 401419 | [401419-noodlebound.json](./401419-noodlebound.json) |
 | Norectus: Theatre of War | 406030 | [406030-norectus-theatre-of-war.json](./406030-norectus-theatre-of-war.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
+| Noroi no Yakata | 387905 | [387905-noroi-no-yakata.json](./387905-noroi-no-yakata.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
 | Not Human Nightmare | 396112 | [396112-not-human-nightmare.json](./396112-not-human-nightmare.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
