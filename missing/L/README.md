@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
+| Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
+| Low Poly Truck Simulator | 407914 | [407914-low-poly-truck-simulator.json](./407914-low-poly-truck-simulator.json) |
 | LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
