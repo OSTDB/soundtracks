@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
+| Neon Mind | 384406 | [384406-neon-mind.json](./384406-neon-mind.json) |
 | Neon Oblivion: Prelude | 404109 | [404109-neon-oblivion-prelude.json](./404109-neon-oblivion-prelude.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
 | Neon Steel | 394727 | [394727-neon-steel.json](./394727-neon-steel.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | Noroi no Yakata | 387905 | [387905-noroi-no-yakata.json](./387905-noroi-no-yakata.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
+| Not Enough Space | 384398 | [384398-not-enough-space.json](./384398-not-enough-space.json) |
 | Not Human Nightmare | 396112 | [396112-not-human-nightmare.json](./396112-not-human-nightmare.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
 | Notary Block | 414999 | [414999-notary-block.json](./414999-notary-block.json) |
