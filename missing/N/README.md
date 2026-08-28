@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
 | Neko Arena | 125714 | [125714-neko-arena.json](./125714-neko-arena.json) |
 | Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
+| Nekotype Keyboard Cat Simulator | 386020 | [386020-nekotype-keyboard-cat-simulator.json](./386020-nekotype-keyboard-cat-simulator.json) |
 | Nekro | 16622 | [16622-nekro.json](./16622-nekro.json) |
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
