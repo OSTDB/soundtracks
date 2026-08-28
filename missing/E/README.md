@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eclipse | 371115 | [371115-eclipse.json](./371115-eclipse.json) |
 | Eclitptic | 378671 | [378671-eclitptic.json](./378671-eclitptic.json) |
+| Eco Bridge | 369965 | [369965-eco-bridge.json](./369965-eco-bridge.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | Eco Volunteer | 388572 | [388572-eco-volunteer.json](./388572-eco-volunteer.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
