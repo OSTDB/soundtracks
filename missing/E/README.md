@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Summer Syndrome | 409434 | [409434-endless-summer-syndrome.json](./409434-endless-summer-syndrome.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
+| Enigma of Hearts | 393349 | [393349-enigma-of-hearts.json](./393349-enigma-of-hearts.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
 | Enthrallor | 394026 | [394026-enthrallor.json](./394026-enthrallor.json) |
 | Entiled | 399540 | [399540-entiled.json](./399540-entiled.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
 | Eqqo | 101685 | [101685-eqqo.json](./101685-eqqo.json) |
 | Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
+| Erehwon | 393357 | [393357-erehwon.json](./393357-erehwon.json) |
 | Eric Carle's Brown Bear Animal Parade | 89310 | [89310-eric-carles-brown-bear-animal-parade.json](./89310-eric-carles-brown-bear-animal-parade.json) |
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evenfall | 394731 | [394731-evenfall.json](./394731-evenfall.json) |
+| Everfall | 393364 | [393364-everfall.json](./393364-everfall.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
