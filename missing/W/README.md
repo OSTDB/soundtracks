@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
+| Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
 | Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
 | Win the Game: WTF! | 102200 | [102200-win-the-game-wtf.json](./102200-win-the-game-wtf.json) |
+| WinBolo | 410147 | [410147-winbolo.json](./410147-winbolo.json) |
 | Winds of Trade | 29892 | [29892-winds-of-trade.json](./29892-winds-of-trade.json) |
 | Winexy | 29799 | [29799-winexy.json](./29799-winexy.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
