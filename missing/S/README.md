@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
+| Sensual Adventures: Treasure Island | 367218 | [367218-sensual-adventures-treasure-island.json](./367218-sensual-adventures-treasure-island.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
@@ -267,6 +268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
 | Simsala Grimm: Het Dappere Snijdertje | 381443 | [381443-simsala-grimm-het-dappere-snijdertje.json](./381443-simsala-grimm-het-dappere-snijdertje.json) |
 | Simulation | 387193 | [387193-simulation.json](./387193-simulation.json) |
+| Simulyator Lazan'ya po Zabroshkam | 367257 | [367257-simulyator-lazanya-po-zabroshkam.json](./367257-simulyator-lazanya-po-zabroshkam.json) |
+| Simulyator PVZ | 367216 | [367216-simulyator-pvz.json](./367216-simulyator-pvz.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
@@ -563,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Conflict: Amber. Weapon of victory | 372336 | [372336-star-conflict-amber-weapon-of-victory.json](./372336-star-conflict-amber-weapon-of-victory.json) |
 | Star Drift | 86578 | [86578-star-drift.json](./86578-star-drift.json) |
+| Star Fleet II: Krellan Commander - Version 2.0 | 367262 | [367262-star-fleet-ii-krellan-commander-version-2-0.json](./367262-star-fleet-ii-krellan-commander-version-2-0.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
 | Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
 | Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
@@ -590,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
 | Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
+| Stargazer | 367234 | [367234-stargazer.json](./367234-stargazer.json) |
 | Starlight | 126311 | [126311-starlight.json](./126311-starlight.json) |
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
@@ -613,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Assault | 375618 | [375618-stealth-assault.json](./375618-stealth-assault.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
+| Steel Rain Complete | 367243 | [367243-steel-rain-complete.json](./367243-steel-rain-complete.json) |
 | Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
 | SteelMechBattle | 371714 | [371714-steelmechbattle.json](./371714-steelmechbattle.json) |
 | SteelSilk Championship | 368321 | [368321-steelsilk-championship.json](./368321-steelsilk-championship.json) |
@@ -717,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
+| Sulphur Memories: Alchemist | 367260 | [367260-sulphur-memories-alchemist.json](./367260-sulphur-memories-alchemist.json) |
 | Summer Days in the Joyful Countryside | 383838 | [383838-summer-days-in-the-joyful-countryside.json](./383838-summer-days-in-the-joyful-countryside.json) |
 | Summer Passion | 382016 | [382016-summer-passion.json](./382016-summer-passion.json) |
 | Summer’s Heartbeat | 383218 | [383218-summer-s-heartbeat.json](./383218-summer-s-heartbeat.json) |
@@ -737,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
+| Super Bear: Hunt for the Lost Beer | 367265 | [367265-super-bear-hunt-for-the-lost-beer.json](./367265-super-bear-hunt-for-the-lost-beer.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Bowl | 370507 | [370507-super-bowl.json](./370507-super-bowl.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
@@ -858,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symblyx | 383854 | [383854-symblyx.json](./383854-symblyx.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
 | SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
+| SyncroChromia | 367240 | [367240-syncrochromia.json](./367240-syncrochromia.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
 | Synthwave Smashers | 376284 | [376284-synthwave-smashers.json](./376284-synthwave-smashers.json) |
