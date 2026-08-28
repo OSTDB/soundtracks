@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangover Gallery | 402790 | [402790-hangover-gallery.json](./402790-hangover-gallery.json) |
 | Hanox | 406013 | [406013-hanox.json](./406013-hanox.json) |
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
+| Happiness 2 | 397536 | [397536-happiness-2.json](./397536-happiness-2.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
 | Harold Rabbit 3: The House of Mysteries | 406599 | [406599-harold-rabbit-3-the-house-of-mysteries.json](./406599-harold-rabbit-3-the-house-of-mysteries.json) |
 | Harry Potter and the Order of the Phoenix | 3011 | [3011-harry-potter-and-the-order-of-the-phoenix.json](./3011-harry-potter-and-the-order-of-the-phoenix.json) |
+| Harsh Reigns | 397541 | [397541-harsh-reigns.json](./397541-harsh-reigns.json) |
 | Harvest Festival 64 | 230631 | [230631-harvest-festival-64.json](./230631-harvest-festival-64.json) |
 | Harvest Moon: Lil' Farmers | 36914 | [36914-harvest-moon-lil-farmers.json](./36914-harvest-moon-lil-farmers.json) |
 | Harvest Moon: More Friends of Mineral Town | 49188 | [49188-harvest-moon-more-friends-of-mineral-town.json](./49188-harvest-moon-more-friends-of-mineral-town.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
+| HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
@@ -119,12 +122,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Blood Money Reprisal | 278026 | [278026-hitman-blood-money-reprisal.json](./278026-hitman-blood-money-reprisal.json) |
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
+| Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
+| Home Invader | 397543 | [397543-home-invader.json](./397543-home-invader.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
@@ -169,8 +174,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungerwinter | 398247 | [398247-hungerwinter.json](./398247-hungerwinter.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
+| Huntin' Buddies | 397532 | [397532-huntin-buddies.json](./397532-huntin-buddies.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hunting USA | 89490 | [89490-hunting-usa.json](./89490-hunting-usa.json) |
+| Hushed | 397559 | [397559-hushed.json](./397559-hushed.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
