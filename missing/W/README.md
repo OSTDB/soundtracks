@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
 | Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
+| Watcher's Eye | 371089 | [371089-watchers-eye.json](./371089-watchers-eye.json) |
 | Wave Leads You... | 379214 | [379214-wave-leads-you.json](./379214-wave-leads-you.json) |
 | Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
 | We Were Here Forever | 144455 | [144455-we-were-here-forever.json](./144455-we-were-here-forever.json) |
 | Wealdfall Squirrel | 412152 | [412152-wealdfall-squirrel.json](./412152-wealdfall-squirrel.json) |
+| Weapon Case | 371117 | [371117-weapon-case.json](./371117-weapon-case.json) |
 | Weapon of Choice | 23028 | [23028-weapon-of-choice.json](./23028-weapon-of-choice.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Web Fishing: Relax and Fish | 373391 | [373391-web-fishing-relax-and-fish.json](./373391-web-fishing-relax-and-fish.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When They Arrived | 102324 | [102324-when-they-arrived.json](./102324-when-they-arrived.json) |
 | Where are my Internets? | 31491 | [31491-where-are-my-internets.json](./31491-where-are-my-internets.json) |
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
+| Where's Derpy? | 371075 | [371075-wheres-derpy.json](./371075-wheres-derpy.json) |
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
 | Whip Wreck | 389895 | [389895-whip-wreck.json](./389895-whip-wreck.json) |
