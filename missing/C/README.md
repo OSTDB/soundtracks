@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Organized Neatly 2 | 382652 | [382652-cats-organized-neatly-2.json](./382652-cats-organized-neatly-2.json) |
 | Cats vs. Rats | 372310 | [372310-cats-vs-rats.json](./372310-cats-vs-rats.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
+| Cave No. 6 | 367792 | [367792-cave-no-6.json](./367792-cave-no-6.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
 | Cavern of Time | 29771 | [29771-cavern-of-time.json](./29771-cavern-of-time.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
+| Cloud Girl | 367814 | [367814-cloud-girl.json](./367814-cloud-girl.json) |
 | Cloud Roll | 373382 | [373382-cloud-roll.json](./373382-cloud-roll.json) |
 | Cloudsphere | 400114 | [400114-cloudsphere.json](./400114-cloudsphere.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
@@ -274,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
+| Colony Cephea | 367781 | [367781-colony-cephea.json](./367781-colony-cephea.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
 | Color Beatz | 87627 | [87627-color-beatz.json](./87627-color-beatz.json) |
 | Color by Number - Poly Art | 96084 | [96084-color-by-number-poly-art.json](./96084-color-by-number-poly-art.json) |
@@ -470,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube KaBaam: Cryptic Trail | 401388 | [401388-cube-kabaam-cryptic-trail.json](./401388-cube-kabaam-cryptic-trail.json) |
 | Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
+| CubeHub | 367819 | [367819-cubehub.json](./367819-cubehub.json) |
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Cubic | 408693 | [408693-cubic.json](./408693-cubic.json) |
 | Cubor | 87583 | [87583-cubor.json](./87583-cubor.json) |
@@ -492,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Grass: Farm Defense Survival | 373912 | [373912-cut-the-grass-farm-defense-survival.json](./373912-cut-the-grass-farm-defense-survival.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
+| Cute Girls Love Books | 367809 | [367809-cute-girls-love-books.json](./367809-cute-girls-love-books.json) |
 | Cutle | 387917 | [387917-cutle.json](./387917-cutle.json) |
 | Cyber City: Science Crime Mystery | 411449 | [411449-cyber-city-science-crime-mystery.json](./411449-cyber-city-science-crime-mystery.json) |
 | Cyber Demon Protocol | 398888 | [398888-cyber-demon-protocol.json](./398888-cyber-demon-protocol.json) |
