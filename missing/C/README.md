@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Celestial Front | 384367 | [384367-celestial-front.json](./384367-celestial-front.json) |
+| Cellrift: Sparkling Turn | 375008 | [375008-cellrift-sparkling-turn.json](./375008-cellrift-sparkling-turn.json) |
 | Chained | 378673 | [378673-chained.json](./378673-chained.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
+| Coloring Pixels: Halloween 7 | 375022 | [375022-coloring-pixels-halloween-7.json](./375022-coloring-pixels-halloween-7.json) |
 | Coloring Pixels: Jigsaw Pack | 407230 | [407230-coloring-pixels-jigsaw-pack.json](./407230-coloring-pixels-jigsaw-pack.json) |
 | Colors/Forest | 393343 | [393343-colors-forest.json](./393343-colors-forest.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
@@ -393,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crime Scene Clean: Paranormal | 374999 | [374999-crime-scene-clean-paranormal.json](./374999-crime-scene-clean-paranormal.json) |
 | Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
 | CriminalZ | 377438 | [377438-criminalz.json](./377438-criminalz.json) |
