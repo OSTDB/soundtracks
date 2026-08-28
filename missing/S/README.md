@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Senatordle | 386597 | [386597-senatordle.json](./386597-senatordle.json) |
 | Senchu | 395438 | [395438-senchu.json](./395438-senchu.json) |
+| Sengodai | 381458 | [381458-sengodai.json](./381458-sengodai.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
 | Simon the Sorcerer: 25th Anniversary Edition | 95120 | [95120-simon-the-sorcerer-25th-anniversary-edition.json](./95120-simon-the-sorcerer-25th-anniversary-edition.json) |
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
+| Simsala Grimm: Het Dappere Snijdertje | 381443 | [381443-simsala-grimm-het-dappere-snijdertje.json](./381443-simsala-grimm-het-dappere-snijdertje.json) |
 | Simulation | 387193 | [387193-simulation.json](./387193-simulation.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
@@ -499,6 +501,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
 | Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
 | Star of Providence | 262420 | [262420-star-of-providence.json](./262420-star-of-providence.json) |
+| Star Spark | 381469 | [381469-star-spark.json](./381469-star-spark.json) |
+| Star Striker | 381456 | [381456-star-striker.json](./381456-star-striker.json) |
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
@@ -566,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Storm The House Collection | 395424 | [395424-storm-the-house-collection.json](./395424-storm-the-house-collection.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
+| Stormy Space | 381463 | [381463-stormy-space.json](./381463-stormy-space.json) |
 | Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Storytime Cats: A Day at the Park | 406603 | [406603-storytime-cats-a-day-at-the-park.json](./406603-storytime-cats-a-day-at-the-park.json) |
