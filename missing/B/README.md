@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
+| Bad Girls: Naughty Hands | 398193 | [398193-bad-girls-naughty-hands.json](./398193-bad-girls-naughty-hands.json) |
 | Bad Girls: Wild Desire | 409492 | [409492-bad-girls-wild-desire.json](./409492-bad-girls-wild-desire.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bad Piggies: King Pig's Hunt | 408680 | [408680-bad-piggies-king-pigs-hunt.json](./408680-bad-piggies-king-pigs-hunt.json) |
