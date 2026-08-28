@@ -48,6 +48,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Franchise | 373939 | [373939-fantasy-franchise.json](./373939-fantasy-franchise.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
+| Fantasy Mosaics 10: Time Travel | 365470 | [365470-fantasy-mosaics-10-time-travel.json](./365470-fantasy-mosaics-10-time-travel.json) |
+| Fantasy Mosaics 11: Fleeing from Dinosaurs | 365471 | [365471-fantasy-mosaics-11-fleeing-from-dinosaurs.json](./365471-fantasy-mosaics-11-fleeing-from-dinosaurs.json) |
+| Fantasy Mosaics 12: Parallel Universes | 365472 | [365472-fantasy-mosaics-12-parallel-universes.json](./365472-fantasy-mosaics-12-parallel-universes.json) |
+| Fantasy Mosaics 36: Medieval Quest | 365523 | [365523-fantasy-mosaics-36-medieval-quest.json](./365523-fantasy-mosaics-36-medieval-quest.json) |
+| Fantasy Mosaics 42: Fairyland | 365510 | [365510-fantasy-mosaics-42-fairyland.json](./365510-fantasy-mosaics-42-fairyland.json) |
+| Fantasy Mosaics 50: Santa's World | 365509 | [365509-fantasy-mosaics-50-santas-world.json](./365509-fantasy-mosaics-50-santas-world.json) |
+| Fantasy Mosaics 8: New Adventure | 365469 | [365469-fantasy-mosaics-8-new-adventure.json](./365469-fantasy-mosaics-8-new-adventure.json) |
 | Fantasy of Caocao | 368858 | [368858-fantasy-of-caocao.json](./368858-fantasy-of-caocao.json) |
 | Fantasy of Caocao 2 | 368876 | [368876-fantasy-of-caocao-2.json](./368876-fantasy-of-caocao-2.json) |
 | Fantasy Ore Shop | 389882 | [389882-fantasy-ore-shop.json](./389882-fantasy-ore-shop.json) |
@@ -92,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father Forgets | 406027 | [406027-father-forgets.json](./406027-father-forgets.json) |
 | Fatty Space | 378043 | [378043-fatty-space.json](./378043-fatty-space.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
+| FBC: Firebreak - Deluxe Edition | 365524 | [365524-fbc-firebreak-deluxe-edition.json](./365524-fbc-firebreak-deluxe-edition.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
 | Fear is Vigilance | 385463 | [385463-fear-is-vigilance.json](./385463-fear-is-vigilance.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
@@ -173,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestarters | 386589 | [386589-firestarters.json](./386589-firestarters.json) |
 | First Draft | 414989 | [414989-first-draft.json](./414989-first-draft.json) |
 | First Strike | 378676 | [378676-first-strike.json](./378676-first-strike.json) |
+| First Survivors | 365518 | [365518-first-survivors.json](./365518-first-survivors.json) |
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
@@ -234,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
+| Food Hell | 365526 | [365526-food-hell.json](./365526-food-hell.json) |
 | Food Truck Kingdom | 373380 | [373380-food-truck-kingdom.json](./373380-food-truck-kingdom.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
 | Fool's Cup | 374464 | [374464-fools-cup.json](./374464-fools-cup.json) |
@@ -311,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
 | FPV Air Tracks | 33006 | [33006-fpv-air-tracks.json](./33006-fpv-air-tracks.json) |
 | Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
+| Fracture Field | 365488 | [365488-fracture-field.json](./365488-fracture-field.json) |
 | Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
 | Fragmentosis | 391494 | [391494-fragmentosis.json](./391494-fragmentosis.json) |
