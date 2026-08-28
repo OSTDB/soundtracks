@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
+| Bend2 | 397553 | [397553-bend2.json](./397553-bend2.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
 | Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
+| Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
+| Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
