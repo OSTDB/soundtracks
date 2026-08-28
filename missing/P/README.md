@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Championship Edition DX+ | 16515 | [16515-pac-man-championship-edition-dx.json](./16515-pac-man-championship-edition-dx.json) |
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
 | Pachi-Slot Winning Post | 63590 | [63590-pachi-slot-winning-post.json](./63590-pachi-slot-winning-post.json) |
+| Pachinko Farm | 390421 | [390421-pachinko-farm.json](./390421-pachinko-farm.json) |
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
+| PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
