@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Is Where The Hearth Is | 393318 | [393318-home-is-where-the-hearth-is.json](./393318-home-is-where-the-hearth-is.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
+| Home Sweet Gnome | 385459 | [385459-home-sweet-gnome.json](./385459-home-sweet-gnome.json) |
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Homushikku | 402211 | [402211-homushikku.json](./402211-homushikku.json) |
 | Honey Sprint | 401397 | [401397-honey-sprint.json](./401397-honey-sprint.json) |
@@ -220,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
 | Hungerwinter | 398247 | [398247-hungerwinter.json](./398247-hungerwinter.json) |
+| Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Huntin' Buddies | 397532 | [397532-huntin-buddies.json](./397532-huntin-buddies.json) |
