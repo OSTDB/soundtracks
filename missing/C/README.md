@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Frontier | 404143 | [404143-caribbean-frontier.json](./404143-caribbean-frontier.json) |
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
+| Carnal Coup: Overseer's Edition | 383235 | [383235-carnal-coup-overseers-edition.json](./383235-carnal-coup-overseers-edition.json) |
 | Carnival Games: Monkey See, Monkey Do | 47393 | [47393-carnival-games-monkey-see-monkey-do.json](./47393-carnival-games-monkey-see-monkey-do.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | Carol and the Bells: A Cozy Strategy Game | 406602 | [406602-carol-and-the-bells-a-cozy-strategy-game.json](./406602-carol-and-the-bells-a-cozy-strategy-game.json) |
