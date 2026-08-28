@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
 | Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
+| Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
 | King Arthur's World | 42506 | [42506-king-arthurs-world.json](./42506-king-arthurs-world.json) |
 | King of the Bridge | 260392 | [260392-king-of-the-bridge.json](./260392-king-of-the-bridge.json) |
 | King's Bounty: Armored Princess | 5042 | [5042-kings-bounty-armored-princess.json](./5042-kings-bounty-armored-princess.json) |
