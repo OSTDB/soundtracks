@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
 | Legend of Idle | 406608 | [406608-legend-of-idle.json](./406608-legend-of-idle.json) |
+| Legend of the Nine Rings | 362643 | [362643-legend-of-the-nine-rings.json](./362643-legend-of-the-nine-rings.json) |
 | Legend of the Void | 378019 | [378019-legend-of-the-void.json](./378019-legend-of-the-void.json) |
 | Legend of the Void 2 | 378018 | [378018-legend-of-the-void-2.json](./378018-legend-of-the-void-2.json) |
 | Legendary Tales V: Price of Power | 394712 | [394712-legendary-tales-v-price-of-power.json](./394712-legendary-tales-v-price-of-power.json) |
