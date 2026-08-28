@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Tank | 391469 | [391469-devil-tank.json](./391469-devil-tank.json) |
 | Devil Typocrypha: Alt-Eschatopia | 411467 | [411467-devil-typocrypha-alt-eschatopia.json](./411467-devil-typocrypha-alt-eschatopia.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
+| Devinica: Clip | 384948 | [384948-devinica-clip.json](./384948-devinica-clip.json) |
 | Dex: Your AR Dog Companion | 95761 | [95761-dex-your-ar-dog-companion.json](./95761-dex-your-ar-dog-companion.json) |
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
