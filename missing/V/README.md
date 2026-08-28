@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vial's Verdict | 396820 | [396820-vials-verdict.json](./396820-vials-verdict.json) |
 | Vials: ASMR Sand Sort Puzzle | 412155 | [412155-vials-asmr-sand-sort-puzzle.json](./412155-vials-asmr-sand-sort-puzzle.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
+| Video Battle Arena | 387195 | [387195-video-battle-arena.json](./387195-video-battle-arena.json) |
 | Vigilant Paradise | 412158 | [412158-vigilant-paradise.json](./412158-vigilant-paradise.json) |
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
