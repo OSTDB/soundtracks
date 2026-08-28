@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pack'N Maze | 385488 | [385488-packn-maze.json](./385488-packn-maze.json) |
 | Package Pirates | 381426 | [381426-package-pirates.json](./381426-package-pirates.json) |
+| Pact, Passion, Puchimon! | 368832 | [368832-pact-passion-puchimon.json](./368832-pact-passion-puchimon.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
 | Pharma Craft | 389886 | [389886-pharma-craft.json](./389886-pharma-craft.json) |
 | Pharmacy Store Simulator | 400756 | [400756-pharmacy-store-simulator.json](./400756-pharmacy-store-simulator.json) |
+| Pharmacy Store Simulator | 368847 | [368847-pharmacy-store-simulator.json](./368847-pharmacy-store-simulator.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photomaly | 386035 | [386035-photomaly.json](./386035-photomaly.json) |
 | Photos | 393371 | [393371-photos.json](./393371-photos.json) |
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
+| Pick Up the Waste | 368868 | [368868-pick-up-the-waste.json](./368868-pick-up-the-waste.json) |
 | Pickle Simulator | 387851 | [387851-pickle-simulator.json](./387851-pickle-simulator.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | Pico-Ball | 387235 | [387235-pico-ball.json](./387235-pico-ball.json) |
@@ -237,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop | 109644 | [109644-pleasure-puzzle-workshop.json](./109644-pleasure-puzzle-workshop.json) |
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
+| Plushes | 368838 | [368838-plushes.json](./368838-plushes.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
 | Pocket Gecko | 374483 | [374483-pocket-gecko.json](./374483-pocket-gecko.json) |
@@ -384,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
+| Pumpkin Hop | 368875 | [368875-pumpkin-hop.json](./368875-pumpkin-hop.json) |
 | Punch Monkey Revenge | 405379 | [405379-punch-monkey-revenge.json](./405379-punch-monkey-revenge.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | Puppy Fetch! | 387212 | [387212-puppy-fetch.json](./387212-puppy-fetch.json) |
