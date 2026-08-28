@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
+| Shaolin Mystery: Tale of the Jade Dragon Staff | 383239 | [383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json](./383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
 | Shapeless | 384983 | [384983-shapeless.json](./384983-shapeless.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterswarm | 391475 | [391475-shatterswarm.json](./391475-shatterswarm.json) |
 | Sheep It | 408620 | [408620-sheep-it.json](./408620-sheep-it.json) |
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
+| Sheep Way | 383225 | [383225-sheep-way.json](./383225-sheep-way.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Shepherd | 400812 | [400812-shepherd.json](./400812-shepherd.json) |
@@ -471,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSR | 384395 | [384395-ssr.json](./384395-ssr.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
+| St. Elmo's Fire | 383243 | [383243-st-elmos-fire.json](./383243-st-elmos-fire.json) |
 | Stack Chaos: Alien Express | 397561 | [397561-stack-chaos-alien-express.json](./397561-stack-chaos-alien-express.json) |
 | Stack Mates | 410143 | [410143-stack-mates.json](./410143-stack-mates.json) |
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
@@ -619,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
 | Summer Days in the Joyful Countryside | 383838 | [383838-summer-days-in-the-joyful-countryside.json](./383838-summer-days-in-the-joyful-countryside.json) |
+| Summer’s Heartbeat | 383218 | [383218-summer-s-heartbeat.json](./383218-summer-s-heartbeat.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
