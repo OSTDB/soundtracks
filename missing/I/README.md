@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
 | Infinite Crisis | 6764 | [6764-infinite-crisis.json](./6764-infinite-crisis.json) |
+| Infinite Empire | 408641 | [408641-infinite-empire.json](./408641-infinite-empire.json) |
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
