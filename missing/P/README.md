@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
+| Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
 | Pro Basketball Manager 2016 | 35797 | [35797-pro-basketball-manager-2016.json](./35797-pro-basketball-manager-2016.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
