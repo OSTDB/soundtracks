@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I am Crazy Gorilla | 401401 | [401401-i-am-crazy-gorilla.json](./401401-i-am-crazy-gorilla.json) |
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
+| I Commissioned Some Snails 5 | 378042 | [378042-i-commissioned-some-snails-5.json](./378042-i-commissioned-some-snails-5.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Dream of Demons | 392063 | [392063-i-dream-of-demons.json](./392063-i-dream-of-demons.json) |
 | I Found the Well | 385465 | [385465-i-found-the-well.json](./385465-i-found-the-well.json) |
@@ -128,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
 | Invincible Vs.: Double Dimensions - Skin Bundle | 400147 | [400147-invincible-vs-double-dimensions-skin-bundle.json](./400147-invincible-vs-double-dimensions-skin-bundle.json) |
 | Invincible Vs.: Ella Mental - Diamond Skin | 400153 | [400153-invincible-vs-ella-mental-diamond-skin.json](./400153-invincible-vs-ella-mental-diamond-skin.json) |
+| Invoker Tactics | 378045 | [378045-invoker-tactics.json](./378045-invoker-tactics.json) |
 | Inworld Origins | 393327 | [393327-inworld-origins.json](./393327-inworld-origins.json) |
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
 | Iris | 390974 | [390974-iris.json](./390974-iris.json) |
@@ -149,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
 | It Starts with a Summon | 390399 | [390399-it-starts-with-a-summon.json](./390399-it-starts-with-a-summon.json) |
+| It's Inside Me | 378065 | [378065-its-inside-me.json](./378065-its-inside-me.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
 | Ithaca | 404735 | [404735-ithaca.json](./404735-ithaca.json) |
