@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim | 362091 | [362091-earthworm-jim.json](./362091-earthworm-jim.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | EasyTetris | 371658 | [371658-easytetris.json](./371658-easytetris.json) |
+| Eat Repeat | 360997 | [360997-eat-repeat.json](./360997-eat-repeat.json) |
 | Echo Contingency | 387865 | [387865-echo-contingency.json](./387865-echo-contingency.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Eldritch Archives | 372854 | [372854-eldritch-archives.json](./372854-eldritch-archives.json) |
 | Electronic Baseball 3 | 375033 | [375033-electronic-baseball-3.json](./375033-electronic-baseball-3.json) |
+| Elemechs | 360966 | [360966-elemechs.json](./360966-elemechs.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elemental Witches | 390430 | [390430-elemental-witches.json](./390430-elemental-witches.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape Alice House | 378624 | [378624-escape-alice-house.json](./378624-escape-alice-house.json) |
 | Escape Alice House 2 | 378625 | [378625-escape-alice-house-2.json](./378625-escape-alice-house-2.json) |
+| Escape From Amazonia | 360952 | [360952-escape-from-amazonia.json](./360952-escape-from-amazonia.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
@@ -177,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
+| Everslide | 360946 | [360946-everslide.json](./360946-everslide.json) |
 | Everspace 2: Galactic Edition | 364294 | [364294-everspace-2-galactic-edition.json](./364294-everspace-2-galactic-edition.json) |
 | Every 5x5 Nonogram | 402772 | [402772-every-5x5-nonogram.json](./402772-every-5x5-nonogram.json) |
 | Every 5x6 Nonogram | 402774 | [402774-every-5x6-nonogram.json](./402774-every-5x6-nonogram.json) |
