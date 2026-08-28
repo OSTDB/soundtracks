@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golem Lights | 401396 | [401396-golem-lights.json](./401396-golem-lights.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
+| Golf Solitaire Pro Tour | 370540 | [370540-golf-solitaire-pro-tour.json](./370540-golf-solitaire-pro-tour.json) |
 | Gone In November | 31912 | [31912-gone-in-november.json](./31912-gone-in-november.json) |
 | Gone Me | 407923 | [407923-gone-me.json](./407923-gone-me.json) |
 | Goo Deer | 408638 | [408638-goo-deer.json](./408638-goo-deer.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
 | Guns of Salvation | 371727 | [371727-guns-of-salvation.json](./371727-guns-of-salvation.json) |
 | Guns, Princess and Braves | 403473 | [403473-guns-princess-and-braves.json](./403473-guns-princess-and-braves.json) |
+| Guns&Sodas | 370511 | [370511-guns-and-sodas.json](./370511-guns-and-sodas.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | GunX | 392038 | [392038-gunx.json](./392038-gunx.json) |
