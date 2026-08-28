@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane | 22644 | [22644-x-plane.json](./22644-x-plane.json) |
 | XAOC | 46467 | [46467-xaoc.json](./46467-xaoc.json) |
 | XCOM 2 Collection | 86268 | [86268-xcom-2-collection.json](./86268-xcom-2-collection.json) |
+| Xdding | 389285 | [389285-xdding.json](./389285-xdding.json) |
 | Xenon Valkyrie+ | 77957 | [77957-xenon-valkyrie.json](./77957-xenon-valkyrie.json) |
 | Xombee MPFPS | 392658 | [392658-xombee-mpfps.json](./392658-xombee-mpfps.json) |
 | XP Girls | 126416 | [126416-xp-girls.json](./126416-xp-girls.json) |
