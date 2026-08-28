@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalactiWar: Empire Simulator | 406600 | [406600-galactiwar-empire-simulator.json](./406600-galactiwar-empire-simulator.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
+| Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
@@ -136,6 +137,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
 | Gran Vitreous | 35824 | [35824-gran-vitreous.json](./35824-gran-vitreous.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Color Pack 1 | 402191 | [402191-granblue-fantasy-relink-endless-ragnarok-color-pack-1.json](./402191-granblue-fantasy-relink-endless-ragnarok-color-pack-1.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Color Pack 2 | 402190 | [402190-granblue-fantasy-relink-endless-ragnarok-color-pack-2.json](./402190-granblue-fantasy-relink-endless-ragnarok-color-pack-2.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Color Pack 3 | 402189 | [402189-granblue-fantasy-relink-endless-ragnarok-color-pack-3.json](./402189-granblue-fantasy-relink-endless-ragnarok-color-pack-3.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Emote Expansion Set: Let's Chat | 402192 | [402192-granblue-fantasy-relink-endless-ragnarok-emote-expansion-set-lets-chat.json](./402192-granblue-fantasy-relink-endless-ragnarok-emote-expansion-set-lets-chat.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Ignition Pack | 402193 | [402193-granblue-fantasy-relink-endless-ragnarok-ignition-pack.json](./402193-granblue-fantasy-relink-endless-ragnarok-ignition-pack.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Special Edition | 402195 | [402195-granblue-fantasy-relink-endless-ragnarok-special-edition.json](./402195-granblue-fantasy-relink-endless-ragnarok-special-edition.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok: Special Pack | 402194 | [402194-granblue-fantasy-relink-endless-ragnarok-special-pack.json](./402194-granblue-fantasy-relink-endless-ragnarok-special-pack.json) |
 | Grand Class Melee 2 | 36014 | [36014-grand-class-melee-2.json](./36014-grand-class-melee-2.json) |
 | Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
