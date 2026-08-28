@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
 | Garage Mechanic Simulator 2026 | 404729 | [404729-garage-mechanic-simulator-2026.json](./404729-garage-mechanic-simulator-2026.json) |
 | Garbage Truck Simulator 2011 | 22638 | [22638-garbage-truck-simulator-2011.json](./22638-garbage-truck-simulator-2011.json) |
+| Gardener's Luck | 392638 | [392638-gardeners-luck.json](./392638-gardeners-luck.json) |
 | Gardenia | 398875 | [398875-gardenia.json](./398875-gardenia.json) |
 | Garfield: A Tail of Two Kitties | 23734 | [23734-garfield-a-tail-of-two-kitties.json](./23734-garfield-a-tail-of-two-kitties.json) |
 | Gargoyles | 4530 | [4530-gargoyles.json](./4530-gargoyles.json) |
