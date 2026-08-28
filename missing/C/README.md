@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompers Playhouse: Chapter 1 | 396060 | [396060-chompers-playhouse-chapter-1.json](./396060-chompers-playhouse-chapter-1.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
+| Choo Choo Survivor 2 | 365481 | [365481-choo-choo-survivor-2.json](./365481-choo-choo-survivor-2.json) |
 | Chopping Hour | 375658 | [375658-chopping-hour.json](./375658-chopping-hour.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chronigma | 371092 | [371092-chronigma.json](./371092-chronigma.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
+| Chrono Flux | 365475 | [365475-chrono-flux.json](./365475-chrono-flux.json) |
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Cicada | 370533 | [370533-cicada.json](./370533-cicada.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
