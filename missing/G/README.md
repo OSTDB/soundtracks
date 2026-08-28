@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
 | Gaia Beyond | 86418 | [86418-gaia-beyond.json](./86418-gaia-beyond.json) |
+| Gaionin War Don't Combine | 379212 | [379212-gaionin-war-dont-combine.json](./379212-gaionin-war-dont-combine.json) |
 | Gakuen Tokusou Bakushion | 386048 | [386048-gakuen-tokusou-bakushion.json](./386048-gakuen-tokusou-bakushion.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
+| Glide | 379224 | [379224-glide.json](./379224-glide.json) |
 | Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
@@ -163,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
+| Gothic 2 Returning | 379192 | [379192-gothic-2-returning.json](./379192-gothic-2-returning.json) |
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Gothic II: Battle of the Kings 3 | 398858 | [398858-gothic-ii-battle-of-the-kings-3.json](./398858-gothic-ii-battle-of-the-kings-3.json) |
 | Gothic II: Piratenleben | 398861 | [398861-gothic-ii-piratenleben.json](./398861-gothic-ii-piratenleben.json) |
