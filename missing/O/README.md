@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore | 86465 | [86465-ore.json](./86465-ore.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
+| Orson, P.I.: Midnight at the Grand Hotel | 392054 | [392054-orson-p-i-midnight-at-the-grand-hotel.json](./392054-orson-p-i-midnight-at-the-grand-hotel.json) |
 | Orwell Bundle | 402197 | [402197-orwell-bundle.json](./402197-orwell-bundle.json) |
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Oryo | 412183 | [412183-oryo.json](./412183-oryo.json) |
