@@ -27,4 +27,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Draw | 31468 | [31468-quick-draw.json](./31468-quick-draw.json) |
 | Quick Wordz | 24581 | [24581-quick-wordz.json](./24581-quick-wordz.json) |
 | Quiet Soul | 397577 | [397577-quiet-soul.json](./397577-quiet-soul.json) |
+| Quill & Sword: Fate of Eryndor | 383230 | [383230-quill-and-sword-fate-of-eryndor.json](./383230-quill-and-sword-fate-of-eryndor.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
