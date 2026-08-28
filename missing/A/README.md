@@ -327,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Atmosphere | 398236 | [398236-atmosphere.json](./398236-atmosphere.json) |
+| Atomic Brain | 383222 | [383222-atomic-brain.json](./383222-atomic-brain.json) |
+| Atomic Cosmos | 383223 | [383223-atomic-cosmos.json](./383223-atomic-cosmos.json) |
 | Attack Invader | 385499 | [385499-attack-invader.json](./385499-attack-invader.json) |
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
