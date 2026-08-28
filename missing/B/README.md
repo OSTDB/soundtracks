@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Dusty | 383802 | [383802-bunny-dusty.json](./383802-bunny-dusty.json) |
 | Bunny Flags 2 | 387870 | [387870-bunny-flags-2.json](./387870-bunny-flags-2.json) |
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
+| Burakku Jakku Samurai | 378621 | [378621-burakku-jakku-samurai.json](./378621-burakku-jakku-samurai.json) |
 | Burgie's Cozy Kitchen: Halloween Cosmetics Pack | 407210 | [407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json](./407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json) |
 | Burnable Hearts! | 410117 | [410117-burnable-hearts.json](./410117-burnable-hearts.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
