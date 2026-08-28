@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Genshin Impact: A Traveler on a Winter's Night | 382013 | [382013-genshin-impact-a-traveler-on-a-winters-night.json](./382013-genshin-impact-a-traveler-on-a-winters-night.json) |
 | Gentleman's Violence | 384956 | [384956-gentlemans-violence.json](./384956-gentlemans-violence.json) |
+| GenTown | 376299 | [376299-gentown.json](./376299-gentown.json) |
 | Geo-Political Simulator 2026 Edition | 379768 | [379768-geo-political-simulator-2026-edition.json](./379768-geo-political-simulator-2026-edition.json) |
 | Geode | 379780 | [379780-geode.json](./379780-geode.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes on the Roam | 385461 | [385461-gnomes-on-the-roam.json](./385461-gnomes-on-the-roam.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
+| Goat Mode: Activated | 376298 | [376298-goat-mode-activated.json](./376298-goat-mode-activated.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
 | Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
