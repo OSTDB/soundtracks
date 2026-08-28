@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboomania | 413569 | [413569-kaboomania.json](./413569-kaboomania.json) |
 | Kacha Fruit Cut | 404156 | [404156-kacha-fruit-cut.json](./404156-kacha-fruit-cut.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
+| Kàngzhàn Shènglì 70 Zhōunián Dà Yuèbīng Zhè Tiān Wǒ Lǎopó Tūrán Xiāoshī Le | 395419 | [395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json](./395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
@@ -79,10 +80,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
+| Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
 | Knockout Battle | 403466 | [403466-knockout-battle.json](./403466-knockout-battle.json) |
 | Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
 | Kodas Nereus | 396082 | [396082-kodas-nereus.json](./396082-kodas-nereus.json) |
+| Koiken Otome: Revive | 395450 | [395450-koiken-otome-revive.json](./395450-koiken-otome-revive.json) |
 | Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
 | Kokutoto | 397537 | [397537-kokutoto.json](./397537-kokutoto.json) |
 | Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
