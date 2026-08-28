@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws and Feathers | 24578 | [24578-claws-and-feathers.json](./24578-claws-and-feathers.json) |
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
+| Click to Win 5000 Achievement | 410766 | [410766-click-to-win-5000-achievement.json](./410766-click-to-win-5000-achievement.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
+| Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
