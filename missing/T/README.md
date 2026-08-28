@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
+| The Binding of Isaac: Most Unholy Edition | 382616 | [382616-the-binding-of-isaac-most-unholy-edition.json](./382616-the-binding-of-isaac-most-unholy-edition.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped on the FlipSide | 383836 | [383836-trapped-on-the-flipside.json](./383836-trapped-on-the-flipside.json) |
 | Trapped Together | 407984 | [407984-trapped-together.json](./407984-trapped-together.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
+| Trash Truck Simulator | 382650 | [382650-trash-truck-simulator.json](./382650-trash-truck-simulator.json) |
 | Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
 | Trashy Cashy | 406014 | [406014-trashy-cashy.json](./406014-trashy-cashy.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
@@ -609,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tūnshí Tiāndì Xūnǐ Shìjiè | 396828 | [396828-tunshi-tiandi-xuni-shijie.json](./396828-tunshi-tiandi-xuni-shijie.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
+| Tux Fishing | 382651 | [382651-tux-fishing.json](./382651-tux-fishing.json) |
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twinkle Seek | 400758 | [400758-twinkle-seek.json](./400758-twinkle-seek.json) |
