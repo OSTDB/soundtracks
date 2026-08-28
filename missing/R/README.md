@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Ramune Forest | 391472 | [391472-ramune-forest.json](./391472-ramune-forest.json) |
+| Ranchbound | 386596 | [386596-ranchbound.json](./386596-ranchbound.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
 | Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
 | Ratalorica | 403474 | [403474-ratalorica.json](./403474-ratalorica.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
