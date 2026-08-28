@@ -118,6 +118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Secrets of Solari | 387864 | [387864-secrets-of-solari.json](./387864-secrets-of-solari.json) |
+| Security Guard Sex: Episode 4 | 371069 | [371069-security-guard-sex-episode-4.json](./371069-security-guard-sex-episode-4.json) |
+| Security Guard Sex: Episode 5 | 371076 | [371076-security-guard-sex-episode-5.json](./371076-security-guard-sex-episode-5.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
 | Seduce Me 2: The Demon War | 33008 | [33008-seduce-me-2-the-demon-war.json](./33008-seduce-me-2-the-demon-war.json) |
 | Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep It | 408620 | [408620-sheep-it.json](./408620-sheep-it.json) |
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
 | Sheep Way | 383225 | [383225-sheep-way.json](./383225-sheep-way.json) |
+| ShellCore Command Remastered | 371100 | [371100-shellcore-command-remastered.json](./371100-shellcore-command-remastered.json) |
 | Shellstorm: The Great War | 374463 | [374463-shellstorm-the-great-war.json](./374463-shellstorm-the-great-war.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
@@ -430,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
 | Soulcery: Deck of Shadows | 391516 | [391516-soulcery-deck-of-shadows.json](./391516-soulcery-deck-of-shadows.json) |
 | Soulmine | 404149 | [404149-soulmine.json](./404149-soulmine.json) |
+| Sounds Terrifying | 371114 | [371114-sounds-terrifying.json](./371114-sounds-terrifying.json) |
 | Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
 | Soup Rooms | 379248 | [379248-soup-rooms.json](./379248-soup-rooms.json) |
 | Soup4U | 408699 | [408699-soup4u.json](./408699-soup4u.json) |
@@ -507,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spot's Busy Day | 378662 | [378662-spots-busy-day.json](./378662-spots-busy-day.json) |
 | SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
+| Spring and Autumn Chronicles | 371113 | [371113-spring-and-autumn-chronicles.json](./371113-spring-and-autumn-chronicles.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
@@ -691,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Days in the Joyful Countryside | 383838 | [383838-summer-days-in-the-joyful-countryside.json](./383838-summer-days-in-the-joyful-countryside.json) |
 | Summer Passion | 382016 | [382016-summer-passion.json](./382016-summer-passion.json) |
 | Summer’s Heartbeat | 383218 | [383218-summer-s-heartbeat.json](./383218-summer-s-heartbeat.json) |
+| Summercamp | 371098 | [371098-summercamp.json](./371098-summercamp.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
