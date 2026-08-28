@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Types | 22892 | [22892-r-types.json](./22892-r-types.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.E.C | 397556 | [397556-r-e-c.json](./397556-r-e-c.json) |
+| R.I.P.: Reincarnation Insurance Program | 372865 | [372865-r-i-p-reincarnation-insurance-program.json](./372865-r-i-p-reincarnation-insurance-program.json) |
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Survivors | 387863 | [387863-rhythm-survivors.json](./387863-rhythm-survivors.json) |
 | Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
 | Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
+| Rick Henderson: Eternal Arena | 372862 | [372862-rick-henderson-eternal-arena.json](./372862-rick-henderson-eternal-arena.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
 | Riddle Of Revenge | 383849 | [383849-riddle-of-revenge.json](./383849-riddle-of-revenge.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
@@ -292,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Challenge 2 | 7166 | [7166-rugby-challenge-2.json](./7166-rugby-challenge-2.json) |
 | Rugby World Cup 2011 | 7165 | [7165-rugby-world-cup-2011.json](./7165-rugby-world-cup-2011.json) |
 | Rugrats: Search for Reptar | 2787 | [2787-rugrats-search-for-reptar.json](./2787-rugrats-search-for-reptar.json) |
+| Rugrats: Totally Angelica | 372882 | [372882-rugrats-totally-angelica.json](./372882-rugrats-totally-angelica.json) |
 | Rumble Club | 276929 | [276929-rumble-club.json](./276929-rumble-club.json) |
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
