@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4 Porsche | 20824 | [20824-forza-motorsport-4-porsche.json](./20824-forza-motorsport-4-porsche.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
+| Four Corners: Square Off | 381452 | [381452-four-corners-square-off.json](./381452-four-corners-square-off.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
 | Fox Jam | 405395 | [405395-fox-jam.json](./405395-fox-jam.json) |
 | FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
@@ -280,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Parkour Obby | 414231 | [414231-frog-parkour-obby.json](./414231-frog-parkour-obby.json) |
 | Frog vs Mural Girl | 391478 | [391478-frog-vs-mural-girl.json](./391478-frog-vs-mural-girl.json) |
 | Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
+| Froggotten Recipes | 381451 | [381451-froggotten-recipes.json](./381451-froggotten-recipes.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
