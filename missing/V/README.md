@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga 2: Bratya po oruzhiyu | 393302 | [393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V-Racer Hoverbike | 95577 | [95577-v-racer-hoverbike.json](./95577-v-racer-hoverbike.json) |
 | V.Start | 371085 | [371085-v-start.json](./371085-v-start.json) |
+| Vacation Terminal | 370534 | [370534-vacation-terminal.json](./370534-vacation-terminal.json) |
 | Vacivus: Resurger | 391501 | [391501-vacivus-resurger.json](./391501-vacivus-resurger.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
