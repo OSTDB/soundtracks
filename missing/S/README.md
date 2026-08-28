@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Shepherd | 400812 | [400812-shepherd.json](./400812-shepherd.json) |
+| Sheriff Park Ranger | 369978 | [369978-sheriff-park-ranger.json](./369978-sheriff-park-ranger.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shibora Renkare Keiyaku: Hataraku Otona no Onee-san to H na Rental Kareshi Seikatsu | 410785 | [410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json](./410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
 | Side Hustle | 389900 | [389900-side-hustle.json](./389900-side-hustle.json) |
 | Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
+| Siege and Summons | 369985 | [369985-siege-and-summons.json](./369985-siege-and-summons.json) |
 | Siege Wars | 35778 | [35778-siege-wars.json](./35778-siege-wars.json) |
 | Sign the Deal: Real Estate Simulator | 389875 | [389875-sign-the-deal-real-estate-simulator.json](./389875-sign-the-deal-real-estate-simulator.json) |
 | Signal Lost: The Ping | 389899 | [389899-signal-lost-the-ping.json](./389899-signal-lost-the-ping.json) |
@@ -306,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRen | 390386 | [390386-skyren.json](./390386-skyren.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
+| Skyward Masters | 369943 | [369943-skyward-masters.json](./369943-skyward-masters.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
@@ -636,6 +639,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
+| Strange Brew | 369930 | [369930-strange-brew.json](./369930-strange-brew.json) |
+| Stranglehold of the Elite | 369979 | [369979-stranglehold-of-the-elite.json](./369979-stranglehold-of-the-elite.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
