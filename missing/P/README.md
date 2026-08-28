@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
 | Painkiller: Hell & Damnation - The Clock Strikes Meat Night | 20849 | [20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json](./20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
+| Pair-A-Dice | 374492 | [374492-pair-a-dice.json](./374492-pair-a-dice.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
 | Paladin's Horn: The Destiny of the Holy Lance | 398254 | [398254-paladins-horn-the-destiny-of-the-holy-lance.json](./398254-paladins-horn-the-destiny-of-the-holy-lance.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel Attack | 379739 | [379739-panel-attack.json](./379739-panel-attack.json) |
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
 | Pankapu | 24440 | [24440-pankapu.json](./24440-pankapu.json) |
+| Panoptyca: Idle RPG Manager | 374466 | [374466-panoptyca-idle-rpg-manager.json](./374466-panoptyca-idle-rpg-manager.json) |
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
 | Panty Party Perfect | 401422 | [401422-panty-party-perfect.json](./401422-panty-party-perfect.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
@@ -78,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
 | Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
+| Paw Pop Fish | 374480 | [374480-paw-pop-fish.json](./374480-paw-pop-fish.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
@@ -225,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
+| Pocket Gecko | 374483 | [374483-pocket-gecko.json](./374483-pocket-gecko.json) |
 | Pocket Kingdom | 32991 | [32991-pocket-kingdom.json](./32991-pocket-kingdom.json) |
 | Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
 | Pocket Monsters Crystal Version | 392043 | [392043-pocket-monsters-crystal-version.json](./392043-pocket-monsters-crystal-version.json) |
