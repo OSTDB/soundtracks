@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
+| Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
 | Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
+| Bit.Trip Flux | 15281 | [15281-bit-trip-flux.json](./15281-bit-trip-flux.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
+| Blockscape | 15404 | [15404-blockscape.json](./15404-blockscape.json) |
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
