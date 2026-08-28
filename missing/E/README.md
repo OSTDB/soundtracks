@@ -74,6 +74,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - The Warpath Campaign | 82085 | [82085-empire-total-war-the-warpath-campaign.json](./82085-empire-total-war-the-warpath-campaign.json) |
 | Empluna | 404123 | [404123-empluna.json](./404123-empluna.json) |
 | Empyrean Defense | 395395 | [395395-empyrean-defense.json](./395395-empyrean-defense.json) |
+| Enchanted Desert | 386615 | [386615-enchanted-desert.json](./386615-enchanted-desert.json) |
+| Enchanted Vampire Defense | 386614 | [386614-enchanted-vampire-defense.json](./386614-enchanted-vampire-defense.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
