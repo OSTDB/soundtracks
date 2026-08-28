@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
+| Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
 | Scrabble | 407938 | [407938-scrabble.json](./407938-scrabble.json) |
+| Scrabble | 405420 | [405420-scrabble.json](./405420-scrabble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
+| Shatter | 405413 | [405413-shatter.json](./405413-shatter.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Sheep It | 408620 | [408620-sheep-it.json](./408620-sheep-it.json) |
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
@@ -160,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: The Short Message | 218744 | [218744-silent-hill-the-short-message.json](./218744-silent-hill-the-short-message.json) |
 | Silent Hunter 4: Wolves of the Pacific | 993 | [993-silent-hunter-4-wolves-of-the-pacific.json](./993-silent-hunter-4-wolves-of-the-pacific.json) |
 | Silent Hunter II | 992 | [992-silent-hunter-ii.json](./992-silent-hunter-ii.json) |
+| Silent Raid | 405382 | [405382-silent-raid.json](./405382-silent-raid.json) |
 | Sillinder's Somewhat Uneventful Tuesday | 409467 | [409467-sillinders-somewhat-uneventful-tuesday.json](./409467-sillinders-somewhat-uneventful-tuesday.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
@@ -209,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
+| Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
@@ -303,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsword Cards: Demontide | 115679 | [115679-spellsword-cards-demontide.json](./115679-spellsword-cards-demontide.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
+| Sperm Runner | 405422 | [405422-sperm-runner.json](./405422-sperm-runner.json) |
 | Sphinx and the Cursed Mummy | 4164 | [4164-sphinx-and-the-cursed-mummy.json](./4164-sphinx-and-the-cursed-mummy.json) |
 | Spider-Man | 3325 | [3325-spider-man.json](./3325-spider-man.json) |
 | Spider-Man 3 | 252202 | [252202-spider-man-3.json](./252202-spider-man-3.json) |
@@ -324,6 +330,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 20858 | [20858-spongebob-squarepants-planktons-robotic-revenge.json](./20858-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
+| Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
+| Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Square Space | 413524 | [413524-square-space.json](./413524-square-space.json) |
@@ -460,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kaiju | 32987 | [32987-super-kaiju.json](./32987-super-kaiju.json) |
 | Super Kinky | 37386 | [37386-super-kinky.json](./37386-super-kinky.json) |
 | Super Mario 64 | 229245 | [229245-super-mario-64.json](./229245-super-mario-64.json) |
+| Super Mario 64: The Unknown Courses | 405410 | [405410-super-mario-64-the-unknown-courses.json](./405410-super-mario-64-the-unknown-courses.json) |
 | Super Mario Advance | 81197 | [81197-super-mario-advance.json](./81197-super-mario-advance.json) |
 | Super Mario All-Stars + Super Mario World | 77378 | [77378-super-mario-all-stars-super-mario-world.json](./77378-super-mario-all-stars-super-mario-world.json) |
 | Super Mario Bros. / Duck Hunt | 69638 | [69638-super-mario-bros-duck-hunt.json](./69638-super-mario-bros-duck-hunt.json) |
@@ -467,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The Lost Levels | 1066 | [1066-super-mario-bros-the-lost-levels.json](./1066-super-mario-bros-the-lost-levels.json) |
 | Super Mario Bros.: The Lost Levels | 222097 | [222097-super-mario-bros-the-lost-levels.json](./222097-super-mario-bros-the-lost-levels.json) |
 | Super Meat Boy 3D | 348175 | [348175-super-meat-boy-3d.json](./348175-super-meat-boy-3d.json) |
+| Super Monkey Ball 349 | 405409 | [405409-super-monkey-ball-349.json](./405409-super-monkey-ball-349.json) |
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
 | Super Paper Mario | 2191 | [2191-super-paper-mario.json](./2191-super-paper-mario.json) |
