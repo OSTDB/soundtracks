@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fabric | 22722 | [22722-fabric.json](./22722-fabric.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
+| Faded Memories: Video Game Edition | 393365 | [393365-faded-memories-video-game-edition.json](./393365-faded-memories-video-game-edition.json) |
 | Fading Light | 400779 | [400779-fading-light.json](./400779-fading-light.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | Faerie Solitaire Harvest | 115787 | [115787-faerie-solitaire-harvest.json](./115787-faerie-solitaire-harvest.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
+| Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
