@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Winning Post | 63590 | [63590-pachi-slot-winning-post.json](./63590-pachi-slot-winning-post.json) |
 | Pachinko Farm | 390421 | [390421-pachinko-farm.json](./390421-pachinko-farm.json) |
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
+| Pack'N Maze | 385488 | [385488-packn-maze.json](./385488-packn-maze.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
 | PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
+| Puck'n Monster | 385489 | [385489-puckn-monster.json](./385489-puckn-monster.json) |
 | Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
