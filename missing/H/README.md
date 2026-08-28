@@ -128,7 +128,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Merge Dice | 382029 | [382029-hentai-merge-dice.json](./382029-hentai-merge-dice.json) |
 | Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
 | Hentai Novel: Lily is stripping | 382018 | [382018-hentai-novel-lily-is-stripping.json](./382018-hentai-novel-lily-is-stripping.json) |
+| Hentai Party: Bikini Beach | 373381 | [373381-hentai-party-bikini-beach.json](./373381-hentai-party-bikini-beach.json) |
+| Hentai Photo Collection 8 in 1 | 373403 | [373403-hentai-photo-collection-8-in-1.json](./373403-hentai-photo-collection-8-in-1.json) |
 | Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
+| Hentai Secrets: Sexy Women | 373400 | [373400-hentai-secrets-sexy-women.json](./373400-hentai-secrets-sexy-women.json) |
 | Hentai Shinobi | 387197 | [387197-hentai-shinobi.json](./387197-hentai-shinobi.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
