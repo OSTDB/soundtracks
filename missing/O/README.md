@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
 | Oil Island Hustle | 406021 | [406021-oil-island-hustle.json](./406021-oil-island-hustle.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
+| OilClicker | 401418 | [401418-oilclicker.json](./401418-oilclicker.json) |
 | Oink & Collect | 410769 | [410769-oink-and-collect.json](./410769-oink-and-collect.json) |
 | OK Boomer | 403480 | [403480-ok-boomer.json](./403480-ok-boomer.json) |
 | Okurek | 404154 | [404154-okurek.json](./404154-okurek.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opoona | 5087 | [5087-opoona.json](./5087-opoona.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
+| Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
@@ -87,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Box | 29824 | [29824-out-of-the-box.json](./29824-out-of-the-box.json) |
 | Out of the Park Baseball 15 | 16955 | [16955-out-of-the-park-baseball-15.json](./16955-out-of-the-park-baseball-15.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
+| Outbreak Compound | 401416 | [401416-outbreak-compound.json](./401416-outbreak-compound.json) |
 | Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
