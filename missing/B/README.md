@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
+| Battle Meating | 414956 | [414956-battle-meating.json](./414956-battle-meating.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
 | Battle of Giants: Dinosaurs | 7906 | [7906-battle-of-giants-dinosaurs.json](./7906-battle-of-giants-dinosaurs.json) |
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
