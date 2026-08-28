@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancients of Arkar | 382602 | [382602-ancients-of-arkar.json](./382602-ancients-of-arkar.json) |
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
+| Angel Love Online 2 | 372879 | [372879-angel-love-online-2.json](./372879-angel-love-online-2.json) |
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Defenders | 8993 | [8993-anomaly-defenders.json](./8993-anomaly-defenders.json) |
 | Anomaly Protocol | 373933 | [373933-anomaly-protocol.json](./373933-anomaly-protocol.json) |
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
+| Another Day of My Life | 372857 | [372857-another-day-of-my-life.json](./372857-another-day-of-my-life.json) |
 | Ant War: Domination | 34395 | [34395-ant-war-domination.json](./34395-ant-war-domination.json) |
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
+| Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
@@ -311,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
+| Arcfall | 372843 | [372843-arcfall.json](./372843-arcfall.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
 | Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
