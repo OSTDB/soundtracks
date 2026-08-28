@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
+| Hearthstone: Escape from Violet Hold | 409429 | [409429-hearthstone-escape-from-violet-hold.json](./409429-hearthstone-escape-from-violet-hold.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heaven Island - VR MMO | 34476 | [34476-heaven-island-vr-mmo.json](./34476-heaven-island-vr-mmo.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
