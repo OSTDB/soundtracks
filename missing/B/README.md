@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
 | Blood Court | 393333 | [393333-blood-court.json](./393333-blood-court.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
+| Blood Invasion | 372304 | [372304-blood-invasion.json](./372304-blood-invasion.json) |
 | Blood of the Future | 391500 | [391500-blood-of-the-future.json](./391500-blood-of-the-future.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brinko | 414253 | [414253-brinko.json](./414253-brinko.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
 | Broken Sword: The Angel of Death | 353933 | [353933-broken-sword-the-angel-of-death.json](./353933-broken-sword-the-angel-of-death.json) |
+| Broken Sword: The Smoking Mirror - Reforged | 372335 | [372335-broken-sword-the-smoking-mirror-reforged.json](./372335-broken-sword-the-smoking-mirror-reforged.json) |
 | Broken Sword: The Smoking Mirror - Remastered | 27860 | [27860-broken-sword-the-smoking-mirror-remastered.json](./27860-broken-sword-the-smoking-mirror-remastered.json) |
 | Broken Through | 229146 | [229146-broken-through.json](./229146-broken-through.json) |
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
