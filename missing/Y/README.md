@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YGOMaster-TCG | 399455 | [399455-ygomaster-tcg.json](./399455-ygomaster-tcg.json) |
 | Yì Shìjiè Wùyǔ | 372322 | [372322-yi-shijie-wuyu.json](./372322-yi-shijie-wuyu.json) |
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
+| Yǐngzǐ Chuánshuō | 367221 | [367221-yingzi-chuanshuo.json](./367221-yingzi-chuanshuo.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
 | Yodelee Golf | 402207 | [402207-yodelee-golf.json](./402207-yodelee-golf.json) |
 | Yogi Bear | 23380 | [23380-yogi-bear.json](./23380-yogi-bear.json) |
