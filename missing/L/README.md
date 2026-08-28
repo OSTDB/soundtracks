@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
+| Laser Matrix | 378658 | [378658-laser-matrix.json](./378658-laser-matrix.json) |
 | Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
 | Last Days of Lazarus | 172142 | [172142-last-days-of-lazarus.json](./172142-last-days-of-lazarus.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
+| Little Einsteins Blast Off Learning Laptop | 378661 | [378661-little-einsteins-blast-off-learning-laptop.json](./378661-little-einsteins-blast-off-learning-laptop.json) |
 | Little Fishing Trip | 383810 | [383810-little-fishing-trip.json](./383810-little-fishing-trip.json) |
 | Little Immortal Cultivator | 391477 | [391477-little-immortal-cultivator.json](./391477-little-immortal-cultivator.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
