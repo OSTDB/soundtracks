@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
+| Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
 | Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
+| Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
 | Rogue System | 22837 | [22837-rogue-system.json](./22837-rogue-system.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
@@ -163,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
