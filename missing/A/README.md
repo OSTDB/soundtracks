@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
 | Ancient Frontier | 31479 | [31479-ancient-frontier.json](./31479-ancient-frontier.json) |
+| Ancient Warfare: The Han Dynasty | 371118 | [371118-ancient-warfare-the-han-dynasty.json](./371118-ancient-warfare-the-han-dynasty.json) |
 | Ancients of Arkar | 382602 | [382602-ancients-of-arkar.json](./382602-ancients-of-arkar.json) |
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
