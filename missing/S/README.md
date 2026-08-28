@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
 | Screams Echo | 388570 | [388570-screams-echo.json](./388570-screams-echo.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
+| Screws Loose | 384374 | [384374-screws-loose.json](./384374-screws-loose.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
 | Scrybe | 391517 | [391517-scrybe.json](./391517-scrybe.json) |
@@ -100,7 +101,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Adventure | 386571 | [386571-sea-adventure.json](./386571-sea-adventure.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
+| Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
+| Search | 384390 | [384390-search.json](./384390-search.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
@@ -179,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shiroi Kizuna | 386024 | [386024-shiroi-kizuna.json](./386024-shiroi-kizuna.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
+| Shmandala | 384384 | [384384-shmandala.json](./384384-shmandala.json) |
 | Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
@@ -266,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Your Homies | 392639 | [392639-slap-your-homies.json](./392639-slap-your-homies.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
+| Slay the Abyss | 384370 | [384370-slay-the-abyss.json](./384370-slay-the-abyss.json) |
 | Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
@@ -404,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
 | Special Order | 386570 | [386570-special-order.json](./386570-special-order.json) |
+| Specter: The Battle of the Mind | 384365 | [384365-specter-the-battle-of-the-mind.json](./384365-specter-the-battle-of-the-mind.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | Speed Boom: Last Delivery | 394740 | [394740-speed-boom-last-delivery.json](./394740-speed-boom-last-delivery.json) |
 | Speed Rivals: Model Trains | 400759 | [400759-speed-rivals-model-trains.json](./400759-speed-rivals-model-trains.json) |
@@ -457,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
 | SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
 | Srq | 29881 | [29881-srq.json](./29881-srq.json) |
+| SSR | 384395 | [384395-ssr.json](./384395-ssr.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
 | Stack Chaos: Alien Express | 397561 | [397561-stack-chaos-alien-express.json](./397561-stack-chaos-alien-express.json) |
@@ -691,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
+| Sustain | 384362 | [384362-sustain.json](./384362-sustain.json) |
 | Sven's Quest: House of the Woodland Witch | 386046 | [386046-svens-quest-house-of-the-woodland-witch.json](./386046-svens-quest-house-of-the-woodland-witch.json) |
 | Swap Meet | 413522 | [413522-swap-meet.json](./413522-swap-meet.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
@@ -710,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Vermilion | 3194 | [3194-sword-of-vermilion.json](./3194-sword-of-vermilion.json) |
 | Swords 'n Magic and Stuff | 90235 | [90235-swords-n-magic-and-stuff.json](./90235-swords-n-magic-and-stuff.json) |
 | Swords and Serpents | 48230 | [48230-swords-and-serpents.json](./48230-swords-and-serpents.json) |
+| SwordSpire | 384379 | [384379-swordspire.json](./384379-swordspire.json) |
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
