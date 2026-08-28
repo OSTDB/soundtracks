@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
+| Laura Bailey Mysteries | 414248 | [414248-laura-bailey-mysteries.json](./414248-laura-bailey-mysteries.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Lawnmower Game | 44179 | [44179-lawnmower-game.json](./44179-lawnmower-game.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Yoga | 47857 | [47857-lets-yoga.json](./47857-lets-yoga.json) |
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
+| Lethal Women: Valerie's Game | 414217 | [414217-lethal-women-valeries-game.json](./414217-lethal-women-valeries-game.json) |
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
@@ -123,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
+| Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
 | Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
 | Luxor MahJong | 7539 | [7539-luxor-mahjong.json](./7539-luxor-mahjong.json) |
