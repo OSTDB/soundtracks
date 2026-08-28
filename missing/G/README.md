@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalactiWar: Empire Simulator | 406600 | [406600-galactiwar-empire-simulator.json](./406600-galactiwar-empire-simulator.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
+| Galaxy for Dummies | 373364 | [373364-galaxy-for-dummies.json](./373364-galaxy-for-dummies.json) |
 | Gallons Legacy | 398228 | [398228-gallons-legacy.json](./398228-gallons-legacy.json) |
 | Galmoon | 386049 | [386049-galmoon.json](./386049-galmoon.json) |
 | Galvan | 393328 | [393328-galvan.json](./393328-galvan.json) |
