@@ -86,6 +86,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
+| The Clockwork Man | 15147 | [15147-the-clockwork-man.json](./15147-the-clockwork-man.json) |
+| The Clockwork Man: The Hidden World | 15148 | [15148-the-clockwork-man-the-hidden-world.json](./15148-the-clockwork-man-the-hidden-world.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
+| Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | TrainerVR | 77166 | [77166-trainervr.json](./77166-trainervr.json) |
