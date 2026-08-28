@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Watch | 397573 | [397573-alchemist-watch.json](./397573-alchemist-watch.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
+| Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
@@ -237,9 +238,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Math Games | 408629 | [408629-arthurs-math-games.json](./408629-arthurs-math-games.json) |
 | Arthur's Preschool | 408628 | [408628-arthurs-preschool.json](./408628-arthurs-preschool.json) |
 | Artifact Adventure Gaiden | 76753 | [76753-artifact-adventure-gaiden.json](./76753-artifact-adventure-gaiden.json) |
+| Artifact Seeker: Paladin | 396816 | [396816-artifact-seeker-paladin.json](./396816-artifact-seeker-paladin.json) |
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
+| Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
