@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
 | Up Bundle | 380849 | [380849-up-bundle.json](./380849-up-bundle.json) |
 | Up Cards | 373928 | [373928-up-cards.json](./373928-up-cards.json) |
+| Up Step Maid | 359258 | [359258-up-step-maid.json](./359258-up-step-maid.json) |
 | Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
 | Urban Paranoia | 373925 | [373925-urban-paranoia.json](./373925-urban-paranoia.json) |
 | Urban Pirate | 17008 | [17008-urban-pirate.json](./17008-urban-pirate.json) |
