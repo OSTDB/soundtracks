@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
+| Football Legends 2025: Platinium Edition | 402172 | [402172-football-legends-2025-platinium-edition.json](./402172-football-legends-2025-platinium-edition.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
 | Football Manager 2019 Touch | 107242 | [107242-football-manager-2019-touch.json](./107242-football-manager-2019-touch.json) |
 | Football Manager Classic 2014 | 20943 | [20943-football-manager-classic-2014.json](./20943-football-manager-classic-2014.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
+| Formula Racing Pro 2026: Definitive Edition | 402171 | [402171-formula-racing-pro-2026-definitive-edition.json](./402171-formula-racing-pro-2026-definitive-edition.json) |
 | Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
