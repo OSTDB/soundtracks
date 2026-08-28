@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fatehaven | 31422 | [31422-fatehaven.json](./31422-fatehaven.json) |
+| Father Forgets | 406027 | [406027-father-forgets.json](./406027-father-forgets.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
