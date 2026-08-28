@@ -7,9 +7,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | W.E.L.D.E.R. | 64546 | [64546-w-e-l-d-e-r.json](./64546-w-e-l-d-e-r.json) |
+| Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
 | Wanted Killer VR | 96158 | [96158-wanted-killer-vr.json](./96158-wanted-killer-vr.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
 | War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
@@ -38,8 +40,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
+| Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
+| Way of the Samurai Bundle: Sword Combat & Action | 409498 | [409498-way-of-the-samurai-bundle-sword-combat-and-action.json](./409498-way-of-the-samurai-bundle-sword-combat-and-action.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
 | Wayward Strand | 123789 | [123789-wayward-strand.json](./123789-wayward-strand.json) |
 | WazHack | 16851 | [16851-wazhack.json](./16851-wazhack.json) |
@@ -76,12 +80,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
 | Whodunit Sudoku | 414249 | [414249-whodunit-sudoku.json](./414249-whodunit-sudoku.json) |
+| Whys & Wonders Secrets of the Universe | 409499 | [409499-whys-and-wonders-secrets-of-the-universe.json](./409499-whys-and-wonders-secrets-of-the-universe.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
 | Wild Animal Sports Day | 86346 | [86346-wild-animal-sports-day.json](./86346-wild-animal-sports-day.json) |
 | Wild Arms 5 | 1682 | [1682-wild-arms-5.json](./1682-wild-arms-5.json) |
 | Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
+| Wild West Nightmare | 409500 | [409500-wild-west-nightmare.json](./409500-wild-west-nightmare.json) |
 | Wildlife Ballistics | 414212 | [414212-wildlife-ballistics.json](./414212-wildlife-ballistics.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
