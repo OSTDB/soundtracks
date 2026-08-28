@@ -305,8 +305,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
+| Furry Girls | 382061 | [382061-furry-girls.json](./382061-furry-girls.json) |
+| Furry Passion | 382025 | [382025-furry-passion.json](./382025-furry-passion.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futa Fucks Femboys | 383253 | [383253-futa-fucks-femboys.json](./383253-futa-fucks-femboys.json) |
+| Futanari Goddess | 382037 | [382037-futanari-goddess.json](./382037-futanari-goddess.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
 | Fuuun Shaolin Kyo | 384978 | [384978-fuuun-shaolin-kyo.json](./384978-fuuun-shaolin-kyo.json) |
