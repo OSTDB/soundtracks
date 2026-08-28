@@ -10,4 +10,4 @@ Games known to OSTDB (via IGDB) that don't have a soundtrack entry yet. Pick one
 
 ---
 
-_4116 games missing a soundtrack · last updated 2026-08-28T01:19:27.251Z_
+_4166 games missing a soundtrack · last updated 2026-08-28T01:34:15.009Z_
