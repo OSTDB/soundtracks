@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
 | Make Her Cum | 382010 | [382010-make-her-cum.json](./382010-make-her-cum.json) |
 | Maker Arena: Path of Vaiolet | 384368 | [384368-maker-arena-path-of-vaiolet.json](./384368-maker-arena-path-of-vaiolet.json) |
+| Maktala: Slime Lootfest | 373366 | [373366-maktala-slime-lootfest.json](./373366-maktala-slime-lootfest.json) |
 | Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Initiative: 2112 | 400806 | [400806-minos-initiative-2112.json](./400806-minos-initiative-2112.json) |
 | Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
+| Minsgon Simulator | 373363 | [373363-minsgon-simulator.json](./373363-minsgon-simulator.json) |
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
 | Miracle Brave | 389874 | [389874-miracle-brave.json](./389874-miracle-brave.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
@@ -487,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
 | Mystery of Blackthorn Castle | 87623 | [87623-mystery-of-blackthorn-castle.json](./87623-mystery-of-blackthorn-castle.json) |
+| Mystic Beauty: Anime Shift Puzzles | 373390 | [373390-mystic-beauty-anime-shift-puzzles.json](./373390-mystic-beauty-anime-shift-puzzles.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
 | Mystical Demon Farm | 389323 | [389323-mystical-demon-farm.json](./389323-mystical-demon-farm.json) |
