@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | Whispers of Winter Blossom | 387242 | [387242-whispers-of-winter-blossom.json](./387242-whispers-of-winter-blossom.json) |
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
+| White Bridge | 369415 | [369415-white-bridge.json](./369415-white-bridge.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
 | Who Do Voodoo | 374469 | [374469-who-do-voodoo.json](./374469-who-do-voodoo.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinBolo | 410147 | [410147-winbolo.json](./410147-winbolo.json) |
 | Windborn: Echoes of the Night | 373392 | [373392-windborn-echoes-of-the-night.json](./373392-windborn-echoes-of-the-night.json) |
 | Winds of Trade | 29892 | [29892-winds-of-trade.json](./29892-winds-of-trade.json) |
+| Winemaker Simulator | 369388 | [369388-winemaker-simulator.json](./369388-winemaker-simulator.json) |
 | Winexy | 29799 | [29799-winexy.json](./29799-winexy.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
