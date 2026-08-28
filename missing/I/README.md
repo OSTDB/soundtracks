@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illusion Connect: Re | 404103 | [404103-illusion-connect-re.json](./404103-illusion-connect-re.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
+| Imagina que tienes 2 vacas | 400124 | [400124-imagina-que-tienes-2-vacas.json](./400124-imagina-que-tienes-2-vacas.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
 | Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
 | Immune | 35785 | [35785-immune.json](./35785-immune.json) |
@@ -94,6 +95,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion Protocol | 44180 | [44180-intrusion-protocol.json](./44180-intrusion-protocol.json) |
 | Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
+| Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
+| Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
+| Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
+| Invincible Vs.: Double Dimensions - Skin Bundle | 400147 | [400147-invincible-vs-double-dimensions-skin-bundle.json](./400147-invincible-vs-double-dimensions-skin-bundle.json) |
+| Invincible Vs.: Ella Mental - Diamond Skin | 400153 | [400153-invincible-vs-ella-mental-diamond-skin.json](./400153-invincible-vs-ella-mental-diamond-skin.json) |
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
