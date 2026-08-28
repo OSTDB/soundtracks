@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
 | Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
 | Ultimate Rock Crawler | 34488 | [34488-ultimate-rock-crawler.json](./34488-ultimate-rock-crawler.json) |
+| Ultimatum: The Slaughter of Amaranth | 399521 | [399521-ultimatum-the-slaughter-of-amaranth.json](./399521-ultimatum-the-slaughter-of-amaranth.json) |
 | Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
 | Ultra Pixel Survive 2 | 409495 | [409495-ultra-pixel-survive-2.json](./409495-ultra-pixel-survive-2.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
@@ -65,4 +66,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
 | US Police limousine Car Quad Bike Transporter Game | 101642 | [101642-us-police-limousine-car-quad-bike-transporter-game.json](./101642-us-police-limousine-car-quad-bike-transporter-game.json) |
 | Use Your Words | 28113 | [28113-use-your-words.json](./28113-use-your-words.json) |
+| Utawarerumono: Past and Present Rediscovered - Premium Edition | 399532 | [399532-utawarerumono-past-and-present-rediscovered-premium-edition.json](./399532-utawarerumono-past-and-present-rediscovered-premium-edition.json) |
 | Utawarerumono: Zan | 95831 | [95831-utawarerumono-zan.json](./95831-utawarerumono-zan.json) |
