@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
 | Skyline Bowling: Split Edition | 402182 | [402182-skyline-bowling-split-edition.json](./402182-skyline-bowling-split-edition.json) |
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
+| SkyRen | 390386 | [390386-skyren.json](./390386-skyren.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender PSP | 403516 | [403516-slender-psp.json](./403516-slender-psp.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
+| Slice the Crops! | 390402 | [390402-slice-the-crops.json](./390402-slice-the-crops.json) |
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
 | Slipspace Panic | 404153 | [404153-slipspace-panic.json](./404153-slipspace-panic.json) |
+| Slorbis: Tower Defense | 390391 | [390391-slorbis-tower-defense.json](./390391-slorbis-tower-defense.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
 | Slot Theory | 398896 | [398896-slot-theory.json](./398896-slot-theory.json) |
@@ -634,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Games | 77053 | [77053-survival-games.json](./77053-survival-games.json) |
 | Survival Is Not Enough | 34367 | [34367-survival-is-not-enough.json](./34367-survival-is-not-enough.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
+| Survival Log | 390415 | [390415-survival-log.json](./390415-survival-log.json) |
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
