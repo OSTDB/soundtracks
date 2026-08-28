@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Ward | 405989 | [405989-the-cursed-ward.json](./405989-the-cursed-ward.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
+| The Dame | 390425 | [390425-the-dame.json](./390425-the-dame.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
 | The Dark Room | 109841 | [109841-the-dark-room.json](./109841-the-dark-room.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
+| Theme Park Simulator | 390423 | [390423-theme-park-simulator.json](./390423-theme-park-simulator.json) |
 | Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
@@ -480,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Divine Land -Majesty in Game- | 392052 | [392052-touhou-divine-land-majesty-in-game.json](./392052-touhou-divine-land-majesty-in-game.json) |
 | Touhou: Records of Wealth-Seeking | 410150 | [410150-touhou-records-of-wealth-seeking.json](./410150-touhou-records-of-wealth-seeking.json) |
 | Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
+| Tow the Line | 390414 | [390414-tow-the-line.json](./390414-tow-the-line.json) |
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
@@ -533,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
+| Triz \| Triangular Dreaming | 390394 | [390394-triz-triangular-dreaming.json](./390394-triz-triangular-dreaming.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
 | Trombone Champ Unflattened: Disney Movie Magic Vol. 1 | 413539 | [413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json](./413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
