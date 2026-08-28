@@ -6,6 +6,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| J.League Pro Soccer Club wo Tsukurou! | 406617 | [406617-j-league-pro-soccer-club-wo-tsukurou.json](./406617-j-league-pro-soccer-club-wo-tsukurou.json) |
+| J.League Pro Soccer Club wo Tsukurou! | 406604 | [406604-j-league-pro-soccer-club-wo-tsukurou.json](./406604-j-league-pro-soccer-club-wo-tsukurou.json) |
+| J.League Pro Soccer Club wo Tsukurou! Mobile | 406618 | [406618-j-league-pro-soccer-club-wo-tsukurou-mobile.json](./406618-j-league-pro-soccer-club-wo-tsukurou-mobile.json) |
+| J.League Pro Soccer Club wo Tsukurou! Mobile 2 | 406620 | [406620-j-league-pro-soccer-club-wo-tsukurou-mobile-2.json](./406620-j-league-pro-soccer-club-wo-tsukurou-mobile-2.json) |
+| J.League Pro Soccer Club wo Tsukurou! Mobile 3 | 406621 | [406621-j-league-pro-soccer-club-wo-tsukurou-mobile-3.json](./406621-j-league-pro-soccer-club-wo-tsukurou-mobile-3.json) |
+| J.League Pro Soccer Club wo Tsukurou! Online | 406628 | [406628-j-league-pro-soccer-club-wo-tsukurou-online.json](./406628-j-league-pro-soccer-club-wo-tsukurou-online.json) |
 | J.U.R : Japan Underground Racing | 22724 | [22724-j-u-r-japan-underground-racing.json](./22724-j-u-r-japan-underground-racing.json) |
 | Jack Dragon | 413544 | [413544-jack-dragon.json](./413544-jack-dragon.json) |
 | Jack Orlando: Director's Cut | 30239 | [30239-jack-orlando-directors-cut.json](./30239-jack-orlando-directors-cut.json) |
