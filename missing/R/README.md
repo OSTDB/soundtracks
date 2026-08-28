@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 3 Havoc Reignited | 370536 | [370536-rayman-3-havoc-reignited.json](./370536-rayman-3-havoc-reignited.json) |
 | Rayman Origins: Enhanced Edition | 403490 | [403490-rayman-origins-enhanced-edition.json](./403490-rayman-origins-enhanced-edition.json) |
 | Rays | 369430 | [369430-rays.json](./369430-rays.json) |
+| Raze Vol. 1 | 364938 | [364938-raze-vol-1.json](./364938-raze-vol-1.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Moon | 379779 | [379779-real-moon.json](./379779-real-moon.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
+| Real-time Shogi | 364920 | [364920-real-time-shogi.json](./364920-real-time-shogi.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
@@ -131,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
 | Relics 3: Ashes for Gold | 389319 | [389319-relics-3-ashes-for-gold.json](./389319-relics-3-ashes-for-gold.json) |
+| Remains | 364924 | [364924-remains.json](./364924-remains.json) |
 | Remedy for Personality | 379776 | [379776-remedy-for-personality.json](./379776-remedy-for-personality.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
