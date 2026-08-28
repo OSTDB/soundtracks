@@ -7,11 +7,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | A Bibelot: Tiret sur Will | 336493 | [336493-a-bibelot-tiret-sur-will.json](./336493-a-bibelot-tiret-sur-will.json) |
+| A Blade for the Emperor | 377434 | [377434-a-blade-for-the-emperor.json](./377434-a-blade-for-the-emperor.json) |
 | A Bug’s (Short) Life | 414205 | [414205-a-bug-s-short-life.json](./414205-a-bug-s-short-life.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Christmas Cutie | 382026 | [382026-a-christmas-cutie.json](./382026-a-christmas-cutie.json) |
 | A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
+| A Dance of Lords | 377483 | [377483-a-dance-of-lords.json](./377483-a-dance-of-lords.json) |
 | A Drop of Color | 378028 | [378028-a-drop-of-color.json](./378028-a-drop-of-color.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
@@ -53,11 +55,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abjure | 403488 | [403488-abjure.json](./403488-abjure.json) |
 | Ablahshikar | 410800 | [410800-ablahshikar.json](./410800-ablahshikar.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
+| AboJam | 377435 | [377435-abojam.json](./377435-abojam.json) |
+| Above the Cloud: Time Bound Mansion | 377436 | [377436-above-the-cloud-time-bound-mansion.json](./377436-above-the-cloud-time-bound-mansion.json) |
+| Above the Dungeon: Frontier | 377460 | [377460-above-the-dungeon-frontier.json](./377460-above-the-dungeon-frontier.json) |
+| Above The Horizon | 377437 | [377437-above-the-horizon.json](./377437-above-the-horizon.json) |
 | Above Water | 393308 | [393308-above-water.json](./393308-above-water.json) |
+| Aboxcalipse | 377461 | [377461-aboxcalipse.json](./377461-aboxcalipse.json) |
+| Absconder | 377462 | [377462-absconder.json](./377462-absconder.json) |
+| Absentia | 377463 | [377463-absentia.json](./377463-absentia.json) |
+| Absolute Canasta for Windows 11 | 377464 | [377464-absolute-canasta-for-windows-11.json](./377464-absolute-canasta-for-windows-11.json) |
+| Abstract Dwelling | 377459 | [377459-abstract-dwelling.json](./377459-abstract-dwelling.json) |
+| Abstract Wars | 377467 | [377467-abstract-wars.json](./377467-abstract-wars.json) |
+| Abstractica | 377458 | [377458-abstractica.json](./377458-abstractica.json) |
+| Absurd Frog | 377468 | [377468-absurd-frog.json](./377468-absurd-frog.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
+| Abyss Depth: Control | 377476 | [377476-abyss-depth-control.json](./377476-abyss-depth-control.json) |
+| Abyss Diver | 377475 | [377475-abyss-diver.json](./377475-abyss-diver.json) |
+| Abyss Dungeon | 377474 | [377474-abyss-dungeon.json](./377474-abyss-dungeon.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
+| Abyss Rebirth | 377473 | [377473-abyss-rebirth.json](./377473-abyss-rebirth.json) |
 | Abyss Runner | 402837 | [402837-abyss-runner.json](./402837-abyss-runner.json) |
+| Abyss Unleashed | 377472 | [377472-abyss-unleashed.json](./377472-abyss-unleashed.json) |
+| Abyssal Echo | 377470 | [377470-abyssal-echo.json](./377470-abyssal-echo.json) |
+| Abyssal Swarm | 377471 | [377471-abyssal-swarm.json](./377471-abyssal-swarm.json) |
+| Abyssal Tides | 377466 | [377466-abyssal-tides.json](./377466-abyssal-tides.json) |
 | ACA Neo Geo: Pop'n Bounce | 394723 | [394723-aca-neo-geo-popn-bounce.json](./394723-aca-neo-geo-popn-bounce.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
@@ -72,14 +94,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achivement Maze 1 | 410122 | [410122-achivement-maze-1.json](./410122-achivement-maze-1.json) |
 | Acid Bunny | 389326 | [389326-acid-bunny.json](./389326-acid-bunny.json) |
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
+| Acrogorpon | 377478 | [377478-acrogorpon.json](./377478-acrogorpon.json) |
+| Across the Gap | 377477 | [377477-across-the-gap.json](./377477-across-the-gap.json) |
+| Across Unbeaten Paths | 377479 | [377479-across-unbeaten-paths.json](./377479-across-unbeaten-paths.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
+| Action Clicker | 377480 | [377480-action-clicker.json](./377480-action-clicker.json) |
 | Action Deka | 378030 | [378030-action-deka.json](./378030-action-deka.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
 | Activision Collection 3 | 412823 | [412823-activision-collection-3.json](./412823-activision-collection-3.json) |
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
+| Adai's Adventures | 377482 | [377482-adais-adventures.json](./377482-adais-adventures.json) |
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
+| Add Cross | 377481 | [377481-add-cross.json](./377481-add-cross.json) |
 | Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
 | Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
