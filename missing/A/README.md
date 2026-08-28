@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | Avion | 408621 | [408621-avion.json](./408621-avion.json) |
 | AVSEQ | 15288 | [15288-avseq.json](./15288-avseq.json) |
+| Awesome Animated Monster Maker Math | 380851 | [380851-awesome-animated-monster-maker-math.json](./380851-awesome-animated-monster-maker-math.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
