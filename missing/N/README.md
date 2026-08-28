@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightbell | 395408 | [395408-nightbell.json](./395408-nightbell.json) |
 | Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
+| Nightfall Berlin | 386572 | [386572-nightfall-berlin.json](./386572-nightfall-berlin.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
