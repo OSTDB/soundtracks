@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
+| Pool Fever: Platinium Edition | 394753 | [394753-pool-fever-platinium-edition.json](./394753-pool-fever-platinium-edition.json) |
 | Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
