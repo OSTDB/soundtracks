@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
 | Fernkeep | 413556 | [413556-fernkeep.json](./413556-fernkeep.json) |
+| Fête De La Soupe | 408698 | [408698-fete-de-la-soupe.json](./408698-fete-de-la-soupe.json) |
 | Fibble | 20827 | [20827-fibble.json](./20827-fibble.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Figure Quest | 115693 | [115693-figure-quest.json](./115693-figure-quest.json) |
+| Filthy Kitchen | 408637 | [408637-filthy-kitchen.json](./408637-filthy-kitchen.json) |
 | FIM Speedway Grand Prix 15 | 35792 | [35792-fim-speedway-grand-prix-15.json](./35792-fim-speedway-grand-prix-15.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
 | Final Fantasy Fables: Chocobo's Dungeon | 18069 | [18069-final-fantasy-fables-chocobos-dungeon.json](./18069-final-fantasy-fables-chocobos-dungeon.json) |
