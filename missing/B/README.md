@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
+| Bardo | 410123 | [410123-bardo.json](./410123-bardo.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
+| Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
@@ -219,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
 | Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
+| Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
@@ -254,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
+| Burnable Hearts! | 410117 | [410117-burnable-hearts.json](./410117-burnable-hearts.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
 | Burstfire | 35766 | [35766-burstfire.json](./35766-burstfire.json) |
