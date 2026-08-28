@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
+| Love, Startup & Co-founder | 410129 | [410129-love-startup-and-co-founder.json](./410129-love-startup-and-co-founder.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
