@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| L.A.T.H.E | 387227 | [387227-l-a-t-h-e.json](./387227-l-a-t-h-e.json) |
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Lab Loonies | 405995 | [405995-lab-loonies.json](./405995-lab-loonies.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
+| Long Run 2 | 387246 | [387246-long-run-2.json](./387246-long-run-2.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Longboard Skate Downhill Simulator | 401409 | [401409-longboard-skate-downhill-simulator.json](./401409-longboard-skate-downhill-simulator.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
@@ -179,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Loka | 396089 | [396089-lucha-loka.json](./396089-lucha-loka.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky Break | 405998 | [405998-lucky-break.json](./405998-lucky-break.json) |
+| Lucky Pikinini: IMS Intelligence Corp | 387208 | [387208-lucky-pikinini-ims-intelligence-corp.json](./387208-lucky-pikinini-ims-intelligence-corp.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
