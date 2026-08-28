@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
 | Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
+| Office Affairs: Executive Decisions | 367253 | [367253-office-affairs-executive-decisions.json](./367253-office-affairs-executive-decisions.json) |
 | Office Brawl: Room Smash | 394715 | [394715-office-brawl-room-smash.json](./394715-office-brawl-room-smash.json) |
 | Office Inspector | 383835 | [383835-office-inspector.json](./383835-office-inspector.json) |
 | Office Lover | 383250 | [383250-office-lover.json](./383250-office-lover.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Oradea | 387858 | [387858-oradea.json](./387858-oradea.json) |
+| Orange You Glad I Didn't Say Banana | 367254 | [367254-orange-you-glad-i-didnt-say-banana.json](./367254-orange-you-glad-i-didnt-say-banana.json) |
 | Orb Grabber | 372888 | [372888-orb-grabber.json](./372888-orb-grabber.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orb Stories | 386022 | [386022-orb-stories.json](./386022-orb-stories.json) |
@@ -112,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Oryo | 412183 | [412183-oryo.json](./412183-oryo.json) |
 | Otaku's Fantasy | 63718 | [63718-otakus-fantasy.json](./63718-otakus-fantasy.json) |
+| Otdelenie 38 | 367238 | [367238-otdelenie-38.json](./367238-otdelenie-38.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
 | Otpisani: Nightingale | 400808 | [400808-otpisani-nightingale.json](./400808-otpisani-nightingale.json) |
