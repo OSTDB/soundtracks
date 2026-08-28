@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
 | Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
+| Cannibals & Missionaries | 381454 | [381454-cannibals-and-missionaries.json](./381454-cannibals-and-missionaries.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
+| Champion of Lore | 381471 | [381471-champion-of-lore.json](./381471-champion-of-lore.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Click to Win 5000 Achievement | 410766 | [410766-click-to-win-5000-achievement.json](./410766-click-to-win-5000-achievement.json) |
+| Clickertale | 381433 | [381433-clickertale.json](./381433-clickertale.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Cliffside Cafe | 402789 | [402789-cliffside-cafe.json](./402789-cliffside-cafe.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
@@ -355,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash of the Titans: Monster Edition | 386044 | [386044-crash-of-the-titans-monster-edition.json](./386044-crash-of-the-titans-monster-edition.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
+| Craterville | 381436 | [381436-craterville.json](./381436-craterville.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
@@ -380,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Banner: War of Liberation | 390406 | [390406-crimson-banner-war-of-liberation.json](./390406-crimson-banner-war-of-liberation.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Crimson Loop | 402794 | [402794-crimson-loop.json](./402794-crimson-loop.json) |
+| Crimson Shore: Isle of Secret | 381438 | [381438-crimson-shore-isle-of-secret.json](./381438-crimson-shore-isle-of-secret.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
