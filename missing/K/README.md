@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knight and Code | 389302 | [389302-knight-and-code.json](./389302-knight-and-code.json) |
+| Knight Castle Defender | 387243 | [387243-knight-castle-defender.json](./387243-knight-castle-defender.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroko's Basketball Street Rivals | 410781 | [410781-kurokos-basketball-street-rivals.json](./410781-kurokos-basketball-street-rivals.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
+| Kvartirant | 387236 | [387236-kvartirant.json](./387236-kvartirant.json) |
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
 | Kyoto Colorful Days | 32949 | [32949-kyoto-colorful-days.json](./32949-kyoto-colorful-days.json) |
