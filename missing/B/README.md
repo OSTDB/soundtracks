@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Narf | 394025 | [394025-battle-narf.json](./394025-battle-narf.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
 | Battle of Giants: Dinosaurs | 7906 | [7906-battle-of-giants-dinosaurs.json](./7906-battle-of-giants-dinosaurs.json) |
+| Battle of the Abyss | 373944 | [373944-battle-of-the-abyss.json](./373944-battle-of-the-abyss.json) |
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
 | Battle Puzzle 2048: Maidens of Steel | 394720 | [394720-battle-puzzle-2048-maidens-of-steel.json](./394720-battle-puzzle-2048-maidens-of-steel.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Armor | 383248 | [383248-breaking-armor.json](./383248-breaking-armor.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
+| Bresh | 373946 | [373946-bresh.json](./373946-bresh.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
@@ -410,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
 | Burstfire | 35766 | [35766-burstfire.json](./35766-burstfire.json) |
 | Bus Simulator: World Tour | 388620 | [388620-bus-simulator-world-tour.json](./388620-bus-simulator-world-tour.json) |
+| Bush Dog | 373953 | [373953-bush-dog.json](./373953-bush-dog.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
