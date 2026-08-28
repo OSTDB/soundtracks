@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Crimson Stag | 400795 | [400795-curse-of-the-crimson-stag.json](./400795-curse-of-the-crimson-stag.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
+| Curstris | 362654 | [362654-curstris.json](./362654-curstris.json) |
 | Cut the Grass: Farm Defense Survival | 373912 | [373912-cut-the-grass-farm-defense-survival.json](./373912-cut-the-grass-farm-defense-survival.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
