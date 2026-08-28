@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
 | Who is Here? | 394736 | [394736-who-is-here.json](./394736-who-is-here.json) |
+| Who the Hell Opened the Portal?! | 383837 | [383837-who-the-hell-opened-the-portal.json](./383837-who-the-hell-opened-the-portal.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who Wants to Be an Ultimate? Retake | 399525 | [399525-who-wants-to-be-an-ultimate-retake.json](./399525-who-wants-to-be-an-ultimate-retake.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witch Switched | 394049 | [394049-witch-switched.json](./394049-witch-switched.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
+| With Walker | 383845 | [383845-with-walker.json](./383845-with-walker.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
