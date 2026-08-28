@@ -110,7 +110,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexomancer | 400135 | [400135-lexomancer.json](./400135-lexomancer.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
+| Librarian Lust | 367255 | [367255-librarian-lust.json](./367255-librarian-lust.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
+| Liè Shān Hǎi Èr | 367215 | [367215-lie-shan-hai-er.json](./367215-lie-shan-hai-er.json) |
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
