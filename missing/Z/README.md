@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Z-Gyubaan! | 379218 | [379218-z-gyubaan.json](./379218-z-gyubaan.json) |
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zapper: One Wicked Cricket! | 47332 | [47332-zapper-one-wicked-cricket.json](./47332-zapper-one-wicked-cricket.json) |
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2 | 11581 | [11581-zoo-tycoon-2.json](./11581-zoo-tycoon-2.json) |
 | Zoo Tycoon 2: Zookeeper Collection | 23011 | [23011-zoo-tycoon-2-zookeeper-collection.json](./23011-zoo-tycoon-2-zookeeper-collection.json) |
 | Zoo Tycoon: Complete Collection | 50863 | [50863-zoo-tycoon-complete-collection.json](./50863-zoo-tycoon-complete-collection.json) |
+| Zoo Wars | 379216 | [379216-zoo-wars.json](./379216-zoo-wars.json) |
 | Zoochosis | 282935 | [282935-zoochosis.json](./282935-zoochosis.json) |
 | Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
