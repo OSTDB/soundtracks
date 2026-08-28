@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
 | Salt and Sanctuary | 7709 | [7709-salt-and-sanctuary.json](./7709-salt-and-sanctuary.json) |
 | Salting the Earth | 125111 | [125111-salting-the-earth.json](./125111-salting-the-earth.json) |
+| Salty & Slobbery | 389889 | [389889-salty-and-slobbery.json](./389889-salty-and-slobbery.json) |
 | Salvation Prophecy | 16639 | [16639-salvation-prophecy.json](./16639-salvation-prophecy.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sato Wonderland | 392048 | [392048-sato-wonderland.json](./392048-sato-wonderland.json) |
 | Satsuman | 391476 | [391476-satsuman.json](./391476-satsuman.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
+| Saylor Anime Puzzle | 389863 | [389863-saylor-anime-puzzle.json](./389863-saylor-anime-puzzle.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
@@ -189,8 +191,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization V: The Complete Edition | 53610 | [53610-sid-meiers-civilization-v-the-complete-edition.json](./53610-sid-meiers-civilization-v-the-complete-edition.json) |
 | Sid Meier's Railroad Tycoon | 962 | [962-sid-meiers-railroad-tycoon.json](./962-sid-meiers-railroad-tycoon.json) |
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
+| Side Hustle | 389900 | [389900-side-hustle.json](./389900-side-hustle.json) |
 | Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
 | Siege Wars | 35778 | [35778-siege-wars.json](./35778-siege-wars.json) |
+| Sign the Deal: Real Estate Simulator | 389875 | [389875-sign-the-deal-real-estate-simulator.json](./389875-sign-the-deal-real-estate-simulator.json) |
+| Signal Lost: The Ping | 389899 | [389899-signal-lost-the-ping.json](./389899-signal-lost-the-ping.json) |
 | Signs of Life | 16839 | [16839-signs-of-life.json](./16839-signs-of-life.json) |
 | Silent Hill 2 | 222485 | [222485-silent-hill-2.json](./222485-silent-hill-2.json) |
 | Silent Hill: Ascension | 274880 | [274880-silent-hill-ascension.json](./274880-silent-hill-ascension.json) |
@@ -227,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
+| Sky Drill | 389877 | [389877-sky-drill.json](./389877-sky-drill.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | Sky Gamblers: Air Supremacy | 62448 | [62448-sky-gamblers-air-supremacy.json](./62448-sky-gamblers-air-supremacy.json) |
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
@@ -355,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
 | South Park: Phone Destroyer | 37063 | [37063-south-park-phone-destroyer.json](./37063-south-park-phone-destroyer.json) |
 | Sovereignty: Crown of Kings | 17613 | [17613-sovereignty-crown-of-kings.json](./17613-sovereignty-crown-of-kings.json) |
+| SP Football Life 2026 | 389885 | [389885-sp-football-life-2026.json](./389885-sp-football-life-2026.json) |
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
@@ -476,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis | 9661 | [9661-stasis.json](./9661-stasis.json) |
 | State of Affairs | 392034 | [392034-state-of-affairs.json](./392034-state-of-affairs.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
+| Static Shift | 389864 | [389864-static-shift.json](./389864-static-shift.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
