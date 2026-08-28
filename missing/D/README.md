@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Killmulator 2 | 410118 | [410118-dating-killmulator-2.json](./410118-dating-killmulator-2.json) |
 | Daunya-san to Kainushi-kun | 396042 | [396042-daunya-san-to-kainushi-kun.json](./396042-daunya-san-to-kainushi-kun.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
+| Dave Mirra Freestyle BMX | 372884 | [372884-dave-mirra-freestyle-bmx.json](./372884-dave-mirra-freestyle-bmx.json) |
 | Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
 | Dawn Awaits | 389291 | [389291-dawn-awaits.json](./389291-dawn-awaits.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Six | 380250 | [380250-deep-six.json](./380250-deep-six.json) |
 | Deep Snow Delivery | 380251 | [380251-deep-snow-delivery.json](./380251-deep-snow-delivery.json) |
+| Deep Space Diesel | 372864 | [372864-deep-space-diesel.json](./372864-deep-space-diesel.json) |
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
 | Deep Space Waifu: World | 115560 | [115560-deep-space-waifu-world.json](./115560-deep-space-waifu-world.json) |
 | Deep, In the Forest | 126412 | [126412-deep-in-the-forest.json](./126412-deep-in-the-forest.json) |
@@ -243,7 +245,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicegeon Whispers | 386602 | [386602-dicegeon-whispers.json](./386602-dicegeon-whispers.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
+| Dictation | 372860 | [372860-dictation.json](./372860-dictation.json) |
 | Dictatorship Simulator | 404159 | [404159-dictatorship-simulator.json](./404159-dictatorship-simulator.json) |
+| Die By Die | 372853 | [372853-die-by-die.json](./372853-die-by-die.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
