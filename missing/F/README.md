@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
+| Five Nights at Pingas 2 | 404138 | [404138-five-nights-at-pingas-2.json](./404138-five-nights-at-pingas-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 3 | 91977 | [91977-fran-bow-chapter-3.json](./91977-fran-bow-chapter-3.json) |
 | Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
 | Freakyforms Deluxe: Your Creations, Alive! | 24225 | [24225-freakyforms-deluxe-your-creations-alive.json](./24225-freakyforms-deluxe-your-creations-alive.json) |
+| Fredbear Runaway | 404105 | [404105-fredbear-runaway.json](./404105-fredbear-runaway.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
 | Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
