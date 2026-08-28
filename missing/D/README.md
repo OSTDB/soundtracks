@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Monument of Triumph | 406031 | [406031-destiny-2-monument-of-triumph.json](./406031-destiny-2-monument-of-triumph.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Destiny Powers: Dwarven Town | 392612 | [392612-destiny-powers-dwarven-town.json](./392612-destiny-powers-dwarven-town.json) |
+| Destroyed Base | 378054 | [378054-destroyed-base.json](./378054-destroyed-base.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
 | Detective Hunt - Crownston City PD | 32951 | [32951-detective-hunt-crownston-city-pd.json](./32951-detective-hunt-crownston-city-pd.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disneyland Explorer | 378647 | [378647-disneyland-explorer.json](./378647-disneyland-explorer.json) |
 | Disoriented | 30503 | [30503-disoriented.json](./30503-disoriented.json) |
 | Dispatch | 181624 | [181624-dispatch.json](./181624-dispatch.json) |
+| Dispatch: Digital Deluxe Edition | 378015 | [378015-dispatch-digital-deluxe-edition.json](./378015-dispatch-digital-deluxe-edition.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
 | Dissolution of the Silent Union | 402212 | [402212-dissolution-of-the-silent-union.json](./402212-dissolution-of-the-silent-union.json) |
