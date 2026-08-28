@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
 | Destiny 2: Monument of Triumph | 406031 | [406031-destiny-2-monument-of-triumph.json](./406031-destiny-2-monument-of-triumph.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
+| Destiny Powers: Dwarven Town | 392612 | [392612-destiny-powers-dwarven-town.json](./392612-destiny-powers-dwarven-town.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
 | Detective Hunt - Crownston City PD | 32951 | [32951-detective-hunt-crownston-city-pd.json](./32951-detective-hunt-crownston-city-pd.json) |
