@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existential Kitty Cat RPG | 95618 | [95618-existential-kitty-cat-rpg.json](./95618-existential-kitty-cat-rpg.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
+| Exorush | 384399 | [384399-exorush.json](./384399-exorush.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
 | Exterminauts | 414975 | [414975-exterminauts.json](./414975-exterminauts.json) |
 | Extravalence | 414982 | [414982-extravalence.json](./414982-extravalence.json) |
