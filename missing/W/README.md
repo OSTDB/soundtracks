@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
+| Wasteland Shop Simulator | 374494 | [374494-wasteland-shop-simulator.json](./374494-wasteland-shop-simulator.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
 | Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
+| Who Do Voodoo | 374469 | [374469-who-do-voodoo.json](./374469-who-do-voodoo.json) |
 | Who is Here? | 394736 | [394736-who-is-here.json](./394736-who-is-here.json) |
 | Who the Hell Opened the Portal?! | 383837 | [383837-who-the-hell-opened-the-portal.json](./383837-who-the-hell-opened-the-portal.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
@@ -167,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Witchland: Trinity Blight | 383207 | [383207-witchland-trinity-blight.json](./383207-witchland-trinity-blight.json) |
 | Witchlight Woods | 383210 | [383210-witchlight-woods.json](./383210-witchlight-woods.json) |
+| With Me: Aquatic Time | 374449 | [374449-with-me-aquatic-time.json](./374449-with-me-aquatic-time.json) |
 | With Walker | 383845 | [383845-with-walker.json](./383845-with-walker.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
