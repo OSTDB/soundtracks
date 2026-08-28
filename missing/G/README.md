@@ -65,12 +65,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
 | Ghostship Aftermath | 17114 | [17114-ghostship-aftermath.json](./17114-ghostship-aftermath.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
+| Gibber Babel | 403464 | [403464-gibber-babel.json](./403464-gibber-babel.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
 | Gigi il Guerriero | 408622 | [408622-gigi-il-guerriero.json](./408622-gigi-il-guerriero.json) |
 | Gion Corridor:Re | 407261 | [407261-gion-corridor-re.json](./407261-gion-corridor-re.json) |
 | Giraffe Raising Game: Reach for the sky | 413568 | [413568-giraffe-raising-game-reach-for-the-sky.json](./413568-giraffe-raising-game-reach-for-the-sky.json) |
+| Girlballs | 403455 | [403455-girlballs.json](./403455-girlballs.json) |
 | Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
 | Girls Force 2: Rising Academy | 407260 | [407260-girls-force-2-rising-academy.json](./407260-girls-force-2-rising-academy.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat Willie | 412879 | [412879-gunboat-willie.json](./412879-gunboat-willie.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
+| Guns, Princess and Braves | 403473 | [403473-guns-princess-and-braves.json](./403473-guns-princess-and-braves.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
