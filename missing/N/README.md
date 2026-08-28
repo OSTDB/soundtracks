@@ -88,7 +88,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
+| NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
+| Ninja Baseball League-Man: Bases Loaded | 414245 | [414245-ninja-baseball-league-man-bases-loaded.json](./414245-ninja-baseball-league-man-bases-loaded.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
 | Ninja Usagimaru: The Gem of Blessings | 44390 | [44390-ninja-usagimaru-the-gem-of-blessings.json](./44390-ninja-usagimaru-the-gem-of-blessings.json) |
