@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
+| Eight Strange Corridors | 376341 | [376341-eight-strange-corridors.json](./376341-eight-strange-corridors.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
 | El Tigre: The Adventures of Manny Rivera | 7995 | [7995-el-tigre-the-adventures-of-manny-rivera.json](./7995-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Epic Royal | 386013 | [386013-epic-royal.json](./386013-epic-royal.json) |
+| Epics of Noche, Brain Busted | 376335 | [376335-epics-of-noche-brain-busted.json](./376335-epics-of-noche-brain-busted.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
 | EQ gunkatas | 378669 | [378669-eq-gunkatas.json](./378669-eq-gunkatas.json) |
 | Eqqo | 101685 | [101685-eqqo.json](./101685-eqqo.json) |
