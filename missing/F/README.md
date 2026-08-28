@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fore! Crisis: Final Fantasy VII Jolf | 410815 | [410815-fore-crisis-final-fantasy-vii-jolf.json](./410815-fore-crisis-final-fantasy-vii-jolf.json) |
 | Foreign Rim | 402767 | [402767-foreign-rim.json](./402767-foreign-rim.json) |
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
+| Forest Hustle | 384355 | [384355-forest-hustle.json](./384355-forest-hustle.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
