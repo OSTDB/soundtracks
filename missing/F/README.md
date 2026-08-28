@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': ERB Steve Jobs Vs. Bill Gates - Blammed | 366673 | [366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json](./366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json) |
 | Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
 | Fritz Chess 20 Steam Edition | 392656 | [392656-fritz-chess-20-steam-edition.json](./392656-fritz-chess-20-steam-edition.json) |
+| Frob | 360435 | [360435-frob.json](./360435-frob.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
 | Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
