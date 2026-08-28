@@ -56,6 +56,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
 | Kilnborn | 414213 | [414213-kilnborn.json](./414213-kilnborn.json) |
 | Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
+| Kin and Quarry | 366664 | [366664-kin-and-quarry.json](./366664-kin-and-quarry.json) |
+| Kindling | 366672 | [366672-kindling.json](./366672-kindling.json) |
 | Kindling Hour | 379230 | [379230-kindling-hour.json](./379230-kindling-hour.json) |
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
