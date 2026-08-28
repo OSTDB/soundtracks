@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
 | Footy Golf | 394029 | [394029-footy-golf.json](./394029-footy-golf.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
+| For The King: Lost Civilization | 366684 | [366684-for-the-king-lost-civilization.json](./366684-for-the-king-lost-civilization.json) |
 | Forage & Brew | 392675 | [392675-forage-and-brew.json](./392675-forage-and-brew.json) |
 | Forage Wizard | 391498 | [391498-forage-wizard.json](./391498-forage-wizard.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
@@ -271,12 +272,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Fortnite Festival: All Eyez On Me | 366642 | [366642-fortnite-festival-all-eyez-on-me.json](./366642-fortnite-festival-all-eyez-on-me.json) |
 | Fortnite Festival: Black Hole Sun | 368831 | [368831-fortnite-festival-black-hole-sun.json](./368831-fortnite-festival-black-hole-sun.json) |
+| Fortnite Festival: Cradles | 366641 | [366641-fortnite-festival-cradles.json](./366641-fortnite-festival-cradles.json) |
+| Fortnite Festival: I | 366638 | [366638-fortnite-festival-i.json](./366638-fortnite-festival-i.json) |
 | Fortnite Festival: I Feel It Coming | 369935 | [369935-fortnite-festival-i-feel-it-coming.json](./369935-fortnite-festival-i-feel-it-coming.json) |
 | Fortnite Festival: I Write Sins Not Tragedies | 369936 | [369936-fortnite-festival-i-write-sins-not-tragedies.json](./369936-fortnite-festival-i-write-sins-not-tragedies.json) |
 | Fortnite Festival: In Ha Mood | 368835 | [368835-fortnite-festival-in-ha-mood.json](./368835-fortnite-festival-in-ha-mood.json) |
+| Fortnite Festival: Kiss Me More | 366649 | [366649-fortnite-festival-kiss-me-more.json](./366649-fortnite-festival-kiss-me-more.json) |
+| Fortnite Festival: Last Resort (2020) | 366647 | [366647-fortnite-festival-last-resort-2020.json](./366647-fortnite-festival-last-resort-2020.json) |
+| Fortnite Festival: Livin' La Vida Loca | 366645 | [366645-fortnite-festival-livin-la-vida-loca.json](./366645-fortnite-festival-livin-la-vida-loca.json) |
+| Fortnite Festival: Misery Business | 366644 | [366644-fortnite-festival-misery-business.json](./366644-fortnite-festival-misery-business.json) |
+| Fortnite Festival: Redrum | 366648 | [366648-fortnite-festival-redrum.json](./366648-fortnite-festival-redrum.json) |
+| Fortnite Festival: Ruby Soho | 366650 | [366650-fortnite-festival-ruby-soho.json](./366650-fortnite-festival-ruby-soho.json) |
+| Fortnite Festival: Stressed Out | 366639 | [366639-fortnite-festival-stressed-out.json](./366639-fortnite-festival-stressed-out.json) |
 | Fortnite Festival: The Unforgiven | 369933 | [369933-fortnite-festival-the-unforgiven.json](./369933-fortnite-festival-the-unforgiven.json) |
 | Fortnite Festival: This Is How We Do It | 368830 | [368830-fortnite-festival-this-is-how-we-do-it.json](./368830-fortnite-festival-this-is-how-we-do-it.json) |
+| Fortnite Festival: Toxic | 366643 | [366643-fortnite-festival-toxic.json](./366643-fortnite-festival-toxic.json) |
 | Fortnite: Gilded Elites Pack | 369951 | [369951-fortnite-gilded-elites-pack.json](./369951-fortnite-gilded-elites-pack.json) |
 | Fortune Mill | 403497 | [403497-fortune-mill.json](./403497-fortune-mill.json) |
 | Fortune Pact | 407233 | [407233-fortune-pact.json](./407233-fortune-pact.json) |
@@ -321,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
 | Fri: The Unforgettable City | 379217 | [379217-fri-the-unforgettable-city.json](./379217-fri-the-unforgettable-city.json) |
+| Friday Night Funkin': ERB Steve Jobs Vs. Bill Gates - Blammed | 366673 | [366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json](./366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json) |
 | Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
 | Fritz Chess 20 Steam Edition | 392656 | [392656-fritz-chess-20-steam-edition.json](./392656-fritz-chess-20-steam-edition.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
@@ -360,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
+| Funko Fusion: Birthday Pack | 366697 | [366697-funko-fusion-birthday-pack.json](./366697-funko-fusion-birthday-pack.json) |
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
 | Funny Animal Cafe | 372286 | [372286-funny-animal-cafe.json](./372286-funny-animal-cafe.json) |
 | Funny Bones | 373921 | [373921-funny-bones.json](./373921-funny-bones.json) |
