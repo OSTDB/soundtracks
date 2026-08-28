@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Hacker | 395444 | [395444-hacker.json](./395444-hacker.json) |
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
 | Hackerman | 401398 | [401398-hackerman.json](./401398-hackerman.json) |
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
@@ -24,9 +25,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Hangover Gallery | 402790 | [402790-hangover-gallery.json](./402790-hangover-gallery.json) |
+| Hanidebi!: Honey & Devil | 395452 | [395452-hanidebi-honey-and-devil.json](./395452-hanidebi-honey-and-devil.json) |
 | Hanox | 406013 | [406013-hanox.json](./406013-hanox.json) |
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
 | Happiness 2 | 397536 | [397536-happiness-2.json](./397536-happiness-2.json) |
+| Happiness Laboratory | 395402 | [395402-happiness-laboratory.json](./395402-happiness-laboratory.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Classic Trilogy Remastered | 404745 | [404745-hitman-classic-trilogy-remastered.json](./404745-hitman-classic-trilogy-remastered.json) |
 | Hitman: Blood Money Reprisal | 278026 | [278026-hitman-blood-money-reprisal.json](./278026-hitman-blood-money-reprisal.json) |
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
+| Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
@@ -193,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
+| Hyper Rollergirl | 395398 | [395398-hyper-rollergirl.json](./395398-hyper-rollergirl.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
