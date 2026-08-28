@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kàngzhàn Shènglì 70 Zhōunián Dà Yuèbīng Zhè Tiān Wǒ Lǎopó Tūrán Xiāoshī Le | 395419 | [395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json](./395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kapuritto-kyu Minigame Collection | 391479 | [391479-kapuritto-kyu-minigame-collection.json](./391479-kapuritto-kyu-minigame-collection.json) |
+| Karakoi Invitation | 382655 | [382655-karakoi-invitation.json](./382655-karakoi-invitation.json) |
 | Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
 | KARANTIIN | 386004 | [386004-karantiin.json](./386004-karantiin.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubz VR | 31532 | [31532-kubz-vr.json](./31532-kubz-vr.json) |
 | Kuitaiyou | 398256 | [398256-kuitaiyou.json](./398256-kuitaiyou.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
+| Kung Fu Panda: Train Like a Master | 382618 | [382618-kung-fu-panda-train-like-a-master.json](./382618-kung-fu-panda-train-like-a-master.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
