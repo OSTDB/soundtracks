@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
+| Terrorsepsis | 367797 | [367797-terrorsepsis.json](./367797-terrorsepsis.json) |
 | Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Librarian | 380890 | [380890-the-librarian.json](./380890-the-librarian.json) |
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
 | The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
+| The Lift | 367776 | [367776-the-lift.json](./367776-the-lift.json) |
 | The Line | 380889 | [380889-the-line.json](./380889-the-line.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
@@ -484,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Three Jokers | 390981 | [390981-three-jokers.json](./390981-three-jokers.json) |
 | Three Kingdoms Mushouden: Digital Deluxe Edition | 369399 | [369399-three-kingdoms-mushouden-digital-deluxe-edition.json](./369399-three-kingdoms-mushouden-digital-deluxe-edition.json) |
+| Three Kingdoms: Innovatory | 367812 | [367812-three-kingdoms-innovatory.json](./367812-three-kingdoms-innovatory.json) |
 | Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
 | Thriving in Ruins: The End of Humanity is not the End of the World | 379729 | [379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json](./379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
@@ -682,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 380859 | [380859-treasure-hunter.json](./380859-treasure-hunter.json) |
 | Treasure Island: Abandoned Enigma | 402770 | [402770-treasure-island-abandoned-enigma.json](./402770-treasure-island-abandoned-enigma.json) |
 | Treated | 378657 | [378657-treated.json](./378657-treated.json) |
+| Tree Hugging Simulator | 367805 | [367805-tree-hugging-simulator.json](./367805-tree-hugging-simulator.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
@@ -751,5 +755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ty the Tasmanian Tiger 2: Bush Rescue | 1323 | [1323-ty-the-tasmanian-tiger-2-bush-rescue.json](./1323-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | Tycoon City: New York | 9439 | [9439-tycoon-city-new-york.json](./9439-tycoon-city-new-york.json) |
 | Type or Die | 403511 | [403511-type-or-die.json](./403511-type-or-die.json) |
+| Typical Russian Quarantine | 367786 | [367786-typical-russian-quarantine.json](./367786-typical-russian-quarantine.json) |
 | Tyrania Enforcers | 406601 | [406601-tyrania-enforcers.json](./406601-tyrania-enforcers.json) |
 | Tyrian | 3804 | [3804-tyrian.json](./3804-tyrian.json) |
