@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip Wreck | 389895 | [389895-whip-wreck.json](./389895-whip-wreck.json) |
 | Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
+| Whispers of Winter Blossom | 387242 | [387242-whispers-of-winter-blossom.json](./387242-whispers-of-winter-blossom.json) |
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
 | Without a Hitch: Steam Exclusive - Valve Hat | 407229 | [407229-without-a-hitch-steam-exclusive-valve-hat.json](./407229-without-a-hitch-steam-exclusive-valve-hat.json) |
+| Wizard Blaster | 387200 | [387200-wizard-blaster.json](./387200-wizard-blaster.json) |
 | Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
