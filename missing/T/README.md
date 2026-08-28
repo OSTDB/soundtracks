@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster Connect | 124102 | [124102-touchmaster-connect.json](./124102-touchmaster-connect.json) |
+| Tough Baby | 386599 | [386599-tough-baby.json](./386599-tough-baby.json) |
 | Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
 | Touhou Crisis R | 409469 | [409469-touhou-crisis-r.json](./409469-touhou-crisis-r.json) |
 | Touhou Defense Tale: AI Test in Touhou | 410142 | [410142-touhou-defense-tale-ai-test-in-touhou.json](./410142-touhou-defense-tale-ai-test-in-touhou.json) |
