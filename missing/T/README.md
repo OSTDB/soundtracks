@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
 | The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
 | The Karters | 22749 | [22749-the-karters.json](./22749-the-karters.json) |
+| The Killing Stone | 362114 | [362114-the-killing-stone.json](./362114-the-killing-stone.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The King of Fighters XV: Team Pass 2 | 407254 | [407254-the-king-of-fighters-xv-team-pass-2.json](./407254-the-king-of-fighters-xv-team-pass-2.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Night Shift | 380885 | [380885-the-night-shift.json](./380885-the-night-shift.json) |
 | The Nightmare | 380886 | [380886-the-nightmare.json](./380886-the-nightmare.json) |
+| The Noexistencen of Morphean Paradox: The Forest of Silver Shallots | 362106 | [362106-the-noexistencen-of-morphean-paradox-the-forest-of-silver-shallots.json](./362106-the-noexistencen-of-morphean-paradox-the-forest-of-silver-shallots.json) |
 | The Nurse | 380888 | [380888-the-nurse.json](./380888-the-nurse.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
