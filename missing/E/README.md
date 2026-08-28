@@ -15,6 +15,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
+| Earthworm Jim | 362104 | [362104-earthworm-jim.json](./362104-earthworm-jim.json) |
+| Earthworm Jim | 362098 | [362098-earthworm-jim.json](./362098-earthworm-jim.json) |
+| Earthworm Jim | 362091 | [362091-earthworm-jim.json](./362091-earthworm-jim.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | EasyTetris | 371658 | [371658-easytetris.json](./371658-easytetris.json) |
 | Echo Contingency | 387865 | [387865-echo-contingency.json](./387865-echo-contingency.json) |
