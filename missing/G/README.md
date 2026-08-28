@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
+| Game of Fate 3 | 382645 | [382645-game-of-fate-3.json](./382645-game-of-fate-3.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener's Luck | 392638 | [392638-gardeners-luck.json](./392638-gardeners-luck.json) |
 | Gardenia | 398875 | [398875-gardenia.json](./398875-gardenia.json) |
 | Garfield: A Tail of Two Kitties | 23734 | [23734-garfield-a-tail-of-two-kitties.json](./23734-garfield-a-tail-of-two-kitties.json) |
+| Garfield: Caught in the Act - Lost Levels | 382657 | [382657-garfield-caught-in-the-act-lost-levels.json](./382657-garfield-caught-in-the-act-lost-levels.json) |
 | Gargoyles | 4530 | [4530-gargoyles.json](./4530-gargoyles.json) |
 | Garten of Banban | 230468 | [230468-garten-of-banban.json](./230468-garten-of-banban.json) |
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
@@ -207,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
 | Grimveil | 414220 | [414220-grimveil.json](./414220-grimveil.json) |
 | Grip XR | 402768 | [402768-grip-xr.json](./402768-grip-xr.json) |
+| Grizzly's VR | 382638 | [382638-grizzlys-vr.json](./382638-grizzlys-vr.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
 | Grotto Escape | 392032 | [392032-grotto-escape.json](./392032-grotto-escape.json) |
