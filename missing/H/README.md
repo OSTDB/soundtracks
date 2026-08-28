@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
+| Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
@@ -128,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
+| Hyperspace Pinball | 22785 | [22785-hyperspace-pinball.json](./22785-hyperspace-pinball.json) |
 | Hyperspeed | 35801 | [35801-hyperspeed.json](./35801-hyperspeed.json) |
 | Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
