@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talentos Indie ZNT | 375012 | [375012-talentos-indie-znt.json](./375012-talentos-indie-znt.json) |
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
 | Tales From the Other Side: Beneath the Roots | 409455 | [409455-tales-from-the-other-side-beneath-the-roots.json](./409455-tales-from-the-other-side-beneath-the-roots.json) |
+| Tales From The Under-Realm: Lilith | 360384 | [360384-tales-from-the-under-realm-lilith.json](./360384-tales-from-the-under-realm-lilith.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Arise: Beyond the Dawn - Premium Edition | 402176 | [402176-tales-of-arise-beyond-the-dawn-premium-edition.json](./402176-tales-of-arise-beyond-the-dawn-premium-edition.json) |
 | Tales of Arise: Beyond the Dawn - Premium Upgrade Pack | 402199 | [402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json](./402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colors of Love | 410120 | [410120-the-colors-of-love.json](./410120-the-colors-of-love.json) |
 | The Coma 3: Bloodlines | 365474 | [365474-the-coma-3-bloodlines.json](./365474-the-coma-3-bloodlines.json) |
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
+| The Concrete Tower | 360420 | [360420-the-concrete-tower.json](./360420-the-concrete-tower.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
@@ -287,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
+| The Jester and the Madman | 360409 | [360409-the-jester-and-the-madman.json](./360409-the-jester-and-the-madman.json) |
 | The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
 | The Karters | 22749 | [22749-the-karters.json](./22749-the-karters.json) |
 | The Killing Stone | 362114 | [362114-the-killing-stone.json](./362114-the-killing-stone.json) |
@@ -701,6 +704,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Hero | 371651 | [371651-train-hero.json](./371651-train-hero.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
 | Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
+| Train Simulator: GP9 Loco Add-On | 360381 | [360381-train-simulator-gp9-loco-add-on.json](./360381-train-simulator-gp9-loco-add-on.json) |
+| Train Simulator: WSR Diesels Loco Add-On | 360380 | [360380-train-simulator-wsr-diesels-loco-add-on.json](./360380-train-simulator-wsr-diesels-loco-add-on.json) |
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | TrainerVR | 77166 | [77166-trainervr.json](./77166-trainervr.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
