@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | U Tsu Tsu Tsu | 406590 | [406590-u-tsu-tsu-tsu.json](./406590-u-tsu-tsu-tsu.json) |
 | U-Boats | 34376 | [34376-u-boats.json](./34376-u-boats.json) |
+| U.N. Owen Was Her? | 388594 | [388594-u-n-owen-was-her.json](./388594-u-n-owen-was-her.json) |
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | Ubai Again | 400128 | [400128-ubai-again.json](./400128-ubai-again.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unholy Employer Simulator | 408644 | [408644-unholy-employer-simulator.json](./408644-unholy-employer-simulator.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
+| Uninvited: Security Service | 388607 | [388607-uninvited-security-service.json](./388607-uninvited-security-service.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
