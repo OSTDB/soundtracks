@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
 | Kevin's In Trouble | 406616 | [406616-kevins-in-trouble.json](./406616-kevins-in-trouble.json) |
 | Keykruncher | 408685 | [408685-keykruncher.json](./408685-keykruncher.json) |
+| Kiaris | 399517 | [399517-kiaris.json](./399517-kiaris.json) |
 | Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest III: To Heir is Human | 893 | [893-kings-quest-iii-to-heir-is-human.json](./893-kings-quest-iii-to-heir-is-human.json) |
 | King's Quest: Chapter 1 - A Knight to Remember | 28048 | [28048-kings-quest-chapter-1-a-knight-to-remember.json](./28048-kings-quest-chapter-1-a-knight-to-remember.json) |
 | Kingblade: Medieval TCG Card Shop | 401407 | [401407-kingblade-medieval-tcg-card-shop.json](./401407-kingblade-medieval-tcg-card-shop.json) |
+| Kingdam-Ran | 399543 | [399543-kingdam-ran.json](./399543-kingdam-ran.json) |
 | Kingdom Come: Deliverance - Royal Edition | 116794 | [116794-kingdom-come-deliverance-royal-edition.json](./116794-kingdom-come-deliverance-royal-edition.json) |
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
 | Kingdom Hearts Ballon Glider | 405396 | [405396-kingdom-hearts-ballon-glider.json](./405396-kingdom-hearts-ballon-glider.json) |
