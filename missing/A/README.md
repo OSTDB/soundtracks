@@ -53,6 +53,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
+| Accelerate | 383825 | [383825-accelerate.json](./383825-accelerate.json) |
+| Accursed | 383828 | [383828-accursed.json](./383828-accursed.json) |
 | Ace Combat 6: Recompiled | 412822 | [412822-ace-combat-6-recompiled.json](./412822-ace-combat-6-recompiled.json) |
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
