@@ -9,9 +9,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
+| Lady Pearl | 412821 | [412821-lady-pearl.json](./412821-lady-pearl.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lamp Eyes | 24579 | [24579-lamp-eyes.json](./24579-lamp-eyes.json) |
+| Lamplite | 412872 | [412872-lamplite.json](./412872-lamplite.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
+| Linked Wheels | 412859 | [412859-linked-wheels.json](./412859-linked-wheels.json) |
 | Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
 | Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
