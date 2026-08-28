@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
 | NextWorld2 | 307930 | [307930-nextworld2.json](./307930-nextworld2.json) |
 | Nexuiz | 10595 | [10595-nexuiz.json](./10595-nexuiz.json) |
+| Nexvultus | 393359 | [393359-nexvultus.json](./393359-nexvultus.json) |
 | NHL 13 | 2986 | [2986-nhl-13.json](./2986-nhl-13.json) |
 | NHL 19 | 103500 | [103500-nhl-19.json](./103500-nhl-19.json) |
 | NHL 24 | 261413 | [261413-nhl-24.json](./261413-nhl-24.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
+| No Such Luck | 393368 | [393368-no-such-luck.json](./393368-no-such-luck.json) |
 | No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
