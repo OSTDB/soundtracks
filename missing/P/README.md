@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
 | PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
+| Peace Under His Roof | 406002 | [406002-peace-under-his-roof.json](./406002-peace-under-his-roof.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
+| Pin Money | 406020 | [406020-pin-money.json](./406020-pin-money.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Shopkeeper | 44518 | [44518-pixel-shopkeeper.json](./44518-pixel-shopkeeper.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
+| Pixelwave Off | 406001 | [406001-pixelwave-off.json](./406001-pixelwave-off.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
 | Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
+| Postin Paradise | 406022 | [406022-postin-paradise.json](./406022-postin-paradise.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
 | Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
