@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
+| Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
 | Mental Asylum VR | 29792 | [29792-mental-asylum-vr.json](./29792-mental-asylum-vr.json) |
+| Mental Haze | 411441 | [411441-mental-haze.json](./411441-mental-haze.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
@@ -198,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
+| Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
