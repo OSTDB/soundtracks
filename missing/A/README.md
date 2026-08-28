@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
+| Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asobutsuri | 410814 | [410814-asobutsuri.json](./410814-asobutsuri.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
+| Assassin of Aliens | 407939 | [407939-assassin-of-aliens.json](./407939-assassin-of-aliens.json) |
 | Assassin's Creed Brotherhood: Deluxe Edition | 24743 | [24743-assassins-creed-brotherhood-deluxe-edition.json](./24743-assassins-creed-brotherhood-deluxe-edition.json) |
 | Assassin's Creed Chronicles: Trilogy Pack | 52416 | [52416-assassins-creed-chronicles-trilogy-pack.json](./52416-assassins-creed-chronicles-trilogy-pack.json) |
 | Assassin’s Creed Mirage: Valley of Memory | 371880 | [371880-assassin-s-creed-mirage-valley-of-memory.json](./371880-assassin-s-creed-mirage-valley-of-memory.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
 | Astro Emporia | 35860 | [35860-astro-emporia.json](./35860-astro-emporia.json) |
+| Astro Yoinkers | 407916 | [407916-astro-yoinkers.json](./407916-astro-yoinkers.json) |
 | Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
 | Aswang Hunter | 414189 | [414189-aswang-hunter.json](./414189-aswang-hunter.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
