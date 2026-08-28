@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
+| Sarkeras: Artifact of the Ancestors | 398882 | [398882-sarkeras-artifact-of-the-ancestors.json](./398882-sarkeras-artifact-of-the-ancestors.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
 | Satelital | 410782 | [410782-satelital.json](./410782-satelital.json) |
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipspace Panic | 404153 | [404153-slipspace-panic.json](./404153-slipspace-panic.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
+| Slot Theory | 398896 | [398896-slot-theory.json](./398896-slot-theory.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | Small World of Golf | 404134 | [404134-small-world-of-golf.json](./404134-small-world-of-golf.json) |
@@ -261,6 +263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowbound With Irene | 407973 | [407973-snowbound-with-irene.json](./407973-snowbound-with-irene.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
+| Snowdrop | 398880 | [398880-snowdrop.json](./398880-snowdrop.json) |
+| Snowdrop | 398879 | [398879-snowdrop.json](./398879-snowdrop.json) |
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
@@ -421,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
+| Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
