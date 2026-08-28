@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
+| Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
+| Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
+| Milkshake | 407917 | [407917-milkshake.json](./407917-milkshake.json) |
 | Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
@@ -293,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
+| My Hero Academia: All's Justice - Deluxe Edition | 407928 | [407928-my-hero-academia-alls-justice-deluxe-edition.json](./407928-my-hero-academia-alls-justice-deluxe-edition.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
 | My Life as a Maiden | 76793 | [76793-my-life-as-a-maiden.json](./76793-my-life-as-a-maiden.json) |
