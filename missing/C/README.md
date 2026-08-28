@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheliki | 388587 | [388587-cheliki.json](./388587-cheliki.json) |
 | Cheri's Dollhouse: Forgotten Memory | 376332 | [376332-cheris-dollhouse-forgotten-memory.json](./376332-cheris-dollhouse-forgotten-memory.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
+| Cherry Dies in 5 Minutes | 373931 | [373931-cherry-dies-in-5-minutes.json](./373931-cherry-dies-in-5-minutes.json) |
 | Chess | 393335 | [393335-chess.json](./393335-chess.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
 | Chess Academy | 387872 | [387872-chess-academy.json](./387872-chess-academy.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
 | Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
+| Cigarettes for Shion | 373924 | [373924-cigarettes-for-shion.json](./373924-cigarettes-for-shion.json) |
 | Cigkofte Empire | 411436 | [411436-cigkofte-empire.json](./411436-cigkofte-empire.json) |
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
@@ -378,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craterville | 381436 | [381436-craterville.json](./381436-craterville.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
+| Crayon Halloween | 373959 | [373959-crayon-halloween.json](./373959-crayon-halloween.json) |
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Cats Survivors | 387201 | [387201-crazy-cats-survivors.json](./387201-crazy-cats-survivors.json) |
@@ -455,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Crimson Stag | 400795 | [400795-curse-of-the-crimson-stag.json](./400795-curse-of-the-crimson-stag.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
+| Cut the Grass: Farm Defense Survival | 373912 | [373912-cut-the-grass-farm-defense-survival.json](./373912-cut-the-grass-farm-defense-survival.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cutle | 387917 | [387917-cutle.json](./387917-cutle.json) |
