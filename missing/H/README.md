@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Manager 2026 | 396107 | [396107-hotel-manager-2026.json](./396107-hotel-manager-2026.json) |
 | Hotel Renovator Simulator | 396106 | [396106-hotel-renovator-simulator.json](./396106-hotel-renovator-simulator.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
+| House Haunters | 390964 | [390964-house-haunters.json](./390964-house-haunters.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
 | How Shall We Die | 405992 | [405992-how-shall-we-die.json](./405992-how-shall-we-die.json) |
