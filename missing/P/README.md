@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
+| Parasol Superstars | 397550 | [397550-parasol-superstars.json](./397550-parasol-superstars.json) |
 | Parcel Game | 398884 | [398884-parcel-game.json](./398884-parcel-game.json) |
 | Parcel Inspection Simulator | 401421 | [401421-parcel-inspection-simulator.json](./401421-parcel-inspection-simulator.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
+| PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
 | PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
 | Peace Under His Roof | 406002 | [406002-peace-under-his-roof.json](./406002-peace-under-his-roof.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Into the Galaxy | 400782 | [400782-pixel-into-the-galaxy.json](./400782-pixel-into-the-galaxy.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
+| Pixel Pile | 397547 | [397547-pixel-pile.json](./397547-pixel-pile.json) |
 | Pixel Puzzles Anime Jigsaws | 401424 | [401424-pixel-puzzles-anime-jigsaws.json](./401424-pixel-puzzles-anime-jigsaws.json) |
 | Pixel Puzzles Dinosaurs Jigsaws | 405377 | [405377-pixel-puzzles-dinosaurs-jigsaws.json](./405377-pixel-puzzles-dinosaurs-jigsaws.json) |
 | Pixel Puzzles Space Jigsaws | 401425 | [401425-pixel-puzzles-space-jigsaws.json](./401425-pixel-puzzles-space-jigsaws.json) |
