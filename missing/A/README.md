@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Year of Rain | 116212 | [116212-a-year-of-rain.json](./116212-a-year-of-rain.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
+| Aah Harimanada GG2SMS | 369432 | [369432-aah-harimanada-gg2sms.json](./369432-aah-harimanada-gg2sms.json) |
 | Abandoned Car | 403479 | [403479-abandoned-car.json](./403479-abandoned-car.json) |
 | Abjure | 403488 | [403488-abjure.json](./403488-abjure.json) |
 | Ablahshikar | 410800 | [410800-ablahshikar.json](./410800-ablahshikar.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
 | Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
+| Aerial Assault GG2SMS | 369433 | [369433-aerial-assault-gg2sms.json](./369433-aerial-assault-gg2sms.json) |
 | Aerialia: Wings of Delivery | 413551 | [413551-aerialia-wings-of-delivery.json](./413551-aerialia-wings-of-delivery.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algas | 385497 | [385497-algas.json](./385497-algas.json) |
 | Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
+| Alice and The Reformatory for Witches | 369410 | [369410-alice-and-the-reformatory-for-witches.json](./369410-alice-and-the-reformatory-for-witches.json) |
 | Alice at the End of Her Life | 375039 | [375039-alice-at-the-end-of-her-life.json](./375039-alice-at-the-end-of-her-life.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Lorange Adventures Season 1 | 389287 | [389287-alice-lorange-adventures-season-1.json](./389287-alice-lorange-adventures-season-1.json) |
@@ -185,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
 | Alien Snap | 391463 | [391463-alien-snap.json](./391463-alien-snap.json) |
 | Alien Syndrome | 4667 | [4667-alien-syndrome.json](./4667-alien-syndrome.json) |
+| Alien Syndrome GG2SMS | 369434 | [369434-alien-syndrome-gg2sms.json](./369434-alien-syndrome-gg2sms.json) |
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All About the Spy Guy | 409473 | [409473-all-about-the-spy-guy.json](./409473-all-about-the-spy-guy.json) |
@@ -311,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
 | Arcade Archives: Space Invaders | 382647 | [382647-arcade-archives-space-invaders.json](./382647-arcade-archives-space-invaders.json) |
 | Arcade Archives: The Outfoxies | 384946 | [384946-arcade-archives-the-outfoxies.json](./384946-arcade-archives-the-outfoxies.json) |
+| Arcade Classics GG2SMS | 369436 | [369436-arcade-classics-gg2sms.json](./369436-arcade-classics-gg2sms.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
@@ -320,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Arcane Rivals | 372330 | [372330-arcane-rivals.json](./372330-arcane-rivals.json) |
 | Arcfall | 372843 | [372843-arcfall.json](./372843-arcfall.json) |
+| Arch Rivals GG2SMS | 369437 | [369437-arch-rivals-gg2sms.json](./369437-arch-rivals-gg2sms.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
 | Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
