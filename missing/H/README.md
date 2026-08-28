@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
+| Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
 | Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
 | Horse Paradise: My Dream Ranch | 76693 | [76693-horse-paradise-my-dream-ranch.json](./76693-horse-paradise-my-dream-ranch.json) |
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
