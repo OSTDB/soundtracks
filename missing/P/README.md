@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
+| Parcel Game | 398884 | [398884-parcel-game.json](./398884-parcel-game.json) |
 | Parcel Inspection Simulator | 401421 | [401421-parcel-inspection-simulator.json](./401421-parcel-inspection-simulator.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Parkour Simulator VR | 401420 | [401420-parkour-simulator-vr.json](./401420-parkour-simulator-vr.json) |
