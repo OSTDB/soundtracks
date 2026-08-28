@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance 2 | 568 | [568-marvel-ultimate-alliance-2.json](./568-marvel-ultimate-alliance-2.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series | 26165 | [26165-marvels-guardians-of-the-galaxy-the-telltale-series.json](./26165-marvels-guardians-of-the-galaxy-the-telltale-series.json) |
 | Marvin's Mittens | 36157 | [36157-marvins-mittens.json](./36157-marvins-mittens.json) |
+| Mary: Mary-Hime no Dakkan | 383851 | [383851-mary-mary-hime-no-dakkan.json](./383851-mary-mary-hime-no-dakkan.json) |
 | Mash Motion: Swimming Surge | 404742 | [404742-mash-motion-swimming-surge.json](./404742-mash-motion-swimming-surge.json) |
 | Mask of the Rose | 178073 | [178073-mask-of-the-rose.json](./178073-mask-of-the-rose.json) |
 | Masquerada: Songs and Shadows | 24474 | [24474-masquerada-songs-and-shadows.json](./24474-masquerada-songs-and-shadows.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | MoneyFalls: Coin Pusher Simulator | 386608 | [386608-moneyfalls-coin-pusher-simulator.json](./386608-moneyfalls-coin-pusher-simulator.json) |
+| Monkaroon | 383812 | [383812-monkaroon.json](./383812-monkaroon.json) |
 | Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
@@ -388,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet Kids: Letters - Capital & Small | 386603 | [386603-muppet-kids-letters-capital-and-small.json](./386603-muppet-kids-letters-capital-and-small.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
+| Murasame | 383814 | [383814-murasame.json](./383814-murasame.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Murderplanet | 395421 | [395421-murderplanet.json](./395421-murderplanet.json) |
 | Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
