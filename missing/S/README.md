@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Nemesis | 373935 | [373935-stellar-nemesis.json](./373935-stellar-nemesis.json) |
 | Stellifier: The Comeback | 372866 | [372866-stellifier-the-comeback.json](./372866-stellifier-the-comeback.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
+| Stewards of Nu Juno | 363242 | [363242-stewards-of-nu-juno.json](./363242-stewards-of-nu-juno.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
 | Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
 | Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
 | Supremacy MMA | 7200 | [7200-supremacy-mma.json](./7200-supremacy-mma.json) |
+| Supreme Ruler 2030: Supreme Ruler 1936 Remastered DLC | 363243 | [363243-supreme-ruler-2030-supreme-ruler-1936-remastered-dlc.json](./363243-supreme-ruler-2030-supreme-ruler-1936-remastered-dlc.json) |
 | Supreme War God | 368301 | [368301-supreme-war-god.json](./368301-supreme-war-god.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
