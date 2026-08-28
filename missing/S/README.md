@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Shroomwood | 378644 | [378644-shroomwood.json](./378644-shroomwood.json) |
 | Shrug Tides | 386011 | [386011-shrug-tides.json](./386011-shrug-tides.json) |
 | Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
 | Shufflepuck Cantina Deluxe VR | 16773 | [16773-shufflepuck-cantina-deluxe-vr.json](./16773-shufflepuck-cantina-deluxe-vr.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
+| Spot's Busy Day | 378662 | [378662-spots-busy-day.json](./378662-spots-busy-day.json) |
 | SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
@@ -494,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Elmo's Fire | 383243 | [383243-st-elmos-fire.json](./383243-st-elmos-fire.json) |
 | Stack Chaos: Alien Express | 397561 | [397561-stack-chaos-alien-express.json](./397561-stack-chaos-alien-express.json) |
 | Stack Mates | 410143 | [410143-stack-mates.json](./410143-stack-mates.json) |
+| Stack Prootocol | 378633 | [378633-stack-prootocol.json](./378633-stack-prootocol.json) |
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
