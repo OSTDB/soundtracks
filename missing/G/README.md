@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | GGM | 383850 | [383850-ggm.json](./383850-ggm.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
+| Ghost Gang | 369940 | [369940-ghost-gang.json](./369940-ghost-gang.json) |
 | Ghost Hunter Simulator | 371082 | [371082-ghost-hunter-simulator.json](./371082-ghost-hunter-simulator.json) |
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
+| Gloom Punks | 369932 | [369932-gloom-punks.json](./369932-gloom-punks.json) |
 | Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
 | Glowbot Tower Defense | 406007 | [406007-glowbot-tower-defense.json](./406007-glowbot-tower-defense.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
