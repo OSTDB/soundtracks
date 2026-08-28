@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Farm Pro 26 Simulator | 409493 | [409493-farm-pro-26-simulator.json](./409493-farm-pro-26-simulator.json) |
 | Farmbound | 415002 | [415002-farmbound.json](./415002-farmbound.json) |
+| Farmer Fowl's Farmhouse | 375639 | [375639-farmer-fowls-farmhouse.json](./375639-farmer-fowls-farmhouse.json) |
 | Farmer Reborn | 378628 | [378628-farmer-reborn.json](./378628-farmer-reborn.json) |
 | Farming Incremental But With Guns | 399536 | [399536-farming-incremental-but-with-guns.json](./399536-farming-incremental-but-with-guns.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
 | Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
+| Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
 | Football AFK | 390387 | [390387-football-afk.json](./390387-football-afk.json) |
