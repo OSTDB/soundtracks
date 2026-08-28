@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
 | Junji Ito Maniac: An Infinite Gaol | 369439 | [369439-junji-ito-maniac-an-infinite-gaol.json](./369439-junji-ito-maniac-an-infinite-gaol.json) |
+| Junk Rise | 364331 | [364331-junk-rise.json](./364331-junk-rise.json) |
 | Junko's Part Time Job!! | 379774 | [379774-junkos-part-time-job.json](./379774-junkos-part-time-job.json) |
 | Junkyard Garage Simulator | 388604 | [388604-junkyard-garage-simulator.json](./388604-junkyard-garage-simulator.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
