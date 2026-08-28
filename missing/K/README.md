@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom Monsters | 33047 | [33047-kaboom-monsters.json](./33047-kaboom-monsters.json) |
 | Kaboomania | 413569 | [413569-kaboomania.json](./413569-kaboomania.json) |
 | Kacha Fruit Cut | 404156 | [404156-kacha-fruit-cut.json](./404156-kacha-fruit-cut.json) |
+| Kaidan | 362097 | [362097-kaidan.json](./362097-kaidan.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kana.exe | 386009 | [386009-kana-exe.json](./386009-kana-exe.json) |
 | Kane & Lynch 2: Most Notorious Criminals | 377439 | [377439-kane-and-lynch-2-most-notorious-criminals.json](./377439-kane-and-lynch-2-most-notorious-criminals.json) |
