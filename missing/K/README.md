@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
+| Kevin's In Trouble | 406616 | [406616-kevins-in-trouble.json](./406616-kevins-in-trouble.json) |
 | Keykruncher | 408685 | [408685-keykruncher.json](./408685-keykruncher.json) |
 | Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
