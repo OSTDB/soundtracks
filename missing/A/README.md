@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
 | A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
+| A Little Horror Story | 409474 | [409474-a-little-horror-story.json](./409474-a-little-horror-story.json) |
 | A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
@@ -53,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
 | Aerialia: Wings of Delivery | 413551 | [413551-aerialia-wings-of-delivery.json](./413551-aerialia-wings-of-delivery.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
+| Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
 | Aetheris Core | 411453 | [411453-aetheris-core.json](./411453-aetheris-core.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
@@ -61,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | Afterworld | 414990 | [414990-afterworld.json](./414990-afterworld.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
+| Agatha Christie's Deadly Voyages - 2 in 1 | 409472 | [409472-agatha-christies-deadly-voyages-2-in-1.json](./409472-agatha-christies-deadly-voyages-2-in-1.json) |
 | Age of Empires III: The Asian Dynasties | 8220 | [8220-age-of-empires-iii-the-asian-dynasties.json](./8220-age-of-empires-iii-the-asian-dynasties.json) |
 | Age of Gladiators II: Rome | 102245 | [102245-age-of-gladiators-ii-rome.json](./102245-age-of-gladiators-ii-rome.json) |
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
@@ -71,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Agro Tycoon | 411442 | [411442-agro-tycoon.json](./411442-agro-tycoon.json) |
+| Ai Yori Aoi Umi no Hate | 409427 | [409427-ai-yori-aoi-umi-no-hate.json](./409427-ai-yori-aoi-umi-no-hate.json) |
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
@@ -88,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm112: Fire Unit | 411485 | [411485-alarm112-fire-unit.json](./411485-alarm112-fire-unit.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
+| Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
@@ -96,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Syndrome | 4667 | [4667-alien-syndrome.json](./4667-alien-syndrome.json) |
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
+| All About the Spy Guy | 409473 | [409473-all-about-the-spy-guy.json](./409473-all-about-the-spy-guy.json) |
 | All Day Dying | 126717 | [126717-all-day-dying.json](./126717-all-day-dying.json) |
 | All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
@@ -168,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
+| Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
