@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
 | Once a Porn a Time 3 | 383818 | [383818-once-a-porn-a-time-3.json](./383818-once-a-porn-a-time-3.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
+| Once Glorious Artahk | 381468 | [381468-once-glorious-artahk.json](./381468-once-glorious-artahk.json) |
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
