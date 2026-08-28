@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
+| Hanasu: Girls Kiss At The End Of The World | 373932 | [373932-hanasu-girls-kiss-at-the-end-of-the-world.json](./373932-hanasu-girls-kiss-at-the-end-of-the-world.json) |
 | Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
 | Handmade Carprogram | 378050 | [378050-handmade-carprogram.json](./378050-handmade-carprogram.json) |
 | Hands of Hell | 393997 | [393997-hands-of-hell.json](./393997-hands-of-hell.json) |
