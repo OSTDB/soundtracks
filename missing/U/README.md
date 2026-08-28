@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
 | Unicycle Sheep | 383226 | [383226-unicycle-sheep.json](./383226-unicycle-sheep.json) |
 | Uninvited: Security Service | 388607 | [388607-uninvited-security-service.json](./388607-uninvited-security-service.json) |
+| Union Survivors | 368840 | [368840-union-survivors.json](./368840-union-survivors.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | United We Forge | 379762 | [379762-united-we-forge.json](./379762-united-we-forge.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
