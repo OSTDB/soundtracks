@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
+| Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
@@ -179,7 +180,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
+| Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
+| Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
