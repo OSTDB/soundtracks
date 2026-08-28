@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Stone from Mebara | 35843 | [35843-the-dark-stone-from-mebara.json](./35843-the-dark-stone-from-mebara.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
+| The Demon Party | 404113 | [404113-the-demon-party.json](./404113-the-demon-party.json) |
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This World Unknown | 31489 | [31489-this-world-unknown.json](./31489-this-world-unknown.json) |
 | Thorne - Son of Slaves (Ep.2) | 33039 | [33039-thorne-son-of-slaves-ep-2.json](./33039-thorne-son-of-slaves-ep-2.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
+| Thousand Floors | 404148 | [404148-thousand-floors.json](./404148-thousand-floors.json) |
 | Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
@@ -380,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 210463 | [210463-tony-hawks-pro-skater-4.json](./210463-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
+| Too Many Balls | 404117 | [404117-too-many-balls.json](./404117-too-many-balls.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
@@ -420,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Puzzle | 95649 | [95649-toy-puzzle.json](./95649-toy-puzzle.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
+| Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack | 404114 | [404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json](./404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json) |
 | Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
