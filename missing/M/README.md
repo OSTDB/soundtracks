@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
+| Magic Beans | 403462 | [403462-magic-beans.json](./403462-magic-beans.json) |
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
 | Magic Carpet 2: The Netherworlds | 780 | [780-magic-carpet-2-the-netherworlds.json](./780-magic-carpet-2-the-netherworlds.json) |
 | Magic Cat Story | 24580 | [24580-magic-cat-story.json](./24580-magic-cat-story.json) |
@@ -80,6 +81,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
+| Marvel vs. Capcom: Infinite - Chun-Li Casual Costume | 403502 | [403502-marvel-vs-capcom-infinite-chun-li-casual-costume.json](./403502-marvel-vs-capcom-infinite-chun-li-casual-costume.json) |
+| Marvel vs. Capcom: Infinite - Dormammu Molten Costume | 403500 | [403500-marvel-vs-capcom-infinite-dormammu-molten-costume.json](./403500-marvel-vs-capcom-infinite-dormammu-molten-costume.json) |
+| Marvel vs. Capcom: Infinite - Nemesis Tyrant Costume | 403501 | [403501-marvel-vs-capcom-infinite-nemesis-tyrant-costume.json](./403501-marvel-vs-capcom-infinite-nemesis-tyrant-costume.json) |
+| Marvel vs. Capcom: Infinite - Special Zero Costume | 403504 | [403504-marvel-vs-capcom-infinite-special-zero-costume.json](./403504-marvel-vs-capcom-infinite-special-zero-costume.json) |
+| Marvel vs. Capcom: Infinite - Ultron Conquest Costume | 403503 | [403503-marvel-vs-capcom-infinite-ultron-conquest-costume.json](./403503-marvel-vs-capcom-infinite-ultron-conquest-costume.json) |
 | Marvel: Ultimate Alliance | 288948 | [288948-marvel-ultimate-alliance.json](./288948-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance 2 | 568 | [568-marvel-ultimate-alliance-2.json](./568-marvel-ultimate-alliance-2.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series | 26165 | [26165-marvels-guardians-of-the-galaxy-the-telltale-series.json](./26165-marvels-guardians-of-the-galaxy-the-telltale-series.json) |
