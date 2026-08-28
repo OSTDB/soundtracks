@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
 | Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
+| Bamdmi | 393331 | [393331-bamdmi.json](./393331-bamdmi.json) |
 | Banana Airways | 412140 | [412140-banana-airways.json](./412140-banana-airways.json) |
 | Bananya Buddies | 412825 | [412825-bananya-buddies.json](./412825-bananya-buddies.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
@@ -196,12 +197,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockscape | 15404 | [15404-blockscape.json](./15404-blockscape.json) |
 | Blocky Powers | 413552 | [413552-blocky-powers.json](./413552-blocky-powers.json) |
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
+| Blood Court | 393333 | [393333-blood-court.json](./393333-blood-court.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
 | BloodJack | 409451 | [409451-bloodjack.json](./409451-bloodjack.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
+| Bloodrust | 393361 | [393361-bloodrust.json](./393361-bloodrust.json) |
 | Bloodshot | 405405 | [405405-bloodshot.json](./405405-bloodshot.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
 | Bloodstained: Curse of the Moon 2 | 135337 | [135337-bloodstained-curse-of-the-moon-2.json](./135337-bloodstained-curse-of-the-moon-2.json) |
