@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Dance of Lords | 377483 | [377483-a-dance-of-lords.json](./377483-a-dance-of-lords.json) |
+| A Dog Story | 364909 | [364909-a-dog-story.json](./364909-a-dog-story.json) |
 | A Drop of Color | 378028 | [378028-a-drop-of-color.json](./378028-a-drop-of-color.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
@@ -130,6 +131,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK GF | 365521 | [365521-afk-gf.json](./365521-afk-gf.json) |
 | AFK Tactics | 402819 | [402819-afk-tactics.json](./402819-afk-tactics.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
+| After Burner | 364898 | [364898-after-burner.json](./364898-after-burner.json) |
+| After Burner | 364895 | [364895-after-burner.json](./364895-after-burner.json) |
+| After Burner | 364890 | [364890-after-burner.json](./364890-after-burner.json) |
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
 | After School .Live: Mirror of Twilight | 396101 | [396101-after-school-live-mirror-of-twilight.json](./396101-after-school-live-mirror-of-twilight.json) |
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
@@ -155,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
 | Air Challenge | 371725 | [371725-air-challenge.json](./371725-air-challenge.json) |
+| Air Patriots | 364934 | [364934-air-patriots.json](./364934-air-patriots.json) |
 | Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
@@ -424,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Brain | 383222 | [383222-atomic-brain.json](./383222-atomic-brain.json) |
 | Atomic Cosmos | 383223 | [383223-atomic-cosmos.json](./383223-atomic-cosmos.json) |
 | Attack Invader | 385499 | [385499-attack-invader.json](./385499-attack-invader.json) |
+| Attack on Ghosts | 364925 | [364925-attack-on-ghosts.json](./364925-attack-on-ghosts.json) |
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attorney Investigations Online | 373952 | [373952-attorney-investigations-online.json](./373952-attorney-investigations-online.json) |
