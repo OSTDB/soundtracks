@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
+| A Game About Making A Planet | 386609 | [386609-a-game-about-making-a-planet.json](./386609-a-game-about-making-a-planet.json) |
 | A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
 | A Girl Adrift: Reunited Horizon | 400141 | [400141-a-girl-adrift-reunited-horizon.json](./400141-a-girl-adrift-reunited-horizon.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
