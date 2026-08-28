@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens | 17030 | [17030-lego-star-wars-the-force-awakens.json](./17030-lego-star-wars-the-force-awakens.json) |
 | LEGO Star Wars: The Video Game | 2681 | [2681-lego-star-wars-the-video-game.json](./2681-lego-star-wars-the-video-game.json) |
 | Leisure Suit Larry: Reloaded | 2915 | [2915-leisure-suit-larry-reloaded.json](./2915-leisure-suit-larry-reloaded.json) |
+| Lembre-se em Cedida | 375010 | [375010-lembre-se-em-cedida.json](./375010-lembre-se-em-cedida.json) |
 | Lemmings | 238952 | [238952-lemmings.json](./238952-lemmings.json) |
 | Lemmings | 239309 | [239309-lemmings.json](./239309-lemmings.json) |
 | Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like or Die | 415004 | [415004-like-or-die.json](./415004-like-or-die.json) |
 | Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
+| Lily's Lil Barn Yard! | 374995 | [374995-lilys-lil-barn-yard.json](./374995-lilys-lil-barn-yard.json) |
 | Limby | 408624 | [408624-limby.json](./408624-limby.json) |
 | Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
 | Liminal Logistics | 389896 | [389896-liminal-logistics.json](./389896-liminal-logistics.json) |
@@ -147,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
 | Locus Equation | 376295 | [376295-locus-equation.json](./376295-locus-equation.json) |
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
+| Lofi Mahjong | 375019 | [375019-lofi-mahjong.json](./375019-lofi-mahjong.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
@@ -179,6 +182,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Your Eyes | 390975 | [390975-lost-in-your-eyes.json](./390975-lost-in-your-eyes.json) |
 | Lost Inside | 385470 | [385470-lost-inside.json](./385470-lost-inside.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
+| Lost Patient | 375014 | [375014-lost-patient.json](./375014-lost-patient.json) |
+| Lost Sanity: Cthulhu | 375002 | [375002-lost-sanity-cthulhu.json](./375002-lost-sanity-cthulhu.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
