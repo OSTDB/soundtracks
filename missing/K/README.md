@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
 | Knockout Battle | 403466 | [403466-knockout-battle.json](./403466-knockout-battle.json) |
 | Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
+| Kodas Nereus | 396082 | [396082-kodas-nereus.json](./396082-kodas-nereus.json) |
 | Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
 | Kokutoto | 397537 | [397537-kokutoto.json](./397537-kokutoto.json) |
 | Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
