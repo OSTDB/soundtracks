@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
+| Mavis Beacon Teaches Typing 2020 | 372329 | [372329-mavis-beacon-teaches-typing-2020.json](./372329-mavis-beacon-teaches-typing-2020.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Double Trouble | 378058 | [378058-metroid-prime-double-trouble.json](./378058-metroid-prime-double-trouble.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
+| Mǐ Mǔ Mǐ Mǔ Hā | 372314 | [372314-mi-mu-mi-mu-ha.json](./372314-mi-mu-mi-mu-ha.json) |
 | Miami Vice: The Game | 23818 | [23818-miami-vice-the-game.json](./23818-miami-vice-the-game.json) |
 | Michael Jordan: Chaos in the Windy City | 42490 | [42490-michael-jordan-chaos-in-the-windy-city.json](./42490-michael-jordan-chaos-in-the-windy-city.json) |
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Billiards | 381445 | [381445-midnight-billiards.json](./381445-midnight-billiards.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
+| Midnight Escape | 372301 | [372301-midnight-escape.json](./372301-midnight-escape.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
 | Midnight Hoops | 381447 | [381447-midnight-hoops.json](./381447-midnight-hoops.json) |
 | Midnight Joy Ride | 396055 | [396055-midnight-joy-ride.json](./396055-midnight-joy-ride.json) |
@@ -383,8 +386,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall | 15267 | [15267-moonfall.json](./15267-moonfall.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
+| Moonlight Chess | 372284 | [372284-moonlight-chess.json](./372284-moonlight-chess.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
+| Moraff's Pinball | 372334 | [372334-moraffs-pinball.json](./372334-moraffs-pinball.json) |
 | More me | 410808 | [410808-more-me.json](./410808-more-me.json) |
 | Morning Never Comes | 95613 | [95613-morning-never-comes.json](./95613-morning-never-comes.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
