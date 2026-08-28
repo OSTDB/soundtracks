@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Slapshot | 5071 | [5071-nhl-slapshot.json](./5071-nhl-slapshot.json) |
 | Nibaa | 380264 | [380264-nibaa.json](./380264-nibaa.json) |
 | Nice Screams at the Funfair | 392045 | [392045-nice-screams-at-the-funfair.json](./392045-nice-screams-at-the-funfair.json) |
+| Nickelodeon All-Stars Tennis | 364935 | [364935-nickelodeon-all-stars-tennis.json](./364935-nickelodeon-all-stars-tennis.json) |
 | Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
 | Nidos | 381459 | [381459-nidos.json](./381459-nidos.json) |
