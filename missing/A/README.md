@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm for Cobra 11: Nitro | 81663 | [81663-alarm-for-cobra-11-nitro.json](./81663-alarm-for-cobra-11-nitro.json) |
 | Alarm112: Fire Unit | 411485 | [411485-alarm112-fire-unit.json](./411485-alarm112-fire-unit.json) |
 | Albatross | 408626 | [408626-albatross.json](./408626-albatross.json) |
+| Alchemilla Millefolium | 398890 | [398890-alchemilla-millefolium.json](./398890-alchemilla-millefolium.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
@@ -284,4 +285,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AVSEQ | 15288 | [15288-avseq.json](./15288-avseq.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
+| Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
