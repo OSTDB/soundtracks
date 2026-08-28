@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
 | Search | 384390 | [384390-search.json](./384390-search.json) |
+| SecreD: Foot Art | 375046 | [375046-secred-foot-art.json](./375046-secred-foot-art.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
 | SM64 Coop DX: Extra Characters Plus | 387182 | [387182-sm64-coop-dx-extra-characters-plus.json](./387182-sm64-coop-dx-extra-characters-plus.json) |
 | Small Bee | 396800 | [396800-small-bee.json](./396800-small-bee.json) |
+| Small Claims | 375018 | [375018-small-claims.json](./375018-small-claims.json) |
 | Small World of Golf | 404134 | [404134-small-world-of-golf.json](./404134-small-world-of-golf.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
@@ -589,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone | 407962 | [407962-stone.json](./407962-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
+| StoneHold | 375043 | [375043-stonehold.json](./375043-stonehold.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stonewards | 396815 | [396815-stonewards.json](./396815-stonewards.json) |
