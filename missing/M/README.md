@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
+| Marry the Witch | 360431 | [360431-marry-the-witch.json](./360431-marry-the-witch.json) |
 | Mars 2120: The More, the Merrier | 375677 | [375677-mars-2120-the-more-the-merrier.json](./375677-mars-2120-the-more-the-merrier.json) |
 | Mars Colony Simulator | 400106 | [400106-mars-colony-simulator.json](./400106-mars-colony-simulator.json) |
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
 | Master Knight | 369424 | [369424-master-knight.json](./369424-master-knight.json) |
+| Master of Cigkofte | 360441 | [360441-master-of-cigkofte.json](./360441-master-of-cigkofte.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
@@ -273,6 +275,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
+| Metroid Prime | 360405 | [360405-metroid-prime.json](./360405-metroid-prime.json) |
+| Metroid Prime 2: Echoes | 360406 | [360406-metroid-prime-2-echoes.json](./360406-metroid-prime-2-echoes.json) |
 | Metroid Prime Hunters: Recompiled | 414195 | [414195-metroid-prime-hunters-recompiled.json](./414195-metroid-prime-hunters-recompiled.json) |
 | Metroid Prime: Double Trouble | 378058 | [378058-metroid-prime-double-trouble.json](./378058-metroid-prime-double-trouble.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
@@ -342,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Family Party | 394714 | [394714-minigolf-family-party.json](./394714-minigolf-family-party.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
+| Minna de kitaeru Zen-nou training | 360437 | [360437-minna-de-kitaeru-zen-nou-training.json](./360437-minna-de-kitaeru-zen-nou-training.json) |
 | Minos Initiative: 2112 | 400806 | [400806-minos-initiative-2112.json](./400806-minos-initiative-2112.json) |
 | Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
@@ -436,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
 | Moonlight Chess | 372284 | [372284-moonlight-chess.json](./372284-moonlight-chess.json) |
+| Moonsteel | 360424 | [360424-moonsteel.json](./360424-moonsteel.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
 | Moraff's Pinball | 372334 | [372334-moraffs-pinball.json](./372334-moraffs-pinball.json) |
