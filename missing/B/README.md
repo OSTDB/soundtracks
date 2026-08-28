@@ -92,6 +92,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
+| Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
+| Before They Wake | 402808 | [402808-before-they-wake.json](./402808-before-they-wake.json) |
 | Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
@@ -113,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
+| BFDI Pop! | 402786 | [402786-bfdi-pop.json](./402786-bfdi-pop.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
 | Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
@@ -215,7 +218,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman World | 27255 | [27255-bomberman-world.json](./27255-bomberman-world.json) |
 | Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
+| BombPaws | 402811 | [402811-bombpaws.json](./402811-bombpaws.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
+| Bongo Cat: God Pack | 402773 | [402773-bongo-cat-god-pack.json](./402773-bongo-cat-god-pack.json) |
 | Bonsai Barber | 20902 | [20902-bonsai-barber.json](./20902-bonsai-barber.json) |
 | Boogie Superstar | 4726 | [4726-boogie-superstar.json](./4726-boogie-superstar.json) |
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
@@ -232,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
+| Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
