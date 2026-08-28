@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
+| Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
 | The Adventures of Fei Duanmu | 90464 | [90464-the-adventures-of-fei-duanmu.json](./90464-the-adventures-of-fei-duanmu.json) |
+| The Adventures of Horse the Horse | 412870 | [412870-the-adventures-of-horse-the-horse.json](./412870-the-adventures-of-horse-the-horse.json) |
 | The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
@@ -95,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
+| The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
@@ -242,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Survivor: Rusty Forest | 89305 | [89305-the-survivor-rusty-forest.json](./89305-the-survivor-rusty-forest.json) |
+| The Sweetest Sound | 412871 | [412871-the-sweetest-sound.json](./412871-the-sweetest-sound.json) |
 | The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
@@ -275,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This World Unknown | 31489 | [31489-this-world-unknown.json](./31489-this-world-unknown.json) |
 | Thorne - Son of Slaves (Ep.2) | 33039 | [33039-thorne-son-of-slaves-ep-2.json](./33039-thorne-son-of-slaves-ep-2.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
+| Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
