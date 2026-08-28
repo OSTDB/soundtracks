@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
+| Galactic Civilizations IV: Tales of the Terran Alliance | 379741 | [379741-galactic-civilizations-iv-tales-of-the-terran-alliance.json](./379741-galactic-civilizations-iv-tales-of-the-terran-alliance.json) |
 | GalactiWar: Empire Simulator | 406600 | [406600-galactiwar-empire-simulator.json](./406600-galactiwar-empire-simulator.json) |
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
@@ -62,6 +63,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Genshin Impact: A Traveler on a Winter's Night | 382013 | [382013-genshin-impact-a-traveler-on-a-winters-night.json](./382013-genshin-impact-a-traveler-on-a-winters-night.json) |
 | Gentleman's Violence | 384956 | [384956-gentlemans-violence.json](./384956-gentlemans-violence.json) |
+| Geo-Political Simulator 2026 Edition | 379768 | [379768-geo-political-simulator-2026-edition.json](./379768-geo-political-simulator-2026-edition.json) |
+| Geode | 379780 | [379780-geode.json](./379780-geode.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geometry Attack | 396091 | [396091-geometry-attack.json](./396091-geometry-attack.json) |
 | Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
@@ -198,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
+| Gravitten | 379775 | [379775-gravitten.json](./379775-gravitten.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
