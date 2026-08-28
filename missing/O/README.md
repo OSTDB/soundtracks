@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
+| One Halloween Night | 374454 | [374454-one-halloween-night.json](./374454-one-halloween-night.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
 | One Last Push | 405993 | [405993-one-last-push.json](./405993-one-last-push.json) |
 | One Million Buttons | 377457 | [377457-one-million-buttons.json](./377457-one-million-buttons.json) |
