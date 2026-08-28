@@ -18,6 +18,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
 | Dance Dance Revolution: Ultramix | 47301 | [47301-dance-dance-revolution-ultramix.json](./47301-dance-dance-revolution-ultramix.json) |
 | Dancers | 411477 | [411477-dancers.json](./411477-dancers.json) |
+| Danganronpa: Burnt Bridges | 399526 | [399526-danganronpa-burnt-bridges.json](./399526-danganronpa-burnt-bridges.json) |
+| Danganronpa: Maiden Voyage | 399529 | [399529-danganronpa-maiden-voyage.json](./399529-danganronpa-maiden-voyage.json) |
+| Danganronpa: Restrained Nature | 399511 | [399511-danganronpa-restrained-nature.json](./399511-danganronpa-restrained-nature.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
@@ -275,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
+| Double or Nothing | 399447 | [399447-double-or-nothing.json](./399447-double-or-nothing.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Down the Stairs: The Game | 409453 | [409453-down-the-stairs-the-game.json](./409453-down-the-stairs-the-game.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
@@ -326,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
+| Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
@@ -378,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
+| Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
