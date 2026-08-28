@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-Mail Rush | 378047 | [378047-robot-mail-rush.json](./378047-robot-mail-rush.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
+| Rock Paper Scissors Action! | 361504 | [361504-rock-paper-scissors-action.json](./361504-rock-paper-scissors-action.json) |
 | Rock Shot | 378061 | [378061-rock-shot.json](./378061-rock-shot.json) |
 | Rocket Man X | 406580 | [406580-rocket-man-x.json](./406580-rocket-man-x.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
