@@ -46,6 +46,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Farmbound | 415002 | [415002-farmbound.json](./415002-farmbound.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
+| Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
+| Farming Simulator 25: Emergency Pack | 410125 | [410125-farming-simulator-25-emergency-pack.json](./410125-farming-simulator-25-emergency-pack.json) |
+| Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
@@ -122,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
+| Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
 | Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
 | Flappy Poire | 412876 | [412876-flappy-poire.json](./412876-flappy-poire.json) |
 | Flappy Sky Bird | 87588 | [87588-flappy-sky-bird.json](./87588-flappy-sky-bird.json) |
@@ -186,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakyforms Deluxe: Your Creations, Alive! | 24225 | [24225-freakyforms-deluxe-your-creations-alive.json](./24225-freakyforms-deluxe-your-creations-alive.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
+| Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
 | Freefall Tournament | 102152 | [102152-freefall-tournament.json](./102152-freefall-tournament.json) |
