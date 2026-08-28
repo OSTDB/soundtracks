@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyles | 4530 | [4530-gargoyles.json](./4530-gargoyles.json) |
 | Garten of Banban | 230468 | [230468-garten-of-banban.json](./230468-garten-of-banban.json) |
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
+| Gary Goat RPG! Legend of the Jewel Seeds | 383215 | [383215-gary-goat-rpg-legend-of-the-jewel-seeds.json](./383215-gary-goat-rpg-legend-of-the-jewel-seeds.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
