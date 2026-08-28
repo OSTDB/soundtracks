@@ -82,6 +82,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
+| Real Boxing 2: Remastered - Jax Stone DLC | 359827 | [359827-real-boxing-2-remastered-jax-stone-dlc.json](./359827-real-boxing-2-remastered-jax-stone-dlc.json) |
+| Real Boxing 2: Remastered - Landon Phil DLC | 359830 | [359830-real-boxing-2-remastered-landon-phil-dlc.json](./359830-real-boxing-2-remastered-landon-phil-dlc.json) |
+| Real Boxing 2: Remastered - Lord Maywinner DLC | 359829 | [359829-real-boxing-2-remastered-lord-maywinner-dlc.json](./359829-real-boxing-2-remastered-lord-maywinner-dlc.json) |
+| Real Boxing 2: Remastered - Masaru DLC | 359831 | [359831-real-boxing-2-remastered-masaru-dlc.json](./359831-real-boxing-2-remastered-masaru-dlc.json) |
 | Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
 | Real Cars & Motocross Driving Simulator | 389881 | [389881-real-cars-and-motocross-driving-simulator.json](./389881-real-cars-and-motocross-driving-simulator.json) |
 | Real Dive World | 368344 | [368344-real-dive-world.json](./368344-real-dive-world.json) |
@@ -101,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Lodoss War: Haiiro no Majo | 387209 | [387209-record-of-lodoss-war-haiiro-no-majo.json](./387209-record-of-lodoss-war-haiiro-no-majo.json) |
 | Record of Lodoss War: Haiiro no Majo | 387205 | [387205-record-of-lodoss-war-haiiro-no-majo.json](./387205-record-of-lodoss-war-haiiro-no-majo.json) |
 | Recycle Quest | 384387 | [384387-recycle-quest.json](./384387-recycle-quest.json) |
+| Recycling Station Simulator | 359787 | [359787-recycling-station-simulator.json](./359787-recycling-station-simulator.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Carnation | 398860 | [398860-red-carnation.json](./398860-red-carnation.json) |
 | Red Clover Case Files | 360949 | [360949-red-clover-case-files.json](./360949-red-clover-case-files.json) |
@@ -171,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
 | Retro Puzzles: Eviva L'arte | 406587 | [406587-retro-puzzles-eviva-larte.json](./406587-retro-puzzles-eviva-larte.json) |
 | Retronaut | 376325 | [376325-retronaut.json](./376325-retronaut.json) |
+| Retrowave Need For Speed Drift | 359814 | [359814-retrowave-need-for-speed-drift.json](./359814-retrowave-need-for-speed-drift.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
