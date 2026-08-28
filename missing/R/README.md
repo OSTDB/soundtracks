@@ -81,6 +81,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction II | 4083 | [4083-red-faction-ii.json](./4083-red-faction-ii.json) |
 | Red Kite | 407985 | [407985-red-kite.json](./407985-red-kite.json) |
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
+| Red Passport: Ticket to Russia - Flight Stories | 385477 | [385477-red-passport-ticket-to-russia-flight-stories.json](./385477-red-passport-ticket-to-russia-flight-stories.json) |
+| Red Passport: Ticket to Russia - Japan Call | 385478 | [385478-red-passport-ticket-to-russia-japan-call.json](./385478-red-passport-ticket-to-russia-japan-call.json) |
+| Red Passport: Ticket to Russia - Old Novosibirsk Bus | 385480 | [385480-red-passport-ticket-to-russia-old-novosibirsk-bus.json](./385480-red-passport-ticket-to-russia-old-novosibirsk-bus.json) |
+| Red Passport: Ticket to Russia - Tramway Edition | 385479 | [385479-red-passport-ticket-to-russia-tramway-edition.json](./385479-red-passport-ticket-to-russia-tramway-edition.json) |
 | Red Planet | 393999 | [393999-red-planet.json](./393999-red-planet.json) |
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
@@ -225,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
+| Roommates, Romance, and Ringing Hearts | 385460 | [385460-roommates-romance-and-ringing-hearts.json](./385460-roommates-romance-and-ringing-hearts.json) |
 | Rooster Wars Arena: MFC Combat Battle | 398204 | [398204-rooster-wars-arena-mfc-combat-battle.json](./398204-rooster-wars-arena-mfc-combat-battle.json) |
 | Rope | 391508 | [391508-rope.json](./391508-rope.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
@@ -233,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | RP2D Virtual Tabletop | 404760 | [404760-rp2d-virtual-tabletop.json](./404760-rp2d-virtual-tabletop.json) |
+| Rudravati: Curse of Bhankilla | 385492 | [385492-rudravati-curse-of-bhankilla.json](./385492-rudravati-curse-of-bhankilla.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
 | Rugby Challenge 2 | 7166 | [7166-rugby-challenge-2.json](./7166-rugby-challenge-2.json) |
