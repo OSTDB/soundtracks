@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
 | Bellochia: Love Powered by Gears | 375004 | [375004-bellochia-love-powered-by-gears.json](./375004-bellochia-love-powered-by-gears.json) |
 | Belot | 371682 | [371682-belot.json](./371682-belot.json) |
+| Beloved Bound | 365483 | [365483-beloved-bound.json](./365483-beloved-bound.json) |
 | Below | 383834 | [383834-below.json](./383834-below.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
