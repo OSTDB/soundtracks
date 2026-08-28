@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Hastings Paintball 2 | 24317 | [24317-greg-hastings-paintball-2.json](./24317-greg-hastings-paintball-2.json) |
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
 | Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
+| Grid of Change | 396774 | [396774-grid-of-change.json](./396774-grid-of-change.json) |
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
+| GVD | 396771 | [396771-gvd.json](./396771-gvd.json) |
 | Gymnastics Salon - Makeup & Dressup Girls Game | 89534 | [89534-gymnastics-salon-makeup-and-dressup-girls-game.json](./89534-gymnastics-salon-makeup-and-dressup-girls-game.json) |
 | Gynophobia | 18592 | [18592-gynophobia.json](./18592-gynophobia.json) |
 | Gyro | 409462 | [409462-gyro.json](./409462-gyro.json) |
