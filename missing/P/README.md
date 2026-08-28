@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
+| Project Lost Bits | 380853 | [380853-project-lost-bits.json](./380853-project-lost-bits.json) |
 | Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project North | 386012 | [386012-project-north.json](./386012-project-north.json) |
