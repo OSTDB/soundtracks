@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Programming Simulator | 369404 | [369404-programming-simulator.json](./369404-programming-simulator.json) |
 | Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
+| Project Capture | 363232 | [363232-project-capture.json](./363232-project-capture.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Forestation | 369984 | [369984-project-forestation.json](./369984-project-forestation.json) |
