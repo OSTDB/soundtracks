@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
 | Gary Goat RPG! Legend of the Jewel Seeds | 383215 | [383215-gary-goat-rpg-legend-of-the-jewel-seeds.json](./383215-gary-goat-rpg-legend-of-the-jewel-seeds.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
+| GBKiss Mini Games | 366690 | [366690-gbkiss-mini-games.json](./366690-gbkiss-mini-games.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
 | GearShift | 413520 | [413520-gearshift.json](./413520-gearshift.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godsteel | 368865 | [368865-godsteel.json](./368865-godsteel.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
+| Gogyō | 366665 | [366665-gogyo.json](./366665-gogyo.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
 | Golden Axe: The Revenge Of Death Adder | 39285 | [39285-golden-axe-the-revenge-of-death-adder.json](./39285-golden-axe-the-revenge-of-death-adder.json) |
 | Golden Idol Mysteries: The Spider of Lanka | 247410 | [247410-golden-idol-mysteries-the-spider-of-lanka.json](./247410-golden-idol-mysteries-the-spider-of-lanka.json) |
