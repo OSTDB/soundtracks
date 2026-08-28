@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
+| Knock Knock! | 392061 | [392061-knock-knock.json](./392061-knock-knock.json) |
 | Knockout Battle | 403466 | [403466-knockout-battle.json](./403466-knockout-battle.json) |
 | Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
 | Kodas Nereus | 396082 | [396082-kodas-nereus.json](./396082-kodas-nereus.json) |
