@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodelee Golf | 402207 | [402207-yodelee-golf.json](./402207-yodelee-golf.json) |
 | Yogi Bear | 23380 | [23380-yogi-bear.json](./23380-yogi-bear.json) |
 | Yohane the Parhelion: Numazu in the Mirage | 267625 | [267625-yohane-the-parhelion-numazu-in-the-mirage.json](./267625-yohane-the-parhelion-numazu-in-the-mirage.json) |
+| Yokai Survivor | 400776 | [400776-yokai-survivor.json](./400776-yokai-survivor.json) |
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
 | Yorg.io 3 | 124182 | [124182-yorg-io-3.json](./124182-yorg-io-3.json) |
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
