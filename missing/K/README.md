@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kupar: Horror Mystery | 414235 | [414235-kupar-horror-mystery.json](./414235-kupar-horror-mystery.json) |
 | Kurage no Gakkou | 393338 | [393338-kurage-no-gakkou.json](./393338-kurage-no-gakkou.json) |
+| Kurai Heya | 359800 | [359800-kurai-heya.json](./359800-kurai-heya.json) |
 | Kuroko's Basketball Street Rivals | 410781 | [410781-kurokos-basketball-street-rivals.json](./410781-kurokos-basketball-street-rivals.json) |
 | Kuru | 386003 | [386003-kuru.json](./386003-kuru.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
