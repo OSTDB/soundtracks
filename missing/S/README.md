@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gold | 29190 | [29190-sacred-gold.json](./29190-sacred-gold.json) |
 | Sacrifice | 853 | [853-sacrifice.json](./853-sacrifice.json) |
 | Safari Photo Africa: Wild Earth | 23779 | [23779-safari-photo-africa-wild-earth.json](./23779-safari-photo-africa-wild-earth.json) |
+| Saga & Seeker | 379239 | [379239-saga-and-seeker.json](./379239-saga-and-seeker.json) |
 | SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
 | Skam | 382605 | [382605-skam.json](./382605-skam.json) |
 | Skarven | 379750 | [379750-skarven.json](./379750-skarven.json) |
+| Skate Style | 379215 | [379215-skate-style.json](./379215-skate-style.json) |
 | Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
@@ -267,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skunk Simulator: Raccoon Games | 384943 | [384943-skunk-simulator-raccoon-games.json](./384943-skunk-simulator-raccoon-games.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Drill | 389877 | [389877-sky-drill.json](./389877-sky-drill.json) |
+| Sky Feathers | 379240 | [379240-sky-feathers.json](./379240-sky-feathers.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
 | Sky Gamblers: Air Supremacy | 62448 | [62448-sky-gamblers-air-supremacy.json](./62448-sky-gamblers-air-supremacy.json) |
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
@@ -399,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcery: Deck of Shadows | 391516 | [391516-soulcery-deck-of-shadows.json](./391516-soulcery-deck-of-shadows.json) |
 | Soulmine | 404149 | [404149-soulmine.json](./404149-soulmine.json) |
 | Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
+| Soup Rooms | 379248 | [379248-soup-rooms.json](./379248-soup-rooms.json) |
 | Soup4U | 408699 | [408699-soup4u.json](./408699-soup4u.json) |
 | South Park | 1257 | [1257-south-park.json](./1257-south-park.json) |
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
@@ -470,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
+| SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
