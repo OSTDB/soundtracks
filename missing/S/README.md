@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Somnial Ouija | 391505 | [391505-somnial-ouija.json](./391505-somnial-ouija.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
+| Son of Thanjai | 362117 | [362117-son-of-thanjai.json](./362117-son-of-thanjai.json) |
 | Song of the Wind | 393336 | [393336-song-of-the-wind.json](./393336-song-of-the-wind.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
@@ -593,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Striker | 381456 | [381456-star-striker.json](./381456-star-striker.json) |
 | Star Titans: War of the Galaxy | 373386 | [373386-star-titans-war-of-the-galaxy.json](./373386-star-titans-war-of-the-galaxy.json) |
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
+| Star Trek: Infection | 362076 | [362076-star-trek-infection.json](./362076-star-trek-infection.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
 | Star Wars: Episode I - Racer | 167641 | [167641-star-wars-episode-i-racer.json](./167641-star-wars-episode-i-racer.json) |
@@ -860,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
+| Surviving Mars: Relaunched | 362081 | [362081-surviving-mars-relaunched.json](./362081-surviving-mars-relaunched.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
 | Sustain | 384362 | [384362-sustain.json](./384362-sustain.json) |
 | Sven's Quest: House of the Woodland Witch | 386046 | [386046-svens-quest-house-of-the-woodland-witch.json](./386046-svens-quest-house-of-the-woodland-witch.json) |
