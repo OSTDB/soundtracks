@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
 | Antropeo | 406016 | [406016-antropeo.json](./406016-antropeo.json) |
+| Anubis And The Buried Bone | 404125 | [404125-anubis-and-the-buried-bone.json](./404125-anubis-and-the-buried-bone.json) |
 | Aooni The Horror of Blueberry Onsen Episode: The Untold | 411423 | [411423-aooni-the-horror-of-blueberry-onsen-episode-the-untold.json](./411423-aooni-the-horror-of-blueberry-onsen-episode-the-untold.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
