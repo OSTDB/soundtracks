@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
+| RD Racing | 390970 | [390970-rd-racing.json](./390970-rd-racing.json) |
 | Re:Re:Ghosted | 401433 | [401433-re-re-ghosted.json](./401433-re-re-ghosted.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
