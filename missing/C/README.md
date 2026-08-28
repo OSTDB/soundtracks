@@ -39,8 +39,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Elmore | 403507 | [403507-call-of-elmore.json](./403507-call-of-elmore.json) |
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Call to Arms: Gates of Hell - Finest Hour | 387188 | [387188-call-to-arms-gates-of-hell-finest-hour.json](./387188-call-to-arms-gates-of-hell-finest-hour.json) |
+| Call to Arms: Panzer Elite - Deluxe Edition | 369397 | [369397-call-to-arms-panzer-elite-deluxe-edition.json](./369397-call-to-arms-panzer-elite-deluxe-edition.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
+| Camilla | 369418 | [369418-camilla.json](./369418-camilla.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campfire: Night One | 387912 | [387912-campfire-night-one.json](./387912-campfire-night-one.json) |
@@ -93,12 +95,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascader | 407232 | [407232-cascader.json](./407232-cascader.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
+| Casino Roulette: Roulettist | 369427 | [369427-casino-roulette-roulettist.json](./369427-casino-roulette-roulettist.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Castaway Cross | 392678 | [392678-castaway-cross.json](./392678-castaway-cross.json) |
 | Castle | 383827 | [383827-castle.json](./383827-castle.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
 | Castle Climb Obby | 372305 | [372305-castle-climb-obby.json](./372305-castle-climb-obby.json) |
+| Castle Dark | 369417 | [369417-castle-dark.json](./369417-castle-dark.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
 | Castle of the Untold | 389901 | [389901-castle-of-the-untold.json](./389901-castle-of-the-untold.json) |
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
