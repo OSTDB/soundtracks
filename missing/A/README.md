@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
 | Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
+| Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -265,6 +266,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asobutsuri | 410814 | [410814-asobutsuri.json](./410814-asobutsuri.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
+| Asphalt Racing Bundle 3 in 1 | 392614 | [392614-asphalt-racing-bundle-3-in-1.json](./392614-asphalt-racing-bundle-3-in-1.json) |
+| Asphalt Racing Bundle Grand Prix & Hypercar | 392613 | [392613-asphalt-racing-bundle-grand-prix-and-hypercar.json](./392613-asphalt-racing-bundle-grand-prix-and-hypercar.json) |
 | Assassin of Aliens | 407939 | [407939-assassin-of-aliens.json](./407939-assassin-of-aliens.json) |
 | Assassin's Creed Brotherhood: Deluxe Edition | 24743 | [24743-assassins-creed-brotherhood-deluxe-edition.json](./24743-assassins-creed-brotherhood-deluxe-edition.json) |
 | Assassin's Creed Chronicles: Trilogy Pack | 52416 | [52416-assassins-creed-chronicles-trilogy-pack.json](./52416-assassins-creed-chronicles-trilogy-pack.json) |
@@ -299,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
 | Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
+| Automated Ranch Simulator | 392640 | [392640-automated-ranch-simulator.json](./392640-automated-ranch-simulator.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
