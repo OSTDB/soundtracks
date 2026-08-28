@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
+| Airhead Academy | 384389 | [384389-airhead-academy.json](./384389-airhead-academy.json) |
 | Airline Director 2: Tycoon Game | 32995 | [32995-airline-director-2-tycoon-game.json](./32995-airline-director-2-tycoon-game.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Airport Madness: Time Machine | 34463 | [34463-airport-madness-time-machine.json](./34463-airport-madness-time-machine.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All About the Spy Guy | 409473 | [409473-all-about-the-spy-guy.json](./409473-all-about-the-spy-guy.json) |
 | All Day Dying | 126717 | [126717-all-day-dying.json](./126717-all-day-dying.json) |
+| All Hail the Orb | 384402 | [384402-all-hail-the-orb.json](./384402-all-hail-the-orb.json) |
 | All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpacapaca Dash | 29787 | [29787-alpacapaca-dash.json](./29787-alpacapaca-dash.json) |
 | Alpages: The Five Books | 34398 | [34398-alpages-the-five-books.json](./34398-alpages-the-five-books.json) |
 | Alpha Omega | 89503 | [89503-alpha-omega.json](./89503-alpha-omega.json) |
+| Alpha Trashman Antoine | 384381 | [384381-alpha-trashman-antoine.json](./384381-alpha-trashman-antoine.json) |
 | Alphadia Genesis 2 | 38988 | [38988-alphadia-genesis-2.json](./38988-alphadia-genesis-2.json) |
 | Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alt-Play: Jason Rohrer Anthology | 63355 | [63355-alt-play-jason-rohrer-anthology.json](./63355-alt-play-jason-rohrer-anthology.json) |
@@ -202,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hunter | 389862 | [389862-anime-hunter.json](./389862-anime-hunter.json) |
 | Anime Puzzle Collection | 411450 | [411450-anime-puzzle-collection.json](./411450-anime-puzzle-collection.json) |
 | Anime Video Puzzle | 411447 | [411447-anime-video-puzzle.json](./411447-anime-video-puzzle.json) |
+| Anime: Fantasy Uni 2 | 384357 | [384357-anime-fantasy-uni-2.json](./384357-anime-fantasy-uni-2.json) |
 | Animic: Attack with Your Voice | 384973 | [384973-animic-attack-with-your-voice.json](./384973-animic-attack-with-your-voice.json) |
 | Annie Amber | 32954 | [32954-annie-amber.json](./32954-annie-amber.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
