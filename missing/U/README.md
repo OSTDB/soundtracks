@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
 | Ultima IV: C64 | 400133 | [400133-ultima-iv-c64.json](./400133-ultima-iv-c64.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
+| Ultimate Dream | 389873 | [389873-ultimate-dream.json](./389873-ultimate-dream.json) |
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
 | Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
