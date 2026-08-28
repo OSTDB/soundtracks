@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Clash | 394027 | [394027-jungle-clash.json](./394027-jungle-clash.json) |
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
+| Junko's Part Time Job!! | 379774 | [379774-junkos-part-time-job.json](./379774-junkos-part-time-job.json) |
 | Junkyard Garage Simulator | 388604 | [388604-junkyard-garage-simulator.json](./388604-junkyard-garage-simulator.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
 | Jurassic Life: Tyrannosaurus Rex Dinosaur Simulator | 87577 | [87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json](./87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json) |
