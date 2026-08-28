@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Maniac Mind | 366080 | [366080-maniac-mind.json](./366080-maniac-mind.json) |
 | Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
+| Mantle | 365500 | [365500-mantle.json](./365500-mantle.json) |
 | Many Turns One Road | 371709 | [371709-many-turns-one-road.json](./371709-many-turns-one-road.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
 | Maple Wars | 375634 | [375634-maple-wars.json](./375634-maple-wars.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
 | Mass O' Kyzt | 65785 | [65785-mass-o-kyzt.json](./65785-mass-o-kyzt.json) |
 | Mass of Consumption | 381449 | [381449-mass-of-consumption.json](./381449-mass-of-consumption.json) |
+| Massi vs. José | 365490 | [365490-massi-vs-jose.json](./365490-massi-vs-jose.json) |
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
@@ -339,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minsgon Simulator | 373363 | [373363-minsgon-simulator.json](./373363-minsgon-simulator.json) |
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
 | Miracle Brave | 389874 | [389874-miracle-brave.json](./389874-miracle-brave.json) |
+| Miresi: Invisible Future | 365484 | [365484-miresi-invisible-future.json](./365484-miresi-invisible-future.json) |
 | Mirklurk: Every Step Matters | 371649 | [371649-mirklurk-every-step-matters.json](./371649-mirklurk-every-step-matters.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | Mirror Crypt | 383216 | [383216-mirror-crypt.json](./383216-mirror-crypt.json) |
@@ -405,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Under My Bed | 387230 | [387230-monster-under-my-bed.json](./387230-monster-under-my-bed.json) |
 | Monster x Mediator 404 | 400142 | [400142-monster-x-mediator-404.json](./400142-monster-x-mediator-404.json) |
 | Monster's Death | 401411 | [401411-monsters-death.json](./401411-monsters-death.json) |
+| Monsterhearts: Welcome to Drowned Lake | 365501 | [365501-monsterhearts-welcome-to-drowned-lake.json](./365501-monsterhearts-welcome-to-drowned-lake.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters & Magics: Digital Card Game | 372868 | [372868-monsters-and-magics-digital-card-game.json](./372868-monsters-and-magics-digital-card-game.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
