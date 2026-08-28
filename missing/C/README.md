@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronigma | 371092 | [371092-chronigma.json](./371092-chronigma.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
+| Cicada | 370533 | [370533-cicada.json](./370533-cicada.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
 | Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
 | Cigarettes for Shion | 373924 | [373924-cigarettes-for-shion.json](./373924-cigarettes-for-shion.json) |
@@ -248,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
 | Code-Zero | 372874 | [372874-code-zero.json](./372874-code-zero.json) |
+| Code: Elyse | 370545 | [370545-code-elyse.json](./370545-code-elyse.json) |
 | Codebreaker | 389283 | [389283-codebreaker.json](./389283-codebreaker.json) |
 | Codename: Typhoon | 390963 | [390963-codename-typhoon.json](./390963-codename-typhoon.json) |
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
@@ -322,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
 | Console Archives: Terra Cresta | 396096 | [396096-console-archives-terra-cresta.json](./396096-console-archives-terra-cresta.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
+| Contagious Mayhem | 370525 | [370525-contagious-mayhem.json](./370525-contagious-mayhem.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
 | Containment: The Zombie Puzzler | 15163 | [15163-containment-the-zombie-puzzler.json](./15163-containment-the-zombie-puzzler.json) |
@@ -487,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
 | Cyberpunk Store Simulator | 374487 | [374487-cyberpunk-store-simulator.json](./374487-cyberpunk-store-simulator.json) |
 | CyberSmash | 372890 | [372890-cybersmash.json](./372890-cybersmash.json) |
+| Cybrid: Survivor | 370516 | [370516-cybrid-survivor.json](./370516-cybrid-survivor.json) |
 | Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
 | Cypher | 378033 | [378033-cypher.json](./378033-cypher.json) |
 | Cypher Dungeon | 390398 | [390398-cypher-dungeon.json](./390398-cypher-dungeon.json) |
