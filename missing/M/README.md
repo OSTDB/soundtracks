@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
+| Marvel Rivals: Season 8 - Sins of Alchemax | 402159 | [402159-marvel-rivals-season-8-sins-of-alchemax.json](./402159-marvel-rivals-season-8-sins-of-alchemax.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
 | Marvel vs. Capcom: Infinite - Chun-Li Casual Costume | 403502 | [403502-marvel-vs-capcom-infinite-chun-li-casual-costume.json](./403502-marvel-vs-capcom-infinite-chun-li-casual-costume.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
+| Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
@@ -256,6 +258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
+| Monsters are Coming! Corrupt Edition | 402217 | [402217-monsters-are-coming-corrupt-edition.json](./402217-monsters-are-coming-corrupt-edition.json) |
+| Monsters are Coming! Power Corrupts | 402219 | [402219-monsters-are-coming-power-corrupts.json](./402219-monsters-are-coming-power-corrupts.json) |
 | Monsters Invade: Oz | 20915 | [20915-monsters-invade-oz.json](./20915-monsters-invade-oz.json) |
 | Montaro | 26671 | [26671-montaro.json](./26671-montaro.json) |
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
@@ -285,12 +289,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
 | Moto Racer 3 | 10563 | [10563-moto-racer-3.json](./10563-moto-racer-3.json) |
+| Moto Rush GT: Pro Edition | 402178 | [402178-moto-rush-gt-pro-edition.json](./402178-moto-rush-gt-pro-edition.json) |
 | Motocross Madness | 10261 | [10261-motocross-madness.json](./10261-motocross-madness.json) |
 | MotoGP | 23012 | [23012-motogp.json](./23012-motogp.json) |
 | MotoGP 15 Compact | 34399 | [34399-motogp-15-compact.json](./34399-motogp-15-compact.json) |
 | MotoGP 2 | 5933 | [5933-motogp-2.json](./5933-motogp-2.json) |
 | MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
 | MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
+| Motorbikes Pro 2025: Elite Edition | 402177 | [402177-motorbikes-pro-2025-elite-edition.json](./402177-motorbikes-pro-2025-elite-edition.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
