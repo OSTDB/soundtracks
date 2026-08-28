@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knight and Code | 389302 | [389302-knight-and-code.json](./389302-knight-and-code.json) |
 | Knight Castle Defender | 387243 | [387243-knight-castle-defender.json](./387243-knight-castle-defender.json) |
+| Knightoban | 371736 | [371736-knightoban.json](./371736-knightoban.json) |
 | Knights & Towers | 374465 | [374465-knights-and-towers.json](./374465-knights-and-towers.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
@@ -143,4 +144,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyojin-tachi Zero Div1 | 376338 | [376338-kyojin-tachi-zero-div1.json](./376338-kyojin-tachi-zero-div1.json) |
 | Kyojin-tachi Zero: Prologue | 376337 | [376337-kyojin-tachi-zero-prologue.json](./376337-kyojin-tachi-zero-prologue.json) |
 | Kyoto Colorful Days | 32949 | [32949-kyoto-colorful-days.json](./32949-kyoto-colorful-days.json) |
+| Kyoushisei Black Thunder R | 371705 | [371705-kyoushisei-black-thunder-r.json](./371705-kyoushisei-black-thunder-r.json) |
 | Kyra The Hunter | 398862 | [398862-kyra-the-hunter.json](./398862-kyra-the-hunter.json) |
