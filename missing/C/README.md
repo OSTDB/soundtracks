@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronigma | 371092 | [371092-chronigma.json](./371092-chronigma.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Chrono Flux | 365475 | [365475-chrono-flux.json](./365475-chrono-flux.json) |
+| Chud Logic's: Gockbound | 359828 | [359828-chud-logics-gockbound.json](./359828-chud-logics-gockbound.json) |
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Cicada | 370533 | [370533-cicada.json](./370533-cicada.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
@@ -248,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Cliffside Cafe | 402789 | [402789-cliffside-cafe.json](./402789-cliffside-cafe.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
+| Clock Jump | 359801 | [359801-clock-jump.json](./359801-clock-jump.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Terra Cresta | 396096 | [396096-console-archives-terra-cresta.json](./396096-console-archives-terra-cresta.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Constellations | 367266 | [367266-constellations.json](./367266-constellations.json) |
+| Construction Sim: City and Road Builder | 359810 | [359810-construction-sim-city-and-road-builder.json](./359810-construction-sim-city-and-road-builder.json) |
 | Contagious Mayhem | 370525 | [370525-contagious-mayhem.json](./370525-contagious-mayhem.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
