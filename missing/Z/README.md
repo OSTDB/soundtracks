@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Z-Gyubaan! | 379218 | [379218-z-gyubaan.json](./379218-z-gyubaan.json) |
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
+| Zangyou | 378052 | [378052-zangyou.json](./378052-zangyou.json) |
 | Zapper: One Wicked Cricket! | 47332 | [47332-zapper-one-wicked-cricket.json](./47332-zapper-one-wicked-cricket.json) |
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
 | Zeit 2 | 14965 | [14965-zeit-2.json](./14965-zeit-2.json) |
