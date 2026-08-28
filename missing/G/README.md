@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
+| Gape Kape Escape | 368883 | [368883-gape-kape-escape.json](./368883-gape-kape-escape.json) |
 | Garage Mechanic Simulator 2026 | 404729 | [404729-garage-mechanic-simulator-2026.json](./404729-garage-mechanic-simulator-2026.json) |
 | Garbage Truck Simulator 2011 | 22638 | [22638-garbage-truck-simulator-2011.json](./22638-garbage-truck-simulator-2011.json) |
 | Garden Haven | 389299 | [389299-garden-haven.json](./389299-garden-haven.json) |
@@ -153,12 +154,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
 | Gods With Guns | 407259 | [407259-gods-with-guns.json](./407259-gods-with-guns.json) |
 | Godseeker II | 400108 | [400108-godseeker-ii.json](./400108-godseeker-ii.json) |
+| Godsteel | 368865 | [368865-godsteel.json](./368865-godsteel.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
 | Golden Axe: The Revenge Of Death Adder | 39285 | [39285-golden-axe-the-revenge-of-death-adder.json](./39285-golden-axe-the-revenge-of-death-adder.json) |
 | Golden Idol Mysteries: The Spider of Lanka | 247410 | [247410-golden-idol-mysteries-the-spider-of-lanka.json](./247410-golden-idol-mysteries-the-spider-of-lanka.json) |
 | Golden Sun: The Lost Age | 1173 | [1173-golden-sun-the-lost-age.json](./1173-golden-sun-the-lost-age.json) |
+| Golden Swirl | 368836 | [368836-golden-swirl.json](./368836-golden-swirl.json) |
 | GoldenEye 007 | 233877 | [233877-goldeneye-007.json](./233877-goldeneye-007.json) |
 | GoldenEye: Source | 51239 | [51239-goldeneye-source.json](./51239-goldeneye-source.json) |
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
@@ -174,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Great Justice | 394729 | [394729-goodbye-great-justice.json](./394729-goodbye-great-justice.json) |
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
+| Goofy Golf Remastered | 368848 | [368848-goofy-golf-remastered.json](./368848-goofy-golf-remastered.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
