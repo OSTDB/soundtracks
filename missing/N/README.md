@@ -148,6 +148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
 | Ninja Usagimaru: The Gem of Blessings | 44390 | [44390-ninja-usagimaru-the-gem-of-blessings.json](./44390-ninja-usagimaru-the-gem-of-blessings.json) |
+| Nintendo Hearts Fun Trivia Quiz | 360935 | [360935-nintendo-hearts-fun-trivia-quiz.json](./360935-nintendo-hearts-fun-trivia-quiz.json) |
+| Nintendo Hearts Fun Trivia Quiz | 360934 | [360934-nintendo-hearts-fun-trivia-quiz.json](./360934-nintendo-hearts-fun-trivia-quiz.json) |
 | Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Niph | 391467 | [391467-niph.json](./391467-niph.json) |
