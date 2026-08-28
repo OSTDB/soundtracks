@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
 | There's No Differences: Cake | 374485 | [374485-theres-no-differences-cake.json](./374485-theres-no-differences-cake.json) |
 | There's No Differences: Dragons | 374488 | [374488-theres-no-differences-dragons.json](./374488-theres-no-differences-dragons.json) |
+| These Four Walls | 372316 | [372316-these-four-walls.json](./372316-these-four-walls.json) |
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Pharaoh | 250531 | [250531-total-war-pharaoh.json](./250531-total-war-pharaoh.json) |
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
+| Tottado! Yoiko no Mujintou Seikatsu | 372332 | [372332-tottado-yoiko-no-mujintou-seikatsu.json](./372332-tottado-yoiko-no-mujintou-seikatsu.json) |
 | Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
