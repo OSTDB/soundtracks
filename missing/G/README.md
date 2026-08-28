@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
+| GearShift | 413520 | [413520-gearshift.json](./413520-gearshift.json) |
 | Geeksos | 116258 | [116258-geeksos.json](./116258-geeksos.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
 | Gelu | 44264 | [44264-gelu.json](./44264-gelu.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
+| Giraffe Raising Game: Reach for the sky | 413568 | [413568-giraffe-raising-game-reach-for-the-sky.json](./413568-giraffe-raising-game-reach-for-the-sky.json) |
 | Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
 | Girls Theme Park Craft: Water Slide Fun Park Games | 101943 | [101943-girls-theme-park-craft-water-slide-fun-park-games.json](./101943-girls-theme-park-craft-water-slide-fun-park-games.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
 | Governor of Poker 2: Premium Edition | 30146 | [30146-governor-of-poker-2-premium-edition.json](./30146-governor-of-poker-2-premium-edition.json) |
+| Grablings: Paint 'n Seek | 413533 | [413533-grablings-paint-n-seek.json](./413533-grablings-paint-n-seek.json) |
 | Gradius Collection | 18192 | [18192-gradius-collection.json](./18192-gradius-collection.json) |
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
