@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Assault GG2SMS | 369433 | [369433-aerial-assault-gg2sms.json](./369433-aerial-assault-gg2sms.json) |
 | Aerialia: Wings of Delivery | 413551 | [413551-aerialia-wings-of-delivery.json](./413551-aerialia-wings-of-delivery.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
+| Aerosurge | 360960 | [360960-aerosurge.json](./360960-aerosurge.json) |
 | Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
 | Aetheris Core | 411453 | [411453-aetheris-core.json](./411453-aetheris-core.json) |
 | AFK GF | 365521 | [365521-afk-gf.json](./365521-afk-gf.json) |
