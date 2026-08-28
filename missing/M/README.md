@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
+| Many Turns One Road | 371709 | [371709-many-turns-one-road.json](./371709-many-turns-one-road.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
 | Maple Wars | 375634 | [375634-maple-wars.json](./375634-maple-wars.json) |
 | Mara | 405424 | [405424-mara.json](./405424-mara.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
 | Mech and Tech 1 | 373930 | [373930-mech-and-tech-1.json](./373930-mech-and-tech-1.json) |
+| Mech Builder 3D | 371691 | [371691-mech-builder-3d.json](./371691-mech-builder-3d.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
 | Medabots Card Robattle RB | 390961 | [390961-medabots-card-robattle-rb.json](./390961-medabots-card-robattle-rb.json) |
@@ -227,11 +229,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 - Day One Edition | 390965 | [390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json](./390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json) |
 | Metal Gear Solid: Master Collection Vol. 2 Bonus Content | 392677 | [392677-metal-gear-solid-master-collection-vol-2-bonus-content.json](./392677-metal-gear-solid-master-collection-vol-2-bonus-content.json) |
+| Metal Head Warfare | 371667 | [371667-metal-head-warfare.json](./371667-metal-head-warfare.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
+| MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
@@ -307,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minsgon Simulator | 373363 | [373363-minsgon-simulator.json](./373363-minsgon-simulator.json) |
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
 | Miracle Brave | 389874 | [389874-miracle-brave.json](./389874-miracle-brave.json) |
+| Mirklurk: Every Step Matters | 371649 | [371649-mirklurk-every-step-matters.json](./371649-mirklurk-every-step-matters.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | Mirror Crypt | 383216 | [383216-mirror-crypt.json](./383216-mirror-crypt.json) |
 | Mirrorandum | 383217 | [383217-mirrorandum.json](./383217-mirrorandum.json) |
