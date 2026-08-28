@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Fun Shapes | 414234 | [414234-jigsaw-puzzle-fun-shapes.json](./414234-jigsaw-puzzle-fun-shapes.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
+| Joe Gunn Gold | 404766 | [404766-joe-gunn-gold.json](./404766-joe-gunn-gold.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Jolly Rover | 15056 | [15056-jolly-rover.json](./15056-jolly-rover.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
