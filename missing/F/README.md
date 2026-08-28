@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fatehaven | 31422 | [31422-fatehaven.json](./31422-fatehaven.json) |
+| Fatenames | 379199 | [379199-fatenames.json](./379199-fatenames.json) |
 | Father Forgets | 406027 | [406027-father-forgets.json](./406027-father-forgets.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer | 2124 | [2124-freelancer.json](./2124-freelancer.json) |
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
+| Fri: The Unforgettable City | 379217 | [379217-fri-the-unforgettable-city.json](./379217-fri-the-unforgettable-city.json) |
 | Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
 | Fritz Chess 20 Steam Edition | 392656 | [392656-fritz-chess-20-steam-edition.json](./392656-fritz-chess-20-steam-edition.json) |
 | Frobisher Says | 22866 | [22866-frobisher-says.json](./22866-frobisher-says.json) |
@@ -306,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
+| Furikake Spacey OVA: Vietnam Thai Cambodia Philippines-hen | 379221 | [379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json](./379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
 | Furry Girls | 382061 | [382061-furry-girls.json](./382061-furry-girls.json) |
