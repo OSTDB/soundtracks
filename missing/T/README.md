@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fair Unknown | 413543 | [413543-the-fair-unknown.json](./413543-the-fair-unknown.json) |
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
+| The False Sun | 407975 | [407975-the-false-sun.json](./407975-the-false-sun.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
 | The Incident | 66315 | [66315-the-incident.json](./66315-the-incident.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
+| The Inverted Tower | 407967 | [407967-the-inverted-tower.json](./407967-the-inverted-tower.json) |
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
@@ -218,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
@@ -406,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
+| Trapped Together | 407984 | [407984-trapped-together.json](./407984-trapped-together.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
 | Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
@@ -418,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
+| Triston | 407960 | [407960-triston.json](./407960-triston.json) |
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
@@ -438,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
+| Tuìhūn Hòu, Zōngzhǔ Mǎjiǎ Cáng Bùzhù | 407979 | [407979-tuihun-hou-zongzhu-majia-cang-buzhu.json](./407979-tuihun-hou-zongzhu-majia-cang-buzhu.json) |
 | Tumble in the Deep Noon | 412166 | [412166-tumble-in-the-deep-noon.json](./412166-tumble-in-the-deep-noon.json) |
 | Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
