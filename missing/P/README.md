@@ -101,12 +101,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
+| Phantom Of The Lily | 393326 | [393326-phantom-of-the-lily.json](./393326-phantom-of-the-lily.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
 | Pharmacy Store Simulator | 400756 | [400756-pharmacy-store-simulator.json](./400756-pharmacy-store-simulator.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
 | Photographs | 80878 | [80878-photographs.json](./80878-photographs.json) |
+| Photos | 393371 | [393371-photos.json](./393371-photos.json) |
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
 | PicoCross | 404743 | [404743-picocross.json](./404743-picocross.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictonico! | 402158 | [402158-pictonico.json](./402158-pictonico.json) |
 | Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
+| Pig in Hell | 393307 | [393307-pig-in-hell.json](./393307-pig-in-hell.json) |
 | Pigeon's Untitled Screenplay | 403453 | [403453-pigeons-untitled-screenplay.json](./403453-pigeons-untitled-screenplay.json) |
 | Pigharvest5 | 399541 | [399541-pigharvest5.json](./399541-pigharvest5.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
