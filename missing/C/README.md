@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
+| Capybara Dungeon | 384932 | [384932-capybara-dungeon.json](./384932-capybara-dungeon.json) |
 | Capybound | 385453 | [385453-capybound.json](./385453-capybound.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
 | Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Club Manager | 399450 | [399450-chess-club-manager.json](./399450-chess-club-manager.json) |
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chess Nuke | 412820 | [412820-chess-nuke.json](./412820-chess-nuke.json) |
+| Chess Tales | 384954 | [384954-chess-tales.json](./384954-chess-tales.json) |
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
@@ -176,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bomber 4k | 412866 | [412866-city-bomber-4k.json](./412866-city-bomber-4k.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
+| City of Hunger | 384957 | [384957-city-of-hunger.json](./384957-city-of-hunger.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
 | Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
@@ -368,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croqueta Clicker | 398255 | [398255-croqueta-clicker.json](./398255-croqueta-clicker.json) |
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
+| Cross Reverie | 384953 | [384953-cross-reverie.json](./384953-cross-reverie.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
 | Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
