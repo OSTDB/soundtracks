@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Limby | 408624 | [408624-limby.json](./408624-limby.json) |
+| Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
+| Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
