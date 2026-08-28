@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
+| Dream Strikers | 364888 | [364888-dream-strikers.json](./364888-dream-strikers.json) |
 | Dream Team | 380291 | [380291-dream-team.json](./380291-dream-team.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Kingdom: Sign of the Moon | 15199 | [15199-dungeon-kingdom-sign-of-the-moon.json](./15199-dungeon-kingdom-sign-of-the-moon.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
 | Dungeon Lords | 380297 | [380297-dungeon-lords.json](./380297-dungeon-lords.json) |
+| Dungeon Maiden: Survivor | 364937 | [364937-dungeon-maiden-survivor.json](./364937-dungeon-maiden-survivor.json) |
 | Dungeon Manager ZV | 34466 | [34466-dungeon-manager-zv.json](./34466-dungeon-manager-zv.json) |
 | Dungeon of Doom | 380298 | [380298-dungeon-of-doom.json](./380298-dungeon-of-doom.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
