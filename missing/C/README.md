@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
 | Cozy Basket | 401390 | [401390-cozy-basket.json](./401390-cozy-basket.json) |
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
+| Cozy Game Restoration | 394023 | [394023-cozy-game-restoration.json](./394023-cozy-game-restoration.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
 | Cozy Snow Friends | 398196 | [398196-cozy-snow-friends.json](./398196-cozy-snow-friends.json) |
