@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Under His Roof | 406002 | [406002-peace-under-his-roof.json](./406002-peace-under-his-roof.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
+| Peak The Adventure Begins | 373389 | [373389-peak-the-adventure-begins.json](./373389-peak-the-adventure-begins.json) |
 | Pecado: SD Card | 389289 | [389289-pecado-sd-card.json](./389289-pecado-sd-card.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
 | Peeps! | 400766 | [400766-peeps.json](./400766-peeps.json) |
