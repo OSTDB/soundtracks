@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
+| Devil of the Plague | 388583 | [388583-devil-of-the-plague.json](./388583-devil-of-the-plague.json) |
 | Devil Tank | 391469 | [391469-devil-tank.json](./391469-devil-tank.json) |
 | Devil Typocrypha: Alt-Eschatopia | 411467 | [411467-devil-typocrypha-alt-eschatopia.json](./411467-devil-typocrypha-alt-eschatopia.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
+| Drones Drop Bombs | 388634 | [388634-drones-drop-bombs.json](./388634-drones-drop-bombs.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
 | DroPlaying! | 397539 | [397539-droplaying.json](./397539-droplaying.json) |
