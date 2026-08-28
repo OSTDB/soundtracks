@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
 | Approaching Infinity: Shipyards | 376326 | [376326-approaching-infinity-shipyards.json](./376326-approaching-infinity-shipyards.json) |
 | APSudoku | 396090 | [396090-apsudoku.json](./396090-apsudoku.json) |
+| Aqk | 359259 | [359259-aqk.json](./359259-aqk.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquacade | 363219 | [363219-aquacade.json](./363219-aquacade.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Animated Monster Maker Math | 380851 | [380851-awesome-animated-monster-maker-math.json](./380851-awesome-animated-monster-maker-math.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
+| Axe or Bone | 359226 | [359226-axe-or-bone.json](./359226-axe-or-bone.json) |
 | Axeras | 369949 | [369949-axeras.json](./369949-axeras.json) |
 | Ayrton Idle | 374468 | [374468-ayrton-idle.json](./374468-ayrton-idle.json) |
 | Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
