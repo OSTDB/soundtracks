@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Horizons: Mechanized Corps | 16890 | [16890-dark-horizons-mechanized-corps.json](./16890-dark-horizons-mechanized-corps.json) |
 | Dark Matter | 16668 | [16668-dark-matter.json](./16668-dark-matter.json) |
 | Dark Parables: Curse of Briar Rose - Collector's Edition | 31425 | [31425-dark-parables-curse-of-briar-rose-collectors-edition.json](./31425-dark-parables-curse-of-briar-rose-collectors-edition.json) |
+| Dark Ride: The Feline Fix | 375675 | [375675-dark-ride-the-feline-fix.json](./375675-dark-ride-the-feline-fix.json) |
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
 | Dark Souls 2: Mad Warrior Edition | 381467 | [381467-dark-souls-2-mad-warrior-edition.json](./381467-dark-souls-2-mad-warrior-edition.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decypher: Chapter 1 - Dream Intruder | 387909 | [387909-decypher-chapter-1-dream-intruder.json](./387909-decypher-chapter-1-dream-intruder.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Dive | 380249 | [380249-deep-dive.json](./380249-deep-dive.json) |
+| Deep Fog Signals | 375622 | [375622-deep-fog-signals.json](./375622-deep-fog-signals.json) |
 | Deep in the Dread | 377441 | [377441-deep-in-the-dread.json](./377441-deep-in-the-dread.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Six | 380250 | [380250-deep-six.json](./380250-deep-six.json) |
@@ -339,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Crash | 380276 | [380276-dont-crash.json](./380276-dont-crash.json) |
 | Don't Die, Minerva! | 126345 | [126345-dont-die-minerva.json](./126345-dont-die-minerva.json) |
+| Don't Eat the Cashier | 375650 | [375650-dont-eat-the-cashier.json](./375650-dont-eat-the-cashier.json) |
 | Don't Fall | 380275 | [380275-dont-fall.json](./380275-dont-fall.json) |
 | Don't Freeze | 380280 | [380280-dont-freeze.json](./380280-dont-freeze.json) |
 | Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
@@ -423,6 +426,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Gate: Tournament | 380285 | [380285-dragon-gate-tournament.json](./380285-dragon-gate-tournament.json) |
 | Dragon Jump | 380289 | [380289-dragon-jump.json](./380289-dragon-jump.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
+| Dragon Quest I HD-2D Remake | 375616 | [375616-dragon-quest-i-hd-2d-remake.json](./375616-dragon-quest-i-hd-2d-remake.json) |
+| Dragon Quest II HD-2D Remake | 375617 | [375617-dragon-quest-ii-hd-2d-remake.json](./375617-dragon-quest-ii-hd-2d-remake.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Seeker | 394004 | [394004-dragon-seeker.json](./394004-dragon-seeker.json) |
 | Dragon Skips | 395434 | [395434-dragon-skips.json](./395434-dragon-skips.json) |
