@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Basics Hiragana Fill-in Quiz | 396108 | [396108-japanese-basics-hiragana-fill-in-quiz.json](./396108-japanese-basics-hiragana-fill-in-quiz.json) |
 | Japanese Culture Literacy Test | 398200 | [398200-japanese-culture-literacy-test.json](./398200-japanese-culture-literacy-test.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
+| Jarnathan's Cleaning Service | 379238 | [379238-jarnathans-cleaning-service.json](./379238-jarnathans-cleaning-service.json) |
 | Jasmine | 398889 | [398889-jasmine.json](./398889-jasmine.json) |
 | Jaws | 15704 | [15704-jaws.json](./15704-jaws.json) |
 | Jaws of Extinction | 44585 | [44585-jaws-of-extinction.json](./44585-jaws-of-extinction.json) |
