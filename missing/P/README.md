@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
+| Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
+| Perfect Game | 411462 | [411462-perfect-game.json](./411462-perfect-game.json) |
 | PerformVR | 412834 | [412834-performvr.json](./412834-performvr.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
@@ -124,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
+| Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
 | Pocket Kingdom | 32991 | [32991-pocket-kingdom.json](./32991-pocket-kingdom.json) |
 | Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
@@ -142,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
+| Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
@@ -164,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
 | Premium Play Darkness | 22477 | [22477-premium-play-darkness.json](./22477-premium-play-darkness.json) |
+| Press: Authorized Disposal | 411489 | [411489-press-authorized-disposal.json](./411489-press-authorized-disposal.json) |
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Primal Carnage | 3066 | [3066-primal-carnage.json](./3066-primal-carnage.json) |
 | Primal Wars: Dino Age | 101954 | [101954-primal-wars-dino-age.json](./101954-primal-wars-dino-age.json) |
