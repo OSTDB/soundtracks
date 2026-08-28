@@ -29,4 +29,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Soul | 397577 | [397577-quiet-soul.json](./397577-quiet-soul.json) |
 | Quiete | 371718 | [371718-quiete.json](./371718-quiete.json) |
 | Quill & Sword: Fate of Eryndor | 383230 | [383230-quill-and-sword-fate-of-eryndor.json](./383230-quill-and-sword-fate-of-eryndor.json) |
+| Quiz no Hoshi | 371105 | [371105-quiz-no-hoshi.json](./371105-quiz-no-hoshi.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
