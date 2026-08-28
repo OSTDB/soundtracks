@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Card | 387251 | [387251-the-devil-card.json](./387251-the-devil-card.json) |
 | The Division 2: Rise Up | 396787 | [396787-the-division-2-rise-up.json](./396787-the-division-2-rise-up.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
+| The Doors to Netherwhere | 379733 | [379733-the-doors-to-netherwhere.json](./379733-the-doors-to-netherwhere.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures Online | 395425 | [395425-the-fancy-pants-adventures-online.json](./395425-the-fancy-pants-adventures-online.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
+| The Final Shift | 379773 | [379773-the-final-shift.json](./379773-the-final-shift.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
 | The Forest of Doom | 16938 | [16938-the-forest-of-doom.json](./16938-the-forest-of-doom.json) |
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
@@ -265,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Late Arrival | 380891 | [380891-the-late-arrival.json](./380891-the-late-arrival.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
 | The Legend of Heroes: Trails from Zero | 23322 | [23322-the-legend-of-heroes-trails-from-zero.json](./23322-the-legend-of-heroes-trails-from-zero.json) |
+| The Legend of Heroes: Trails in the Sky | 379767 | [379767-the-legend-of-heroes-trails-in-the-sky.json](./379767-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails of Cold Steel III | 26564 | [26564-the-legend-of-heroes-trails-of-cold-steel-iii.json](./26564-the-legend-of-heroes-trails-of-cold-steel-iii.json) |
 | The Legend of Heroes: Trails Through Daybreak II | 185864 | [185864-the-legend-of-heroes-trails-through-daybreak-ii.json](./185864-the-legend-of-heroes-trails-through-daybreak-ii.json) |
 | The Legend of Kage | 4593 | [4593-the-legend-of-kage.json](./4593-the-legend-of-kage.json) |
@@ -333,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Remains | 380261 | [380261-the-remains.json](./380261-the-remains.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
+| The Richest | 379752 | [379752-the-richest.json](./379752-the-richest.json) |
 | The Ritual | 380883 | [380883-the-ritual.json](./380883-the-ritual.json) |
 | The Saplum Cradle | 387241 | [387241-the-saplum-cradle.json](./387241-the-saplum-cradle.json) |
 | The Scrolls | 395390 | [395390-the-scrolls.json](./395390-the-scrolls.json) |
@@ -434,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Three Jokers | 390981 | [390981-three-jokers.json](./390981-three-jokers.json) |
 | Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
+| Thriving in Ruins: The End of Humanity is not the End of the World | 379729 | [379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json](./379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
 | Throw a Life! | 392026 | [392026-throw-a-life.json](./392026-throw-a-life.json) |
