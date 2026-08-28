@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legal Beagll: Justice is Argued | 371091 | [371091-legal-beagll-justice-is-argued.json](./371091-legal-beagll-justice-is-argued.json) |
 | Legatus | 389328 | [389328-legatus.json](./389328-legatus.json) |
 | Legend Battles | 392670 | [392670-legend-battles.json](./392670-legend-battles.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Longboard Skate Downhill Simulator | 401409 | [401409-longboard-skate-downhill-simulator.json](./401409-longboard-skate-downhill-simulator.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
+| Looking Inside Cells | 371077 | [371077-looking-inside-cells.json](./371077-looking-inside-cells.json) |
 | Looking Up I See Only A Ceiling: The Recall | 404104 | [404104-looking-up-i-see-only-a-ceiling-the-recall.json](./404104-looking-up-i-see-only-a-ceiling-the-recall.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
