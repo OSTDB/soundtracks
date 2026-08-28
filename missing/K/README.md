@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
 | Kirby's Return to Dream Land Deluxe | 217565 | [217565-kirbys-return-to-dream-land-deluxe.json](./217565-kirbys-return-to-dream-land-deluxe.json) |
 | Kirk Mephisto | 398877 | [398877-kirk-mephisto.json](./398877-kirk-mephisto.json) |
+| Kiss Cam Panic | 360397 | [360397-kiss-cam-panic.json](./360397-kiss-cam-panic.json) |
 | Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
 | Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
