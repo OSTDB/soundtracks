@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | C-12: Final Resistance | 26753 | [26753-c-12-final-resistance.json](./26753-c-12-final-resistance.json) |
+| C::Reactris | 372297 | [372297-c-reactris.json](./372297-c-reactris.json) |
 | C.A.B.A. | 402824 | [402824-c-a-b-a.json](./402824-c-a-b-a.json) |
 | Cabal Online | 28387 | [28387-cabal-online.json](./28387-cabal-online.json) |
 | Cabela's Alaskan Adventures | 6932 | [6932-cabelas-alaskan-adventures.json](./6932-cabelas-alaskan-adventures.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon: Reincarnation | 1883 | [1883-carmageddon-reincarnation.json](./1883-carmageddon-reincarnation.json) |
 | Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
 | Carnal Coup: Overseer's Edition | 383235 | [383235-carnal-coup-overseers-edition.json](./383235-carnal-coup-overseers-edition.json) |
+| Carnedge | 372311 | [372311-carnedge.json](./372311-carnedge.json) |
 | Carnival Games: Monkey See, Monkey Do | 47393 | [47393-carnival-games-monkey-see-monkey-do.json](./47393-carnival-games-monkey-see-monkey-do.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | Carol and the Bells: A Cozy Strategy Game | 406602 | [406602-carol-and-the-bells-a-cozy-strategy-game.json](./406602-carol-and-the-bells-a-cozy-strategy-game.json) |
@@ -96,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle | 383827 | [383827-castle.json](./383827-castle.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
+| Castle Climb Obby | 372305 | [372305-castle-climb-obby.json](./372305-castle-climb-obby.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
 | Castle of the Untold | 389901 | [389901-castle-of-the-untold.json](./389901-castle-of-the-untold.json) |
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
@@ -118,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Cats Organized Neatly 2 | 382652 | [382652-cats-organized-neatly-2.json](./382652-cats-organized-neatly-2.json) |
+| Cats vs. Rats | 372310 | [372310-cats-vs-rats.json](./372310-cats-vs-rats.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
@@ -307,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
 | Connect 4 Bounce | 382613 | [382613-connect-4-bounce.json](./382613-connect-4-bounce.json) |
+| Connect the Molecules | 372294 | [372294-connect-the-molecules.json](./372294-connect-the-molecules.json) |
 | Conquerline | 390408 | [390408-conquerline.json](./390408-conquerline.json) |
 | Consequently | 384360 | [384360-consequently.json](./384360-consequently.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
@@ -354,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Cottage Witch | 402149 | [402149-cottage-witch.json](./402149-cottage-witch.json) |
+| Count | 372292 | [372292-count.json](./372292-count.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
 | Counter Attack | 396092 | [396092-counter-attack.json](./396092-counter-attack.json) |
 | Counter Terrorist Agency | 110697 | [110697-counter-terrorist-agency.json](./110697-counter-terrorist-agency.json) |
