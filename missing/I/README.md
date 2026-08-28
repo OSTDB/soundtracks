@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
+| I am Crazy Gorilla | 401401 | [401401-i-am-crazy-gorilla.json](./401401-i-am-crazy-gorilla.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
@@ -25,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | iCraps | 87639 | [87639-icraps.json](./87639-icraps.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
+| Icy Gifts 2 | 401403 | [401403-icy-gifts-2.json](./401403-icy-gifts-2.json) |
 | Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
@@ -42,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
 | Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
 | Immune | 35785 | [35785-immune.json](./35785-immune.json) |
+| Immunuzzle | 401402 | [401402-immunuzzle.json](./401402-immunuzzle.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
 | ImpossibleBosses | 404155 | [404155-impossiblebosses.json](./404155-impossiblebosses.json) |
@@ -70,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
 | Information Conveyed Information Received | 404763 | [404763-information-conveyed-information-received.json](./404763-information-conveyed-information-received.json) |
+| Injection π23: Tabula Rasa | 401404 | [401404-injection-23-tabula-rasa.json](./401404-injection-23-tabula-rasa.json) |
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
