@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggconsole Hydlide MSX2 | 394717 | [394717-eggconsole-hydlide-msx2.json](./394717-eggconsole-hydlide-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
+| Eggconsole Revival Xanadu II PC-9801 | 373376 | [373376-eggconsole-revival-xanadu-ii-pc-9801.json](./373376-eggconsole-revival-xanadu-ii-pc-9801.json) |
 | Eggconsole Super Cooks MSX2 | 392611 | [392611-eggconsole-super-cooks-msx2.json](./392611-eggconsole-super-cooks-msx2.json) |
 | Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
 | European Logistics Tycoon | 400789 | [400789-european-logistics-tycoon.json](./400789-european-logistics-tycoon.json) |
 | European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
+| Eva | 373373 | [373373-eva.json](./373373-eva.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evenfall | 394731 | [394731-evenfall.json](./394731-evenfall.json) |
 | Ever Flip | 389904 | [389904-ever-flip.json](./389904-ever-flip.json) |
@@ -169,7 +171,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hazard | 34438 | [34438-evil-hazard.json](./34438-evil-hazard.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
 | EVO Card | 387914 | [387914-evo-card.json](./387914-evo-card.json) |
+| Evo Pop: Bee DLC | 373408 | [373408-evo-pop-bee-dlc.json](./373408-evo-pop-bee-dlc.json) |
+| Evo Pop: Flame DLC | 373409 | [373409-evo-pop-flame-dlc.json](./373409-evo-pop-flame-dlc.json) |
 | Evo Pop: Hot Edition | 378038 | [378038-evo-pop-hot-edition.json](./378038-evo-pop-hot-edition.json) |
+| Evo Pop: Hover DLC | 373410 | [373410-evo-pop-hover-dlc.json](./373410-evo-pop-hover-dlc.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
 | Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
