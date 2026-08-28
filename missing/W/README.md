@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | W.E.L.D.E.R. | 64546 | [64546-w-e-l-d-e-r.json](./64546-w-e-l-d-e-r.json) |
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
+| Wai Wai 3-nin Uchi Mahjong | 394050 | [394050-wai-wai-3-nin-uchi-mahjong.json](./394050-wai-wai-3-nin-uchi-mahjong.json) |
+| Wai Wai Trump Taisen | 394051 | [394051-wai-wai-trump-taisen.json](./394051-wai-wai-trump-taisen.json) |
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
@@ -99,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whodunit Sudoku | 414249 | [414249-whodunit-sudoku.json](./414249-whodunit-sudoku.json) |
 | Whys & Wonders Secrets of the Universe | 409499 | [409499-whys-and-wonders-secrets-of-the-universe.json](./409499-whys-and-wonders-secrets-of-the-universe.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
+| Wikigacha | 394031 | [394031-wikigacha.json](./394031-wikigacha.json) |
 | Wild Animal Sports Day | 86346 | [86346-wild-animal-sports-day.json](./86346-wild-animal-sports-day.json) |
 | Wild Arms 5 | 1682 | [1682-wild-arms-5.json](./1682-wild-arms-5.json) |
 | Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
@@ -131,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiseman: No More Breakups | 410752 | [410752-wiseman-no-more-breakups.json](./410752-wiseman-no-more-breakups.json) |
 | Witch Hunt | 404137 | [404137-witch-hunt.json](./404137-witch-hunt.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
+| Witch Switched | 394049 | [394049-witch-switched.json](./394049-witch-switched.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
