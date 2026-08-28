@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Ember Express | 406593 | [406593-ember-express.json](./406593-ember-express.json) |
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
+| Emergency Crew 4: Call of the Ancestors - Collector's Edition | 382629 | [382629-emergency-crew-4-call-of-the-ancestors-collectors-edition.json](./382629-emergency-crew-4-call-of-the-ancestors-collectors-edition.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
 | EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
 | Emoji Battlefield: Island Warfare | 392610 | [392610-emoji-battlefield-island-warfare.json](./392610-emoji-battlefield-island-warfare.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Desert | 386615 | [386615-enchanted-desert.json](./386615-enchanted-desert.json) |
 | Enchanted Vampire Defense | 386614 | [386614-enchanted-vampire-defense.json](./386614-enchanted-vampire-defense.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
+| Encryptid | 382632 | [382632-encryptid.json](./382632-encryptid.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
@@ -151,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVO Card | 387914 | [387914-evo-card.json](./387914-evo-card.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
+| Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
