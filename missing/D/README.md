@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
+| Decypher: Chapter 1 - Dream Intruder | 387909 | [387909-decypher-chapter-1-dream-intruder.json](./387909-decypher-chapter-1-dream-intruder.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Space Waifu: Nekomimi | 112685 | [112685-deep-space-waifu-nekomimi.json](./112685-deep-space-waifu-nekomimi.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II | 313164 | [313164-doom-ii.json](./313164-doom-ii.json) |
 | Doom VFR | 37031 | [37031-doom-vfr.json](./37031-doom-vfr.json) |
 | Doomed | 102285 | [102285-doomed.json](./102285-doomed.json) |
+| Dooms 3: Rough Day | 387923 | [387923-dooms-3-rough-day.json](./387923-dooms-3-rough-day.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
 | Dopamine Overdrive | 390428 | [390428-dopamine-overdrive.json](./390428-dopamine-overdrive.json) |
@@ -394,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
 | Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
 | Drive Thru Fast Food Simulator | 393301 | [393301-drive-thru-fast-food-simulator.json](./393301-drive-thru-fast-food-simulator.json) |
+| Drive With Friends | 387860 | [387860-drive-with-friends.json](./387860-drive-with-friends.json) |
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
@@ -405,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk Dork on Pitchfork | 391462 | [391462-drunk-dork-on-pitchfork.json](./391462-drunk-dork-on-pitchfork.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
+| Drunken Masters | 387898 | [387898-drunken-masters.json](./387898-drunken-masters.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
@@ -421,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
+| Dungeon Escape! | 387899 | [387899-dungeon-escape.json](./387899-dungeon-escape.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Kingdom: Sign of the Moon | 15199 | [15199-dungeon-kingdom-sign-of-the-moon.json](./15199-dungeon-kingdom-sign-of-the-moon.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
@@ -446,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
+| Dye Hard | 387869 | [387869-dye-hard.json](./387869-dye-hard.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynamo Dice | 400765 | [400765-dynamo-dice.json](./400765-dynamo-dice.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
