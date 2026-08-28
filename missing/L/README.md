@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
 | Lazy River | 404732 | [404732-lazy-river.json](./404732-lazy-river.json) |
+| Leafborn | 400126 | [400126-leafborn.json](./400126-leafborn.json) |
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
@@ -78,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Snap: Word Puzzle | 401408 | [401408-letter-snap-word-puzzle.json](./401408-letter-snap-word-puzzle.json) |
 | Level Up, Tiny King! | 406585 | [406585-level-up-tiny-king.json](./406585-level-up-tiny-king.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
+| Lexomancer | 400135 | [400135-lexomancer.json](./400135-lexomancer.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
@@ -87,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lift It | 34464 | [34464-lift-it.json](./34464-lift-it.json) |
+| Lightfold | 400134 | [400134-lightfold.json](./400134-lightfold.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Like or Die | 415004 | [415004-like-or-die.json](./415004-like-or-die.json) |
 | Lilipalace | 102193 | [102193-lilipalace.json](./102193-lilipalace.json) |
@@ -103,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
+| Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
@@ -121,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
 | Loot Box Quest | 76499 | [76499-loot-box-quest.json](./76499-loot-box-quest.json) |
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
+| Lootspire | 400159 | [400159-lootspire.json](./400159-lootspire.json) |
 | Lop Nor Zombie VR | 31455 | [31455-lop-nor-zombie-vr.json](./31455-lop-nor-zombie-vr.json) |
 | Lord of the Click | 116232 | [116232-lord-of-the-click.json](./116232-lord-of-the-click.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
@@ -159,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Lust Anime: Egyptian Goddess Cleopatra | 404723 | [404723-lust-anime-egyptian-goddess-cleopatra.json](./404723-lust-anime-egyptian-goddess-cleopatra.json) |
+| Lustquake Legion | 400116 | [400116-lustquake-legion.json](./400116-lustquake-legion.json) |
 | Lux Anima | 406583 | [406583-lux-anima.json](./406583-lux-anima.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
 | Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
