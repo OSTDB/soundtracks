@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
 | Bloom 'N' Buzz | 364918 | [364918-bloom-n-buzz.json](./364918-bloom-n-buzz.json) |
+| Bloom Boom Casino | 360986 | [360986-bloom-boom-casino.json](./360986-bloom-boom-casino.json) |
 | Bloom Shrooms | 22782 | [22782-bloom-shrooms.json](./22782-bloom-shrooms.json) |
 | Blooming Blossoms | 388571 | [388571-blooming-blossoms.json](./388571-blooming-blossoms.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
 | Bot Rush | 364940 | [364940-bot-rush.json](./364940-bot-rush.json) |
+| Bot-Break! | 360963 | [360963-bot-break.json](./360963-bot-break.json) |
 | Bots 'n Bolts | 369941 | [369941-bots-n-bolts.json](./369941-bots-n-bolts.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
+| Bramblefort | 360962 | [360962-bramblefort.json](./360962-bramblefort.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Brave x Junction | 373370 | [373370-brave-x-junction.json](./373370-brave-x-junction.json) |
 | Brazilian Drug Dealer Before 4: Demons From the Portal to Hell I Opened Are Still in the Favela and Now I Have to Save Mamadas From Ronaldo | 387850 | [387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json](./387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json) |
