@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
+| Lazy River | 404732 | [404732-lazy-river.json](./404732-lazy-river.json) |
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
+| Lust Anime: Egyptian Goddess Cleopatra | 404723 | [404723-lust-anime-egyptian-goddess-cleopatra.json](./404723-lust-anime-egyptian-goddess-cleopatra.json) |
 | Lux Anima | 406583 | [406583-lux-anima.json](./406583-lux-anima.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
 | Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
