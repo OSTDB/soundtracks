@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
 | Paladin's Horn: The Destiny of the Holy Lance | 398254 | [398254-paladins-horn-the-destiny-of-the-holy-lance.json](./398254-paladins-horn-the-destiny-of-the-holy-lance.json) |
 | Palauan Dominatrixes Are the Best | 389306 | [389306-palauan-dominatrixes-are-the-best.json](./389306-palauan-dominatrixes-are-the-best.json) |
+| Pallet Jack Racing | 386613 | [386613-pallet-jack-racing.json](./386613-pallet-jack-racing.json) |
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pancakes: The Stacking Game | 396825 | [396825-pancakes-the-stacking-game.json](./396825-pancakes-the-stacking-game.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
+| Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
@@ -154,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
 | Pith | 412176 | [412176-pith.json](./412176-pith.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
+| Pixel Cafe Minimal Chic | 386566 | [386566-pixel-cafe-minimal-chic.json](./386566-pixel-cafe-minimal-chic.json) |
 | Pixel Game Maker Series: Denizens of Darkwind | 396113 | [396113-pixel-game-maker-series-denizens-of-darkwind.json](./396113-pixel-game-maker-series-denizens-of-darkwind.json) |
 | Pixel Game Maker Series: MagicalShot The AttackBump | 396114 | [396114-pixel-game-maker-series-magicalshot-the-attackbump.json](./396114-pixel-game-maker-series-magicalshot-the-attackbump.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
@@ -215,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
+| Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
 | Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
@@ -302,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
+| Proof Club | 386605 | [386605-proof-club.json](./386605-proof-club.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
