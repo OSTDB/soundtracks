@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
+| Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
 | Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
+| Enthrallor | 394026 | [394026-enthrallor.json](./394026-enthrallor.json) |
 | Entiled | 399540 | [399540-entiled.json](./399540-entiled.json) |
 | Entropy Archive | 404761 | [404761-entropy-archive.json](./404761-entropy-archive.json) |
 | Entropy Rising | 36134 | [36134-entropy-rising.json](./36134-entropy-rising.json) |
