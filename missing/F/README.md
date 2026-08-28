@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Reborn | 378628 | [378628-farmer-reborn.json](./378628-farmer-reborn.json) |
 | Farming & Defense: Farmfence | 374998 | [374998-farming-and-defense-farmfence.json](./374998-farming-and-defense-farmfence.json) |
 | Farming Incremental But With Guns | 399536 | [399536-farming-incremental-but-with-guns.json](./399536-farming-incremental-but-with-guns.json) |
+| Farming Pro Simulator 25 | 374473 | [374473-farming-pro-simulator-25.json](./374473-farming-pro-simulator-25.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
 | Farming Simulator 25: Emergency Pack | 410125 | [410125-farming-simulator-25-emergency-pack.json](./410125-farming-simulator-25-emergency-pack.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearbound | 409494 | [409494-fearbound.json](./409494-fearbound.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
+| Feed My Mech | 374476 | [374476-feed-my-mech.json](./374476-feed-my-mech.json) |
 | Feed The Void | 389311 | [389311-feed-the-void.json](./389311-feed-the-void.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
@@ -213,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
+| Fool's Cup | 374464 | [374464-fools-cup.json](./374464-fools-cup.json) |
 | Football AFK | 390387 | [390387-football-afk.json](./390387-football-afk.json) |
 | Football Cup 2026 | 396103 | [396103-football-cup-2026.json](./396103-football-cup-2026.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
@@ -309,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
+| Frost and Glory | 374462 | [374462-frost-and-glory.json](./374462-frost-and-glory.json) |
 | Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
 | Frozen Stillness | 385454 | [385454-frozen-stillness.json](./385454-frozen-stillness.json) |
 | Fruit Casket | 383244 | [383244-fruit-casket.json](./383244-fruit-casket.json) |
