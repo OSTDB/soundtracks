@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
+| Charlatan | 400770 | [400770-charlatan.json](./400770-charlatan.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Air Patrol 2 | 35799 | [35799-combat-air-patrol-2.json](./35799-combat-air-patrol-2.json) |
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
+| Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
@@ -225,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
+| Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
@@ -246,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
+| Cosmic Wayfinder | 400799 | [400799-cosmic-wayfinder.json](./400799-cosmic-wayfinder.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
@@ -329,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Curious Copy Cats | 402167 | [402167-curious-copy-cats.json](./402167-curious-copy-cats.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
+| Curse of the Crimson Stag | 400795 | [400795-curse-of-the-crimson-stag.json](./400795-curse-of-the-crimson-stag.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
