@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
+| Kilnborn | 414213 | [414213-kilnborn.json](./414213-kilnborn.json) |
 | Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
+| Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
@@ -67,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
+| Kupar: Horror Mystery | 414235 | [414235-kupar-horror-mystery.json](./414235-kupar-horror-mystery.json) |
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
