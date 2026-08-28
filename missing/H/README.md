@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
+| Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
+| Hill Climb Legends | 405387 | [405387-hill-climb-legends.json](./405387-hill-climb-legends.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hip-Hop Trivia: Starring Murs | 20941 | [20941-hip-hop-trivia-starring-murs.json](./20941-hip-hop-trivia-starring-murs.json) |
