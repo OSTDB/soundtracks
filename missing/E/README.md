@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
+| Eldritch Archives | 372854 | [372854-eldritch-archives.json](./372854-eldritch-archives.json) |
 | Electronic Baseball 3 | 375033 | [375033-electronic-baseball-3.json](./375033-electronic-baseball-3.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elemental Witches | 390430 | [390430-elemental-witches.json](./390430-elemental-witches.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
+| Elixir of Moonglow | 372849 | [372849-elixir-of-moonglow.json](./372849-elixir-of-moonglow.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Elton Manor: Requiem of the Cursed Roses | 392030 | [392030-elton-manor-requiem-of-the-cursed-roses.json](./392030-elton-manor-requiem-of-the-cursed-roses.json) |
 | Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
