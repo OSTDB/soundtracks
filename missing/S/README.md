@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
+| Screams Echo | 388570 | [388570-screams-echo.json](./388570-screams-echo.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillinder's Somewhat Uneventful Tuesday | 409467 | [409467-sillinders-somewhat-uneventful-tuesday.json](./409467-sillinders-somewhat-uneventful-tuesday.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
+| Silver Lines | 388592 | [388592-silver-lines.json](./388592-silver-lines.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Similariddle | 392051 | [392051-similariddle.json](./392051-similariddle.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
@@ -228,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
+| Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
@@ -378,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
+| Spacetime Shooter | 388619 | [388619-spacetime-shooter.json](./388619-spacetime-shooter.json) |
 | Sparkfront: Online | 411484 | [411484-sparkfront-online.json](./411484-sparkfront-online.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
@@ -522,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
+| Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
 | Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter 6: Year 4 - Arjun | 404718 | [404718-street-fighter-6-year-4-arjun.json](./404718-street-fighter-6-year-4-arjun.json) |
@@ -533,6 +538,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
+| Street Fighter X Tekken: Bob (Swap Costume) | 388612 | [388612-street-fighter-x-tekken-bob-swap-costume.json](./388612-street-fighter-x-tekken-bob-swap-costume.json) |
+| Street Fighter X Tekken: Heihachi (Swap Costume) | 388613 | [388613-street-fighter-x-tekken-heihachi-swap-costume.json](./388613-street-fighter-x-tekken-heihachi-swap-costume.json) |
+| Street Fighter X Tekken: Hwoarang (Swap Costume) | 388603 | [388603-street-fighter-x-tekken-hwoarang-swap-costume.json](./388603-street-fighter-x-tekken-hwoarang-swap-costume.json) |
+| Street Fighter X Tekken: King (Swap Costume) | 388609 | [388609-street-fighter-x-tekken-king-swap-costume.json](./388609-street-fighter-x-tekken-king-swap-costume.json) |
+| Street Fighter X Tekken: M.Bison (Swap Costume) | 388597 | [388597-street-fighter-x-tekken-m-bison-swap-costume.json](./388597-street-fighter-x-tekken-m-bison-swap-costume.json) |
+| Street Fighter X Tekken: Raven (Swap Costume) | 388602 | [388602-street-fighter-x-tekken-raven-swap-costume.json](./388602-street-fighter-x-tekken-raven-swap-costume.json) |
+| Street Fighter X Tekken: Vega (Swap Costume) | 388614 | [388614-street-fighter-x-tekken-vega-swap-costume.json](./388614-street-fighter-x-tekken-vega-swap-costume.json) |
 | Street Food Simulator | 414227 | [414227-street-food-simulator.json](./414227-street-food-simulator.json) |
 | Street Soccer | 394741 | [394741-street-soccer.json](./394741-street-soccer.json) |
 | Streets of Miami VR | 406609 | [406609-streets-of-miami-vr.json](./406609-streets-of-miami-vr.json) |
@@ -637,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
+| SuperStar: The Boyz | 388578 | [388578-superstar-the-boyz.json](./388578-superstar-the-boyz.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
 | Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
 | Supremacy MMA | 7200 | [7200-supremacy-mma.json](./7200-supremacy-mma.json) |
