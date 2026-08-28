@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackhill Keep: Heir of the Night | 369977 | [369977-blackhill-keep-heir-of-the-night.json](./369977-blackhill-keep-heir-of-the-night.json) |
 | Blackjack Ascension | 375656 | [375656-blackjack-ascension.json](./375656-blackjack-ascension.json) |
 | BlackJack Math Trainer | 404132 | [404132-blackjack-math-trainer.json](./404132-blackjack-math-trainer.json) |
+| Blackout Football Manager | 359841 | [359841-blackout-football-manager.json](./359841-blackout-football-manager.json) |
 | Blackout Jack | 404106 | [404106-blackout-jack.json](./404106-blackout-jack.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
@@ -461,8 +462,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
+| Bunkers 1944 FPS | 359790 | [359790-bunkers-1944-fps.json](./359790-bunkers-1944-fps.json) |
 | Bunny Dusty | 383802 | [383802-bunny-dusty.json](./383802-bunny-dusty.json) |
 | Bunny Flags 2 | 387870 | [387870-bunny-flags-2.json](./387870-bunny-flags-2.json) |
+| Bunny's Falling Feast | 359812 | [359812-bunnys-falling-feast.json](./359812-bunnys-falling-feast.json) |
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
 | Burakku Jakku Samurai | 378621 | [378621-burakku-jakku-samurai.json](./378621-burakku-jakku-samurai.json) |
 | Burgie's Cozy Kitchen: Halloween Cosmetics Pack | 407210 | [407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json](./407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json) |
