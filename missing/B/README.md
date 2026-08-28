@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
 | Boxel 3D | 367802 | [367802-boxel-3d.json](./367802-boxel-3d.json) |
+| Boxwrecker Arena | 367239 | [367239-boxwrecker-arena.json](./367239-boxwrecker-arena.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
 | Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
 | Buttonbox | 367813 | [367813-buttonbox.json](./367813-buttonbox.json) |
+| Buy The Galaxy | 367263 | [367263-buy-the-galaxy.json](./367263-buy-the-galaxy.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
 | Bye-Bye, Watashi no Hajimete no Koi | 370532 | [370532-bye-bye-watashi-no-hajimete-no-koi.json](./370532-bye-bye-watashi-no-hajimete-no-koi.json) |
 | Bygone Snow | 368842 | [368842-bygone-snow.json](./368842-bygone-snow.json) |
