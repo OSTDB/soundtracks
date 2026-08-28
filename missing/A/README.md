@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Accelerate | 383825 | [383825-accelerate.json](./383825-accelerate.json) |
 | Accursed | 383828 | [383828-accursed.json](./383828-accursed.json) |
+| Accursed: Emma's Path | 379198 | [379198-accursed-emmas-path.json](./379198-accursed-emmas-path.json) |
 | Ace Combat 6: Recompiled | 412822 | [412822-ace-combat-6-recompiled.json](./412822-ace-combat-6-recompiled.json) |
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Lorange Adventures Season 1 | 389287 | [389287-alice-lorange-adventures-season-1.json](./389287-alice-lorange-adventures-season-1.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
 | Alice's Current Draft | 381448 | [381448-alices-current-draft.json](./381448-alices-current-draft.json) |
+| Alicia and the Curse of Climax | 379201 | [379201-alicia-and-the-curse-of-climax.json](./379201-alicia-and-the-curse-of-climax.json) |
 | Alicia Reborn | 402763 | [402763-alicia-reborn.json](./402763-alicia-reborn.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All About the Spy Guy | 409473 | [409473-all-about-the-spy-guy.json](./409473-all-about-the-spy-guy.json) |
+| All Adrift | 379193 | [379193-all-adrift.json](./379193-all-adrift.json) |
 | All Day Dying | 126717 | [126717-all-day-dying.json](./126717-all-day-dying.json) |
 | All Hail the Orb | 384402 | [384402-all-hail-the-orb.json](./384402-all-hail-the-orb.json) |
 | All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
@@ -170,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altered Space | 7752 | [7752-altered-space.json](./7752-altered-space.json) |
 | Altus Chess: Archaic Beginnings | 412854 | [412854-altus-chess-archaic-beginnings.json](./412854-altus-chess-archaic-beginnings.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
+| Aly The Alligator in Space Trouble | 379235 | [379235-aly-the-alligator-in-space-trouble.json](./379235-aly-the-alligator-in-space-trouble.json) |
 | Am I OK? | 411488 | [411488-am-i-ok.json](./411488-am-i-ok.json) |
 | Ama Nee: Osananajimi Onee-chan to no Echi Echi Amayakasare Dousei Seikatsu | 382048 | [382048-ama-nee-osananajimi-onee-chan-to-no-echi-echi-amayakasare-dousei-seikatsu.json](./382048-ama-nee-osananajimi-onee-chan-to-no-echi-echi-amayakasare-dousei-seikatsu.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
@@ -269,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
 | Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
+| Ariel Academy's Secret School Festival | 379203 | [379203-ariel-academys-secret-school-festival.json](./379203-ariel-academys-secret-school-festival.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
@@ -352,10 +357,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
 | Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
+| AutoMaker | 379228 | [379228-automaker.json](./379228-automaker.json) |
 | Automated Ranch Simulator | 392640 | [392640-automated-ranch-simulator.json](./392640-automated-ranch-simulator.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
+| Avemary Rocket: Captain Patchwork | 379244 | [379244-avemary-rocket-captain-patchwork.json](./379244-avemary-rocket-captain-patchwork.json) |
 | Aventuras | 412127 | [412127-aventuras.json](./412127-aventuras.json) |
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | Avion | 408621 | [408621-avion.json](./408621-avion.json) |
