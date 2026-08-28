@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer General 2 | 14416 | [14416-panzer-general-2.json](./14416-panzer-general-2.json) |
 | Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
+| Pao Lee Ming Kanshuu: Feng Shui Nyuumon | 383234 | [383234-pao-lee-ming-kanshuu-feng-shui-nyuumon.json](./383234-pao-lee-ming-kanshuu-feng-shui-nyuumon.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
 | Paper io 2: Platinum Edition | 402180 | [402180-paper-io-2-platinum-edition.json](./402180-paper-io-2-platinum-edition.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
