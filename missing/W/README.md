@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
 | What the Bat? | 204348 | [204348-what-the-bat.json](./204348-what-the-bat.json) |
 | What the Dog Doing? | 410773 | [410773-what-the-dog-doing.json](./410773-what-the-dog-doing.json) |
+| What You Don't See | 402759 | [402759-what-you-dont-see.json](./402759-what-you-dont-see.json) |
 | Wheels of Aurelia | 24463 | [24463-wheels-of-aurelia.json](./24463-wheels-of-aurelia.json) |
 | When She's Gone | 412149 | [412149-when-shes-gone.json](./412149-when-shes-gone.json) |
 | When the Darkness comes | 114420 | [114420-when-the-darkness-comes.json](./114420-when-the-darkness-comes.json) |
