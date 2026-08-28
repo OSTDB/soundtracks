@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
 | Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
+| Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
 | Office Renovation | 405376 | [405376-office-renovation.json](./405376-office-renovation.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Fantasy | 63718 | [63718-otakus-fantasy.json](./63718-otakus-fantasy.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
+| Otpisani: Nightingale | 400808 | [400808-otpisani-nightingale.json](./400808-otpisani-nightingale.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
 | Ouroboros Project | 101657 | [101657-ouroboros-project.json](./101657-ouroboros-project.json) |
