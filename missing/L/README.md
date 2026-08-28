@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
+| Ling Tong | 368302 | [368302-ling-tong.json](./368302-ling-tong.json) |
 | Lingix Lingo | 409460 | [409460-lingix-lingo.json](./409460-lingix-lingo.json) |
 | Linked Wheels | 412859 | [412859-linked-wheels.json](./412859-linked-wheels.json) |
 | Lip Lipples | 395451 | [395451-lip-lipples.json](./395451-lip-lipples.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
 | Little Woody | 386610 | [386610-little-woody.json](./386610-little-woody.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
+| LiveTale | 368316 | [368316-livetale.json](./368316-livetale.json) |
 | Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
 | Living With a Little Fox Girl | 374471 | [374471-living-with-a-little-fox-girl.json](./374471-living-with-a-little-fox-girl.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
