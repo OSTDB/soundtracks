@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kila: Hourbound | 391473 | [391473-kila-hourbound.json](./391473-kila-hourbound.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
+| Kill Spewy | 389884 | [389884-kill-spewy.json](./389884-kill-spewy.json) |
 | Kill The Sea | 409440 | [409440-kill-the-sea.json](./409440-kill-the-sea.json) |
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
