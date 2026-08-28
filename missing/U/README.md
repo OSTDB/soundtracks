@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
+| Under the Eye | 402820 | [402820-under-the-eye.json](./402820-under-the-eye.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Undercover Missions: Operation Kursk K-141 | 34437 | [34437-undercover-missions-operation-kursk-k-141.json](./34437-undercover-missions-operation-kursk-k-141.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
