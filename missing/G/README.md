@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye 007 | 233877 | [233877-goldeneye-007.json](./233877-goldeneye-007.json) |
 | GoldenEye: Source | 51239 | [51239-goldeneye-source.json](./51239-goldeneye-source.json) |
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
+| Golem Lights | 401396 | [401396-golem-lights.json](./401396-golem-lights.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
 | Gone In November | 31912 | [31912-gone-in-november.json](./31912-gone-in-november.json) |
 | Gone Me | 407923 | [407923-gone-me.json](./407923-gone-me.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Endless Ragnarok: Ignition Pack | 402193 | [402193-granblue-fantasy-relink-endless-ragnarok-ignition-pack.json](./402193-granblue-fantasy-relink-endless-ragnarok-ignition-pack.json) |
 | Granblue Fantasy: Relink - Endless Ragnarok: Special Edition | 402195 | [402195-granblue-fantasy-relink-endless-ragnarok-special-edition.json](./402195-granblue-fantasy-relink-endless-ragnarok-special-edition.json) |
 | Granblue Fantasy: Relink - Endless Ragnarok: Special Pack | 402194 | [402194-granblue-fantasy-relink-endless-ragnarok-special-pack.json](./402194-granblue-fantasy-relink-endless-ragnarok-special-pack.json) |
+| Grand Car Racing | 401399 | [401399-grand-car-racing.json](./401399-grand-car-racing.json) |
 | Grand Class Melee 2 | 36014 | [36014-grand-class-melee-2.json](./36014-grand-class-melee-2.json) |
 | Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
