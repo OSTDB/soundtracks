@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
 | Heroes of Hellas 3: Athens | 35810 | [35810-heroes-of-hellas-3-athens.json](./35810-heroes-of-hellas-3-athens.json) |
 | Heroes of Hellas Origins: Part One | 123917 | [123917-heroes-of-hellas-origins-part-one.json](./123917-heroes-of-hellas-origins-part-one.json) |
+| Heroes of Might and Magic III Remake | 414996 | [414996-heroes-of-might-and-magic-iii-remake.json](./414996-heroes-of-might-and-magic-iii-remake.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
+| Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
