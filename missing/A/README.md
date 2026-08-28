@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
+| Arcane Rivals | 372330 | [372330-arcane-rivals.json](./372330-arcane-rivals.json) |
 | Arcfall | 372843 | [372843-arcfall.json](./372843-arcfall.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
