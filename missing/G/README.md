@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
+| Grimveil | 414220 | [414220-grimveil.json](./414220-grimveil.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
