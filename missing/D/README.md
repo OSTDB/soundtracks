@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathstate | 34457 | [34457-deathstate.json](./34457-deathstate.json) |
 | Deathwave | 32940 | [32940-deathwave.json](./32940-deathwave.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
+| Decay | 400810 | [400810-decay.json](./400810-decay.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Directors Cut: Train | 406017 | [406017-directors-cut-train.json](./406017-directors-cut-train.json) |
+| Dirt Racers | 400771 | [400771-dirt-racers.json](./400771-dirt-racers.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
@@ -278,9 +280,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
 | Dr. Cares: Amy's Pet Clinic | 96078 | [96078-dr-cares-amys-pet-clinic.json](./96078-dr-cares-amys-pet-clinic.json) |
+| Dr. Durge's Dental Clinic | 400790 | [400790-dr-durges-dental-clinic.json](./400790-dr-durges-dental-clinic.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
+| Dracula: The Disciple | 400793 | [400793-dracula-the-disciple.json](./400793-dracula-the-disciple.json) |
 | Draft Day Sports Pro Basketball 4 | 17947 | [17947-draft-day-sports-pro-basketball-4.json](./17947-draft-day-sports-pro-basketball-4.json) |
 | Draft Day Sports: College Football 27 | 412173 | [412173-draft-day-sports-college-football-27.json](./412173-draft-day-sports-college-football-27.json) |
 | Dragon Age II: Legacy | 21664 | [21664-dragon-age-ii-legacy.json](./21664-dragon-age-ii-legacy.json) |
@@ -334,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
+| Drowned God | 400775 | [400775-drowned-god.json](./400775-drowned-god.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
@@ -371,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
+| Dynamo Dice | 400765 | [400765-dynamo-dice.json](./400765-dynamo-dice.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
 | Dynasty Warriors: Godseekers | 25639 | [25639-dynasty-warriors-godseekers.json](./25639-dynasty-warriors-godseekers.json) |
