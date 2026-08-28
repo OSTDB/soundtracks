@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
+| Fascist | 406612 | [406612-fascist.json](./406612-fascist.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fast Racing League | 14890 | [14890-fast-racing-league.json](./14890-fast-racing-league.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
+| Fenrir | 406578 | [406578-fenrir.json](./406578-fenrir.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
 | Fernkeep | 413556 | [413556-fernkeep.json](./413556-fernkeep.json) |
@@ -89,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Figure Quest | 115693 | [115693-figure-quest.json](./115693-figure-quest.json) |
+| File Tower Defence | 406581 | [406581-file-tower-defence.json](./406581-file-tower-defence.json) |
 | Filthy Kitchen | 408637 | [408637-filthy-kitchen.json](./408637-filthy-kitchen.json) |
 | FIM Speedway Grand Prix 15 | 35792 | [35792-fim-speedway-grand-prix-15.json](./35792-fim-speedway-grand-prix-15.json) |
 | Final Fantasy | 159296 | [159296-final-fantasy.json](./159296-final-fantasy.json) |
