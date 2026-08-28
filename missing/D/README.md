@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
+| Dangidice | 396035 | [396035-dangidice.json](./396035-dangidice.json) |
 | Dare to Dream 2 | 397567 | [397567-dare-to-dream-2.json](./397567-dare-to-dream-2.json) |
 | Dare to Dream 3 | 397568 | [397568-dare-to-dream-3.json](./397568-dare-to-dream-3.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
 | Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
 | Dating Killmulator 2 | 410118 | [410118-dating-killmulator-2.json](./410118-dating-killmulator-2.json) |
+| Daunya-san to Kainushi-kun | 396042 | [396042-daunya-san-to-kainushi-kun.json](./396042-daunya-san-to-kainushi-kun.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Jump Deluxe | 411491 | [411491-dino-jump-deluxe.json](./411491-dino-jump-deluxe.json) |
 | Dino Quest VR | 408648 | [408648-dino-quest-vr.json](./408648-dino-quest-vr.json) |
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
+| Dino-Might | 396080 | [396080-dino-might.json](./396080-dino-might.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Directors Cut: Train | 406017 | [406017-directors-cut-train.json](./406017-directors-cut-train.json) |
