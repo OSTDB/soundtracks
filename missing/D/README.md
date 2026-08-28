@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
 | Dead End | 413546 | [413546-dead-end.json](./413546-dead-end.json) |
 | Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
+| Dead End Streets | 393315 | [393315-dead-end-streets.json](./393315-dead-end-streets.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
 | Dead or Alive 2 | 1388 | [1388-dead-or-alive-2.json](./1388-dead-or-alive-2.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
+| Difference Machine | 393310 | [393310-difference-machine.json](./393310-difference-machine.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiscStorm | 11420 | [11420-discstorm.json](./11420-discstorm.json) |
 | Disenchantment Initialization | 412144 | [412144-disenchantment-initialization.json](./412144-disenchantment-initialization.json) |
 | Disgaea 3: Absence of Justice | 7297 | [7297-disgaea-3-absence-of-justice.json](./7297-disgaea-3-absence-of-justice.json) |
+| DisGo | 393303 | [393303-disgo.json](./393303-disgo.json) |
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
@@ -288,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doritos VR Battle | 31441 | [31441-doritos-vr-battle.json](./31441-doritos-vr-battle.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
 | Dots eXtreme | 31513 | [31513-dots-extreme.json](./31513-dots-extreme.json) |
+| Double Date Dilemma | 393319 | [393319-double-date-dilemma.json](./393319-double-date-dilemma.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
@@ -361,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
 | Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
+| Drive Thru Fast Food Simulator | 393301 | [393301-drive-thru-fast-food-simulator.json](./393301-drive-thru-fast-food-simulator.json) |
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
