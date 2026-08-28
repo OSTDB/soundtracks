@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
+| Hell Roulette | 412154 | [412154-hell-roulette.json](./412154-hell-roulette.json) |
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
 | HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
