@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness: Time Machine | 34463 | [34463-airport-madness-time-machine.json](./34463-airport-madness-time-machine.json) |
 | Aka | 388575 | [388575-aka.json](./388575-aka.json) |
 | Aker Fern 2 | 403475 | [403475-aker-fern-2.json](./403475-aker-fern-2.json) |
+| Aki no Yuugure ha Boku no Kokoro wo Terashiteita. | 370546 | [370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json](./370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json) |
 | Alan Wake Collector's Edition | 410795 | [410795-alan-wake-collectors-edition.json](./410795-alan-wake-collectors-edition.json) |
 | Alan Wake Collector's Edition Extras | 410793 | [410793-alan-wake-collectors-edition-extras.json](./410793-alan-wake-collectors-edition-extras.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | Amalgamate | 395426 | [395426-amalgamate.json](./395426-amalgamate.json) |
 | Amalgamation | 394733 | [394733-amalgamation.json](./394733-amalgamation.json) |
+| Amaoto, Tokidoki Hare Moyou | 370537 | [370537-amaoto-tokidoki-hare-moyou.json](./370537-amaoto-tokidoki-hare-moyou.json) |
 | aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
