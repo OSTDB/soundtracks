@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
 | Loot Box Quest | 76499 | [76499-loot-box-quest.json](./76499-loot-box-quest.json) |
+| Loot Dungeon | 398244 | [398244-loot-dungeon.json](./398244-loot-dungeon.json) |
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
 | Lootspire | 400159 | [400159-lootspire.json](./400159-lootspire.json) |
 | Lop Nor Zombie VR | 31455 | [31455-lop-nor-zombie-vr.json](./31455-lop-nor-zombie-vr.json) |
