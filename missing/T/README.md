@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T7's Basics in Educational | 411476 | [411476-t7s-basics-in-educational.json](./411476-t7s-basics-in-educational.json) |
 | Table 9 | 405408 | [405408-table-9.json](./405408-table-9.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
+| Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Tainted Grail: The Fall of Avalon - Challenge Mode DLC | 400118 | [400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json](./400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json) |
 | Tainted Grail: The Fall of Avalon - Merlin's Tomb | 396814 | [396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json](./396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json) |
@@ -90,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 398854 | [398854-terminator-2-judgment-day.json](./398854-terminator-2-judgment-day.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
+| Terra Taker | 389329 | [389329-terra-taker.json](./389329-terra-taker.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
@@ -282,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Palace of Deceit: The Secret of Castle Lockemoer | 397578 | [397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json](./397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
+| The Perdition Man: Interval | 389276 | [389276-the-perdition-man-interval.json](./389276-the-perdition-man-interval.json) |
 | The Perfect Lover | 406034 | [406034-the-perfect-lover.json](./406034-the-perfect-lover.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Political Simulator | 410140 | [410140-the-political-simulator.json](./410140-the-political-simulator.json) |
@@ -327,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Somnolent Prince | 414226 | [414226-the-somnolent-prince.json](./414226-the-somnolent-prince.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
+| The Strange Lights | 389314 | [389314-the-strange-lights.json](./389314-the-strange-lights.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
@@ -426,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
+| Together Synergy | 389296 | [389296-together-synergy.json](./389296-together-synergy.json) |
 | Together We Move | 398213 | [398213-together-we-move.json](./398213-together-we-move.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
 | Toilet Paper Idle | 389898 | [389898-toilet-paper-idle.json](./389898-toilet-paper-idle.json) |
@@ -456,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Captains | 396081 | [396081-too-many-captains.json](./396081-too-many-captains.json) |
 | Too Well Hidden | 396832 | [396832-too-well-hidden.json](./396832-too-well-hidden.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
+| Top Drifters | 389310 | [389310-top-drifters.json](./389310-top-drifters.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
@@ -494,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
+| Toy Fight | 389290 | [389290-toy-fight.json](./389290-toy-fight.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Puzzle | 95649 | [95649-toy-puzzle.json](./95649-toy-puzzle.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
