@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
 | RollerCoaster Tycoon Adventures | 86497 | [86497-rollercoaster-tycoon-adventures.json](./86497-rollercoaster-tycoon-adventures.json) |
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
+| RollerCoaster Tycoon Wonderworks | 414953 | [414953-rollercoaster-tycoon-wonderworks.json](./414953-rollercoaster-tycoon-wonderworks.json) |
 | Roman Adventures - Britons. Season 1 | 110074 | [110074-roman-adventures-britons-season-1.json](./110074-roman-adventures-britons-season-1.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
