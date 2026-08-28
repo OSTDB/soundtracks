@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evenfall | 394731 | [394731-evenfall.json](./394731-evenfall.json) |
+| Ever Flip | 389904 | [389904-ever-flip.json](./389904-ever-flip.json) |
 | EverCastle | 392064 | [392064-evercastle.json](./392064-evercastle.json) |
 | Everfall | 393364 | [393364-everfall.json](./393364-everfall.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
