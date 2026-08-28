@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varius | 102308 | [102308-varius.json](./102308-varius.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
 | Vastar | 384388 | [384388-vastar.json](./384388-vastar.json) |
+| Vault Survivors | 366053 | [366053-vault-survivors.json](./366053-vault-survivors.json) |
 | Vector Lab | 379771 | [379771-vector-lab.json](./379771-vector-lab.json) |
 | Vector Seven | 372846 | [372846-vector-seven.json](./372846-vector-seven.json) |
 | Vedmy Zov | 367213 | [367213-vedmy-zov.json](./367213-vedmy-zov.json) |
