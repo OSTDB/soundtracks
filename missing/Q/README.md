@@ -24,4 +24,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Killer | 404133 | [404133-quest-of-killer.json](./404133-quest-of-killer.json) |
 | Quick Draw | 31468 | [31468-quick-draw.json](./31468-quick-draw.json) |
 | Quick Wordz | 24581 | [24581-quick-wordz.json](./24581-quick-wordz.json) |
+| Quiet Soul | 397577 | [397577-quiet-soul.json](./397577-quiet-soul.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
