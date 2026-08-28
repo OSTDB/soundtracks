@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
 | Laser Matrix | 378658 | [378658-laser-matrix.json](./378658-laser-matrix.json) |
+| Laser Tank | 376296 | [376296-laser-tank.json](./376296-laser-tank.json) |
 | Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
 | Last Days of Lazarus | 172142 | [172142-last-days-of-lazarus.json](./172142-last-days-of-lazarus.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Dojo | 46483 | [46483-loco-dojo.json](./46483-loco-dojo.json) |
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
+| Locus Equation | 376295 | [376295-locus-equation.json](./376295-locus-equation.json) |
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
