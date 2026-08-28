@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P.e.n.a.n.c.e | 405423 | [405423-p-e-n-a-n-c-e.json](./405423-p-e-n-a-n-c-e.json) |
+| Pa!nt | 398203 | [398203-pa-nt.json](./398203-pa-nt.json) |
 | Pac-Man and the Ghostly Adventures 2 | 23229 | [23229-pac-man-and-the-ghostly-adventures-2.json](./23229-pac-man-and-the-ghostly-adventures-2.json) |
 | Pac-Man Championship Edition | 20900 | [20900-pac-man-championship-edition.json](./20900-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 | 23240 | [23240-pac-man-championship-edition-2.json](./23240-pac-man-championship-edition-2.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
+| Paladin's Horn: The Destiny of the Holy Lance | 398254 | [398254-paladins-horn-the-destiny-of-the-holy-lance.json](./398254-paladins-horn-the-destiny-of-the-holy-lance.json) |
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
@@ -121,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
+| Pippin Please | 398245 | [398245-pippin-please.json](./398245-pippin-please.json) |
 | Pirate Havoc | 401423 | [401423-pirate-havoc.json](./401423-pirate-havoc.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
@@ -183,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
 | Police Chief | 410745 | [410745-police-chief.json](./410745-police-chief.json) |
+| Police Chief Simulator | 398226 | [398226-police-chief-simulator.json](./398226-police-chief-simulator.json) |
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
@@ -247,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
+| Project XZ | 398251 | [398251-project-xz.json](./398251-project-xz.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
