@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
 | Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
+| Car Mechanic Simulator 2026 | 395388 | [395388-car-mechanic-simulator-2026.json](./395388-car-mechanic-simulator-2026.json) |
 | Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
 | Car Simulator: Driving School | 409487 | [409487-car-simulator-driving-school.json](./409487-car-simulator-driving-school.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circle | 398234 | [398234-circle.json](./398234-circle.json) |
+| Circuits | 395456 | [395456-circuits.json](./395456-circuits.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
@@ -348,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
+| Cup Or Die | 395436 | [395436-cup-or-die.json](./395436-cup-or-die.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Curious Copy Cats | 402167 | [402167-curious-copy-cats.json](./402167-curious-copy-cats.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
