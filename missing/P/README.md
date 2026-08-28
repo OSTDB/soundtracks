@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
 | Phantom Of The Lily | 393326 | [393326-phantom-of-the-lily.json](./393326-phantom-of-the-lily.json) |
+| Phantom of Time | 384407 | [384407-phantom-of-time.json](./384407-phantom-of-time.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
 | Pharma Craft | 389886 | [389886-pharma-craft.json](./389886-pharma-craft.json) |
 | Pharmacy Store Simulator | 400756 | [400756-pharmacy-store-simulator.json](./400756-pharmacy-store-simulator.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollo Diavolo | 399486 | [399486-pollo-diavolo.json](./399486-pollo-diavolo.json) |
 | Poly Bricks | 392024 | [392024-poly-bricks.json](./392024-poly-bricks.json) |
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
+| PolyGunner | 384372 | [384372-polygunner.json](./384372-polygunner.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble Galaxy | 23257 | [23257-puzzle-bobble-galaxy.json](./23257-puzzle-bobble-galaxy.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Piecer: The Joys of Spring | 405378 | [405378-puzzle-piecer-the-joys-of-spring.json](./405378-puzzle-piecer-the-joys-of-spring.json) |
+| Puzzle Playing Cards | 384377 | [384377-puzzle-playing-cards.json](./384377-puzzle-playing-cards.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
