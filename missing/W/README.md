@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds At War | 86508 | [86508-worlds-at-war.json](./86508-worlds-at-war.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
+| Worm Wars | 384944 | [384944-worm-wars.json](./384944-worm-wars.json) |
 | Wormies | 398258 | [398258-wormies.json](./398258-wormies.json) |
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
