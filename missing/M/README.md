@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
+| Maid-chan ha Meido-chuu | 396039 | [396039-maid-chan-ha-meido-chuu.json](./396039-maid-chan-ha-meido-chuu.json) |
 | Mainframe | 410789 | [410789-mainframe.json](./410789-mainframe.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
+| Midnight Joy Ride | 396055 | [396055-midnight-joy-ride.json](./396055-midnight-joy-ride.json) |
 | Midnight Moments | 404118 | [404118-midnight-moments.json](./404118-midnight-moments.json) |
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
