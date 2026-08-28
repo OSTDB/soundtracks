@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Lust | 389861 | [389861-waifu-lust.json](./389861-waifu-lust.json) |
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
+| Wake Up | 384353 | [384353-wake-up.json](./384353-wake-up.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Wall-E | 390957 | [390957-wall-e.json](./390957-wall-e.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
