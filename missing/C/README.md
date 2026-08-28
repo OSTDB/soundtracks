@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat a Loop | 414995 | [414995-cat-a-loop.json](./414995-cat-a-loop.json) |
 | Cat Chaos | 392042 | [392042-cat-chaos.json](./392042-cat-chaos.json) |
 | Cat Chess | 390420 | [390420-cat-chess.json](./390420-cat-chess.json) |
+| Cat Condo 2 | 364312 | [364312-cat-condo-2.json](./364312-cat-condo-2.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Cat's Holidays | 378629 | [378629-cats-holidays.json](./378629-cats-holidays.json) |
@@ -179,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Fren | 379735 | [379735-chicken-fren.json](./379735-chicken-fren.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
+| ChickOut! | 364329 | [364329-chickout.json](./364329-chickout.json) |
 | Chill & Reel | 386025 | [386025-chill-and-reel.json](./386025-chill-and-reel.json) |
 | Chill Drive Together | 415000 | [415000-chill-drive-together.json](./415000-chill-drive-together.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
@@ -472,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
 | Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
 | Crusaders of the Lost Idols | 13541 | [13541-crusaders-of-the-lost-idols.json](./13541-crusaders-of-the-lost-idols.json) |
+| Crush Point | 364333 | [364333-crush-point.json](./364333-crush-point.json) |
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crushing Force | 392627 | [392627-crushing-force.json](./392627-crushing-force.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
@@ -481,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
+| CTRacer | 364283 | [364283-ctracer.json](./364283-ctracer.json) |
 | Cube | 366676 | [366676-cube.json](./366676-cube.json) |
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube KaBaam: Cryptic Trail | 401388 | [401388-cube-kabaam-cryptic-trail.json](./401388-cube-kabaam-cryptic-trail.json) |
