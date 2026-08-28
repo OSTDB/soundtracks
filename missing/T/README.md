@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairwell | 380880 | [380880-the-stairwell.json](./380880-the-stairwell.json) |
 | The Strange Lights | 389314 | [389314-the-strange-lights.json](./389314-the-strange-lights.json) |
 | The Streamer's Alt Account Labyrinth | 379242 | [379242-the-streamers-alt-account-labyrinth.json](./379242-the-streamers-alt-account-labyrinth.json) |
+| The Street of Adrift | 368850 | [368850-the-street-of-adrift.json](./368850-the-street-of-adrift.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Sultan and his Harem | 382055 | [382055-the-sultan-and-his-harem.json](./382055-the-sultan-and-his-harem.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
