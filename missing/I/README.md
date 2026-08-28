@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
 | Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
+| It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Starts with a Summon | 390399 | [390399-it-starts-with-a-summon.json](./390399-it-starts-with-a-summon.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
