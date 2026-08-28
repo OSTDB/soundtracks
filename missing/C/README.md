@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chattle! | 393330 | [393330-chattle.json](./393330-chattle.json) |
 | Cheliki | 388587 | [388587-cheliki.json](./388587-cheliki.json) |
+| Cheri's Dollhouse: Forgotten Memory | 376332 | [376332-cheris-dollhouse-forgotten-memory.json](./376332-cheris-dollhouse-forgotten-memory.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess | 393335 | [393335-chess.json](./393335-chess.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Come Right Inn: Season 1 | 392663 | [392663-come-right-inn-season-1.json](./392663-come-right-inn-season-1.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
+| Comic-Sans | 376305 | [376305-comic-sans.json](./376305-comic-sans.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
 | Command Ops 2 | 31480 | [31480-command-ops-2.json](./31480-command-ops-2.json) |
 | Command: Modern Operations | 123352 | [123352-command-modern-operations.json](./123352-command-modern-operations.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
 | Cozy Snow Friends | 398196 | [398196-cozy-snow-friends.json](./398196-cozy-snow-friends.json) |
+| Cozy Tiny Home | 376351 | [376351-cozy-tiny-home.json](./376351-cozy-tiny-home.json) |
 | Cozy Valley Life | 401389 | [401389-cozy-valley-life.json](./401389-cozy-valley-life.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
@@ -410,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
 | CRT: Corner Right There! | 390412 | [390412-crt-corner-right-there.json](./390412-crt-corner-right-there.json) |
+| CRU | 376313 | [376313-cru.json](./376313-cru.json) |
 | Crucible United Between Eons | 402800 | [402800-crucible-united-between-eons.json](./402800-crucible-united-between-eons.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Cruise Adventure: Hidden Journey - Collector's Edition | 413557 | [413557-cruise-adventure-hidden-journey-collectors-edition.json](./413557-cruise-adventure-hidden-journey-collectors-edition.json) |
