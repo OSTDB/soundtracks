@@ -42,6 +42,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: 046 - Defense Mod: Resurrect | 363251 | [363251-x-men-046-defense-mod-resurrect.json](./363251-x-men-046-defense-mod-resurrect.json) |
 | X-Men: 047 - Defense Mod: Melee Shield | 363252 | [363252-x-men-047-defense-mod-melee-shield.json](./363252-x-men-047-defense-mod-melee-shield.json) |
 | X-Men: Mutant Academy 2 | 4110 | [4110-x-men-mutant-academy-2.json](./4110-x-men-mutant-academy-2.json) |
+| X-Men: Tiger Barcodzz - Beast | 362640 | [362640-x-men-tiger-barcodzz-beast.json](./362640-x-men-tiger-barcodzz-beast.json) |
+| X-Men: Tiger Barcodzz - Bishop | 362645 | [362645-x-men-tiger-barcodzz-bishop.json](./362645-x-men-tiger-barcodzz-bishop.json) |
+| X-Men: Tiger Barcodzz - Bishop | 362639 | [362639-x-men-tiger-barcodzz-bishop.json](./362639-x-men-tiger-barcodzz-bishop.json) |
+| X-Men: Tiger Barcodzz - Cyclops | 362649 | [362649-x-men-tiger-barcodzz-cyclops.json](./362649-x-men-tiger-barcodzz-cyclops.json) |
+| X-Men: Tiger Barcodzz - Gambit | 362651 | [362651-x-men-tiger-barcodzz-gambit.json](./362651-x-men-tiger-barcodzz-gambit.json) |
+| X-Men: Tiger Barcodzz - Gambit | 362642 | [362642-x-men-tiger-barcodzz-gambit.json](./362642-x-men-tiger-barcodzz-gambit.json) |
+| X-Men: Tiger Barcodzz - Iceman | 362630 | [362630-x-men-tiger-barcodzz-iceman.json](./362630-x-men-tiger-barcodzz-iceman.json) |
+| X-Men: Tiger Barcodzz - Jean Grey | 362644 | [362644-x-men-tiger-barcodzz-jean-grey.json](./362644-x-men-tiger-barcodzz-jean-grey.json) |
+| X-Men: Tiger Barcodzz - Jubilee | 362641 | [362641-x-men-tiger-barcodzz-jubilee.json](./362641-x-men-tiger-barcodzz-jubilee.json) |
+| X-Men: Tiger Barcodzz - Magneto | 362648 | [362648-x-men-tiger-barcodzz-magneto.json](./362648-x-men-tiger-barcodzz-magneto.json) |
+| X-Men: Tiger Barcodzz - Magneto | 362646 | [362646-x-men-tiger-barcodzz-magneto.json](./362646-x-men-tiger-barcodzz-magneto.json) |
+| X-Men: Tiger Barcodzz - Professor X | 362653 | [362653-x-men-tiger-barcodzz-professor-x.json](./362653-x-men-tiger-barcodzz-professor-x.json) |
+| X-Men: Tiger Barcodzz - Professor X | 362632 | [362632-x-men-tiger-barcodzz-professor-x.json](./362632-x-men-tiger-barcodzz-professor-x.json) |
+| X-Men: Tiger Barcodzz - Psylocke | 362650 | [362650-x-men-tiger-barcodzz-psylocke.json](./362650-x-men-tiger-barcodzz-psylocke.json) |
+| X-Men: Tiger Barcodzz - Sabretooth | 362638 | [362638-x-men-tiger-barcodzz-sabretooth.json](./362638-x-men-tiger-barcodzz-sabretooth.json) |
+| X-Men: Tiger Barcodzz - Sabretooth | 362637 | [362637-x-men-tiger-barcodzz-sabretooth.json](./362637-x-men-tiger-barcodzz-sabretooth.json) |
+| X-Men: Tiger Barcodzz - Storm | 362634 | [362634-x-men-tiger-barcodzz-storm.json](./362634-x-men-tiger-barcodzz-storm.json) |
+| X-Men: Tiger Barcodzz - Storm | 362633 | [362633-x-men-tiger-barcodzz-storm.json](./362633-x-men-tiger-barcodzz-storm.json) |
+| X-Men: Tiger Barcodzz - Wolverine | 362636 | [362636-x-men-tiger-barcodzz-wolverine.json](./362636-x-men-tiger-barcodzz-wolverine.json) |
 | X-Plane | 22644 | [22644-x-plane.json](./22644-x-plane.json) |
 | XAOC | 46467 | [46467-xaoc.json](./46467-xaoc.json) |
 | XBattleCarsPVP | 368882 | [368882-xbattlecarspvp.json](./368882-xbattlecarspvp.json) |
