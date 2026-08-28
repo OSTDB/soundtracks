@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kàngzhàn Shènglì 70 Zhōunián Dà Yuèbīng Zhè Tiān Wǒ Lǎopó Tūrán Xiāoshī Le | 395419 | [395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json](./395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
+| Kapuritto-kyu Minigame Collection | 391479 | [391479-kapuritto-kyu-minigame-collection.json](./391479-kapuritto-kyu-minigame-collection.json) |
 | Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
@@ -31,8 +32,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kicking Upwards | 394704 | [394704-kicking-upwards.json](./394704-kicking-upwards.json) |
+| Kickoff Tactics | 391490 | [391490-kickoff-tactics.json](./391490-kickoff-tactics.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
 | Kids Math Magic | 89529 | [89529-kids-math-magic.json](./89529-kids-math-magic.json) |
+| Kila: Hourbound | 391473 | [391473-kila-hourbound.json](./391473-kila-hourbound.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Kill The Sea | 409440 | [409440-kill-the-sea.json](./409440-kill-the-sea.json) |
