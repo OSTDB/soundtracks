@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Hunter's Advantage Pack | 376286 | [376286-way-of-the-hunter-hunters-advantage-pack.json](./376286-way-of-the-hunter-hunters-advantage-pack.json) |
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Way of the Samurai Bundle: Sword Combat & Action | 409498 | [409498-way-of-the-samurai-bundle-sword-combat-and-action.json](./409498-way-of-the-samurai-bundle-sword-combat-and-action.json) |
+| Way To Hell | 368312 | [368312-way-to-hell.json](./368312-way-to-hell.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
 | Wayward Strand | 123789 | [123789-wayward-strand.json](./123789-wayward-strand.json) |
 | WazHack | 16851 | [16851-wazhack.json](./16851-wazhack.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search By Jgabrib | 401435 | [401435-word-search-by-jgabrib.json](./401435-word-search-by-jgabrib.json) |
 | Word Warp | 369981 | [369981-word-warp.json](./369981-word-warp.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
+| WordWar | 368328 | [368328-wordwar.json](./368328-wordwar.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
@@ -250,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretch: Divine Ascent - Pirate Pack | 398870 | [398870-wretch-divine-ascent-pirate-pack.json](./398870-wretch-divine-ascent-pirate-pack.json) |
 | Wretch: Divine Ascent - Premier Weapon Skin Collection | 398871 | [398871-wretch-divine-ascent-premier-weapon-skin-collection.json](./398871-wretch-divine-ascent-premier-weapon-skin-collection.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
+| Wújìn shǒuwèi | 368346 | [368346-wujin-shouwei.json](./368346-wujin-shouwei.json) |
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wuli Sandbox | 373949 | [373949-wuli-sandbox.json](./373949-wuli-sandbox.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
