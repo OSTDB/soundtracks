@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarae The Unbound | 415003 | [415003-tarae-the-unbound.json](./415003-tarae-the-unbound.json) |
 | Tartarus: Dice & Blades | 404737 | [404737-tartarus-dice-and-blades.json](./404737-tartarus-dice-and-blades.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
+| Tasogare no Shape Shifter | 382038 | [382038-tasogare-no-shape-shifter.json](./382038-tasogare-no-shape-shifter.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Tattered Banners | 387214 | [387214-tattered-banners.json](./387214-tattered-banners.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Strange Lights | 389314 | [389314-the-strange-lights.json](./389314-the-strange-lights.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
+| The Sultan and his Harem | 382055 | [382055-the-sultan-and-his-harem.json](./382055-the-sultan-and-his-harem.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Survivor: Rusty Forest | 89305 | [89305-the-survivor-rusty-forest.json](./89305-the-survivor-rusty-forest.json) |
@@ -479,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
+| Tomboy BDSM Girlfriend | 382043 | [382043-tomboy-bdsm-girlfriend.json](./382043-tomboy-bdsm-girlfriend.json) |
 | Tombsweeper | 385455 | [385455-tombsweeper.json](./385455-tombsweeper.json) |
 | Tomodachi Collection | 71900 | [71900-tomodachi-collection.json](./71900-tomodachi-collection.json) |
 | ToMyX | 394030 | [394030-tomyx.json](./394030-tomyx.json) |
