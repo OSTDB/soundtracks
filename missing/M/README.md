@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Island Tour | 2338 | [2338-mario-party-island-tour.json](./2338-mario-party-island-tour.json) |
 | Mario Sports Superstars | 26939 | [26939-mario-sports-superstars.json](./26939-mario-sports-superstars.json) |
 | Mario vs. Donkey Kong: Mini-Land Mayhem! | 21093 | [21093-mario-vs-donkey-kong-mini-land-mayhem.json](./21093-mario-vs-donkey-kong-mini-land-mayhem.json) |
+| Mario's Misadventures 2: The Black Hole Bomb | 380852 | [380852-marios-misadventures-2-the-black-hole-bomb.json](./380852-marios-misadventures-2-the-black-hole-bomb.json) |
 | Mario's Time Machine | 48133 | [48133-marios-time-machine.json](./48133-marios-time-machine.json) |
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
