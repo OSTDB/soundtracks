@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon of Choice | 23028 | [23028-weapon-of-choice.json](./23028-weapon-of-choice.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
+| Weeb Store Simulator: Supermarket Together | 388610 | [388610-weeb-store-simulator-supermarket-together.json](./388610-weeb-store-simulator-supermarket-together.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
 | WEJbA: We Exist Just to be Alive | 398207 | [398207-wejba-we-exist-just-to-be-alive.json](./398207-wejba-we-exist-just-to-be-alive.json) |
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Cafe Lumière!: A Dragon Girl Concept Cafe | 398851 | [398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json](./398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
+| Welcome to the Guild Explorers | 388599 | [388599-welcome-to-the-guild-explorers.json](./388599-welcome-to-the-guild-explorers.json) |
 | Welcome, Dear Human | 393347 | [393347-welcome-dear-human.json](./393347-welcome-dear-human.json) |
 | Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
