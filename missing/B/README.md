@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
+| Backrooms Lost Unit | 389906 | [389906-backrooms-lost-unit.json](./389906-backrooms-lost-unit.json) |
 | Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Battlot | 404708 | [404708-battlot.json](./404708-battlot.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
+| BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
@@ -307,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
+| Budgie's Bug Shop | 389905 | [389905-budgies-bug-shop.json](./389905-budgies-bug-shop.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
 | Bugdom 2 | 94750 | [94750-bugdom-2.json](./94750-bugdom-2.json) |
@@ -315,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs in the Brain | 407931 | [407931-bugs-in-the-brain.json](./407931-bugs-in-the-brain.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
 | Builder Stimulator | 403492 | [403492-builder-stimulator.json](./403492-builder-stimulator.json) |
+| Bulgasari: Consume·Evolve·Survive | 389867 | [389867-bulgasari-consume-evolve-survive.json](./389867-bulgasari-consume-evolve-survive.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
