@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
+| Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
 | Big Beach Sports | 4712 | [4712-big-beach-sports.json](./4712-big-beach-sports.json) |
 | Big Brain Academy | 2744 | [2744-big-brain-academy.json](./2744-big-brain-academy.json) |
+| Big Fishin World: Ocean Voyager | 398872 | [398872-big-fishin-world-ocean-voyager.json](./398872-big-fishin-world-ocean-voyager.json) |
 | Big Survival Collection 3-in-1 | 414244 | [414244-big-survival-collection-3-in-1.json](./414244-big-survival-collection-3-in-1.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
@@ -290,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bumshak | 398859 | [398859-bumshak.json](./398859-bumshak.json) |
 | Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
