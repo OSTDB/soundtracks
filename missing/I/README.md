@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
 | It Starts with a Summon | 390399 | [390399-it-starts-with-a-summon.json](./390399-it-starts-with-a-summon.json) |
+| It's Always Happy at Chubby's | 375659 | [375659-its-always-happy-at-chubbys.json](./375659-its-always-happy-at-chubbys.json) |
 | It's Inside Me | 378065 | [378065-its-inside-me.json](./378065-its-inside-me.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
