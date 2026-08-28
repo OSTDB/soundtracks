@@ -120,9 +120,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
+| The Fair Unknown | 413543 | [413543-the-fair-unknown.json](./413543-the-fair-unknown.json) |
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
+| The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
 | The Forest of Doom | 16938 | [16938-the-forest-of-doom.json](./16938-the-forest-of-doom.json) |
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
@@ -175,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Expansion Pass | 41829 | [41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json](./41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json) |
 | The Legend of Zelda: Collector's Edition | 45139 | [45139-the-legend-of-zelda-collectors-edition.json](./45139-the-legend-of-zelda-collectors-edition.json) |
 | The Legendary of Bean | 76667 | [76667-the-legendary-of-bean.json](./76667-the-legendary-of-bean.json) |
+| The Legends of Galaquia | 413549 | [413549-the-legends-of-galaquia.json](./413549-the-legends-of-galaquia.json) |
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
@@ -295,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
 | Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
 | Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
+| Tiny Flock | 413532 | [413532-tiny-flock.json](./413532-tiny-flock.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
@@ -397,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
+| Trombone Champ Unflattened: Disney Movie Magic Vol. 1 | 413539 | [413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json](./413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
 | Tropico 4: Gold Edition | 24226 | [24226-tropico-4-gold-edition.json](./24226-tropico-4-gold-edition.json) |
 | Tropico 5 | 3211 | [3211-tropico-5.json](./3211-tropico-5.json) |
@@ -413,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
 | Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
+| Tung | 413541 | [413541-tung.json](./413541-tung.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
