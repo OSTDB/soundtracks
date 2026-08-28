@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
+| Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
 | What do you hear?? Yanny vs Laurel | 102221 | [102221-what-do-you-hear-yanny-vs-laurel.json](./102221-what-do-you-hear-yanny-vs-laurel.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Ship Simulator | 34401 | [34401-world-ship-simulator.json](./34401-world-ship-simulator.json) |
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
+| World's Greatest Author | 400788 | [400788-worlds-greatest-author.json](./400788-worlds-greatest-author.json) |
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds At War | 86508 | [86508-worlds-at-war.json](./86508-worlds-at-war.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
