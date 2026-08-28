@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Quest | 393332 | [393332-a-short-quest.json](./393332-a-short-quest.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
+| A Thousand Bees | 389891 | [389891-a-thousand-bees.json](./389891-a-thousand-bees.json) |
 | A Timely Intervention | 33037 | [33037-a-timely-intervention.json](./33037-a-timely-intervention.json) |
 | A Witch's Tale | 24264 | [24264-a-witchs-tale.json](./24264-a-witchs-tale.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
 | Anime Girls VR | 77169 | [77169-anime-girls-vr.json](./77169-anime-girls-vr.json) |
 | Anime Girls: Sakura Love | 396100 | [396100-anime-girls-sakura-love.json](./396100-anime-girls-sakura-love.json) |
+| Anime Hunter | 389862 | [389862-anime-hunter.json](./389862-anime-hunter.json) |
 | Anime Puzzle Collection | 411450 | [411450-anime-puzzle-collection.json](./411450-anime-puzzle-collection.json) |
 | Anime Video Puzzle | 411447 | [411447-anime-video-puzzle.json](./411447-anime-video-puzzle.json) |
 | Annie Amber | 32954 | [32954-annie-amber.json](./32954-annie-amber.json) |
