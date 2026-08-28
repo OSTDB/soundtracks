@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
+| Hall of Mirrors | 378668 | [378668-hall-of-mirrors.json](./378668-hall-of-mirrors.json) |
 | Hallowed Knight | 386577 | [386577-hallowed-knight.json](./386577-hallowed-knight.json) |
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
@@ -220,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
 | Horse Spirit Valley 2 | 413558 | [413558-horse-spirit-valley-2.json](./413558-horse-spirit-valley-2.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
+| Hoshi Saga 9: Minnano Hoshisaga | 378637 | [378637-hoshi-saga-9-minnano-hoshisaga.json](./378637-hoshi-saga-9-minnano-hoshisaga.json) |
 | Hoshiyomi no Tsumugu Uta | 393346 | [393346-hoshiyomi-no-tsumugu-uta.json](./393346-hoshiyomi-no-tsumugu-uta.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
