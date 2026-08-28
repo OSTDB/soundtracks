@@ -48,6 +48,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitsumei Jikkyou Keiba Dream Classic 2002 | 403510 | [403510-jitsumei-jikkyou-keiba-dream-classic-2002.json](./403510-jitsumei-jikkyou-keiba-dream-classic-2002.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Joe Gunn Gold | 404766 | [404766-joe-gunn-gold.json](./404766-joe-gunn-gold.json) |
+| Johnny Rumble | 400763 | [400763-johnny-rumble.json](./400763-johnny-rumble.json) |
+| Johnny Rumble 2 | 400764 | [400764-johnny-rumble-2.json](./400764-johnny-rumble-2.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Jolly Rover | 15056 | [15056-jolly-rover.json](./15056-jolly-rover.json) |
 | Joly Blocks Blast | 402762 | [402762-joly-blocks-blast.json](./402762-joly-blocks-blast.json) |
@@ -59,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Like A Pirate | 29760 | [29760-jump-like-a-pirate.json](./29760-jump-like-a-pirate.json) |
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
+| Jumppit | 400780 | [400780-jumppit.json](./400780-jumppit.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
