@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard: Day Zero | 405385 | [405385-iron-guard-day-zero.json](./405385-iron-guard-day-zero.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
+| Island Survive Simulator: Craft, Build, Grow | 398199 | [398199-island-survive-simulator-craft-build-grow.json](./398199-island-survive-simulator-craft-build-grow.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
