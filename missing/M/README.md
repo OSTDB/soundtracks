@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machines | 22821 | [22821-machines.json](./22821-machines.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
+| Mad Scientist Simulator – Society of World Destruction | 392637 | [392637-mad-scientist-simulator-society-of-world-destruction.json](./392637-mad-scientist-simulator-society-of-world-destruction.json) |
 | Mad Tracks | 4982 | [4982-mad-tracks.json](./4982-mad-tracks.json) |
 | Madden NFL 07 | 243012 | [243012-madden-nfl-07.json](./243012-madden-nfl-07.json) |
 | Madden NFL 08 | 2746 | [2746-madden-nfl-08.json](./2746-madden-nfl-08.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
+| Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
@@ -180,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
+| Metal Gear Solid: Master Collection Vol. 2 Bonus Content | 392677 | [392677-metal-gear-solid-master-collection-vol-2-bonus-content.json](./392677-metal-gear-solid-master-collection-vol-2-bonus-content.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
@@ -197,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Micro Race R2 | 401412 | [401412-micro-race-r2.json](./401412-micro-race-r2.json) |
 | Micronova | 404157 | [404157-micronova.json](./404157-micronova.json) |
+| Microsoft Ants | 392624 | [392624-microsoft-ants.json](./392624-microsoft-ants.json) |
 | Microsoft Jewel | 400773 | [400773-microsoft-jewel.json](./400773-microsoft-jewel.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
@@ -252,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
+| Mobile Droid Gumda | 392668 | [392668-mobile-droid-gumda.json](./392668-mobile-droid-gumda.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
@@ -319,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
+| Motion Serpentine | 392652 | [392652-motion-serpentine.json](./392652-motion-serpentine.json) |
 | Moto Racer 3 | 10563 | [10563-moto-racer-3.json](./10563-moto-racer-3.json) |
 | Moto Rush GT: Exclusive Edition | 394752 | [394752-moto-rush-gt-exclusive-edition.json](./394752-moto-rush-gt-exclusive-edition.json) |
 | Moto Rush GT: Pro Edition | 402178 | [402178-moto-rush-gt-pro-edition.json](./402178-moto-rush-gt-pro-edition.json) |
