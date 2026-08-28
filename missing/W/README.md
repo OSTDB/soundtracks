@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords III: Reign of Heroes | 932 | [932-warlords-iii-reign-of-heroes.json](./932-warlords-iii-reign-of-heroes.json) |
 | Warmachine: Tactics | 16695 | [16695-warmachine-tactics.json](./16695-warmachine-tactics.json) |
 | Warn | 364896 | [364896-warn.json](./364896-warn.json) |
+| Warp Dash | 359250 | [359250-warp-dash.json](./359250-warp-dash.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When They Arrived | 102324 | [102324-when-they-arrived.json](./102324-when-they-arrived.json) |
 | Where are my Internets? | 31491 | [31491-where-are-my-internets.json](./31491-where-are-my-internets.json) |
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
+| Where Is My Pocket? | 359235 | [359235-where-is-my-pocket.json](./359235-where-is-my-pocket.json) |
 | Where's Derpy? | 371075 | [371075-wheres-derpy.json](./371075-wheres-derpy.json) |
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
