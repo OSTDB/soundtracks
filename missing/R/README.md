@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
+| Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Rakete | 410111 | [410111-rakete.json](./410111-rakete.json) |
 | Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
+| Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
