@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
 | Rackpunk: A Wasteland Hustle | 396077 | [396077-rackpunk-a-wasteland-hustle.json](./396077-rackpunk-a-wasteland-hustle.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
+| Radiant Sword | 383228 | [383228-radiant-sword.json](./383228-radiant-sword.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
@@ -24,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Raiding Party | 384980 | [384980-raiding-party.json](./384980-raiding-party.json) |
+| Rail of War | 383251 | [383251-rail-of-war.json](./383251-rail-of-war.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Raining Cats and Dogs | 398873 | [398873-raining-cats-and-dogs.json](./398873-raining-cats-and-dogs.json) |
@@ -191,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverhill Trials | 89422 | [89422-riverhill-trials.json](./89422-riverhill-trials.json) |
 | RK Override | 388615 | [388615-rk-override.json](./388615-rk-override.json) |
 | RMN Soup | 407915 | [407915-rmn-soup.json](./407915-rmn-soup.json) |
+| Road of Fury 2: Nuclear Blizzard | 383252 | [383252-road-of-fury-2-nuclear-blizzard.json](./383252-road-of-fury-2-nuclear-blizzard.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
@@ -248,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | RP2D Virtual Tabletop | 404760 | [404760-rp2d-virtual-tabletop.json](./404760-rp2d-virtual-tabletop.json) |
+| RTAchan Tower Builder | 383259 | [383259-rtachan-tower-builder.json](./383259-rtachan-tower-builder.json) |
 | Rudravati: Curse of Bhankilla | 385492 | [385492-rudravati-curse-of-bhankilla.json](./385492-rudravati-curse-of-bhankilla.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
