@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| P.e.n.a.n.c.e | 405423 | [405423-p-e-n-a-n-c-e.json](./405423-p-e-n-a-n-c-e.json) |
 | Pac-Man and the Ghostly Adventures 2 | 23229 | [23229-pac-man-and-the-ghostly-adventures-2.json](./23229-pac-man-and-the-ghostly-adventures-2.json) |
 | Pac-Man Championship Edition | 20900 | [20900-pac-man-championship-edition.json](./20900-pac-man-championship-edition.json) |
 | Pac-Man Championship Edition 2 | 23240 | [23240-pac-man-championship-edition-2.json](./23240-pac-man-championship-edition-2.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
 | Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
+| Paper Strike | 405404 | [405404-paper-strike.json](./405404-paper-strike.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
 | PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
 | PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
@@ -112,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
+| Pixel Puzzles Dinosaurs Jigsaws | 405377 | [405377-pixel-puzzles-dinosaurs-jigsaws.json](./405377-pixel-puzzles-dinosaurs-jigsaws.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | Pixel Shopkeeper | 44518 | [44518-pixel-shopkeeper.json](./44518-pixel-shopkeeper.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
@@ -228,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
+| Punch Monkey Revenge | 405379 | [405379-punch-monkey-revenge.json](./405379-punch-monkey-revenge.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
@@ -244,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Ball | 34460 | [34460-puzzle-ball.json](./34460-puzzle-ball.json) |
 | Puzzle Bobble Galaxy | 23257 | [23257-puzzle-bobble-galaxy.json](./23257-puzzle-bobble-galaxy.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
+| Puzzle Piecer: The Joys of Spring | 405378 | [405378-puzzle-piecer-the-joys-of-spring.json](./405378-puzzle-piecer-the-joys-of-spring.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
