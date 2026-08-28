@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
+| Word Search By Jgabrib | 401435 | [401435-word-search-by-jgabrib.json](./401435-word-search-by-jgabrib.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
