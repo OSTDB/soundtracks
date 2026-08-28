@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
+| HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
 | Hibikino-san-chi ha Eroge-ya-san! | 396043 | [396043-hibikino-san-chi-ha-eroge-ya-san.json](./396043-hibikino-san-chi-ha-eroge-ya-san.json) |
