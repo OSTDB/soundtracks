@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Chess | 390420 | [390420-cat-chess.json](./390420-cat-chess.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
+| Cat's Holidays | 378629 | [378629-cats-holidays.json](./378629-cats-holidays.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
 | Catch The Beaukes | 384359 | [384359-catch-the-beaukes.json](./384359-catch-the-beaukes.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Celestial Front | 384367 | [384367-celestial-front.json](./384367-celestial-front.json) |
+| Chained | 378673 | [378673-chained.json](./378673-chained.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
@@ -389,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Shore: Isle of Secret | 381438 | [381438-crimson-shore-isle-of-secret.json](./381438-crimson-shore-isle-of-secret.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
+| Critical | 378622 | [378622-critical.json](./378622-critical.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
 | Croqueta Clicker | 398255 | [398255-croqueta-clicker.json](./398255-croqueta-clicker.json) |
