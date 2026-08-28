@@ -152,6 +152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Veil | 410778 | [410778-black-veil.json](./410778-black-veil.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
+| BlackJack Math Trainer | 404132 | [404132-blackjack-math-trainer.json](./404132-blackjack-math-trainer.json) |
+| Blackout Jack | 404106 | [404106-blackout-jack.json](./404106-blackout-jack.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
 | Blackwood House | 405393 | [405393-blackwood-house.json](./405393-blackwood-house.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Smoking Mirror - Remastered | 27860 | [27860-broken-sword-the-smoking-mirror-remastered.json](./27860-broken-sword-the-smoking-mirror-remastered.json) |
 | Broken Through | 229146 | [229146-broken-through.json](./229146-broken-through.json) |
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
+| Bros of Bench | 404150 | [404150-bros-of-bench.json](./404150-bros-of-bench.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
 | Bub | 404731 | [404731-bub.json](./404731-bub.json) |
