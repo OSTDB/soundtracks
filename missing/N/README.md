@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Lifes Nine Deaths | 372855 | [372855-nine-lifes-nine-deaths.json](./372855-nine-lifes-nine-deaths.json) |
 | Nine Nights to Exposure | 396790 | [396790-nine-nights-to-exposure.json](./396790-nine-nights-to-exposure.json) |
 | Ninja Baseball League-Man: Bases Loaded | 414245 | [414245-ninja-baseball-league-man-bases-loaded.json](./414245-ninja-baseball-league-man-bases-loaded.json) |
+| Ninja Boy Adventures: Bomberman Edition | 360394 | [360394-ninja-boy-adventures-bomberman-edition.json](./360394-ninja-boy-adventures-bomberman-edition.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
 | Ninja Usagimaru: The Gem of Blessings | 44390 | [44390-ninja-usagimaru-the-gem-of-blessings.json](./44390-ninja-usagimaru-the-gem-of-blessings.json) |
