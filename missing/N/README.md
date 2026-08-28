@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctiluca | 364308 | [364308-noctiluca.json](./364308-noctiluca.json) |
 | Nocturnal Watch | 378021 | [378021-nocturnal-watch.json](./378021-nocturnal-watch.json) |
 | Nocturne Routes | 398202 | [398202-nocturne-routes.json](./398202-nocturne-routes.json) |
+| Nocturnomaly | 359813 | [359813-nocturnomaly.json](./359813-nocturnomaly.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
 | Node Zero | 410743 | [410743-node-zero.json](./410743-node-zero.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
