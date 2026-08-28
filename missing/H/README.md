@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heatwave: Sam’s Stay | 405985 | [405985-heatwave-sam-s-stay.json](./405985-heatwave-sam-s-stay.json) |
 | Heaven Invaders | 396813 | [396813-heaven-invaders.json](./396813-heaven-invaders.json) |
 | Heaven Island - VR MMO | 34476 | [34476-heaven-island-vr-mmo.json](./34476-heaven-island-vr-mmo.json) |
+| Heaven’s Gate | 372886 | [372886-heaven-s-gate.json](./372886-heaven-s-gate.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Heavenly Island | 407964 | [407964-heavenly-island.json](./407964-heavenly-island.json) |
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - No Aha At Full Moon | 388573 | [388573-honkai-star-rail-no-aha-at-full-moon.json](./388573-honkai-star-rail-no-aha-at-full-moon.json) |
 | Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
+| Hopzi | 372851 | [372851-hopzi.json](./372851-hopzi.json) |
 | Horde of Distraction | 390407 | [390407-horde-of-distraction.json](./390407-horde-of-distraction.json) |
 | Hordekill | 390417 | [390417-hordekill.json](./390417-hordekill.json) |
 | Hordestomp | 400139 | [400139-hordestomp.json](./400139-hordestomp.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
 | How to Train Your Dragon: Riders of the Skies | 382619 | [382619-how-to-train-your-dragon-riders-of-the-skies.json](./382619-how-to-train-your-dragon-riders-of-the-skies.json) |
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
+| Hrror | 372852 | [372852-hrror.json](./372852-hrror.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
