@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macaronpolis | 392057 | [392057-macaronpolis.json](./392057-macaronpolis.json) |
 | MacGuffin's Curse | 15057 | [15057-macguffins-curse.json](./15057-macguffins-curse.json) |
 | Machines | 22821 | [22821-machines.json](./22821-machines.json) |
+| Mad Bus Simulator | 391464 | [391464-mad-bus-simulator.json](./391464-mad-bus-simulator.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
 | Mad Scientist Simulator – Society of World Destruction | 392637 | [392637-mad-scientist-simulator-society-of-world-destruction.json](./392637-mad-scientist-simulator-society-of-world-destruction.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
+| MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
 | Medal of Honor: Frontline | 1309 | [1309-medal-of-honor-frontline.json](./1309-medal-of-honor-frontline.json) |
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
@@ -266,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
+| Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
@@ -401,4 +404,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Blackthorn Castle | 87623 | [87623-mystery-of-blackthorn-castle.json](./87623-mystery-of-blackthorn-castle.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
+| Myth Requiem | 391468 | [391468-myth-requiem.json](./391468-myth-requiem.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
