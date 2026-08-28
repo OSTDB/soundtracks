@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
 | Rayman 3 Havoc Reignited | 370536 | [370536-rayman-3-havoc-reignited.json](./370536-rayman-3-havoc-reignited.json) |
 | Rayman Origins: Enhanced Edition | 403490 | [403490-rayman-origins-enhanced-edition.json](./403490-rayman-origins-enhanced-edition.json) |
+| Rays | 369430 | [369430-rays.json](./369430-rays.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
 | RiftChess | 383846 | [383846-riftchess.json](./383846-riftchess.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
+| Riley The Roadrunner | 369393 | [369393-riley-the-roadrunner.json](./369393-riley-the-roadrunner.json) |
 | Rina-sama Musou: The Chosen One and the Reign of Madness | 392623 | [392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json](./392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
@@ -252,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Shot | 378061 | [378061-rock-shot.json](./378061-rock-shot.json) |
 | Rocket Man X | 406580 | [406580-rocket-man-x.json](./406580-rocket-man-x.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
+| Rocket!! | 369398 | [369398-rocket.json](./369398-rocket.json) |
 | Rockman | 398846 | [398846-rockman.json](./398846-rockman.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
@@ -293,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Royal Lord | 374495 | [374495-royal-lord.json](./374495-royal-lord.json) |
 | RP2D Virtual Tabletop | 404760 | [404760-rp2d-virtual-tabletop.json](./404760-rp2d-virtual-tabletop.json) |
+| RPGMP: Retrieving the Ruby | 369400 | [369400-rpgmp-retrieving-the-ruby.json](./369400-rpgmp-retrieving-the-ruby.json) |
 | RTAchan Tower Builder | 383259 | [383259-rtachan-tower-builder.json](./383259-rtachan-tower-builder.json) |
 | Ruadine | 381440 | [381440-ruadine.json](./381440-ruadine.json) |
 | Rudravati: Curse of Bhankilla | 385492 | [385492-rudravati-curse-of-bhankilla.json](./385492-rudravati-curse-of-bhankilla.json) |
