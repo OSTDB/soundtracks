@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
+| Temari Trials: Dojo's Test | 387859 | [387859-temari-trials-dojos-test.json](./387859-temari-trials-dojos-test.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Ten no Hikari ha Koi no Hoshi | 396807 | [396807-ten-no-hikari-ha-koi-no-hoshi.json](./396807-ten-no-hikari-ha-koi-no-hoshi.json) |
