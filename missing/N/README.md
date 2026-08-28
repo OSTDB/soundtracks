@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
+| Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
 | NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
 | Nevermind | 14176 | [14176-nevermind.json](./14176-nevermind.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
+| Norectus: Theatre of War | 406030 | [406030-norectus-theatre-of-war.json](./406030-norectus-theatre-of-war.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
