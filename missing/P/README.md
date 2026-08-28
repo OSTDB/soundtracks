@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Farm | 390421 | [390421-pachinko-farm.json](./390421-pachinko-farm.json) |
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pack'N Maze | 385488 | [385488-packn-maze.json](./385488-packn-maze.json) |
+| Package Pirates | 381426 | [381426-package-pirates.json](./381426-package-pirates.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
@@ -136,6 +137,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pictonico! | 402158 | [402158-pictonico.json](./402158-pictonico.json) |
+| Piczle World of Puzzles: Into the Puzzleverse | 381424 | [381424-piczle-world-of-puzzles-into-the-puzzleverse.json](./381424-piczle-world-of-puzzles-into-the-puzzleverse.json) |
+| Piczle World of Puzzles: Old Masters | 381422 | [381422-piczle-world-of-puzzles-old-masters.json](./381422-piczle-world-of-puzzles-old-masters.json) |
+| Piczle World of Puzzles: Piczle Cross Adventure Pack | 381425 | [381425-piczle-world-of-puzzles-piczle-cross-adventure-pack.json](./381425-piczle-world-of-puzzles-piczle-cross-adventure-pack.json) |
+| Piczle World of Puzzles: Starter Pack | 381423 | [381423-piczle-world-of-puzzles-starter-pack.json](./381423-piczle-world-of-puzzles-starter-pack.json) |
 | Pieces of the Abyss: Succubus | 382054 | [382054-pieces-of-the-abyss-succubus.json](./382054-pieces-of-the-abyss-succubus.json) |
 | Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
@@ -257,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pops | 414962 | [414962-pops.json](./414962-pops.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
 | Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
+| Pork 2: The Gizzard of Showbiz | 381473 | [381473-pork-2-the-gizzard-of-showbiz.json](./381473-pork-2-the-gizzard-of-showbiz.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
