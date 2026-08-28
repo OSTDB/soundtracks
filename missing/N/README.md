@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew Dossier: Lights, Camera, Curses! | 15999 | [15999-nancy-drew-dossier-lights-camera-curses.json](./15999-nancy-drew-dossier-lights-camera-curses.json) |
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
+| Nanima | 392058 | [392058-nanima.json](./392058-nanima.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
 | Naruto Online | 22797 | [22797-naruto-online.json](./22797-naruto-online.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K11 | 5070 | [5070-nhl-2k11.json](./5070-nhl-2k11.json) |
 | NHL Hitz Pro | 4048 | [4048-nhl-hitz-pro.json](./4048-nhl-hitz-pro.json) |
 | NHL Slapshot | 5071 | [5071-nhl-slapshot.json](./5071-nhl-slapshot.json) |
+| Nice Screams at the Funfair | 392045 | [392045-nice-screams-at-the-funfair.json](./392045-nice-screams-at-the-funfair.json) |
 | Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
+| Nonsense Defense | 392025 | [392025-nonsense-defense.json](./392025-nonsense-defense.json) |
 | Noodlebound | 401419 | [401419-noodlebound.json](./401419-noodlebound.json) |
 | Norectus: Theatre of War | 406030 | [406030-norectus-theatre-of-war.json](./406030-norectus-theatre-of-war.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
