@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
 | Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
 | Frozen Stillness | 385454 | [385454-frozen-stillness.json](./385454-frozen-stillness.json) |
+| Fruit Casket | 383244 | [383244-fruit-casket.json](./383244-fruit-casket.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
+| Futa Fucks Femboys | 383253 | [383253-futa-fucks-femboys.json](./383253-futa-fucks-femboys.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
 | Fuuun Shaolin Kyo | 384978 | [384978-fuuun-shaolin-kyo.json](./384978-fuuun-shaolin-kyo.json) |
