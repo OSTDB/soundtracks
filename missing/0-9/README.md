@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Kids Fun Puzzle Blue | 89315 | [89315-123-kids-fun-puzzle-blue.json](./89315-123-kids-fun-puzzle-blue.json) |
 | 1348: Ex Voto | 362064 | [362064-1348-ex-voto.json](./362064-1348-ex-voto.json) |
 | 140 | 9497 | [9497-140.json](./9497-140.json) |
+| 17776 | 397522 | [397522-17776.json](./397522-17776.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
@@ -41,11 +42,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
 | 5318008 | 412168 | [412168-5318008.json](./412168-5318008.json) |
+| 6 Floors | 397549 | [397549-6-floors.json](./397549-6-floors.json) |
 | 60 Seconds! Atomic Adventure | 86379 | [86379-60-seconds-atomic-adventure.json](./86379-60-seconds-atomic-adventure.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
 | 7 Trials | 400791 | [400791-7-trials.json](./400791-7-trials.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
 | 7dfps 2020 game | 410783 | [410783-7dfps-2020-game.json](./410783-7dfps-2020-game.json) |
+| 8 Ball Pro Online | 397546 | [397546-8-ball-pro-online.json](./397546-8-ball-pro-online.json) |
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
 | 8bit Salvage | 412828 | [412828-8bit-salvage.json](./412828-8bit-salvage.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
