@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Jam Fight For NY: The Takeover | 23123 | [23123-def-jam-fight-for-ny-the-takeover.json](./23123-def-jam-fight-for-ny-the-takeover.json) |
 | Def Jam: Fight for NY | 3875 | [3875-def-jam-fight-for-ny.json](./3875-def-jam-fight-for-ny.json) |
 | Default Dan | 24032 | [24032-default-dan.json](./24032-default-dan.json) |
+| Defectant | 373942 | [373942-defectant.json](./373942-defectant.json) |
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
