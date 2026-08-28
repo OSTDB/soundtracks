@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
 | Kids Math Magic | 89529 | [89529-kids-math-magic.json](./89529-kids-math-magic.json) |
 | Kila: Hourbound | 391473 | [391473-kila-hourbound.json](./391473-kila-hourbound.json) |
+| Kill Code | 364332 | [364332-kill-code.json](./364332-kill-code.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Kill Spewy | 389884 | [389884-kill-spewy.json](./389884-kill-spewy.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
 | Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
+| Kitchen Table | 364311 | [364311-kitchen-table.json](./364311-kitchen-table.json) |
 | KitchenCraft | 397526 | [397526-kitchencraft.json](./397526-kitchencraft.json) |
 | Kitten Island 2 | 367214 | [367214-kitten-island-2.json](./367214-kitten-island-2.json) |
 | Kitty Clicker | 410770 | [410770-kitty-clicker.json](./410770-kitty-clicker.json) |
