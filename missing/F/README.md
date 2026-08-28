@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Ultimate Collection - Seekers Edition | 90563 | [90563-final-fantasy-xi-ultimate-collection-seekers-edition.json](./90563-final-fantasy-xi-ultimate-collection-seekers-edition.json) |
 | Final Fantasy XII: Revenant Wings | 392 | [392-final-fantasy-xii-revenant-wings.json](./392-final-fantasy-xii-revenant-wings.json) |
 | Final Fantasy XIV: Dawntrail | 259338 | [259338-final-fantasy-xiv-dawntrail.json](./259338-final-fantasy-xiv-dawntrail.json) |
+| Final Fantasy XV: Episode Duscae | 394044 | [394044-final-fantasy-xv-episode-duscae.json](./394044-final-fantasy-xv-episode-duscae.json) |
 | Final Fantasy XV: Episode Gladiolus | 28002 | [28002-final-fantasy-xv-episode-gladiolus.json](./28002-final-fantasy-xv-episode-gladiolus.json) |
 | Final Fantasy XVI: Echoes of the Fallen | 279657 | [279657-final-fantasy-xvi-echoes-of-the-fallen.json](./279657-final-fantasy-xvi-echoes-of-the-fallen.json) |
 | Final Fantasy XVI: The Rising Tide | 279658 | [279658-final-fantasy-xvi-the-rising-tide.json](./279658-final-fantasy-xvi-the-rising-tide.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Mobile 2018 | 76927 | [76927-football-manager-mobile-2018.json](./76927-football-manager-mobile-2018.json) |
 | Football Star - Super Striker | 101660 | [101660-football-star-super-striker.json](./101660-football-star-super-striker.json) |
 | Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
+| Footy Golf | 394029 | [394029-footy-golf.json](./394029-footy-golf.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Force of Elements | 15573 | [15573-force-of-elements.json](./15573-force-of-elements.json) |
@@ -263,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Fuhon | 412851 | [412851-fuhon.json](./412851-fuhon.json) |
+| Fulfill Wishes and Save You | 394047 | [394047-fulfill-wishes-and-save-you.json](./394047-fulfill-wishes-and-save-you.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
