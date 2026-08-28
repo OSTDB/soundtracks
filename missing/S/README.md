@@ -437,9 +437,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of the Wind | 393336 | [393336-song-of-the-wind.json](./393336-song-of-the-wind.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
+| Sonic 3 Extended World CD | 361505 | [361505-sonic-3-extended-world-cd.json](./361505-sonic-3-extended-world-cd.json) |
+| Sonic 3 Goodliest Edition | 361546 | [361546-sonic-3-goodliest-edition.json](./361546-sonic-3-goodliest-edition.json) |
+| Sonic 3 Rebuilt | 361545 | [361545-sonic-3-rebuilt.json](./361545-sonic-3-rebuilt.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
+| Sonic and the Duel of Fates | 361530 | [361530-sonic-and-the-duel-of-fates.json](./361530-sonic-and-the-duel-of-fates.json) |
 | Sonic Before the Sequel '26 | 370535 | [370535-sonic-before-the-sequel-26.json](./370535-sonic-before-the-sequel-26.json) |
 | Sonic Blast Man II | 42459 | [42459-sonic-blast-man-ii.json](./42459-sonic-blast-man-ii.json) |
+| Sonic CD's Scrapped Rounds | 361503 | [361503-sonic-cds-scrapped-rounds.json](./361503-sonic-cds-scrapped-rounds.json) |
 | Sonic Chronicles: The Dark Brotherhood | 217 | [217-sonic-chronicles-the-dark-brotherhood.json](./217-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Drift 2 | 46358 | [46358-sonic-drift-2.json](./46358-sonic-drift-2.json) |
 | Sonic Drift GG2SMS | 369438 | [369438-sonic-drift-gg2sms.json](./369438-sonic-drift-gg2sms.json) |
@@ -451,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Racing: CrossWorlds - Godzilla Pack | 404711 | [404711-sonic-racing-crossworlds-godzilla-pack.json](./404711-sonic-racing-crossworlds-godzilla-pack.json) |
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
+| Sonic: Project Revenge | 361508 | [361508-sonic-project-revenge.json](./361508-sonic-project-revenge.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Soothe | 402164 | [402164-soothe.json](./402164-soothe.json) |
 | Sopwith | 406015 | [406015-sopwith.json](./406015-sopwith.json) |
