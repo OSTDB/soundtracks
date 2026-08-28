@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
+| Dead Dawg Delivery Co. | 412143 | [412143-dead-dawg-delivery-co.json](./412143-dead-dawg-delivery-co.json) |
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
 | Dead End | 413546 | [413546-dead-end.json](./413546-dead-end.json) |
 | Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
+| Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
 | Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
@@ -93,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
 | Defense the Farm | 102185 | [102185-defense-the-farm.json](./102185-defense-the-farm.json) |
+| Defiance Survivors | 412142 | [412142-defiance-survivors.json](./412142-defiance-survivors.json) |
 | Deisim | 31356 | [31356-deisim.json](./31356-deisim.json) |
 | Deity Empires | 109833 | [109833-deity-empires.json](./109833-deity-empires.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
@@ -136,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
+| Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
@@ -154,12 +158,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
 | DinerTown Detective Agency | 15001 | [15001-dinertown-detective-agency.json](./15001-dinertown-detective-agency.json) |
+| Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
 | DiscStorm | 11420 | [11420-discstorm.json](./11420-discstorm.json) |
+| Disenchantment Initialization | 412144 | [412144-disenchantment-initialization.json](./412144-disenchantment-initialization.json) |
 | Disgaea 3: Absence of Justice | 7297 | [7297-disgaea-3-absence-of-justice.json](./7297-disgaea-3-absence-of-justice.json) |
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
@@ -241,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
 | Draft Day Sports Pro Basketball 4 | 17947 | [17947-draft-day-sports-pro-basketball-4.json](./17947-draft-day-sports-pro-basketball-4.json) |
+| Draft Day Sports: College Football 27 | 412173 | [412173-draft-day-sports-college-football-27.json](./412173-draft-day-sports-college-football-27.json) |
 | Dragon Age II: Legacy | 21664 | [21664-dragon-age-ii-legacy.json](./21664-dragon-age-ii-legacy.json) |
 | Dragon Age II: Mark of the Assassin | 22552 | [22552-dragon-age-ii-mark-of-the-assassin.json](./22552-dragon-age-ii-mark-of-the-assassin.json) |
 | Dragon Age: Origins - Darkspawn Chronicles | 22963 | [22963-dragon-age-origins-darkspawn-chronicles.json](./22963-dragon-age-origins-darkspawn-chronicles.json) |
@@ -269,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
+| Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
@@ -306,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
+| Dungeons & Donuts | 412163 | [412163-dungeons-and-donuts.json](./412163-dungeons-and-donuts.json) |
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
