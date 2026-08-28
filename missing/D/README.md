@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
+| Death Ray Manta SE | 22150 | [22150-death-ray-manta-se.json](./22150-death-ray-manta-se.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Train VR | 61883 | [61883-death-train-vr.json](./61883-death-train-vr.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
 | Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
+| Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
