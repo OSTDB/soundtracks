@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
+| Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
 | Shin Megami Tensei | 21074 | [21074-shin-megami-tensei.json](./21074-shin-megami-tensei.json) |
 | Shin Megami Tensei II | 23879 | [23879-shin-megami-tensei-ii.json](./23879-shin-megami-tensei-ii.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
@@ -257,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
+| Speedy Bundle Speedway & Grand Prix | 412119 | [412119-speedy-bundle-speedway-and-grand-prix.json](./412119-speedy-bundle-speedway-and-grand-prix.json) |
 | Spellbound | 32972 | [32972-spellbound.json](./32972-spellbound.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
@@ -340,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
+| Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
@@ -397,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Blast | 35887 | [35887-sun-blast.json](./35887-sun-blast.json) |
 | Sun Dogs | 34410 | [34410-sun-dogs.json](./34410-sun-dogs.json) |
 | SunAge: Battle for Elysium | 17750 | [17750-sunage-battle-for-elysium.json](./17750-sunage-battle-for-elysium.json) |
+| Sunfall '80 | 412133 | [412133-sunfall-80.json](./412133-sunfall-80.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
@@ -404,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
+| Super Fluid Hyper Flow! | 412181 | [412181-super-fluid-hyper-flow.json](./412181-super-fluid-hyper-flow.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
 | Super Hydlide | 27987 | [27987-super-hydlide.json](./27987-super-hydlide.json) |
@@ -463,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
+| Sweetie Candy Maze: Coral Peach | 412151 | [412151-sweetie-candy-maze-coral-peach.json](./412151-sweetie-candy-maze-coral-peach.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Sword and Shield | 76771 | [76771-sword-and-shield.json](./76771-sword-and-shield.json) |
 | Sword Art Online: Fatal Bullet - Complete Edition | 110837 | [110837-sword-art-online-fatal-bullet-complete-edition.json](./110837-sword-art-online-fatal-bullet-complete-edition.json) |
