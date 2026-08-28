@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
+| Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
+| Below | 383834 | [383834-below.json](./383834-below.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
@@ -213,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinded I | 402204 | [402204-blinded-i.json](./402204-blinded-i.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
+| Blitz Strasse | 383843 | [383843-blitz-strasse.json](./383843-blitz-strasse.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
@@ -358,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
+| Bunny Dusty | 383802 | [383802-bunny-dusty.json](./383802-bunny-dusty.json) |
 | Bunny Flags 2 | 387870 | [387870-bunny-flags-2.json](./387870-bunny-flags-2.json) |
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
 | Burgie's Cozy Kitchen: Halloween Cosmetics Pack | 407210 | [407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json](./407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json) |
