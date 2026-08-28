@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
+| Japanese Culture Literacy Test | 398200 | [398200-japanese-culture-literacy-test.json](./398200-japanese-culture-literacy-test.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
 | Jasmine | 398889 | [398889-jasmine.json](./398889-jasmine.json) |
 | Jaws | 15704 | [15704-jaws.json](./15704-jaws.json) |
