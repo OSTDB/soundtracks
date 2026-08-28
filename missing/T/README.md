@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Tarae The Unbound | 415003 | [415003-tarae-the-unbound.json](./415003-tarae-the-unbound.json) |
+| Tartarus: Dice & Blades | 404737 | [404737-tartarus-dice-and-blades.json](./404737-tartarus-dice-and-blades.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Settlers IV: Mission CD | 22302 | [22302-the-settlers-iv-mission-cd.json](./22302-the-settlers-iv-mission-cd.json) |
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
+| The Shadow Over Hawksmill | 404759 | [404759-the-shadow-over-hawksmill.json](./404759-the-shadow-over-hawksmill.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
 | The Sims 2: FreeTime | 5537 | [5537-the-sims-2-freetime.json](./5537-the-sims-2-freetime.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
 | The Witcher 3: Wild Hunt Remastered | 415005 | [415005-the-witcher-3-wild-hunt-remastered.json](./415005-the-witcher-3-wild-hunt-remastered.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
+| The Wolf Among Us Remastered | 404716 | [404716-the-wolf-among-us-remastered.json](./404716-the-wolf-among-us-remastered.json) |
 | The Works of Mercy | 31448 | [31448-the-works-of-mercy.json](./31448-the-works-of-mercy.json) |
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
@@ -305,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
+| Thinky Dailies: Season 3 | 404748 | [404748-thinky-dailies-season-3.json](./404748-thinky-dailies-season-3.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
@@ -444,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
+| Trine 6: Together in Time | 404741 | [404741-trine-6-together-in-time.json](./404741-trine-6-together-in-time.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Triston | 407960 | [407960-triston.json](./407960-triston.json) |
