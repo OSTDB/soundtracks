@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadHouse for Toys | 412857 | [412857-madhouse-for-toys.json](./412857-madhouse-for-toys.json) |
 | Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
+| MageML | 397570 | [397570-mageml.json](./397570-mageml.json) |
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
 | Magic Beans | 403462 | [403462-magic-beans.json](./403462-magic-beans.json) |
 | Magic Carpet | 4415 | [4415-magic-carpet.json](./4415-magic-carpet.json) |
@@ -217,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
+| Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
 | Mym's Sword | 402812 | [402812-myms-sword.json](./402812-myms-sword.json) |
+| MyMemory | 397562 | [397562-mymemory.json](./397562-mymemory.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysteries of the Undead: The Cursed Island | 116331 | [116331-mysteries-of-the-undead-the-cursed-island.json](./116331-mysteries-of-the-undead-the-cursed-island.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
