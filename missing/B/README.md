@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies: King Pig's Hunt | 408680 | [408680-bad-piggies-king-pigs-hunt.json](./408680-bad-piggies-king-pigs-hunt.json) |
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
 | Baff A | 412146 | [412146-baff-a.json](./412146-baff-a.json) |
+| Baffotron | 382637 | [382637-baffotron.json](./382637-baffotron.json) |
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
 | Baikin-kun | 385500 | [385500-baikin-kun.json](./385500-baikin-kun.json) |
 | Bait & Tackle Store Simulator | 389312 | [389312-bait-and-tackle-store-simulator.json](./389312-bait-and-tackle-store-simulator.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
 | BaseStar | 390427 | [390427-basestar.json](./390427-basestar.json) |
+| Basketball Knockout | 382608 | [382608-basketball-knockout.json](./382608-basketball-knockout.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
@@ -168,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill Elliott's NASCAR Challenge | 7785 | [7785-bill-elliotts-nascar-challenge.json](./7785-bill-elliotts-nascar-challenge.json) |
 | Bin Ladin Duck Hunt | 396071 | [396071-bin-ladin-duck-hunt.json](./396071-bin-ladin-duck-hunt.json) |
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
+| Binding of Isaac: Unholy Edition | 382609 | [382609-binding-of-isaac-unholy-edition.json](./382609-binding-of-isaac-unholy-edition.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
 | BioShock | 152660 | [152660-bioshock.json](./152660-bioshock.json) |
 | BioShock 2: Minerva's Den Remastered | 78451 | [78451-bioshock-2-minervas-den-remastered.json](./78451-bioshock-2-minervas-den-remastered.json) |
