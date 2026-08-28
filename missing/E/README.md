@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
+| Eternity's Child | 15954 | [15954-eternitys-child.json](./15954-eternitys-child.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Ethereal | 109818 | [109818-ethereal.json](./109818-ethereal.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
