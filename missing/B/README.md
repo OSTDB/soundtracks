@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fishin World: Ocean Voyager | 398872 | [398872-big-fishin-world-ocean-voyager.json](./398872-big-fishin-world-ocean-voyager.json) |
 | Big Survival Collection 3-in-1 | 414244 | [414244-big-survival-collection-3-in-1.json](./414244-big-survival-collection-3-in-1.json) |
 | Big Time | 194907 | [194907-big-time.json](./194907-big-time.json) |
+| Big Toys | 382045 | [382045-big-toys.json](./382045-big-toys.json) |
 | Big Walk | 279624 | [279624-big-walk.json](./279624-big-walk.json) |
 | Bigfoot: Collision Course | 4714 | [4714-bigfoot-collision-course.json](./4714-bigfoot-collision-course.json) |
 | Bike Rider DX | 61928 | [61928-bike-rider-dx.json](./61928-bike-rider-dx.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
 | Bocchle | 384960 | [384960-bocchle.json](./384960-bocchle.json) |
 | Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
+| Bodacious Babes: Fantasy | 382060 | [382060-bodacious-babes-fantasy.json](./382060-bodacious-babes-fantasy.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
