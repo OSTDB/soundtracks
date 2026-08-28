@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
 | Baikin-kun | 385500 | [385500-baikin-kun.json](./385500-baikin-kun.json) |
 | Bait & Tackle Store Simulator | 389312 | [389312-bait-and-tackle-store-simulator.json](./389312-bait-and-tackle-store-simulator.json) |
+| Bakery Magnate: Online | 378023 | [378023-bakery-magnate-online.json](./378023-bakery-magnate-online.json) |
 | Bakudan Man | 385501 | [385501-bakudan-man.json](./385501-bakudan-man.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuhatsu Dynaman | 385494 | [385494-bakuhatsu-dynaman.json](./385494-bakuhatsu-dynaman.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
+| Bob the Brick Breaker | 378041 | [378041-bob-the-brick-breaker.json](./378041-bob-the-brick-breaker.json) |
 | Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
 | Bocchle | 384960 | [384960-bocchle.json](./384960-bocchle.json) |
 | Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
