@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
 | PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
+| Peace Finder | 378016 | [378016-peace-finder.json](./378016-peace-finder.json) |
 | Peace Under His Roof | 406002 | [406002-peace-under-his-roof.json](./406002-peace-under-his-roof.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
+| Poker Battle | 378027 | [378027-poker-battle.json](./378027-poker-battle.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
 | Poker: Texas & Omaha Hold'em | 382633 | [382633-poker-texas-and-omaha-holdem.json](./382633-poker-texas-and-omaha-holdem.json) |
 | Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
