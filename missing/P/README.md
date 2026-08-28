@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
+| Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
+| Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
+| Puss in Box | 402821 | [402821-puss-in-box.json](./402821-puss-in-box.json) |
 | Putin 20!8 | 86541 | [86541-putin-20-8.json](./86541-putin-20-8.json) |
 | Putin vs. Isis | 95175 | [95175-putin-vs-isis.json](./95175-putin-vs-isis.json) |
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
