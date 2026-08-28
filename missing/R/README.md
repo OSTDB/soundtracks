@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman | 398846 | [398846-rockman.json](./398846-rockman.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
+| Rogue Melee | 374447 | [374447-rogue-melee.json](./374447-rogue-melee.json) |
 | Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
 | Rogue Stradale | 396794 | [396794-rogue-stradale.json](./396794-rogue-stradale.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
+| Royal Lord | 374495 | [374495-royal-lord.json](./374495-royal-lord.json) |
 | RP2D Virtual Tabletop | 404760 | [404760-rp2d-virtual-tabletop.json](./404760-rp2d-virtual-tabletop.json) |
 | RTAchan Tower Builder | 383259 | [383259-rtachan-tower-builder.json](./383259-rtachan-tower-builder.json) |
 | Ruadine | 381440 | [381440-ruadine.json](./381440-ruadine.json) |
@@ -304,5 +306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushy Road | 382653 | [382653-rushy-road.json](./382653-rushy-road.json) |
 | Russian Village Business | 397566 | [397566-russian-village-business.json](./397566-russian-village-business.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
+| Rustmire | 374499 | [374499-rustmire.json](./374499-rustmire.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
 | Ryzom | 6742 | [6742-ryzom.json](./6742-ryzom.json) |
