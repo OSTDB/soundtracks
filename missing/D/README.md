@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
+| Dawn Awaits | 389291 | [389291-dawn-awaits.json](./389291-dawn-awaits.json) |
 | Dawn of the Dying | 390413 | [390413-dawn-of-the-dying.json](./390413-dawn-of-the-dying.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Really Know About Soccer? | 407263 | [407263-do-you-really-know-about-soccer.json](./407263-do-you-really-know-about-soccer.json) |
 | Doctor Lautrec and the Forgotten Knights | 6757 | [6757-doctor-lautrec-and-the-forgotten-knights.json](./6757-doctor-lautrec-and-the-forgotten-knights.json) |
 | Dodge These Asteroids 2 | 405389 | [405389-dodge-these-asteroids-2.json](./405389-dodge-these-asteroids-2.json) |
+| Dodge This! | 389286 | [389286-dodge-this.json](./389286-dodge-this.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
@@ -403,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
+| Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
@@ -438,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
+| Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
