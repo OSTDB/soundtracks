@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
 | You Don't Know Jack Vol. 3 | 16783 | [16783-you-dont-know-jack-vol-3.json](./16783-you-dont-know-jack-vol-3.json) |
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
+| You vs. Zombies | 397582 | [397582-you-vs-zombies.json](./397582-you-vs-zombies.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
 | You're Nuts! | 398212 | [398212-youre-nuts.json](./398212-youre-nuts.json) |
 | Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
