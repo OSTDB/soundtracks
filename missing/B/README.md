@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
+| Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
 | Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
+| Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
