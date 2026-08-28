@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
+| Chark | 369957 | [369957-chark.json](./369957-chark.json) |
 | Charlatan | 400770 | [400770-charlatan.json](./400770-charlatan.json) |
 | Chasing Rabbits in Snow | 384394 | [384394-chasing-rabbits-in-snow.json](./384394-chasing-rabbits-in-snow.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Critical | 378622 | [378622-critical.json](./378622-critical.json) |
 | Critical Mass | 371099 | [371099-critical-mass.json](./371099-critical-mass.json) |
+| Critter Drifters | 369934 | [369934-critter-drifters.json](./369934-critter-drifters.json) |
 | Croak? | 374489 | [374489-croak.json](./374489-croak.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubor | 87583 | [87583-cubor.json](./87583-cubor.json) |
 | Cuckold Sex: Episode 4 | 371068 | [371068-cuckold-sex-episode-4.json](./371068-cuckold-sex-episode-4.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
+| Cult of the Yellow King | 369973 | [369973-cult-of-the-yellow-king.json](./369973-cult-of-the-yellow-king.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
 | Cumbersome | 387216 | [387216-cumbersome.json](./387216-cumbersome.json) |
