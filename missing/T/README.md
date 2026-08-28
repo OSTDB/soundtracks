@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
+| Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
 | Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
 | Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
+| Tobidasu! Camazotz no Sekai 3D | 394730 | [394730-tobidasu-camazotz-no-sekai-3d.json](./394730-tobidasu-camazotz-no-sekai-3d.json) |
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
