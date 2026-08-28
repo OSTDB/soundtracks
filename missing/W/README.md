@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
 | Wanted G-Man | 385493 | [385493-wanted-g-man.json](./385493-wanted-g-man.json) |
 | Wanted Killer VR | 96158 | [96158-wanted-killer-vr.json](./96158-wanted-killer-vr.json) |
+| War | 383254 | [383254-war.json](./383254-war.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
 | War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
 | Whip Wreck | 389895 | [389895-whip-wreck.json](./389895-whip-wreck.json) |
+| Whisker Wanderlust: The Mosaic of Souls | 383247 | [383247-whisker-wanderlust-the-mosaic-of-souls.json](./383247-whisker-wanderlust-the-mosaic-of-souls.json) |
 | Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | Whispers of Winter Blossom | 387242 | [387242-whispers-of-winter-blossom.json](./387242-whispers-of-winter-blossom.json) |
@@ -151,7 +153,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunt | 404137 | [404137-witch-hunt.json](./404137-witch-hunt.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witch Switched | 394049 | [394049-witch-switched.json](./394049-witch-switched.json) |
+| Witch's Lounge | 383206 | [383206-witchs-lounge.json](./383206-witchs-lounge.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
+| Witchland: Trinity Blight | 383207 | [383207-witchland-trinity-blight.json](./383207-witchland-trinity-blight.json) |
+| Witchlight Woods | 383210 | [383210-witchlight-woods.json](./383210-witchlight-woods.json) |
 | With Walker | 383845 | [383845-with-walker.json](./383845-with-walker.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
@@ -160,12 +165,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Blaster | 387200 | [387200-wizard-blaster.json](./387200-wizard-blaster.json) |
 | Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Wizards in the Woods | 383211 | [383211-wizards-in-the-woods.json](./383211-wizards-in-the-woods.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
 | Wooden Block Puzzle Game | 87653 | [87653-wooden-block-puzzle-game.json](./87653-wooden-block-puzzle-game.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
+| Woodland Warriors | 383214 | [383214-woodland-warriors.json](./383214-woodland-warriors.json) |
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
