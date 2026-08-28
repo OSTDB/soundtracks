@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
 | Wai Wai 3-nin Uchi Mahjong | 394050 | [394050-wai-wai-3-nin-uchi-mahjong.json](./394050-wai-wai-3-nin-uchi-mahjong.json) |
 | Wai Wai Trump Taisen | 394051 | [394051-wai-wai-trump-taisen.json](./394051-wai-wai-trump-taisen.json) |
+| Waifu Clinic | 382051 | [382051-waifu-clinic.json](./382051-waifu-clinic.json) |
 | Waifu Lust | 389861 | [389861-waifu-lust.json](./389861-waifu-lust.json) |
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
