@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of Mirrors | 378668 | [378668-hall-of-mirrors.json](./378668-hall-of-mirrors.json) |
 | Hallowed Knight | 386577 | [386577-hallowed-knight.json](./386577-hallowed-knight.json) |
 | Halloween | 376354 | [376354-halloween.json](./376354-halloween.json) |
+| Halloween Horrors Deluxe Steam Edition | 368325 | [368325-halloween-horrors-deluxe-steam-edition.json](./368325-halloween-horrors-deluxe-steam-edition.json) |
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
@@ -37,7 +38,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
 | Happiness 2 | 397536 | [397536-happiness-2.json](./397536-happiness-2.json) |
 | Happiness Laboratory | 395402 | [395402-happiness-laboratory.json](./395402-happiness-laboratory.json) |
+| Happy Anime Puzzle | 368343 | [368343-happy-anime-puzzle.json](./368343-happy-anime-puzzle.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
+| Happy Pet | 368304 | [368304-happy-pet.json](./368304-happy-pet.json) |
 | Happy Piggy | 370506 | [370506-happy-piggy.json](./370506-happy-piggy.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
@@ -137,6 +140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Merge Dice | 382029 | [382029-hentai-merge-dice.json](./382029-hentai-merge-dice.json) |
+| Hentai Mika | 368339 | [368339-hentai-mika.json](./368339-hentai-mika.json) |
+| Hentai Mira | 368345 | [368345-hentai-mira.json](./368345-hentai-mira.json) |
 | Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
 | Hentai Novel: Lily is stripping | 382018 | [382018-hentai-novel-lily-is-stripping.json](./382018-hentai-novel-lily-is-stripping.json) |
 | Hentai Party: Bikini Beach | 373381 | [373381-hentai-party-bikini-beach.json](./373381-hentai-party-bikini-beach.json) |
@@ -147,8 +152,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shinobi | 387197 | [387197-hentai-shinobi.json](./387197-hentai-shinobi.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
+| Hentai Tales: Master, Your Sex Class Begins Now | 368335 | [368335-hentai-tales-master-your-sex-class-begins-now.json](./368335-hentai-tales-master-your-sex-class-begins-now.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
+| Hentai World Space | 368349 | [368349-hentai-world-space.json](./368349-hentai-world-space.json) |
 | Hepatomancy | 383224 | [383224-hepatomancy.json](./383224-hepatomancy.json) |
 | Her Last Piece | 375047 | [375047-her-last-piece.json](./375047-her-last-piece.json) |
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
