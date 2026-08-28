@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick Tock Bang Bang | 33067 | [33067-tick-tock-bang-bang.json](./33067-tick-tock-bang-bang.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
 | Tickle Zooz | 89471 | [89471-tickle-zooz.json](./89471-tickle-zooz.json) |
+| Tidy Up Together | 410788 | [410788-tidy-up-together.json](./410788-tidy-up-together.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Woods PGA Tour 2005 | 906 | [906-tiger-woods-pga-tour-2005.json](./906-tiger-woods-pga-tour-2005.json) |
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
