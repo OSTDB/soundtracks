@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuhatsu Dynaman | 385494 | [385494-bakuhatsu-dynaman.json](./385494-bakuhatsu-dynaman.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
+| Ballad of the Midnight Man | 381446 | [381446-ballad-of-the-midnight-man.json](./381446-ballad-of-the-midnight-man.json) |
 | Ballistic Attack | 44144 | [44144-ballistic-attack.json](./44144-ballistic-attack.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballistics | 7495 | [7495-ballistics.json](./7495-ballistics.json) |
