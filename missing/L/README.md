@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | L.A.T.H.E | 387227 | [387227-l-a-t-h-e.json](./387227-l-a-t-h-e.json) |
+| L'Agence: The Hearts of Paris | 384974 | [384974-lagence-the-hearts-of-paris.json](./384974-lagence-the-hearts-of-paris.json) |
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Lab Loonies | 405995 | [405995-lab-loonies.json](./405995-lab-loonies.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
+| Locktale | 384969 | [384969-locktale.json](./384969-locktale.json) |
 | Loco Dojo | 46483 | [46483-loco-dojo.json](./46483-loco-dojo.json) |
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
@@ -192,12 +194,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Haunted Quest 2: Bligmire | 394734 | [394734-luigis-haunted-quest-2-bligmire.json](./394734-luigis-haunted-quest-2-bligmire.json) |
 | Lullaby | 387891 | [387891-lullaby.json](./387891-lullaby.json) |
 | LumenKnight | 390969 | [390969-lumenknight.json](./390969-lumenknight.json) |
+| Lumina: Resenting Shadow | 384931 | [384931-lumina-resenting-shadow.json](./384931-lumina-resenting-shadow.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
 | Luminous Jigsaw Puzzles | 402163 | [402163-luminous-jigsaw-puzzles.json](./402163-luminous-jigsaw-puzzles.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
+| Lunar Tide | 384934 | [384934-lunar-tide.json](./384934-lunar-tide.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Lured In | 395423 | [395423-lured-in.json](./395423-lured-in.json) |
