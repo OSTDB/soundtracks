@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Nocan's Quest: Sex Gold Glory | 387866 | [387866-nocans-quest-sex-gold-glory.json](./387866-nocans-quest-sex-gold-glory.json) |
 | Nocternum | 396088 | [396088-nocternum.json](./396088-nocternum.json) |
+| Noctiluca | 364308 | [364308-noctiluca.json](./364308-noctiluca.json) |
 | Nocturnal Watch | 378021 | [378021-nocturnal-watch.json](./378021-nocturnal-watch.json) |
 | Nocturne Routes | 398202 | [398202-nocturne-routes.json](./398202-nocturne-routes.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
