@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
+| Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
+| Black Veil | 410778 | [410778-black-veil.json](./410778-black-veil.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
@@ -208,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
+| Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
@@ -219,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
+| Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
