@@ -102,6 +102,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
 | Indicate | 389293 | [389293-indicate.json](./389293-indicate.json) |
+| Indiepocalypse #10 | 362659 | [362659-indiepocalypse-10.json](./362659-indiepocalypse-10.json) |
+| Indiepocalypse #11 | 362660 | [362660-indiepocalypse-11.json](./362660-indiepocalypse-11.json) |
+| Indiepocalypse #12 | 362661 | [362661-indiepocalypse-12.json](./362661-indiepocalypse-12.json) |
+| Indiepocalypse #13 | 362662 | [362662-indiepocalypse-13.json](./362662-indiepocalypse-13.json) |
+| Indiepocalypse #14 | 362663 | [362663-indiepocalypse-14.json](./362663-indiepocalypse-14.json) |
+| Indiepocalypse #15 | 362664 | [362664-indiepocalypse-15.json](./362664-indiepocalypse-15.json) |
+| Indiepocalypse #16 | 362665 | [362665-indiepocalypse-16.json](./362665-indiepocalypse-16.json) |
+| Indiepocalypse #17 | 362666 | [362666-indiepocalypse-17.json](./362666-indiepocalypse-17.json) |
+| Indiepocalypse #18 | 362667 | [362667-indiepocalypse-18.json](./362667-indiepocalypse-18.json) |
+| Indiepocalypse #19 | 362668 | [362668-indiepocalypse-19.json](./362668-indiepocalypse-19.json) |
+| Indiepocalypse #20 | 362669 | [362669-indiepocalypse-20.json](./362669-indiepocalypse-20.json) |
+| Indiepocalypse #21 | 362670 | [362670-indiepocalypse-21.json](./362670-indiepocalypse-21.json) |
+| Indiepocalypse #22 | 362671 | [362671-indiepocalypse-22.json](./362671-indiepocalypse-22.json) |
+| Indiepocalypse #23 | 362672 | [362672-indiepocalypse-23.json](./362672-indiepocalypse-23.json) |
+| Indiepocalypse #24 | 362673 | [362673-indiepocalypse-24.json](./362673-indiepocalypse-24.json) |
+| Indiepocalypse #25 | 362674 | [362674-indiepocalypse-25.json](./362674-indiepocalypse-25.json) |
+| Indiepocalypse #26 | 362675 | [362675-indiepocalypse-26.json](./362675-indiepocalypse-26.json) |
+| Indiepocalypse #27 | 362676 | [362676-indiepocalypse-27.json](./362676-indiepocalypse-27.json) |
+| Indiepocalypse #28 | 362677 | [362677-indiepocalypse-28.json](./362677-indiepocalypse-28.json) |
+| Indiepocalypse #29 | 362678 | [362678-indiepocalypse-29.json](./362678-indiepocalypse-29.json) |
+| Indiepocalypse #30 | 362679 | [362679-indiepocalypse-30.json](./362679-indiepocalypse-30.json) |
+| Indiepocalypse #31 | 362680 | [362680-indiepocalypse-31.json](./362680-indiepocalypse-31.json) |
+| Indiepocalypse #9 | 362658 | [362658-indiepocalypse-9.json](./362658-indiepocalypse-9.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
 | Indigo's Dreams | 403513 | [403513-indigos-dreams.json](./403513-indigos-dreams.json) |
 | Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
