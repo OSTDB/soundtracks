@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
 | Bugdom 2 | 94750 | [94750-bugdom-2.json](./94750-bugdom-2.json) |
+| BugFixer | 406003 | [406003-bugfixer.json](./406003-bugfixer.json) |
 | Bugs Bunny Rabbit Rampage | 3054 | [3054-bugs-bunny-rabbit-rampage.json](./3054-bugs-bunny-rabbit-rampage.json) |
 | Bugs in the Brain | 407931 | [407931-bugs-in-the-brain.json](./407931-bugs-in-the-brain.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
