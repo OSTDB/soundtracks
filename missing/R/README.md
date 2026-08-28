@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: On Another's Sorrow | 412853 | [412853-reverse-1999-on-anothers-sorrow.json](./412853-reverse-1999-on-anothers-sorrow.json) |
 | Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
+| Rewritten | 399515 | [399515-rewritten.json](./399515-rewritten.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
 | Running Train | 400786 | [400786-running-train.json](./400786-running-train.json) |
 | Rush | 95751 | [95751-rush.json](./95751-rush.json) |
+| Rush Rally Collection | 399481 | [399481-rush-rally-collection.json](./399481-rush-rally-collection.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
