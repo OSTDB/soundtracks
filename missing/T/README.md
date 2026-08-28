@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
+| Twinkle Seek | 400758 | [400758-twinkle-seek.json](./400758-twinkle-seek.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
 | Twisted Fusion | 61926 | [61926-twisted-fusion.json](./61926-twisted-fusion.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
