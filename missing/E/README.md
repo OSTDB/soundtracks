@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Origin | 396801 | [396801-empire-origin.json](./396801-empire-origin.json) |
 | Empire: Total War - The Warpath Campaign | 82085 | [82085-empire-total-war-the-warpath-campaign.json](./82085-empire-total-war-the-warpath-campaign.json) |
 | Empluna | 404123 | [404123-empluna.json](./404123-empluna.json) |
+| Empty Space: The Creator | 365513 | [365513-empty-space-the-creator.json](./365513-empty-space-the-creator.json) |
 | Empyrean Defense | 395395 | [395395-empyrean-defense.json](./395395-empyrean-defense.json) |
 | Enchanted Desert | 386615 | [386615-enchanted-desert.json](./386615-enchanted-desert.json) |
 | Enchanted Vampire Defense | 386614 | [386614-enchanted-vampire-defense.json](./386614-enchanted-vampire-defense.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Bundle | 371728 | [371728-energy-bundle.json](./371728-energy-bundle.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
 | Enigma of Hearts | 393349 | [393349-enigma-of-hearts.json](./393349-enigma-of-hearts.json) |
+| Enlarge Your Eggplant | 365485 | [365485-enlarge-your-eggplant.json](./365485-enlarge-your-eggplant.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
 | Enthrallor | 394026 | [394026-enthrallor.json](./394026-enthrallor.json) |
 | Entiled | 399540 | [399540-entiled.json](./399540-entiled.json) |
@@ -146,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
+| Estland Campaign | 365496 | [365496-estland-campaign.json](./365496-estland-campaign.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
 | Eternal Dreams: Poker RPG | 390971 | [390971-eternal-dreams-poker-rpg.json](./390971-eternal-dreams-poker-rpg.json) |
 | Eternity's Child | 15954 | [15954-eternitys-child.json](./15954-eternitys-child.json) |
