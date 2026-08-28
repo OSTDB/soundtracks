@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
+| Reptilarium | 406598 | [406598-reptilarium.json](./406598-reptilarium.json) |
 | Reptilian Rebellion | 33013 | [33013-reptilian-rebellion.json](./33013-reptilian-rebellion.json) |
 | Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Rescue Team 2 | 34430 | [34430-rescue-team-2.json](./34430-rescue-team-2.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
+| Retro Puzzles: Eviva L'arte | 406587 | [406587-retro-puzzles-eviva-larte.json](./406587-retro-puzzles-eviva-larte.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
+| Rocket Man X | 406580 | [406580-rocket-man-x.json](./406580-rocket-man-x.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
