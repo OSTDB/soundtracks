@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Rumble | 400763 | [400763-johnny-rumble.json](./400763-johnny-rumble.json) |
 | Johnny Rumble 2 | 400764 | [400764-johnny-rumble-2.json](./400764-johnny-rumble-2.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
+| Joker on the Spring | 390389 | [390389-joker-on-the-spring.json](./390389-joker-on-the-spring.json) |
 | Jolly Rover | 15056 | [15056-jolly-rover.json](./15056-jolly-rover.json) |
 | Joly Blocks Blast | 402762 | [402762-joly-blocks-blast.json](./402762-joly-blocks-blast.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
