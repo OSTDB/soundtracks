@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desta: The Memories Between | 204376 | [204376-desta-the-memories-between.json](./204376-desta-the-memories-between.json) |
 | Destination: Pluto the VR Experience | 29751 | [29751-destination-pluto-the-vr-experience.json](./29751-destination-pluto-the-vr-experience.json) |
 | Destiny 2: Lightfall | 134832 | [134832-destiny-2-lightfall.json](./134832-destiny-2-lightfall.json) |
+| Destiny 2: Monument of Triumph | 406031 | [406031-destiny-2-monument-of-triumph.json](./406031-destiny-2-monument-of-triumph.json) |
 | Destiny Child | 57546 | [57546-destiny-child.json](./57546-destiny-child.json) |
 | Detached | 16991 | [16991-detached.json](./16991-detached.json) |
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
+| Directors Cut: Train | 406017 | [406017-directors-cut-train.json](./406017-directors-cut-train.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
