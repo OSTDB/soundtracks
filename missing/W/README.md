@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.E.L.D.E.R. | 64546 | [64546-w-e-l-d-e-r.json](./64546-w-e-l-d-e-r.json) |
 | Wabisabi SushiDerby | 379249 | [379249-wabisabi-sushiderby.json](./379249-wabisabi-sushiderby.json) |
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
+| Waffle Games: A Lethal Room Experience | 360379 | [360379-waffle-games-a-lethal-room-experience.json](./360379-waffle-games-a-lethal-room-experience.json) |
 | Wai Wai 3-nin Uchi Mahjong | 394050 | [394050-wai-wai-3-nin-uchi-mahjong.json](./394050-wai-wai-3-nin-uchi-mahjong.json) |
 | Wai Wai Trump Taisen | 394051 | [394051-wai-wai-trump-taisen.json](./394051-wai-wai-trump-taisen.json) |
 | Waifu Clinic | 382051 | [382051-waifu-clinic.json](./382051-waifu-clinic.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winexy | 29799 | [29799-winexy.json](./29799-winexy.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
+| Winged Joust Into Dawn | 360391 | [360391-winged-joust-into-dawn.json](./360391-winged-joust-into-dawn.json) |
 | Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
 | Wings of Fury | 23659 | [23659-wings-of-fury.json](./23659-wings-of-fury.json) |
@@ -220,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Warp | 369981 | [369981-word-warp.json](./369981-word-warp.json) |
 | WordCross | 364334 | [364334-wordcross.json](./364334-wordcross.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
+| Wordscoop with Gelato the Otter | 360411 | [360411-wordscoop-with-gelato-the-otter.json](./360411-wordscoop-with-gelato-the-otter.json) |
 | WordWar | 368328 | [368328-wordwar.json](./368328-wordwar.json) |
 | Workshop Works | 367256 | [367256-workshop-works.json](./367256-workshop-works.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
