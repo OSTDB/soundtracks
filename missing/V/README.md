@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
 | Vesuvius | 400809 | [400809-vesuvius.json](./400809-vesuvius.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
+| Vial's Verdict | 396820 | [396820-vials-verdict.json](./396820-vials-verdict.json) |
 | Vials: ASMR Sand Sort Puzzle | 412155 | [412155-vials-asmr-sand-sort-puzzle.json](./412155-vials-asmr-sand-sort-puzzle.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
 | Vigilant Paradise | 412158 | [412158-vigilant-paradise.json](./412158-vigilant-paradise.json) |
