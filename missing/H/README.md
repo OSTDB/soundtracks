@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HavenCraft | 404111 | [404111-havencraft.json](./404111-havencraft.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
+| Haze | 399444 | [399444-haze.json](./399444-haze.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headcutter | 404100 | [404100-headcutter.json](./404100-headcutter.json) |
 | Headliner | 55422 | [55422-headliner.json](./55422-headliner.json) |
