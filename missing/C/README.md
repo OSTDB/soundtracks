@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
 | Call of Elmore | 403507 | [403507-call-of-elmore.json](./403507-call-of-elmore.json) |
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
+| Call to Arms: Gates of Hell - Finest Hour | 387188 | [387188-call-to-arms-gates-of-hell-finest-hour.json](./387188-call-to-arms-gates-of-hell-finest-hour.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
@@ -328,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
+| Crazy Cats Survivors | 387201 | [387201-crazy-cats-survivors.json](./387201-crazy-cats-survivors.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
+| Cumbersome | 387216 | [387216-cumbersome.json](./387216-cumbersome.json) |
 | Cup Heroes: Champion's Starter Pack | 394746 | [394746-cup-heroes-champions-starter-pack.json](./394746-cup-heroes-champions-starter-pack.json) |
 | Cup Or Die | 395436 | [395436-cup-or-die.json](./395436-cup-or-die.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
