@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last House Alive: Zombie Defense | 372307 | [372307-last-house-alive-zombie-defense.json](./372307-last-house-alive-zombie-defense.json) |
 | Last Knight: Rogue Rider Edition | 16816 | [16816-last-knight-rogue-rider-edition.json](./16816-last-knight-rogue-rider-edition.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
+| Last Shift | 368863 | [368863-last-shift.json](./368863-last-shift.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
 | Little Einsteins Blast Off Learning Laptop | 378661 | [378661-little-einsteins-blast-off-learning-laptop.json](./378661-little-einsteins-blast-off-learning-laptop.json) |
 | Little Fishing Trip | 383810 | [383810-little-fishing-trip.json](./383810-little-fishing-trip.json) |
+| Little Gods of Ancient Echoes | 368834 | [368834-little-gods-of-ancient-echoes.json](./368834-little-gods-of-ancient-echoes.json) |
 | Little Immortal Cultivator | 391477 | [391477-little-immortal-cultivator.json](./391477-little-immortal-cultivator.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: Enhanced Edition - Complete Edition | 373396 | [373396-little-nightmares-enhanced-edition-complete-edition.json](./373396-little-nightmares-enhanced-edition-complete-edition.json) |
