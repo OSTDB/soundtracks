@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hee-Hee Horror | 410779 | [410779-hee-hee-horror.json](./410779-hee-hee-horror.json) |
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
+| Helbreath USA | 367773 | [367773-helbreath-usa.json](./367773-helbreath-usa.json) |
 | Helicopter Rescue Simulator | 411445 | [411445-helicopter-rescue-simulator.json](./411445-helicopter-rescue-simulator.json) |
 | Hell Architect: Survivors | 388568 | [388568-hell-architect-survivors.json](./388568-hell-architect-survivors.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibikino-san-chi ha Eroge-ya-san! | 396043 | [396043-hibikino-san-chi-ha-eroge-ya-san.json](./396043-hibikino-san-chi-ha-eroge-ya-san.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
+| Hidden Sin 8 | 367806 | [367806-hidden-sin-8.json](./367806-hidden-sin-8.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | High on Life VR | 413521 | [413521-high-on-life-vr.json](./413521-high-on-life-vr.json) |
