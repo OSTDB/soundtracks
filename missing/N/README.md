@@ -102,9 +102,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
+| Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
 | Not Tonight 2 | 169158 | [169158-not-tonight-2.json](./169158-not-tonight-2.json) |
+| Notary Block | 414999 | [414999-notary-block.json](./414999-notary-block.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
