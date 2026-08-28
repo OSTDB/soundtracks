@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
+| Battle Food Mania | 383238 | [383238-battle-food-mania.json](./383238-battle-food-mania.json) |
 | battle for darkness | 390962 | [390962-battle-for-darkness.json](./390962-battle-for-darkness.json) |
 | Battle Meating | 414956 | [414956-battle-meating.json](./414956-battle-meating.json) |
 | Battle Narf | 394025 | [394025-battle-narf.json](./394025-battle-narf.json) |
@@ -122,11 +123,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
+| Being Food | 383237 | [383237-being-food.json](./383237-being-food.json) |
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
 | Below | 383834 | [383834-below.json](./383834-below.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
+| Ben Chandler: Paranormal Investigator | 383241 | [383241-ben-chandler-paranormal-investigator.json](./383241-ben-chandler-paranormal-investigator.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
 | Bend2 | 397553 | [397553-bend2.json](./397553-bend2.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
+| Bewitching Gears | 383208 | [383208-bewitching-gears.json](./383208-bewitching-gears.json) |
 | Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
 | Beyond Contact | 169993 | [169993-beyond-contact.json](./169993-beyond-contact.json) |
 | Beyond Enemy Lines | 31447 | [31447-beyond-enemy-lines.json](./31447-beyond-enemy-lines.json) |
@@ -147,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
 | BFDI Pop! | 402786 | [402786-bfdi-pop.json](./402786-bfdi-pop.json) |
+| Bias Quartet: Additional Content | 383261 | [383261-bias-quartet-additional-content.json](./383261-bias-quartet-additional-content.json) |
 | Bibimba wo Mazesaseruna | 384959 | [384959-bibimba-wo-mazesaseruna.json](./384959-bibimba-wo-mazesaseruna.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
@@ -313,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
 | Break Shoot | 390416 | [390416-break-shoot.json](./390416-break-shoot.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
+| Breaking Armor | 383248 | [383248-breaking-armor.json](./383248-breaking-armor.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
