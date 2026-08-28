@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
 | Cat a Loop | 414995 | [414995-cat-a-loop.json](./414995-cat-a-loop.json) |
 | Cat Chaos | 392042 | [392042-cat-chaos.json](./392042-cat-chaos.json) |
+| Cat Chess | 390420 | [390420-cat-chess.json](./390420-cat-chess.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
@@ -250,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Desert Storm II: Back to Baghdad | 3864 | [3864-conflict-desert-storm-ii-back-to-baghdad.json](./3864-conflict-desert-storm-ii-back-to-baghdad.json) |
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
+| Conquerline | 390408 | [390408-conquerline.json](./390408-conquerline.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
 | Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
@@ -329,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
+| Crimson Banner: War of Liberation | 390406 | [390406-crimson-banner-war-of-liberation.json](./390406-crimson-banner-war-of-liberation.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Crimson Loop | 402794 | [402794-crimson-loop.json](./402794-crimson-loop.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
@@ -343,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
 | Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
+| CRT: Corner Right There! | 390412 | [390412-crt-corner-right-there.json](./390412-crt-corner-right-there.json) |
 | Crucible United Between Eons | 402800 | [402800-crucible-united-between-eons.json](./402800-crucible-united-between-eons.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Cruise Adventure: Hidden Journey - Collector's Edition | 413557 | [413557-cruise-adventure-hidden-journey-collectors-edition.json](./413557-cruise-adventure-hidden-journey-collectors-edition.json) |
@@ -379,7 +383,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City: Science Crime Mystery | 411449 | [411449-cyber-city-science-crime-mystery.json](./411449-cyber-city-science-crime-mystery.json) |
 | Cyber Demon Protocol | 398888 | [398888-cyber-demon-protocol.json](./398888-cyber-demon-protocol.json) |
 | Cyber Jolt | 29745 | [29745-cyber-jolt.json](./29745-cyber-jolt.json) |
+| Cyber Saber Pro | 390397 | [390397-cyber-saber-pro.json](./390397-cyber-saber-pro.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
 | Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
+| Cypher Dungeon | 390398 | [390398-cypher-dungeon.json](./390398-cypher-dungeon.json) |
