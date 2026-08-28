@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Rollergirl | 395398 | [395398-hyper-rollergirl.json](./395398-hyper-rollergirl.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
+| Hypernet Explorer | 381465 | [381465-hypernet-explorer.json](./381465-hypernet-explorer.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
 | HyperRouter | 385995 | [385995-hyperrouter.json](./385995-hyperrouter.json) |
 | Hyperspace Pinball | 22785 | [22785-hyperspace-pinball.json](./22785-hyperspace-pinball.json) |
