@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
+| Gacha Story | 375663 | [375663-gacha-story.json](./375663-gacha-story.json) |
 | Gaia Beyond | 86418 | [86418-gaia-beyond.json](./86418-gaia-beyond.json) |
 | Gaionin War Don't Combine | 379212 | [379212-gaionin-war-dont-combine.json](./379212-gaionin-war-dont-combine.json) |
 | Gakuen Tokusou Bakushion | 386048 | [386048-gakuen-tokusou-bakushion.json](./386048-gakuen-tokusou-bakushion.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
+| God Sacrifice | 375657 | [375657-god-sacrifice.json](./375657-god-sacrifice.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
 | Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Class Melee 2 | 36014 | [36014-grand-class-melee-2.json](./36014-grand-class-melee-2.json) |
 | Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
+| Grand Sands | 375676 | [375676-grand-sands.json](./375676-grand-sands.json) |
 | Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle | 93901 | [93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json](./93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json) |
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
 | Grand Theft Auto: San Andreas - The Nextgen Edition | 392022 | [392022-grand-theft-auto-san-andreas-the-nextgen-edition.json](./392022-grand-theft-auto-san-andreas-the-nextgen-edition.json) |
