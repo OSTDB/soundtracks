@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samago | 374460 | [374460-samago.json](./374460-samago.json) |
 | Samba del Tuerto | 414188 | [414188-samba-del-tuerto.json](./414188-samba-del-tuerto.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
+| Samuel Prince Attorney at Law: Chapter 2 | 365515 | [365515-samuel-prince-attorney-at-law-chapter-2.json](./365515-samuel-prince-attorney-at-law-chapter-2.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
 | Samurai of Hyuga | 31423 | [31423-samurai-of-hyuga.json](./31423-samurai-of-hyuga.json) |
 | Samurai of Hyuga Book 2 | 31424 | [31424-samurai-of-hyuga-book-2.json](./31424-samurai-of-hyuga-book-2.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
+| Sempai no Namida | 365517 | [365517-sempai-no-namida.json](./365517-sempai-no-namida.json) |
 | Senatordle | 386597 | [386597-senatordle.json](./386597-senatordle.json) |
 | Senchu | 395438 | [395438-senchu.json](./395438-senchu.json) |
 | Sengodai | 381458 | [381458-sengodai.json](./381458-sengodai.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | Silver Lines | 388592 | [388592-silver-lines.json](./388592-silver-lines.json) |
+| SimCity 2000 | 365476 | [365476-simcity-2000.json](./365476-simcity-2000.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Similariddle | 392051 | [392051-similariddle.json](./392051-similariddle.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
@@ -363,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
 | Smash Dizzy | 400769 | [400769-smash-dizzy.json](./400769-smash-dizzy.json) |
 | Smash Melee | 400768 | [400768-smash-melee.json](./400768-smash-melee.json) |
+| Smash Runners | 365507 | [365507-smash-runners.json](./365507-smash-runners.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Smile and Play | 405991 | [405991-smile-and-play.json](./405991-smile-and-play.json) |
@@ -535,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spooky Spins Deluxe | 368849 | [368849-spooky-spins-deluxe.json](./368849-spooky-spins-deluxe.json) |
+| Sport Animals | 365522 | [365522-sport-animals.json](./365522-sport-animals.json) |
 | Spot's Busy Day | 378662 | [378662-spots-busy-day.json](./378662-spots-busy-day.json) |
 | SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
 | Spring and Autumn Chronicles | 371113 | [371113-spring-and-autumn-chronicles.json](./371113-spring-and-autumn-chronicles.json) |
@@ -602,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargazer | 367234 | [367234-stargazer.json](./367234-stargazer.json) |
 | Starlight | 126311 | [126311-starlight.json](./126311-starlight.json) |
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
+| StarNomads | 365489 | [365489-starnomads.json](./365489-starnomads.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
 | Starship Corporation | 14904 | [14904-starship-corporation.json](./14904-starship-corporation.json) |
