@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba Is You | 76638 | [76638-baba-is-you.json](./76638-baba-is-you.json) |
 | Babel Rising | 10017 | [10017-babel-rising.json](./10017-babel-rising.json) |
 | Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
+| Back in the Swamp | 379223 | [379223-back-in-the-swamp.json](./379223-back-in-the-swamp.json) |
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
+| Battle Demon Kirsten | 379205 | [379205-battle-demon-kirsten.json](./379205-battle-demon-kirsten.json) |
 | Battle Food Mania | 383238 | [383238-battle-food-mania.json](./383238-battle-food-mania.json) |
 | battle for darkness | 390962 | [390962-battle-for-darkness.json](./390962-battle-for-darkness.json) |
 | Battle Meating | 414956 | [414956-battle-meating.json](./414956-battle-meating.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
 | Beta Kafe: Write Your Love Story | 391496 | [391496-beta-kafe-write-your-love-story.json](./391496-beta-kafe-write-your-love-story.json) |
+| Betra Endemic | 379206 | [379206-betra-endemic.json](./379206-betra-endemic.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
@@ -193,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Flux | 15281 | [15281-bit-trip-flux.json](./15281-bit-trip-flux.json) |
 | Bit.Trip Runner | 6246 | [6246-bit-trip-runner.json](./6246-bit-trip-runner.json) |
 | Bit.Trip Void | 15386 | [15386-bit-trip-void.json](./15386-bit-trip-void.json) |
+| Bitch Family on the Village | 379208 | [379208-bitch-family-on-the-village.json](./379208-bitch-family-on-the-village.json) |
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | Bitku | 34453 | [34453-bitku.json](./34453-bitku.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
