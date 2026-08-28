@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy: Classic Dice Game | 86683 | [86683-yatzy-classic-dice-game.json](./86683-yatzy-classic-dice-game.json) |
 | Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
 | YGOMaster-TCG | 399455 | [399455-ygomaster-tcg.json](./399455-ygomaster-tcg.json) |
+| Yì Shìjiè Wùyǔ | 372322 | [372322-yi-shijie-wuyu.json](./372322-yi-shijie-wuyu.json) |
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
 | Yodelee Golf | 402207 | [402207-yodelee-golf.json](./402207-yodelee-golf.json) |
