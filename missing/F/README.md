@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
+| Farthest Frontier: Cats and Dogs | 400113 | [400113-farthest-frontier-cats-and-dogs.json](./400113-farthest-frontier-cats-and-dogs.json) |
 | Fascist | 406612 | [406612-fascist.json](./406612-fascist.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
+| Femboy Futa Mania | 400115 | [400115-femboy-futa-mania.json](./400115-femboy-futa-mania.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
 | Fenrir | 406578 | [406578-fenrir.json](./406578-fenrir.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Cats | 407935 | [407935-find-the-cats.json](./407935-find-the-cats.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
+| Firby 2 | 400103 | [400103-firby-2.json](./400103-firby-2.json) |
 | Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
 | Fire Department 3 | 22630 | [22630-fire-department-3.json](./22630-fire-department-3.json) |
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
