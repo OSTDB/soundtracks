@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| V tylu vraga 2: Bratya po oruzhiyu | 393302 | [393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V-Racer Hoverbike | 95577 | [95577-v-racer-hoverbike.json](./95577-v-racer-hoverbike.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
@@ -24,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
+| Veiled Shadows | 393309 | [393309-veiled-shadows.json](./393309-veiled-shadows.json) |
 | VenusBlood Frontier International | 126779 | [126779-venusblood-frontier-international.json](./126779-venusblood-frontier-international.json) |
 | Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
