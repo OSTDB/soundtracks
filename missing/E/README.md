@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
+| Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
