@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| S.N.I.P.E.R.: Hunter Scope - Add-on Edition | 402184 | [402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json](./402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json) |
 | S.p.l.i.t | 342566 | [342566-s-p-l-i-t.json](./342566-s-p-l-i-t.json) |
 | S.W.I.N.E. HD Remaster | 114758 | [114758-s-w-i-n-e-hd-remaster.json](./114758-s-w-i-n-e-hd-remaster.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 27879 | [27879-sabans-mighty-morphin-power-rangers-mega-battle.json](./27879-sabans-mighty-morphin-power-rangers-mega-battle.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
+| Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
@@ -201,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
 | Sky Sword Strategy | 403512 | [403512-sky-sword-strategy.json](./403512-sky-sword-strategy.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
+| Skyline Bowling: Split Edition | 402182 | [402182-skyline-bowling-split-edition.json](./402182-skyline-bowling-split-edition.json) |
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
@@ -244,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
+| Snooker Fever: Super Edition | 402183 | [402183-snooker-fever-super-edition.json](./402183-snooker-fever-super-edition.json) |
 | Snow Moto Racing 3D | 63468 | [63468-snow-moto-racing-3d.json](./63468-snow-moto-racing-3d.json) |
 | Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
@@ -279,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
+| Soothe | 402164 | [402164-soothe.json](./402164-soothe.json) |
 | Sopwith | 406015 | [406015-sopwith.json](./406015-sopwith.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | Sore | 407925 | [407925-sore.json](./407925-sore.json) |
@@ -461,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
+| Subway Simulator: Underground Train - Remaster | 402198 | [402198-subway-simulator-underground-train-remaster.json](./402198-subway-simulator-underground-train-remaster.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
@@ -479,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunfall '80 | 412133 | [412133-sunfall-80.json](./412133-sunfall-80.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
+| Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
