@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weeb Store Simulator: Supermarket Together | 388610 | [388610-weeb-store-simulator-supermarket-together.json](./388610-weeb-store-simulator-supermarket-together.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
+| WeedEx: Drug Express Delivery | 373913 | [373913-weedex-drug-express-delivery.json](./373913-weedex-drug-express-delivery.json) |
 | WEJbA: We Exist Just to be Alive | 398207 | [398207-wejba-we-exist-just-to-be-alive.json](./398207-wejba-we-exist-just-to-be-alive.json) |
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretch: Divine Ascent - Premier Weapon Skin Collection | 398871 | [398871-wretch-divine-ascent-premier-weapon-skin-collection.json](./398871-wretch-divine-ascent-premier-weapon-skin-collection.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
+| Wuli Sandbox | 373949 | [373949-wuli-sandbox.json](./373949-wuli-sandbox.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
 | Wushu Chronicles | 107801 | [107801-wushu-chronicles.json](./107801-wushu-chronicles.json) |
 | Wuthering Waves: The Dream Not Dreamed | 405403 | [405403-wuthering-waves-the-dream-not-dreamed.json](./405403-wuthering-waves-the-dream-not-dreamed.json) |
