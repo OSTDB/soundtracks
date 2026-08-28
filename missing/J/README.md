@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | Joy Piano | 396109 | [396109-joy-piano.json](./396109-joy-piano.json) |
+| JoyJoyDungeon | 359256 | [359256-joyjoydungeon.json](./359256-joyjoydungeon.json) |
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
 | JSON: VR Sandbox | 394706 | [394706-json-vr-sandbox.json](./394706-json-vr-sandbox.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
@@ -99,4 +100,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
+| JustRun | 359239 | [359239-justrun.json](./359239-justrun.json) |
 | Juushinden: Ultimate Beast Battlers | 382623 | [382623-juushinden-ultimate-beast-battlers.json](./382623-juushinden-ultimate-beast-battlers.json) |
