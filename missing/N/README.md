@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K11 | 5070 | [5070-nhl-2k11.json](./5070-nhl-2k11.json) |
 | NHL Hitz Pro | 4048 | [4048-nhl-hitz-pro.json](./4048-nhl-hitz-pro.json) |
 | NHL Slapshot | 5071 | [5071-nhl-slapshot.json](./5071-nhl-slapshot.json) |
+| Nibaa | 380264 | [380264-nibaa.json](./380264-nibaa.json) |
 | Nice Screams at the Funfair | 392045 | [392045-nice-screams-at-the-funfair.json](./392045-nice-screams-at-the-funfair.json) |
 | Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
