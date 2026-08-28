@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
 | Dr.Clone | 390419 | [390419-dr-clone.json](./390419-dr-clone.json) |
 | Dracu-Riot! | 380284 | [380284-dracu-riot.json](./380284-dracu-riot.json) |
+| Dracula: Crimson Apostle | 361543 | [361543-dracula-crimson-apostle.json](./361543-dracula-crimson-apostle.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
 | Dracula: The Disciple | 400793 | [400793-dracula-the-disciple.json](./400793-dracula-the-disciple.json) |
 | Draft Day Sports Pro Basketball 4 | 17947 | [17947-draft-day-sports-pro-basketball-4.json](./17947-draft-day-sports-pro-basketball-4.json) |
