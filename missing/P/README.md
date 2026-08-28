@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Winning Post | 63590 | [63590-pachi-slot-winning-post.json](./63590-pachi-slot-winning-post.json) |
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
+| Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
 | Painkiller: Hell & Damnation - The Clock Strikes Meat Night | 20849 | [20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json](./20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
 | Permute | 29859 | [29859-permute.json](./29859-permute.json) |
+| Perpetual Fear | 408646 | [408646-perpetual-fear.json](./408646-perpetual-fear.json) |
 | Persian Nights: Sands of Wonders | 38040 | [38040-persian-nights-sands-of-wonders.json](./38040-persian-nights-sands-of-wonders.json) |
 | Persona 2: Innocent Sin | 11453 | [11453-persona-2-innocent-sin.json](./11453-persona-2-innocent-sin.json) |
 | Persona 3 | 9577 | [9577-persona-3.json](./9577-persona-3.json) |
