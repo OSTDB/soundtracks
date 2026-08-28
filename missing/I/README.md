@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
+| Iron Guard: Day Zero | 405385 | [405385-iron-guard-day-zero.json](./405385-iron-guard-day-zero.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
