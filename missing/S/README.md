@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scoop 'n Shoot | 410148 | [410148-scoop-n-shoot.json](./410148-scoop-n-shoot.json) |
+| SCP Extraction Protocol | 396115 | [396115-scp-extraction-protocol.json](./396115-scp-extraction-protocol.json) |
 | SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
 | SCP: Mr. Jupiter | 407919 | [407919-scp-mr-jupiter.json](./407919-scp-mr-jupiter.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Seventh Mansion: The First Escape | 403505 | [403505-seventh-mansion-the-first-escape.json](./403505-seventh-mansion-the-first-escape.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
+| SeverSoul Xookeeper | 396097 | [396097-seversoul-xookeeper.json](./396097-seversoul-xookeeper.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
 | SinaRun | 17868 | [17868-sinarun.json](./17868-sinarun.json) |
 | Sindikat | 407936 | [407936-sindikat.json](./407936-sindikat.json) |
+| Sinebomb | 396048 | [396048-sinebomb.json](./396048-sinebomb.json) |
 | SingStar: '90s | 15165 | [15165-singstar-90s.json](./15165-singstar-90s.json) |
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
@@ -251,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Your Day | 414969 | [414969-smile-your-day.json](./414969-smile-your-day.json) |
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
 | Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
+| Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
@@ -279,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
+| Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
@@ -355,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Nut: Christmas is Coming | 89522 | [89522-spin-the-nut-christmas-is-coming.json](./89522-spin-the-nut-christmas-is-coming.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
+| Spire of Chaos: Arcana Unleashed | 396085 | [396085-spire-of-chaos-arcana-unleashed.json](./396085-spire-of-chaos-arcana-unleashed.json) |
 | Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
 | Spirit Ritual | 413537 | [413537-spirit-ritual.json](./413537-spirit-ritual.json) |
@@ -601,5 +607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
+| SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
