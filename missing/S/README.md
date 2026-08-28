@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Photo Africa: Wild Earth | 23779 | [23779-safari-photo-africa-wild-earth.json](./23779-safari-photo-africa-wild-earth.json) |
 | Saga & Seeker | 379239 | [379239-saga-and-seeker.json](./379239-saga-and-seeker.json) |
 | SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
+| Sage | 360403 | [360403-sage.json](./360403-sage.json) |
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
+| Session: Skate Sim - Supporter Pack | 360383 | [360383-session-skate-sim-supporter-pack.json](./360383-session-skate-sim-supporter-pack.json) |
 | Session: Skate Sim - Throwdowns Update | 400794 | [400794-session-skate-sim-throwdowns-update.json](./400794-session-skate-sim-throwdowns-update.json) |
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
 | Settle or Sweep | 412861 | [412861-settle-or-sweep.json](./412861-settle-or-sweep.json) |
@@ -204,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shibora Renkare Keiyaku: Hataraku Otona no Onee-san to H na Rental Kareshi Seikatsu | 410785 | [410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json](./410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
+| Shikiyoku: Teru Yumemi in the Nightmare | 360440 | [360440-shikiyoku-teru-yumemi-in-the-nightmare.json](./360440-shikiyoku-teru-yumemi-in-the-nightmare.json) |
 | Shin Megami Tensei | 21074 | [21074-shin-megami-tensei.json](./21074-shin-megami-tensei.json) |
 | Shin Megami Tensei II | 23879 | [23879-shin-megami-tensei-ii.json](./23879-shin-megami-tensei-ii.json) |
 | Shin Megami Tensei: Devil Summoner | 23088 | [23088-shin-megami-tensei-devil-summoner.json](./23088-shin-megami-tensei-devil-summoner.json) |
@@ -651,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Assault | 375618 | [375618-stealth-assault.json](./375618-stealth-assault.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
+| Steel Empire Chronicle | 360402 | [360402-steel-empire-chronicle.json](./360402-steel-empire-chronicle.json) |
 | Steel Rain Complete | 367243 | [367243-steel-rain-complete.json](./367243-steel-rain-complete.json) |
 | Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
 | SteelMechBattle | 371714 | [371714-steelmechbattle.json](./371714-steelmechbattle.json) |
