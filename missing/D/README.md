@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Peak | 44282 | [44282-demon-peak.json](./44282-demon-peak.json) |
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
+| Depleted | 395449 | [395449-depleted.json](./395449-depleted.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
@@ -321,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Skips | 395434 | [395434-dragon-skips.json](./395434-dragon-skips.json) |
 | Dragon Soul | 409481 | [409481-dragon-soul.json](./409481-dragon-soul.json) |
 | Dragon Village 3 | 408682 | [408682-dragon-village-3.json](./408682-dragon-village-3.json) |
 | Dragon: The Bruce Lee Story | 398885 | [398885-dragon-the-bruce-lee-story.json](./398885-dragon-the-bruce-lee-story.json) |
