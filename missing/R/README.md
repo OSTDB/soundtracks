@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Quest | 384387 | [384387-recycle-quest.json](./384387-recycle-quest.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Carnation | 398860 | [398860-red-carnation.json](./398860-red-carnation.json) |
+| Red Clover Case Files | 360949 | [360949-red-clover-case-files.json](./360949-red-clover-case-files.json) |
 | Red Earth | 39315 | [39315-red-earth.json](./39315-red-earth.json) |
 | Red Faction II | 4083 | [4083-red-faction-ii.json](./4083-red-faction-ii.json) |
 | Red Kite | 407985 | [407985-red-kite.json](./407985-red-kite.json) |
@@ -197,6 +198,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
 | Riff Hammer | 389908 | [389908-riff-hammer.json](./389908-riff-hammer.json) |
+| Rift of the NecroDancer: Everhood - "Feisty Flowers" | 360941 | [360941-rift-of-the-necrodancer-everhood-feisty-flowers.json](./360941-rift-of-the-necrodancer-everhood-feisty-flowers.json) |
+| Rift of the NecroDancer: Everhood - "Powers of Destruction" | 360939 | [360939-rift-of-the-necrodancer-everhood-powers-of-destruction.json](./360939-rift-of-the-necrodancer-everhood-powers-of-destruction.json) |
+| Rift of the NecroDancer: Everhood - "Revenge" | 360942 | [360942-rift-of-the-necrodancer-everhood-revenge.json](./360942-rift-of-the-necrodancer-everhood-revenge.json) |
+| Rift of the NecroDancer: Everhood - "The Final Battle" | 360943 | [360943-rift-of-the-necrodancer-everhood-the-final-battle.json](./360943-rift-of-the-necrodancer-everhood-the-final-battle.json) |
+| Rift of the NecroDancer: Everhood - "Why Oh You Are LOVE" | 360940 | [360940-rift-of-the-necrodancer-everhood-why-oh-you-are-love.json](./360940-rift-of-the-necrodancer-everhood-why-oh-you-are-love.json) |
 | Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
 | Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
 | RiftChess | 383846 | [383846-riftchess.json](./383846-riftchess.json) |
