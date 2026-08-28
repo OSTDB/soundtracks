@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
 | Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
+| DragonSword: Awakening | 398217 | [398217-dragonsword-awakening.json](./398217-dragonsword-awakening.json) |
 | Drained Creatures | 404102 | [404102-drained-creatures.json](./404102-drained-creatures.json) |
 | Drakan: The Ancients' Gates | 7577 | [7577-drakan-the-ancients-gates.json](./7577-drakan-the-ancients-gates.json) |
 | Drake & Josh: Talent Showdown | 7971 | [7971-drake-and-josh-talent-showdown.json](./7971-drake-and-josh-talent-showdown.json) |
