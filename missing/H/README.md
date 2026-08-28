@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness 2 | 397536 | [397536-happiness-2.json](./397536-happiness-2.json) |
 | Happiness Laboratory | 395402 | [395402-happiness-laboratory.json](./395402-happiness-laboratory.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
+| Happy Piggy | 370506 | [370506-happy-piggy.json](./370506-happy-piggy.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
