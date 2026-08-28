@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay&Cats | 407264 | [407264-clay-and-cats.json](./407264-clay-and-cats.json) |
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
+| Click to CIV | 373367 | [373367-click-to-civ.json](./373367-click-to-civ.json) |
 | Click to Win 5000 Achievement | 410766 | [410766-click-to-win-5000-achievement.json](./410766-click-to-win-5000-achievement.json) |
 | Clickertale | 381433 | [381433-clickertale.json](./381433-clickertale.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
+| Cloud Roll | 373382 | [373382-cloud-roll.json](./373382-cloud-roll.json) |
 | Cloudsphere | 400114 | [400114-cloudsphere.json](./400114-cloudsphere.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
 | Cloverpit Gamble | 404725 | [404725-cloverpit-gamble.json](./404725-cloverpit-gamble.json) |
