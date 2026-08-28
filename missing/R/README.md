@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raycatcher | 14954 | [14954-raycatcher.json](./14954-raycatcher.json) |
 | Raygun Commando VR | 29896 | [29896-raygun-commando-vr.json](./29896-raygun-commando-vr.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
+| Rayman 3 Havoc Reignited | 370536 | [370536-rayman-3-havoc-reignited.json](./370536-rayman-3-havoc-reignited.json) |
 | Rayman Origins: Enhanced Edition | 403490 | [403490-rayman-origins-enhanced-edition.json](./403490-rayman-origins-enhanced-edition.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Rescue Team 2 | 34430 | [34430-rescue-team-2.json](./34430-rescue-team-2.json) |
 | Rescue Team 3 | 34431 | [34431-rescue-team-3.json](./34431-rescue-team-3.json) |
+| Rescuers2019 | 370510 | [370510-rescuers2019.json](./370510-rescuers2019.json) |
 | Resequence: The Orchard | 379196 | [379196-resequence-the-orchard.json](./379196-resequence-the-orchard.json) |
 | Resette's Prescription: Book of Memory, Swaying Scale | 32976 | [32976-resettes-prescription-book-of-memory-swaying-scale.json](./32976-resettes-prescription-book-of-memory-swaying-scale.json) |
 | Resident Evil 3: Escape Run | 382052 | [382052-resident-evil-3-escape-run.json](./382052-resident-evil-3-escape-run.json) |
@@ -163,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: On Another's Sorrow | 412853 | [412853-reverse-1999-on-anothers-sorrow.json](./412853-reverse-1999-on-anothers-sorrow.json) |
 | Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
+| Rewrite: Oka-ken Katsudou Kiroku Gaiden | 370522 | [370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json](./370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json) |
 | Rewritten | 399515 | [399515-rewritten.json](./399515-rewritten.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
@@ -300,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
 | Run and Jump | 86644 | [86644-run-and-jump.json](./86644-run-and-jump.json) |
+| Run Eternal Depths | 370529 | [370529-run-eternal-depths.json](./370529-run-eternal-depths.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
