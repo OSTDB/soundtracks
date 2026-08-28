@@ -186,6 +186,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowGems | 401410 | [401410-meowgems.json](./401410-meowgems.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
+| Merchant Guilds | 386008 | [386008-merchant-guilds.json](./386008-merchant-guilds.json) |
+| Merchant Heroes | 386006 | [386006-merchant-heroes.json](./386006-merchant-heroes.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Name is Addiction | 65779 | [65779-my-name-is-addiction.json](./65779-my-name-is-addiction.json) |
 | My NEET Life | 387211 | [387211-my-neet-life.json](./387211-my-neet-life.json) |
+| My New Paranormal Life | 386053 | [386053-my-new-paranormal-life.json](./386053-my-new-paranormal-life.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
 | My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
 | My Super Tower 2 | 29847 | [29847-my-super-tower-2.json](./29847-my-super-tower-2.json) |
