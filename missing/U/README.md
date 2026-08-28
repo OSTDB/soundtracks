@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Ubiquitous | 384364 | [384364-ubiquitous.json](./384364-ubiquitous.json) |
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
+| Udon! Road to Mastery | 373395 | [373395-udon-road-to-mastery.json](./373395-udon-road-to-mastery.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Uki Uki Tsuri Tengoku: Ningyo Densetsu no Nazo | 384942 | [384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json](./384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json) |
