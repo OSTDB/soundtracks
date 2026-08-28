@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Shop Simulator | 374494 | [374494-wasteland-shop-simulator.json](./374494-wasteland-shop-simulator.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
+| Watch the Cornline VR | 366048 | [366048-watch-the-cornline-vr.json](./366048-watch-the-cornline-vr.json) |
 | Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
 | Watcher's Eye | 371089 | [371089-watchers-eye.json](./371089-watchers-eye.json) |
 | Wave Leads You... | 379214 | [379214-wave-leads-you.json](./379214-wave-leads-you.json) |
