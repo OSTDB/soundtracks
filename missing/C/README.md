@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudsphere | 400114 | [400114-cloudsphere.json](./400114-cloudsphere.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
 | Cloverpit Gamble | 404725 | [404725-cloverpit-gamble.json](./404725-cloverpit-gamble.json) |
+| Clown of Duty | 368859 | [368859-clown-of-duty.json](./368859-clown-of-duty.json) |
 | Clown Pit | 404727 | [404727-clown-pit.json](./404727-clown-pit.json) |
 | Clown's Lair | 413565 | [413565-clowns-lair.json](./413565-clowns-lair.json) |
 | Club Life | 22211 | [22211-club-life.json](./22211-club-life.json) |
@@ -473,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cult of the Yellow King | 369973 | [369973-cult-of-the-yellow-king.json](./369973-cult-of-the-yellow-king.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
+| Cultic: Chapter 2 | 368841 | [368841-cultic-chapter-2.json](./368841-cultic-chapter-2.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
 | Cumbersome | 387216 | [387216-cumbersome.json](./387216-cumbersome.json) |
 | Cup Heroes: Champion's Starter Pack | 394746 | [394746-cup-heroes-champions-starter-pack.json](./394746-cup-heroes-champions-starter-pack.json) |
