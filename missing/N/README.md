@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Crows | 290671 | [290671-night-crows.json](./290671-night-crows.json) |
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
+| Night Rolls Cozy Store | 407211 | [407211-night-rolls-cozy-store.json](./407211-night-rolls-cozy-store.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
