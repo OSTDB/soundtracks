@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
+| Daisy Goes to Slime Castle for Tea | 387203 | [387203-daisy-goes-to-slime-castle-for-tea.json](./387203-daisy-goes-to-slime-castle-for-tea.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
 | Damn Exam | 405427 | [405427-damn-exam.json](./405427-damn-exam.json) |
 | Damned Nation Reborn | 35856 | [35856-damned-nation-reborn.json](./35856-damned-nation-reborn.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
+| Deathmark | 387248 | [387248-deathmark.json](./387248-deathmark.json) |
 | Deathstate | 34457 | [34457-deathstate.json](./34457-deathstate.json) |
 | Deathwave | 32940 | [32940-deathwave.json](./32940-deathwave.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
@@ -301,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
 | Doom 3 | 260028 | [260028-doom-3.json](./260028-doom-3.json) |
 | Doom 3: Resurrection of Evil | 672 | [672-doom-3-resurrection-of-evil.json](./672-doom-3-resurrection-of-evil.json) |
+| Doom but its Half-Life 2 | 387186 | [387186-doom-but-its-half-life-2.json](./387186-doom-but-its-half-life-2.json) |
 | Doom II | 313164 | [313164-doom-ii.json](./313164-doom-ii.json) |
 | Doom VFR | 37031 | [37031-doom-vfr.json](./37031-doom-vfr.json) |
 | Doomed | 102285 | [102285-doomed.json](./102285-doomed.json) |
@@ -406,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DroPlaying! | 397539 | [397539-droplaying.json](./397539-droplaying.json) |
 | Drowned God | 400775 | [400775-drowned-god.json](./400775-drowned-god.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
+| Drug Farmer Simulator | 387183 | [387183-drug-farmer-simulator.json](./387183-drug-farmer-simulator.json) |
 | Drunk Dork on Pitchfork | 391462 | [391462-drunk-dork-on-pitchfork.json](./391462-drunk-dork-on-pitchfork.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunken Masters | 387898 | [387898-drunken-masters.json](./387898-drunken-masters.json) |
