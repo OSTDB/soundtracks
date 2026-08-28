@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol and the Bells: A Cozy Strategy Game | 406602 | [406602-carol-and-the-bells-a-cozy-strategy-game.json](./406602-carol-and-the-bells-a-cozy-strategy-game.json) |
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
+| Cartoon Cagematch | 384378 | [384378-cartoon-cagematch.json](./384378-cartoon-cagematch.json) |
 | CarveOut 2160 | 411475 | [411475-carveout-2160.json](./411475-carveout-2160.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Cascader | 407232 | [407232-cascader.json](./407232-cascader.json) |
@@ -106,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
+| Catch The Beaukes | 384359 | [384359-catch-the-beaukes.json](./384359-catch-the-beaukes.json) |
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Catjong 4: Secrets of the Purramids | 397544 | [397544-catjong-4-secrets-of-the-purramids.json](./397544-catjong-4-secrets-of-the-purramids.json) |
 | Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-ROM | 388574 | [388574-cd-rom.json](./388574-cd-rom.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
+| Celestial Front | 384367 | [384367-celestial-front.json](./384367-celestial-front.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
 | Charlatan | 400770 | [400770-charlatan.json](./400770-charlatan.json) |
+| Chasing Rabbits in Snow | 384394 | [384394-chasing-rabbits-in-snow.json](./384394-chasing-rabbits-in-snow.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chattle! | 393330 | [393330-chattle.json](./393330-chattle.json) |
@@ -178,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bomber 4k | 412866 | [412866-city-bomber-4k.json](./412866-city-bomber-4k.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
+| City Defence Artillery | 384391 | [384391-city-defence-artillery.json](./384391-city-defence-artillery.json) |
 | City of Hunger | 384957 | [384957-city-of-hunger.json](./384957-city-of-hunger.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
 | Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
@@ -273,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Vietnam | 5786 | [5786-conflict-vietnam.json](./5786-conflict-vietnam.json) |
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
 | Conquerline | 390408 | [390408-conquerline.json](./390408-conquerline.json) |
+| Consequently | 384360 | [384360-consequently.json](./384360-consequently.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
 | Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
@@ -286,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
 | Contra: The Alien Wars | 48914 | [48914-contra-the-alien-wars.json](./48914-contra-the-alien-wars.json) |
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
+| Contract Cleaner | 384383 | [384383-contract-cleaner.json](./384383-contract-cleaner.json) |
 | Cook the Word | 401393 | [401393-cook-the-word.json](./401393-cook-the-word.json) |
 | Cookie & Cream | 47704 | [47704-cookie-and-cream.json](./47704-cookie-and-cream.json) |
 | Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
@@ -294,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Definitive Edition | 402173 | [402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json](./402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Deluxe Edition | 394745 | [394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json](./394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json) |
 | Cool Story Bro! | 396054 | [396054-cool-story-bro.json](./396054-cool-story-bro.json) |
+| Cooperate | 384361 | [384361-cooperate.json](./384361-cooperate.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
@@ -408,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Curious Copy Cats | 402167 | [402167-curious-copy-cats.json](./402167-curious-copy-cats.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
+| Currents of War | 384408 | [384408-currents-of-war.json](./384408-currents-of-war.json) |
 | Curse of the Crimson Stag | 400795 | [400795-curse-of-the-crimson-stag.json](./400795-curse-of-the-crimson-stag.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
