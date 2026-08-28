@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lop Nor Zombie VR | 31455 | [31455-lop-nor-zombie-vr.json](./31455-lop-nor-zombie-vr.json) |
 | Lord of Darkness: Celebration | 378044 | [378044-lord-of-darkness-celebration.json](./378044-lord-of-darkness-celebration.json) |
 | Lord of the Click | 116232 | [116232-lord-of-the-click.json](./116232-lord-of-the-click.json) |
+| Lordling of Hearts | 369441 | [369441-lordling-of-hearts.json](./369441-lordling-of-hearts.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Base Escape | 29804 | [29804-lost-base-escape.json](./29804-lost-base-escape.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
