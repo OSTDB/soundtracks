@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave Master | 4082 | [4082-rave-master.json](./4082-rave-master.json) |
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
+| Ravenswatch: Song of Thieves | 400796 | [400796-ravenswatch-song-of-thieves.json](./400796-ravenswatch-song-of-thieves.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
 | Raycatcher | 14954 | [14954-raycatcher.json](./14954-raycatcher.json) |
 | Raygun Commando VR | 29896 | [29896-raygun-commando-vr.json](./29896-raygun-commando-vr.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
+| Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
@@ -199,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
+| Running Train | 400786 | [400786-running-train.json](./400786-running-train.json) |
 | Rush | 95751 | [95751-rush.json](./95751-rush.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
