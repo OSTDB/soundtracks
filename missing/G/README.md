@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
 | Glowbot Tower Defense | 406007 | [406007-glowbot-tower-defense.json](./406007-glowbot-tower-defense.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
+| Gnomed | 390422 | [390422-gnomed.json](./390422-gnomed.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
