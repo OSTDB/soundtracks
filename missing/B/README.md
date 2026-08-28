@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born Again | 403461 | [403461-born-again.json](./403461-born-again.json) |
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
+| Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
