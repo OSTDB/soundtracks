@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
+| 2112TD Earth | 392662 | [392662-2112td-earth.json](./392662-2112td-earth.json) |
 | 28 Leicester Square | 412881 | [412881-28-leicester-square.json](./412881-28-leicester-square.json) |
 | 2TAP | 395416 | [395416-2tap.json](./395416-2tap.json) |
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
