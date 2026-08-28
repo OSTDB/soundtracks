@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
+| Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
+| Blackwood House | 405393 | [405393-blackwood-house.json](./405393-blackwood-house.json) |
 | Blade Arcus From Shining: Battle Arena | 23185 | [23185-blade-arcus-from-shining-battle-arena.json](./23185-blade-arcus-from-shining-battle-arena.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
 | Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
@@ -180,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
 | BloodJack | 409451 | [409451-bloodjack.json](./409451-bloodjack.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
+| Bloodshot | 405405 | [405405-bloodshot.json](./405405-bloodshot.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
 | Bloodstained: Curse of the Moon 2 | 135337 | [135337-bloodstained-curse-of-the-moon-2.json](./135337-bloodstained-curse-of-the-moon-2.json) |
 | Bloody Glimpse | 59138 | [59138-bloody-glimpse.json](./59138-bloody-glimpse.json) |
