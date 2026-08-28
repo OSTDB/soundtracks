@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Witchland: Trinity Blight | 383207 | [383207-witchland-trinity-blight.json](./383207-witchland-trinity-blight.json) |
 | Witchlight Woods | 383210 | [383210-witchlight-woods.json](./383210-witchlight-woods.json) |
+| Witchspire | 362094 | [362094-witchspire.json](./362094-witchspire.json) |
 | With Me: Aquatic Time | 374449 | [374449-with-me-aquatic-time.json](./374449-with-me-aquatic-time.json) |
 | With Walker | 383845 | [383845-with-walker.json](./383845-with-walker.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
