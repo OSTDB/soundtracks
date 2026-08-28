@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Just Wanted to Talk About Halo | 394021 | [394021-i-just-wanted-to-talk-about-halo.json](./394021-i-just-wanted-to-talk-about-halo.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
 | I Wanna Be The Fangame | 386574 | [386574-i-wanna-be-the-fangame.json](./386574-i-wanna-be-the-fangame.json) |
+| I Will Strangle A Horse | 372869 | [372869-i-will-strangle-a-horse.json](./372869-i-will-strangle-a-horse.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inanimate Insanity: Sweet Memories | 386054 | [386054-inanimate-insanity-sweet-memories.json](./386054-inanimate-insanity-sweet-memories.json) |
 | Inanis: Into the Abyss | 391502 | [391502-inanis-into-the-abyss.json](./391502-inanis-into-the-abyss.json) |
 | Inazuma Eleven Souls 2 | 376303 | [376303-inazuma-eleven-souls-2.json](./376303-inazuma-eleven-souls-2.json) |
+| Inc. | 372891 | [372891-inc.json](./372891-inc.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
 | Iron Guard: Day Zero | 405385 | [405385-iron-guard-day-zero.json](./405385-iron-guard-day-zero.json) |
+| Ironclad | 372850 | [372850-ironclad.json](./372850-ironclad.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
 | Ironforged | 391518 | [391518-ironforged.json](./391518-ironforged.json) |
 | Is Zombody Home? | 390392 | [390392-is-zombody-home.json](./390392-is-zombody-home.json) |
