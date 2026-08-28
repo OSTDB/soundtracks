@@ -40,6 +40,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War - Dark Crusade | 467 | [467-warhammer-40-000-dawn-of-war-dark-crusade.json](./467-warhammer-40-000-dawn-of-war-dark-crusade.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: Last Stand | 36455 | [36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json](./36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json) |
 | Warhammer 40,000: Fire Warrior (Classic) | 398240 | [398240-warhammer-40-000-fire-warrior-classic.json](./398240-warhammer-40-000-fire-warrior-classic.json) |
+| Warhammer 40,000: Space Marine II - Reclamation Update | 378663 | [378663-warhammer-40-000-space-marine-ii-reclamation-update.json](./378663-warhammer-40-000-space-marine-ii-reclamation-update.json) |
+| Warhammer 40,000: Space Marine II: Salamanders Cosmetic Pack | 378615 | [378615-warhammer-40-000-space-marine-ii-salamanders-cosmetic-pack.json](./378615-warhammer-40-000-space-marine-ii-salamanders-cosmetic-pack.json) |
 | Warhammer: Dark Omen (Classic) | 398243 | [398243-warhammer-dark-omen-classic.json](./398243-warhammer-dark-omen-classic.json) |
 | Warhammer: End Times - Vermintide | 9181 | [9181-warhammer-end-times-vermintide.json](./9181-warhammer-end-times-vermintide.json) |
 | Warhammer: Mark of Chaos - Gold Edition (Classic) | 398241 | [398241-warhammer-mark-of-chaos-gold-edition-classic.json](./398241-warhammer-mark-of-chaos-gold-edition-classic.json) |
