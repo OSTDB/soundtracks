@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Castaway Cross | 392678 | [392678-castaway-cross.json](./392678-castaway-cross.json) |
+| Castle | 383827 | [383827-castle.json](./383827-castle.json) |
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
 | Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
+| Christmas with Father Ben | 383815 | [383815-christmas-with-father-ben.json](./383815-christmas-with-father-ben.json) |
 | Chroma Shift | 110098 | [110098-chroma-shift.json](./110098-chroma-shift.json) |
 | Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
 | Chronicles Of Lumethis | 412175 | [412175-chronicles-of-lumethis.json](./412175-chronicles-of-lumethis.json) |
