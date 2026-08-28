@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
+| Flappy Poire | 412876 | [412876-flappy-poire.json](./412876-flappy-poire.json) |
 | Flappy Sky Bird | 87588 | [87588-flappy-sky-bird.json](./87588-flappy-sky-bird.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
 | Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | Frog Parkour Obby | 414231 | [414231-frog-parkour-obby.json](./414231-frog-parkour-obby.json) |
+| Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
+| Fuhon | 412851 | [412851-fuhon.json](./412851-fuhon.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
