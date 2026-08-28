@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
@@ -387,10 +388,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
+| Aualé | 375649 | [375649-auale.json](./375649-auale.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
 | Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
 | AutoMaker | 379228 | [379228-automaker.json](./379228-automaker.json) |
+| Automatachef | 375647 | [375647-automatachef.json](./375647-automatachef.json) |
 | Automated Ranch Simulator | 392640 | [392640-automated-ranch-simulator.json](./392640-automated-ranch-simulator.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
