@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
 | Boxel 3D | 367802 | [367802-boxel-3d.json](./367802-boxel-3d.json) |
 | Boxwrecker Arena | 367239 | [367239-boxwrecker-arena.json](./367239-boxwrecker-arena.json) |
+| BPM: Bitcrushed | 362075 | [362075-bpm-bitcrushed.json](./362075-bpm-bitcrushed.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
