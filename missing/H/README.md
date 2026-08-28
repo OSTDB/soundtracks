@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
+| Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
+| Horn of Africa | 408643 | [408643-horn-of-africa.json](./408643-horn-of-africa.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
 | Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
 | Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
@@ -125,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
+| House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
