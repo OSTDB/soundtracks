@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Umbrella Chronicles | 975 | [975-resident-evil-the-umbrella-chronicles.json](./975-resident-evil-the-umbrella-chronicles.json) |
 | Resistance: Burning Skies | 19907 | [19907-resistance-burning-skies.json](./19907-resistance-burning-skies.json) |
 | Resistance: Fall of Man | 1278 | [1278-resistance-fall-of-man.json](./1278-resistance-fall-of-man.json) |
+| Restaurant Tycoon: My Cooking Empire - Platinium Edition | 394754 | [394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json](./394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
