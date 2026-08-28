@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
+| Mesuneko Hishoshitsu | 368843 | [368843-mesuneko-hishoshitsu.json](./368843-mesuneko-hishoshitsu.json) |
 | MetaChess | 385475 | [385475-metachess.json](./385475-metachess.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
 | Moist Depot: Adult Store Simulator | 393369 | [393369-moist-depot-adult-store-simulator.json](./393369-moist-depot-adult-store-simulator.json) |
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
+| Mòlù Xījì | 368854 | [368854-molu-xiji.json](./368854-molu-xiji.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
@@ -441,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
+| Mowing Simulator | 368851 | [368851-mowing-simulator.json](./368851-mowing-simulator.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Hack Jack: Robot Detective | 115937 | [115937-mr-hack-jack-robot-detective.json](./115937-mr-hack-jack-robot-detective.json) |
 | Mr. Records | 404712 | [404712-mr-records.json](./404712-mr-records.json) |
@@ -478,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
 | My Beautiful Winter | 389909 | [389909-my-beautiful-winter.json](./389909-my-beautiful-winter.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
+| My Bike | 368866 | [368866-my-bike.json](./368866-my-bike.json) |
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
 | My Cold Girlfriend | 374467 | [374467-my-cold-girlfriend.json](./374467-my-cold-girlfriend.json) |
