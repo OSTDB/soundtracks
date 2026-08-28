@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Remastered | 34293 | [34293-bioshock-remastered.json](./34293-bioshock-remastered.json) |
 | Bioszard Corporation | 115703 | [115703-bioszard-corporation.json](./115703-bioszard-corporation.json) |
 | Biotope: Aquarium Simulator | 115812 | [115812-biotope-aquarium-simulator.json](./115812-biotope-aquarium-simulator.json) |
+| Bip and Bop | 388589 | [388589-bip-and-bop.json](./388589-bip-and-bop.json) |
 | Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
 | Birdsketball | 22408 | [22408-birdsketball.json](./22408-birdsketball.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
 | Bloom Shrooms | 22782 | [22782-bloom-shrooms.json](./22782-bloom-shrooms.json) |
+| Blooming Blossoms | 388571 | [388571-blooming-blossoms.json](./388571-blooming-blossoms.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
 | Blot | 95629 | [95629-blot.json](./95629-blot.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
@@ -337,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
 | Burstfire | 35766 | [35766-burstfire.json](./35766-burstfire.json) |
+| Bus Simulator: World Tour | 388620 | [388620-bus-simulator-world-tour.json](./388620-bus-simulator-world-tour.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
