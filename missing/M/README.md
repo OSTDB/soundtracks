@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
+| Mars Colony Simulator | 400106 | [400106-mars-colony-simulator.json](./400106-mars-colony-simulator.json) |
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
 | Medal of Honor: Rising Sun | 1316 | [1316-medal-of-honor-rising-sun.json](./1316-medal-of-honor-rising-sun.json) |
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
+| Medieval Juice Crafter | 400157 | [400157-medieval-juice-crafter.json](./400157-medieval-juice-crafter.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
 | MediEvil | 76960 | [76960-medievil.json](./76960-medievil.json) |
 | Mediterranea Inferno: Deluxe Edition | 406036 | [406036-mediterranea-inferno-deluxe-edition.json](./406036-mediterranea-inferno-deluxe-edition.json) |
@@ -261,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Slingshot Smash | 405375 | [405375-monster-slingshot-smash.json](./405375-monster-slingshot-smash.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
+| Monster x Mediator 404 | 400142 | [400142-monster-x-mediator-404.json](./400142-monster-x-mediator-404.json) |
 | Monster's Death | 401411 | [401411-monsters-death.json](./401411-monsters-death.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
