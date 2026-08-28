@@ -113,6 +113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
+| Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
+| Ring Master II: Forget You Not, Evermore | 402817 | [402817-ring-master-ii-forget-you-not-evermore.json](./402817-ring-master-ii-forget-you-not-evermore.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
