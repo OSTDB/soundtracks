@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
+| Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Longboard Skate Downhill Simulator | 401409 | [401409-longboard-skate-downhill-simulator.json](./401409-longboard-skate-downhill-simulator.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
 | Lost in Night | 400811 | [400811-lost-in-night.json](./400811-lost-in-night.json) |
 | Lost in Space | 405425 | [405425-lost-in-space.json](./405425-lost-in-space.json) |
+| Lost in Your Eyes | 390975 | [390975-lost-in-your-eyes.json](./390975-lost-in-your-eyes.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
@@ -175,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Luigi's Haunted Quest 2: Bligmire | 394734 | [394734-luigis-haunted-quest-2-bligmire.json](./394734-luigis-haunted-quest-2-bligmire.json) |
+| LumenKnight | 390969 | [390969-lumenknight.json](./390969-lumenknight.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
