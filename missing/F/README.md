@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forest Hustle | 384355 | [384355-forest-hustle.json](./384355-forest-hustle.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
+| Forgedale | 369975 | [369975-forgedale.json](./369975-forgedale.json) |
 | Forgive for Ever | 371717 | [371717-forgive-for-ever.json](./371717-forgive-for-ever.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
@@ -265,6 +266,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Fortnite Festival: I Feel It Coming | 369935 | [369935-fortnite-festival-i-feel-it-coming.json](./369935-fortnite-festival-i-feel-it-coming.json) |
+| Fortnite Festival: I Write Sins Not Tragedies | 369936 | [369936-fortnite-festival-i-write-sins-not-tragedies.json](./369936-fortnite-festival-i-write-sins-not-tragedies.json) |
+| Fortnite Festival: The Unforgiven | 369933 | [369933-fortnite-festival-the-unforgiven.json](./369933-fortnite-festival-the-unforgiven.json) |
+| Fortnite: Gilded Elites Pack | 369951 | [369951-fortnite-gilded-elites-pack.json](./369951-fortnite-gilded-elites-pack.json) |
 | Fortune Mill | 403497 | [403497-fortune-mill.json](./403497-fortune-mill.json) |
 | Fortune Pact | 407233 | [407233-fortune-pact.json](./407233-fortune-pact.json) |
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
@@ -317,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog vs Mural Girl | 391478 | [391478-frog-vs-mural-girl.json](./391478-frog-vs-mural-girl.json) |
 | Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
 | Froggotten Recipes | 381451 | [381451-froggotten-recipes.json](./381451-froggotten-recipes.json) |
+| Froggy Hates Snow | 369944 | [369944-froggy-hates-snow.json](./369944-froggy-hates-snow.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
@@ -345,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
 | Funny Animal Cafe | 372286 | [372286-funny-animal-cafe.json](./372286-funny-animal-cafe.json) |
 | Funny Bones | 373921 | [373921-funny-bones.json](./373921-funny-bones.json) |
+| Fur-Guardians | 369939 | [369939-fur-guardians.json](./369939-fur-guardians.json) |
 | Furikake Spacey OVA: Vietnam Thai Cambodia Philippines-hen | 379221 | [379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json](./379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
