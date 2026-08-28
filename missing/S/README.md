@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
+| Sandcastle | 399476 | [399476-sandcastle.json](./399476-sandcastle.json) |
 | Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
 | Scary Granny Horror Game | 95639 | [95639-scary-granny-horror-game.json](./95639-scary-granny-horror-game.json) |
+| Scary Horror 2 | 399490 | [399490-scary-horror-2.json](./399490-scary-horror-2.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
 | Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
 | Schedule: Rehab Business | 414978 | [414978-schedule-rehab-business.json](./414978-schedule-rehab-business.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Square Space | 413524 | [413524-square-space.json](./413524-square-space.json) |
+| Squarsenal | 399494 | [399494-squarsenal.json](./399494-squarsenal.json) |
 | Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
 | Squids From Space | 46758 | [46758-squids-from-space.json](./46758-squids-from-space.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
@@ -438,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
+| Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Storytime Cats: A Day at the Park | 406603 | [406603-storytime-cats-a-day-at-the-park.json](./406603-storytime-cats-a-day-at-the-park.json) |
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
@@ -482,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Sudoku Bactron | 404733 | [404733-sudoku-bactron.json](./404733-sudoku-bactron.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
+| Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
@@ -581,4 +586,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
+| Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
