@@ -15,12 +15,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
 | Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
+| Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
 | Jaws | 15704 | [15704-jaws.json](./15704-jaws.json) |
 | Jaws of Extinction | 44585 | [44585-jaws-of-extinction.json](./44585-jaws-of-extinction.json) |
 | Jay and Silent Bob: Mall Brawl | 124310 | [124310-jay-and-silent-bob-mall-brawl.json](./124310-jay-and-silent-bob-mall-brawl.json) |
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
+| Jeep Horror | 414191 | [414191-jeep-horror.json](./414191-jeep-horror.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
@@ -29,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetstream | 108280 | [108280-jetstream.json](./108280-jetstream.json) |
 | Jewel Factory | 20836 | [20836-jewel-factory.json](./20836-jewel-factory.json) |
 | Jewel Tree: Match It Puzzle | 87633 | [87633-jewel-tree-match-it-puzzle.json](./87633-jewel-tree-match-it-puzzle.json) |
+| Jigsaw Puzzle: Fun Shapes | 414234 | [414234-jigsaw-puzzle-fun-shapes.json](./414234-jigsaw-puzzle-fun-shapes.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
