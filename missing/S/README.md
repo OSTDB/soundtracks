@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
 | Skam | 382605 | [382605-skam.json](./382605-skam.json) |
+| Skarven | 379750 | [379750-skarven.json](./379750-skarven.json) |
 | Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Abyss | 384370 | [384370-slay-the-abyss.json](./384370-slay-the-abyss.json) |
 | Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
 | Slayaway Camp: Butcher's Cut | 80952 | [80952-slayaway-camp-butchers-cut.json](./80952-slayaway-camp-butchers-cut.json) |
+| Slayer's Testaments | 379759 | [379759-slayers-testaments.json](./379759-slayers-testaments.json) |
 | Slayers X: Terminal Aftermath - Vengance of the Slayer | 196655 | [196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json](./196655-slayers-x-terminal-aftermath-vengance-of-the-slayer.json) |
 | Sledgehammer | 36369 | [36369-sledgehammer.json](./36369-sledgehammer.json) |
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
@@ -436,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
+| Spells & Shells | 379740 | [379740-spells-and-shells.json](./379740-spells-and-shells.json) |
 | Spellsword Cards: Demontide | 115679 | [115679-spellsword-cards-demontide.json](./115679-spellsword-cards-demontide.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
