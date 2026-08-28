@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
 | Echoes of Myth | 392066 | [392066-echoes-of-myth.json](./392066-echoes-of-myth.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
+| Echoes of Vasteria | 360429 | [360429-echoes-of-vasteria.json](./360429-echoes-of-vasteria.json) |
 | Echoes Within | 371724 | [371724-echoes-within.json](./371724-echoes-within.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eclipse | 371115 | [371115-eclipse.json](./371115-eclipse.json) |
@@ -161,11 +162,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity's Child | 15954 | [15954-eternitys-child.json](./15954-eternitys-child.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Ethereal | 109818 | [109818-ethereal.json](./109818-ethereal.json) |
+| Ethereal Sunder | 360443 | [360443-ethereal-sunder.json](./360443-ethereal-sunder.json) |
 | Etrange Overlord: Deluxe Edition | 396037 | [396037-etrange-overlord-deluxe-edition.json](./396037-etrange-overlord-deluxe-edition.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
 | Etrian Odyssey 2 Untold: The Fafnir Knight | 14709 | [14709-etrian-odyssey-2-untold-the-fafnir-knight.json](./14709-etrian-odyssey-2-untold-the-fafnir-knight.json) |
 | Etrian Odyssey Nexus | 57012 | [57012-etrian-odyssey-nexus.json](./57012-etrian-odyssey-nexus.json) |
 | Etrian Odyssey: Origins Collection | 236683 | [236683-etrian-odyssey-origins-collection.json](./236683-etrian-odyssey-origins-collection.json) |
+| Eugene Onegin | 360377 | [360377-eugene-onegin.json](./360377-eugene-onegin.json) |
 | Euro Truck Simulator 2: Scandinavia | 26253 | [26253-euro-truck-simulator-2-scandinavia.json](./26253-euro-truck-simulator-2-scandinavia.json) |
 | Europa Universalis III: Divine Wind | 10270 | [10270-europa-universalis-iii-divine-wind.json](./10270-europa-universalis-iii-divine-wind.json) |
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
@@ -229,5 +232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extremely Cool Downhill Skiing With Jaska | 394726 | [394726-extremely-cool-downhill-skiing-with-jaska.json](./394726-extremely-cool-downhill-skiing-with-jaska.json) |
 | Extricate | 115694 | [115694-extricate.json](./115694-extricate.json) |
 | Eye of the Beholder III: Assault on Myth Drannor | 2524 | [2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json](./2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json) |
+| Eyes of Rain | 360401 | [360401-eyes-of-rain.json](./360401-eyes-of-rain.json) |
 | Eyes Wide Open | 410791 | [410791-eyes-wide-open.json](./410791-eyes-wide-open.json) |
 | Eyes: The Horror Game | 63565 | [63565-eyes-the-horror-game.json](./63565-eyes-the-horror-game.json) |
