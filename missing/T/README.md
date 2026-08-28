@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Lovin' Cannibal | 400119 | [400119-tender-lovin-cannibal.json](./400119-tender-lovin-cannibal.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
+| Terminal Mass | 397576 | [397576-terminal-mass.json](./397576-terminal-mass.json) |
 | Terminator 2: Judgment Day | 398855 | [398855-terminator-2-judgment-day.json](./398855-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 398854 | [398854-terminator-2-judgment-day.json](./398854-terminator-2-judgment-day.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
+| The Cure | 397572 | [397572-the-cure.json](./397572-the-cure.json) |
 | The Cursed Ward | 405989 | [405989-the-cursed-ward.json](./405989-the-cursed-ward.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
+| The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
@@ -228,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
+| The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
 | The Lord of the Rings Online: Shadows of Angmar | 51193 | [51193-the-lord-of-the-rings-online-shadows-of-angmar.json](./51193-the-lord-of-the-rings-online-shadows-of-angmar.json) |
@@ -252,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
+| The Palace of Deceit: The Secret of Castle Lockemoer | 397578 | [397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json](./397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Perfect Lover | 406034 | [406034-the-perfect-lover.json](./406034-the-perfect-lover.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
@@ -320,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt Remastered | 415005 | [415005-the-witcher-3-wild-hunt-remastered.json](./415005-the-witcher-3-wild-hunt-remastered.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
 | The Wolf Among Us Remastered | 404716 | [404716-the-wolf-among-us-remastered.json](./404716-the-wolf-among-us-remastered.json) |
+| The Woods | 397563 | [397563-the-woods.json](./397563-the-woods.json) |
 | The Works of Mercy | 31448 | [31448-the-works-of-mercy.json](./31448-the-works-of-mercy.json) |
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
