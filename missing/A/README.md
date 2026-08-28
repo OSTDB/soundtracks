@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
+| Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
@@ -48,11 +49,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
+| Afterworld | 414990 | [414990-afterworld.json](./414990-afterworld.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
 | Age of Empires III: The Asian Dynasties | 8220 | [8220-age-of-empires-iii-the-asian-dynasties.json](./8220-age-of-empires-iii-the-asian-dynasties.json) |
 | Age of Gladiators II: Rome | 102245 | [102245-age-of-gladiators-ii-rome.json](./102245-age-of-gladiators-ii-rome.json) |
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
+| Age Twisters | 414963 | [414963-age-twisters.json](./414963-age-twisters.json) |
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
 | Aggressors: Ancient Rome | 46076 | [46076-aggressors-ancient-rome.json](./46076-aggressors-ancient-rome.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
@@ -154,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Marksmen | 22674 | [22674-arma-3-marksmen.json](./22674-arma-3-marksmen.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
 | Arma X: Anniversary Edition | 22639 | [22639-arma-x-anniversary-edition.json](./22639-arma-x-anniversary-edition.json) |
+| Armed-Mageddon | 414974 | [414974-armed-mageddon.json](./414974-armed-mageddon.json) |
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
 | Armored Fist 3 | 14962 | [14962-armored-fist-3.json](./14962-armored-fist-3.json) |
 | Armored Gear | 29761 | [29761-armored-gear.json](./29761-armored-gear.json) |
