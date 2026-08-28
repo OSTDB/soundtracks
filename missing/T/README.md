@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Fish: AbyssRium | 86983 | [86983-tap-tap-fish-abyssrium.json](./86983-tap-tap-fish-abyssrium.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
+| Tarae The Unbound | 415003 | [415003-tarae-the-unbound.json](./415003-tarae-the-unbound.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Laboratory | 93851 | [93851-the-white-laboratory.json](./93851-the-white-laboratory.json) |
 | The Witcher 3: Wild Hunt - Game of the Year Edition | 22439 | [22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json](./22439-the-witcher-3-wild-hunt-game-of-the-year-edition.json) |
 | The Witcher 3: Wild Hunt - New Quest: Scavenger Hunt: Wolf School Gear | 226413 | [226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json](./226413-the-witcher-3-wild-hunt-new-quest-scavenger-hunt-wolf-school-gear.json) |
+| The Witcher 3: Wild Hunt Remastered | 415005 | [415005-the-witcher-3-wild-hunt-remastered.json](./415005-the-witcher-3-wild-hunt-remastered.json) |
 | The Wizard and the Princess | 651 | [651-the-wizard-and-the-princess.json](./651-the-wizard-and-the-princess.json) |
 | The Works of Mercy | 31448 | [31448-the-works-of-mercy.json](./31448-the-works-of-mercy.json) |
 | The X-Files: Resist or Serve | 43672 | [43672-the-x-files-resist-or-serve.json](./43672-the-x-files-resist-or-serve.json) |
@@ -317,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Phantoms | 1304 | [1304-tom-clancys-ghost-recon-phantoms.json](./1304-tom-clancys-ghost-recon-phantoms.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 1297 | [1297-tom-clancys-ghost-recon-jungle-storm.json](./1297-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
+| Tom Clancy's Rainbow 6 Tactics | 414967 | [414967-tom-clancys-rainbow-6-tactics.json](./414967-tom-clancys-rainbow-6-tactics.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
 | Tom vs. The Armies of Hell | 16827 | [16827-tom-vs-the-armies-of-hell.json](./16827-tom-vs-the-armies-of-hell.json) |
