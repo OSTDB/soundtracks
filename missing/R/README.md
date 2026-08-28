@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Raiding Party | 384980 | [384980-raiding-party.json](./384980-raiding-party.json) |
 | Rail of War | 383251 | [383251-rail-of-war.json](./383251-rail-of-war.json) |
+| Railroad to Hell 3 | 379761 | [379761-railroad-to-hell-3.json](./379761-railroad-to-hell-3.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Rainbows Are Carnivores | 381431 | [381431-rainbows-are-carnivores.json](./381431-rainbows-are-carnivores.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
 | Real Cars & Motocross Driving Simulator | 389881 | [389881-real-cars-and-motocross-driving-simulator.json](./389881-real-cars-and-motocross-driving-simulator.json) |
+| Real Moon | 379779 | [379779-real-moon.json](./379779-real-moon.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
 | Relics 3: Ashes for Gold | 389319 | [389319-relics-3-ashes-for-gold.json](./389319-relics-3-ashes-for-gold.json) |
+| Remedy for Personality | 379776 | [379776-remedy-for-personality.json](./379776-remedy-for-personality.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
 | Replay Room | 392657 | [392657-replay-room.json](./392657-replay-room.json) |
@@ -254,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates, Romance, and Ringing Hearts | 385460 | [385460-roommates-romance-and-ringing-hearts.json](./385460-roommates-romance-and-ringing-hearts.json) |
 | Rooster Wars Arena: MFC Combat Battle | 398204 | [398204-rooster-wars-arena-mfc-combat-battle.json](./398204-rooster-wars-arena-mfc-combat-battle.json) |
 | Rope | 391508 | [391508-rope.json](./391508-rope.json) |
+| Rostov | 379754 | [379754-rostov.json](./379754-rostov.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
