@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
 | Nevermind | 14176 | [14176-nevermind.json](./14176-nevermind.json) |
 | Neverwinter | 1908 | [1908-neverwinter.json](./1908-neverwinter.json) |
+| Neverwinter Nights 2: Gold | 22588 | [22588-neverwinter-nights-2-gold.json](./22588-neverwinter-nights-2-gold.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
 | Neverwinter Nights: Kingmaker | 9225 | [9225-neverwinter-nights-kingmaker.json](./9225-neverwinter-nights-kingmaker.json) |
 | New Frontier Days: Founding Pioneers | 37050 | [37050-new-frontier-days-founding-pioneers.json](./37050-new-frontier-days-founding-pioneers.json) |
