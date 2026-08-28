@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank 90 | 95626 | [95626-tank-90.json](./95626-tank-90.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tank Blast | 33010 | [33010-tank-blast.json](./33010-tank-blast.json) |
+| Tank Combat Radica | 375653 | [375653-tank-combat-radica.json](./375653-tank-combat-radica.json) |
 | Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Final Shift | 379773 | [379773-the-final-shift.json](./379773-the-final-shift.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
+| The Florist | 375635 | [375635-the-florist.json](./375635-the-florist.json) |
 | The Forest of Doom | 16938 | [16938-the-forest-of-doom.json](./16938-the-forest-of-doom.json) |
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
@@ -542,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Drifters | 389310 | [389310-top-drifters.json](./389310-top-drifters.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
+| Top Racer Collection: Top Racer Customs | 375678 | [375678-top-racer-collection-top-racer-customs.json](./375678-top-racer-collection-top-racer-customs.json) |
 | Top Shot Pool | 378046 | [378046-top-shot-pool.json](./378046-top-shot-pool.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Gishinreibyou | 406026 | [406026-touhou-gishinreibyou.json](./406026-touhou-gishinreibyou.json) |
+| Touhou Madarazakura | 375629 | [375629-touhou-madarazakura.json](./375629-touhou-madarazakura.json) |
 | Touhou Mistystory | 386019 | [386019-touhou-mistystory.json](./386019-touhou-mistystory.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
 | Touhou Shinkirou: Hopeless Masquerade | 27158 | [27158-touhou-shinkirou-hopeless-masquerade.json](./27158-touhou-shinkirou-hopeless-masquerade.json) |
