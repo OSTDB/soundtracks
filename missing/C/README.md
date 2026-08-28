@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
+| Cloudsphere | 400114 | [400114-cloudsphere.json](./400114-cloudsphere.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
 | Cloverpit Gamble | 404725 | [404725-cloverpit-gamble.json](./404725-cloverpit-gamble.json) |
 | Clown Pit | 404727 | [404727-clown-pit.json](./404727-clown-pit.json) |
