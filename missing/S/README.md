@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 384390 | [384390-search.json](./384390-search.json) |
 | Seaside Cafe Rush Hour | 367800 | [367800-seaside-cafe-rush-hour.json](./367800-seaside-cafe-rush-hour.json) |
 | SecreD: Foot Art | 375046 | [375046-secred-foot-art.json](./375046-secred-foot-art.json) |
+| Secret File | 366668 | [366668-secret-file.json](./366668-secret-file.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret Lab Cleaner | 372881 | [372881-secret-lab-cleaner.json](./372881-secret-lab-cleaner.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
@@ -340,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
+| Slimes Arena | 366678 | [366678-slimes-arena.json](./366678-slimes-arena.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
 | Slipspace Panic | 404153 | [404153-slipspace-panic.json](./404153-slipspace-panic.json) |
@@ -371,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake:Byte | 372325 | [372325-snake-byte.json](./372325-snake-byte.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Snapstick | 375619 | [375619-snapstick.json](./375619-snapstick.json) |
+| Snekcross | 366675 | [366675-snekcross.json](./366675-snekcross.json) |
 | Snip Snap | 375644 | [375644-snip-snap.json](./375644-snip-snap.json) |
 | Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
