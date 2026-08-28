@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Lil Barn Yard! | 374995 | [374995-lilys-lil-barn-yard.json](./374995-lilys-lil-barn-yard.json) |
 | Limby | 408624 | [408624-limby.json](./408624-limby.json) |
 | Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
+| Liminal Exit | 360375 | [360375-liminal-exit.json](./360375-liminal-exit.json) |
 | Liminal Logistics | 389896 | [389896-liminal-logistics.json](./389896-liminal-logistics.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line Defense | 365512 | [365512-line-defense.json](./365512-line-defense.json) |
