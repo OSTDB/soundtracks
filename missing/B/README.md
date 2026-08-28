@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad Girls: Naughty Hands | 398193 | [398193-bad-girls-naughty-hands.json](./398193-bad-girls-naughty-hands.json) |
+| Bad Girls: Tempting Night | 394716 | [394716-bad-girls-tempting-night.json](./394716-bad-girls-tempting-night.json) |
 | Bad Girls: Wild Desire | 409492 | [409492-bad-girls-wild-desire.json](./409492-bad-girls-wild-desire.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Bad Piggies: King Pig's Hunt | 408680 | [408680-bad-piggies-king-pigs-hunt.json](./408680-bad-piggies-king-pigs-hunt.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
 | Battle of Giants: Dinosaurs | 7906 | [7906-battle-of-giants-dinosaurs.json](./7906-battle-of-giants-dinosaurs.json) |
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
+| Battle Puzzle 2048: Maidens of Steel | 394720 | [394720-battle-puzzle-2048-maidens-of-steel.json](./394720-battle-puzzle-2048-maidens-of-steel.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
 | Battle Simulator: Counter Terrorist | 404762 | [404762-battle-simulator-counter-terrorist.json](./404762-battle-simulator-counter-terrorist.json) |
@@ -246,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
+| Bowling Fever: Full Edition | 394744 | [394744-bowling-fever-full-edition.json](./394744-bowling-fever-full-edition.json) |
 | Bowling Fever: Ultra Edition | 402175 | [402175-bowling-fever-ultra-edition.json](./402175-bowling-fever-ultra-edition.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
