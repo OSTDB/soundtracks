@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
 | Dark Souls 2: Mad Warrior Edition | 381467 | [381467-dark-souls-2-mad-warrior-edition.json](./381467-dark-souls-2-mad-warrior-edition.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
+| Dark Stories Bundle | 373397 | [373397-dark-stories-bundle.json](./373397-dark-stories-bundle.json) |
 | Dark Watching Chapter 2 | 400107 | [400107-dark-watching-chapter-2.json](./400107-dark-watching-chapter-2.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
@@ -106,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
 | Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
+| Deadly Combat | 373371 | [373371-deadly-combat.json](./373371-deadly-combat.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
 | Deadly Shaft | 403489 | [403489-deadly-shaft.json](./403489-deadly-shaft.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
 | Desire's Burgers | 392033 | [392033-desires-burgers.json](./392033-desires-burgers.json) |
+| Desk Wars | 373401 | [373401-desk-wars.json](./373401-desk-wars.json) |
 | Desktop Destroyer | 407976 | [407976-desktop-destroyer.json](./407976-desktop-destroyer.json) |
 | Desktop Purrfect | 374472 | [374472-desktop-purrfect.json](./374472-desktop-purrfect.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
@@ -397,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
 | Double Dragon II: The Revenge | 201321 | [201321-double-dragon-ii-the-revenge.json](./201321-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
+| Double Dragon Revive: Deluxe Edition | 373407 | [373407-double-dragon-revive-deluxe-edition.json](./373407-double-dragon-revive-deluxe-edition.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
 | Double or Nothing | 399447 | [399447-double-or-nothing.json](./399447-double-or-nothing.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
@@ -573,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
 | Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
+| Dworf's Forbidden Gold | 373365 | [373365-dworfs-forbidden-gold.json](./373365-dworfs-forbidden-gold.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dye Hard | 387869 | [387869-dye-hard.json](./387869-dye-hard.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
