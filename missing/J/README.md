@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Gunn Gold | 404766 | [404766-joe-gunn-gold.json](./404766-joe-gunn-gold.json) |
 | Johnny Turbo's Arcade: Gate of Doom | 86495 | [86495-johnny-turbos-arcade-gate-of-doom.json](./86495-johnny-turbos-arcade-gate-of-doom.json) |
 | Jolly Rover | 15056 | [15056-jolly-rover.json](./15056-jolly-rover.json) |
+| Joly Blocks Blast | 402762 | [402762-joly-blocks-blast.json](./402762-joly-blocks-blast.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
