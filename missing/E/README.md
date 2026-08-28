@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Slumberland | 404141 | [404141-escape-from-slumberland.json](./404141-escape-from-slumberland.json) |
 | Escape from Tarkov: Bear - Three Stripes | 398231 | [398231-escape-from-tarkov-bear-three-stripes.json](./398231-escape-from-tarkov-bear-three-stripes.json) |
 | Escape from Tarkov: Usec - ScavTac | 398230 | [398230-escape-from-tarkov-usec-scavtac.json](./398230-escape-from-tarkov-usec-scavtac.json) |
+| Escape Game The Edo Period | 373958 | [373958-escape-game-the-edo-period.json](./373958-escape-game-the-edo-period.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
