@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | C-12: Final Resistance | 26753 | [26753-c-12-final-resistance.json](./26753-c-12-final-resistance.json) |
+| C.A.B.A. | 402824 | [402824-c-a-b-a.json](./402824-c-a-b-a.json) |
 | Cabal Online | 28387 | [28387-cabal-online.json](./28387-cabal-online.json) |
 | Cabela's Alaskan Adventures | 6932 | [6932-cabelas-alaskan-adventures.json](./6932-cabelas-alaskan-adventures.json) |
 | Cabela's Big Game Hunter 2008 | 4735 | [4735-cabelas-big-game-hunter-2008.json](./4735-cabelas-big-game-hunter-2008.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
+| Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
@@ -160,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Click to Win 5000 Achievement | 410766 | [410766-click-to-win-5000-achievement.json](./410766-click-to-win-5000-achievement.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
+| Cliffside Cafe | 402789 | [402789-cliffside-cafe.json](./402789-cliffside-cafe.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
@@ -278,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
+| Crimson Loop | 402794 | [402794-crimson-loop.json](./402794-crimson-loop.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
@@ -289,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
 | Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
+| Crucible United Between Eons | 402800 | [402800-crucible-united-between-eons.json](./402800-crucible-united-between-eons.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Cruise Adventure: Hidden Journey - Collector's Edition | 413557 | [413557-cruise-adventure-hidden-journey-collectors-edition.json](./413557-cruise-adventure-hidden-journey-collectors-edition.json) |
 | Crusader Kings II | 2918 | [2918-crusader-kings-ii.json](./2918-crusader-kings-ii.json) |
