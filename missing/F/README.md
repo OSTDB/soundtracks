@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
 | Farming Simulator 25: Emergency Pack | 410125 | [410125-farming-simulator-25-emergency-pack.json](./410125-farming-simulator-25-emergency-pack.json) |
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
+| Farming Simulator 26: Nintendo Switch Edition | 396105 | [396105-farming-simulator-26-nintendo-switch-edition.json](./396105-farming-simulator-26-nintendo-switch-edition.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
 | Farthest Frontier: Cats and Dogs | 400113 | [400113-farthest-frontier-cats-and-dogs.json](./400113-farthest-frontier-cats-and-dogs.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | Five Nights at Pingas 2 | 404138 | [404138-five-nights-at-pingas-2.json](./404138-five-nights-at-pingas-2.json) |
+| Fix & Flip Dream House | 396104 | [396104-fix-and-flip-dream-house.json](./396104-fix-and-flip-dream-house.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
@@ -177,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
+| Football Cup 2026 | 396103 | [396103-football-cup-2026.json](./396103-football-cup-2026.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Legends 2025: Platinium Edition | 402172 | [402172-football-legends-2025-platinium-edition.json](./402172-football-legends-2025-platinium-edition.json) |
 | Football Manager 2014 | 8975 | [8975-football-manager-2014.json](./8975-football-manager-2014.json) |
