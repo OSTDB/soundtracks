@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Bots | 400158 | [400158-the-electric-bots.json](./400158-the-electric-bots.json) |
 | The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
+| The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
@@ -377,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Stairwell | 380880 | [380880-the-stairwell.json](./380880-the-stairwell.json) |
 | The Strange Lights | 389314 | [389314-the-strange-lights.json](./389314-the-strange-lights.json) |
+| The Streamer's Alt Account Labyrinth | 379242 | [379242-the-streamers-alt-account-labyrinth.json](./379242-the-streamers-alt-account-labyrinth.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
 | The Sultan and his Harem | 382055 | [382055-the-sultan-and-his-harem.json](./382055-the-sultan-and-his-harem.json) |
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
@@ -598,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer | 380865 | [380865-transfer.json](./380865-transfer.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
+| Transit Station | 379210 | [379210-transit-station.json](./379210-transit-station.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
 | Trap | 380866 | [380866-trap.json](./380866-trap.json) |
 | Trap Again | 380863 | [380863-trap-again.json](./380863-trap-again.json) |
