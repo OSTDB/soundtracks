@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
+| Ace Combat 6: Recompiled | 412822 | [412822-ace-combat-6-recompiled.json](./412822-ace-combat-6-recompiled.json) |
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
@@ -38,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
+| Activision Collection 3 | 412823 | [412823-activision-collection-3.json](./412823-activision-collection-3.json) |
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
 | Actual Sunlight | 13230 | [13230-actual-sunlight.json](./13230-actual-sunlight.json) |
 | Adapt or Perish | 109829 | [109829-adapt-or-perish.json](./109829-adapt-or-perish.json) |
@@ -86,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
 | All Day Dying | 126717 | [126717-all-day-dying.json](./126717-all-day-dying.json) |
+| All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
@@ -99,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt-Play: Jason Rohrer Anthology | 63355 | [63355-alt-play-jason-rohrer-anthology.json](./63355-alt-play-jason-rohrer-anthology.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
 | Altered Space | 7752 | [7752-altered-space.json](./7752-altered-space.json) |
+| Altus Chess: Archaic Beginnings | 412854 | [412854-altus-chess-archaic-beginnings.json](./412854-altus-chess-archaic-beginnings.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
