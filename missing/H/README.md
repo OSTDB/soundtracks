@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Storage | 389868 | [389868-hell-storage.json](./389868-hell-storage.json) |
 | HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
+| Helldivers 2: Machinery of Oppression | 389320 | [389320-helldivers-2-machinery-of-oppression.json](./389320-helldivers-2-machinery-of-oppression.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
@@ -192,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
 | How Shall We Die | 405992 | [405992-how-shall-we-die.json](./405992-how-shall-we-die.json) |
+| How Smart Are You? IQ Test | 389295 | [389295-how-smart-are-you-iq-test.json](./389295-how-smart-are-you-iq-test.json) |
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
@@ -211,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting USA | 89490 | [89490-hunting-usa.json](./89490-hunting-usa.json) |
 | Hushed | 397559 | [397559-hushed.json](./397559-hushed.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
+| HVS: Hitler vs Stalin - Battle Of Moscow | 389282 | [389282-hvs-hitler-vs-stalin-battle-of-moscow.json](./389282-hvs-hitler-vs-stalin-battle-of-moscow.json) |
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hygrim | 392654 | [392654-hygrim.json](./392654-hygrim.json) |
