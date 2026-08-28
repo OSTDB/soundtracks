@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xdding | 389285 | [389285-xdding.json](./389285-xdding.json) |
 | Xenon 2: Megablast | 370490 | [370490-xenon-2-megablast.json](./370490-xenon-2-megablast.json) |
 | Xenon Valkyrie+ | 77957 | [77957-xenon-valkyrie.json](./77957-xenon-valkyrie.json) |
+| Xiangsheng Simulator | 369954 | [369954-xiangsheng-simulator.json](./369954-xiangsheng-simulator.json) |
 | Xombee MPFPS | 392658 | [392658-xombee-mpfps.json](./392658-xombee-mpfps.json) |
 | XP Girls | 126416 | [126416-xp-girls.json](./126416-xp-girls.json) |
 | XP Hero | 394036 | [394036-xp-hero.json](./394036-xp-hero.json) |
