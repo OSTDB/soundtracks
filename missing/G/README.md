@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | GGM | 383850 | [383850-ggm.json](./383850-ggm.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
+| Ghost Hunter Simulator | 371082 | [371082-ghost-hunter-simulator.json](./371082-ghost-hunter-simulator.json) |
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
 | Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
 | Grid of Change | 396774 | [396774-grid-of-change.json](./396774-grid-of-change.json) |
+| Grid Wipe | 371081 | [371081-grid-wipe.json](./371081-grid-wipe.json) |
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
 | Gridvania | 378056 | [378056-gridvania.json](./378056-gridvania.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
