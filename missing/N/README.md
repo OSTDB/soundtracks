@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 16 | 11074 | [11074-nba-live-16.json](./11074-nba-live-16.json) |
 | NBA Live 2004 | 4032 | [4032-nba-live-2004.json](./4032-nba-live-2004.json) |
 | NBA Live 98 | 26013 | [26013-nba-live-98.json](./26013-nba-live-98.json) |
+| NBA Rivals | 378652 | [378652-nba-rivals.json](./378652-nba-rivals.json) |
 | NBA Rush | 20934 | [20934-nba-rush.json](./20934-nba-rush.json) |
 | NCAA Football 14 | 19673 | [19673-ncaa-football-14.json](./19673-ncaa-football-14.json) |
 | NCAA March Madness 08 | 7384 | [7384-ncaa-march-madness-08.json](./7384-ncaa-march-madness-08.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
 | Neon Steel | 394727 | [394727-neon-steel.json](./394727-neon-steel.json) |
 | Neon Sun | 86405 | [86405-neon-sun.json](./86405-neon-sun.json) |
+| Nephila | 378670 | [378670-nephila.json](./378670-nephila.json) |
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
 | Nest of Dust | 383801 | [383801-nest-of-dust.json](./383801-nest-of-dust.json) |
