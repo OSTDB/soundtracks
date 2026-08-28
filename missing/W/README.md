@@ -27,9 +27,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargasm | 22805 | [22805-wargasm.json](./22805-wargasm.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption | 302169 | [302169-warhammer-40-000-boltgun-forges-of-corruption.json](./302169-warhammer-40-000-boltgun-forges-of-corruption.json) |
 | Warhammer 40,000: Boltgun – Words of Vengeance | 344670 | [344670-warhammer-40-000-boltgun-words-of-vengeance.json](./344670-warhammer-40-000-boltgun-words-of-vengeance.json) |
+| Warhammer 40,000: Chaos Gate (Classic) | 398239 | [398239-warhammer-40-000-chaos-gate-classic.json](./398239-warhammer-40-000-chaos-gate-classic.json) |
 | Warhammer 40,000: Dawn of War - Dark Crusade | 467 | [467-warhammer-40-000-dawn-of-war-dark-crusade.json](./467-warhammer-40-000-dawn-of-war-dark-crusade.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: Last Stand | 36455 | [36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json](./36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json) |
+| Warhammer 40,000: Fire Warrior (Classic) | 398240 | [398240-warhammer-40-000-fire-warrior-classic.json](./398240-warhammer-40-000-fire-warrior-classic.json) |
+| Warhammer: Dark Omen (Classic) | 398243 | [398243-warhammer-dark-omen-classic.json](./398243-warhammer-dark-omen-classic.json) |
 | Warhammer: End Times - Vermintide | 9181 | [9181-warhammer-end-times-vermintide.json](./9181-warhammer-end-times-vermintide.json) |
+| Warhammer: Mark of Chaos - Gold Edition (Classic) | 398241 | [398241-warhammer-mark-of-chaos-gold-edition-classic.json](./398241-warhammer-mark-of-chaos-gold-edition-classic.json) |
+| Warhammer: Shadow of the Horned Rat (Classic) | 398238 | [398238-warhammer-shadow-of-the-horned-rat-classic.json](./398238-warhammer-shadow-of-the-horned-rat-classic.json) |
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
@@ -61,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
+| WEJbA: We Exist Just to be Alive | 398207 | [398207-wejba-we-exist-just-to-be-alive.json](./398207-wejba-we-exist-just-to-be-alive.json) |
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
@@ -161,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds At War | 86508 | [86508-worlds-at-war.json](./86508-worlds-at-war.json) |
 | Worlds of Ultima: The Savage Empire | 14442 | [14442-worlds-of-ultima-the-savage-empire.json](./14442-worlds-of-ultima-the-savage-empire.json) |
+| Wormies | 398258 | [398258-wormies.json](./398258-wormies.json) |
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
 | Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
