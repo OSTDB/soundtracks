@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Book | 154902 | [154902-night-book.json](./154902-night-book.json) |
 | Night Crows | 290671 | [290671-night-crows.json](./290671-night-crows.json) |
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
+| Night Knocks | 379209 | [379209-night-knocks.json](./379209-night-knocks.json) |
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
 | Night Rolls Cozy Store | 407211 | [407211-night-rolls-cozy-store.json](./407211-night-rolls-cozy-store.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightlight | 383808 | [383808-nightlight.json](./383808-nightlight.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
+| Nightpark Journal | 379219 | [379219-nightpark-journal.json](./379219-nightpark-journal.json) |
 | NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
 | Nine Nights to Exposure | 396790 | [396790-nine-nights-to-exposure.json](./396790-nine-nights-to-exposure.json) |
