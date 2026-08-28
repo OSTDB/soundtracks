@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| ¡Tienes 24 Horas! | 372300 | [372300-tienes-24-horas.json](./372300-tienes-24-horas.json) |
 | .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
 | "Suizokukan Kochira" | 395429 | [395429-suizokukan-kochira.json](./395429-suizokukan-kochira.json) |
 | (Soul) Survivor. | 386045 | [386045-soul-survivor.json](./386045-soul-survivor.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Threads of Mizan | 414985 | [414985-1001-threads-of-mizan.json](./414985-1001-threads-of-mizan.json) |
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101 Cats in Beijing | 376897 | [376897-101-cats-in-beijing.json](./376897-101-cats-in-beijing.json) |
+| 101 Cats in Vietnam | 372338 | [372338-101-cats-in-vietnam.json](./372338-101-cats-in-vietnam.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 11th Hour Hero | 376912 | [376912-11th-hour-hero.json](./376912-11th-hour-hero.json) |
 | 12 Floors to Burnout | 376913 | [376913-12-floors-to-burnout.json](./376913-12-floors-to-burnout.json) |
@@ -118,5 +120,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
 | 8bit Salvage | 412828 | [412828-8bit-salvage.json](./412828-8bit-salvage.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
+| Àoshì Xuè Mó | 372320 | [372320-aoshi-xue-mo.json](./372320-aoshi-xue-mo.json) |
 | Ōkami HD | 20744 | [20744-okami-hd.json](./20744-okami-hd.json) |
 | Öoo | 328028 | [328028-ooo.json](./328028-ooo.json) |
