@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
