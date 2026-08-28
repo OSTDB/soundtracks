@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
+| RedPixel | 367775 | [367775-redpixel.json](./367775-redpixel.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
 | RIP Love: A Story of Pain | 392665 | [392665-rip-love-a-story-of-pain.json](./392665-rip-love-a-story-of-pain.json) |
+| Ripple Island: Kyle and Cal’s Restaurant | 367815 | [367815-ripple-island-kyle-and-cal-s-restaurant.json](./367815-ripple-island-kyle-and-cal-s-restaurant.json) |
 | Rise From Ruin | 368300 | [368300-rise-from-ruin.json](./368300-rise-from-ruin.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
@@ -275,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
 | RollerCoaster Tycoon Wonderworks | 414953 | [414953-rollercoaster-tycoon-wonderworks.json](./414953-rollercoaster-tycoon-wonderworks.json) |
 | Rollin' Garry | 411486 | [411486-rollin-garry.json](./411486-rollin-garry.json) |
+| Rolling Thunder | 367785 | [367785-rolling-thunder.json](./367785-rolling-thunder.json) |
 | Roman Adventures - Britons. Season 1 | 110074 | [110074-roman-adventures-britons-season-1.json](./110074-roman-adventures-britons-season-1.json) |
 | Roman Rumble | 387187 | [387187-roman-rumble.json](./387187-roman-rumble.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
