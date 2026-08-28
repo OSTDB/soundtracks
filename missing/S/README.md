@@ -17,6 +17,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
+| SakaTsuku DS: Touch and Direct | 406627 | [406627-sakatsuku-ds-touch-and-direct.json](./406627-sakatsuku-ds-touch-and-direct.json) |
+| SakaTsuku DS: World Challenge 2010 | 406630 | [406630-sakatsuku-ds-world-challenge-2010.json](./406630-sakatsuku-ds-world-challenge-2010.json) |
+| SakaTsuku G | 406631 | [406631-sakatsuku-g.json](./406631-sakatsuku-g.json) |
+| SakaTsuku S: World Stars | 406632 | [406632-sakatsuku-s-world-stars.json](./406632-sakatsuku-s-world-stars.json) |
+| SakaTsuku Tokudai-gou: J. League Pro Soccer Club wo Tsukurou! | 406611 | [406611-sakatsuku-tokudai-gou-j-league-pro-soccer-club-wo-tsukurou.json](./406611-sakatsuku-tokudai-gou-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakura no Toki: Sakura no Mori no Shita wo Ayumu - First Press Limited Edition | 410137 | [410137-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu-first-press-limited-edition.json](./410137-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu-first-press-limited-edition.json) |
 | Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
 | Salammbo: Battle for Carthage | 36310 | [36310-salammbo-battle-for-carthage.json](./36310-salammbo-battle-for-carthage.json) |
@@ -390,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
+| Storytime Cats: A Day at the Park | 406603 | [406603-storytime-cats-a-day-at-the-park.json](./406603-storytime-cats-a-day-at-the-park.json) |
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
@@ -401,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
 | Street Food Simulator | 414227 | [414227-street-food-simulator.json](./414227-street-food-simulator.json) |
+| Streets of Miami VR | 406609 | [406609-streets-of-miami-vr.json](./406609-streets-of-miami-vr.json) |
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strength of the Sword: Ultimate | 22737 | [22737-strength-of-the-sword-ultimate.json](./22737-strength-of-the-sword-ultimate.json) |
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
