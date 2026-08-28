@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
 | Tank vs Big Alien Girl | 391474 | [391474-tank-vs-big-alien-girl.json](./391474-tank-vs-big-alien-girl.json) |
+| Tankazooka | 367252 | [367252-tankazooka.json](./367252-tankazooka.json) |
 | Tanks: Total Destruction | 385474 | [385474-tanks-total-destruction.json](./385474-tanks-total-destruction.json) |
 | Tantan's Hangout | 393362 | [393362-tantans-hangout.json](./393362-tantans-hangout.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
 | The Facility | 405990 | [405990-the-facility.json](./405990-the-facility.json) |
+| The Faction | 367210 | [367210-the-faction.json](./367210-the-faction.json) |
 | The Fair Unknown | 413543 | [413543-the-fair-unknown.json](./413543-the-fair-unknown.json) |
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
@@ -224,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Final Shift | 379773 | [379773-the-final-shift.json](./379773-the-final-shift.json) |
+| The Firestorm is Coming | 367249 | [367249-the-firestorm-is-coming.json](./367249-the-firestorm-is-coming.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
 | The Floor Above | 371729 | [371729-the-floor-above.json](./371729-the-floor-above.json) |
 | The Florist | 375635 | [375635-the-florist.json](./375635-the-florist.json) |
@@ -290,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
 | The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
+| The Last Pawn | 367259 | [367259-the-last-pawn.json](./367259-the-last-pawn.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
@@ -653,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traditional Tactics With Sess-AI 2.0 | 376356 | [376356-traditional-tactics-with-sess-ai-2-0.json](./376356-traditional-tactics-with-sess-ai-2-0.json) |
 | Trailblader | 369416 | [369416-trailblader.json](./369416-trailblader.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
+| Train and Tame | 367258 | [367258-train-and-tame.json](./367258-train-and-tame.json) |
 | Train Hero | 371651 | [371651-train-hero.json](./371651-train-hero.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
 | Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
