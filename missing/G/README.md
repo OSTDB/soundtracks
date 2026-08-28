@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gaia Beyond | 86418 | [86418-gaia-beyond.json](./86418-gaia-beyond.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
+| Gerphyon: The Ender's Mansion | 404147 | [404147-gerphyon-the-enders-mansion.json](./404147-gerphyon-the-enders-mansion.json) |
 | Get Fit: Beach Boys | 407262 | [407262-get-fit-beach-boys.json](./407262-get-fit-beach-boys.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get That Box, Girl! | 404757 | [404757-get-that-box-girl.json](./404757-get-that-box-girl.json) |
