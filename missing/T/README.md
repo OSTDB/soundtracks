@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
+| That Time I Got Reincarnated as a Tyrant God | 403465 | [403465-that-time-i-got-reincarnated-as-a-tyrant-god.json](./403465-that-time-i-got-reincarnated-as-a-tyrant-god.json) |
 | The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
+| The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hat Man | 406000 | [406000-the-hat-man.json](./406000-the-hat-man.json) |
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
+| The Hidden Library | 403452 | [403452-the-hidden-library.json](./403452-the-hidden-library.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
@@ -219,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 1 | 44140 | [44140-the-lost-legends-of-redwall-the-scout-act-1.json](./44140-the-lost-legends-of-redwall-the-scout-act-1.json) |
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
 | The Love Boat | 76649 | [76649-the-love-boat.json](./76649-the-love-boat.json) |
+| The Magician's Hand | 403499 | [403499-the-magicians-hand.json](./403499-the-magicians-hand.json) |
 | The Man Behind the Trigger | 406041 | [406041-the-man-behind-the-trigger.json](./406041-the-man-behind-the-trigger.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
@@ -307,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
+| They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | Thinky Dailies: Season 3 | 404748 | [404748-thinky-dailies-season-3.json](./404748-thinky-dailies-season-3.json) |
@@ -355,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
+| TMT 3 | 403515 | [403515-tmt-3.json](./403515-tmt-3.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
@@ -375,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
 | Tom vs. The Armies of Hell | 16827 | [16827-tom-vs-the-armies-of-hell.json](./16827-tom-vs-the-armies-of-hell.json) |
+| Tomb Busters | 403514 | [403514-tomb-busters.json](./403514-tomb-busters.json) |
 | Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
@@ -468,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
 | Trouble Witches Origin: Episode1 Daughters of Amalgam | 33066 | [33066-trouble-witches-origin-episode1-daughters-of-amalgam.json](./33066-trouble-witches-origin-episode1-daughters-of-amalgam.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
+| Truck Clash Duel | 403495 | [403495-truck-clash-duel.json](./403495-truck-clash-duel.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
@@ -491,5 +499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds | 7222 | [7222-two-worlds.json](./7222-two-worlds.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 1323 | [1323-ty-the-tasmanian-tiger-2-bush-rescue.json](./1323-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | Tycoon City: New York | 9439 | [9439-tycoon-city-new-york.json](./9439-tycoon-city-new-york.json) |
+| Type or Die | 403511 | [403511-type-or-die.json](./403511-type-or-die.json) |
 | Tyrania Enforcers | 406601 | [406601-tyrania-enforcers.json](./406601-tyrania-enforcers.json) |
 | Tyrian | 3804 | [3804-tyrian.json](./3804-tyrian.json) |
