@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagina que tienes 2 vacas | 400124 | [400124-imagina-que-tienes-2-vacas.json](./400124-imagina-que-tienes-2-vacas.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
 | Imagine: Wedding Designer | 7922 | [7922-imagine-wedding-designer.json](./7922-imagine-wedding-designer.json) |
+| Imago Season | 379753 | [379753-imago-season.json](./379753-imago-season.json) |
 | Immune | 35785 | [35785-immune.json](./35785-immune.json) |
 | Immunuzzle | 401402 | [401402-immunuzzle.json](./401402-immunuzzle.json) |
 | Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
