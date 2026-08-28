@@ -100,10 +100,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
+| No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
+| No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
+| Node Zero | 410743 | [410743-node-zero.json](./410743-node-zero.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
@@ -115,3 +118,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Fighter | 412148 | [412148-nova-fighter.json](./412148-nova-fighter.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
+| Numb Digger | 410759 | [410759-numb-digger.json](./410759-numb-digger.json) |
