@@ -9,11 +9,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Mutant Academy 2 | 4110 | [4110-x-men-mutant-academy-2.json](./4110-x-men-mutant-academy-2.json) |
 | X-Plane | 22644 | [22644-x-plane.json](./22644-x-plane.json) |
 | XAOC | 46467 | [46467-xaoc.json](./46467-xaoc.json) |
+| XBattleCarsPVP | 368882 | [368882-xbattlecarspvp.json](./368882-xbattlecarspvp.json) |
 | XCOM 2 Collection | 86268 | [86268-xcom-2-collection.json](./86268-xcom-2-collection.json) |
 | Xdding | 389285 | [389285-xdding.json](./389285-xdding.json) |
 | Xenon 2: Megablast | 370490 | [370490-xenon-2-megablast.json](./370490-xenon-2-megablast.json) |
 | Xenon Valkyrie+ | 77957 | [77957-xenon-valkyrie.json](./77957-xenon-valkyrie.json) |
 | Xiangsheng Simulator | 369954 | [369954-xiangsheng-simulator.json](./369954-xiangsheng-simulator.json) |
+| Xiémén Guǐ Dào | 368845 | [368845-xiemen-gui-dao.json](./368845-xiemen-gui-dao.json) |
 | Xombee MPFPS | 392658 | [392658-xombee-mpfps.json](./392658-xombee-mpfps.json) |
 | XP Girls | 126416 | [126416-xp-girls.json](./126416-xp-girls.json) |
 | XP Hero | 394036 | [394036-xp-hero.json](./394036-xp-hero.json) |
