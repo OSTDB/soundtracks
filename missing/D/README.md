@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
 | Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
+| Dataclysm | 367791 | [367791-dataclysm.json](./367791-dataclysm.json) |
 | Dating Killmulator 2 | 410118 | [410118-dating-killmulator-2.json](./410118-dating-killmulator-2.json) |
 | Daunya-san to Kainushi-kun | 396042 | [396042-daunya-san-to-kainushi-kun.json](./396042-daunya-san-to-kainushi-kun.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmark | 387248 | [387248-deathmark.json](./387248-deathmark.json) |
 | Deathstate | 34457 | [34457-deathstate.json](./34457-deathstate.json) |
 | Deathwave | 32940 | [32940-deathwave.json](./32940-deathwave.json) |
+| Deborg Desolation | 367798 | [367798-deborg-desolation.json](./367798-deborg-desolation.json) |
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay | 400810 | [400810-decay.json](./400810-decay.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon King Domination: Deluxe Edition | 109687 | [109687-demon-king-domination-deluxe-edition.json](./109687-demon-king-domination-deluxe-edition.json) |
 | Demon Peak | 44282 | [44282-demon-peak.json](./44282-demon-peak.json) |
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
+| Demon's Wrath | 367783 | [367783-demons-wrath.json](./367783-demons-wrath.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Demonolition | 386001 | [386001-demonolition.json](./386001-demonolition.json) |
 | Departure | 380259 | [380259-departure.json](./380259-departure.json) |
@@ -231,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil and the Fairy | 86623 | [86623-devil-and-the-fairy.json](./86623-devil-and-the-fairy.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
 | Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
+| Devil Land RPG | 367787 | [367787-devil-land-rpg.json](./367787-devil-land-rpg.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
 | Devil of the Plague | 388583 | [388583-devil-of-the-plague.json](./388583-devil-of-the-plague.json) |
@@ -464,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest I HD-2D Remake | 375616 | [375616-dragon-quest-i-hd-2d-remake.json](./375616-dragon-quest-i-hd-2d-remake.json) |
 | Dragon Quest II HD-2D Remake | 375617 | [375617-dragon-quest-ii-hd-2d-remake.json](./375617-dragon-quest-ii-hd-2d-remake.json) |
+| Dragon Quest Smash/Grow | 367811 | [367811-dragon-quest-smash-grow.json](./367811-dragon-quest-smash-grow.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Seeker | 394004 | [394004-dragon-seeker.json](./394004-dragon-seeker.json) |
 | Dragon Skips | 395434 | [395434-dragon-skips.json](./395434-dragon-skips.json) |
