@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
 | RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
+| Robot Ox | 404131 | [404131-robot-ox.json](./404131-robot-ox.json) |
 | Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
