@@ -142,11 +142,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
+| The Bold Bogey | 371088 | [371088-the-bold-bogey.json](./371088-the-bold-bogey.json) |
 | The Book of Legends | 17059 | [17059-the-book-of-legends.json](./17059-the-book-of-legends.json) |
 | The Box | 398222 | [398222-the-box.json](./398222-the-box.json) |
 | The Bradwell Conspiracy | 107314 | [107314-the-bradwell-conspiracy.json](./107314-the-bradwell-conspiracy.json) |
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
+| The Butcher's Village | 371096 | [371096-the-butchers-village.json](./371096-the-butchers-village.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
@@ -244,7 +246,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
+| The Hull | 371071 | [371071-the-hull.json](./371071-the-hull.json) |
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
+| The Hunter's Journals: Rogues Gallery | 371086 | [371086-the-hunters-journals-rogues-gallery.json](./371086-the-hunters-journals-rogues-gallery.json) |
 | The Huntter | 380896 | [380896-the-huntter.json](./380896-the-huntter.json) |
 | The Incident | 66315 | [66315-the-incident.json](./66315-the-incident.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
@@ -368,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seventh Variable | 384950 | [384950-the-seventh-variable.json](./384950-the-seventh-variable.json) |
 | The Shadow Over Hawksmill | 404759 | [404759-the-shadow-over-hawksmill.json](./404759-the-shadow-over-hawksmill.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
+| The Shaved Ice Shop | 371083 | [371083-the-shaved-ice-shop.json](./371083-the-shaved-ice-shop.json) |
 | The Shovelling Hour | 385464 | [385464-the-shovelling-hour.json](./385464-the-shovelling-hour.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
 | The Sims 2: FreeTime | 5537 | [5537-the-sims-2-freetime.json](./5537-the-sims-2-freetime.json) |
@@ -493,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Timefront | 393324 | [393324-timefront.json](./393324-timefront.json) |
 | Timore 5 | 31517 | [31517-timore-5.json](./31517-timore-5.json) |
+| Timorese Dominatrixes Are the Best | 371090 | [371090-timorese-dominatrixes-are-the-best.json](./371090-timorese-dominatrixes-are-the-best.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
 | Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
 | Tiny Crate | 380873 | [380873-tiny-crate.json](./380873-tiny-crate.json) |
@@ -574,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total RepeAt | 411480 | [411480-total-repeat.json](./411480-total-repeat.json) |
 | Total War: Pharaoh | 250531 | [250531-total-war-pharaoh.json](./250531-total-war-pharaoh.json) |
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
+| Totally Legit Wheeler Seller | 371108 | [371108-totally-legit-wheeler-seller.json](./371108-totally-legit-wheeler-seller.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
 | Tottado! Yoiko no Mujintou Seikatsu | 372332 | [372332-tottado-yoiko-no-mujintou-seikatsu.json](./372332-tottado-yoiko-no-mujintou-seikatsu.json) |
 | Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
@@ -712,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
 | Turbocide | 373914 | [373914-turbocide.json](./373914-turbocide.json) |
 | Turn It Around | 380857 | [380857-turn-it-around.json](./380857-turn-it-around.json) |
+| Turnip Rush | 371093 | [371093-turnip-rush.json](./371093-turnip-rush.json) |
 | Tux Fishing | 382651 | [382651-tux-fishing.json](./382651-tux-fishing.json) |
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
