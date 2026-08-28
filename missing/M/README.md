@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
 | Mental Asylum VR | 29792 | [29792-mental-asylum-vr.json](./29792-mental-asylum-vr.json) |
 | Mental Haze | 411441 | [411441-mental-haze.json](./411441-mental-haze.json) |
+| Meow Box City | 406595 | [406595-meow-box-city.json](./406595-meow-box-city.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
+| Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montas | 16915 | [16915-montas.json](./16915-montas.json) |
 | Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
+| Moon Garden | 406606 | [406606-moon-garden.json](./406606-moon-garden.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall | 15267 | [15267-moonfall.json](./15267-moonfall.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
@@ -258,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Special Forces | 1623 | [1623-mortal-kombat-special-forces.json](./1623-mortal-kombat-special-forces.json) |
 | Mortal Kombat: Tournament Edition | 26635 | [26635-mortal-kombat-tournament-edition.json](./26635-mortal-kombat-tournament-edition.json) |
 | Mortifero Motus | 29731 | [29731-mortifero-motus.json](./29731-mortifero-motus.json) |
+| Mosaic Garden: The Flower Game | 406591 | [406591-mosaic-garden-the-flower-game.json](./406591-mosaic-garden-the-flower-game.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
