@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
+| Fantasy Ore Shop | 389882 | [389882-fantasy-ore-shop.json](./389882-fantasy-ore-shop.json) |
 | Fantasy Versus | 96514 | [96514-fantasy-versus.json](./96514-fantasy-versus.json) |
 | Fantasy World Dizzy | 12090 | [12090-fantasy-world-dizzy.json](./12090-fantasy-world-dizzy.json) |
 | FantaVision | 10392 | [10392-fantavision.json](./10392-fantavision.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Pingas 2 | 404138 | [404138-five-nights-at-pingas-2.json](./404138-five-nights-at-pingas-2.json) |
 | Fix & Flip Dream House | 396104 | [396104-fix-and-flip-dream-house.json](./396104-fix-and-flip-dream-house.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
+| Flame & Forge | 389903 | [389903-flame-and-forge.json](./389903-flame-and-forge.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
 | Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
 | Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
+| Flask & Fury | 389872 | [389872-flask-and-fury.json](./389872-flask-and-fury.json) |
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flat Kingdom: Paper's Cut Edition | 34393 | [34393-flat-kingdom-papers-cut-edition.json](./34393-flat-kingdom-papers-cut-edition.json) |
 | Fleet Hunters | 402758 | [402758-fleet-hunters.json](./402758-fleet-hunters.json) |
@@ -263,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog vs Mural Girl | 391478 | [391478-frog-vs-mural-girl.json](./391478-frog-vs-mural-girl.json) |
 | Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
+| From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
