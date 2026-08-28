@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Niph | 391467 | [391467-niph.json](./391467-niph.json) |
+| Nira: Across Skies | 384938 | [384938-nira-across-skies.json](./384938-nira-across-skies.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
