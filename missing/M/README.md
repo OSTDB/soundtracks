@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Asylum VR | 29792 | [29792-mental-asylum-vr.json](./29792-mental-asylum-vr.json) |
 | Mental Haze | 411441 | [411441-mental-haze.json](./411441-mental-haze.json) |
 | Meow Box City | 406595 | [406595-meow-box-city.json](./406595-meow-box-city.json) |
+| MeowGems | 401410 | [401410-meowgems.json](./401410-meowgems.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
 | Mickey's Space Adventure | 7654 | [7654-mickeys-space-adventure.json](./7654-mickeys-space-adventure.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
+| Micro Race R2 | 401412 | [401412-micro-race-r2.json](./401412-micro-race-r2.json) |
 | Micronova | 404157 | [404157-micronova.json](./404157-micronova.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Slingshot Smash | 405375 | [405375-monster-slingshot-smash.json](./405375-monster-slingshot-smash.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
+| Monster's Death | 401411 | [401411-monsters-death.json](./401411-monsters-death.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
 | Monsters are Coming! Corrupt Edition | 402217 | [402217-monsters-are-coming-corrupt-edition.json](./402217-monsters-are-coming-corrupt-edition.json) |
@@ -267,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moon Garden | 406606 | [406606-moon-garden.json](./406606-moon-garden.json) |
+| Moon Raider: Anniversary Edition | 401413 | [401413-moon-raider-anniversary-edition.json](./401413-moon-raider-anniversary-edition.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall | 15267 | [15267-moonfall.json](./15267-moonfall.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
@@ -308,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
 | Mrs Snake | 89372 | [89372-mrs-snake.json](./89372-mrs-snake.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
+| MTB Bike Simulator | 401414 | [401414-mtb-bike-simulator.json](./401414-mtb-bike-simulator.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
