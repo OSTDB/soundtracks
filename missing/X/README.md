@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Tiger Barcodzz - Storm | 362633 | [362633-x-men-tiger-barcodzz-storm.json](./362633-x-men-tiger-barcodzz-storm.json) |
 | X-Men: Tiger Barcodzz - Wolverine | 362636 | [362636-x-men-tiger-barcodzz-wolverine.json](./362636-x-men-tiger-barcodzz-wolverine.json) |
 | X-Plane | 22644 | [22644-x-plane.json](./22644-x-plane.json) |
+| Xalos Conquest | 359242 | [359242-xalos-conquest.json](./359242-xalos-conquest.json) |
 | XAOC | 46467 | [46467-xaoc.json](./46467-xaoc.json) |
 | XBattleCarsPVP | 368882 | [368882-xbattlecarspvp.json](./368882-xbattlecarspvp.json) |
 | XCOM 2 Collection | 86268 | [86268-xcom-2-collection.json](./86268-xcom-2-collection.json) |
