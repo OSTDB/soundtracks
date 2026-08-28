@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
+| Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hunting USA | 89490 | [89490-hunting-usa.json](./89490-hunting-usa.json) |
