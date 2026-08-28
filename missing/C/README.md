@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
 | Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
+| Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cyber City: Science Crime Mystery | 411449 | [411449-cyber-city-science-crime-mystery.json](./411449-cyber-city-science-crime-mystery.json) |
+| Cyber Demon Protocol | 398888 | [398888-cyber-demon-protocol.json](./398888-cyber-demon-protocol.json) |
 | Cyber Jolt | 29745 | [29745-cyber-jolt.json](./29745-cyber-jolt.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
