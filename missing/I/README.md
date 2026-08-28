@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Empire | 408641 | [408641-infinite-empire.json](./408641-infinite-empire.json) |
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
+| Infinity Nikki: Music Season | 365477 | [365477-infinity-nikki-music-season.json](./365477-infinity-nikki-music-season.json) |
 | Infinity Nikki: Terra's Call | 378638 | [378638-infinity-nikki-terras-call.json](./378638-infinity-nikki-terras-call.json) |
 | Infinos | 373378 | [373378-infinos.json](./373378-infinos.json) |
 | Infinos 2 | 373377 | [373377-infinos-2.json](./373377-infinos-2.json) |
