@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Sky Agriculture Pack | 410124 | [410124-farming-simulator-25-sky-agriculture-pack.json](./410124-farming-simulator-25-sky-agriculture-pack.json) |
 | Farming Simulator 25: Vredo Pack | 392661 | [392661-farming-simulator-25-vredo-pack.json](./392661-farming-simulator-25-vredo-pack.json) |
 | Farming Simulator 26: Nintendo Switch Edition | 396105 | [396105-farming-simulator-26-nintendo-switch-edition.json](./396105-farming-simulator-26-nintendo-switch-edition.json) |
+| Farming Simulator: Signature Edition | 372308 | [372308-farming-simulator-signature-edition.json](./372308-farming-simulator-signature-edition.json) |
 | Farmocalypse | 34412 | [34412-farmocalypse.json](./34412-farmocalypse.json) |
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
 | Farthest Frontier: Cats and Dogs | 400113 | [400113-farthest-frontier-cats-and-dogs.json](./400113-farthest-frontier-cats-and-dogs.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
 | Femboy Futa Mania | 400115 | [400115-femboy-futa-mania.json](./400115-femboy-futa-mania.json) |
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
+| Fènnù de Sūnzi Men | 372318 | [372318-fennu-de-sunzi-men.json](./372318-fennu-de-sunzi-men.json) |
 | Fenrir | 406578 | [406578-fenrir.json](./406578-fenrir.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
@@ -152,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finish Your Project | 383803 | [383803-finish-your-project.json](./383803-finish-your-project.json) |
 | Firby 2 | 400103 | [400103-firby-2.json](./400103-firby-2.json) |
 | Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
+| Fire at Campsite | 372324 | [372324-fire-at-campsite.json](./372324-fire-at-campsite.json) |
 | Fire Department 3 | 22630 | [22630-fire-department-3.json](./22630-fire-department-3.json) |
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
 | Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
@@ -177,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Metalhead Motorboat Pack | 376291 | [376291-fishing-planet-metalhead-motorboat-pack.json](./376291-fishing-planet-metalhead-motorboat-pack.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
+| Fit and Fry: Mise En Place | 372302 | [372302-fit-and-fry-mise-en-place.json](./372302-fit-and-fry-mise-en-place.json) |
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
 | Five Faizul Fridays DX | 398220 | [398220-five-faizul-fridays-dx.json](./398220-five-faizul-fridays-dx.json) |
 | Five Holy Girls | 399459 | [399459-five-holy-girls.json](./399459-five-holy-girls.json) |
@@ -209,10 +213,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flo | 87585 | [87585-flo.json](./87585-flo.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
+| Flockout | 372287 | [372287-flockout.json](./372287-flockout.json) |
 | Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
 | Florida Man Court | 409454 | [409454-florida-man-court.json](./409454-florida-man-court.json) |
 | Floriety | 382635 | [382635-floriety.json](./382635-floriety.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
+| Flow Free: Shapes | 372323 | [372323-flow-free-shapes.json](./372323-flow-free-shapes.json) |
 | FlowCity Builder | 378048 | [378048-flowcity-builder.json](./378048-flowcity-builder.json) |
 | Flowers to Honey | 399518 | [399518-flowers-to-honey.json](./399518-flowers-to-honey.json) |
 | Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
@@ -270,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Corners: Square Off | 381452 | [381452-four-corners-square-off.json](./381452-four-corners-square-off.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
 | Fox Jam | 405395 | [405395-fox-jam.json](./405395-fox-jam.json) |
+| Fox's Zen House | 372285 | [372285-foxs-zen-house.json](./372285-foxs-zen-house.json) |
 | FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
@@ -334,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
+| Funny Animal Cafe | 372286 | [372286-funny-animal-cafe.json](./372286-funny-animal-cafe.json) |
 | Funny Bones | 373921 | [373921-funny-bones.json](./373921-funny-bones.json) |
 | Furikake Spacey OVA: Vietnam Thai Cambodia Philippines-hen | 379221 | [379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json](./379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
