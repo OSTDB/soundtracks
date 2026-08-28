@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
 | Ocean Otter Swim | 388622 | [388622-ocean-otter-swim.json](./388622-ocean-otter-swim.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
+| Ocean::Ephemera | 387853 | [387853-ocean-ephemera.json](./387853-ocean-ephemera.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
 | Octopticom | 110147 | [110147-octopticom.json](./110147-octopticom.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Magnum: Complete Edition | 392618 | [392618-opus-magnum-complete-edition.json](./392618-opus-magnum-complete-edition.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
+| Oradea | 387858 | [387858-oradea.json](./387858-oradea.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
