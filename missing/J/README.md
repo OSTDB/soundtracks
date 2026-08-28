@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit | 3167 | [3167-jazz-jackrabbit.json](./3167-jazz-jackrabbit.json) |
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
 | Jeep Horror | 414191 | [414191-jeep-horror.json](./414191-jeep-horror.json) |
+| Jeffrey Eggstein | 407920 | [407920-jeffrey-eggstein.json](./407920-jeffrey-eggstein.json) |
 | Jelly Float | 412877 | [412877-jelly-float.json](./412877-jelly-float.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
