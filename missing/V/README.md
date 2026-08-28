@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Soup | 407930 | [407930-vapor-soup.json](./407930-vapor-soup.json) |
 | Varius | 102308 | [102308-varius.json](./102308-varius.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
+| Vastar | 384388 | [384388-vastar.json](./384388-vastar.json) |
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
