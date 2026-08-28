@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| T7's Basics in Educational | 411476 | [411476-t7s-basics-in-educational.json](./411476-t7s-basics-in-educational.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
@@ -347,7 +348,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
 | Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
+| Torovo | 411456 | [411456-torovo.json](./411456-torovo.json) |
 | Total Lockdown | 123238 | [123238-total-lockdown.json](./123238-total-lockdown.json) |
+| Total RepeAt | 411480 | [411480-total-repeat.json](./411480-total-repeat.json) |
 | Total War: Pharaoh | 250531 | [250531-total-war-pharaoh.json](./250531-total-war-pharaoh.json) |
 | Total War: Warhammer III | 143114 | [143114-total-war-warhammer-iii.json](./143114-total-war-warhammer-iii.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
@@ -367,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
 | Tower of Heaven | 28005 | [28005-tower-of-heaven.json](./28005-tower-of-heaven.json) |
+| Tower of Insolence | 411431 | [411431-tower-of-insolence.json](./411431-tower-of-insolence.json) |
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
 | Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
