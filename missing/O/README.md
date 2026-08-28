@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okurek | 404154 | [404154-okurek.json](./404154-okurek.json) |
 | OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
+| Om Nom: Run 2 - Gold Edition | 402179 | [402179-om-nom-run-2-gold-edition.json](./402179-om-nom-run-2-gold-edition.json) |
 | Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Omnipresent | 34443 | [34443-omnipresent.json](./34443-omnipresent.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore | 86465 | [86465-ore.json](./86465-ore.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
+| Orwell Bundle | 402197 | [402197-orwell-bundle.json](./402197-orwell-bundle.json) |
 | Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Oryo | 412183 | [412183-oryo.json](./412183-oryo.json) |
 | Otaku's Fantasy | 63718 | [63718-otakus-fantasy.json](./63718-otakus-fantasy.json) |
