@@ -8,7 +8,7 @@ Games known to OSTDB (via IGDB) that don't have a soundtrack entry yet. Pick a l
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 397 games | 397 games | 451 games | 561 games | 186 games | 318 games | 252 games |
+| 397 games | 397 games | 451 games | 562 games | 186 games | 318 games | 253 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,9 +20,9 @@ Games known to OSTDB (via IGDB) that don't have a soundtrack entry yet. Pick a l
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 95 games | 246 games | 12 games | 46 games | 46 games | 62 games |
+| 95 games | 246 games | 12 games | 46 games | 46 games | 110 games |
 
 
 ---
 
-_6931 games missing a soundtrack · last updated 2026-08-28T15:47:31.008Z_
+_6981 games missing a soundtrack · last updated 2026-08-28T16:02:21.299Z_
