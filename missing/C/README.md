@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Beatz | 87627 | [87627-color-beatz.json](./87627-color-beatz.json) |
 | Color by Number - Poly Art | 96084 | [96084-color-by-number-poly-art.json](./96084-color-by-number-poly-art.json) |
 | Color by Numbers - Halloween + | 87645 | [87645-color-by-numbers-halloween.json](./87645-color-by-numbers-halloween.json) |
+| Color Inverter | 401395 | [401395-color-inverter.json](./401395-color-inverter.json) |
 | Color Switch 3D | 87644 | [87644-color-switch-3d.json](./87644-color-switch-3d.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Common Sense National Championship | 409485 | [409485-common-sense-national-championship.json](./409485-common-sense-national-championship.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Competitive TicTacToe | 404108 | [404108-competitive-tictactoe.json](./404108-competitive-tictactoe.json) |
+| Compound Word Puzzles 3 | 401394 | [401394-compound-word-puzzles-3.json](./401394-compound-word-puzzles-3.json) |
 | Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
 | Concepts | 403460 | [403460-concepts.json](./403460-concepts.json) |
 | Condemned 2: Recompiled | 412833 | [412833-condemned-2-recompiled.json](./412833-condemned-2-recompiled.json) |
@@ -232,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
 | Contra: The Alien Wars | 48914 | [48914-contra-the-alien-wars.json](./48914-contra-the-alien-wars.json) |
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
+| Cook the Word | 401393 | [401393-cook-the-word.json](./401393-cook-the-word.json) |
 | Cookie & Cream | 47704 | [47704-cookie-and-cream.json](./47704-cookie-and-cream.json) |
 | Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
@@ -256,9 +259,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
 | Covr | 413534 | [413534-covr.json](./413534-covr.json) |
+| Cowboy Duel VR: Red Wild West Massacre | 401392 | [401392-cowboy-duel-vr-red-wild-west-massacre.json](./401392-cowboy-duel-vr-red-wild-west-massacre.json) |
+| Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
+| Cozy Basket | 401390 | [401390-cozy-basket.json](./401390-cozy-basket.json) |
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
+| Cozy Valley Life | 401389 | [401389-cozy-valley-life.json](./401389-cozy-valley-life.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
@@ -311,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
+| Cube KaBaam: Cryptic Trail | 401388 | [401388-cube-kabaam-cryptic-trail.json](./401388-cube-kabaam-cryptic-trail.json) |
 | Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Cubic | 408693 | [408693-cubic.json](./408693-cubic.json) |
