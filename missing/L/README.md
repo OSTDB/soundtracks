@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion: Arcane Origins | 372867 | [372867-legion-arcane-origins.json](./372867-legion-arcane-origins.json) |
 | LEGO 2K Drive | 242493 | [242493-lego-2k-drive.json](./242493-lego-2k-drive.json) |
 | LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
+| LEGO Mindstorms Fix the Factory | 362099 | [362099-lego-mindstorms-fix-the-factory.json](./362099-lego-mindstorms-fix-the-factory.json) |
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
 | LEGO Rock Raiders | 2157 | [2157-lego-rock-raiders.json](./2157-lego-rock-raiders.json) |
 | LEGO Skylines | 414994 | [414994-lego-skylines.json](./414994-lego-skylines.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Jigsaw Puzzles | 402163 | [402163-luminous-jigsaw-puzzles.json](./402163-luminous-jigsaw-puzzles.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
+| Lunar Strike | 362102 | [362102-lunar-strike.json](./362102-lunar-strike.json) |
 | Lunar Tide | 384934 | [384934-lunar-tide.json](./384934-lunar-tide.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
