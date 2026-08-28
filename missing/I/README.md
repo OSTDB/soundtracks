@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
 | It Starts with a Summon | 390399 | [390399-it-starts-with-a-summon.json](./390399-it-starts-with-a-summon.json) |
 | It's Always Happy at Chubby's | 375659 | [375659-its-always-happy-at-chubbys.json](./375659-its-always-happy-at-chubbys.json) |
+| It's Hard To Be A Support | 366666 | [366666-its-hard-to-be-a-support.json](./366666-its-hard-to-be-a-support.json) |
 | It's Inside Me | 378065 | [378065-its-inside-me.json](./378065-its-inside-me.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
