@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of the Cosmos | 366066 | [366066-champions-of-the-cosmos.json](./366066-champions-of-the-cosmos.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
+| Changgwi | 364928 | [364928-changgwi.json](./364928-changgwi.json) |
 | Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
