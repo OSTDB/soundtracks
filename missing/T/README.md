@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Place | 380887 | [380887-the-place.json](./380887-the-place.json) |
 | The Political Simulator | 410140 | [410140-the-political-simulator.json](./410140-the-political-simulator.json) |
+| The Portsmoor Abysm | 377469 | [377469-the-portsmoor-abysm.json](./377469-the-portsmoor-abysm.json) |
 | The Postman Cometh | 391492 | [391492-the-postman-cometh.json](./391492-the-postman-cometh.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Princess Factory | 385452 | [385452-the-princess-factory.json](./385452-the-princess-factory.json) |
