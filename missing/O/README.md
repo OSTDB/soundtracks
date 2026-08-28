@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
+| Orbit Arcadia | 387239 | [387239-orbit-arcadia.json](./387239-orbit-arcadia.json) |
 | Orbit to Riches | 399520 | [399520-orbit-to-riches.json](./399520-orbit-to-riches.json) |
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouroboros Project | 101657 | [101657-ouroboros-project.json](./101657-ouroboros-project.json) |
 | Out of the Box | 29824 | [29824-out-of-the-box.json](./29824-out-of-the-box.json) |
 | Out of the Park Baseball 15 | 16955 | [16955-out-of-the-park-baseball-15.json](./16955-out-of-the-park-baseball-15.json) |
+| Out of the Park Baseball 27 | 387240 | [387240-out-of-the-park-baseball-27.json](./387240-out-of-the-park-baseball-27.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outbreak Compound | 401416 | [401416-outbreak-compound.json](./401416-outbreak-compound.json) |
 | Outbreak Fall: Biohazard | 394737 | [394737-outbreak-fall-biohazard.json](./394737-outbreak-fall-biohazard.json) |
