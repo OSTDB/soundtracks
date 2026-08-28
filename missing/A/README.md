@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
 | Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
 | ADT Pilot 01 | 367795 | [367795-adt-pilot-01.json](./367795-adt-pilot-01.json) |
+| Adult Education | 367261 | [367261-adult-education.json](./367261-adult-education.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
 | Amazing Tater | 7754 | [7754-amazing-tater.json](./7754-amazing-tater.json) |
+| Amazon Passion | 367220 | [367220-amazon-passion.json](./367220-amazon-passion.json) |
 | Amazone | 385496 | [385496-amazone.json](./385496-amazone.json) |
 | Amber Ceres | 400761 | [400761-amber-ceres.json](./400761-amber-ceres.json) |
 | Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
 | Angel Love Online 2 | 372879 | [372879-angel-love-online-2.json](./372879-angel-love-online-2.json) |
+| Angels of Darkness Angels of Light | 367250 | [367250-angels-of-darkness-angels-of-light.json](./367250-angels-of-darkness-angels-of-light.json) |
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
