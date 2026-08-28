@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
+| Keks Slot Machines | 389275 | [389275-keks-slot-machines.json](./389275-keks-slot-machines.json) |
 | KemonoMix Re | 396793 | [396793-kemonomix-re.json](./396793-kemonomix-re.json) |
 | Kemuri Neko | 398218 | [398218-kemuri-neko.json](./398218-kemuri-neko.json) |
 | Ken to Mahou no Relic Saga | 410119 | [410119-ken-to-mahou-no-relic-saga.json](./410119-ken-to-mahou-no-relic-saga.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa Beach Volleyball | 22702 | [22702-klonoa-beach-volleyball.json](./22702-klonoa-beach-volleyball.json) |
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
+| Knight and Code | 389302 | [389302-knight-and-code.json](./389302-knight-and-code.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
