@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
+| Raycatcher | 14954 | [14954-raycatcher.json](./14954-raycatcher.json) |
 | Raygun Commando VR | 29896 | [29896-raygun-commando-vr.json](./29896-raygun-commando-vr.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
+| Ride! Carnival Tycoon | 15788 | [15788-ride-carnival-tycoon.json](./15788-ride-carnival-tycoon.json) |
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
