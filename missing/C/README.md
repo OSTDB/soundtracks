@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
 | Console Archives: Terra Cresta | 396096 | [396096-console-archives-terra-cresta.json](./396096-console-archives-terra-cresta.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
+| Constellations | 367266 | [367266-constellations.json](./367266-constellations.json) |
 | Contagious Mayhem | 370525 | [370525-contagious-mayhem.json](./370525-contagious-mayhem.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
