@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
 | EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
+| Emoji Killer: Casino Massacre | 414230 | [414230-emoji-killer-casino-massacre.json](./414230-emoji-killer-casino-massacre.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Divine Wind | 10270 | [10270-europa-universalis-iii-divine-wind.json](./10270-europa-universalis-iii-divine-wind.json) |
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
+| Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
