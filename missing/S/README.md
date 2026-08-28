@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
 | Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
+| Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Theory | 398896 | [398896-slot-theory.json](./398896-slot-theory.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
+| Small Bee | 396800 | [396800-small-bee.json](./396800-small-bee.json) |
 | Small World of Golf | 404134 | [404134-small-world-of-golf.json](./404134-small-world-of-golf.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
@@ -366,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
+| Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
@@ -422,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Ultimate Bug War! | 380415 | [380415-starship-troopers-ultimate-bug-war.json](./380415-starship-troopers-ultimate-bug-war.json) |
 | Starsky & Hutch | 4183 | [4183-starsky-and-hutch.json](./4183-starsky-and-hutch.json) |
 | Starters Orders 6 | 33060 | [33060-starters-orders-6.json](./33060-starters-orders-6.json) |
+| StarTrain | 396795 | [396795-startrain.json](./396795-startrain.json) |
 | Startup Company | 29173 | [29173-startup-company.json](./29173-startup-company.json) |
 | Stasis | 9661 | [9661-stasis.json](./9661-stasis.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
@@ -448,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
+| Stonewards | 396815 | [396815-stonewards.json](./396815-stonewards.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
 | Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
