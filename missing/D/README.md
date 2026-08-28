@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatch | 181624 | [181624-dispatch.json](./181624-dispatch.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
 | Dissidia Final Fantasy Opera Omnia | 24400 | [24400-dissidia-final-fantasy-opera-omnia.json](./24400-dissidia-final-fantasy-opera-omnia.json) |
+| Dissolution of the Silent Union | 402212 | [402212-dissolution-of-the-silent-union.json](./402212-dissolution-of-the-silent-union.json) |
 | Distortions | 86525 | [86525-distortions.json](./86525-distortions.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
 | Divinity II: Developer's Cut | 78459 | [78459-divinity-ii-developers-cut.json](./78459-divinity-ii-developers-cut.json) |
