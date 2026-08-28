@@ -171,4 +171,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
 | Gymnastics Salon - Makeup & Dressup Girls Game | 89534 | [89534-gymnastics-salon-makeup-and-dressup-girls-game.json](./89534-gymnastics-salon-makeup-and-dressup-girls-game.json) |
 | Gynophobia | 18592 | [18592-gynophobia.json](./18592-gynophobia.json) |
+| Gyro | 409462 | [409462-gyro.json](./409462-gyro.json) |
 | Gyromancer | 10385 | [10385-gyromancer.json](./10385-gyromancer.json) |
