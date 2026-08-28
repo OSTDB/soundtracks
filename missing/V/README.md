@@ -92,3 +92,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Excitebike | 41296 | [41296-vs-excitebike.json](./41296-vs-excitebike.json) |
 | Vulcan Venture | 39999 | [39999-vulcan-venture.json](./39999-vulcan-venture.json) |
 | Vulture for NetHack | 35946 | [35946-vulture-for-nethack.json](./35946-vulture-for-nethack.json) |
+| Vyce | 386595 | [386595-vyce.json](./386595-vyce.json) |
