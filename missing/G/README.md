@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
 | Garage Mechanic Simulator 2026 | 404729 | [404729-garage-mechanic-simulator-2026.json](./404729-garage-mechanic-simulator-2026.json) |
 | Garbage Truck Simulator 2011 | 22638 | [22638-garbage-truck-simulator-2011.json](./22638-garbage-truck-simulator-2011.json) |
+| Gardenia | 398875 | [398875-gardenia.json](./398875-gardenia.json) |
 | Garfield: A Tail of Two Kitties | 23734 | [23734-garfield-a-tail-of-two-kitties.json](./23734-garfield-a-tail-of-two-kitties.json) |
 | Gargoyles | 4530 | [4530-gargoyles.json](./4530-gargoyles.json) |
 | Garten of Banban | 230468 | [230468-garten-of-banban.json](./230468-garten-of-banban.json) |
@@ -133,6 +134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
+| Gothic II: Battle of the Kings 3 | 398858 | [398858-gothic-ii-battle-of-the-kings-3.json](./398858-gothic-ii-battle-of-the-kings-3.json) |
+| Gothic II: Piratenleben | 398861 | [398861-gothic-ii-piratenleben.json](./398861-gothic-ii-piratenleben.json) |
+| Gothic II: The Black Heart | 398878 | [398878-gothic-ii-the-black-heart.json](./398878-gothic-ii-the-black-heart.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
 | Governor of Poker 2: Premium Edition | 30146 | [30146-governor-of-poker-2-premium-edition.json](./30146-governor-of-poker-2-premium-edition.json) |
 | Grablings: Paint 'n Seek | 413533 | [413533-grablings-paint-n-seek.json](./413533-grablings-paint-n-seek.json) |
@@ -178,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
 | Groundwork | 414970 | [414970-groundwork.json](./414970-groundwork.json) |
+| Grow Demon Slimes | 398883 | [398883-grow-demon-slimes.json](./398883-grow-demon-slimes.json) |
 | Growth | 238644 | [238644-growth.json](./238644-growth.json) |
 | GS Mikami: Joreishi ha Nice Body | 42373 | [42373-gs-mikami-joreishi-ha-nice-body.json](./42373-gs-mikami-joreishi-ha-nice-body.json) |
 | GT Legends | 736 | [736-gt-legends.json](./736-gt-legends.json) |
