@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Yà Mù Dì Sī | 407980 | [407980-ya-mu-di-si.json](./407980-ya-mu-di-si.json) |
+| Yami to Hikari no Sanctuary | 398853 | [398853-yami-to-hikari-no-sanctuary.json](./398853-yami-to-hikari-no-sanctuary.json) |
 | Yatzy: Classic Dice Game | 86683 | [86683-yatzy-classic-dice-game.json](./86683-yatzy-classic-dice-game.json) |
 | Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
 | YGOMaster-TCG | 399455 | [399455-ygomaster-tcg.json](./399455-ygomaster-tcg.json) |
