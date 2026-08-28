@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Extinct: Jurassic Dinosaurs | 396829 | [396829-de-extinct-jurassic-dinosaurs.json](./396829-de-extinct-jurassic-dinosaurs.json) |
 | De-Limited | 403463 | [403463-de-limited.json](./403463-de-limited.json) |
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
+| Dead 4 Now: Escape Together | 389893 | [389893-dead-4-now-escape-together.json](./389893-dead-4-now-escape-together.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead by Daylight: Jason | 407237 | [407237-dead-by-daylight-jason.json](./407237-dead-by-daylight-jason.json) |
 | Dead Color | 406584 | [406584-dead-color.json](./406584-dead-color.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Depleted | 395449 | [395449-depleted.json](./395449-depleted.json) |
+| Deployed | 389869 | [389869-deployed.json](./389869-deployed.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
@@ -229,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DisGo | 393303 | [393303-disgo.json](./393303-disgo.json) |
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
+| Diskette Dungeon | 389897 | [389897-diskette-dungeon.json](./389897-diskette-dungeon.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
 | Disney Dreamlight Valley: A Hero's Journey | 404122 | [404122-disney-dreamlight-valley-a-heros-journey.json](./404122-disney-dreamlight-valley-a-heros-journey.json) |
 | Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
@@ -366,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
 | Draw, Draw, Pass! | 392060 | [392060-draw-draw-pass.json](./392060-draw-draw-pass.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
+| Dreadmarch | 389870 | [389870-dreadmarch.json](./389870-dreadmarch.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
