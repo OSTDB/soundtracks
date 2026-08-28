@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Seeker | 394004 | [394004-dragon-seeker.json](./394004-dragon-seeker.json) |
 | Dragon Skips | 395434 | [395434-dragon-skips.json](./395434-dragon-skips.json) |
 | Dragon Soul | 409481 | [409481-dragon-soul.json](./409481-dragon-soul.json) |
 | Dragon Village 3 | 408682 | [408682-dragon-village-3.json](./408682-dragon-village-3.json) |
