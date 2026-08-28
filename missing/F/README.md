@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 2: Jungle Escape | 95645 | [95645-faraway-2-jungle-escape.json](./95645-faraway-2-jungle-escape.json) |
 | Farm Pro 26 Simulator | 409493 | [409493-farm-pro-26-simulator.json](./409493-farm-pro-26-simulator.json) |
 | Farmbound | 415002 | [415002-farmbound.json](./415002-farmbound.json) |
+| Farmer Reborn | 378628 | [378628-farmer-reborn.json](./378628-farmer-reborn.json) |
 | Farming Incremental But With Guns | 399536 | [399536-farming-incremental-but-with-guns.json](./399536-farming-incremental-but-with-guns.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireside Journey: The Creative Path of Fireside Feelings | 389301 | [389301-fireside-journey-the-creative-path-of-fireside-feelings.json](./389301-fireside-journey-the-creative-path-of-fireside-feelings.json) |
 | Firestarters | 386589 | [386589-firestarters.json](./386589-firestarters.json) |
 | First Draft | 414989 | [414989-first-draft.json](./414989-first-draft.json) |
+| First Strike | 378676 | [378676-first-strike.json](./378676-first-strike.json) |
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | From the Last Shift: Horror Collection | 380892 | [380892-from-the-last-shift-horror-collection.json](./380892-from-the-last-shift-horror-collection.json) |
+| From The Void | 378674 | [378674-from-the-void.json](./378674-from-the-void.json) |
 | Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
