@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
 | Slap Your Homies | 392639 | [392639-slap-your-homies.json](./392639-slap-your-homies.json) |
 | SlapCats | 373920 | [373920-slapcats.json](./373920-slapcats.json) |
+| Slashbang | 369406 | [369406-slashbang.json](./369406-slashbang.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slay the Abyss | 384370 | [384370-slay-the-abyss.json](./384370-slay-the-abyss.json) |
@@ -325,11 +326,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Dogs: Wheels of Fury | 78449 | [78449-sleeping-dogs-wheels-of-fury.json](./78449-sleeping-dogs-wheels-of-fury.json) |
 | Slender PSP | 403516 | [403516-slender-psp.json](./403516-slender-psp.json) |
 | Slender's Woods | 165405 | [165405-slenders-woods.json](./165405-slenders-woods.json) |
+| Slice Night 3: Slicer of the 7 Dreams | 369408 | [369408-slice-night-3-slicer-of-the-7-dreams.json](./369408-slice-night-3-slicer-of-the-7-dreams.json) |
 | Slice the Crops! | 390402 | [390402-slice-the-crops.json](./390402-slice-the-crops.json) |
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
+| Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
@@ -338,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
 | Slot Theory | 398896 | [398896-slot-theory.json](./398896-slot-theory.json) |
+| Slug Fling | 369411 | [369411-slug-fling.json](./369411-slug-fling.json) |
 | Slutty Wife | 393367 | [393367-slutty-wife.json](./393367-slutty-wife.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
@@ -415,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blast Man II | 42459 | [42459-sonic-blast-man-ii.json](./42459-sonic-blast-man-ii.json) |
 | Sonic Chronicles: The Dark Brotherhood | 217 | [217-sonic-chronicles-the-dark-brotherhood.json](./217-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Drift 2 | 46358 | [46358-sonic-drift-2.json](./46358-sonic-drift-2.json) |
+| Sonic Drift GG2SMS | 369438 | [369438-sonic-drift-gg2sms.json](./369438-sonic-drift-gg2sms.json) |
 | Sonic Eraser | 51946 | [51946-sonic-eraser.json](./51946-sonic-eraser.json) |
 | Sonic Mega Collection Plus | 22297 | [22297-sonic-mega-collection-plus.json](./22297-sonic-mega-collection-plus.json) |
 | Sonic Pico Park | 404714 | [404714-sonic-pico-park.json](./404714-sonic-pico-park.json) |
@@ -726,10 +731,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Bowl | 370507 | [370507-super-bowl.json](./370507-super-bowl.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
+| Super Crash | 369421 | [369421-super-crash.json](./369421-super-crash.json) |
 | Super Dimensional Creator | 376302 | [376302-super-dimensional-creator.json](./376302-super-dimensional-creator.json) |
 | Super Doot Sunshine | 387856 | [387856-super-doot-sunshine.json](./387856-super-doot-sunshine.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Fluid Hyper Flow! | 412181 | [412181-super-fluid-hyper-flow.json](./412181-super-fluid-hyper-flow.json) |
+| Super Freaks 1: Ultimate Edition Turbo | 369412 | [369412-super-freaks-1-ultimate-edition-turbo.json](./369412-super-freaks-1-ultimate-edition-turbo.json) |
 | Super Frozen World 2 | 394018 | [394018-super-frozen-world-2.json](./394018-super-frozen-world-2.json) |
 | Super Galaxy Gladiator | 404121 | [404121-super-galaxy-gladiator.json](./404121-super-galaxy-gladiator.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
