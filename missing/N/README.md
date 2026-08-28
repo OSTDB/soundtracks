@@ -52,6 +52,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
 | Neko Arena | 125714 | [125714-neko-arena.json](./125714-neko-arena.json) |
 | Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
+| Nekopara Love Project Vol. 2 | 375035 | [375035-nekopara-love-project-vol-2.json](./375035-nekopara-love-project-vol-2.json) |
+| Nekopara Love Project Vol. 3 | 375036 | [375036-nekopara-love-project-vol-3.json](./375036-nekopara-love-project-vol-3.json) |
 | Nekotype Keyboard Cat Simulator | 386020 | [386020-nekotype-keyboard-cat-simulator.json](./386020-nekotype-keyboard-cat-simulator.json) |
 | Nekro | 16622 | [16622-nekro.json](./16622-nekro.json) |
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Gold | 22588 | [22588-neverwinter-nights-2-gold.json](./22588-neverwinter-nights-2-gold.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
 | Neverwinter Nights: Kingmaker | 9225 | [9225-neverwinter-nights-kingmaker.json](./9225-neverwinter-nights-kingmaker.json) |
+| New Folder | 375020 | [375020-new-folder.json](./375020-new-folder.json) |
 | New Frontier Days: Founding Pioneers | 37050 | [37050-new-frontier-days-founding-pioneers.json](./37050-new-frontier-days-founding-pioneers.json) |
 | New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
@@ -113,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
 | Night Knocks | 379209 | [379209-night-knocks.json](./379209-night-knocks.json) |
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
+| Night of the Ritual | 375021 | [375021-night-of-the-ritual.json](./375021-night-of-the-ritual.json) |
 | Night Rolls Cozy Store | 407211 | [407211-night-rolls-cozy-store.json](./407211-night-rolls-cozy-store.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
 | Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
@@ -122,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
 | Nightfall | 383826 | [383826-nightfall.json](./383826-nightfall.json) |
 | Nightfall Berlin | 386572 | [386572-nightfall-berlin.json](./386572-nightfall-berlin.json) |
+| Nightholme | 375049 | [375049-nightholme.json](./375049-nightholme.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightlight | 383808 | [383808-nightlight.json](./383808-nightlight.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
