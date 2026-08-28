@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday | 378053 | [378053-mayday.json](./378053-mayday.json) |
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
 | Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
+| Maze Adventure | 372844 | [372844-maze-adventure.json](./372844-maze-adventure.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | Mazino | 384385 | [384385-mazino.json](./384385-mazino.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Mine the Deep | 410141 | [410141-mine-the-deep.json](./410141-mine-the-deep.json) |
+| Minecraft: 15 Year Party Supplies | 372877 | [372877-minecraft-15-year-party-supplies.json](./372877-minecraft-15-year-party-supplies.json) |
 | Minecraft: Shared Inventory | 378656 | [378656-minecraft-shared-inventory.json](./378656-minecraft-shared-inventory.json) |
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
@@ -365,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster x Mediator 404 | 400142 | [400142-monster-x-mediator-404.json](./400142-monster-x-mediator-404.json) |
 | Monster's Death | 401411 | [401411-monsters-death.json](./401411-monsters-death.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
+| Monsters & Magics: Digital Card Game | 372868 | [372868-monsters-and-magics-digital-card-game.json](./372868-monsters-and-magics-digital-card-game.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
 | Monsters are Coming! Corrupt Edition | 402217 | [402217-monsters-are-coming-corrupt-edition.json](./402217-monsters-are-coming-corrupt-edition.json) |
 | Monsters are Coming! Power Corrupts | 402219 | [402219-monsters-are-coming-power-corrupts.json](./402219-monsters-are-coming-power-corrupts.json) |
