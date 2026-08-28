@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
+| Rackpunk: A Wasteland Hustle | 396077 | [396077-rackpunk-a-wasteland-hustle.json](./396077-rackpunk-a-wasteland-hustle.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
