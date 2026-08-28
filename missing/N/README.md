@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Manager | 109634 | [109634-new-star-manager.json](./109634-new-star-manager.json) |
 | New Super Lucky's Tale | 119403 | [119403-new-super-luckys-tale.json](./119403-new-super-luckys-tale.json) |
 | New Super Luigi U | 2173 | [2173-new-super-luigi-u.json](./2173-new-super-luigi-u.json) |
+| New Supermarket Simulator | 401415 | [401415-new-supermarket-simulator.json](./401415-new-supermarket-simulator.json) |
 | New York Mysteries: The Outbreak | 126782 | [126782-new-york-mysteries-the-outbreak.json](./126782-new-york-mysteries-the-outbreak.json) |
 | News Tower | 196851 | [196851-news-tower.json](./196851-news-tower.json) |
 | NextWorld2 | 307930 | [307930-nextworld2.json](./307930-nextworld2.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
+| Noodlebound | 401419 | [401419-noodlebound.json](./401419-noodlebound.json) |
 | Norectus: Theatre of War | 406030 | [406030-norectus-theatre-of-war.json](./406030-norectus-theatre-of-war.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
 | North vs. South: The Great American Civil War | 22834 | [22834-north-vs-south-the-great-american-civil-war.json](./22834-north-vs-south-the-great-american-civil-war.json) |
