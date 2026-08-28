@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1v1 Me | 376939 | [376939-1v1-me.json](./376939-1v1-me.json) |
 | 2 Hours | 376930 | [376930-2-hours.json](./376930-2-hours.json) |
 | 2-Player Games for 1 Device | 385996 | [385996-2-player-games-for-1-device.json](./385996-2-player-games-for-1-device.json) |
+| 20-in-1 Bundle: Megapack Collection! | 373399 | [373399-20-in-1-bundle-megapack-collection.json](./373399-20-in-1-bundle-megapack-collection.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
