@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
 | Battle Puzzle 2048: Maidens of Steel | 394720 | [394720-battle-puzzle-2048-maidens-of-steel.json](./394720-battle-puzzle-2048-maidens-of-steel.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
+| Battle Royale Builder | 367769 | [367769-battle-royale-builder.json](./367769-battle-royale-builder.json) |
 | Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
 | Battle Simulator: Counter Terrorist | 404762 | [404762-battle-simulator-counter-terrorist.json](./404762-battle-simulator-counter-terrorist.json) |
 | Battle Slugger | 385495 | [385495-battle-slugger.json](./385495-battle-slugger.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 8 | 371067 | [371067-bdsm-sex-episode-8.json](./371067-bdsm-sex-episode-8.json) |
 | BDSM Sex: Episode 9 | 371073 | [371073-bdsm-sex-episode-9.json](./371073-bdsm-sex-episode-9.json) |
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
+| Be My Girlfriends | 367801 | [367801-be-my-girlfriends.json](./367801-be-my-girlfriends.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
 | Beak the Hunter | 376327 | [376327-beak-the-hunter.json](./376327-beak-the-hunter.json) |
@@ -348,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Ultra Edition | 402175 | [402175-bowling-fever-ultra-edition.json](./402175-bowling-fever-ultra-edition.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
+| Boxel 3D | 367802 | [367802-boxel-3d.json](./367802-boxel-3d.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
 | Brain Age: Train Your Brain in Minutes a Day! | 2712 | [2712-brain-age-train-your-brain-in-minutes-a-day.json](./2712-brain-age-train-your-brain-in-minutes-a-day.json) |
 | Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
@@ -446,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
 | Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
+| Buttonbox | 367813 | [367813-buttonbox.json](./367813-buttonbox.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
 | Bye-Bye, Watashi no Hajimete no Koi | 370532 | [370532-bye-bye-watashi-no-hajimete-no-koi.json](./370532-bye-bye-watashi-no-hajimete-no-koi.json) |
 | Bygone Snow | 368842 | [368842-bygone-snow.json](./368842-bygone-snow.json) |
