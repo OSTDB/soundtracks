@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Veil | 410778 | [410778-black-veil.json](./410778-black-veil.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
+| Blackhill Keep: Heir of the Night | 369977 | [369977-blackhill-keep-heir-of-the-night.json](./369977-blackhill-keep-heir-of-the-night.json) |
 | Blackjack Ascension | 375656 | [375656-blackjack-ascension.json](./375656-blackjack-ascension.json) |
 | BlackJack Math Trainer | 404132 | [404132-blackjack-math-trainer.json](./404132-blackjack-math-trainer.json) |
 | Blackout Jack | 404106 | [404106-blackout-jack.json](./404106-blackout-jack.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
 | Blind Box Shop Simulator | 386034 | [386034-blind-box-shop-simulator.json](./386034-blind-box-shop-simulator.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
+| Blind Memory | 369972 | [369972-blind-memory.json](./369972-blind-memory.json) |
 | Blinded I | 402204 | [402204-blinded-i.json](./402204-blinded-i.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
+| Bots 'n Bolts | 369941 | [369941-bots-n-bolts.json](./369941-bots-n-bolts.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bound to the Dark World | 375661 | [375661-bound-to-the-dark-world.json](./375661-bound-to-the-dark-world.json) |
