@@ -18,6 +18,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Uki Uki Tsuri Tengoku: Ningyo Densetsu no Nazo | 384942 | [384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json](./384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
+| Uktena 64: Ultimate | 378651 | [378651-uktena-64-ultimate.json](./378651-uktena-64-ultimate.json) |
+| Ultima II: The Revenge of the Enchantress | 378649 | [378649-ultima-ii-the-revenge-of-the-enchantress.json](./378649-ultima-ii-the-revenge-of-the-enchantress.json) |
+| Ultima II: The Revenge of the Enchantress | 378648 | [378648-ultima-ii-the-revenge-of-the-enchantress.json](./378648-ultima-ii-the-revenge-of-the-enchantress.json) |
+| Ultima II: The Revenge of the Enchantress | 378646 | [378646-ultima-ii-the-revenge-of-the-enchantress.json](./378646-ultima-ii-the-revenge-of-the-enchantress.json) |
+| Ultima II: The Revenge of the Enchantress | 378645 | [378645-ultima-ii-the-revenge-of-the-enchantress.json](./378645-ultima-ii-the-revenge-of-the-enchantress.json) |
+| Ultima II: The Revenge of the Enchantress | 378642 | [378642-ultima-ii-the-revenge-of-the-enchantress.json](./378642-ultima-ii-the-revenge-of-the-enchantress.json) |
 | Ultima IV: C64 | 400133 | [400133-ultima-iv-c64.json](./400133-ultima-iv-c64.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
 | Ultimate Dream | 389873 | [389873-ultimate-dream.json](./389873-ultimate-dream.json) |
