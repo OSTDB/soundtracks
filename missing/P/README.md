@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Playback | 407974 | [407974-playback.json](./407974-playback.json) |
+| Playful Pursuit | 404120 | [404120-playful-pursuit.json](./404120-playful-pursuit.json) |
 | Plazma Being | 35832 | [35832-plazma-being.json](./35832-plazma-being.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
 | Pleasure Puzzle | 110112 | [110112-pleasure-puzzle.json](./110112-pleasure-puzzle.json) |
