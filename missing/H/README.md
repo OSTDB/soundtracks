@@ -103,12 +103,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Me Hide the Body | 384929 | [384929-help-me-hide-the-body.json](./384929-help-me-hide-the-body.json) |
 | Help Santa In Christmas Xmas Game | 384404 | [384404-help-santa-in-christmas-xmas-game.json](./384404-help-santa-in-christmas-xmas-game.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
+| Hentai Age Party | 382035 | [382035-hentai-age-party.json](./382035-hentai-age-party.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
+| Hentai Bae Scarlet | 382036 | [382036-hentai-bae-scarlet.json](./382036-hentai-bae-scarlet.json) |
 | Hentai Balls 3D: Triple Trouble | 387245 | [387245-hentai-balls-3d-triple-trouble.json](./387245-hentai-balls-3d-triple-trouble.json) |
+| Hentai Castle | 382023 | [382023-hentai-castle.json](./382023-hentai-castle.json) |
+| Hentai Dates | 382031 | [382031-hentai-dates.json](./382031-hentai-dates.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
+| Hentai Dice Sudoku | 382033 | [382033-hentai-dice-sudoku.json](./382033-hentai-dice-sudoku.json) |
+| Hentai Elarin | 382022 | [382022-hentai-elarin.json](./382022-hentai-elarin.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
+| Hentai Merge Dice | 382029 | [382029-hentai-merge-dice.json](./382029-hentai-merge-dice.json) |
 | Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
+| Hentai Novel: Lily is stripping | 382018 | [382018-hentai-novel-lily-is-stripping.json](./382018-hentai-novel-lily-is-stripping.json) |
 | Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
 | Hentai Shinobi | 387197 | [387197-hentai-shinobi.json](./387197-hentai-shinobi.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
@@ -129,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Mount Dragon x G.I. Joe: Wrath of Cobra | 396118 | [396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json](./396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | HeroInc | 386016 | [386016-heroinc.json](./386016-heroinc.json) |
+| Heroll | 382030 | [382030-heroll.json](./382030-heroll.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexa Rhythm | 388590 | [388590-hexa-rhythm.json](./388590-hexa-rhythm.json) |
@@ -194,6 +203,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Drift Unlimited 2026 | 387244 | [387244-horizon-drift-unlimited-2026.json](./387244-horizon-drift-unlimited-2026.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horn of Africa | 408643 | [408643-horn-of-africa.json](./408643-horn-of-africa.json) |
+| Horny Farm | 382039 | [382039-horny-farm.json](./382039-horny-farm.json) |
+| Horny Studio | 382047 | [382047-horny-studio.json](./382047-horny-studio.json) |
 | Horrid Henry: The Good, The Bad and The Bugly | 402781 | [402781-horrid-henry-the-good-the-bad-and-the-bugly.json](./402781-horrid-henry-the-good-the-bad-and-the-bugly.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
 | Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
