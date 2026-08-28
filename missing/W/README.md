@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quest Pirates | 372887 | [372887-word-quest-pirates.json](./372887-word-quest-pirates.json) |
 | Word Search By Jgabrib | 401435 | [401435-word-search-by-jgabrib.json](./401435-word-search-by-jgabrib.json) |
 | Word Warp | 369981 | [369981-word-warp.json](./369981-word-warp.json) |
+| WordCross | 364334 | [364334-wordcross.json](./364334-wordcross.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | WordWar | 368328 | [368328-wordwar.json](./368328-wordwar.json) |
 | Workshop Works | 367256 | [367256-workshop-works.json](./367256-workshop-works.json) |
