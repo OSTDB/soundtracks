@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| G-LOC: Air Battle | 363241 | [363241-g-loc-air-battle.json](./363241-g-loc-air-battle.json) |
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
 | Gacha Story | 375663 | [375663-gacha-story.json](./375663-gacha-story.json) |
