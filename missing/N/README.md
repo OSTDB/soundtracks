@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
 | Neon City | 383833 | [383833-neon-city.json](./383833-neon-city.json) |
+| Neon Digital | 368350 | [368350-neon-digital.json](./368350-neon-digital.json) |
 | Neon Mind | 384406 | [384406-neon-mind.json](./384406-neon-mind.json) |
 | Neon Oblivion: Prelude | 404109 | [404109-neon-oblivion-prelude.json](./404109-neon-oblivion-prelude.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
