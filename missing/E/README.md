@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole C-So! MSX | 396099 | [396099-eggconsole-c-so-msx.json](./396099-eggconsole-c-so-msx.json) |
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
+| Eggconsole Hydlide MSX2 | 394717 | [394717-eggconsole-hydlide-msx2.json](./394717-eggconsole-hydlide-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
 | Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Logistics Tycoon | 400789 | [400789-european-logistics-tycoon.json](./400789-european-logistics-tycoon.json) |
 | European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
+| Evenfall | 394731 | [394731-evenfall.json](./394731-evenfall.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Hand and Foot | 87593 | [87593-extreme-hand-and-foot.json](./87593-extreme-hand-and-foot.json) |
 | Extreme-G | 3485 | [3485-extreme-g.json](./3485-extreme-g.json) |
 | Extreme-G: XG2 | 3486 | [3486-extreme-g-xg2.json](./3486-extreme-g-xg2.json) |
+| Extremely Cool Downhill Skiing With Jaska | 394726 | [394726-extremely-cool-downhill-skiing-with-jaska.json](./394726-extremely-cool-downhill-skiing-with-jaska.json) |
 | Extricate | 115694 | [115694-extricate.json](./115694-extricate.json) |
 | Eye of the Beholder III: Assault on Myth Drannor | 2524 | [2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json](./2524-eye-of-the-beholder-iii-assault-on-myth-drannor.json) |
 | Eyes Wide Open | 410791 | [410791-eyes-wide-open.json](./410791-eyes-wide-open.json) |
