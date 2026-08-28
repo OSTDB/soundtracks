@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| Wànjié Bù Miè | 407977 | [407977-wanjie-bu-mie.json](./407977-wanjie-bu-mie.json) |
 | Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
 | Wanted Killer VR | 96158 | [96158-wanted-killer-vr.json](./96158-wanted-killer-vr.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiseman: No More Breakups | 410752 | [410752-wiseman-no-more-breakups.json](./410752-wiseman-no-more-breakups.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
+| With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
@@ -163,5 +165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF In Your House | 23238 | [23238-wwf-in-your-house.json](./23238-wwf-in-your-house.json) |
 | WWF Superstars | 39424 | [39424-wwf-superstars.json](./39424-wwf-superstars.json) |
 | WWF WrestleMania 2000 | 3646 | [3646-wwf-wrestlemania-2000.json](./3646-wwf-wrestlemania-2000.json) |
+| Wyldernook | 407942 | [407942-wyldernook.json](./407942-wyldernook.json) |
 | Wynncraft | 243997 | [243997-wynncraft.json](./243997-wynncraft.json) |
 | Wytchwood | 75341 | [75341-wytchwood.json](./75341-wytchwood.json) |
