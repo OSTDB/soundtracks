@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
 | Paladin's Horn: The Destiny of the Holy Lance | 398254 | [398254-paladins-horn-the-destiny-of-the-holy-lance.json](./398254-paladins-horn-the-destiny-of-the-holy-lance.json) |
+| Palauan Dominatrixes Are the Best | 389306 | [389306-palauan-dominatrixes-are-the-best.json](./389306-palauan-dominatrixes-are-the-best.json) |
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pancakes: The Stacking Game | 396825 | [396825-pancakes-the-stacking-game.json](./396825-pancakes-the-stacking-game.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Under His Roof | 406002 | [406002-peace-under-his-roof.json](./406002-peace-under-his-roof.json) |
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
+| Pecado: SD Card | 389289 | [389289-pecado-sd-card.json](./389289-pecado-sd-card.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
 | Peeps! | 400766 | [400766-peeps.json](./400766-peeps.json) |
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Inc. | 389907 | [389907-planetary-inc.json](./389907-planetary-inc.json) |
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
+| Platera | 389327 | [389327-platera.json](./389327-platera.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Playback | 407974 | [407974-playback.json](./407974-playback.json) |
@@ -243,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postin Paradise | 406022 | [406022-postin-paradise.json](./406022-postin-paradise.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
 | Potted Pets | 396093 | [396093-potted-pets.json](./396093-potted-pets.json) |
+| Powder Runners: Maze Quest | 389294 | [389294-powder-runners-maze-quest.json](./389294-powder-runners-maze-quest.json) |
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
 | Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
 | Power Hover | 30402 | [30402-power-hover.json](./30402-power-hover.json) |
@@ -287,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
 | Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
+| Project Rogue | 389284 | [389284-project-rogue.json](./389284-project-rogue.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
 | Project XZ | 398251 | [398251-project-xz.json](./398251-project-xz.json) |
