@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
+| Incredible Dracula: License to Relax | 371078 | [371078-incredible-dracula-license-to-relax.json](./371078-incredible-dracula-license-to-relax.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
 | Indian Mechanic Simulator | 374497 | [374497-indian-mechanic-simulator.json](./374497-indian-mechanic-simulator.json) |
 | Indiana Jones and His Desktop Adventures | 183 | [183-indiana-jones-and-his-desktop-adventures.json](./183-indiana-jones-and-his-desktop-adventures.json) |
