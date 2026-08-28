@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
 | "Suizokukan Kochira" | 395429 | [395429-suizokukan-kochira.json](./395429-suizokukan-kochira.json) |
+| (Soul) Survivor. | 386045 | [386045-soul-survivor.json](./386045-soul-survivor.json) |
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
+| 2-Player Games for 1 Device | 385996 | [385996-2-player-games-for-1-device.json](./385996-2-player-games-for-1-device.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
