@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman | 398846 | [398846-rockman.json](./398846-rockman.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
+| Rogue AI: Idle Domination | 373938 | [373938-rogue-ai-idle-domination.json](./373938-rogue-ai-idle-domination.json) |
 | Rogue Melee | 374447 | [374447-rogue-melee.json](./374447-rogue-melee.json) |
 | Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
