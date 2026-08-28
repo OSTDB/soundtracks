@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
 | Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
 | RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
