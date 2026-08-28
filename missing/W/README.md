@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wealdfall Squirrel | 412152 | [412152-wealdfall-squirrel.json](./412152-wealdfall-squirrel.json) |
 | Weapon of Choice | 23028 | [23028-weapon-of-choice.json](./23028-weapon-of-choice.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
+| Web Fishing: Relax and Fish | 373391 | [373391-web-fishing-relax-and-fish.json](./373391-web-fishing-relax-and-fish.json) |
 | Webscape | 387883 | [387883-webscape.json](./387883-webscape.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weeb Store Simulator: Supermarket Together | 388610 | [388610-weeb-store-simulator-supermarket-together.json](./388610-weeb-store-simulator-supermarket-together.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome, Dear Human | 393347 | [393347-welcome-dear-human.json](./393347-welcome-dear-human.json) |
 | Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
+| West Escape: Gambler & Adventurer Edition | 373404 | [373404-west-escape-gambler-and-adventurer-edition.json](./373404-west-escape-gambler-and-adventurer-edition.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
 | What do you hear?? Yanny vs Laurel | 102221 | [102221-what-do-you-hear-yanny-vs-laurel.json](./102221-what-do-you-hear-yanny-vs-laurel.json) |
 | What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
@@ -147,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
 | Win the Game: WTF! | 102200 | [102200-win-the-game-wtf.json](./102200-win-the-game-wtf.json) |
 | WinBolo | 410147 | [410147-winbolo.json](./410147-winbolo.json) |
+| Windborn: Echoes of the Night | 373392 | [373392-windborn-echoes-of-the-night.json](./373392-windborn-echoes-of-the-night.json) |
 | Winds of Trade | 29892 | [29892-winds-of-trade.json](./29892-winds-of-trade.json) |
 | Winexy | 29799 | [29799-winexy.json](./29799-winexy.json) |
 | Wing Commander | 924 | [924-wing-commander.json](./924-wing-commander.json) |
@@ -223,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
 | Worship Demon | 386576 | [386576-worship-demon.json](./386576-worship-demon.json) |
 | Wraith of the Cards | 411433 | [411433-wraith-of-the-cards.json](./411433-wraith-of-the-cards.json) |
+| Wrap Shop Simulator | 373393 | [373393-wrap-shop-simulator.json](./373393-wrap-shop-simulator.json) |
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
