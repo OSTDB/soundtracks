@@ -72,6 +72,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reason with Gonzo | 391482 | [391482-reason-with-gonzo.json](./391482-reason-with-gonzo.json) |
 | ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
+| Record of Lodoss War: Haiiro no Majo | 387209 | [387209-record-of-lodoss-war-haiiro-no-majo.json](./387209-record-of-lodoss-war-haiiro-no-majo.json) |
+| Record of Lodoss War: Haiiro no Majo | 387205 | [387205-record-of-lodoss-war-haiiro-no-majo.json](./387205-record-of-lodoss-war-haiiro-no-majo.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Carnation | 398860 | [398860-red-carnation.json](./398860-red-carnation.json) |
 | Red Earth | 39315 | [39315-red-earth.json](./39315-red-earth.json) |
@@ -112,6 +114,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Umbrella Chronicles | 975 | [975-resident-evil-the-umbrella-chronicles.json](./975-resident-evil-the-umbrella-chronicles.json) |
 | Resistance: Burning Skies | 19907 | [19907-resistance-burning-skies.json](./19907-resistance-burning-skies.json) |
 | Resistance: Fall of Man | 1278 | [1278-resistance-fall-of-man.json](./1278-resistance-fall-of-man.json) |
+| Resolute Bay | 387254 | [387254-resolute-bay.json](./387254-resolute-bay.json) |
+| Restart Mode | 387198 | [387198-restart-mode.json](./387198-restart-mode.json) |
 | Restaurant Tycoon: My Cooking Empire - Platinium Edition | 394754 | [394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json](./394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
 | Retina Rush | 393316 | [393316-retina-rush.json](./393316-retina-rush.json) |
@@ -207,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Wonderworks | 414953 | [414953-rollercoaster-tycoon-wonderworks.json](./414953-rollercoaster-tycoon-wonderworks.json) |
 | Rollin' Garry | 411486 | [411486-rollin-garry.json](./411486-rollin-garry.json) |
 | Roman Adventures - Britons. Season 1 | 110074 | [110074-roman-adventures-britons-season-1.json](./110074-roman-adventures-britons-season-1.json) |
+| Roman Rumble | 387187 | [387187-roman-rumble.json](./387187-roman-rumble.json) |
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
 | Romance of the Three Kingdoms X with Power Up Kit | 77038 | [77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json](./77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json) |
