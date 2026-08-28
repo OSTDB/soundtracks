@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome Watching Face Memory Challenge | 407258 | [407258-handsome-watching-face-memory-challenge.json](./407258-handsome-watching-face-memory-challenge.json) |
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
+| Hangover Gallery | 402790 | [402790-hangover-gallery.json](./402790-hangover-gallery.json) |
 | Hanox | 406013 | [406013-hanox.json](./406013-hanox.json) |
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
+| Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
+| HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
@@ -128,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horn of Africa | 408643 | [408643-horn-of-africa.json](./408643-horn-of-africa.json) |
+| Horrid Henry: The Good, The Bad and The Bugly | 402781 | [402781-horrid-henry-the-good-the-bad-and-the-bugly.json](./402781-horrid-henry-the-good-the-bad-and-the-bugly.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
 | Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
 | Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
