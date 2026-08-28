@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavens Tournament | 126677 | [126677-heavens-tournament.json](./126677-heavens-tournament.json) |
 | Heckabomb | 35880 | [35880-heckabomb.json](./35880-heckabomb.json) |
 | Hector: Badge of Carnage! | 1007 | [1007-hector-badge-of-carnage.json](./1007-hector-badge-of-carnage.json) |
+| Hee-Hee Horror | 410779 | [410779-hee-hee-horror.json](./410779-hee-hee-horror.json) |
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Helicopter Rescue Simulator | 411445 | [411445-helicopter-rescue-simulator.json](./411445-helicopter-rescue-simulator.json) |
