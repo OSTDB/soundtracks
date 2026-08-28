@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
+| Ski Zone | 372288 | [372288-ski-zone.json](./372288-ski-zone.json) |
 | Skinwalker | 383839 | [383839-skinwalker.json](./383839-skinwalker.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Skunk Simulator: Raccoon Games | 384943 | [384943-skunk-simulator-raccoon-games.json](./384943-skunk-simulator-raccoon-games.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
+| Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
@@ -344,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
+| Snake:Byte | 372325 | [372325-snake-byte.json](./372325-snake-byte.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Snapstick | 375619 | [375619-snapstick.json](./375619-snapstick.json) |
 | Snip Snap | 375644 | [375644-snip-snap.json](./375644-snip-snap.json) |
@@ -531,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
 | Star Command Galaxies | 34459 | [34459-star-command-galaxies.json](./34459-star-command-galaxies.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
+| Star Conflict: Amber. Weapon of victory | 372336 | [372336-star-conflict-amber-weapon-of-victory.json](./372336-star-conflict-amber-weapon-of-victory.json) |
 | Star Drift | 86578 | [86578-star-drift.json](./86578-star-drift.json) |
 | Star Fox | 400709 | [400709-star-fox.json](./400709-star-fox.json) |
 | Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
