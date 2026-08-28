@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
 | Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
+| Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Way of the Samurai Bundle: Sword Combat & Action | 409498 | [409498-way-of-the-samurai-bundle-sword-combat-and-action.json](./409498-way-of-the-samurai-bundle-sword-combat-and-action.json) |
