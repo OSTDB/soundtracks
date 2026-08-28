@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Castle | 21359 | [21359-defend-your-castle.json](./21359-defend-your-castle.json) |
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
+| Defense Collapse | 364322 | [364322-defense-collapse.json](./364322-defense-collapse.json) |
 | Defense of the Earth | 380252 | [380252-defense-of-the-earth.json](./380252-defense-of-the-earth.json) |
 | Defense the Farm | 102185 | [102185-defense-the-farm.json](./102185-defense-the-farm.json) |
 | Defentrix | 383829 | [383829-defentrix.json](./383829-defentrix.json) |
