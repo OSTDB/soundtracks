@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
+| From the Last Shift: Horror Collection | 380892 | [380892-from-the-last-shift-horror-collection.json](./380892-from-the-last-shift-horror-collection.json) |
 | Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
 | Front Defense Heroes | 77165 | [77165-front-defense-heroes.json](./77165-front-defense-heroes.json) |
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
