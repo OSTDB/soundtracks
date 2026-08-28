@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hip-Hop Trivia: Starring Murs | 20941 | [20941-hip-hop-trivia-starring-murs.json](./20941-hip-hop-trivia-starring-murs.json) |
 | Hipster Attack | 107617 | [107617-hipster-attack.json](./107617-hipster-attack.json) |
+| Hitman Classic Trilogy Remastered | 404745 | [404745-hitman-classic-trilogy-remastered.json](./404745-hitman-classic-trilogy-remastered.json) |
 | Hitman: Blood Money Reprisal | 278026 | [278026-hitman-blood-money-reprisal.json](./278026-hitman-blood-money-reprisal.json) |
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
+| Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
