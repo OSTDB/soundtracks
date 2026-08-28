@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
+| Lazy Angel Mika | 359257 | [359257-lazy-angel-mika.json](./359257-lazy-angel-mika.json) |
 | Lazy River | 404732 | [404732-lazy-river.json](./404732-lazy-river.json) |
 | Lead to Gold | 373936 | [373936-lead-to-gold.json](./373936-lead-to-gold.json) |
 | Leafborn | 400126 | [400126-leafborn.json](./400126-leafborn.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legacy of Valor | 359275 | [359275-legacy-of-valor.json](./359275-legacy-of-valor.json) |
 | Legal Beagll: Justice is Argued | 371091 | [371091-legal-beagll-justice-is-argued.json](./371091-legal-beagll-justice-is-argued.json) |
 | Legatus | 389328 | [389328-legatus.json](./389328-legatus.json) |
 | Legend Battles | 392670 | [392670-legend-battles.json](./392670-legend-battles.json) |
@@ -178,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola Maria | 372841 | [372841-lola-maria.json](./372841-lola-maria.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
+| Lone Apocalypse | 359254 | [359254-lone-apocalypse.json](./359254-lone-apocalypse.json) |
 | Lone Bastion | 380856 | [380856-lone-bastion.json](./380856-lone-bastion.json) |
 | Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
 | Long Run 2 | 387246 | [387246-long-run-2.json](./387246-long-run-2.json) |
