@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 Racing | 1642 | [1642-007-racing.json](./1642-007-racing.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 0Player | 387890 | [387890-0player.json](./387890-0player.json) |
+| 0xDeadrun | 359811 | [359811-0xdeadrun.json](./359811-0xdeadrun.json) |
 | 1 Bit 1 Button | 376926 | [376926-1-bit-1-button.json](./376926-1-bit-1-button.json) |
 | 1 Bit Hero | 376927 | [376927-1-bit-hero.json](./376927-1-bit-hero.json) |
 | 1 in a Million: A Game of Odds - Auto Clicker | 376940 | [376940-1-in-a-million-a-game-of-odds-auto-clicker.json](./376940-1-in-a-million-a-game-of-odds-auto-clicker.json) |
