@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
 | Baff A | 412146 | [412146-baff-a.json](./412146-baff-a.json) |
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
+| Bait & Tackle Store Simulator | 389312 | [389312-bait-and-tackle-store-simulator.json](./389312-bait-and-tackle-store-simulator.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
+| Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
@@ -300,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros of Bench | 404150 | [404150-bros-of-bench.json](./404150-bros-of-bench.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
+| Bruneian Dominatrixes Are the Best | 389307 | [389307-bruneian-dominatrixes-are-the-best.json](./389307-bruneian-dominatrixes-are-the-best.json) |
 | Bub | 404731 | [404731-bub.json](./404731-bub.json) |
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
