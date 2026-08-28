@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Highwind | 393345 | [393345-highwind.json](./393345-highwind.json) |
 | Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
+| Hilda Bewildered | 375665 | [375665-hilda-bewildered.json](./375665-hilda-bewildered.json) |
 | Hill Climb Legends | 405387 | [405387-hill-climb-legends.json](./405387-hill-climb-legends.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
 | Himawari Aqua After: The Day the Moon Stood Still | 393323 | [393323-himawari-aqua-after-the-day-the-moon-stood-still.json](./393323-himawari-aqua-after-the-day-the-moon-stood-still.json) |
