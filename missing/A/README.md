@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
+| A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
 | A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Conquest | 596 | [596-american-conquest.json](./596-american-conquest.json) |
 | American Conquest: Fight Back | 9360 | [9360-american-conquest-fight-back.json](./9360-american-conquest-fight-back.json) |
 | Amerzone: The Explorer's Legacy | 289353 | [289353-amerzone-the-explorers-legacy.json](./289353-amerzone-the-explorers-legacy.json) |
+| Amerzone: The Explorer's Legacy - Deluxe Edition | 412126 | [412126-amerzone-the-explorers-legacy-deluxe-edition.json](./412126-amerzone-the-explorers-legacy-deluxe-edition.json) |
 | Amid Evil | 74904 | [74904-amid-evil.json](./74904-amid-evil.json) |
 | Amnesia Later x Crowd V Edition | 61256 | [61256-amnesia-later-x-crowd-v-edition.json](./61256-amnesia-later-x-crowd-v-edition.json) |
 | Amnesia: Collection | 25082 | [25082-amnesia-collection.json](./25082-amnesia-collection.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
+| Angry Raccoon | 412118 | [412118-angry-raccoon.json](./412118-angry-raccoon.json) |
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
@@ -196,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Assault Wing 3 | 414257 | [414257-assault-wing-3.json](./414257-assault-wing-3.json) |
+| Asteranova | 412131 | [412131-asteranova.json](./412131-asteranova.json) |
 | Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
@@ -216,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
+| Aventuras | 412127 | [412127-aventuras.json](./412127-aventuras.json) |
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | AVSEQ | 15288 | [15288-avseq.json](./15288-avseq.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
