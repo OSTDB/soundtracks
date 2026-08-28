@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
+| Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
 | Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
 | Handsome Watching Face Memory Challenge | 407258 | [407258-handsome-watching-face-memory-challenge.json](./407258-handsome-watching-face-memory-challenge.json) |
@@ -78,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
 | HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
+| Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
@@ -128,6 +130,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Homushikku | 402211 | [402211-homushikku.json](./402211-homushikku.json) |
 | Honey Sprint | 401397 | [401397-honey-sprint.json](./401397-honey-sprint.json) |
+| Honeysuckle | 398865 | [398865-honeysuckle.json](./398865-honeysuckle.json) |
+| Honeysuckle | 398864 | [398864-honeysuckle.json](./398864-honeysuckle.json) |
 | Hong Kong Ninja | 404107 | [404107-hong-kong-ninja.json](./404107-hong-kong-ninja.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
