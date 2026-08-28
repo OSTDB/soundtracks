@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algas | 385497 | [385497-algas.json](./385497-algas.json) |
 | Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
+| Alice at the End of Her Life | 375039 | [375039-alice-at-the-end-of-her-life.json](./375039-alice-at-the-end-of-her-life.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Lorange Adventures Season 1 | 389287 | [389287-alice-lorange-adventures-season-1.json](./389287-alice-lorange-adventures-season-1.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
