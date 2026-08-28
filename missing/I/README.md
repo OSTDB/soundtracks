@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
+| Indigo's Dreams | 403513 | [403513-indigos-dreams.json](./403513-indigos-dreams.json) |
 | Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
