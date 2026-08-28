@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
 | Simon the Sorcerer: 25th Anniversary Edition | 95120 | [95120-simon-the-sorcerer-25th-anniversary-edition.json](./95120-simon-the-sorcerer-25th-anniversary-edition.json) |
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
+| Simulation | 387193 | [387193-simulation.json](./387193-simulation.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
@@ -228,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
 | Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
+| Sister ha Sukuitai! | 387185 | [387185-sister-ha-sukuitai.json](./387185-sister-ha-sukuitai.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
@@ -276,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slutty Wife | 393367 | [393367-slutty-wife.json](./393367-slutty-wife.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
 | Slybots: Frantic Zone | 17013 | [17013-slybots-frantic-zone.json](./17013-slybots-frantic-zone.json) |
+| SM64 Coop DX: Extra Characters Plus | 387182 | [387182-sm64-coop-dx-extra-characters-plus.json](./387182-sm64-coop-dx-extra-characters-plus.json) |
 | Small Bee | 396800 | [396800-small-bee.json](./396800-small-bee.json) |
 | Small World of Golf | 404134 | [404134-small-world-of-golf.json](./404134-small-world-of-golf.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
@@ -436,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarsenal | 399494 | [399494-squarsenal.json](./399494-squarsenal.json) |
 | Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
 | Squids From Space | 46758 | [46758-squids-from-space.json](./46758-squids-from-space.json) |
+| Squirrel Harvest | 387210 | [387210-squirrel-harvest.json](./387210-squirrel-harvest.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
 | SRD: Super Real Darwin | 28022 | [28022-srd-super-real-darwin.json](./28022-srd-super-real-darwin.json) |
 | Srq | 29881 | [29881-srq.json](./29881-srq.json) |
@@ -500,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
+| Stellar Dawn: Survivor | 387196 | [387196-stellar-dawn-survivor.json](./387196-stellar-dawn-survivor.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
