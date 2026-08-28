@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photos | 393371 | [393371-photos.json](./393371-photos.json) |
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
 | Pick Up the Waste | 368868 | [368868-pick-up-the-waste.json](./368868-pick-up-the-waste.json) |
+| Pick Your Poison | 359249 | [359249-pick-your-poison.json](./359249-pick-your-poison.json) |
 | Pickle Simulator | 387851 | [387851-pickle-simulator.json](./387851-pickle-simulator.json) |
 | Pickscover 2 | 364929 | [364929-pickscover-2.json](./364929-pickscover-2.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pork 2: The Gizzard of Showbiz | 381473 | [381473-pork-2-the-gizzard-of-showbiz.json](./381473-pork-2-the-gizzard-of-showbiz.json) |
 | Portal 2: The Courtesy Call | 359840 | [359840-portal-2-the-courtesy-call.json](./359840-portal-2-the-courtesy-call.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
+| Possess War | 359236 | [359236-possess-war.json](./359236-possess-war.json) |
 | Postal 2: Paradise Lost | 50209 | [50209-postal-2-paradise-lost.json](./50209-postal-2-paradise-lost.json) |
 | Postal 2: Share the Pain | 3130 | [3130-postal-2-share-the-pain.json](./3130-postal-2-share-the-pain.json) |
 | Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
@@ -423,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fallback | 360412 | [360412-project-fallback.json](./360412-project-fallback.json) |
 | Project Forestation | 369984 | [369984-project-forestation.json](./369984-project-forestation.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
+| Project Lab | 359231 | [359231-project-lab.json](./359231-project-lab.json) |
 | Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
 | Project Lost Bits | 380853 | [380853-project-lost-bits.json](./380853-project-lost-bits.json) |
 | Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
