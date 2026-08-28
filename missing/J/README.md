@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
+| Jasmine | 398889 | [398889-jasmine.json](./398889-jasmine.json) |
 | Jaws | 15704 | [15704-jaws.json](./15704-jaws.json) |
 | Jaws of Extinction | 44585 | [44585-jaws-of-extinction.json](./44585-jaws-of-extinction.json) |
 | Jay and Silent Bob: Mall Brawl | 124310 | [124310-jay-and-silent-bob-mall-brawl.json](./124310-jay-and-silent-bob-mall-brawl.json) |
