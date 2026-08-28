@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
 | Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
+| Handmade Carprogram | 378050 | [378050-handmade-carprogram.json](./378050-handmade-carprogram.json) |
 | Hands of Hell | 393997 | [393997-hands-of-hell.json](./393997-hands-of-hell.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
 | Handsome Watching Face Memory Challenge | 407258 | [407258-handsome-watching-face-memory-challenge.json](./407258-handsome-watching-face-memory-challenge.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
 | Haunted Castle Revisited | 314976 | [314976-haunted-castle-revisited.json](./314976-haunted-castle-revisited.json) |
 | HavenCraft | 404111 | [404111-havencraft.json](./404111-havencraft.json) |
+| Havendock: Wizard Island DLC | 378064 | [378064-havendock-wizard-island-dlc.json](./378064-havendock-wizard-island-dlc.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
 | Haze | 399444 | [399444-haze.json](./399444-haze.json) |
