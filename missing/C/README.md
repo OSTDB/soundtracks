@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
+| Cosmos Point | 374493 | [374493-cosmos-point.json](./374493-cosmos-point.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Critical | 378622 | [378622-critical.json](./378622-critical.json) |
+| Croak? | 374489 | [374489-croak.json](./374489-croak.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
 | Croqueta Clicker | 398255 | [398255-croqueta-clicker.json](./398255-croqueta-clicker.json) |
@@ -463,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
+| Cyberpunk Store Simulator | 374487 | [374487-cyberpunk-store-simulator.json](./374487-cyberpunk-store-simulator.json) |
 | Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
 | Cypher | 378033 | [378033-cypher.json](./378033-cypher.json) |
 | Cypher Dungeon | 390398 | [390398-cypher-dungeon.json](./390398-cypher-dungeon.json) |
