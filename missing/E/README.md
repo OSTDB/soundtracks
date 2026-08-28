@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
+| Echo Contingency | 387865 | [387865-echo-contingency.json](./387865-echo-contingency.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
 | Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Genius | 3081 | [3081-evil-genius.json](./3081-evil-genius.json) |
 | Evil Hazard | 34438 | [34438-evil-hazard.json](./34438-evil-hazard.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
+| EVO Card | 387914 | [387914-evo-card.json](./387914-evo-card.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
