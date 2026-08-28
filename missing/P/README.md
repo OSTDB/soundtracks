@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
+| Pops | 414962 | [414962-pops.json](./414962-pops.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
 | Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
+| Provinces | 414998 | [414998-provinces.json](./414998-provinces.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
