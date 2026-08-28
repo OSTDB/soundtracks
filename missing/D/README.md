@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
 | Detritus | 374996 | [374996-detritus.json](./374996-detritus.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
+| Deus Ex Remastered | 369987 | [369987-deus-ex-remastered.json](./369987-deus-ex-remastered.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Deviation Game | 378641 | [378641-deviation-game.json](./378641-deviation-game.json) |
 | Devil and the Fairy | 86623 | [86623-devil-and-the-fairy.json](./86623-devil-and-the-fairy.json) |
