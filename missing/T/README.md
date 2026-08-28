@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
+| The Cursed Ward | 405989 | [405989-the-cursed-ward.json](./405989-the-cursed-ward.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
+| The Facility | 405990 | [405990-the-facility.json](./405990-the-facility.json) |
 | The Fair Unknown | 413543 | [413543-the-fair-unknown.json](./413543-the-fair-unknown.json) |
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
@@ -158,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
 | The Guise | 123960 | [123960-the-guise.json](./123960-the-guise.json) |
+| The Hat Man | 406000 | [406000-the-hat-man.json](./406000-the-hat-man.json) |
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
@@ -203,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary of Bean | 76667 | [76667-the-legendary-of-bean.json](./76667-the-legendary-of-bean.json) |
 | The Legends of Galaquia | 413549 | [413549-the-legends-of-galaquia.json](./413549-the-legends-of-galaquia.json) |
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
+| The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
@@ -212,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 1 | 44140 | [44140-the-lost-legends-of-redwall-the-scout-act-1.json](./44140-the-lost-legends-of-redwall-the-scout-act-1.json) |
 | The Lost Vikings 2 | 1253 | [1253-the-lost-vikings-2.json](./1253-the-lost-vikings-2.json) |
 | The Love Boat | 76649 | [76649-the-love-boat.json](./76649-the-love-boat.json) |
+| The Man Behind the Trigger | 406041 | [406041-the-man-behind-the-trigger.json](./406041-the-man-behind-the-trigger.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
@@ -228,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
+| The Perfect Lover | 406034 | [406034-the-perfect-lover.json](./406034-the-perfect-lover.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Political Simulator | 410140 | [410140-the-political-simulator.json](./410140-the-political-simulator.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
@@ -334,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
+| Tiny Town Market Simulator | 406005 | [406005-tiny-town-market-simulator.json](./406005-tiny-town-market-simulator.json) |
 | Tiny Trax | 36542 | [36542-tiny-trax.json](./36542-tiny-trax.json) |
 | Tiny Wheels | 29796 | [29796-tiny-wheels.json](./29796-tiny-wheels.json) |
 | Tip of the Spear: Task Force Elite | 125393 | [125393-tip-of-the-spear-task-force-elite.json](./125393-tip-of-the-spear-task-force-elite.json) |
@@ -388,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Defense Tale: AI Test in Touhou | 410142 | [410142-touhou-defense-tale-ai-test-in-touhou.json](./410142-touhou-defense-tale-ai-test-in-touhou.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
+| Touhou Gishinreibyou | 406026 | [406026-touhou-gishinreibyou.json](./406026-touhou-gishinreibyou.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
 | Touhou Shinkirou: Hopeless Masquerade | 27158 | [27158-touhou-shinkirou-hopeless-masquerade.json](./27158-touhou-shinkirou-hopeless-masquerade.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
@@ -426,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped Together | 407984 | [407984-trapped-together.json](./407984-trapped-together.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
 | Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
+| Trashy Cashy | 406014 | [406014-trashy-cashy.json](./406014-trashy-cashy.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
