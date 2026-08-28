@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
 | Memeology Club | 414968 | [414968-memeology-club.json](./414968-memeology-club.json) |
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
+| Memories Off 2nd: Yuki Hotaru | 396775 | [396775-memories-off-2nd-yuki-hotaru.json](./396775-memories-off-2nd-yuki-hotaru.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Menhera Maiden | 399530 | [399530-menhera-maiden.json](./399530-menhera-maiden.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
+| Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
@@ -287,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
 | Moonfall | 15267 | [15267-moonfall.json](./15267-moonfall.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
+| Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
 | More me | 410808 | [410808-more-me.json](./410808-more-me.json) |
@@ -327,9 +330,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | MTB Bike Simulator | 401414 | [401414-mtb-bike-simulator.json](./401414-mtb-bike-simulator.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
+| Mullet Cop the Game | 396821 | [396821-mullet-cop-the-game.json](./396821-mullet-cop-the-game.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
+| Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
 | Mushboom | 400802 | [400802-mushboom.json](./400802-mushboom.json) |
@@ -351,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - Deluxe Edition | 407928 | [407928-my-hero-academia-alls-justice-deluxe-edition.json](./407928-my-hero-academia-alls-justice-deluxe-edition.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
+| My House on the 9th Floor | 396791 | [396791-my-house-on-the-9th-floor.json](./396791-my-house-on-the-9th-floor.json) |
 | My Life as a Maiden | 76793 | [76793-my-life-as-a-maiden.json](./76793-my-life-as-a-maiden.json) |
 | My Life as a Spy | 410738 | [410738-my-life-as-a-spy.json](./410738-my-life-as-a-spy.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
