@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
+| Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
 | Scrybe | 391517 | [391517-scrybe.json](./391517-scrybe.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | SD Gundam G Generation DS | 66589 | [66589-sd-gundam-g-generation-ds.json](./66589-sd-gundam-g-generation-ds.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Moto Racing 3D | 63468 | [63468-snow-moto-racing-3d.json](./63468-snow-moto-racing-3d.json) |
 | Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
+| SnowBot | 390956 | [390956-snowbot.json](./390956-snowbot.json) |
 | Snowbound With Irene | 407973 | [407973-snowbound-with-irene.json](./407973-snowbound-with-irene.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | Snowdrop | 398880 | [398880-snowdrop.json](./398880-snowdrop.json) |
@@ -451,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Yoda Stories | 155 | [155-star-wars-yoda-stories.json](./155-star-wars-yoda-stories.json) |
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Stardom: The A-List | 65115 | [65115-stardom-the-a-list.json](./65115-stardom-the-a-list.json) |
+| StarDrift Delivery | 390980 | [390980-stardrift-delivery.json](./390980-stardrift-delivery.json) |
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
 | Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
