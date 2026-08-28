@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 2005 | 703 | [703-fifa-soccer-2005.json](./703-fifa-soccer-2005.json) |
 | FIFA Soccer 96 | 240233 | [240233-fifa-soccer-96.json](./240233-fifa-soccer-96.json) |
 | Fight Angel | 116318 | [116318-fight-angel.json](./116318-fight-angel.json) |
+| Fight for Olympus | 398232 | [398232-fight-for-olympus.json](./398232-fight-for-olympus.json) |
 | Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighting Vipers 2 | 39447 | [39447-fighting-vipers-2.json](./39447-fighting-vipers-2.json) |
 | Figure Quest | 115693 | [115693-figure-quest.json](./115693-figure-quest.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Fireman Sam - Fire & Rescue | 89297 | [89297-fireman-sam-fire-and-rescue.json](./89297-fireman-sam-fire-and-rescue.json) |
 | First Draft | 414989 | [414989-first-draft.json](./414989-first-draft.json) |
+| Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
@@ -141,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
+| Five Faizul Fridays DX | 398220 | [398220-five-faizul-fridays-dx.json](./398220-five-faizul-fridays-dx.json) |
 | Five Holy Girls | 399459 | [399459-five-holy-girls.json](./399459-five-holy-girls.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
