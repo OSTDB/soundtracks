@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Proof Club | 386605 | [386605-proof-club.json](./386605-proof-club.json) |
+| Prop Hunt 2.0 | 367796 | [367796-prop-hunt-2-0.json](./367796-prop-hunt-2-0.json) |
 | Propwiz | 369982 | [369982-propwiz.json](./369982-propwiz.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
