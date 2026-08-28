@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallowed Knight | 386577 | [386577-hallowed-knight.json](./386577-hallowed-knight.json) |
 | Halloween | 376354 | [376354-halloween.json](./376354-halloween.json) |
 | Halloween Horrors Deluxe Steam Edition | 368325 | [368325-halloween-horrors-deluxe-steam-edition.json](./368325-halloween-horrors-deluxe-steam-edition.json) |
+| Halloween World | 367212 | [367212-halloween-world.json](./367212-halloween-world.json) |
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
