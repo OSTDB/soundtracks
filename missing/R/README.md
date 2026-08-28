@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Rakete | 410111 | [410111-rakete.json](./410111-rakete.json) |
 | Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
+| Rally Car Mechanic Simulator | 405380 | [405380-rally-car-mechanic-simulator.json](./405380-rally-car-mechanic-simulator.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
 | Risk Urban Assault | 58036 | [58036-risk-urban-assault.json](./58036-risk-urban-assault.json) |
+| Risk: The Game of Global Domination | 405421 | [405421-risk-the-game-of-global-domination.json](./405421-risk-the-game-of-global-domination.json) |
 | Ristar | 237315 | [237315-ristar.json](./237315-ristar.json) |
 | Rival Megagun | 90783 | [90783-rival-megagun.json](./90783-rival-megagun.json) |
 | River City Ransom: Underground | 27038 | [27038-river-city-ransom-underground.json](./27038-river-city-ransom-underground.json) |
