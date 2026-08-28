@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
+| Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cigkofte Empire | 411436 | [411436-cigkofte-empire.json](./411436-cigkofte-empire.json) |
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
+| Circle | 398234 | [398234-circle.json](./398234-circle.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
@@ -209,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
 | Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
+| Combolands | 398235 | [398235-combolands.json](./398235-combolands.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Comedy Night | 54497 | [54497-comedy-night.json](./54497-comedy-night.json) |
 | Command & Conquer: Renegade | 706 | [706-command-and-conquer-renegade.json](./706-command-and-conquer-renegade.json) |
@@ -231,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
 | Console Archives: Firework Thrower Kantaro's 53 Stations of the Tokaido | 405392 | [405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json](./405392-console-archives-firework-thrower-kantaros-53-stations-of-the-tokaido.json) |
 | Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
+| Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
@@ -272,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
+| Cozy Snow Friends | 398196 | [398196-cozy-snow-friends.json](./398196-cozy-snow-friends.json) |
 | Cozy Valley Life | 401389 | [401389-cozy-valley-life.json](./401389-cozy-valley-life.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
@@ -304,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
+| Croqueta Clicker | 398255 | [398255-croqueta-clicker.json](./398255-croqueta-clicker.json) |
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
