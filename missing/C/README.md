@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campfire: Night One | 387912 | [387912-campfire-night-one.json](./387912-campfire-night-one.json) |
+| Campus Legends College Basketball | 368310 | [368310-campus-legends-college-basketball.json](./368310-campus-legends-college-basketball.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
@@ -105,12 +106,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Dark | 369417 | [369417-castle-dark.json](./369417-castle-dark.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
 | Castle of the Untold | 389901 | [389901-castle-of-the-untold.json](./389901-castle-of-the-untold.json) |
+| CastleGuard | 368338 | [368338-castleguard.json](./368338-castleguard.json) |
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
+| Cat & Capy | 368314 | [368314-cat-and-capy.json](./368314-cat-and-capy.json) |
 | Cat a Loop | 414995 | [414995-cat-a-loop.json](./414995-cat-a-loop.json) |
 | Cat Chaos | 392042 | [392042-cat-chaos.json](./392042-cat-chaos.json) |
 | Cat Chess | 390420 | [390420-cat-chess.json](./390420-cat-chess.json) |
