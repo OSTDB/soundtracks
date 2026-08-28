@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stay Awake | 382622 | [382622-dont-stay-awake.json](./382622-dont-stay-awake.json) |
 | Don't Touch the Walls | 86439 | [86439-dont-touch-the-walls.json](./86439-dont-touch-the-walls.json) |
 | Don`t Peek | 374450 | [374450-don-t-peek.json](./374450-don-t-peek.json) |
+| Donald in Maui Mallard | 371101 | [371101-donald-in-maui-mallard.json](./371101-donald-in-maui-mallard.json) |
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
