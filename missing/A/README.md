@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
+| Ashes & Blood | 369970 | [369970-ashes-and-blood.json](./369970-ashes-and-blood.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
 | Ashes: Undertow | 382640 | [382640-ashes-undertow.json](./382640-ashes-undertow.json) |
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Animated Monster Maker Math | 380851 | [380851-awesome-animated-monster-maker-math.json](./380851-awesome-animated-monster-maker-math.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
+| Axeras | 369949 | [369949-axeras.json](./369949-axeras.json) |
 | Ayrton Idle | 374468 | [374468-ayrton-idle.json](./374468-ayrton-idle.json) |
 | Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
