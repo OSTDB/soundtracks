@@ -85,8 +85,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
+| Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
+| Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
@@ -100,11 +102,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III Remake | 414996 | [414996-heroes-of-might-and-magic-iii-remake.json](./414996-heroes-of-might-and-magic-iii-remake.json) |
 | Heroes of Might and Magic IV | 367 | [367-heroes-of-might-and-magic-iv.json](./367-heroes-of-might-and-magic-iv.json) |
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
+| Heroes of Mount Dragon x G.I. Joe: Wrath of Cobra | 396118 | [396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json](./396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
+| Hibikino-san-chi ha Eroge-ya-san! | 396043 | [396043-hibikino-san-chi-ha-eroge-ya-san.json](./396043-hibikino-san-chi-ha-eroge-ya-san.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
@@ -162,6 +166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
+| Hotel Manager 2026 | 396107 | [396107-hotel-manager-2026.json](./396107-hotel-manager-2026.json) |
+| Hotel Renovator Simulator | 396106 | [396106-hotel-renovator-simulator.json](./396106-hotel-renovator-simulator.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
