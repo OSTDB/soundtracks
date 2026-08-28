@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Break | 114849 | [114849-castle-break.json](./114849-castle-break.json) |
 | Castle Clash: Brave Squads | 87649 | [87649-castle-clash-brave-squads.json](./87649-castle-clash-brave-squads.json) |
 | Castle in the Darkness | 9611 | [9611-castle-in-the-darkness.json](./9611-castle-in-the-darkness.json) |
+| Castle of the Untold | 389901 | [389901-castle-of-the-untold.json](./389901-castle-of-the-untold.json) |
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
+| CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
+| Cosmic Holes | 389894 | [389894-cosmic-holes.json](./389894-cosmic-holes.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
 | Cosmic Wayfinder | 400799 | [400799-cosmic-wayfinder.json](./400799-cosmic-wayfinder.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
@@ -298,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
 | Cozy Basket | 401390 | [401390-cozy-basket.json](./401390-cozy-basket.json) |
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
+| Cozy Farm | 389879 | [389879-cozy-farm.json](./389879-cozy-farm.json) |
 | Cozy Game Restoration | 394023 | [394023-cozy-game-restoration.json](./394023-cozy-game-restoration.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
