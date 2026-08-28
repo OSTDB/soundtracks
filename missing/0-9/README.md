@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
+| 2048 | 376306 | [376306-2048.json](./376306-2048.json) |
 | 2112TD Earth | 392662 | [392662-2112td-earth.json](./392662-2112td-earth.json) |
 | 217: A Psychological Survival Thriller | 376932 | [376932-217-a-psychological-survival-thriller.json](./376932-217-a-psychological-survival-thriller.json) |
 | 28 Days Train Wreck Survivor | 385472 | [385472-28-days-train-wreck-survivor.json](./385472-28-days-train-wreck-survivor.json) |
