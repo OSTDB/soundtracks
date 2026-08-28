@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Cafe Lumière!: A Dragon Girl Concept Cafe | 398851 | [398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json](./398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
+| Welcome, Dear Human | 393347 | [393347-welcome-dear-human.json](./393347-welcome-dear-human.json) |
 | Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
