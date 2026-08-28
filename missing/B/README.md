@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
+| BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
 | Beak the Hunter | 376327 | [376327-beak-the-hunter.json](./376327-beak-the-hunter.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Bearly Flying | 379747 | [379747-bearly-flying.json](./379747-bearly-flying.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Food | 383237 | [383237-being-food.json](./383237-being-food.json) |
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
 | Bellochia: Love Powered by Gears | 375004 | [375004-bellochia-love-powered-by-gears.json](./375004-bellochia-love-powered-by-gears.json) |
+| Belot | 371682 | [371682-belot.json](./371682-belot.json) |
 | Below | 383834 | [383834-below.json](./383834-below.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
 | Bend2 | 397553 | [397553-bend2.json](./397553-bend2.json) |
+| Benefitship: The Hallowed Wiener | 371735 | [371735-benefitship-the-hallowed-wiener.json](./371735-benefitship-the-hallowed-wiener.json) |
 | Benjumpin Hopkins | 375025 | [375025-benjumpin-hopkins.json](./375025-benjumpin-hopkins.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
@@ -158,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Kafe: Write Your Love Story | 391496 | [391496-beta-kafe-write-your-love-story.json](./391496-beta-kafe-write-your-love-story.json) |
 | Betra Endemic | 379206 | [379206-betra-endemic.json](./379206-betra-endemic.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
+| Between Worlds | 371720 | [371720-between-worlds.json](./371720-between-worlds.json) |
 | Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
 | Bewitching Gears | 383208 | [383208-bewitching-gears.json](./383208-bewitching-gears.json) |
@@ -355,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Armor | 383248 | [383248-breaking-armor.json](./383248-breaking-armor.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
+| Breath of Life | 371707 | [371707-breath-of-life.json](./371707-breath-of-life.json) |
 | Bresh | 373946 | [373946-bresh.json](./373946-bresh.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
