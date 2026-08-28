@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Lawnmower Game | 44179 | [44179-lawnmower-game.json](./44179-lawnmower-game.json) |
+| Lawnmower Game Battle 2: Reload | 392674 | [392674-lawnmower-game-battle-2-reload.json](./392674-lawnmower-game-battle-2-reload.json) |
 | Layang Atma | 412167 | [412167-layang-atma.json](./412167-layang-atma.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legend Battles | 392670 | [392670-legend-battles.json](./392670-legend-battles.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
 | Legend of Idle | 406608 | [406608-legend-of-idle.json](./406608-legend-of-idle.json) |
