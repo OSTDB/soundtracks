@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim | 362104 | [362104-earthworm-jim.json](./362104-earthworm-jim.json) |
 | Earthworm Jim | 362098 | [362098-earthworm-jim.json](./362098-earthworm-jim.json) |
 | Earthworm Jim | 362091 | [362091-earthworm-jim.json](./362091-earthworm-jim.json) |
+| Earworm | 359271 | [359271-earworm.json](./359271-earworm.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | EasyTetris | 371658 | [371658-easytetris.json](./371658-easytetris.json) |
 | Eat Repeat | 360997 | [360997-eat-repeat.json](./360997-eat-repeat.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic Baseball 3 | 375033 | [375033-electronic-baseball-3.json](./375033-electronic-baseball-3.json) |
 | Elemechs | 360966 | [360966-elemechs.json](./360966-elemechs.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
+| Elemental Adventure | 359234 | [359234-elemental-adventure.json](./359234-elemental-adventure.json) |
 | Elemental Witches | 390430 | [390430-elemental-witches.json](./390430-elemental-witches.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
 | Elevation | 396044 | [396044-elevation.json](./396044-elevation.json) |
