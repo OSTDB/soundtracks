@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
 | Odysseon | 392644 | [392644-odysseon.json](./392644-odysseon.json) |
 | Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
+| OF Model Simulator | 359786 | [359786-of-model-simulator.json](./359786-of-model-simulator.json) |
 | Of Peaks and Tides | 360968 | [360968-of-peaks-and-tides.json](./360968-of-peaks-and-tides.json) |
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
