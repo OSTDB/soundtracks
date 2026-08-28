@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Lorange Adventures Season 1 | 389287 | [389287-alice-lorange-adventures-season-1.json](./389287-alice-lorange-adventures-season-1.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
+| Alice's Current Draft | 381448 | [381448-alices-current-draft.json](./381448-alices-current-draft.json) |
 | Alicia Reborn | 402763 | [402763-alicia-reborn.json](./402763-alicia-reborn.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteranova | 412131 | [412131-asteranova.json](./412131-asteranova.json) |
 | Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
+| Astral Wizard Orb | 381418 | [381418-astral-wizard-orb.json](./381418-astral-wizard-orb.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
 | Astro Emporia | 35860 | [35860-astro-emporia.json](./35860-astro-emporia.json) |
 | Astro Yoinkers | 407916 | [407916-astro-yoinkers.json](./407916-astro-yoinkers.json) |
