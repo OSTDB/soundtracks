@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elixir of Moonglow | 372849 | [372849-elixir-of-moonglow.json](./372849-elixir-of-moonglow.json) |
+| Elohim Eternal II: Son of Man | 366065 | [366065-elohim-eternal-ii-son-of-man.json](./366065-elohim-eternal-ii-son-of-man.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Elton Manor: Requiem of the Cursed Roses | 392030 | [392030-elton-manor-requiem-of-the-cursed-roses.json](./392030-elton-manor-requiem-of-the-cursed-roses.json) |
 | Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
