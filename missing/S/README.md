@@ -150,10 +150,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
+| Shadow Rift: Feral Strike | 378040 | [378040-shadow-rift-feral-strike.json](./378040-shadow-rift-feral-strike.json) |
 | Shadow Saloon | 403481 | [403481-shadow-saloon.json](./403481-shadow-saloon.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
+| Shadows Of Lir'Ah | 378057 | [378057-shadows-of-lirah.json](./378057-shadows-of-lirah.json) |
 | Shai’s Gambit | 391491 | [391491-shai-s-gambit.json](./391491-shai-s-gambit.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
@@ -426,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sex Lab | 382027 | [382027-space-sex-lab.json](./382027-space-sex-lab.json) |
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
+| Spacenap | 378049 | [378049-spacenap.json](./378049-spacenap.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spacetime Shooter | 388619 | [388619-spacetime-shooter.json](./388619-spacetime-shooter.json) |
 | Sparkfront: Online | 411484 | [411484-sparkfront-online.json](./411484-sparkfront-online.json) |
