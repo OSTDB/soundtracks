@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Premium Upgrade Pack | 402199 | [402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json](./402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json) |
 | Tales of Soravos: Ashen Company | 381419 | [381419-tales-of-soravos-ashen-company.json](./381419-tales-of-soravos-ashen-company.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
+| Tales of Terrarum | 374491 | [374491-tales-of-terrarum.json](./374491-tales-of-terrarum.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Trade | 395418 | [395418-tales-of-the-trade.json](./395418-tales-of-the-trade.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
+| The Myth of a Godslayer | 374478 | [374478-the-myth-of-a-godslayer.json](./374478-the-myth-of-a-godslayer.json) |
 | The Never Ending Flower Shop | 375007 | [375007-the-never-ending-flower-shop.json](./375007-the-never-ending-flower-shop.json) |
 | The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Night Shift | 380885 | [380885-the-night-shift.json](./380885-the-night-shift.json) |
@@ -435,6 +437,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | Theme Park Simulator | 390423 | [390423-theme-park-simulator.json](./390423-theme-park-simulator.json) |
 | Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
+| There's No Differences: Cake | 374485 | [374485-theres-no-differences-cake.json](./374485-theres-no-differences-cake.json) |
+| There's No Differences: Dragons | 374488 | [374488-theres-no-differences-dragons.json](./374488-theres-no-differences-dragons.json) |
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
@@ -464,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
 | Tick Tock Bang Bang | 33067 | [33067-tick-tock-bang-bang.json](./33067-tick-tock-bang-bang.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
+| Ticking Together | 374451 | [374451-ticking-together.json](./374451-ticking-together.json) |
 | Tickle Zooz | 89471 | [89471-tickle-zooz.json](./89471-tickle-zooz.json) |
 | Tidy Up Together | 410788 | [410788-tidy-up-together.json](./410788-tidy-up-together.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
@@ -489,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Magnets | 384354 | [384354-tiny-magnets.json](./384354-tiny-magnets.json) |
 | Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
 | Tiny Pasture: Azure Waters | 383246 | [383246-tiny-pasture-azure-waters.json](./383246-tiny-pasture-azure-waters.json) |
+| Tiny Paws | 374475 | [374475-tiny-paws.json](./374475-tiny-paws.json) |
 | Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
