@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
 | Scania Truck Driving Simulator | 10289 | [10289-scania-truck-driving-simulator.json](./10289-scania-truck-driving-simulator.json) |
+| Scars of the Soul | 385999 | [385999-scars-of-the-soul.json](./385999-scars-of-the-soul.json) |
 | Scary Granny Horror Game | 95639 | [95639-scary-granny-horror-game.json](./95639-scary-granny-horror-game.json) |
 | Scary Horror 2 | 399490 | [399490-scary-horror-2.json](./399490-scary-horror-2.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
+| Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
 | Shapevasion | 404127 | [404127-shapevasion.json](./404127-shapevasion.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shatter | 405413 | [405413-shatter.json](./405413-shatter.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
+| Shiroi Kizuna | 386024 | [386024-shiroi-kizuna.json](./386024-shiroi-kizuna.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
@@ -185,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Shrug Tides | 386011 | [386011-shrug-tides.json](./386011-shrug-tides.json) |
 | Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
 | Shufflepuck Cantina Deluxe VR | 16773 | [16773-shufflepuck-cantina-deluxe-vr.json](./16773-shufflepuck-cantina-deluxe-vr.json) |
 | Shunya | 410787 | [410787-shunya.json](./410787-shunya.json) |
@@ -231,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
+| Sinweaver | 386021 | [386021-sinweaver.json](./386021-sinweaver.json) |
 | Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
 | Sister ha Sukuitai! | 387185 | [387185-sister-ha-sukuitai.json](./387185-sister-ha-sukuitai.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
@@ -328,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
+| Solheart: The Hollow Sun | 386005 | [386005-solheart-the-hollow-sun.json](./386005-solheart-the-hollow-sun.json) |
 | Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solitaire Crime Stories Chapter 4 | 392620 | [392620-solitaire-crime-stories-chapter-4.json](./392620-solitaire-crime-stories-chapter-4.json) |
@@ -382,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
+| Space Missions | 386017 | [386017-space-missions.json](./386017-space-missions.json) |
 | Space Parkour Obby | 414241 | [414241-space-parkour-obby.json](./414241-space-parkour-obby.json) |
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
@@ -679,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
+| Sven's Quest: House of the Woodland Witch | 386046 | [386046-svens-quest-house-of-the-woodland-witch.json](./386046-svens-quest-house-of-the-woodland-witch.json) |
 | Swap Meet | 413522 | [413522-swap-meet.json](./413522-swap-meet.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
