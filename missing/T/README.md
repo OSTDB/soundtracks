@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
 | The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
+| The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
 | The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousand Floors | 404148 | [404148-thousand-floors.json](./404148-thousand-floors.json) |
 | Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
+| Three Jokers | 390981 | [390981-three-jokers.json](./390981-three-jokers.json) |
 | Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tūnshí Tiāndì Xūnǐ Shìjiè | 396828 | [396828-tunshi-tiandi-xuni-shijie.json](./396828-tunshi-tiandi-xuni-shijie.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
+| Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twinkle Seek | 400758 | [400758-twinkle-seek.json](./400758-twinkle-seek.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
