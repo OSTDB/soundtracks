@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | M.U.L.E. Online | 402795 | [402795-m-u-l-e-online.json](./402795-m-u-l-e-online.json) |
 | M4 Tank Brigade | 35791 | [35791-m4-tank-brigade.json](./35791-m4-tank-brigade.json) |
+| Macaronpolis | 392057 | [392057-macaronpolis.json](./392057-macaronpolis.json) |
 | MacGuffin's Curse | 15057 | [15057-macguffins-curse.json](./15057-macguffins-curse.json) |
 | Machines | 22821 | [22821-machines.json](./22821-machines.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
+| Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Madness: Grave Danger | 7378 | [7378-monster-madness-grave-danger.json](./7378-monster-madness-grave-danger.json) |
 | Monster Mash | 16058 | [16058-monster-mash.json](./16058-monster-mash.json) |
 | Monster Max | 18629 | [18629-monster-max.json](./18629-monster-max.json) |
+| Monster Mending | 392031 | [392031-monster-mending.json](./392031-monster-mending.json) |
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Slingshot Smash | 405375 | [405375-monster-slingshot-smash.json](./405375-monster-slingshot-smash.json) |
