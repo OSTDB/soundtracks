@@ -101,6 +101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
+| Every 5x5 Nonogram | 402772 | [402772-every-5x5-nonogram.json](./402772-every-5x5-nonogram.json) |
+| Every 5x6 Nonogram | 402774 | [402774-every-5x6-nonogram.json](./402774-every-5x6-nonogram.json) |
 | Everybody's Happy Place | 410107 | [410107-everybodys-happy-place.json](./410107-everybodys-happy-place.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
