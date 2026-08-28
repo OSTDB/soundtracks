@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Elysium | 296537 | [296537-legends-of-elysium.json](./296537-legends-of-elysium.json) |
 | Legends of Iskaria | 44188 | [44188-legends-of-iskaria.json](./44188-legends-of-iskaria.json) |
 | Legion of Zombie Terrors | 405374 | [405374-legion-of-zombie-terrors.json](./405374-legion-of-zombie-terrors.json) |
+| Legion: Arcane Origins | 372867 | [372867-legion-arcane-origins.json](./372867-legion-arcane-origins.json) |
 | LEGO 2K Drive | 242493 | [242493-lego-2k-drive.json](./242493-lego-2k-drive.json) |
 | LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
 | Lofi Mahjong | 375019 | [375019-lofi-mahjong.json](./375019-lofi-mahjong.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
+| Lola Maria | 372841 | [372841-lola-maria.json](./372841-lola-maria.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | Lone Bastion | 380856 | [380856-lone-bastion.json](./380856-lone-bastion.json) |
