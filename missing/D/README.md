@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge This! | 389286 | [389286-dodge-this.json](./389286-dodge-this.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
+| Dogfight 2 : The Great War | 383249 | [383249-dogfight-2-the-great-war.json](./383249-dogfight-2-the-great-war.json) |
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dokapon 3-2-1: Super Collection! | 410797 | [410797-dokapon-3-2-1-super-collection.json](./410797-dokapon-3-2-1-super-collection.json) |
