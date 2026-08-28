@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kacha Fruit Cut | 404156 | [404156-kacha-fruit-cut.json](./404156-kacha-fruit-cut.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kana.exe | 386009 | [386009-kana-exe.json](./386009-kana-exe.json) |
+| Kane & Lynch 2: Most Notorious Criminals | 377439 | [377439-kane-and-lynch-2-most-notorious-criminals.json](./377439-kane-and-lynch-2-most-notorious-criminals.json) |
 | Kàngzhàn Shènglì 70 Zhōunián Dà Yuèbīng Zhè Tiān Wǒ Lǎopó Tūrán Xiāoshī Le | 395419 | [395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json](./395419-kangzhan-shengli-70-zhounian-da-yuebing-zhe-tian-wo-laopo-turan-xiaoshi-le.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kapuritto-kyu Minigame Collection | 391479 | [391479-kapuritto-kyu-minigame-collection.json](./391479-kapuritto-kyu-minigame-collection.json) |
