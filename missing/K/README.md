@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Origins HD | 86887 | [86887-kingdom-rush-origins-hd.json](./86887-kingdom-rush-origins-hd.json) |
 | Kingdom Trails | 398201 | [398201-kingdom-trails.json](./398201-kingdom-trails.json) |
 | Kingdom World | 373945 | [373945-kingdom-world.json](./373945-kingdom-world.json) |
+| Kingdom: Assassin | 368860 | [368860-kingdom-assassin.json](./368860-kingdom-assassin.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
+| Knights Shadow | 368869 | [368869-knights-shadow.json](./368869-knights-shadow.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
 | Knock Knock! | 392061 | [392061-knock-knock.json](./392061-knock-knock.json) |
 | Knockout Battle | 403466 | [403466-knockout-battle.json](./403466-knockout-battle.json) |
