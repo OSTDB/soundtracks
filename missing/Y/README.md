@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You’re Here Again | 381470 | [381470-you-re-here-again.json](./381470-you-re-here-again.json) |
 | You're Invading My Space | 386018 | [386018-youre-invading-my-space.json](./386018-youre-invading-my-space.json) |
 | You're Nuts! | 398212 | [398212-youre-nuts.json](./398212-youre-nuts.json) |
+| Young Suns | 378678 | [378678-young-suns.json](./378678-young-suns.json) |
 | Your Average Platformer | 380266 | [380266-your-average-platformer.json](./380266-your-average-platformer.json) |
 | Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
