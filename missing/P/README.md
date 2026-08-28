@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
 | Pone | 375026 | [375026-pone.json](./375026-pone.json) |
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
+| Pooka Party! | 361511 | [361511-pooka-party.json](./361511-pooka-party.json) |
 | Pool Fever: Platinium Edition | 394753 | [394753-pool-fever-platinium-edition.json](./394753-pool-fever-platinium-edition.json) |
 | Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
