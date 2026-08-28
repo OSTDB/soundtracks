@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
+| Rhythm Survivors | 387863 | [387863-rhythm-survivors.json](./387863-rhythm-survivors.json) |
 | Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
 | Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
