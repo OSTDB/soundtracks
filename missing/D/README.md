@@ -192,6 +192,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
+| Digimon Story: Time Stranger - Additional Digimon & Episode Pack 3: Anti-ParadoX | 390929 | [390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json](./390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json) |
+| Digimon Story: Time Stranger - Costume Cyber Sleuth Set | 390934 | [390934-digimon-story-time-stranger-costume-cyber-sleuth-set.json](./390934-digimon-story-time-stranger-costume-cyber-sleuth-set.json) |
+| Digimon Story: Time Stranger - Costume Digimon Costume Set | 390933 | [390933-digimon-story-time-stranger-costume-digimon-costume-set.json](./390933-digimon-story-time-stranger-costume-digimon-costume-set.json) |
+| Digimon Story: Time Stranger - Costume Public Safety Suit & Special Supplies Set | 390932 | [390932-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json](./390932-digimon-story-time-stranger-costume-public-safety-suit-and-special-supplies-set.json) |
+| Digimon Story: Time Stranger - Costume Swimwear Set | 390931 | [390931-digimon-story-time-stranger-costume-swimwear-set.json](./390931-digimon-story-time-stranger-costume-swimwear-set.json) |
+| Digimon Story: Time Stranger - Farm Item Golden Moai | 390930 | [390930-digimon-story-time-stranger-farm-item-golden-moai.json](./390930-digimon-story-time-stranger-farm-item-golden-moai.json) |
 | Digimon Survive | 105417 | [105417-digimon-survive.json](./105417-digimon-survive.json) |
 | Digimon World Dusk | 78285 | [78285-digimon-world-dusk.json](./78285-digimon-world-dusk.json) |
 | Digimon: Battle Spirit 2 | 6375 | [6375-digimon-battle-spirit-2.json](./6375-digimon-battle-spirit-2.json) |
