@@ -71,6 +71,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingblade: Medieval TCG Card Shop | 401407 | [401407-kingblade-medieval-tcg-card-shop.json](./401407-kingblade-medieval-tcg-card-shop.json) |
 | Kingdam-Ran | 399543 | [399543-kingdam-ran.json](./399543-kingdam-ran.json) |
 | Kingdom Come: Deliverance - Royal Edition | 116794 | [116794-kingdom-come-deliverance-royal-edition.json](./116794-kingdom-come-deliverance-royal-edition.json) |
+| Kingdom Come: Deliverance II - Expansion Pass | 367248 | [367248-kingdom-come-deliverance-ii-expansion-pass.json](./367248-kingdom-come-deliverance-ii-expansion-pass.json) |
+| Kingdom Come: Deliverance II - Gallant Huntsman's Kit | 367245 | [367245-kingdom-come-deliverance-ii-gallant-huntsmans-kit.json](./367245-kingdom-come-deliverance-ii-gallant-huntsmans-kit.json) |
+| Kingdom Come: Deliverance II - Shields of Seasons Passing | 367247 | [367247-kingdom-come-deliverance-ii-shields-of-seasons-passing.json](./367247-kingdom-come-deliverance-ii-shields-of-seasons-passing.json) |
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
 | Kingdom Hearts Ballon Glider | 405396 | [405396-kingdom-hearts-ballon-glider.json](./405396-kingdom-hearts-ballon-glider.json) |
 | Kingdom Hearts Card Struggle: Daifugou | 405399 | [405399-kingdom-hearts-card-struggle-daifugou.json](./405399-kingdom-hearts-card-struggle-daifugou.json) |
@@ -95,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
 | Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
 | KitchenCraft | 397526 | [397526-kitchencraft.json](./397526-kitchencraft.json) |
+| Kitten Island 2 | 367214 | [367214-kitten-island-2.json](./367214-kitten-island-2.json) |
 | Kitty Clicker | 410770 | [410770-kitty-clicker.json](./410770-kitty-clicker.json) |
 | Kitty Powers' Matchmaker | 11421 | [11421-kitty-powers-matchmaker.json](./11421-kitty-powers-matchmaker.json) |
 | Kitty Witchy | 383209 | [383209-kitty-witchy.json](./383209-kitty-witchy.json) |
