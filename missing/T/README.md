@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
+| The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
 | The Incident | 66315 | [66315-the-incident.json](./66315-the-incident.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
 | The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
+| The Karters | 22749 | [22749-the-karters.json](./22749-the-karters.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
@@ -204,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
+| The Settlers IV: Mission CD | 22302 | [22302-the-settlers-iv-mission-cd.json](./22302-the-settlers-iv-mission-cd.json) |
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
@@ -231,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Survivor: Rusty Forest | 89305 | [89305-the-survivor-rusty-forest.json](./89305-the-survivor-rusty-forest.json) |
+| The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
 | The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
@@ -363,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | TrainerVR | 77166 | [77166-trainervr.json](./77166-trainervr.json) |
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
+| Trajectile | 22982 | [22982-trajectile.json](./22982-trajectile.json) |
 | Trajectory of Summer Flower | 64932 | [64932-trajectory-of-summer-flower.json](./64932-trajectory-of-summer-flower.json) |
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
