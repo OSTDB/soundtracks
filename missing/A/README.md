@@ -20,7 +20,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
+| A Normal Train Game | 388623 | [388623-a-normal-train-game.json](./388623-a-normal-train-game.json) |
 | A Park Full of Cats: Complete Edition | 407225 | [407225-a-park-full-of-cats-complete-edition.json](./407225-a-park-full-of-cats-complete-edition.json) |
+| A Permanent Echo | 388596 | [388596-a-permanent-echo.json](./388596-a-permanent-echo.json) |
 | A Pig Quest | 404764 | [404764-a-pig-quest.json](./404764-a-pig-quest.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Director 2: Tycoon Game | 32995 | [32995-airline-director-2-tycoon-game.json](./32995-airline-director-2-tycoon-game.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Airport Madness: Time Machine | 34463 | [34463-airport-madness-time-machine.json](./34463-airport-madness-time-machine.json) |
+| Aka | 388575 | [388575-aka.json](./388575-aka.json) |
 | Aker Fern 2 | 403475 | [403475-aker-fern-2.json](./403475-aker-fern-2.json) |
 | Alan Wake Collector's Edition | 410795 | [410795-alan-wake-collectors-edition.json](./410795-alan-wake-collectors-edition.json) |
 | Alan Wake Collector's Edition Extras | 410793 | [410793-alan-wake-collectors-edition-extras.json](./410793-alan-wake-collectors-edition-extras.json) |
@@ -234,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
+| Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
