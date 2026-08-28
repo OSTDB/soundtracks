@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
 | Freddy's: Reanimated | 387871 | [387871-freddys-reanimated.json](./387871-freddys-reanimated.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
+| Free Kick Football: 3D Soccer | 367264 | [367264-free-kick-football-3d-soccer.json](./367264-free-kick-football-3d-soccer.json) |
 | Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Goddess | 382037 | [382037-futanari-goddess.json](./382037-futanari-goddess.json) |
 | Futanari Sex Adventures: Episode 3 | 371074 | [371074-futanari-sex-adventures-episode-3.json](./371074-futanari-sex-adventures-episode-3.json) |
 | Futanari Sex Adventures: Episode 5 | 371066 | [371066-futanari-sex-adventures-episode-5.json](./371066-futanari-sex-adventures-episode-5.json) |
+| Futanari's Secret: The Forest | 367222 | [367222-futanaris-secret-the-forest.json](./367222-futanaris-secret-the-forest.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
 | Futurama: Hit & Run | 375009 | [375009-futurama-hit-and-run.json](./375009-futurama-hit-and-run.json) |
