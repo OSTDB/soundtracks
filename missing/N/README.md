@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Wii: New Horizons | 394010 | [394010-new-super-mario-bros-wii-new-horizons.json](./394010-new-super-mario-bros-wii-new-horizons.json) |
 | New Super Mario Bros.: Burning Ice | 394012 | [394012-new-super-mario-bros-burning-ice.json](./394012-new-super-mario-bros-burning-ice.json) |
 | New Supermarket Simulator | 401415 | [401415-new-supermarket-simulator.json](./401415-new-supermarket-simulator.json) |
+| New Vegas: Multiplayer | 366691 | [366691-new-vegas-multiplayer.json](./366691-new-vegas-multiplayer.json) |
 | New Yankee: Battle for the Bride - Collector's Edition | 382634 | [382634-new-yankee-battle-for-the-bride-collectors-edition.json](./382634-new-yankee-battle-for-the-bride-collectors-edition.json) |
 | New Yankee: Under the Genie's Thumb - Collector's Edition | 382631 | [382631-new-yankee-under-the-genies-thumb-collectors-edition.json](./382631-new-yankee-under-the-genies-thumb-collectors-edition.json) |
 | New York Mysteries: The Outbreak | 126782 | [126782-new-york-mysteries-the-outbreak.json](./126782-new-york-mysteries-the-outbreak.json) |
