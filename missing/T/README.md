@@ -15,6 +15,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
 | Tales From the Other Side: Beneath the Roots | 409455 | [409455-tales-from-the-other-side-beneath-the-roots.json](./409455-tales-from-the-other-side-beneath-the-roots.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
+| Tales of Arise: Beyond the Dawn - Premium Edition | 402176 | [402176-tales-of-arise-beyond-the-dawn-premium-edition.json](./402176-tales-of-arise-beyond-the-dawn-premium-edition.json) |
+| Tales of Arise: Beyond the Dawn - Premium Upgrade Pack | 402199 | [402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json](./402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
+| The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
@@ -187,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Team Pass 2 | 407254 | [407254-the-king-of-fighters-xv-team-pass-2.json](./407254-the-king-of-fighters-xv-team-pass-2.json) |
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
+| The Last Camp: Dawn | 402203 | [402203-the-last-camp-dawn.json](./402203-the-last-camp-dawn.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
 | The Last Day Defense | 95637 | [95637-the-last-day-defense.json](./95637-the-last-day-defense.json) |
@@ -484,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Trump Simulator 2017 | 29877 | [29877-trump-simulator-2017.json](./29877-trump-simulator-2017.json) |
+| Trust Your Gut | 402214 | [402214-trust-your-gut.json](./402214-trust-your-gut.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
