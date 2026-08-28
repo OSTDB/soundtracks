@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
+| Gigi il Guerriero | 408622 | [408622-gigi-il-guerriero.json](./408622-gigi-il-guerriero.json) |
 | Giraffe Raising Game: Reach for the sky | 413568 | [413568-giraffe-raising-game-reach-for-the-sky.json](./413568-giraffe-raising-game-reach-for-the-sky.json) |
 | Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
 | Girls Like Robots | 16841 | [16841-girls-like-robots.json](./16841-girls-like-robots.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldmine | 94079 | [94079-goldmine.json](./94079-goldmine.json) |
 | Golf It! | 30099 | [30099-golf-it.json](./30099-golf-it.json) |
 | Gone In November | 31912 | [31912-gone-in-november.json](./31912-gone-in-november.json) |
+| Goo Deer | 408638 | [408638-goo-deer.json](./408638-goo-deer.json) |
 | Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
 | Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
