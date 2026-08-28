@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pollo Diavolo | 399486 | [399486-pollo-diavolo.json](./399486-pollo-diavolo.json) |
+| Pollution Game | 371706 | [371706-pollution-game.json](./371706-pollution-game.json) |
 | Poly Bricks | 392024 | [392024-poly-bricks.json](./392024-poly-bricks.json) |
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | PolyGunner | 384372 | [384372-polygunner.json](./384372-polygunner.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella: The Rise Of An Heir | 91278 | [91278-princess-isabella-the-rise-of-an-heir.json](./91278-princess-isabella-the-rise-of-an-heir.json) |
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
+| Prism of You | 371716 | [371716-prism-of-you.json](./371716-prism-of-you.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
@@ -334,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probably Stolen | 412177 | [412177-probably-stolen.json](./412177-probably-stolen.json) |
 | Problem Solved | 392018 | [392018-problem-solved.json](./392018-problem-solved.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
+| Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
@@ -374,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purchase Express | 399483 | [399483-purchase-express.json](./399483-purchase-express.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
+| Pure Farming 2018: Digital Deluxe Edition | 371737 | [371737-pure-farming-2018-digital-deluxe-edition.json](./371737-pure-farming-2018-digital-deluxe-edition.json) |
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
 | Pure Shinty | 373947 | [373947-pure-shinty.json](./373947-pure-shinty.json) |
@@ -397,5 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Puzzling Places: Monthly Pack #38 - Fall & Fright | 379764 | [379764-puzzling-places-monthly-pack-38-fall-and-fright.json](./379764-puzzling-places-monthly-pack-38-fall-and-fright.json) |
 | Puzzling Places: Tokyo | 379765 | [379765-puzzling-places-tokyo.json](./379765-puzzling-places-tokyo.json) |
+| PVZ Fusion | 371703 | [371703-pvz-fusion.json](./371703-pvz-fusion.json) |
+| Py-oneers | 371656 | [371656-py-oneers.json](./371656-py-oneers.json) |
 | Pyramid Quest 2 | 376307 | [376307-pyramid-quest-2.json](./376307-pyramid-quest-2.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
