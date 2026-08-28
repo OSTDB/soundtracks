@@ -66,7 +66,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
 | Headsrest | 387181 | [387181-headsrest.json](./387181-headsrest.json) |
 | Healer | 406605 | [406605-healer.json](./406605-healer.json) |
+| Heart Drive | 383219 | [383219-heart-drive.json](./383219-heart-drive.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
+| Heart of Vinterium | 383221 | [383221-heart-of-vinterium.json](./383221-heart-of-vinterium.json) |
 | Heart Sequence | 384939 | [384939-heart-sequence.json](./384939-heart-sequence.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
@@ -112,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
+| Hepatomancy | 383224 | [383224-hepatomancy.json](./383224-hepatomancy.json) |
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
