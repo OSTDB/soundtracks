@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
+| Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
 | Metroid Prime Hunters: Recompiled | 414195 | [414195-metroid-prime-hunters-recompiled.json](./414195-metroid-prime-hunters-recompiled.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
