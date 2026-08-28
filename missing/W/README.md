@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
+| Wall-E | 390957 | [390957-wall-e.json](./390957-wall-e.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
@@ -193,6 +194,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: The Dream Not Dreamed | 405403 | [405403-wuthering-waves-the-dream-not-dreamed.json](./405403-wuthering-waves-the-dream-not-dreamed.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
+| WWE 2K26: Attitude Era Edition | 390952 | [390952-wwe-2k26-attitude-era-edition.json](./390952-wwe-2k26-attitude-era-edition.json) |
+| WWE 2K26: Attitude Era Edition Pack | 390943 | [390943-wwe-2k26-attitude-era-edition-pack.json](./390943-wwe-2k26-attitude-era-edition-pack.json) |
+| WWE 2K26: Joe Hendry Pack | 390942 | [390942-wwe-2k26-joe-hendry-pack.json](./390942-wwe-2k26-joe-hendry-pack.json) |
+| WWE 2K26: King of Kings Edition | 390953 | [390953-wwe-2k26-king-of-kings-edition.json](./390953-wwe-2k26-king-of-kings-edition.json) |
+| WWE 2K26: King of Kings Edition Pack | 390941 | [390941-wwe-2k26-king-of-kings-edition-pack.json](./390941-wwe-2k26-king-of-kings-edition-pack.json) |
+| WWE 2K26: Monday Night War Edition | 390954 | [390954-wwe-2k26-monday-night-war-edition.json](./390954-wwe-2k26-monday-night-war-edition.json) |
+| WWE 2K26: Monday Night War Edition Pack | 390940 | [390940-wwe-2k26-monday-night-war-edition-pack.json](./390940-wwe-2k26-monday-night-war-edition-pack.json) |
+| WWE 2K26: MyRise Boost | 390944 | [390944-wwe-2k26-myrise-boost.json](./390944-wwe-2k26-myrise-boost.json) |
+| WWE 2K26: Ringside Pass Premium Season 1 | 390946 | [390946-wwe-2k26-ringside-pass-premium-season-1.json](./390946-wwe-2k26-ringside-pass-premium-season-1.json) |
+| WWE 2K26: Ringside Pass Premium Season 2 | 390947 | [390947-wwe-2k26-ringside-pass-premium-season-2.json](./390947-wwe-2k26-ringside-pass-premium-season-2.json) |
+| WWE 2K26: Ringside Pass Premium Season 3 | 390948 | [390948-wwe-2k26-ringside-pass-premium-season-3.json](./390948-wwe-2k26-ringside-pass-premium-season-3.json) |
+| WWE 2K26: Ringside Pass Premium Season 4 | 390949 | [390949-wwe-2k26-ringside-pass-premium-season-4.json](./390949-wwe-2k26-ringside-pass-premium-season-4.json) |
+| WWE 2K26: Ringside Pass Premium Season 5 | 390950 | [390950-wwe-2k26-ringside-pass-premium-season-5.json](./390950-wwe-2k26-ringside-pass-premium-season-5.json) |
+| WWE 2K26: Ringside Pass Premium Season 6 | 390951 | [390951-wwe-2k26-ringside-pass-premium-season-6.json](./390951-wwe-2k26-ringside-pass-premium-season-6.json) |
+| WWE 2K26: WrestleMania 42 Pack | 390945 | [390945-wwe-2k26-wrestlemania-42-pack.json](./390945-wwe-2k26-wrestlemania-42-pack.json) |
 | WWE SmackDown vs. Raw 2009 | 5299 | [5299-wwe-smackdown-vs-raw-2009.json](./5299-wwe-smackdown-vs-raw-2009.json) |
 | WWF In Your House | 23238 | [23238-wwf-in-your-house.json](./23238-wwf-in-your-house.json) |
 | WWF Superstars | 39424 | [39424-wwf-superstars.json](./39424-wwf-superstars.json) |
