@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Arise: Beyond the Dawn - Premium Edition | 402176 | [402176-tales-of-arise-beyond-the-dawn-premium-edition.json](./402176-tales-of-arise-beyond-the-dawn-premium-edition.json) |
 | Tales of Arise: Beyond the Dawn - Premium Upgrade Pack | 402199 | [402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json](./402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json) |
+| Tales of Soravos: Ashen Company | 381419 | [381419-tales-of-soravos-ashen-company.json](./381419-tales-of-soravos-ashen-company.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
 | Tales of the Trade | 395418 | [395418-tales-of-the-trade.json](./395418-tales-of-the-trade.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
 | The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
+| The Glitch Prison Together | 381432 | [381432-the-glitch-prison-together.json](./381432-the-glitch-prison-together.json) |
 | The Glory Dungeon Raider | 396824 | [396824-the-glory-dungeon-raider.json](./396824-the-glory-dungeon-raider.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
@@ -459,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
+| Together Again | 381453 | [381453-together-again.json](./381453-together-again.json) |
 | Together Synergy | 389296 | [389296-together-synergy.json](./389296-together-synergy.json) |
 | Together We Move | 398213 | [398213-together-we-move.json](./398213-together-we-move.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
