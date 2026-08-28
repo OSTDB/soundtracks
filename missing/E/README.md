@@ -16,12 +16,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
+| EasyTetris | 371658 | [371658-easytetris.json](./371658-easytetris.json) |
 | Echo Contingency | 387865 | [387865-echo-contingency.json](./387865-echo-contingency.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
 | Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
 | Echoes of Myth | 392066 | [392066-echoes-of-myth.json](./392066-echoes-of-myth.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
+| Echoes Within | 371724 | [371724-echoes-within.json](./371724-echoes-within.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eclitptic | 378671 | [378671-eclitptic.json](./378671-eclitptic.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
@@ -96,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Endless Summer Syndrome | 409434 | [409434-endless-summer-syndrome.json](./409434-endless-summer-syndrome.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
+| Energy Bundle | 371728 | [371728-energy-bundle.json](./371728-energy-bundle.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
 | Enigma of Hearts | 393349 | [393349-enigma-of-hearts.json](./393349-enigma-of-hearts.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
