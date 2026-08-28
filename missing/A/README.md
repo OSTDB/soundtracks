@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | A Bibelot: Tiret sur Will | 336493 | [336493-a-bibelot-tiret-sur-will.json](./336493-a-bibelot-tiret-sur-will.json) |
+| A Bug’s (Short) Life | 414205 | [414205-a-bug-s-short-life.json](./414205-a-bug-s-short-life.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
+| Art of Drift: Cozy Drift Simulator | 414229 | [414229-art-of-drift-cozy-drift-simulator.json](./414229-art-of-drift-cozy-drift-simulator.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
 | Art of Murder: Hunt for the Puppeteer | 14358 | [14358-art-of-murder-hunt-for-the-puppeteer.json](./14358-art-of-murder-hunt-for-the-puppeteer.json) |
 | Artifact Adventure Gaiden | 76753 | [76753-artifact-adventure-gaiden.json](./76753-artifact-adventure-gaiden.json) |
@@ -186,11 +188,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Claws of Awaji | 329312 | [329312-assassins-creed-shadows-claws-of-awaji.json](./329312-assassins-creed-shadows-claws-of-awaji.json) |
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
+| Assault Wing 3 | 414257 | [414257-assault-wing-3.json](./414257-assault-wing-3.json) |
 | Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
 | Astro Emporia | 35860 | [35860-astro-emporia.json](./35860-astro-emporia.json) |
 | Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
+| Aswang Hunter | 414189 | [414189-aswang-hunter.json](./414189-aswang-hunter.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
 | Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
 | Atelier Annie: Alchemists of Sera Island | 24262 | [24262-atelier-annie-alchemists-of-sera-island.json](./24262-atelier-annie-alchemists-of-sera-island.json) |
