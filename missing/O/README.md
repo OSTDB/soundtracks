@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No, Not Another L | 412145 | [412145-oh-no-not-another-l.json](./412145-oh-no-not-another-l.json) |
 | Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
+| Oink & Collect | 410769 | [410769-oink-and-collect.json](./410769-oink-and-collect.json) |
 | OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
