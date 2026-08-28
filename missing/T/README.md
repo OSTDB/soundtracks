@@ -251,6 +251,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
+| The Second Sight: All Hallow's Eve | 402825 | [402825-the-second-sight-all-hallows-eve.json](./402825-the-second-sight-all-hallows-eve.json) |
+| The Second Sight: The Devil and the Wheel | 402823 | [402823-the-second-sight-the-devil-and-the-wheel.json](./402823-the-second-sight-the-devil-and-the-wheel.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Settlers IV: Mission CD | 22302 | [22302-the-settlers-iv-mission-cd.json](./22302-the-settlers-iv-mission-cd.json) |
@@ -455,7 +457,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
 | Treadnauts | 54785 | [54785-treadnauts.json](./54785-treadnauts.json) |
+| Treasure Island: Abandoned Enigma | 402770 | [402770-treasure-island-abandoned-enigma.json](./402770-treasure-island-abandoned-enigma.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
+| Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
