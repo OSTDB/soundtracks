@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
+| Replay Room | 392657 | [392657-replay-room.json](./392657-replay-room.json) |
 | Reptilarium | 406598 | [406598-reptilarium.json](./406598-reptilarium.json) |
 | Reptilian Rebellion | 33013 | [33013-reptilian-rebellion.json](./33013-reptilian-rebellion.json) |
 | Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
@@ -129,12 +130,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
 | Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
+| Rina-sama Musou: The Chosen One and the Reign of Madness | 392623 | [392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json](./392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
 | Ring Master II: Forget You Not, Evermore | 402817 | [402817-ring-master-ii-forget-you-not-evermore.json](./402817-ring-master-ii-forget-you-not-evermore.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
+| RIP Love: A Story of Pain | 392665 | [392665-rip-love-a-story-of-pain.json](./392665-rip-love-a-story-of-pain.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
