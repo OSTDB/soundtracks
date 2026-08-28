@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 398854 | [398854-terminator-2-judgment-day.json](./398854-terminator-2-judgment-day.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
+| Terminator: Dark Fate - Defiance: Uprising | 359789 | [359789-terminator-dark-fate-defiance-uprising.json](./359789-terminator-dark-fate-defiance-uprising.json) |
 | Terra Taker | 389329 | [389329-terra-taker.json](./389329-terra-taker.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
 | The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
 | The Lift | 367776 | [367776-the-lift.json](./367776-the-lift.json) |
+| The Lightkeeper | 359783 | [359783-the-lightkeeper.json](./359783-the-lightkeeper.json) |
 | The Line | 380889 | [380889-the-line.json](./380889-the-line.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trabacolo | 395446 | [395446-trabacolo.json](./395446-trabacolo.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
+| TrackDown: Genesis | 359804 | [359804-trackdown-genesis.json](./359804-trackdown-genesis.json) |
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
@@ -711,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
 | Trajectile | 22982 | [22982-trajectile.json](./22982-trajectile.json) |
 | Trajectory of Summer Flower | 64932 | [64932-trajectory-of-summer-flower.json](./64932-trajectory-of-summer-flower.json) |
+| Tralalero Tralala: Jigsaw Puzzles | 359792 | [359792-tralalero-tralala-jigsaw-puzzles.json](./359792-tralalero-tralala-jigsaw-puzzles.json) |
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transfer | 380865 | [380865-transfer.json](./380865-transfer.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
@@ -785,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble in the Deep Noon | 412166 | [412166-tumble-in-the-deep-noon.json](./412166-tumble-in-the-deep-noon.json) |
 | Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
+| Tung Tung Sahur Extreme | 359795 | [359795-tung-tung-sahur-extreme.json](./359795-tung-tung-sahur-extreme.json) |
 | Tung Tung Tung Survival | 408645 | [408645-tung-tung-tung-survival.json](./408645-tung-tung-tung-survival.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Tunnel Escape Fates Entwined | 389871 | [389871-tunnel-escape-fates-entwined.json](./389871-tunnel-escape-fates-entwined.json) |
