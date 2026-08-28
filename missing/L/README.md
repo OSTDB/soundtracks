@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
+| Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Looking for Heals | 115804 | [115804-looking-for-heals.json](./115804-looking-for-heals.json) |
+| Looking Up I See Only A Ceiling: The Recall | 404104 | [404104-looking-up-i-see-only-a-ceiling-the-recall.json](./404104-looking-up-i-see-only-a-ceiling-the-recall.json) |
 | Loom | 191 | [191-loom.json](./191-loom.json) |
 | Looney Tunes: Sheep Raider | 44884 | [44884-looney-tunes-sheep-raider.json](./44884-looney-tunes-sheep-raider.json) |
 | Loot Box Quest | 76499 | [76499-loot-box-quest.json](./76499-loot-box-quest.json) |
