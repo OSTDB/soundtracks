@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
 | Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
 | Blast Vein | 407961 | [407961-blast-vein.json](./407961-blast-vein.json) |
+| Blaster Force 3000 | 373384 | [373384-blaster-force-3000.json](./373384-blaster-force-3000.json) |
 | BlazBlue: Calamity Trigger | 6441 | [6441-blazblue-calamity-trigger.json](./6441-blazblue-calamity-trigger.json) |
 | Blazing Beaks | 75158 | [75158-blazing-beaks.json](./75158-blazing-beaks.json) |
 | Blazing Lazers | 42125 | [42125-blazing-lazers.json](./42125-blazing-lazers.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
+| Brave x Junction | 373370 | [373370-brave-x-junction.json](./373370-brave-x-junction.json) |
 | Brazilian Drug Dealer Before 4: Demons From the Portal to Hell I Opened Are Still in the Favela and Now I Have to Save Mamadas From Ronaldo | 387850 | [387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json](./387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json) |
 | Brazzante | 387882 | [387882-brazzante.json](./387882-brazzante.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
@@ -396,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
+| Bumblebee: Spooky Nights | 373383 | [373383-bumblebee-spooky-nights.json](./373383-bumblebee-spooky-nights.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Bumpers & Dragons | 387884 | [387884-bumpers-and-dragons.json](./387884-bumpers-and-dragons.json) |
 | Bumshak | 398859 | [398859-bumshak.json](./398859-bumshak.json) |
