@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
+| Hearth Storm | 369403 | [369403-hearth-storm.json](./369403-hearth-storm.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
 | Hearthstone: Escape from Violet Hold | 409429 | [409429-hearthstone-escape-from-violet-hold.json](./409429-hearthstone-escape-from-violet-hold.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Hungry Hippos: Move N’ Munch | 382611 | [382611-hungry-hungry-hippos-move-n-munch.json](./382611-hungry-hungry-hippos-move-n-munch.json) |
 | Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
+| Hunter: Space Pirates | 369401 | [369401-hunter-space-pirates.json](./369401-hunter-space-pirates.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Huntin' Buddies | 397532 | [397532-huntin-buddies.json](./397532-huntin-buddies.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
