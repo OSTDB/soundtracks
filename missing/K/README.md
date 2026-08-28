@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom Monsters | 33047 | [33047-kaboom-monsters.json](./33047-kaboom-monsters.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
+| Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
+| Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
