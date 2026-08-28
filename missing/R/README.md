@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
 | Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
+| Ratalorica | 403474 | [403474-ratalorica.json](./403474-ratalorica.json) |
 | Ratchet & Clank: Going Commando | 253138 | [253138-ratchet-and-clank-going-commando.json](./253138-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Size Matters | 1791 | [1791-ratchet-and-clank-size-matters.json](./1791-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Up Your Arsenal | 1773 | [1773-ratchet-and-clank-up-your-arsenal.json](./1773-ratchet-and-clank-up-your-arsenal.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raycatcher | 14954 | [14954-raycatcher.json](./14954-raycatcher.json) |
 | Raygun Commando VR | 29896 | [29896-raygun-commando-vr.json](./29896-raygun-commando-vr.json) |
 | Rayman 3 | 49843 | [49843-rayman-3.json](./49843-rayman-3.json) |
+| Rayman Origins: Enhanced Edition | 403490 | [403490-rayman-origins-enhanced-edition.json](./403490-rayman-origins-enhanced-edition.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
+| Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
