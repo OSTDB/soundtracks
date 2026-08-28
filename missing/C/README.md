@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
+| Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
+| CarveOut 2160 | 411475 | [411475-carveout-2160.json](./411475-carveout-2160.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
@@ -82,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
+| Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
@@ -124,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
 | Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
+| Cigkofte Empire | 411436 | [411436-cigkofte-empire.json](./411436-cigkofte-empire.json) |
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
@@ -209,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
+| CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
@@ -274,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
+| Cyber City: Science Crime Mystery | 411449 | [411449-cyber-city-science-crime-mystery.json](./411449-cyber-city-science-crime-mystery.json) |
 | Cyber Jolt | 29745 | [29745-cyber-jolt.json](./29745-cyber-jolt.json) |
 | Cyberhunt | 36529 | [36529-cyberhunt.json](./36529-cyberhunt.json) |
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
