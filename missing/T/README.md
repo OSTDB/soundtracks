@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
 | The Adventures of Fei Duanmu | 90464 | [90464-the-adventures-of-fei-duanmu.json](./90464-the-adventures-of-fei-duanmu.json) |
+| The Adventures of Hooman | 406579 | [406579-the-adventures-of-hooman.json](./406579-the-adventures-of-hooman.json) |
 | The Adventures of Horse the Horse | 412870 | [412870-the-adventures-of-horse-the-horse.json](./412870-the-adventures-of-horse-the-horse.json) |
 | The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
@@ -194,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel III | 26564 | [26564-the-legend-of-heroes-trails-of-cold-steel-iii.json](./26564-the-legend-of-heroes-trails-of-cold-steel-iii.json) |
 | The Legend of Heroes: Trails Through Daybreak II | 185864 | [185864-the-legend-of-heroes-trails-through-daybreak-ii.json](./185864-the-legend-of-heroes-trails-through-daybreak-ii.json) |
 | The Legend of Kage | 4593 | [4593-the-legend-of-kage.json](./4593-the-legend-of-kage.json) |
+| The Legend of the 4 Elements | 406596 | [406596-the-legend-of-the-4-elements.json](./406596-the-legend-of-the-4-elements.json) |
 | The Legend of the Mystical Ninja | 28386 | [28386-the-legend-of-the-mystical-ninja.json](./28386-the-legend-of-the-mystical-ninja.json) |
 | The Legend of Zelda: Breath of the Wild - Expansion Pass | 41829 | [41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json](./41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json) |
 | The Legend of Zelda: Collector's Edition | 45139 | [45139-the-legend-of-zelda-collectors-edition.json](./45139-the-legend-of-zelda-collectors-edition.json) |
@@ -470,4 +472,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Worlds | 7222 | [7222-two-worlds.json](./7222-two-worlds.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 1323 | [1323-ty-the-tasmanian-tiger-2-bush-rescue.json](./1323-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | Tycoon City: New York | 9439 | [9439-tycoon-city-new-york.json](./9439-tycoon-city-new-york.json) |
+| Tyrania Enforcers | 406601 | [406601-tyrania-enforcers.json](./406601-tyrania-enforcers.json) |
 | Tyrian | 3804 | [3804-tyrian.json](./3804-tyrian.json) |
