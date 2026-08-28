@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
 | Alley Cats Idle | 374484 | [374484-alley-cats-idle.json](./374484-alley-cats-idle.json) |
+| Allmage | 373369 | [373369-allmage.json](./373369-allmage.json) |
 | Almanach: Of Empires and Sorcery | 391493 | [391493-almanach-of-empires-and-sorcery.json](./391493-almanach-of-empires-and-sorcery.json) |
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
@@ -286,14 +287,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
+| Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
+| Arcade Archives 2: Battlantis | 373375 | [373375-arcade-archives-2-battlantis.json](./373375-arcade-archives-2-battlantis.json) |
 | Arcade Archives 2: Final Lap | 396094 | [396094-arcade-archives-2-final-lap.json](./396094-arcade-archives-2-final-lap.json) |
 | Arcade Archives 2: Plump Pop | 394721 | [394721-arcade-archives-2-plump-pop.json](./394721-arcade-archives-2-plump-pop.json) |
 | Arcade Archives 2: Quester | 387879 | [387879-arcade-archives-2-quester.json](./387879-arcade-archives-2-quester.json) |
 | Arcade Archives 2: Space Invaders | 382649 | [382649-arcade-archives-2-space-invaders.json](./382649-arcade-archives-2-space-invaders.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
+| Arcade Archives: Battlantis | 373374 | [373374-arcade-archives-battlantis.json](./373374-arcade-archives-battlantis.json) |
 | Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
@@ -333,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Arrow Party | 382617 | [382617-arrow-party.json](./382617-arrow-party.json) |
 | Arrow Spire: Tower Defense | 374486 | [374486-arrow-spire-tower-defense.json](./374486-arrow-spire-tower-defense.json) |
+| Arrowburst | 373361 | [373361-arrowburst.json](./373361-arrowburst.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Drift: Cozy Drift Simulator | 414229 | [414229-art-of-drift-cozy-drift-simulator.json](./414229-art-of-drift-cozy-drift-simulator.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
