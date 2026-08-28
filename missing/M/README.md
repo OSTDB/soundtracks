@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance 2 | 568 | [568-marvel-ultimate-alliance-2.json](./568-marvel-ultimate-alliance-2.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series | 26165 | [26165-marvels-guardians-of-the-galaxy-the-telltale-series.json](./26165-marvels-guardians-of-the-galaxy-the-telltale-series.json) |
 | Marvin's Mittens | 36157 | [36157-marvins-mittens.json](./36157-marvins-mittens.json) |
+| Mash Motion: Swimming Surge | 404742 | [404742-mash-motion-swimming-surge.json](./404742-mash-motion-swimming-surge.json) |
 | Mask of the Rose | 178073 | [178073-mask-of-the-rose.json](./178073-mask-of-the-rose.json) |
 | Masquerada: Songs and Shadows | 24474 | [24474-masquerada-songs-and-shadows.json](./24474-masquerada-songs-and-shadows.json) |
 | Mass Effect 2 | 245113 | [245113-mass-effect-2.json](./245113-mass-effect-2.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
+| Monster Hunter Wilds: Ascendance | 404709 | [404709-monster-hunter-wilds-ascendance.json](./404709-monster-hunter-wilds-ascendance.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
 | Monster Jaunt | 116261 | [116261-monster-jaunt.json](./116261-monster-jaunt.json) |
 | Monster Madness: Grave Danger | 7378 | [7378-monster-madness-grave-danger.json](./7378-monster-madness-grave-danger.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
 | Mortal Kombat & Mortal Kombat II | 81899 | [81899-mortal-kombat-and-mortal-kombat-ii.json](./81899-mortal-kombat-and-mortal-kombat-ii.json) |
+| Mortal Kombat 1: One-Time Dragon Pack Kitana | 404756 | [404756-mortal-kombat-1-one-time-dragon-pack-kitana.json](./404756-mortal-kombat-1-one-time-dragon-pack-kitana.json) |
 | Mortal Kombat 3 | 242253 | [242253-mortal-kombat-3.json](./242253-mortal-kombat-3.json) |
 | Mortal Kombat: Armageddon | 1616 | [1616-mortal-kombat-armageddon.json](./1616-mortal-kombat-armageddon.json) |
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
@@ -281,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Hack Jack: Robot Detective | 115937 | [115937-mr-hack-jack-robot-detective.json](./115937-mr-hack-jack-robot-detective.json) |
+| Mr. Records | 404712 | [404712-mr-records.json](./404712-mr-records.json) |
 | Mr. Robot | 13229 | [13229-mr-robot.json](./13229-mr-robot.json) |
 | Mr. Robot:1.51exfiltrati0n | 22748 | [22748-mr-robot-1-51exfiltrati0n.json](./22748-mr-robot-1-51exfiltrati0n.json) |
 | Mr. Sun's Hatbox | 166929 | [166929-mr-suns-hatbox.json](./166929-mr-suns-hatbox.json) |
