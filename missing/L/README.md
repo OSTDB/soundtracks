@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Frontier | 58398 | [58398-lost-frontier.json](./58398-lost-frontier.json) |
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
+| Lost in Night | 400811 | [400811-lost-in-night.json](./400811-lost-in-night.json) |
 | Lost in Space | 405425 | [405425-lost-in-space.json](./405425-lost-in-space.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
