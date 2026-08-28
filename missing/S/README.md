@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 384390 | [384390-search.json](./384390-search.json) |
 | SecreD: Foot Art | 375046 | [375046-secred-foot-art.json](./375046-secred-foot-art.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
+| Secret Lab Cleaner | 372881 | [372881-secret-lab-cleaner.json](./372881-secret-lab-cleaner.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Secrets of Solari | 387864 | [387864-secrets-of-solari.json](./387864-secrets-of-solari.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | Sore | 407925 | [407925-sore.json](./407925-sore.json) |
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
+| SortCraft | 372889 | [372889-sortcraft.json](./372889-sortcraft.json) |
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
 | Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
@@ -585,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
 | Stellar Dawn: Survivor | 387196 | [387196-stellar-dawn-survivor.json](./387196-stellar-dawn-survivor.json) |
 | Stellar Nemesis | 373935 | [373935-stellar-nemesis.json](./373935-stellar-nemesis.json) |
+| Stellifier: The Comeback | 372866 | [372866-stellifier-the-comeback.json](./372866-stellifier-the-comeback.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
@@ -630,6 +633,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
+| Street FIghter V: Seasons 1-3 Stage Pack | 372875 | [372875-street-fighter-v-seasons-1-3-stage-pack.json](./372875-street-fighter-v-seasons-1-3-stage-pack.json) |
+| Street FIghter V: Sporty Costume Pack | 372876 | [372876-street-fighter-v-sporty-costume-pack.json](./372876-street-fighter-v-sporty-costume-pack.json) |
+| Street Fighter V: Temple of Ascension | 372878 | [372878-street-fighter-v-temple-of-ascension.json](./372878-street-fighter-v-temple-of-ascension.json) |
 | Street Fighter X Tekken: Bob (Swap Costume) | 388612 | [388612-street-fighter-x-tekken-bob-swap-costume.json](./388612-street-fighter-x-tekken-bob-swap-costume.json) |
 | Street Fighter X Tekken: Heihachi (Swap Costume) | 388613 | [388613-street-fighter-x-tekken-heihachi-swap-costume.json](./388613-street-fighter-x-tekken-heihachi-swap-costume.json) |
 | Street Fighter X Tekken: Hwoarang (Swap Costume) | 388603 | [388603-street-fighter-x-tekken-hwoarang-swap-costume.json](./388603-street-fighter-x-tekken-hwoarang-swap-costume.json) |
@@ -731,6 +737,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
 | Super Shout Showdown | 382606 | [382606-super-shout-showdown.json](./382606-super-shout-showdown.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
+| Super Smash Bros. Ultimate: Iori Yagami Outfit and Wig | 372873 | [372873-super-smash-bros-ultimate-iori-yagami-outfit-and-wig.json](./372873-super-smash-bros-ultimate-iori-yagami-outfit-and-wig.json) |
+| Super Smash Bros. Ultimate: Nakoruru Outfit and Wig | 372870 | [372870-super-smash-bros-ultimate-nakoruru-outfit-and-wig.json](./372870-super-smash-bros-ultimate-nakoruru-outfit-and-wig.json) |
+| Super Smash Bros. Ultimate: Slime Hat | 372872 | [372872-super-smash-bros-ultimate-slime-hat.json](./372872-super-smash-bros-ultimate-slime-hat.json) |
+| Super Smash Bros. Ultimate: Veronica's Outfit and Hat | 372871 | [372871-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./372871-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
+| Super Smash Rex | 372885 | [372885-super-smash-rex.json](./372885-super-smash-rex.json) |
 | Super Spring Ninja | 31443 | [31443-super-spring-ninja.json](./31443-super-spring-ninja.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Stone Legacy | 29752 | [29752-super-stone-legacy.json](./29752-super-stone-legacy.json) |
