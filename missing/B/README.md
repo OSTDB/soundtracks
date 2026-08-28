@@ -141,11 +141,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
 | Beauty Store Simulator | 374490 | [374490-beauty-store-simulator.json](./374490-beauty-store-simulator.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
+| Beé! Frenzy Sheep | 366079 | [366079-bee-frenzy-sheep.json](./366079-bee-frenzy-sheep.json) |
 | Beer Mania | 370497 | [370497-beer-mania.json](./370497-beer-mania.json) |
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
 | Before They Wake | 402808 | [402808-before-they-wake.json](./402808-before-they-wake.json) |
+| Begin the Slaughter | 366075 | [366075-begin-the-slaughter.json](./366075-begin-the-slaughter.json) |
 | Behind These Eyes | 44195 | [44195-behind-these-eyes.json](./44195-behind-these-eyes.json) |
 | Beholder | 24905 | [24905-beholder.json](./24905-beholder.json) |
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
@@ -243,10 +245,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
 | Blackwood House | 405393 | [405393-blackwood-house.json](./405393-blackwood-house.json) |
+| Blackwood's Dilemma | 366037 | [366037-blackwoods-dilemma.json](./366037-blackwoods-dilemma.json) |
 | Blade Arcus From Shining: Battle Arena | 23185 | [23185-blade-arcus-from-shining-battle-arena.json](./23185-blade-arcus-from-shining-battle-arena.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
 | Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
+| Blanky | 366054 | [366054-blanky.json](./366054-blanky.json) |
 | Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
 | Blast Vein | 407961 | [407961-blast-vein.json](./407961-blast-vein.json) |
 | Blaster Force 3000 | 373384 | [373384-blaster-force-3000.json](./373384-blaster-force-3000.json) |
