@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
+| Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
