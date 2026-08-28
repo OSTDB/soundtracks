@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Difference Machine | 393310 | [393310-difference-machine.json](./393310-difference-machine.json) |
 | Diffusion | 380265 | [380265-diffusion.json](./380265-diffusion.json) |
+| Dig & Decode | 365482 | [365482-dig-and-decode.json](./365482-dig-and-decode.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Dig N Picman | 385486 | [385486-dig-n-picman.json](./385486-dig-n-picman.json) |
 | Dig Out | 375011 | [375011-dig-out.json](./375011-dig-out.json) |
