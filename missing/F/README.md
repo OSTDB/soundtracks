@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fabric | 22722 | [22722-fabric.json](./22722-fabric.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
+| Fading Light | 400779 | [400779-fading-light.json](./400779-fading-light.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | Faerie Solitaire Harvest | 115787 | [115787-faerie-solitaire-harvest.json](./115787-faerie-solitaire-harvest.json) |
 | FaeVerse Alchemy | 36421 | [36421-faeverse-alchemy.json](./36421-faeverse-alchemy.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
+| Fishing Master | 400772 | [400772-fishing-master.json](./400772-fishing-master.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
@@ -235,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
 | Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
+| Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
