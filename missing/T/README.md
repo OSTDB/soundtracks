@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
+| Tales From the Other Side: Beneath the Roots | 409455 | [409455-tales-from-the-other-side-beneath-the-roots.json](./409455-tales-from-the-other-side-beneath-the-roots.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster Connect | 124102 | [124102-touchmaster-connect.json](./124102-touchmaster-connect.json) |
 | Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
+| Touhou Crisis R | 409469 | [409469-touhou-crisis-r.json](./409469-touhou-crisis-r.json) |
 | Touhou Defense Tale: AI Test in Touhou | 410142 | [410142-touhou-defense-tale-ai-test-in-touhou.json](./410142-touhou-defense-tale-ai-test-in-touhou.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
