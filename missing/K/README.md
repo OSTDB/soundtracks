@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
+| Kicking Upwards | 394704 | [394704-kicking-upwards.json](./394704-kicking-upwards.json) |
 | Kid Klown in Night Mayor World | 48115 | [48115-kid-klown-in-night-mayor-world.json](./48115-kid-klown-in-night-mayor-world.json) |
 | Kids Math Magic | 89529 | [89529-kids-math-magic.json](./89529-kids-math-magic.json) |
 | Kill Knight | 296832 | [296832-kill-knight.json](./296832-kill-knight.json) |
@@ -93,6 +94,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
+| Korean Drone Flying Tour Anmyeon-eup | 394709 | [394709-korean-drone-flying-tour-anmyeon-eup.json](./394709-korean-drone-flying-tour-anmyeon-eup.json) |
+| Korean Drone Flying Tour Hujeong Auditorium | 394710 | [394710-korean-drone-flying-tour-hujeong-auditorium.json](./394710-korean-drone-flying-tour-hujeong-auditorium.json) |
+| Korean Drone Flying Tour Tapjeong Lake | 394711 | [394711-korean-drone-flying-tour-tapjeong-lake.json](./394711-korean-drone-flying-tour-tapjeong-lake.json) |
 | Kosenki | 404144 | [404144-kosenki.json](./404144-kosenki.json) |
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
 | Krystopia: A Puzzle Journey | 126880 | [126880-krystopia-a-puzzle-journey.json](./126880-krystopia-a-puzzle-journey.json) |
