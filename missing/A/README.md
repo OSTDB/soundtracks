@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mobile | 68526 | [68526-assassins-creed-mobile.json](./68526-assassins-creed-mobile.json) |
 | Assassin's Creed Revelations | 221824 | [221824-assassins-creed-revelations.json](./221824-assassins-creed-revelations.json) |
 | Assassin's Creed Shadows: Claws of Awaji | 329312 | [329312-assassins-creed-shadows-claws-of-awaji.json](./329312-assassins-creed-shadows-claws-of-awaji.json) |
+| Assassin's Creed Shadows: Premium Edition | 398250 | [398250-assassins-creed-shadows-premium-edition.json](./398250-assassins-creed-shadows-premium-edition.json) |
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Assault Wing 3 | 414257 | [414257-assault-wing-3.json](./414257-assault-wing-3.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athens 2004 | 22298 | [22298-athens-2004.json](./22298-athens-2004.json) |
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
+| Atmosphere | 398236 | [398236-atmosphere.json](./398236-atmosphere.json) |
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
