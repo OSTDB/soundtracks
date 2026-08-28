@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
+| Master Knight | 369424 | [369424-master-knight.json](./369424-master-knight.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
