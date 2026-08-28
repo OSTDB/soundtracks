@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forest Hustle | 384355 | [384355-forest-hustle.json](./384355-forest-hustle.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
+| Forgive for Ever | 371717 | [371717-forgive-for-ever.json](./371717-forgive-for-ever.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Formula Racing Pro 2026: Definitive Edition | 402171 | [402171-formula-racing-pro-2026-definitive-edition.json](./402171-formula-racing-pro-2026-definitive-edition.json) |
