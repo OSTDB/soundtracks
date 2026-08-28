@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
+| Matikka on Jees! | 370519 | [370519-matikka-on-jees.json](./370519-matikka-on-jees.json) |
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
+| MeatSlayer: Dash or Death | 370526 | [370526-meatslayer-dash-or-death.json](./370526-meatslayer-dash-or-death.json) |
 | Mech and Tech 1 | 373930 | [373930-mech-and-tech-1.json](./373930-mech-and-tech-1.json) |
 | Mech Builder 3D | 371691 | [371691-mech-builder-3d.json](./371691-mech-builder-3d.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
