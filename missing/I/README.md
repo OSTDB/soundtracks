@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Never Let My Owner Recover From Her Gambling Addiction | 384936 | [384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json](./384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json) |
 | I'm a Big Fan | 413567 | [413567-im-a-big-fan.json](./413567-im-a-big-fan.json) |
 | I'm a Human | 383840 | [383840-im-a-human.json](./383840-im-a-human.json) |
+| I'm Making a Monster | 378618 | [378618-im-making-a-monster.json](./378618-im-making-a-monster.json) |
 | I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Empire | 408641 | [408641-infinite-empire.json](./408641-infinite-empire.json) |
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
+| Infinity Nikki: Terra's Call | 378638 | [378638-infinity-nikki-terras-call.json](./378638-infinity-nikki-terras-call.json) |
 | Information Conveyed Information Received | 404763 | [404763-information-conveyed-information-received.json](./404763-information-conveyed-information-received.json) |
 | Injection π23: Tabula Rasa | 401404 | [401404-injection-23-tabula-rasa.json](./401404-injection-23-tabula-rasa.json) |
 | Ink Shadow: Zero | 389883 | [389883-ink-shadow-zero.json](./389883-ink-shadow-zero.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intravenous 2 | 270053 | [270053-intravenous-2.json](./270053-intravenous-2.json) |
 | Intruders: Hide and Seek | 113999 | [113999-intruders-hide-and-seek.json](./113999-intruders-hide-and-seek.json) |
 | Intrusion Protocol | 44180 | [44180-intrusion-protocol.json](./44180-intrusion-protocol.json) |
+| Intueri | 378636 | [378636-intueri.json](./378636-intueri.json) |
 | Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
