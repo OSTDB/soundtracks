@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Blasters | 402168 | [402168-void-blasters.json](./402168-void-blasters.json) |
 | Void Breach | 395448 | [395448-void-breach.json](./395448-void-breach.json) |
 | Void Destroyer | 16776 | [16776-void-destroyer.json](./16776-void-destroyer.json) |
+| Void Diver: Escape From the Abyss | 389278 | [389278-void-diver-escape-from-the-abyss.json](./389278-void-diver-escape-from-the-abyss.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
 | Voidhold | 414983 | [414983-voidhold.json](./414983-voidhold.json) |
 | Voidrun | 116267 | [116267-voidrun.json](./116267-voidrun.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
 | Voyage: Journey to the Moon | 9734 | [9734-voyage-journey-to-the-moon.json](./9734-voyage-journey-to-the-moon.json) |
+| VR Construction Lab | 389281 | [389281-vr-construction-lab.json](./389281-vr-construction-lab.json) |
 | VR Golf Online | 29851 | [29851-vr-golf-online.json](./29851-vr-golf-online.json) |
 | VR Shoot Around | 44215 | [44215-vr-shoot-around.json](./44215-vr-shoot-around.json) |
 | VR Sneaking Mission 2 | 410749 | [410749-vr-sneaking-mission-2.json](./410749-vr-sneaking-mission-2.json) |
