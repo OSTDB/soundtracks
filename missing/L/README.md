@@ -169,3 +169,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
 | Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
 | Luxor MahJong | 7539 | [7539-luxor-mahjong.json](./7539-luxor-mahjong.json) |
+| Lysa Hora: The Haunted Hill | 399528 | [399528-lysa-hora-the-haunted-hill.json](./399528-lysa-hora-the-haunted-hill.json) |
