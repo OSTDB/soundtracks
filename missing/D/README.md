@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Matter | 16668 | [16668-dark-matter.json](./16668-dark-matter.json) |
 | Dark Parables: Curse of Briar Rose - Collector's Edition | 31425 | [31425-dark-parables-curse-of-briar-rose-collectors-edition.json](./31425-dark-parables-curse-of-briar-rose-collectors-edition.json) |
 | Dark Shadows - Army of Evil | 17109 | [17109-dark-shadows-army-of-evil.json](./17109-dark-shadows-army-of-evil.json) |
+| Dark Souls 2: Mad Warrior Edition | 381467 | [381467-dark-souls-2-mad-warrior-edition.json](./381467-dark-souls-2-mad-warrior-edition.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Dark Watching Chapter 2 | 400107 | [400107-dark-watching-chapter-2.json](./400107-dark-watching-chapter-2.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day Ticket | 407958 | [407958-day-ticket.json](./407958-day-ticket.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
+| DCS World: MiG-29A Fulcrum | 381460 | [381460-dcs-world-mig-29a-fulcrum.json](./381460-dcs-world-mig-29a-fulcrum.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
 | De-Extinct: Jurassic Dinosaurs | 396829 | [396829-de-extinct-jurassic-dinosaurs.json](./396829-de-extinct-jurassic-dinosaurs.json) |
 | De-Limited | 403463 | [403463-de-limited.json](./403463-de-limited.json) |
@@ -111,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Train VR | 61883 | [61883-death-train-vr.json](./61883-death-train-vr.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
+| Death Upon an Austrian Sonata: A Dana Knightstone Novel - Collector's Edition | 381435 | [381435-death-upon-an-austrian-sonata-a-dana-knightstone-novel-collectors-edition.json](./381435-death-upon-an-austrian-sonata-a-dana-knightstone-novel-collectors-edition.json) |
 | Death's Door | 145099 | [145099-deaths-door.json](./145099-deaths-door.json) |
 | Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
 | Deathmark | 387248 | [387248-deathmark.json](./387248-deathmark.json) |
@@ -310,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
+| Donkey Kong Country 4: The Kongs Return | 381457 | [381457-donkey-kong-country-4-the-kongs-return.json](./381457-donkey-kong-country-4-the-kongs-return.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
 | Donna Survivors | 385471 | [385471-donna-survivors.json](./385471-donna-survivors.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
@@ -372,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Bros | 31970 | [31970-dragon-bros.json](./31970-dragon-bros.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
 | Dragon Climax | 76856 | [76856-dragon-climax.json](./76856-dragon-climax.json) |
+| Dragon Dinner | 381472 | [381472-dragon-dinner.json](./381472-dragon-dinner.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
