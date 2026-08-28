@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Crime Stories Chapter 4 | 392620 | [392620-solitaire-crime-stories-chapter-4.json](./392620-solitaire-crime-stories-chapter-4.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
+| Solitaire Zero 21 | 364907 | [364907-solitaire-zero-21.json](./364907-solitaire-zero-21.json) |
 | Solomon's Keep: Dreadful Retro Edition | 377453 | [377453-solomons-keep-dreadful-retro-edition.json](./377453-solomons-keep-dreadful-retro-edition.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soluna's Mood | 368299 | [368299-solunas-mood.json](./368299-solunas-mood.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
 | Space Explorers | 61877 | [61877-space-explorers.json](./61877-space-explorers.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
+| Space Harrier | 364893 | [364893-space-harrier.json](./364893-space-harrier.json) |
 | Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
@@ -770,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galaxy Gladiator | 404121 | [404121-super-galaxy-gladiator.json](./404121-super-galaxy-gladiator.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
+| Super Hang-On | 364894 | [364894-super-hang-on.json](./364894-super-hang-on.json) |
 | Super Hydlide | 27987 | [27987-super-hydlide.json](./27987-super-hydlide.json) |
 | Super Hydorah | 26975 | [26975-super-hydorah.json](./26975-super-hydorah.json) |
 | Super Indie Karts | 17853 | [17853-super-indie-karts.json](./17853-super-indie-karts.json) |
