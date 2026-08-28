@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
+| Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
 | Ben 10 Alien Force: Vilgax Attacks | 2802 | [2802-ben-10-alien-force-vilgax-attacks.json](./2802-ben-10-alien-force-vilgax-attacks.json) |
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Shrooms | 22782 | [22782-bloom-shrooms.json](./22782-bloom-shrooms.json) |
 | Blooming Blossoms | 388571 | [388571-blooming-blossoms.json](./388571-blooming-blossoms.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
+| Blossaria | 384386 | [384386-blossaria.json](./384386-blossaria.json) |
 | Blot | 95629 | [95629-blot.json](./95629-blot.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
 | Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
+| Bubble Sweeper | 384376 | [384376-bubble-sweeper.json](./384376-bubble-sweeper.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budgie's Bug Shop | 389905 | [389905-budgies-bug-shop.json](./389905-budgies-bug-shop.json) |
