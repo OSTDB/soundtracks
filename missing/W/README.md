@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun - Forges of Corruption | 302169 | [302169-warhammer-40-000-boltgun-forges-of-corruption.json](./302169-warhammer-40-000-boltgun-forges-of-corruption.json) |
 | Warhammer 40,000: Boltgun – Words of Vengeance | 344670 | [344670-warhammer-40-000-boltgun-words-of-vengeance.json](./344670-warhammer-40-000-boltgun-words-of-vengeance.json) |
 | Warhammer 40,000: Chaos Gate (Classic) | 398239 | [398239-warhammer-40-000-chaos-gate-classic.json](./398239-warhammer-40-000-chaos-gate-classic.json) |
+| Warhammer 40,000: Darktide - Hive Scum Class | 378062 | [378062-warhammer-40-000-darktide-hive-scum-class.json](./378062-warhammer-40-000-darktide-hive-scum-class.json) |
 | Warhammer 40,000: Dawn of War - Dark Crusade | 467 | [467-warhammer-40-000-dawn-of-war-dark-crusade.json](./467-warhammer-40-000-dawn-of-war-dark-crusade.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: Last Stand | 36455 | [36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json](./36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json) |
 | Warhammer 40,000: Fire Warrior (Classic) | 398240 | [398240-warhammer-40-000-fire-warrior-classic.json](./398240-warhammer-40-000-fire-warrior-classic.json) |
@@ -167,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
+| Within These Four Walls | 378063 | [378063-within-these-four-walls.json](./378063-within-these-four-walls.json) |
 | Without a Hitch: Steam Exclusive - Valve Hat | 407229 | [407229-without-a-hitch-steam-exclusive-valve-hat.json](./407229-without-a-hitch-steam-exclusive-valve-hat.json) |
 | Wizard Blaster | 387200 | [387200-wizard-blaster.json](./387200-wizard-blaster.json) |
 | Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
