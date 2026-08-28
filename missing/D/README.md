@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
 | Devil May Cry 5: Special Edition | 138932 | [138932-devil-may-cry-5-special-edition.json](./138932-devil-may-cry-5-special-edition.json) |
 | Devil May Cry: Peak of Combat | 174695 | [174695-devil-may-cry-peak-of-combat.json](./174695-devil-may-cry-peak-of-combat.json) |
+| Devil Tank | 391469 | [391469-devil-tank.json](./391469-devil-tank.json) |
 | Devil Typocrypha: Alt-Eschatopia | 411467 | [411467-devil-typocrypha-alt-eschatopia.json](./411467-devil-typocrypha-alt-eschatopia.json) |
 | Devil's Attorney | 27090 | [27090-devils-attorney.json](./27090-devils-attorney.json) |
 | Dex: Your AR Dog Companion | 95761 | [95761-dex-your-ar-dog-companion.json](./95761-dex-your-ar-dog-companion.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
+| Dice Roller Incremental | 391520 | [391520-dice-roller-incremental.json](./391520-dice-roller-incremental.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
 | Dictatorship Simulator | 404159 | [404159-dictatorship-simulator.json](./404159-dictatorship-simulator.json) |
@@ -359,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
 | Dreams Far Away | 397540 | [397540-dreams-far-away.json](./397540-dreams-far-away.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
+| Dreamy Golden Snow | 391509 | [391509-dreamy-golden-snow.json](./391509-dreamy-golden-snow.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
 | Dress the Part! Outfit Puzzle | 409480 | [409480-dress-the-part-outfit-puzzle.json](./409480-dress-the-part-outfit-puzzle.json) |
@@ -379,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DroPlaying! | 397539 | [397539-droplaying.json](./397539-droplaying.json) |
 | Drowned God | 400775 | [400775-drowned-god.json](./400775-drowned-god.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
+| Drunk Dork on Pitchfork | 391462 | [391462-drunk-dork-on-pitchfork.json](./391462-drunk-dork-on-pitchfork.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
