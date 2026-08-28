@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
+| 0.5% | 407940 | [407940-0-5.json](./407940-0-5.json) |
 | 007 Racing | 1642 | [1642-007-racing.json](./1642-007-racing.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 100 Capitalist Cats | 282721 | [282721-100-capitalist-cats.json](./282721-100-capitalist-cats.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
+| 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
 | 28 Leicester Square | 412881 | [412881-28-leicester-square.json](./412881-28-leicester-square.json) |
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
