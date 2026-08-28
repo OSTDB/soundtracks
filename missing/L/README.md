@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fishing Trip | 383810 | [383810-little-fishing-trip.json](./383810-little-fishing-trip.json) |
 | Little Immortal Cultivator | 391477 | [391477-little-immortal-cultivator.json](./391477-little-immortal-cultivator.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
+| Little Nightmares: Enhanced Edition - Complete Edition | 373396 | [373396-little-nightmares-enhanced-edition-complete-edition.json](./373396-little-nightmares-enhanced-edition-complete-edition.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
 | Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
