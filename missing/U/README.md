@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unholy Employer Simulator | 408644 | [408644-unholy-employer-simulator.json](./408644-unholy-employer-simulator.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
+| Unicycle Sheep | 383226 | [383226-unicycle-sheep.json](./383226-unicycle-sheep.json) |
 | Uninvited: Security Service | 388607 | [388607-uninvited-security-service.json](./388607-uninvited-security-service.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
