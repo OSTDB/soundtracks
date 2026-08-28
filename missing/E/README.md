@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Viento | 81222 | [81222-el-viento.json](./81222-el-viento.json) |
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
+| Electronic Baseball 3 | 375033 | [375033-electronic-baseball-3.json](./375033-electronic-baseball-3.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elemental Witches | 390430 | [390430-elemental-witches.json](./390430-elemental-witches.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
