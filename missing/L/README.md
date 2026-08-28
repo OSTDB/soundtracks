@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239309 | [239309-lemmings.json](./239309-lemmings.json) |
 | Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
+| Lesotho Rooftop Conversation | 381442 | [381442-lesotho-rooftop-conversation.json](./381442-lesotho-rooftop-conversation.json) |
 | Let's Golf 3D | 47667 | [47667-lets-golf-3d.json](./47667-lets-golf-3d.json) |
 | Let's Yoga | 47857 | [47857-lets-yoga.json](./47857-lets-yoga.json) |
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lip Lipples | 395451 | [395451-lip-lipples.json](./395451-lip-lipples.json) |
 | Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
 | Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
+| Liquid Measure 2 | 381421 | [381421-liquid-measure-2.json](./381421-liquid-measure-2.json) |
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
