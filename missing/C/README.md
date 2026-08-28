@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
+| Capybound | 385453 | [385453-capybound.json](./385453-capybound.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
 | Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
 | Car May Fly | 389324 | [389324-car-may-fly.json](./389324-car-may-fly.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
+| Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
@@ -296,8 +298,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
 | Corridors | 389303 | [389303-corridors.json](./389303-corridors.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
+| Cosmic Free Fire | 385483 | [385483-cosmic-free-fire.json](./385483-cosmic-free-fire.json) |
 | Cosmic Holes | 389894 | [389894-cosmic-holes.json](./389894-cosmic-holes.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
+| Cosmic Twinvader | 385484 | [385484-cosmic-twinvader.json](./385484-cosmic-twinvader.json) |
 | Cosmic Wayfinder | 400799 | [400799-cosmic-wayfinder.json](./400799-cosmic-wayfinder.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
