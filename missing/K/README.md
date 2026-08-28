@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
 | King Arthur's World | 42506 | [42506-king-arthurs-world.json](./42506-king-arthurs-world.json) |
+| King of Meat: Deluxe Edition | 369396 | [369396-king-of-meat-deluxe-edition.json](./369396-king-of-meat-deluxe-edition.json) |
 | King of Swords | 384373 | [384373-king-of-swords.json](./384373-king-of-swords.json) |
 | King of the Bridge | 260392 | [260392-king-of-the-bridge.json](./260392-king-of-the-bridge.json) |
 | King's Bounty: Armored Princess | 5042 | [5042-kings-bounty-armored-princess.json](./5042-kings-bounty-armored-princess.json) |
