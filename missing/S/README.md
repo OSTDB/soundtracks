@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Prophecy | 16639 | [16639-salvation-prophecy.json](./16639-salvation-prophecy.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
+| Samago | 374460 | [374460-samago.json](./374460-samago.json) |
 | Samba del Tuerto | 414188 | [414188-samba-del-tuerto.json](./414188-samba-del-tuerto.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep It | 408620 | [408620-sheep-it.json](./408620-sheep-it.json) |
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
 | Sheep Way | 383225 | [383225-sheep-way.json](./383225-sheep-way.json) |
+| Shellstorm: The Great War | 374463 | [374463-shellstorm-the-great-war.json](./374463-shellstorm-the-great-war.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Shepherd | 400812 | [400812-shepherd.json](./400812-shepherd.json) |
@@ -259,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
+| Sinking Eternity | 374498 | [374498-sinking-eternity.json](./374498-sinking-eternity.json) |
 | Sinweaver | 386021 | [386021-sinweaver.json](./386021-sinweaver.json) |
 | Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
 | Siren | 383852 | [383852-siren.json](./383852-siren.json) |
