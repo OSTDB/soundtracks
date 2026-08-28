@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | S.N.I.P.E.R.: Hunter Scope - Add-on Edition | 402184 | [402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json](./402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Core Edition | 394755 | [394755-s-n-i-p-e-r-hunter-scope-core-edition.json](./394755-s-n-i-p-e-r-hunter-scope-core-edition.json) |
 | S.p.l.i.t | 342566 | [342566-s-p-l-i-t.json](./342566-s-p-l-i-t.json) |
 | S.W.I.N.E. HD Remaster | 114758 | [114758-s-w-i-n-e-hd-remaster.json](./114758-s-w-i-n-e-hd-remaster.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 27879 | [27879-sabans-mighty-morphin-power-rangers-mega-battle.json](./27879-sabans-mighty-morphin-power-rangers-mega-battle.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown | 4260 | [4260-samurai-shodown.json](./4260-samurai-shodown.json) |
 | Samurai Shodown VI | 25902 | [25902-samurai-shodown-vi.json](./25902-samurai-shodown-vi.json) |
 | Samurai Shodown: Edge of Destiny | 7172 | [7172-samurai-shodown-edge-of-destiny.json](./7172-samurai-shodown-edge-of-destiny.json) |
+| Samurai Simulator: Kensei Warrior | 394738 | [394738-samurai-simulator-kensei-warrior.json](./394738-samurai-simulator-kensei-warrior.json) |
 | Samurai_Jazz | 35829 | [35829-samurai-jazz.json](./35829-samurai-jazz.json) |
 | SanctuaryRPG | 10805 | [10805-sanctuaryrpg.json](./10805-sanctuaryrpg.json) |
 | Sand Land | 252480 | [252480-sand-land.json](./252480-sand-land.json) |
@@ -155,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
+| Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
 | Shopkins: Shoppie Dash! | 87621 | [87621-shopkins-shoppie-dash.json](./87621-shopkins-shoppie-dash.json) |
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
@@ -207,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
+| SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
@@ -262,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Sniper Elite VR: Winter Warrior | 275159 | [275159-sniper-elite-vr-winter-warrior.json](./275159-sniper-elite-vr-winter-warrior.json) |
+| Sniper: Elite Shooter Squad & The World of War II: Frontlines of History | 394743 | [394743-sniper-elite-shooter-squad-and-the-world-of-war-ii-frontlines-of-history.json](./394743-sniper-elite-shooter-squad-and-the-world-of-war-ii-frontlines-of-history.json) |
 | Snipperclips Plus: Cut It Out, Together! | 67199 | [67199-snipperclips-plus-cut-it-out-together.json](./67199-snipperclips-plus-cut-it-out-together.json) |
 | SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
@@ -342,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
+| Speed Boom: Last Delivery | 394740 | [394740-speed-boom-last-delivery.json](./394740-speed-boom-last-delivery.json) |
 | Speed Rivals: Model Trains | 400759 | [400759-speed-rivals-model-trains.json](./400759-speed-rivals-model-trains.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | Speedy Bundle Speedway & Grand Prix | 412119 | [412119-speedy-bundle-speedway-and-grand-prix.json](./412119-speedy-bundle-speedway-and-grand-prix.json) |
@@ -485,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
 | Street Food Simulator | 414227 | [414227-street-food-simulator.json](./414227-street-food-simulator.json) |
+| Street Soccer | 394741 | [394741-street-soccer.json](./394741-street-soccer.json) |
 | Streets of Miami VR | 406609 | [406609-streets-of-miami-vr.json](./406609-streets-of-miami-vr.json) |
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strength of the Sword: Ultimate | 22737 | [22737-strength-of-the-sword-ultimate.json](./22737-strength-of-the-sword-ultimate.json) |
