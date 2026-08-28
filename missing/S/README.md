@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
 | Satelital | 410782 | [410782-satelital.json](./410782-satelital.json) |
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
+| Sato Wonderland | 392048 | [392048-sato-wonderland.json](./392048-sato-wonderland.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
+| Similariddle | 392051 | [392051-similariddle.json](./392051-similariddle.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
 | Simon Swapper | 413529 | [413529-simon-swapper.json](./413529-simon-swapper.json) |
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
@@ -331,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
 | Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
+| Soul Waste | 392049 | [392049-soul-waste.json](./392049-soul-waste.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
@@ -385,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spire of Chaos: Arcana Unleashed | 396085 | [396085-spire-of-chaos-arcana-unleashed.json](./396085-spire-of-chaos-arcana-unleashed.json) |
 | Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
+| Spirit of the Dome | 392065 | [392065-spirit-of-the-dome.json](./392065-spirit-of-the-dome.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
 | Spirit Ritual | 413537 | [413537-spirit-ritual.json](./413537-spirit-ritual.json) |
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
@@ -396,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Plankton's Robotic Revenge | 20858 | [20858-spongebob-squarepants-planktons-robotic-revenge.json](./20858-spongebob-squarepants-planktons-robotic-revenge.json) |
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
+| Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
@@ -457,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTrain | 396795 | [396795-startrain.json](./396795-startrain.json) |
 | Startup Company | 29173 | [29173-startup-company.json](./29173-startup-company.json) |
 | Stasis | 9661 | [9661-stasis.json](./9661-stasis.json) |
+| State of Affairs | 392034 | [392034-state-of-affairs.json](./392034-state-of-affairs.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
@@ -489,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Storytime Cats: A Day at the Park | 406603 | [406603-storytime-cats-a-day-at-the-park.json](./406603-storytime-cats-a-day-at-the-park.json) |
+| Storytime Cats: A Twilight Tale | 392029 | [392029-storytime-cats-a-twilight-tale.json](./392029-storytime-cats-a-twilight-tale.json) |
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
@@ -538,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
+| Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
