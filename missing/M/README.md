@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong House: Challenge All Achievements | 410765 | [410765-mahjong-house-challenge-all-achievements.json](./410765-mahjong-house-challenge-all-achievements.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
+| Mahjong Uranai Fortuna: Tsuki no Megami-tachi | 383242 | [383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json](./383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json) |
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
+| MegaWars III | 383257 | [383257-megawars-iii.json](./383257-megawars-iii.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
 | Meitantei Camazotz Kamigami no Kyousoukyoku: MessengerText | 394732 | [394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json](./394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json) |
 | Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
 | Midnight Joy Ride | 396055 | [396055-midnight-joy-ride.json](./396055-midnight-joy-ride.json) |
 | Midnight Moments | 404118 | [404118-midnight-moments.json](./404118-midnight-moments.json) |
+| Midnight Realm | 383205 | [383205-midnight-realm.json](./383205-midnight-realm.json) |
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
@@ -267,6 +270,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
 | Miracle Brave | 389874 | [389874-miracle-brave.json](./389874-miracle-brave.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
+| Mirror Crypt | 383216 | [383216-mirror-crypt.json](./383216-mirror-crypt.json) |
+| Mirrorandum | 383217 | [383217-mirrorandum.json](./383217-mirrorandum.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
@@ -422,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life as a Maiden | 76793 | [76793-my-life-as-a-maiden.json](./76793-my-life-as-a-maiden.json) |
 | My Life as a Spy | 410738 | [410738-my-life-as-a-spy.json](./410738-my-life-as-a-spy.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
+| My Little Sister Is an Angel | 383255 | [383255-my-little-sister-is-an-angel.json](./383255-my-little-sister-is-an-angel.json) |
 | My Name is Addiction | 65779 | [65779-my-name-is-addiction.json](./65779-my-name-is-addiction.json) |
 | My NEET Life | 387211 | [387211-my-neet-life.json](./387211-my-neet-life.json) |
 | My New Paranormal Life | 386053 | [386053-my-new-paranormal-life.json](./386053-my-new-paranormal-life.json) |
