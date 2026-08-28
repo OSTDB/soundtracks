@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
 | Shopkins: Shoppie Dash! | 87621 | [87621-shopkins-shoppie-dash.json](./87621-shopkins-shoppie-dash.json) |
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
+| ShoreTiles | 405996 | [405996-shoretiles.json](./405996-shoretiles.json) |
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
@@ -214,8 +215,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
+| Smile and Play | 405991 | [405991-smile-and-play.json](./405991-smile-and-play.json) |
 | Smile Your Day | 414969 | [414969-smile-your-day.json](./414969-smile-your-day.json) |
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
+| Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
@@ -257,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders: Zero Gravity | 5168 | [5168-sonic-riders-zero-gravity.json](./5168-sonic-riders-zero-gravity.json) |
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
+| Sopwith | 406015 | [406015-sopwith.json](./406015-sopwith.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | Sore | 407925 | [407925-sore.json](./407925-sore.json) |
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
@@ -288,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkfront: Online | 411484 | [411484-sparkfront-online.json](./411484-sparkfront-online.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
+| Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | Speedy Bundle Speedway & Grand Prix | 412119 | [412119-speedy-bundle-speedway-and-grand-prix.json](./412119-speedy-bundle-speedway-and-grand-prix.json) |
