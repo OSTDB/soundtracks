@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompers Playhouse: Chapter 1 | 396060 | [396060-chompers-playhouse-chapter-1.json](./396060-chompers-playhouse-chapter-1.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
+| Chopping Hour | 375658 | [375658-chopping-hour.json](./375658-chopping-hour.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
 | Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Chase | 378025 | [378025-coin-chase.json](./378025-coin-chase.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
+| Cold Meat | 375636 | [375636-cold-meat.json](./375636-cold-meat.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
