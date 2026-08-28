@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
 | The Golf Club: Collector's Edition | 20862 | [20862-the-golf-club-collectors-edition.json](./20862-the-golf-club-collectors-edition.json) |
 | The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
+| The Granny Detective Society | 383844 | [383844-the-granny-detective-society.json](./383844-the-granny-detective-society.json) |
 | The Grim Adventures of Billy & Mandy | 2820 | [2820-the-grim-adventures-of-billy-and-mandy.json](./2820-the-grim-adventures-of-billy-and-mandy.json) |
 | The Guest II | 400111 | [400111-the-guest-ii.json](./400111-the-guest-ii.json) |
 | The Guidelines: Hotel Napoli | 399473 | [399473-the-guidelines-hotel-napoli.json](./399473-the-guidelines-hotel-napoli.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
 | Transformers: The Game | 5244 | [5244-transformers-the-game.json](./5244-transformers-the-game.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
+| Trapped on the FlipSide | 383836 | [383836-trapped-on-the-flipside.json](./383836-trapped-on-the-flipside.json) |
 | Trapped Together | 407984 | [407984-trapped-together.json](./407984-trapped-together.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
 | Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
