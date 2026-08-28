@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baikin-kun | 385500 | [385500-baikin-kun.json](./385500-baikin-kun.json) |
 | Bait & Tackle Store Simulator | 389312 | [389312-bait-and-tackle-store-simulator.json](./389312-bait-and-tackle-store-simulator.json) |
 | Bakery Magnate: Online | 378023 | [378023-bakery-magnate-online.json](./378023-bakery-magnate-online.json) |
+| Baku | 363231 | [363231-baku.json](./363231-baku.json) |
 | Bakudan Man | 385501 | [385501-bakudan-man.json](./385501-bakudan-man.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuhatsu Dynaman | 385494 | [385494-bakuhatsu-dynaman.json](./385494-bakuhatsu-dynaman.json) |
@@ -135,6 +136,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts That Swim | 370543 | [370543-beasts-that-swim.json](./370543-beasts-that-swim.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
+| Beat Saber: Metallica Music Pack | 363203 | [363203-beat-saber-metallica-music-pack.json](./363203-beat-saber-metallica-music-pack.json) |
+| Beat Saber: Monstercat Mixtape 2 | 363202 | [363202-beat-saber-monstercat-mixtape-2.json](./363202-beat-saber-monstercat-mixtape-2.json) |
+| Beat Saber: The Rolling Stones Music Pack | 363201 | [363201-beat-saber-the-rolling-stones-music-pack.json](./363201-beat-saber-the-rolling-stones-music-pack.json) |
 | Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
