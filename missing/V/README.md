@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
 | Valnir Rok | 61887 | [61887-valnir-rok.json](./61887-valnir-rok.json) |
+| Valor 1944 | 410154 | [410154-valor-1944.json](./410154-valor-1944.json) |
 | Vampire & Monsters: Hidden Object Games | 115866 | [115866-vampire-and-monsters-hidden-object-games.json](./115866-vampire-and-monsters-hidden-object-games.json) |
 | Vampire Savior 2: The Lord of Vampire | 39696 | [39696-vampire-savior-2-the-lord-of-vampire.json](./39696-vampire-savior-2-the-lord-of-vampire.json) |
 | Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
