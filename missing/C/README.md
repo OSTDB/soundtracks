@@ -163,6 +163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
+| Cloverpit Gamble | 404725 | [404725-cloverpit-gamble.json](./404725-cloverpit-gamble.json) |
+| Clown Pit | 404727 | [404727-clown-pit.json](./404727-clown-pit.json) |
 | Clown's Lair | 413565 | [413565-clowns-lair.json](./413565-clowns-lair.json) |
 | Club Life | 22211 | [22211-club-life.json](./22211-club-life.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
