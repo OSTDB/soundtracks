@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
 | Tainted Grail: The Fall of Avalon - Challenge Mode DLC | 400118 | [400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json](./400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json) |
+| Tainted Grail: The Fall of Avalon - Merlin's Tomb | 396814 | [396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json](./396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
+| Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
 | Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Technotron Defense | 77172 | [77172-technotron-defense.json](./77172-technotron-defense.json) |
@@ -72,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath Tactics | 11731 | [11731-telepath-tactics.json](./11731-telepath-tactics.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
+| Ten no Hikari ha Koi no Hoshi | 396807 | [396807-ten-no-hikari-ha-koi-no-hoshi.json](./396807-ten-no-hikari-ha-koi-no-hoshi.json) |
 | Tender Lovin' Cannibal | 400119 | [400119-tender-lovin-cannibal.json](./400119-tender-lovin-cannibal.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
@@ -141,12 +144,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
+| The Division 2: Rise Up | 396787 | [396787-the-division-2-rise-up.json](./396787-the-division-2-rise-up.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
+| The Elder Scrolls Online: Season Zero Dawn and Dusk | 396781 | [396781-the-elder-scrolls-online-season-zero-dawn-and-dusk.json](./396781-the-elder-scrolls-online-season-zero-dawn-and-dusk.json) |
 | The Elder Scrolls V: Skyrim - Hearthfire | 6068 | [6068-the-elder-scrolls-v-skyrim-hearthfire.json](./6068-the-elder-scrolls-v-skyrim-hearthfire.json) |
 | The Elder Scrolls V: Skyrim Collector's Edition | 41597 | [41597-the-elder-scrolls-v-skyrim-collectors-edition.json](./41597-the-elder-scrolls-v-skyrim-collectors-edition.json) |
 | The Elder Scrolls: Arena | 52 | [52-the-elder-scrolls-arena.json](./52-the-elder-scrolls-arena.json) |
@@ -171,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
+| The Glory Dungeon Raider | 396824 | [396824-the-glory-dungeon-raider.json](./396824-the-glory-dungeon-raider.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
 | The Golf Club: Collector's Edition | 20862 | [20862-the-golf-club-collectors-edition.json](./20862-the-golf-club-collectors-edition.json) |
@@ -208,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Day Defense | 95637 | [95637-the-last-day-defense.json](./95637-the-last-day-defense.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
+| The Last Hand | 396792 | [396792-the-last-hand.json](./396792-the-last-hand.json) |
 | The Last Hope Trump vs. Mafia | 29759 | [29759-the-last-hope-trump-vs-mafia.json](./29759-the-last-hope-trump-vs-mafia.json) |
 | The Last NightMary: A Lenda do Cabeça de Cuia | 90601 | [90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json](./90601-the-last-nightmary-a-lenda-do-cabeca-de-cuia.json) |
 | The Last One | 44132 | [44132-the-last-one.json](./44132-the-last-one.json) |
@@ -265,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Red Dowry | 396810 | [396810-the-red-dowry.json](./396810-the-red-dowry.json) |
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
@@ -359,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up Together | 410788 | [410788-tidy-up-together.json](./410788-tidy-up-together.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Woods PGA Tour 2005 | 906 | [906-tiger-woods-pga-tour-2005.json](./906-tiger-woods-pga-tour-2005.json) |
+| Till and Hat | 396818 | [396818-till-and-hat.json](./396818-till-and-hat.json) |
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
 | Time Crisis II | 13893 | [13893-time-crisis-ii.json](./13893-time-crisis-ii.json) |
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
@@ -405,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
 | Tom vs. The Armies of Hell | 16827 | [16827-tom-vs-the-armies-of-hell.json](./16827-tom-vs-the-armies-of-hell.json) |
+| Tomak: Save the Earth Regeneration | 396785 | [396785-tomak-save-the-earth-regeneration.json](./396785-tomak-save-the-earth-regeneration.json) |
 | Tomb Busters | 403514 | [403514-tomb-busters.json](./403514-tomb-busters.json) |
 | Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
@@ -414,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
 | Too Many Balls | 404117 | [404117-too-many-balls.json](./404117-too-many-balls.json) |
+| Too Well Hidden | 396832 | [396832-too-well-hidden.json](./396832-too-well-hidden.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
@@ -520,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
 | Tung Tung Tung Survival | 408645 | [408645-tung-tung-tung-survival.json](./408645-tung-tung-tung-survival.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
+| Tūnshí Tiāndì Xūnǐ Shìjiè | 396828 | [396828-tunshi-tiandi-xuni-shijie.json](./396828-tunshi-tiandi-xuni-shijie.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
