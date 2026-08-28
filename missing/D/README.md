@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Shaft | 403489 | [403489-deadly-shaft.json](./403489-deadly-shaft.json) |
 | Dear Journey... | 390390 | [390390-dear-journey.json](./390390-dear-journey.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
+| Dear Poe | 375003 | [375003-dear-poe.json](./375003-dear-poe.json) |
 | Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death is Sunhaired | 390405 | [390405-death-is-sunhaired.json](./390405-death-is-sunhaired.json) |
@@ -164,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
 | Delivery Point Simulator | 380257 | [380257-delivery-point-simulator.json](./380257-delivery-point-simulator.json) |
 | Delivery Simulator | 380258 | [380258-delivery-simulator.json](./380258-delivery-simulator.json) |
+| Delta | 375042 | [375042-delta.json](./375042-delta.json) |
 | Delta Force | 666 | [666-delta-force.json](./666-delta-force.json) |
 | Deltarune: Chapter 3 | 274236 | [274236-deltarune-chapter-3.json](./274236-deltarune-chapter-3.json) |
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
@@ -203,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
 | Detective Hunt - Crownston City PD | 32951 | [32951-detective-hunt-crownston-city-pd.json](./32951-detective-hunt-crownston-city-pd.json) |
 | Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
+| Detritus | 374996 | [374996-detritus.json](./374996-detritus.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
 | Deviation Game | 378641 | [378641-deviation-game.json](./378641-deviation-game.json) |
@@ -240,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diffusion | 380265 | [380265-diffusion.json](./380265-diffusion.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
 | Dig N Picman | 385486 | [385486-dig-n-picman.json](./385486-dig-n-picman.json) |
+| Dig Out | 375011 | [375011-dig-out.json](./375011-dig-out.json) |
 | Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
@@ -532,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
 | Dungeon Escape! | 387899 | [387899-dungeon-escape.json](./387899-dungeon-escape.json) |
 | Dungeon Hero | 380296 | [380296-dungeon-hero.json](./380296-dungeon-hero.json) |
+| Dungeon Holdem | 375048 | [375048-dungeon-holdem.json](./375048-dungeon-holdem.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
 | Dungeon Kingdom: Sign of the Moon | 15199 | [15199-dungeon-kingdom-sign-of-the-moon.json](./15199-dungeon-kingdom-sign-of-the-moon.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
@@ -566,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dye Hard | 387869 | [387869-dye-hard.json](./387869-dye-hard.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynamo Dice | 400765 | [400765-dynamo-dice.json](./400765-dynamo-dice.json) |
+| Dynasty Protocol | 375000 | [375000-dynasty-protocol.json](./375000-dynasty-protocol.json) |
 | Dynasty Warriors 2 | 2983 | [2983-dynasty-warriors-2.json](./2983-dynasty-warriors-2.json) |
 | Dynasty Warriors 3 | 2984 | [2984-dynasty-warriors-3.json](./2984-dynasty-warriors-3.json) |
 | Dynasty Warriors: Godseekers | 25639 | [25639-dynasty-warriors-godseekers.json](./25639-dynasty-warriors-godseekers.json) |
