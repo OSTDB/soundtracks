@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satelital | 410782 | [410782-satelital.json](./410782-satelital.json) |
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
 | Sato Wonderland | 392048 | [392048-sato-wonderland.json](./392048-sato-wonderland.json) |
+| Satsuman | 391476 | [391476-satsuman.json](./391476-satsuman.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
 | Scalpers: Turtle & the Moonshine Gang | 29829 | [29829-scalpers-turtle-and-the-moonshine-gang.json](./29829-scalpers-turtle-and-the-moonshine-gang.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
+| Scrybe | 391517 | [391517-scrybe.json](./391517-scrybe.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | SD Gundam G Generation DS | 66589 | [66589-sd-gundam-g-generation-ds.json](./66589-sd-gundam-g-generation-ds.json) |
 | SD Gundam Sangokuden Brave Battle Warriors Shin Mirisha Taisen | 66458 | [66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json](./66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
+| Shai’s Gambit | 391491 | [391491-shai-s-gambit.json](./391491-shai-s-gambit.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
@@ -142,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shatter | 405413 | [405413-shatter.json](./405413-shatter.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
+| Shatterswarm | 391475 | [391475-shatterswarm.json](./391475-shatterswarm.json) |
 | Sheep It | 408620 | [408620-sheep-it.json](./408620-sheep-it.json) |
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
@@ -308,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
+| Somnial Ouija | 391505 | [391505-somnial-ouija.json](./391505-somnial-ouija.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
 | Song of the Wind | 393336 | [393336-song-of-the-wind.json](./393336-song-of-the-wind.json) |
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
@@ -337,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
+| Soulcery: Deck of Shadows | 391516 | [391516-soulcery-deck-of-shadows.json](./391516-soulcery-deck-of-shadows.json) |
 | Soulmine | 404149 | [404149-soulmine.json](./404149-soulmine.json) |
 | Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
 | Soup4U | 408699 | [408699-soup4u.json](./408699-soup4u.json) |
