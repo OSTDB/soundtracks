@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin's Horn: The Destiny of the Holy Lance | 398254 | [398254-paladins-horn-the-destiny-of-the-holy-lance.json](./398254-paladins-horn-the-destiny-of-the-holy-lance.json) |
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
+| Pancakes: The Stacking Game | 396825 | [396825-pancakes-the-stacking-game.json](./396825-pancakes-the-stacking-game.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill in the Pudding | 410159 | [410159-pill-in-the-pudding.json](./410159-pill-in-the-pudding.json) |
 | Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
+| Pilot Tycoon | 396799 | [396799-pilot-tycoon.json](./396799-pilot-tycoon.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
 | Pin Money | 406020 | [406020-pin-money.json](./406020-pin-money.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
@@ -197,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
+| Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
 | Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
