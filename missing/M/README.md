@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
+| Make Her Cum | 382010 | [382010-make-her-cum.json](./382010-make-her-cum.json) |
 | Maker Arena: Path of Vaiolet | 384368 | [384368-maker-arena-path-of-vaiolet.json](./384368-maker-arena-path-of-vaiolet.json) |
 | Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Gals!! | 384966 | [384966-monster-gals.json](./384966-monster-gals.json) |
 | Monster Girl Descent | 384968 | [384968-monster-girl-descent.json](./384968-monster-girl-descent.json) |
+| Monster Girl Puzzle | 382019 | [382019-monster-girl-puzzle.json](./382019-monster-girl-puzzle.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
 | Monster Girls Onsen | 384965 | [384965-monster-girls-onsen.json](./384965-monster-girls-onsen.json) |
 | Monster Hookups | 384967 | [384967-monster-hookups.json](./384967-monster-hookups.json) |
@@ -434,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My NEET Life | 387211 | [387211-my-neet-life.json](./387211-my-neet-life.json) |
 | My New Paranormal Life | 386053 | [386053-my-new-paranormal-life.json](./386053-my-new-paranormal-life.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
+| My Sadistic Girlfriends | 382041 | [382041-my-sadistic-girlfriends.json](./382041-my-sadistic-girlfriends.json) |
 | My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
 | My Super Tower 2 | 29847 | [29847-my-super-tower-2.json](./29847-my-super-tower-2.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
