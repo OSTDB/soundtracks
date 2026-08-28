@@ -94,8 +94,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
 | Screams Echo | 388570 | [388570-screams-echo.json](./388570-screams-echo.json) |
+| Screen Greens | 373940 | [373940-screen-greens.json](./373940-screen-greens.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Screws Loose | 384374 | [384374-screws-loose.json](./384374-screws-loose.json) |
+| Scribble Bots | 373926 | [373926-scribble-bots.json](./373926-scribble-bots.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
 | Scrybe | 391517 | [391517-scrybe.json](./391517-scrybe.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
 | Slap Your Homies | 392639 | [392639-slap-your-homies.json](./392639-slap-your-homies.json) |
+| SlapCats | 373920 | [373920-slapcats.json](./373920-slapcats.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slay the Abyss | 384370 | [384370-slay-the-abyss.json](./384370-slay-the-abyss.json) |
@@ -579,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
 | Stellar Dawn: Survivor | 387196 | [387196-stellar-dawn-survivor.json](./387196-stellar-dawn-survivor.json) |
+| Stellar Nemesis | 373935 | [373935-stellar-nemesis.json](./373935-stellar-nemesis.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
