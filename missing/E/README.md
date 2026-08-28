@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
+| Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
