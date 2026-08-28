@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead by Daylight: Jason | 407237 | [407237-dead-by-daylight-jason.json](./407237-dead-by-daylight-jason.json) |
+| Dead Color | 406584 | [406584-dead-color.json](./406584-dead-color.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Dawg Delivery Co. | 412143 | [412143-dead-dawg-delivery-co.json](./412143-dead-dawg-delivery-co.json) |
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
