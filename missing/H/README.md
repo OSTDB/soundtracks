@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hand Eternal | 407968 | [407968-hand-eternal.json](./407968-hand-eternal.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
+| Handsome Watching Face Memory Challenge | 407258 | [407258-handsome-watching-face-memory-challenge.json](./407258-handsome-watching-face-memory-challenge.json) |
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
