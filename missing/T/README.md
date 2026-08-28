@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| T.D.Z. 4: Chapter 1 - Arrival | 365511 | [365511-t-d-z-4-chapter-1-arrival.json](./365511-t-d-z-4-chapter-1-arrival.json) |
 | T7's Basics in Educational | 411476 | [411476-t7s-basics-in-educational.json](./411476-t7s-basics-in-educational.json) |
 | Table 9 | 405408 | [405408-table-9.json](./405408-table-9.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
 | The Colors of Love | 410120 | [410120-the-colors-of-love.json](./410120-the-colors-of-love.json) |
+| The Coma 3: Bloodlines | 365474 | [365474-the-coma-3-bloodlines.json](./365474-the-coma-3-bloodlines.json) |
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Final Shift | 379773 | [379773-the-final-shift.json](./379773-the-final-shift.json) |
 | The Firestorm is Coming | 367249 | [367249-the-firestorm-is-coming.json](./367249-the-firestorm-is-coming.json) |
+| The Fixers | 365486 | [365486-the-fixers.json](./365486-the-fixers.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
 | The Floor Above | 371729 | [371729-the-floor-above.json](./371729-the-floor-above.json) |
 | The Florist | 375635 | [375635-the-florist.json](./375635-the-florist.json) |
@@ -422,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
+| The Smoke | 365530 | [365530-the-smoke.json](./365530-the-smoke.json) |
 | The Snowdrop Diaries | 398876 | [398876-the-snowdrop-diaries.json](./398876-the-snowdrop-diaries.json) |
 | The Somnolent Prince | 414226 | [414226-the-somnolent-prince.json](./414226-the-somnolent-prince.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
@@ -441,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
 | The Thing | 378667 | [378667-the-thing.json](./378667-the-thing.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
+| The Tiny World | 365527 | [365527-the-tiny-world.json](./365527-the-tiny-world.json) |
 | The Tower | 380881 | [380881-the-tower.json](./380881-the-tower.json) |
 | The Tower of Druaga | 4207 | [4207-the-tower-of-druaga.json](./4207-the-tower-of-druaga.json) |
 | The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
@@ -513,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
 | Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
+| Thunder Spikes Volleyball | 365479 | [365479-thunder-spikes-volleyball.json](./365479-thunder-spikes-volleyball.json) |
 | Tick Tock Bang Bang | 33067 | [33067-tick-tock-bang-bang.json](./33067-tick-tock-bang-bang.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
 | Ticking Together | 374451 | [374451-ticking-together.json](./374451-ticking-together.json) |
