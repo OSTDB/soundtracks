@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Coil | 411448 | [411448-eden-coil.json](./411448-eden-coil.json) |
 | Eden: Garden of the Faultless | 392027 | [392027-eden-garden-of-the-faultless.json](./392027-eden-garden-of-the-faultless.json) |
 | Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
+| Edge | 378014 | [378014-edge.json](./378014-edge.json) |
 | Edge of Evil | 379758 | [379758-edge-of-evil.json](./379758-edge-of-evil.json) |
 | EEP 18 | 403491 | [403491-eep-18.json](./403491-eep-18.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrean Defense | 395395 | [395395-empyrean-defense.json](./395395-empyrean-defense.json) |
 | Enchanted Desert | 386615 | [386615-enchanted-desert.json](./386615-enchanted-desert.json) |
 | Enchanted Vampire Defense | 386614 | [386614-enchanted-vampire-defense.json](./386614-enchanted-vampire-defense.json) |
+| Enchantex | 378034 | [378034-enchantex.json](./378034-enchantex.json) |
 | Enchantia: Wrath of the Phoenix Queen - Collector's Edition | 381434 | [381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json](./381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
 | Encryptid | 382632 | [382632-encryptid.json](./382632-encryptid.json) |
@@ -161,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hazard | 34438 | [34438-evil-hazard.json](./34438-evil-hazard.json) |
 | Evil Zone | 4129 | [4129-evil-zone.json](./4129-evil-zone.json) |
 | EVO Card | 387914 | [387914-evo-card.json](./387914-evo-card.json) |
+| Evo Pop: Hot Edition | 378038 | [378038-evo-pop-hot-edition.json](./378038-evo-pop-hot-edition.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
 | Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
