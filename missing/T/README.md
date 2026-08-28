@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
 | Tank vs Big Alien Girl | 391474 | [391474-tank-vs-big-alien-girl.json](./391474-tank-vs-big-alien-girl.json) |
+| Tanks: Total Destruction | 385474 | [385474-tanks-total-destruction.json](./385474-tanks-total-destruction.json) |
 | Tantan's Hangout | 393362 | [393362-tantans-hangout.json](./393362-tantans-hangout.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
 | Tap Tap Fish: AbyssRium | 86983 | [86983-tap-tap-fish-abyssrium.json](./86983-tap-tap-fish-abyssrium.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
+| The Baseball: Go-taimen Stadium | 385502 | [385502-the-baseball-go-taimen-stadium.json](./385502-the-baseball-go-taimen-stadium.json) |
 | The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
@@ -297,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Simulator | 410140 | [410140-the-political-simulator.json](./410140-the-political-simulator.json) |
 | The Postman Cometh | 391492 | [391492-the-postman-cometh.json](./391492-the-postman-cometh.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
+| The Princess Factory | 385452 | [385452-the-princess-factory.json](./385452-the-princess-factory.json) |
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
@@ -316,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
 | The Shadow Over Hawksmill | 404759 | [404759-the-shadow-over-hawksmill.json](./404759-the-shadow-over-hawksmill.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
+| The Shovelling Hour | 385464 | [385464-the-shovelling-hour.json](./385464-the-shovelling-hour.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
 | The Sims 2: FreeTime | 5537 | [5537-the-sims-2-freetime.json](./5537-the-sims-2-freetime.json) |
 | The Sims 2: H&M Fashion Stuff | 13132 | [13132-the-sims-2-h-and-m-fashion-stuff.json](./13132-the-sims-2-h-and-m-fashion-stuff.json) |
@@ -352,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
 | The Treasures of Montezuma 4 | 36307 | [36307-the-treasures-of-montezuma-4.json](./36307-the-treasures-of-montezuma-4.json) |
 | The Tribe Must Survive | 188808 | [188808-the-tribe-must-survive.json](./188808-the-tribe-must-survive.json) |
+| The True Bottom | 385466 | [385466-the-true-bottom.json](./385466-the-true-bottom.json) |
 | The Unlikely Legend of Rusty Pup | 63281 | [63281-the-unlikely-legend-of-rusty-pup.json](./63281-the-unlikely-legend-of-rusty-pup.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
@@ -464,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
+| Tombsweeper | 385455 | [385455-tombsweeper.json](./385455-tombsweeper.json) |
 | Tomodachi Collection | 71900 | [71900-tomodachi-collection.json](./71900-tomodachi-collection.json) |
 | ToMyX | 394030 | [394030-tomyx.json](./394030-tomyx.json) |
 | Tony Hawk's Pro Skater 4 | 210463 | [210463-tony-hawks-pro-skater-4.json](./210463-tony-hawks-pro-skater-4.json) |
@@ -594,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twinkle Seek | 400758 | [400758-twinkle-seek.json](./400758-twinkle-seek.json) |
+| Twinvader III | 385490 | [385490-twinvader-iii.json](./385490-twinvader-iii.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
 | Twisted Fusion | 61926 | [61926-twisted-fusion.json](./61926-twisted-fusion.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
