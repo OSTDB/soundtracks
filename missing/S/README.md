@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Sevens | 393325 | [393325-sevens.json](./393325-sevens.json) |
 | Seventh Mansion: The First Escape | 403505 | [403505-seventh-mansion-the-first-escape.json](./403505-seventh-mansion-the-first-escape.json) |
+| Seventh Star | 368867 | [368867-seventh-star.json](./368867-seventh-star.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | SeverSoul Xookeeper | 396097 | [396097-seversoul-xookeeper.json](./396097-seversoul-xookeeper.json) |
 | Sex on the beach | 382064 | [382064-sex-on-the-beach.json](./382064-sex-on-the-beach.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
+| Soccerlypse | 368877 | [368877-soccerlypse.json](./368877-soccerlypse.json) |
 | Sociable Soccer Champions | 392619 | [392619-sociable-soccer-champions.json](./392619-sociable-soccer-champions.json) |
 | Social Caterpillar | 386616 | [386616-social-caterpillar.json](./386616-social-caterpillar.json) |
 | Social Clicker: Persona | 382050 | [382050-social-clicker-persona.json](./382050-social-clicker-persona.json) |
@@ -520,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
+| Spooky Spins Deluxe | 368849 | [368849-spooky-spins-deluxe.json](./368849-spooky-spins-deluxe.json) |
 | Spot's Busy Day | 378662 | [378662-spots-busy-day.json](./378662-spots-busy-day.json) |
 | SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
 | Spring and Autumn Chronicles | 371113 | [371113-spring-and-autumn-chronicles.json](./371113-spring-and-autumn-chronicles.json) |
@@ -777,11 +780,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Veronica's Outfit and Hat | 372871 | [372871-super-smash-bros-ultimate-veronicas-outfit-and-hat.json](./372871-super-smash-bros-ultimate-veronicas-outfit-and-hat.json) |
 | Super Smash Rex | 372885 | [372885-super-smash-rex.json](./372885-super-smash-rex.json) |
 | Super Spring Ninja | 31443 | [31443-super-spring-ninja.json](./31443-super-spring-ninja.json) |
+| Super Squash | 368857 | [368857-super-squash.json](./368857-super-squash.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
 | Super Stone Legacy | 29752 | [29752-super-stone-legacy.json](./29752-super-stone-legacy.json) |
 | Super Street Fighter II Turbo | 4238 | [4238-super-street-fighter-ii-turbo.json](./4238-super-street-fighter-ii-turbo.json) |
 | Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
 | Super Switch | 31485 | [31485-super-switch.json](./31485-super-switch.json) |
+| Super Taxi Driver 2006 | 368874 | [368874-super-taxi-driver-2006.json](./368874-super-taxi-driver-2006.json) |
 | Super Tennis | 81523 | [81523-super-tennis.json](./81523-super-tennis.json) |
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Uffe! | 89461 | [89461-super-uffe.json](./89461-super-uffe.json) |
