@@ -128,3 +128,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch Rush | 392676 | [392676-overwatch-rush.json](./392676-overwatch-rush.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
+| Ozymandias: Indus Valley | 378035 | [378035-ozymandias-indus-valley.json](./378035-ozymandias-indus-valley.json) |
+| Ozymandias: Near East | 378031 | [378031-ozymandias-near-east.json](./378031-ozymandias-near-east.json) |
