@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
+| Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
 | Flappy Poire | 412876 | [412876-flappy-poire.json](./412876-flappy-poire.json) |
 | Flappy Sky Bird | 87588 | [87588-flappy-sky-bird.json](./87588-flappy-sky-bird.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force of Elements | 15573 | [15573-force-of-elements.json](./15573-force-of-elements.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
+| Fore! Crisis: Final Fantasy VII Jolf | 410815 | [410815-fore-crisis-final-fantasy-vii-jolf.json](./410815-fore-crisis-final-fantasy-vii-jolf.json) |
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
