@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
 | In My Bubble | 388577 | [388577-in-my-bubble.json](./388577-in-my-bubble.json) |
 | In Search Of Treasures | 398863 | [398863-in-search-of-treasures.json](./398863-in-search-of-treasures.json) |
+| In Silent Walls Sujet:13 | 381474 | [381474-in-silent-walls-sujet-13.json](./381474-in-silent-walls-sujet-13.json) |
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
 | In Tow | 396062 | [396062-in-tow.json](./396062-in-tow.json) |
