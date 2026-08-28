@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
+| KemonoMix Re | 396793 | [396793-kemonomix-re.json](./396793-kemonomix-re.json) |
 | Kemuri Neko | 398218 | [398218-kemuri-neko.json](./398218-kemuri-neko.json) |
 | Ken to Mahou no Relic Saga | 410119 | [410119-ken-to-mahou-no-relic-saga.json](./410119-ken-to-mahou-no-relic-saga.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
