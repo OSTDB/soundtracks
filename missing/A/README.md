@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Tiret sur Will | 336493 | [336493-a-bibelot-tiret-sur-will.json](./336493-a-bibelot-tiret-sur-will.json) |
 | A Bug’s (Short) Life | 414205 | [414205-a-bug-s-short-life.json](./414205-a-bug-s-short-life.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
+| A Christmas Cutie | 382026 | [382026-a-christmas-cutie.json](./382026-a-christmas-cutie.json) |
 | A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
@@ -29,7 +30,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pig Quest | 404764 | [404764-a-pig-quest.json](./404764-a-pig-quest.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
+| A Sexy Tour With: Carmen | 382053 | [382053-a-sexy-tour-with-carmen.json](./382053-a-sexy-tour-with-carmen.json) |
+| A Sexy Tour With: Elsie | 382049 | [382049-a-sexy-tour-with-elsie.json](./382049-a-sexy-tour-with-elsie.json) |
+| A Sexy Tour With: Juana | 382021 | [382021-a-sexy-tour-with-juana.json](./382021-a-sexy-tour-with-juana.json) |
+| A Sexy Tour With: Laura | 382034 | [382034-a-sexy-tour-with-laura.json](./382034-a-sexy-tour-with-laura.json) |
+| A Sexy Tour With: Xiang | 382059 | [382059-a-sexy-tour-with-xiang.json](./382059-a-sexy-tour-with-xiang.json) |
 | A Short Quest | 393332 | [393332-a-short-quest.json](./393332-a-short-quest.json) |
+| A Spark in the Forest | 382020 | [382020-a-spark-in-the-forest.json](./382020-a-spark-in-the-forest.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
 | A Thousand Bees | 389891 | [389891-a-thousand-bees.json](./389891-a-thousand-bees.json) |
@@ -163,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altus Chess: Archaic Beginnings | 412854 | [412854-altus-chess-archaic-beginnings.json](./412854-altus-chess-archaic-beginnings.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Am I OK? | 411488 | [411488-am-i-ok.json](./411488-am-i-ok.json) |
+| Ama Nee: Osananajimi Onee-chan to no Echi Echi Amayakasare Dousei Seikatsu | 382048 | [382048-ama-nee-osananajimi-onee-chan-to-no-echi-echi-amayakasare-dousei-seikatsu.json](./382048-ama-nee-osananajimi-onee-chan-to-no-echi-echi-amayakasare-dousei-seikatsu.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | Amalgamate | 395426 | [395426-amalgamate.json](./395426-amalgamate.json) |
 | Amalgamation | 394733 | [394733-amalgamation.json](./394733-amalgamation.json) |
