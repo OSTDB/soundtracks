@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM: Japanese Drift Master | 248235 | [248235-jdm-japanese-drift-master.json](./248235-jdm-japanese-drift-master.json) |
 | Jeep Horror | 414191 | [414191-jeep-horror.json](./414191-jeep-horror.json) |
 | Jeffrey Eggstein | 407920 | [407920-jeffrey-eggstein.json](./407920-jeffrey-eggstein.json) |
+| Jeffy's Infinite Irida | 371726 | [371726-jeffys-infinite-irida.json](./371726-jeffys-infinite-irida.json) |
 | Jelly Float | 412877 | [412877-jelly-float.json](./412877-jelly-float.json) |
 | Jelly Math | 401405 | [401405-jelly-math.json](./401405-jelly-math.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
