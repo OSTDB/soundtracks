@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and His Desktop Adventures | 183 | [183-indiana-jones-and-his-desktop-adventures.json](./183-indiana-jones-and-his-desktop-adventures.json) |
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
+| Indicate | 389293 | [389293-indicate.json](./389293-indicate.json) |
 | Indigo Park | 257835 | [257835-indigo-park.json](./257835-indigo-park.json) |
 | Indigo's Dreams | 403513 | [403513-indigos-dreams.json](./403513-indigos-dreams.json) |
 | Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Simulator 2 | 160171 | [160171-internet-cafe-simulator-2.json](./160171-internet-cafe-simulator-2.json) |
 | Internet Simulator | 86517 | [86517-internet-simulator.json](./86517-internet-simulator.json) |
 | Intershelter | 31499 | [31499-intershelter.json](./31499-intershelter.json) |
+| Interstellar Shore VR: I Live | 389298 | [389298-interstellar-shore-vr-i-live.json](./389298-interstellar-shore-vr-i-live.json) |
 | Interstellar Transport Company | 46464 | [46464-interstellar-transport-company.json](./46464-interstellar-transport-company.json) |
 | Interwebs Troll Simulator | 20921 | [20921-interwebs-troll-simulator.json](./20921-interwebs-troll-simulator.json) |
 | Into Blue Valley | 36138 | [36138-into-blue-valley.json](./36138-into-blue-valley.json) |
