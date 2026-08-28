@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
 | Chroma Shift | 110098 | [110098-chroma-shift.json](./110098-chroma-shift.json) |
 | Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
+| Chronicles Of Lumethis | 412175 | [412175-chronicles-of-lumethis.json](./412175-chronicles-of-lumethis.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
