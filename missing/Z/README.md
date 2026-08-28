@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Craft | 386581 | [386581-zombie-craft.json](./386581-zombie-craft.json) |
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
+| Zombie Diner Simulator | 381466 | [381466-zombie-diner-simulator.json](./381466-zombie-diner-simulator.json) |
 | Zombie Emperor | 387862 | [387862-zombie-emperor.json](./387862-zombie-emperor.json) |
 | Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
 | Zombie Playground | 15316 | [15316-zombie-playground.json](./15316-zombie-playground.json) |
