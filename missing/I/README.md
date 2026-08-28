@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
 | In Tow | 396062 | [396062-in-tow.json](./396062-in-tow.json) |
+| Inanis: Into the Abyss | 391502 | [391502-inanis-into-the-abyss.json](./391502-inanis-into-the-abyss.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
 | Inside the Cube | 413560 | [413560-inside-the-cube.json](./413560-inside-the-cube.json) |
+| Interdimensional Vending Machine | 391514 | [391514-interdimensional-vending-machine.json](./391514-interdimensional-vending-machine.json) |
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | Internal Light | 76914 | [76914-internal-light.json](./76914-internal-light.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
 | Iron Guard: Day Zero | 405385 | [405385-iron-guard-day-zero.json](./405385-iron-guard-day-zero.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
+| Ironforged | 391518 | [391518-ironforged.json](./391518-ironforged.json) |
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
 | Island Survive Simulator: Craft, Build, Grow | 398199 | [398199-island-survive-simulator-craft-build-grow.json](./398199-island-survive-simulator-craft-build-grow.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
