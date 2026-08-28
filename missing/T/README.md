@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
 | The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
+| The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clockwork Man: The Hidden World | 15148 | [15148-the-clockwork-man-the-hidden-world.json](./15148-the-clockwork-man-the-hidden-world.json) |
 | The Clue! | 10123 | [10123-the-clue.json](./10123-the-clue.json) |
 | The Coffin of Andy and Leyley | 243378 | [243378-the-coffin-of-andy-and-leyley.json](./243378-the-coffin-of-andy-and-leyley.json) |
+| The Colors of Love | 410120 | [410120-the-colors-of-love.json](./410120-the-colors-of-love.json) |
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
@@ -180,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Mystical Ninja | 28386 | [28386-the-legend-of-the-mystical-ninja.json](./28386-the-legend-of-the-mystical-ninja.json) |
 | The Legend of Zelda: Breath of the Wild - Expansion Pass | 41829 | [41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json](./41829-the-legend-of-zelda-breath-of-the-wild-expansion-pass.json) |
 | The Legend of Zelda: Collector's Edition | 45139 | [45139-the-legend-of-zelda-collectors-edition.json](./45139-the-legend-of-zelda-collectors-edition.json) |
+| The Legend of Zelda: Total Conversion | 410151 | [410151-the-legend-of-zelda-total-conversion.json](./410151-the-legend-of-zelda-total-conversion.json) |
 | The Legendary of Bean | 76667 | [76667-the-legendary-of-bean.json](./76667-the-legendary-of-bean.json) |
 | The Legends of Galaquia | 413549 | [413549-the-legends-of-galaquia.json](./413549-the-legends-of-galaquia.json) |
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
@@ -208,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Pale Beyond | 181486 | [181486-the-pale-beyond.json](./181486-the-pale-beyond.json) |
 | The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
+| The Political Simulator | 410140 | [410140-the-political-simulator.json](./410140-the-political-simulator.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
@@ -360,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster Connect | 124102 | [124102-touchmaster-connect.json](./124102-touchmaster-connect.json) |
 | Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
+| Touhou Defense Tale: AI Test in Touhou | 410142 | [410142-touhou-defense-tale-ai-test-in-touhou.json](./410142-touhou-defense-tale-ai-test-in-touhou.json) |
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
@@ -367,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Suimusou: Immaterial and Missing Power | 27161 | [27161-touhou-suimusou-immaterial-and-missing-power.json](./27161-touhou-suimusou-immaterial-and-missing-power.json) |
+| Touhou: Records of Wealth-Seeking | 410150 | [410150-touhou-records-of-wealth-seeking.json](./410150-touhou-records-of-wealth-seeking.json) |
 | Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
 | Tower of Fantasy | 174590 | [174590-tower-of-fantasy.json](./174590-tower-of-fantasy.json) |
