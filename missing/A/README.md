@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
 | Am I OK? | 411488 | [411488-am-i-ok.json](./411488-am-i-ok.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
+| Amalgamate | 395426 | [395426-amalgamate.json](./395426-amalgamate.json) |
 | aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
+| Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
