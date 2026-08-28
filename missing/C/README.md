@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Call to Arms: Gates of Hell - Finest Hour | 387188 | [387188-call-to-arms-gates-of-hell-finest-hour.json](./387188-call-to-arms-gates-of-hell-finest-hour.json) |
 | Call to Arms: Panzer Elite - Deluxe Edition | 369397 | [369397-call-to-arms-panzer-elite-deluxe-edition.json](./369397-call-to-arms-panzer-elite-deluxe-edition.json) |
+| Calmie Dots | 366634 | [366634-calmie-dots.json](./366634-calmie-dots.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
 | Camilla | 369418 | [369418-camilla.json](./369418-camilla.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra ReBirth | 11300 | [11300-contra-rebirth.json](./11300-contra-rebirth.json) |
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
 | Contra: The Alien Wars | 48914 | [48914-contra-the-alien-wars.json](./48914-contra-the-alien-wars.json) |
+| Contraband Border Police Simulator | 366658 | [366658-contraband-border-police-simulator.json](./366658-contraband-border-police-simulator.json) |
 | Contraband Police | 76263 | [76263-contraband-police.json](./76263-contraband-police.json) |
 | Contract Cleaner | 384383 | [384383-contract-cleaner.json](./384383-contract-cleaner.json) |
 | Cook the Word | 401393 | [401393-cook-the-word.json](./401393-cook-the-word.json) |
@@ -471,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
+| Cube | 366676 | [366676-cube.json](./366676-cube.json) |
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube KaBaam: Cryptic Trail | 401388 | [401388-cube-kabaam-cryptic-trail.json](./401388-cube-kabaam-cryptic-trail.json) |
 | Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
