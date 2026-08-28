@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-22 Lightning 3 | 16012 | [16012-f-22-lightning-3.json](./16012-f-22-lightning-3.json) |
 | F-22 Lightning II | 10759 | [10759-f-22-lightning-ii.json](./10759-f-22-lightning-ii.json) |
 | F-24 Stealth Fighter | 20980 | [20980-f-24-stealth-fighter.json](./20980-f-24-stealth-fighter.json) |
+| F.O.R.S | 367780 | [367780-f-o-r-s.json](./367780-f-o-r-s.json) |
 | F1 2002 | 22059 | [22059-f1-2002.json](./22059-f1-2002.json) |
 | F1 23 | 240558 | [240558-f1-23.json](./240558-f1-23.json) |
 | F1 Manager 2022 | 193538 | [193538-f1-manager-2022.json](./193538-f1-manager-2022.json) |
