@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
+| Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
