@@ -24,6 +24,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
+| Dare to Dream 2 | 397567 | [397567-dare-to-dream-2.json](./397567-dare-to-dream-2.json) |
+| Dare to Dream 3 | 397568 | [397568-dare-to-dream-3.json](./397568-dare-to-dream-3.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
 | Dark Age of Camelot | 657 | [657-dark-age-of-camelot.json](./657-dark-age-of-camelot.json) |
 | Dark Age of Camelot: Trials of Atlantis | 23744 | [23744-dark-age-of-camelot-trials-of-atlantis.json](./23744-dark-age-of-camelot-trials-of-atlantis.json) |
@@ -244,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dokapon 3-2-1: Super Collection! | 410797 | [410797-dokapon-3-2-1-super-collection.json](./410797-dokapon-3-2-1-super-collection.json) |
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
+| Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
@@ -270,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed | 102285 | [102285-doomed.json](./102285-doomed.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
+| Dopaminer | 397548 | [397548-dopaminer.json](./397548-dopaminer.json) |
 | Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
 | Dora the Explorer: Dora Saves the Mermaids | 7975 | [7975-dora-the-explorer-dora-saves-the-mermaids.json](./7975-dora-the-explorer-dora-saves-the-mermaids.json) |
 | Dora-Con Cafe 2 | 398852 | [398852-dora-con-cafe-2.json](./398852-dora-con-cafe-2.json) |
@@ -335,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
+| Dreams Far Away | 397540 | [397540-dreams-far-away.json](./397540-dreams-far-away.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
@@ -351,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
+| DroPlaying! | 397539 | [397539-droplaying.json](./397539-droplaying.json) |
 | Drowned God | 400775 | [400775-drowned-god.json](./400775-drowned-god.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
@@ -373,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
 | Dungeon Manager ZV | 34466 | [34466-dungeon-manager-zv.json](./34466-dungeon-manager-zv.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
+| Dungeon Pets | 397538 | [397538-dungeon-pets.json](./397538-dungeon-pets.json) |
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
