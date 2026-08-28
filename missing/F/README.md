@@ -303,3 +303,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
+| Fuuun Shaolin Kyo | 384978 | [384978-fuuun-shaolin-kyo.json](./384978-fuuun-shaolin-kyo.json) |
