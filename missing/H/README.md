@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
 | Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
 | Haze | 399444 | [399444-haze.json](./399444-haze.json) |
+| Haze | 380855 | [380855-haze.json](./380855-haze.json) |
 | Headache: Altered States | 386000 | [386000-headache-altered-states.json](./386000-headache-altered-states.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headcutter | 404100 | [404100-headcutter.json](./404100-headcutter.json) |
