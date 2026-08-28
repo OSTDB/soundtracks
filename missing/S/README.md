@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
+| Saratoga | 389288 | [389288-saratoga.json](./389288-saratoga.json) |
 | Sarkeras: Artifact of the Ancestors | 398882 | [398882-sarkeras-artifact-of-the-ancestors.json](./398882-sarkeras-artifact-of-the-ancestors.json) |
 | SAS: Zombie Assault TD | 392630 | [392630-sas-zombie-assault-td.json](./392630-sas-zombie-assault-td.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
