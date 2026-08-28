@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
+| Ladder Lad | 412153 | [412153-ladder-lad.json](./412153-ladder-lad.json) |
 | Lady Pearl | 412821 | [412821-lady-pearl.json](./412821-lady-pearl.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Lawnmower Game | 44179 | [44179-lawnmower-game.json](./44179-lawnmower-game.json) |
+| Layang Atma | 412167 | [412167-layang-atma.json](./412167-layang-atma.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
