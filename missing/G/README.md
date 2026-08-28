@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
+| Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
