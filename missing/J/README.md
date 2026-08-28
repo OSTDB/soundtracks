@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
+| Japanese Basics Hiragana Fill-in Quiz | 396108 | [396108-japanese-basics-hiragana-fill-in-quiz.json](./396108-japanese-basics-hiragana-fill-in-quiz.json) |
 | Japanese Culture Literacy Test | 398200 | [398200-japanese-culture-literacy-test.json](./398200-japanese-culture-literacy-test.json) |
 | Japanese Rail Sim 3D: Journey to Kyoto | 47660 | [47660-japanese-rail-sim-3d-journey-to-kyoto.json](./47660-japanese-rail-sim-3d-journey-to-kyoto.json) |
 | Jasmine | 398889 | [398889-jasmine.json](./398889-jasmine.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joly Blocks Blast | 402762 | [402762-joly-blocks-blast.json](./402762-joly-blocks-blast.json) |
 | Journey: Collector's Edition | 23411 | [23411-journey-collectors-edition.json](./23411-journey-collectors-edition.json) |
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
+| Joy Piano | 396109 | [396109-joy-piano.json](./396109-joy-piano.json) |
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Life: Tyrannosaurus Rex Dinosaur Simulator | 87577 | [87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json](./87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json) |
 | Jurassic Life: Velociraptor Dinosaur Simulator | 87579 | [87579-jurassic-life-velociraptor-dinosaur-simulator.json](./87579-jurassic-life-velociraptor-dinosaur-simulator.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
+| Jurassic World Evolution 3: Wetlands | 396074 | [396074-jurassic-world-evolution-3-wetlands.json](./396074-jurassic-world-evolution-3-wetlands.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
