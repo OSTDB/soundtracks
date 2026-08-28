@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
 | Mega Man: Starburst | 376350 | [376350-mega-man-starburst.json](./376350-mega-man-starburst.json) |
+| Mega Pirate Pandemonium | 367789 | [367789-mega-pirate-pandemonium.json](./367789-mega-pirate-pandemonium.json) |
 | Mega Simulator Bundle | 376355 | [376355-mega-simulator-bundle.json](./376355-mega-simulator-bundle.json) |
 | Mega Turrican Director's Cut | 395455 | [395455-mega-turrican-directors-cut.json](./395455-mega-turrican-directors-cut.json) |
 | Megabait | 408676 | [408676-megabait.json](./408676-megabait.json) |
@@ -213,6 +214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MegaWars III | 383257 | [383257-megawars-iii.json](./383257-megawars-iii.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
+| MeiQi: Phoenix and the Chamber of Secrets | 367784 | [367784-meiqi-phoenix-and-the-chamber-of-secrets.json](./367784-meiqi-phoenix-and-the-chamber-of-secrets.json) |
+| MeiQi:Story | 367770 | [367770-meiqi-story.json](./367770-meiqi-story.json) |
 | Meisin | 371087 | [371087-meisin.json](./371087-meisin.json) |
 | Meitantei Camazotz Kamigami no Kyousoukyoku: MessengerText | 394732 | [394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json](./394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json) |
 | Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
@@ -224,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memology: Absurd Racing | 378022 | [378022-memology-absurd-racing.json](./378022-memology-absurd-racing.json) |
 | Memology: Italian Meme War | 378026 | [378026-memology-italian-meme-war.json](./378026-memology-italian-meme-war.json) |
 | Memories Off 2nd: Yuki Hotaru | 396775 | [396775-memories-off-2nd-yuki-hotaru.json](./396775-memories-off-2nd-yuki-hotaru.json) |
+| Men Against Lizards | 367803 | [367803-men-against-lizards.json](./367803-men-against-lizards.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Menhera Maiden | 399530 | [399530-menhera-maiden.json](./399530-menhera-maiden.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
@@ -249,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
+| Metamorphosis | 367807 | [367807-metamorphosis.json](./367807-metamorphosis.json) |
 | Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
 | MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
@@ -290,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
 | Mighty Morphin Power Rangers: Power Nexus | 369964 | [369964-mighty-morphin-power-rangers-power-nexus.json](./369964-mighty-morphin-power-rangers-power-nexus.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
+| Mika's Battle S 2 | 367808 | [367808-mikas-battle-s-2.json](./367808-mikas-battle-s-2.json) |
 | Mika's Battle S 3 | 368307 | [368307-mikas-battle-s-3.json](./368307-mikas-battle-s-3.json) |
 | Milei: El Super Libertarian | 387252 | [387252-milei-el-super-libertarian.json](./387252-milei-el-super-libertarian.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
