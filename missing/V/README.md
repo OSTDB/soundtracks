@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus: Battle of the Gladiator | 23231 | [23231-versus-battle-of-the-gladiator.json](./23231-versus-battle-of-the-gladiator.json) |
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
+| Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
