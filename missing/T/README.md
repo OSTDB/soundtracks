@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
+| Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
+| The Somnolent Prince | 414226 | [414226-the-somnolent-prince.json](./414226-the-somnolent-prince.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Suffering | 6180 | [6180-the-suffering.json](./6180-the-suffering.json) |
@@ -390,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
+| Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
@@ -409,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
+| Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
