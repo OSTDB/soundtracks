@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra_Hardcore | 86597 | [86597-ultra-hardcore.json](./86597-ultra-hardcore.json) |
 | Ultros | 250626 | [250626-ultros.json](./250626-ultros.json) |
 | Ulysses and the Golden Fleece | 7657 | [7657-ulysses-and-the-golden-fleece.json](./7657-ulysses-and-the-golden-fleece.json) |
+| Unbowed | 387867 | [387867-unbowed.json](./387867-unbowed.json) |
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
 | Unconscious | 405416 | [405416-unconscious.json](./405416-unconscious.json) |
