@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
+| A Girl Adrift: Reunited Horizon | 400141 | [400141-a-girl-adrift-reunited-horizon.json](./400141-a-girl-adrift-reunited-horizon.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
 | A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aooni The Horror of Blueberry Onsen Episode: The Untold | 411423 | [411423-aooni-the-horror-of-blueberry-onsen-episode-the-untold.json](./411423-aooni-the-horror-of-blueberry-onsen-episode-the-untold.json) |
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
+| Ape-tite | 400145 | [400145-ape-tite.json](./400145-ape-tite.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
+| Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
