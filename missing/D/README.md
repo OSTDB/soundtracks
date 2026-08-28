@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Fog Signals | 375622 | [375622-deep-fog-signals.json](./375622-deep-fog-signals.json) |
 | Deep in the Dread | 377441 | [377441-deep-in-the-dread.json](./377441-deep-in-the-dread.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
+| Deep Rock Galactic: Survivor - After Hours Pack | 368351 | [368351-deep-rock-galactic-survivor-after-hours-pack.json](./368351-deep-rock-galactic-survivor-after-hours-pack.json) |
 | Deep Six | 380250 | [380250-deep-six.json](./380250-deep-six.json) |
 | Deep Snow Delivery | 380251 | [380251-deep-snow-delivery.json](./380251-deep-snow-delivery.json) |
 | Deep Space Diesel | 372864 | [372864-deep-space-diesel.json](./372864-deep-space-diesel.json) |
@@ -501,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Chaser | 380288 | [380288-dream-chaser.json](./380288-dream-chaser.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
+| Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
 | Dream Team | 380291 | [380291-dream-team.json](./380291-dream-team.json) |
