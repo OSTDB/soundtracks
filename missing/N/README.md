@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
 | Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
+| Night Watch at Freddie's: The July 5th Archive | 383240 | [383240-night-watch-at-freddies-the-july-5th-archive.json](./383240-night-watch-at-freddies-the-july-5th-archive.json) |
 | Nightbell | 395408 | [395408-nightbell.json](./395408-nightbell.json) |
 | Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
 | Nightfall | 383826 | [383826-nightfall.json](./383826-nightfall.json) |
