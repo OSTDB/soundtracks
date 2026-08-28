@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
 | Time Rifters | 16931 | [16931-time-rifters.json](./16931-time-rifters.json) |
 | Time Tenshi Paradox: Episode 1 | 76783 | [76783-time-tenshi-paradox-episode-1.json](./76783-time-tenshi-paradox-episode-1.json) |
+| Time Thief | 412172 | [412172-time-thief.json](./412172-time-thief.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
 | Timore 5 | 31517 | [31517-timore-5.json](./31517-timore-5.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
+| Tumble in the Deep Noon | 412166 | [412166-tumble-in-the-deep-noon.json](./412166-tumble-in-the-deep-noon.json) |
 | Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
