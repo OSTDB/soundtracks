@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Space | 405425 | [405425-lost-in-space.json](./405425-lost-in-space.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
+| LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
