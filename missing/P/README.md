@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
 | Paper Strike | 405404 | [405404-paper-strike.json](./405404-paper-strike.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
+| Papercut Art Gallery: Nature II | 392673 | [392673-papercut-art-gallery-nature-ii.json](./392673-papercut-art-gallery-nature-ii.json) |
 | PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
 | PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
 | PapiEscape | 87564 | [87564-papiescape.json](./87564-papiescape.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
+| Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
 | Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
 | Power Stone | 4355 | [4355-power-stone.json](./4355-power-stone.json) |
 | Power-Up | 17617 | [17617-power-up.json](./17617-power-up.json) |
+| Powerfuel | 392633 | [392633-powerfuel.json](./392633-powerfuel.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
@@ -242,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Primal Carnage | 3066 | [3066-primal-carnage.json](./3066-primal-carnage.json) |
 | Primal Wars: Dino Age | 101954 | [101954-primal-wars-dino-age.json](./101954-primal-wars-dino-age.json) |
+| Prince Fighting Dragon 2 | 392672 | [392672-prince-fighting-dragon-2.json](./392672-prince-fighting-dragon-2.json) |
 | Prince of Persia | 229862 | [229862-prince-of-persia.json](./229862-prince-of-persia.json) |
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
 | Princess Connect! Re:Dive | 22791 | [22791-princess-connect-re-dive.json](./22791-princess-connect-re-dive.json) |
