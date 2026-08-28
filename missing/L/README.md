@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
 | Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
+| Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
 | Loco Dojo | 46483 | [46483-loco-dojo.json](./46483-loco-dojo.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
 | Love, Startup & Co-founder | 410129 | [410129-love-startup-and-co-founder.json](./410129-love-startup-and-co-founder.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
+| Lovelace Case | 387886 | [387886-lovelace-case.json](./387886-lovelace-case.json) |
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
 | Low Magic They Said | 391497 | [391497-low-magic-they-said.json](./391497-low-magic-they-said.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Luigi's Haunted Quest 2: Bligmire | 394734 | [394734-luigis-haunted-quest-2-bligmire.json](./394734-luigis-haunted-quest-2-bligmire.json) |
+| Lullaby | 387891 | [387891-lullaby.json](./387891-lullaby.json) |
 | LumenKnight | 390969 | [390969-lumenknight.json](./390969-lumenknight.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
