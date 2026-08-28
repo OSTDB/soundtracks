@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolution of the Silent Union | 402212 | [402212-dissolution-of-the-silent-union.json](./402212-dissolution-of-the-silent-union.json) |
 | Distortions | 86525 | [86525-distortions.json](./86525-distortions.json) |
 | Distraint 2 | 27499 | [27499-distraint-2.json](./27499-distraint-2.json) |
+| Divine's Howl | 371722 | [371722-divines-howl.json](./371722-divines-howl.json) |
 | Divinity II: Developer's Cut | 78459 | [78459-divinity-ii-developers-cut.json](./78459-divinity-ii-developers-cut.json) |
 | Divinity II: Flames of Vengeance | 78635 | [78635-divinity-ii-flames-of-vengeance.json](./78635-divinity-ii-flames-of-vengeance.json) |
 | Divinity: Original Sin | 5082 | [5082-divinity-original-sin.json](./5082-divinity-original-sin.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
 | DokiDoki Shutter Chance: Koi no Puzzle wo Kumitatete | 396773 | [396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json](./396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json) |
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
+| Domain of Hallucination | 371715 | [371715-domain-of-hallucination.json](./371715-domain-of-hallucination.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
