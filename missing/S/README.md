@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
+| Satelital | 410782 | [410782-satelital.json](./410782-satelital.json) |
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
 | Saturday Morning RPG | 16840 | [16840-saturday-morning-rpg.json](./16840-saturday-morning-rpg.json) |
 | SBK 08: Superbike World Championship | 7178 | [7178-sbk-08-superbike-world-championship.json](./7178-sbk-08-superbike-world-championship.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
+| Shibora Renkare Keiyaku: Hataraku Otona no Onee-san to H na Rental Kareshi Seikatsu | 410785 | [410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json](./410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
 | Shin Megami Tensei | 21074 | [21074-shin-megami-tensei.json](./21074-shin-megami-tensei.json) |
 | Shin Megami Tensei II | 23879 | [23879-shin-megami-tensei-ii.json](./23879-shin-megami-tensei-ii.json) |
@@ -126,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
 | Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
 | Shufflepuck Cantina Deluxe VR | 16773 | [16773-shufflepuck-cantina-deluxe-vr.json](./16773-shufflepuck-cantina-deluxe-vr.json) |
+| Shunya | 410787 | [410787-shunya.json](./410787-shunya.json) |
 | Shuriken Maestro | 414976 | [414976-shuriken-maestro.json](./414976-shuriken-maestro.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
 | SickBrick | 24601 | [24601-sickbrick.json](./24601-sickbrick.json) |
@@ -187,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice Zombies for Kinect | 20951 | [20951-slice-zombies-for-kinect.json](./20951-slice-zombies-for-kinect.json) |
 | Slide in the Woods | 176705 | [176705-slide-in-the-woods.json](./176705-slide-in-the-woods.json) |
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
+| Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Sly 2: Band of Thieves | 222126 | [222126-sly-2-band-of-thieves.json](./222126-sly-2-band-of-thieves.json) |
@@ -238,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
+| Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
