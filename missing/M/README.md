@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
 | Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
+| MagiDes Kai: Mahou Shoujo Magical Destroyers Kai | 369969 | [369969-magides-kai-mahou-shoujo-magical-destroyers-kai.json](./369969-magides-kai-mahou-shoujo-magical-destroyers-kai.json) |
 | Magnet to Planet | 412862 | [412862-magnet-to-planet.json](./412862-magnet-to-planet.json) |
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
 | Mahadesora | 379751 | [379751-mahadesora.json](./379751-mahadesora.json) |
@@ -104,8 +105,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Superstars | 152354 | [152354-mario-party-superstars.json](./152354-mario-party-superstars.json) |
 | Mario Party: Island Tour | 2338 | [2338-mario-party-island-tour.json](./2338-mario-party-island-tour.json) |
 | Mario Sports Superstars | 26939 | [26939-mario-sports-superstars.json](./26939-mario-sports-superstars.json) |
+| Mario VS The Noise | 369931 | [369931-mario-vs-the-noise.json](./369931-mario-vs-the-noise.json) |
 | Mario vs. Donkey Kong: Mini-Land Mayhem! | 21093 | [21093-mario-vs-donkey-kong-mini-land-mayhem.json](./21093-mario-vs-donkey-kong-mini-land-mayhem.json) |
+| Mario's Challenge Gala | 369946 | [369946-marios-challenge-gala.json](./369946-marios-challenge-gala.json) |
 | Mario's Misadventures 2: The Black Hole Bomb | 380852 | [380852-marios-misadventures-2-the-black-hole-bomb.json](./380852-marios-misadventures-2-the-black-hole-bomb.json) |
+| Mario's Picross Deluxe | 369955 | [369955-marios-picross-deluxe.json](./369955-marios-picross-deluxe.json) |
 | Mario's Time Machine | 48133 | [48133-marios-time-machine.json](./48133-marios-time-machine.json) |
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
@@ -191,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legacy Collection 2 | 28323 | [28323-mega-man-legacy-collection-2.json](./28323-mega-man-legacy-collection-2.json) |
 | Mega Man Star Force 2: Zerker x Saurian | 1784 | [1784-mega-man-star-force-2-zerker-x-saurian.json](./1784-mega-man-star-force-2-zerker-x-saurian.json) |
 | Mega Man V | 1737 | [1737-mega-man-v.json](./1737-mega-man-v.json) |
+| Mega Man X Demake | 369959 | [369959-mega-man-x-demake.json](./369959-mega-man-x-demake.json) |
 | Mega Man X Regenesis | 410146 | [410146-mega-man-x-regenesis.json](./410146-mega-man-x-regenesis.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
@@ -199,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Turrican Director's Cut | 395455 | [395455-mega-turrican-directors-cut.json](./395455-mega-turrican-directors-cut.json) |
 | Megabait | 408676 | [408676-megabait.json](./408676-megabait.json) |
 | Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
+| Megaman Zero: VS The Universe | 369960 | [369960-megaman-zero-vs-the-universe.json](./369960-megaman-zero-vs-the-universe.json) |
 | Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
@@ -278,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic V: Darkside of Xeen | 7737 | [7737-might-and-magic-v-darkside-of-xeen.json](./7737-might-and-magic-v-darkside-of-xeen.json) |
 | Mighty Dungeons | 35765 | [35765-mighty-dungeons.json](./35765-mighty-dungeons.json) |
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
+| Mighty Morphin Power Rangers: Power Nexus | 369964 | [369964-mighty-morphin-power-rangers-power-nexus.json](./369964-mighty-morphin-power-rangers-power-nexus.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
 | Milei: El Super Libertarian | 387252 | [387252-milei-el-super-libertarian.json](./387252-milei-el-super-libertarian.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
