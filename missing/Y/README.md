@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
 | Yo-kai Watch | 11197 | [11197-yo-kai-watch.json](./11197-yo-kai-watch.json) |
+| Yodelee Golf | 402207 | [402207-yodelee-golf.json](./402207-yodelee-golf.json) |
 | Yogi Bear | 23380 | [23380-yogi-bear.json](./23380-yogi-bear.json) |
 | Yohane the Parhelion: Numazu in the Mirage | 267625 | [267625-yohane-the-parhelion-numazu-in-the-mirage.json](./267625-yohane-the-parhelion-numazu-in-the-mirage.json) |
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
