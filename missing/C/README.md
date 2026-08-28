@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
+| Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Catz | 81538 | [81538-catz.json](./81538-catz.json) |
@@ -131,8 +132,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
+| Close Combat: Last Stand Arnhem | 23366 | [23366-close-combat-last-stand-arnhem.json](./23366-close-combat-last-stand-arnhem.json) |
 | Close Combat: The Bloody First | 86454 | [86454-close-combat-the-bloody-first.json](./86454-close-combat-the-bloody-first.json) |
 | Clover Tale | 32958 | [32958-clover-tale.json](./32958-clover-tale.json) |
+| Club Life | 22211 | [22211-club-life.json](./22211-club-life.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
@@ -173,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confrontation | 10104 | [10104-confrontation.json](./10104-confrontation.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
+| Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
 | Contra III: The Alien Wars | 6351 | [6351-contra-iii-the-alien-wars.json](./6351-contra-iii-the-alien-wars.json) |
 | Contra ReBirth | 11300 | [11300-contra-rebirth.json](./11300-contra-rebirth.json) |
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
