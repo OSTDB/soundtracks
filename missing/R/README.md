@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Passport: Ticket to Russia - Japan Call | 385478 | [385478-red-passport-ticket-to-russia-japan-call.json](./385478-red-passport-ticket-to-russia-japan-call.json) |
 | Red Passport: Ticket to Russia - Old Novosibirsk Bus | 385480 | [385480-red-passport-ticket-to-russia-old-novosibirsk-bus.json](./385480-red-passport-ticket-to-russia-old-novosibirsk-bus.json) |
 | Red Passport: Ticket to Russia - Tramway Edition | 385479 | [385479-red-passport-ticket-to-russia-tramway-edition.json](./385479-red-passport-ticket-to-russia-tramway-edition.json) |
+| Red Pearl Pirates | 359237 | [359237-red-pearl-pirates.json](./359237-red-pearl-pirates.json) |
 | Red Planet | 393999 | [393999-red-planet.json](./393999-red-planet.json) |
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
@@ -132,10 +133,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
+| Reflections of Life: In Screams and Sorrow | 359276 | [359276-reflections-of-life-in-screams-and-sorrow.json](./359276-reflections-of-life-in-screams-and-sorrow.json) |
 | Regotown | 389292 | [389292-regotown.json](./389292-regotown.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
+| Reincarnation Galgame Become Heroine! | 359245 | [359245-reincarnation-galgame-become-heroine.json](./359245-reincarnation-galgame-become-heroine.json) |
 | Reincarnation in Another World | 367242 | [367242-reincarnation-in-another-world.json](./367242-reincarnation-in-another-world.json) |
 | Reines Du Sabbat: Queen of Sacrifice | 386023 | [386023-reines-du-sabbat-queen-of-sacrifice.json](./386023-reines-du-sabbat-queen-of-sacrifice.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
