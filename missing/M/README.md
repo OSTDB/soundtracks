@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Infinite Puzzle | 366071 | [366071-maze-infinite-puzzle.json](./366071-maze-infinite-puzzle.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | Mazino | 384385 | [384385-mazino.json](./384385-mazino.json) |
+| Mazzy | 364919 | [364919-mazzy.json](./364919-mazzy.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
@@ -546,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
 | Mystical Demon Farm | 389323 | [389323-mystical-demon-farm.json](./389323-mystical-demon-farm.json) |
+| Myth of Lumi | 364906 | [364906-myth-of-lumi.json](./364906-myth-of-lumi.json) |
 | Myth Requiem | 391468 | [391468-myth-requiem.json](./391468-myth-requiem.json) |
 | Myth Xaran | 384393 | [384393-myth-xaran.json](./384393-myth-xaran.json) |
 | Mythic Wonders: The Philosopher's Stone - Collector's Edition | 381420 | [381420-mythic-wonders-the-philosophers-stone-collectors-edition.json](./381420-mythic-wonders-the-philosophers-stone-collectors-edition.json) |
