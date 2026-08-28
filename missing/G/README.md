@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods With Guns | 407259 | [407259-gods-with-guns.json](./407259-gods-with-guns.json) |
 | Godseeker II | 400108 | [400108-godseeker-ii.json](./400108-godseeker-ii.json) |
 | Godsteel | 368865 | [368865-godsteel.json](./368865-godsteel.json) |
+| GodsTV | 361544 | [361544-godstv.json](./361544-godstv.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Gogyō | 366665 | [366665-gogyo.json](./366665-gogyo.json) |
@@ -255,10 +256,50 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizzly's VR | 382638 | [382638-grizzlys-vr.json](./382638-grizzlys-vr.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
+| Groove Coaster: And Then There Were None | 361524 | [361524-groove-coaster-and-then-there-were-none.json](./361524-groove-coaster-and-then-there-were-none.json) |
+| Groove Coaster: Before Ten Orb | 361527 | [361527-groove-coaster-before-ten-orb.json](./361527-groove-coaster-before-ten-orb.json) |
+| Groove Coaster: Burn Alt Air | 361512 | [361512-groove-coaster-burn-alt-air.json](./361512-groove-coaster-burn-alt-air.json) |
+| Groove Coaster: Captain Murasa (Tracy vs. Astronomical Mix) | 361536 | [361536-groove-coaster-captain-murasa-tracy-vs-astronomical-mix.json](./361536-groove-coaster-captain-murasa-tracy-vs-astronomical-mix.json) |
+| Groove Coaster: Captain Neo (Confusion Mix) | 361547 | [361547-groove-coaster-captain-neo-confusion-mix.json](./361547-groove-coaster-captain-neo-confusion-mix.json) |
+| Groove Coaster: Cosmic Air Way (Trans Mountain Express Mix) | 361515 | [361515-groove-coaster-cosmic-air-way-trans-mountain-express-mix.json](./361515-groove-coaster-cosmic-air-way-trans-mountain-express-mix.json) |
+| Groove Coaster: Crepe to Me | 361541 | [361541-groove-coaster-crepe-to-me.json](./361541-groove-coaster-crepe-to-me.json) |
+| Groove Coaster: Cruel Moon NuMix | 361528 | [361528-groove-coaster-cruel-moon-numix.json](./361528-groove-coaster-cruel-moon-numix.json) |
+| Groove Coaster: Don’t Die | 361522 | [361522-groove-coaster-don-t-die.json](./361522-groove-coaster-don-t-die.json) |
+| Groove Coaster: Fermion | 361507 | [361507-groove-coaster-fermion.json](./361507-groove-coaster-fermion.json) |
+| Groove Coaster: Finder | 361516 | [361516-groove-coaster-finder.json](./361516-groove-coaster-finder.json) |
+| Groove Coaster: Freedom | 361551 | [361551-groove-coaster-freedom.json](./361551-groove-coaster-freedom.json) |
+| Groove Coaster: Glithcre | 361517 | [361517-groove-coaster-glithcre.json](./361517-groove-coaster-glithcre.json) |
+| Groove Coaster: Glory Day | 361519 | [361519-groove-coaster-glory-day.json](./361519-groove-coaster-glory-day.json) |
+| Groove Coaster: Go Back 2 Your Rave | 361550 | [361550-groove-coaster-go-back-2-your-rave.json](./361550-groove-coaster-go-back-2-your-rave.json) |
+| Groove Coaster: Good Night, Bad Luck | 361539 | [361539-groove-coaster-good-night-bad-luck.json](./361539-groove-coaster-good-night-bad-luck.json) |
+| Groove Coaster: Got More Raves? (xiRemix) | 361542 | [361542-groove-coaster-got-more-raves-xiremix.json](./361542-groove-coaster-got-more-raves-xiremix.json) |
+| Groove Coaster: Groove It Lucky (GC Mix) | 361529 | [361529-groove-coaster-groove-it-lucky-gc-mix.json](./361529-groove-coaster-groove-it-lucky-gc-mix.json) |
+| Groove Coaster: Heisei Kaisei Dottensyan | 361509 | [361509-groove-coaster-heisei-kaisei-dottensyan.json](./361509-groove-coaster-heisei-kaisei-dottensyan.json) |
+| Groove Coaster: Ignotus | 361513 | [361513-groove-coaster-ignotus.json](./361513-groove-coaster-ignotus.json) |
+| Groove Coaster: Initial Initial Echo Ego | 361518 | [361518-groove-coaster-initial-initial-echo-ego.json](./361518-groove-coaster-initial-initial-echo-ego.json) |
+| Groove Coaster: Invader Girl! | 361510 | [361510-groove-coaster-invader-girl.json](./361510-groove-coaster-invader-girl.json) |
+| Groove Coaster: Itazura Sensation | 361526 | [361526-groove-coaster-itazura-sensation.json](./361526-groove-coaster-itazura-sensation.json) |
+| Groove Coaster: Jukusei Jozo Hakkosei - Space Yogurt Earth | 361532 | [361532-groove-coaster-jukusei-jozo-hakkosei-space-yogurt-earth.json](./361532-groove-coaster-jukusei-jozo-hakkosei-space-yogurt-earth.json) |
+| Groove Coaster: Kakoi Naki Yowa Ichigo No Tsukikage | 361525 | [361525-groove-coaster-kakoi-naki-yowa-ichigo-no-tsukikage.json](./361525-groove-coaster-kakoi-naki-yowa-ichigo-no-tsukikage.json) |
+| Groove Coaster: Kodoku Na Hana | 361533 | [361533-groove-coaster-kodoku-na-hana.json](./361533-groove-coaster-kodoku-na-hana.json) |
+| Groove Coaster: Last Goodbye | 361535 | [361535-groove-coaster-last-goodbye.json](./361535-groove-coaster-last-goodbye.json) |
+| Groove Coaster: Lost Colors | 361540 | [361540-groove-coaster-lost-colors.json](./361540-groove-coaster-lost-colors.json) |
+| Groove Coaster: Love for You | 361521 | [361521-groove-coaster-love-for-you.json](./361521-groove-coaster-love-for-you.json) |
+| Groove Coaster: Marry Me, Nightmare | 361548 | [361548-groove-coaster-marry-me-nightmare.json](./361548-groove-coaster-marry-me-nightmare.json) |
+| Groove Coaster: Night of Knights / Knight of Nights | 361537 | [361537-groove-coaster-night-of-knights-knight-of-nights.json](./361537-groove-coaster-night-of-knights-knight-of-nights.json) |
+| Groove Coaster: Pixel Star | 361520 | [361520-groove-coaster-pixel-star.json](./361520-groove-coaster-pixel-star.json) |
+| Groove Coaster: Reversal Process | 361538 | [361538-groove-coaster-reversal-process.json](./361538-groove-coaster-reversal-process.json) |
+| Groove Coaster: Saishuu Kichiku Imouto Flandre S | 361523 | [361523-groove-coaster-saishuu-kichiku-imouto-flandre-s.json](./361523-groove-coaster-saishuu-kichiku-imouto-flandre-s.json) |
+| Groove Coaster: Secret God Matara (Hyper Techno Mix) | 361552 | [361552-groove-coaster-secret-god-matara-hyper-techno-mix.json](./361552-groove-coaster-secret-god-matara-hyper-techno-mix.json) |
+| Groove Coaster: Velvet | 361549 | [361549-groove-coaster-velvet.json](./361549-groove-coaster-velvet.json) |
+| Groove Coaster: Volt | 361531 | [361531-groove-coaster-volt.json](./361531-groove-coaster-volt.json) |
+| Groove Coaster: White World feat. Yu Oda | 361514 | [361514-groove-coaster-white-world-feat-yu-oda.json](./361514-groove-coaster-white-world-feat-yu-oda.json) |
+| Groove Coaster: Your Best Nightmare | 361534 | [361534-groove-coaster-your-best-nightmare.json](./361534-groove-coaster-your-best-nightmare.json) |
 | Grotto Escape | 392032 | [392032-grotto-escape.json](./392032-grotto-escape.json) |
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
 | Groundwork | 414970 | [414970-groundwork.json](./414970-groundwork.json) |
+| Grove Keeper | 361506 | [361506-grove-keeper.json](./361506-grove-keeper.json) |
 | Grow Demon Slimes | 398883 | [398883-grow-demon-slimes.json](./398883-grow-demon-slimes.json) |
 | Growth | 238644 | [238644-growth.json](./238644-growth.json) |
 | GS Mikami: Joreishi ha Nice Body | 42373 | [42373-gs-mikami-joreishi-ha-nice-body.json](./42373-gs-mikami-joreishi-ha-nice-body.json) |
