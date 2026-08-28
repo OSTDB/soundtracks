@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Dream of Demons | 392063 | [392063-i-dream-of-demons.json](./392063-i-dream-of-demons.json) |
+| I Found the Well | 385465 | [385465-i-found-the-well.json](./385465-i-found-the-well.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I Just Wanted to Talk About Halo | 394021 | [394021-i-just-wanted-to-talk-about-halo.json](./394021-i-just-wanted-to-talk-about-halo.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
@@ -19,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
 | I'm a Big Fan | 413567 | [413567-im-a-big-fan.json](./413567-im-a-big-fan.json) |
+| I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
