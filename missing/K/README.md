@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubz VR | 31532 | [31532-kubz-vr.json](./31532-kubz-vr.json) |
 | Kuitaiyou | 398256 | [398256-kuitaiyou.json](./398256-kuitaiyou.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
+| Kultapossu ja Leo Leijona: Sateenkaarivarkaat | 370514 | [370514-kultapossu-ja-leo-leijona-sateenkaarivarkaat.json](./370514-kultapossu-ja-leo-leijona-sateenkaarivarkaat.json) |
 | Kung Fu Panda: Train Like a Master | 382618 | [382618-kung-fu-panda-train-like-a-master.json](./382618-kung-fu-panda-train-like-a-master.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru Kuru Kururin | 1469 | [1469-kuru-kuru-kururin.json](./1469-kuru-kuru-kururin.json) |
 | Kurupoto Cool Cool Stars | 47794 | [47794-kurupoto-cool-cool-stars.json](./47794-kurupoto-cool-cool-stars.json) |
 | Kvartirant | 387236 | [387236-kvartirant.json](./387236-kvartirant.json) |
+| Kwyjibo Adventure | 370508 | [370508-kwyjibo-adventure.json](./370508-kwyjibo-adventure.json) |
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
 | Kyojin-tachi Zero Div1 | 376338 | [376338-kyojin-tachi-zero-div1.json](./376338-kyojin-tachi-zero-div1.json) |
