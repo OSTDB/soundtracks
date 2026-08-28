@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
+| E9uations | 374448 | [374448-e9uations.json](./374448-e9uations.json) |
 | EA Sports Active | 4826 | [4826-ea-sports-active.json](./4826-ea-sports-active.json) |
 | EA Sports FIFA 18 & NBA LIVE 18: The One Edition Bundle | 86669 | [86669-ea-sports-fifa-18-and-nba-live-18-the-one-edition-bundle.json](./86669-ea-sports-fifa-18-and-nba-live-18-the-one-edition-bundle.json) |
 | EA Sports FIFA 18 and Need for Speed Payback Bundle | 86670 | [86670-ea-sports-fifa-18-and-need-for-speed-payback-bundle.json](./86670-ea-sports-fifa-18-and-need-for-speed-payback-bundle.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
 | Emoji Battlefield: Island Warfare | 392610 | [392610-emoji-battlefield-island-warfare.json](./392610-emoji-battlefield-island-warfare.json) |
 | Emoji Killer: Casino Massacre | 414230 | [414230-emoji-killer-casino-massacre.json](./414230-emoji-killer-casino-massacre.json) |
+| EmPipe | 374457 | [374457-empipe.json](./374457-empipe.json) |
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
