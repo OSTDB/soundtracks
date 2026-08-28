@@ -171,10 +171,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
 | Riverhill Trials | 89422 | [89422-riverhill-trials.json](./89422-riverhill-trials.json) |
+| RK Override | 388615 | [388615-rk-override.json](./388615-rk-override.json) |
 | RMN Soup | 407915 | [407915-rmn-soup.json](./407915-rmn-soup.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
 | Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
