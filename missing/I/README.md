@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I Just Wanted to Talk About Halo | 394021 | [394021-i-just-wanted-to-talk-about-halo.json](./394021-i-just-wanted-to-talk-about-halo.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
+| I Wanna Be The Fangame | 386574 | [386574-i-wanna-be-the-fangame.json](./386574-i-wanna-be-the-fangame.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
