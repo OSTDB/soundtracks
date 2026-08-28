@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
+| Reincarnation in Another World | 367242 | [367242-reincarnation-in-another-world.json](./367242-reincarnation-in-another-world.json) |
 | Reines Du Sabbat: Queen of Sacrifice | 386023 | [386023-reines-du-sabbat-queen-of-sacrifice.json](./386023-reines-du-sabbat-queen-of-sacrifice.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
