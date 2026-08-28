@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 311 | 410112 | [410112-311.json](./410112-311.json) |
+| 33 Days till Extraction | 398867 | [398867-33-days-till-extraction.json](./398867-33-days-till-extraction.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
