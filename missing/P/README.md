@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Poet | 396047 | [396047-panda-poet.json](./396047-panda-poet.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
+| Panel Attack | 379739 | [379739-panel-attack.json](./379739-panel-attack.json) |
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
 | Pankapu | 24440 | [24440-pankapu.json](./24440-pankapu.json) |
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Garden | 389888 | [389888-pinball-garden.json](./389888-pinball-garden.json) |
 | Pinfall | 391465 | [391465-pinfall.json](./391465-pinfall.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
+| Pǐnuòcáo de Fùsū | 379763 | [379763-pinuocao-de-fusu.json](./379763-pinuocao-de-fusu.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
 | Pippin Please | 398245 | [398245-pippin-please.json](./398245-pippin-please.json) |
 | Pirate Havoc | 401423 | [401423-pirate-havoc.json](./401423-pirate-havoc.json) |
@@ -369,4 +371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Playing Cards | 384377 | [384377-puzzle-playing-cards.json](./384377-puzzle-playing-cards.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
+| Puzzling Places: Monthly Pack #38 - Fall & Fright | 379764 | [379764-puzzling-places-monthly-pack-38-fall-and-fright.json](./379764-puzzling-places-monthly-pack-38-fall-and-fright.json) |
+| Puzzling Places: Tokyo | 379765 | [379765-puzzling-places-tokyo.json](./379765-puzzling-places-tokyo.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
