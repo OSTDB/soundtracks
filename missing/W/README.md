@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do you hear?? Yanny vs Laurel | 102221 | [102221-what-do-you-hear-yanny-vs-laurel.json](./102221-what-do-you-hear-yanny-vs-laurel.json) |
 | What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
 | What the Bat? | 204348 | [204348-what-the-bat.json](./204348-what-the-bat.json) |
+| What the Dog Doing? | 410773 | [410773-what-the-dog-doing.json](./410773-what-the-dog-doing.json) |
 | Wheels of Aurelia | 24463 | [24463-wheels-of-aurelia.json](./24463-wheels-of-aurelia.json) |
 | When She's Gone | 412149 | [412149-when-shes-gone.json](./412149-when-shes-gone.json) |
 | When the Darkness comes | 114420 | [114420-when-the-darkness-comes.json](./114420-when-the-darkness-comes.json) |
@@ -100,9 +101,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
+| Wiseman: No More Breakups | 410752 | [410752-wiseman-no-more-breakups.json](./410752-wiseman-no-more-breakups.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
+| Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
@@ -140,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
+| Wreckreation 2 | 410777 | [410777-wreckreation-2.json](./410777-wreckreation-2.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
