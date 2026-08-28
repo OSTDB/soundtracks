@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Adventure | 386571 | [386571-sea-adventure.json](./386571-sea-adventure.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
+| Sea of Thieves: Season 18 - Return to the Devil's Roar | 382621 | [382621-sea-of-thieves-season-18-return-to-the-devils-roar.json](./382621-sea-of-thieves-season-18-return-to-the-devils-roar.json) |
 | Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
 | Search | 384390 | [384390-search.json](./384390-search.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
+| Skam | 382605 | [382605-skam.json](./382605-skam.json) |
 | Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
@@ -347,6 +349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solheart: The Hollow Sun | 386005 | [386005-solheart-the-hollow-sun.json](./386005-solheart-the-hollow-sun.json) |
+| Solid Link: Dungeon Side | 382624 | [382624-solid-link-dungeon-side.json](./382624-solid-link-dungeon-side.json) |
+| Solid Link: Tower Side | 382625 | [382625-solid-link-tower-side.json](./382625-solid-link-tower-side.json) |
 | Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solitaire Associations Journey | 383811 | [383811-solitaire-associations-journey.json](./383811-solitaire-associations-journey.json) |
@@ -675,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen L | 66434 | [66434-super-robot-taisen-l.json](./66434-super-robot-taisen-l.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
+| Super Shout Showdown | 382606 | [382606-super-shout-showdown.json](./382606-super-shout-showdown.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Spring Ninja | 31443 | [31443-super-spring-ninja.json](./31443-super-spring-ninja.json) |
 | Super Stardust Ultra | 11218 | [11218-super-stardust-ultra.json](./11218-super-stardust-ultra.json) |
