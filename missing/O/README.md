@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run 2 - Gold Edition | 402179 | [402179-om-nom-run-2-gold-edition.json](./402179-om-nom-run-2-gold-edition.json) |
 | Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
+| Omega Point | 366062 | [366062-omega-point.json](./366062-omega-point.json) |
 | Omnipresent | 34443 | [34443-omnipresent.json](./34443-omnipresent.json) |
 | Omori: Collector's Edition | 376346 | [376346-omori-collectors-edition.json](./376346-omori-collectors-edition.json) |
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
+| One Day of Romance | 366083 | [366083-one-day-of-romance.json](./366083-one-day-of-romance.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Halloween Night | 374454 | [374454-one-halloween-night.json](./374454-one-halloween-night.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit to Riches | 399520 | [399520-orbit-to-riches.json](./399520-orbit-to-riches.json) |
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orbital | 386583 | [386583-orbital.json](./386583-orbital.json) |
+| Orbital Purge | 366057 | [366057-orbital-purge.json](./366057-orbital-purge.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
