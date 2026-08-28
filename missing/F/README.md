@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Record Keeper | 26981 | [26981-final-fantasy-record-keeper.json](./26981-final-fantasy-record-keeper.json) |
 | Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
+| Find All: Christmas 2025 | 382656 | [382656-find-all-christmas-2025.json](./382656-find-all-christmas-2025.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
 | Find the Cats | 407935 | [407935-find-the-cats.json](./407935-find-the-cats.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock! | 14929 | [14929-flock.json](./14929-flock.json) |
 | Floral Aroma in the Shrine | 107699 | [107699-floral-aroma-in-the-shrine.json](./107699-floral-aroma-in-the-shrine.json) |
 | Florida Man Court | 409454 | [409454-florida-man-court.json](./409454-florida-man-court.json) |
+| Floriety | 382635 | [382635-floriety.json](./382635-floriety.json) |
 | flOw | 1353 | [1353-flow.json](./1353-flow.json) |
 | Flowers to Honey | 399518 | [399518-flowers-to-honey.json](./399518-flowers-to-honey.json) |
 | Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
