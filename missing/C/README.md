@@ -116,7 +116,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlatan | 400770 | [400770-charlatan.json](./400770-charlatan.json) |
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
+| Chattle! | 393330 | [393330-chattle.json](./393330-chattle.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
+| Chess | 393335 | [393335-chess.json](./393335-chess.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
 | Chess Club Manager | 399450 | [399450-chess-club-manager.json](./399450-chess-club-manager.json) |
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
 | Coloring Pixels: Jigsaw Pack | 407230 | [407230-coloring-pixels-jigsaw-pack.json](./407230-coloring-pixels-jigsaw-pack.json) |
+| Colors/Forest | 393343 | [393343-colors-forest.json](./393343-colors-forest.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colours of Courage | 397542 | [397542-colours-of-courage.json](./397542-colours-of-courage.json) |
