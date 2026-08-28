@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Elmore | 403507 | [403507-call-of-elmore.json](./403507-call-of-elmore.json) |
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
+| Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
+| Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
 | Clash of Armadas: Koxinga | 406586 | [406586-clash-of-armadas-koxinga.json](./406586-clash-of-armadas-koxinga.json) |
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
@@ -257,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
 | Cooking Tycoons: 3 in 1 Bundle - Definitive Edition | 402173 | [402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json](./402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json) |
+| Cooking Tycoons: 3 in 1 Bundle - Deluxe Edition | 394745 | [394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json](./394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json) |
 | Cool Story Bro! | 396054 | [396054-cool-story-bro.json](./396054-cool-story-bro.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
@@ -350,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
+| Cup Heroes: Champion's Starter Pack | 394746 | [394746-cup-heroes-champions-starter-pack.json](./394746-cup-heroes-champions-starter-pack.json) |
 | Cup Or Die | 395436 | [395436-cup-or-die.json](./395436-cup-or-die.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Curious Copy Cats | 402167 | [402167-curious-copy-cats.json](./402167-curious-copy-cats.json) |
