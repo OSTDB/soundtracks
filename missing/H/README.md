@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
+| Hackerman | 401398 | [401398-hackerman.json](./401398-hackerman.json) |
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
 | Hairy Little Buggers | 34381 | [34381-hairy-little-buggers.json](./34381-hairy-little-buggers.json) |
@@ -125,9 +126,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Homushikku | 402211 | [402211-homushikku.json](./402211-homushikku.json) |
+| Honey Sprint | 401397 | [401397-honey-sprint.json](./401397-honey-sprint.json) |
 | Hong Kong Ninja | 404107 | [404107-hong-kong-ninja.json](./404107-hong-kong-ninja.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
+| Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
