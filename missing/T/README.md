@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.D.Z. 4: Chapter 1 - Arrival | 365511 | [365511-t-d-z-4-chapter-1-arrival.json](./365511-t-d-z-4-chapter-1-arrival.json) |
 | T7's Basics in Educational | 411476 | [411476-t7s-basics-in-educational.json](./411476-t7s-basics-in-educational.json) |
 | Table 9 | 405408 | [405408-table-9.json](./405408-table-9.json) |
+| Table Tactics | 359270 | [359270-table-tactics.json](./359270-table-tactics.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
@@ -61,8 +62,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasogare no Shape Shifter | 382038 | [382038-tasogare-no-shape-shifter.json](./382038-tasogare-no-shape-shifter.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Tattered Banners | 387214 | [387214-tattered-banners.json](./387214-tattered-banners.json) |
+| Tawa: Lost in Time | 359224 | [359224-tawa-lost-in-time.json](./359224-tawa-lost-in-time.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
 | Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
+| Taxi: Average City | 359248 | [359248-taxi-average-city.json](./359248-taxi-average-city.json) |
 | Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
 | Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
 | Techmino | 371732 | [371732-techmino.json](./371732-techmino.json) |
@@ -127,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Twist Poker 3 Bandit's Run | 373937 | [373937-texas-twist-poker-3-bandits-run.json](./373937-texas-twist-poker-3-bandits-run.json) |
 | That Time I Got Reincarnated as a Tyrant God | 403465 | [403465-that-time-i-got-reincarnated-as-a-tyrant-god.json](./403465-that-time-i-got-reincarnated-as-a-tyrant-god.json) |
 | The 1% Club World Challenge | 396117 | [396117-the-1-club-world-challenge.json](./396117-the-1-club-world-challenge.json) |
+| The 1500 Year Old Forest Elf and My Anti-materiel Sniper Rifle | 359266 | [359266-the-1500-year-old-forest-elf-and-my-anti-materiel-sniper-rifle.json](./359266-the-1500-year-old-forest-elf-and-my-anti-materiel-sniper-rifle.json) |
 | The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
@@ -173,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
 | The Celestial Seeker | 380271 | [380271-the-celestial-seeker.json](./380271-the-celestial-seeker.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
+| The Cheated Man's Revenge: Triple the Payback | 359255 | [359255-the-cheated-mans-revenge-triple-the-payback.json](./359255-the-cheated-mans-revenge-triple-the-payback.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clockwork Man | 15147 | [15147-the-clockwork-man.json](./15147-the-clockwork-man.json) |
@@ -210,7 +215,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doors to Netherwhere | 379733 | [379733-the-doors-to-netherwhere.json](./379733-the-doors-to-netherwhere.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
 | The Dreaded Hut | 376324 | [376324-the-dreaded-hut.json](./376324-the-dreaded-hut.json) |
+| The Dreamcatcher | 359260 | [359260-the-dreamcatcher.json](./359260-the-dreamcatcher.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
+| The E-Collector | 359247 | [359247-the-e-collector.json](./359247-the-e-collector.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Eighth Continent 2 | 369392 | [369392-the-eighth-continent-2.json](./369392-the-eighth-continent-2.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
