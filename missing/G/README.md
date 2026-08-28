@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomed | 390422 | [390422-gnomed.json](./390422-gnomed.json) |
 | Gnomes on the Roam | 385461 | [385461-gnomes-on-the-roam.json](./385461-gnomes-on-the-roam.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
+| Go | 371662 | [371662-go.json](./371662-go.json) |
 | Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
 | Goat Mode: Activated | 376298 | [376298-goat-mode-activated.json](./376298-goat-mode-activated.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
 | Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
+| God of Gamblers | 371677 | [371677-god-of-gamblers.json](./371677-god-of-gamblers.json) |
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat Willie | 412879 | [412879-gunboat-willie.json](./412879-gunboat-willie.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
+| Guns of Salvation | 371727 | [371727-guns-of-salvation.json](./371727-guns-of-salvation.json) |
 | Guns, Princess and Braves | 403473 | [403473-guns-princess-and-braves.json](./403473-guns-princess-and-braves.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
