@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
 | Mad Scientist Simulator – Society of World Destruction | 392637 | [392637-mad-scientist-simulator-society-of-world-destruction.json](./392637-mad-scientist-simulator-society-of-world-destruction.json) |
+| Mad Tilly's: Magical Amulets | 385473 | [385473-mad-tillys-magical-amulets.json](./385473-mad-tillys-magical-amulets.json) |
 | Mad Tracks | 4982 | [4982-mad-tracks.json](./4982-mad-tracks.json) |
 | Madden NFL 07 | 243012 | [243012-madden-nfl-07.json](./243012-madden-nfl-07.json) |
 | Madden NFL 08 | 2746 | [2746-madden-nfl-08.json](./2746-madden-nfl-08.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
+| MetaChess | 385475 | [385475-metachess.json](./385475-metachess.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 - Day One Edition | 390965 | [390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json](./390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json) |
