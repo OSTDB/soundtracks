@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
 | Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
+| CriminalZ | 377438 | [377438-criminalz.json](./377438-criminalz.json) |
 | Crimson Banner: War of Liberation | 390406 | [390406-crimson-banner-war-of-liberation.json](./390406-crimson-banner-war-of-liberation.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Crimson Loop | 402794 | [402794-crimson-loop.json](./402794-crimson-loop.json) |
