@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
 | In Tow | 396062 | [396062-in-tow.json](./396062-in-tow.json) |
+| Inanimate Insanity: Sweet Memories | 386054 | [386054-inanimate-insanity-sweet-memories.json](./386054-inanimate-insanity-sweet-memories.json) |
 | Inanis: Into the Abyss | 391502 | [391502-inanis-into-the-abyss.json](./391502-inanis-into-the-abyss.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
