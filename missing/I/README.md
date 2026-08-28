@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
 | Invincible Vs.: Double Dimensions - Skin Bundle | 400147 | [400147-invincible-vs-double-dimensions-skin-bundle.json](./400147-invincible-vs-double-dimensions-skin-bundle.json) |
 | Invincible Vs.: Ella Mental - Diamond Skin | 400153 | [400153-invincible-vs-ella-mental-diamond-skin.json](./400153-invincible-vs-ella-mental-diamond-skin.json) |
+| Inworld Origins | 393327 | [393327-inworld-origins.json](./393327-inworld-origins.json) |
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
