@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze Vol. 1 | 364938 | [364938-raze-vol-1.json](./364938-raze-vol-1.json) |
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
+| Razor: Salvation | 364318 | [364318-razor-salvation.json](./364318-razor-salvation.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
 | RD Racing | 390970 | [390970-rd-racing.json](./390970-rd-racing.json) |
 | Re: GSpot Master | 382062 | [382062-re-gspot-master.json](./382062-re-gspot-master.json) |
