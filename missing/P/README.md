@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
 | Paper Strike | 405404 | [405404-paper-strike.json](./405404-paper-strike.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
+| PaperCars Tycoon | 364321 | [364321-papercars-tycoon.json](./364321-papercars-tycoon.json) |
 | Papercut Art Gallery: Nature II | 392673 | [392673-papercut-art-gallery-nature-ii.json](./392673-papercut-art-gallery-nature-ii.json) |
 | PapiBounce | 87565 | [87565-papibounce.json](./87565-papibounce.json) |
 | PapiCannon | 87567 | [87567-papicannon.json](./87567-papicannon.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
+| Pawtumn: The Parkside Purrsuit! | 364281 | [364281-pawtumn-the-parkside-purrsuit.json](./364281-pawtumn-the-parkside-purrsuit.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | Payday 3: Delivery Charge Heist | 366669 | [366669-payday-3-delivery-charge-heist.json](./366669-payday-3-delivery-charge-heist.json) |
 | PBS Kids Games | 383813 | [383813-pbs-kids-games.json](./383813-pbs-kids-games.json) |
@@ -138,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Of The Lily | 393326 | [393326-phantom-of-the-lily.json](./393326-phantom-of-the-lily.json) |
 | Phantom of Time | 384407 | [384407-phantom-of-time.json](./384407-phantom-of-time.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
+| Phantomware 0 | 364282 | [364282-phantomware-0.json](./364282-phantomware-0.json) |
 | Pharma Craft | 389886 | [389886-pharma-craft.json](./389886-pharma-craft.json) |
 | Pharmacy Store Simulator | 400756 | [400756-pharmacy-store-simulator.json](./400756-pharmacy-store-simulator.json) |
 | Pharmacy Store Simulator | 368847 | [368847-pharmacy-store-simulator.json](./368847-pharmacy-store-simulator.json) |
@@ -182,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Garden | 389888 | [389888-pinball-garden.json](./389888-pinball-garden.json) |
 | Pinfall | 391465 | [391465-pinfall.json](./391465-pinfall.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
+| Pinko Ponko | 364284 | [364284-pinko-ponko.json](./364284-pinko-ponko.json) |
 | Pǐnuòcáo de Fùsū | 379763 | [379763-pinuocao-de-fusu.json](./379763-pinuocao-de-fusu.json) |
 | Pionero Capital | 365498 | [365498-pionero-capital.json](./365498-pionero-capital.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
@@ -231,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Drop | 364939 | [364939-planet-drop.json](./364939-planet-drop.json) |
 | Planet Harvester: Incremental Odyssey | 406582 | [406582-planet-harvester-incremental-odyssey.json](./406582-planet-harvester-incremental-odyssey.json) |
 | Planet of the Apes | 23692 | [23692-planet-of-the-apes.json](./23692-planet-of-the-apes.json) |
+| Planet Work | 364325 | [364325-planet-work.json](./364325-planet-work.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | Planetary Inc. | 389907 | [389907-planetary-inc.json](./389907-planetary-inc.json) |
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
@@ -245,8 +250,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle | 110112 | [110112-pleasure-puzzle.json](./110112-pleasure-puzzle.json) |
 | Pleasure Puzzle:Workshop | 109644 | [109644-pleasure-puzzle-workshop.json](./109644-pleasure-puzzle-workshop.json) |
 | Pleh! | 224570 | [224570-pleh.json](./224570-pleh.json) |
+| Plinkidle | 364285 | [364285-plinkidle.json](./364285-plinkidle.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Plushes | 368838 | [368838-plushes.json](./368838-plushes.json) |
+| Pluto: Cave Mission Prologue | 364286 | [364286-pluto-cave-mission-prologue.json](./364286-pluto-cave-mission-prologue.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
 | Pocket Gecko | 374483 | [374483-pocket-gecko.json](./374483-pocket-gecko.json) |
