@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Simmiland | 111436 | [111436-simmiland.json](./111436-simmiland.json) |
+| Simon Swapper | 413529 | [413529-simon-swapper.json](./413529-simon-swapper.json) |
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
 | Simon the Sorcerer: 25th Anniversary Edition | 95120 | [95120-simon-the-sorcerer-25th-anniversary-edition.json](./95120-simon-the-sorcerer-25th-anniversary-edition.json) |
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace Crafting | 46487 | [46487-solace-crafting.json](./46487-solace-crafting.json) |
 | Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
+| Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
+| Spirit Ritual | 413537 | [413537-spirit-ritual.json](./413537-spirit-ritual.json) |
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
@@ -280,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
+| Square Space | 413524 | [413524-square-space.json](./413524-square-space.json) |
 | Squid Hero for Kinect | 20954 | [20954-squid-hero-for-kinect.json](./20954-squid-hero-for-kinect.json) |
 | Squids From Space | 46758 | [46758-squids-from-space.json](./46758-squids-from-space.json) |
 | Squirrel with a Gun | 213473 | [213473-squirrel-with-a-gun.json](./213473-squirrel-with-a-gun.json) |
@@ -346,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
+| Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Straima | 34500 | [34500-straima.json](./34500-straima.json) |
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
@@ -448,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
+| Swap Meet | 413522 | [413522-swap-meet.json](./413522-swap-meet.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
