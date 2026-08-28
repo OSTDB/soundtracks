@@ -49,7 +49,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
+| Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
+| Car Simulator: Driving School | 409487 | [409487-car-simulator-driving-school.json](./409487-car-simulator-driving-school.json) |
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
+| Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colours of Magic: Aqua Teeter | 32950 | [32950-colours-of-magic-aqua-teeter.json](./32950-colours-of-magic-aqua-teeter.json) |
@@ -187,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations | 123352 | [123352-command-modern-operations.json](./123352-command-modern-operations.json) |
 | Command: Modern Operations - Northern Inferno | 24607 | [24607-command-modern-operations-northern-inferno.json](./24607-command-modern-operations-northern-inferno.json) |
 | Commander Keen in Aliens Ate My Baby Sitter! | 2446 | [2446-commander-keen-in-aliens-ate-my-baby-sitter.json](./2446-commander-keen-in-aliens-ate-my-baby-sitter.json) |
+| Common Sense National Championship | 409485 | [409485-common-sense-national-championship.json](./409485-common-sense-national-championship.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
 | Condemned 2: Recompiled | 412833 | [412833-condemned-2-recompiled.json](./412833-condemned-2-recompiled.json) |
@@ -226,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
 | Covr | 413534 | [413534-covr.json](./413534-covr.json) |
+| Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
@@ -248,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
 | Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
