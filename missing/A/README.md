@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
 | Astrovader 3D | 385482 | [385482-astrovader-3d.json](./385482-astrovader-3d.json) |
 | Aswang Hunter | 414189 | [414189-aswang-hunter.json](./414189-aswang-hunter.json) |
+| Asylium | 380256 | [380256-asylium.json](./380256-asylium.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
 | Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
 | Atelier Annie: Alchemists of Sera Island | 24262 | [24262-atelier-annie-alchemists-of-sera-island.json](./24262-atelier-annie-alchemists-of-sera-island.json) |
