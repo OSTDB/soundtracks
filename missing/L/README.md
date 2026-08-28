@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
 | Late Night DJ | 402777 | [402777-late-night-dj.json](./402777-late-night-dj.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
+| Latitude of the Cult | 392036 | [392036-latitude-of-the-cult.json](./392036-latitude-of-the-cult.json) |
 | Laura Bailey Mysteries | 414248 | [414248-laura-bailey-mysteries.json](./414248-laura-bailey-mysteries.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
