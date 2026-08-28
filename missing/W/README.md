@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
+| Wonderful Richman | 368862 | [368862-wonderful-richman.json](./368862-wonderful-richman.json) |
 | Wooden Block Puzzle Game | 87653 | [87653-wooden-block-puzzle-game.json](./87653-wooden-block-puzzle-game.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
 | Woodland Warriors | 383214 | [383214-woodland-warriors.json](./383214-woodland-warriors.json) |
