@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
+| Dead End | 413546 | [413546-dead-end.json](./413546-dead-end.json) |
 | Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
 | Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
+| Donuts for Rollio | 413518 | [413518-donuts-for-rollio.json](./413518-donuts-for-rollio.json) |
 | Doodle Mafia | 29367 | [29367-doodle-mafia.json](./29367-doodle-mafia.json) |
 | Doom | 259939 | [259939-doom.json](./259939-doom.json) |
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
@@ -273,12 +275,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
+| Drifters: Blackout Crew | 413536 | [413536-drifters-blackout-crew.json](./413536-drifters-blackout-crew.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
 | Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
+| DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
 | Drug Dealer Simulator 2 | 224619 | [224619-drug-dealer-simulator-2.json](./224619-drug-dealer-simulator-2.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
@@ -286,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
+| Duet Night Abyss: The Wind Awakening, Part 1 | 413547 | [413547-duet-night-abyss-the-wind-awakening-part-1.json](./413547-duet-night-abyss-the-wind-awakening-part-1.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
 | Duke Nukem: Critical Mass | 47967 | [47967-duke-nukem-critical-mass.json](./47967-duke-nukem-critical-mass.json) |
