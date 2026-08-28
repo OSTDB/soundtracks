@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
 | NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
 | Nevermind | 14176 | [14176-nevermind.json](./14176-nevermind.json) |
+| Neverness to Everness: Dreamwalk Corridor | 402785 | [402785-neverness-to-everness-dreamwalk-corridor.json](./402785-neverness-to-everness-dreamwalk-corridor.json) |
 | Neverwinter | 1908 | [1908-neverwinter.json](./1908-neverwinter.json) |
 | Neverwinter Nights 2: Gold | 22588 | [22588-neverwinter-nights-2-gold.json](./22588-neverwinter-nights-2-gold.json) |
 | Neverwinter Nights: Hordes of the Underdark | 7900 | [7900-neverwinter-nights-hordes-of-the-underdark.json](./7900-neverwinter-nights-hordes-of-the-underdark.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
 | Night Rolls Cozy Store | 407211 | [407211-night-rolls-cozy-store.json](./407211-night-rolls-cozy-store.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
+| Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
