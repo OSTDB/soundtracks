@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
+| Codename: Typhoon | 390963 | [390963-codename-typhoon.json](./390963-codename-typhoon.json) |
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
 | Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
