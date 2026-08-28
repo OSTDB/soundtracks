@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
 | Honkai: Star Rail - No Aha At Full Moon | 388573 | [388573-honkai-star-rail-no-aha-at-full-moon.json](./388573-honkai-star-rail-no-aha-at-full-moon.json) |
+| Honto ni Atta! Noroi no Choujou Genshou Chousa-sha | 371712 | [371712-honto-ni-atta-noroi-no-choujou-genshou-chousa-sha.json](./371712-honto-ni-atta-noroi-no-choujou-genshou-chousa-sha.json) |
 | Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Hopzi | 372851 | [372851-hopzi.json](./372851-hopzi.json) |
