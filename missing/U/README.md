@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
 | Unemployed Nightmare Together | 410138 | [410138-unemployed-nightmare-together.json](./410138-unemployed-nightmare-together.json) |
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
+| Unholy Employer Simulator | 408644 | [408644-unholy-employer-simulator.json](./408644-unholy-employer-simulator.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
