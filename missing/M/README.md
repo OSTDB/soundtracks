@@ -180,6 +180,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Regenesis | 410146 | [410146-mega-man-x-regenesis.json](./410146-mega-man-x-regenesis.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Mega Man: Starburst | 376350 | [376350-mega-man-starburst.json](./376350-mega-man-starburst.json) |
+| Mega Simulator Bundle | 376355 | [376355-mega-simulator-bundle.json](./376355-mega-simulator-bundle.json) |
 | Mega Turrican Director's Cut | 395455 | [395455-mega-turrican-directors-cut.json](./395455-mega-turrican-directors-cut.json) |
 | Megabait | 408676 | [408676-megabait.json](./408676-megabait.json) |
 | Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
