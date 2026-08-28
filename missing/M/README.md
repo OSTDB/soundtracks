@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 19 | 102122 | [102122-madden-nfl-19.json](./102122-madden-nfl-19.json) |
 | Madden NFL 2003 | 776 | [776-madden-nfl-2003.json](./776-madden-nfl-2003.json) |
 | MadHouse for Toys | 412857 | [412857-madhouse-for-toys.json](./412857-madhouse-for-toys.json) |
+| Madness Online | 394054 | [394054-madness-online.json](./394054-madness-online.json) |
 | Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
 | MageML | 397570 | [397570-mageml.json](./397570-mageml.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
+| Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
@@ -119,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
+| Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
@@ -376,8 +379,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Tower 2 | 29847 | [29847-my-super-tower-2.json](./29847-my-super-tower-2.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
+| My Wet Leto Comic: Fan Anthem of Deduction | 393994 | [393994-my-wet-leto-comic-fan-anthem-of-deduction.json](./393994-my-wet-leto-comic-fan-anthem-of-deduction.json) |
 | Mym's Sword | 402812 | [402812-myms-sword.json](./402812-myms-sword.json) |
 | MyMemory | 397562 | [397562-mymemory.json](./397562-mymemory.json) |
+| MyNewSMBW Traditional Mod | 394014 | [394014-mynewsmbw-traditional-mod.json](./394014-mynewsmbw-traditional-mod.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysteries of the Undead: The Cursed Island | 116331 | [116331-mysteries-of-the-undead-the-cursed-island.json](./116331-mysteries-of-the-undead-the-cursed-island.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
