@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
+| Fish3: First Catch | 373368 | [373368-fish3-first-catch.json](./373368-fish3-first-catch.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
 | Fishing Master | 400772 | [400772-fishing-master.json](./400772-fishing-master.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | Five Nights At Monkeys: Flat Mode | 389300 | [389300-five-nights-at-monkeys-flat-mode.json](./389300-five-nights-at-monkeys-flat-mode.json) |
 | Five Nights at Pingas 2 | 404138 | [404138-five-nights-at-pingas-2.json](./404138-five-nights-at-pingas-2.json) |
+| Five Nights with Tung Tung Sahur | 373379 | [373379-five-nights-with-tung-tung-sahur.json](./373379-five-nights-with-tung-tung-sahur.json) |
 | Fix & Flip Dream House | 396104 | [396104-fix-and-flip-dream-house.json](./396104-fix-and-flip-dream-house.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame & Forge | 389903 | [389903-flame-and-forge.json](./389903-flame-and-forge.json) |
@@ -218,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
+| Food Truck Kingdom | 373380 | [373380-food-truck-kingdom.json](./373380-food-truck-kingdom.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
 | Fool's Cup | 374464 | [374464-fools-cup.json](./374464-fools-cup.json) |
 | Football AFK | 390387 | [390387-football-afk.json](./390387-football-afk.json) |
