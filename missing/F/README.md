@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
+| Football AFK | 390387 | [390387-football-afk.json](./390387-football-afk.json) |
 | Football Cup 2026 | 396103 | [396103-football-cup-2026.json](./396103-football-cup-2026.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
 | Football Legends 2025: Platinium Edition | 402172 | [402172-football-legends-2025-platinium-edition.json](./402172-football-legends-2025-platinium-edition.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 2 | 91995 | [91995-fran-bow-chapter-2.json](./91995-fran-bow-chapter-2.json) |
 | Fran Bow Chapter 3 | 91977 | [91977-fran-bow-chapter-3.json](./91977-fran-bow-chapter-3.json) |
 | Frankenstein Master of Death | 27925 | [27925-frankenstein-master-of-death.json](./27925-frankenstein-master-of-death.json) |
+| Freaking Hallway | 390393 | [390393-freaking-hallway.json](./390393-freaking-hallway.json) |
 | Freakyforms Deluxe: Your Creations, Alive! | 24225 | [24225-freakyforms-deluxe-your-creations-alive.json](./24225-freakyforms-deluxe-your-creations-alive.json) |
 | Fredbear Runaway | 404105 | [404105-fredbear-runaway.json](./404105-fredbear-runaway.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
