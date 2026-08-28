@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 3659 | [3659-joust.json](./3659-joust.json) |
 | Joy Piano | 396109 | [396109-joy-piano.json](./396109-joy-piano.json) |
 | JQ: countries | 86451 | [86451-jq-countries.json](./86451-jq-countries.json) |
+| JSON: VR Sandbox | 394706 | [394706-json-vr-sandbox.json](./394706-json-vr-sandbox.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
 | Jump Like A Pirate | 29760 | [29760-jump-like-a-pirate.json](./29760-jump-like-a-pirate.json) |
