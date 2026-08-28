@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 6677 | [6677-family-feud-2010-edition.json](./6677-family-feud-2010-edition.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
+| Fangstorm | 397520 | [397520-fangstorm.json](./397520-fangstorm.json) |
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Hunters | 402758 | [402758-fleet-hunters.json](./402758-fleet-hunters.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
+| Fling Up Together | 397533 | [397533-fling-up-together.json](./397533-fling-up-together.json) |
 | Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
 | Flo | 87585 | [87585-flo.json](./87585-flo.json) |
 | Flock | 210625 | [210625-flock.json](./210625-flock.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers to Honey | 399518 | [399518-flowers-to-honey.json](./399518-flowers-to-honey.json) |
 | Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
+| Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Football Game | 74524 | [74524-football-game.json](./74524-football-game.json) |
