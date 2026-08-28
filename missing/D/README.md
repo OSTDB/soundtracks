@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
+| Dawn of the Dying | 390413 | [390413-dawn-of-the-dying.json](./390413-dawn-of-the-dying.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
@@ -91,9 +92,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
 | Deadly Shaft | 403489 | [403489-deadly-shaft.json](./403489-deadly-shaft.json) |
+| Dear Journey... | 390390 | [390390-dear-journey.json](./390390-dear-journey.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
 | Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
+| Death is Sunhaired | 390405 | [390405-death-is-sunhaired.json](./390405-death-is-sunhaired.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
 | Death Ray Manta SE | 22150 | [22150-death-ray-manta-se.json](./22150-death-ray-manta-se.json) |
 | Death Run | 407257 | [407257-death-run.json](./407257-death-run.json) |
@@ -272,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
+| Don't Crack! | 390418 | [390418-dont-crack.json](./390418-dont-crack.json) |
 | Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Die, Minerva! | 126345 | [126345-dont-die-minerva.json](./126345-dont-die-minerva.json) |
 | Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
@@ -295,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed | 102285 | [102285-doomed.json](./102285-doomed.json) |
 | Door Kickers 2 | 59078 | [59078-door-kickers-2.json](./59078-door-kickers-2.json) |
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
+| Dopamine Overdrive | 390428 | [390428-dopamine-overdrive.json](./390428-dopamine-overdrive.json) |
 | Dopaminer | 397548 | [397548-dopaminer.json](./397548-dopaminer.json) |
 | Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
 | Dora the Explorer: Dora Saves the Mermaids | 7975 | [7975-dora-the-explorer-dora-saves-the-mermaids.json](./7975-dora-the-explorer-dora-saves-the-mermaids.json) |
@@ -318,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Durge's Dental Clinic | 400790 | [400790-dr-durges-dental-clinic.json](./400790-dr-durges-dental-clinic.json) |
 | Dr. Luigi | 3478 | [3478-dr-luigi.json](./3478-dr-luigi.json) |
 | Dr. Robotnik's Mean Bean Machine | 4499 | [4499-dr-robotniks-mean-bean-machine.json](./4499-dr-robotniks-mean-bean-machine.json) |
+| Dr.Clone | 390419 | [390419-dr-clone.json](./390419-dr-clone.json) |
 | Dracula: Origin | 5442 | [5442-dracula-origin.json](./5442-dracula-origin.json) |
 | Dracula: The Disciple | 400793 | [400793-dracula-the-disciple.json](./400793-dracula-the-disciple.json) |
 | Draft Day Sports Pro Basketball 4 | 17947 | [17947-draft-day-sports-pro-basketball-4.json](./17947-draft-day-sports-pro-basketball-4.json) |
@@ -345,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Village 3 | 408682 | [408682-dragon-village-3.json](./408682-dragon-village-3.json) |
 | Dragon: The Bruce Lee Story | 398885 | [398885-dragon-the-bruce-lee-story.json](./398885-dragon-the-bruce-lee-story.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
+| DragonFire: Defense | 390426 | [390426-dragonfire-defense.json](./390426-dragonfire-defense.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
 | Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
 | DragonSword: Awakening | 398217 | [398217-dragonsword-awakening.json](./398217-dragonsword-awakening.json) |
@@ -401,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Critical Mass | 47967 | [47967-duke-nukem-critical-mass.json](./47967-duke-nukem-critical-mass.json) |
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
 | Duke Nukem: Zero Hour Overclocked | 400102 | [400102-duke-nukem-zero-hour-overclocked.json](./400102-duke-nukem-zero-hour-overclocked.json) |
+| DunDie | 390410 | [390410-dundie.json](./390410-dundie.json) |
 | Dungelot: Shattered Lands | 23882 | [23882-dungelot-shattered-lands.json](./23882-dungelot-shattered-lands.json) |
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
