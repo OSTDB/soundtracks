@@ -173,6 +173,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon's Untitled Screenplay | 403453 | [403453-pigeons-untitled-screenplay.json](./403453-pigeons-untitled-screenplay.json) |
 | Pigharvest5 | 399541 | [399541-pigharvest5.json](./399541-pigharvest5.json) |
 | Pigs and Wolf | 389866 | [389866-pigs-and-wolf.json](./389866-pigs-and-wolf.json) |
+| Pikmin Puzzle Card e+: No.016 - Tsunagete Pikmin: Mizu Buta | 363750 | [363750-pikmin-puzzle-card-e-no-016-tsunagete-pikmin-mizu-buta.json](./363750-pikmin-puzzle-card-e-no-016-tsunagete-pikmin-mizu-buta.json) |
+| Pikmin Puzzle Card e+: No.017 - Teku-teku Pikmin: Futa-kuchi Dokkuri | 363751 | [363751-pikmin-puzzle-card-e-no-017-teku-teku-pikmin-futa-kuchi-dokkuri.json](./363751-pikmin-puzzle-card-e-no-017-teku-teku-pikmin-futa-kuchi-dokkuri.json) |
+| Pikmin Puzzle Card e+: No.018 - Hikkonuki Pikmin: Fuusen Dokkuri | 363752 | [363752-pikmin-puzzle-card-e-no-018-hikkonuki-pikmin-fuusen-dokkuri.json](./363752-pikmin-puzzle-card-e-no-018-hikkonuki-pikmin-fuusen-dokkuri.json) |
+| Pikmin Puzzle Card e+: No.019 - Tsunagete Pikmin: Aoke Datara | 363753 | [363753-pikmin-puzzle-card-e-no-019-tsunagete-pikmin-aoke-datara.json](./363753-pikmin-puzzle-card-e-no-019-tsunagete-pikmin-aoke-datara.json) |
+| Pikmin Puzzle Card e+: No.020 - Teku-teku Pikmin: Tamako Kin | 363754 | [363754-pikmin-puzzle-card-e-no-020-teku-teku-pikmin-tamako-kin.json](./363754-pikmin-puzzle-card-e-no-020-teku-teku-pikmin-tamako-kin.json) |
+| Pikmin Puzzle Card e+: No.021 - Teku-teku Pikmin: Elec Mushi | 363755 | [363755-pikmin-puzzle-card-e-no-021-teku-teku-pikmin-elec-mushi.json](./363755-pikmin-puzzle-card-e-no-021-teku-teku-pikmin-elec-mushi.json) |
+| Pikmin Puzzle Card e+: No.022 - Teku-teku Pikmin: Oogane Mochi | 363756 | [363756-pikmin-puzzle-card-e-no-022-teku-teku-pikmin-oogane-mochi.json](./363756-pikmin-puzzle-card-e-no-022-teku-teku-pikmin-oogane-mochi.json) |
+| Pikmin Puzzle Card e+: No.023 - Kogane Mochi | 363758 | [363758-pikmin-puzzle-card-e-no-023-kogane-mochi.json](./363758-pikmin-puzzle-card-e-no-023-kogane-mochi.json) |
+| Pikmin Puzzle Card e+: No.023 - Tsunagete Pikmin: Onarashi | 363757 | [363757-pikmin-puzzle-card-e-no-023-tsunagete-pikmin-onarashi.json](./363757-pikmin-puzzle-card-e-no-023-tsunagete-pikmin-onarashi.json) |
+| Pikmin Puzzle Card e+: No.025 - Tsunagete Pikmin: Kemekuji | 363759 | [363759-pikmin-puzzle-card-e-no-025-tsunagete-pikmin-kemekuji.json](./363759-pikmin-puzzle-card-e-no-025-tsunagete-pikmin-kemekuji.json) |
+| Pikmin Puzzle Card e+: No.026 - Tsubura Me Kemekuji | 363760 | [363760-pikmin-puzzle-card-e-no-026-tsubura-me-kemekuji.json](./363760-pikmin-puzzle-card-e-no-026-tsubura-me-kemekuji.json) |
 | Pilgrims | 122766 | [122766-pilgrims.json](./122766-pilgrims.json) |
 | Pill in the Pudding | 410159 | [410159-pill-in-the-pudding.json](./410159-pill-in-the-pudding.json) |
 | Pillage | 86544 | [86544-pillage.json](./86544-pillage.json) |
