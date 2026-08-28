@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
+| Reines Du Sabbat: Queen of Sacrifice | 386023 | [386023-reines-du-sabbat-queen-of-sacrifice.json](./386023-reines-du-sabbat-queen-of-sacrifice.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
 | Relics 3: Ashes for Gold | 389319 | [389319-relics-3-ashes-for-gold.json](./389319-relics-3-ashes-for-gold.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restart Mode | 387198 | [387198-restart-mode.json](./387198-restart-mode.json) |
 | Restaurant Tycoon: My Cooking Empire - Platinium Edition | 394754 | [394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json](./394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
+| Restless Dreams | 386027 | [386027-restless-dreams.json](./386027-restless-dreams.json) |
 | Retina Rush | 393316 | [393316-retina-rush.json](./393316-retina-rush.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
@@ -184,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
+| Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
 | Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
