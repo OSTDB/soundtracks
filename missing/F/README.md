@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Father Forgets | 406027 | [406027-father-forgets.json](./406027-father-forgets.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
+| Fear is Vigilance | 385463 | [385463-fear-is-vigilance.json](./385463-fear-is-vigilance.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
 | Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearbound | 409494 | [409494-fearbound.json](./409494-fearbound.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
 | Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
+| Frozen Stillness | 385454 | [385454-frozen-stillness.json](./385454-frozen-stillness.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
