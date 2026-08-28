@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
+| The Lord of the Rings Online: Quest Pack: West Gondor | 384405 | [384405-the-lord-of-the-rings-online-quest-pack-west-gondor.json](./384405-the-lord-of-the-rings-online-quest-pack-west-gondor.json) |
 | The Lord of the Rings Online: Shadows of Angmar | 51193 | [51193-the-lord-of-the-rings-online-shadows-of-angmar.json](./51193-the-lord-of-the-rings-online-shadows-of-angmar.json) |
 | The Lord of the Rings: Return to Moria | 204460 | [204460-the-lord-of-the-rings-return-to-moria.json](./204460-the-lord-of-the-rings-return-to-moria.json) |
 | The Lost Legends of Redwall: The Scout - Act 1 | 44140 | [44140-the-lost-legends-of-redwall-the-scout-act-1.json](./44140-the-lost-legends-of-redwall-the-scout-act-1.json) |
@@ -428,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
 | Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
 | Tiny Flock | 413532 | [413532-tiny-flock.json](./413532-tiny-flock.json) |
+| Tiny Magnets | 384354 | [384354-tiny-magnets.json](./384354-tiny-magnets.json) |
 | Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
 | Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
