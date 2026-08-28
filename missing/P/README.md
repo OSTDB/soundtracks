@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop, Fizz, Cheers! | 383822 | [383822-pop-fizz-cheers.json](./383822-pop-fizz-cheers.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
+| Poppidemic | 371095 | [371095-poppidemic.json](./371095-poppidemic.json) |
 | Pops | 414962 | [414962-pops.json](./414962-pops.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
 | Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
