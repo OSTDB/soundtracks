@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
+| Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
@@ -25,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
 | Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
+| Bananya Buddies | 412825 | [412825-bananya-buddies.json](./412825-bananya-buddies.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
 | Banished | 2002 | [2002-banished.json](./2002-banished.json) |
@@ -152,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
+| Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
@@ -176,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
+| Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
 | Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
@@ -210,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
+| Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
@@ -246,4 +251,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
+| Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
 | Bytepath | 86519 | [86519-bytepath.json](./86519-bytepath.json) |
