@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
+| Vesuvius | 400809 | [400809-vesuvius.json](./400809-vesuvius.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
 | Vials: ASMR Sand Sort Puzzle | 412155 | [412155-vials-asmr-sand-sort-puzzle.json](./412155-vials-asmr-sand-sort-puzzle.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
