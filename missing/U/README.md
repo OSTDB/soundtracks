@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
+| Uki Uki Tsuri Tengoku: Ningyo Densetsu no Nazo | 384942 | [384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json](./384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
 | Ultima IV: C64 | 400133 | [400133-ultima-iv-c64.json](./400133-ultima-iv-c64.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
