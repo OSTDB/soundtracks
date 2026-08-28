@@ -9,8 +9,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zapper: One Wicked Cricket! | 47332 | [47332-zapper-one-wicked-cricket.json](./47332-zapper-one-wicked-cricket.json) |
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
+| Zeit 2 | 14965 | [14965-zeit-2.json](./14965-zeit-2.json) |
 | Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
 | Zenohell | 34456 | [34456-zenohell.json](./34456-zenohell.json) |
+| Zero Gear | 14920 | [14920-zero-gear.json](./14920-zero-gear.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zigfrak | 16771 | [16771-zigfrak.json](./16771-zigfrak.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
@@ -21,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
 | Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
+| Zombie Playground | 15316 | [15316-zombie-playground.json](./15316-zombie-playground.json) |
 | Zombie Solitaire 2 Chapter 3 | 86499 | [86499-zombie-solitaire-2-chapter-3.json](./86499-zombie-solitaire-2-chapter-3.json) |
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
 | Zombieville USA 2 | 86895 | [86895-zombieville-usa-2.json](./86895-zombieville-usa-2.json) |
