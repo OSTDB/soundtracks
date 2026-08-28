@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shift | 368863 | [368863-last-shift.json](./368863-last-shift.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Last Wave | 364931 | [364931-last-wave.json](./364931-last-wave.json) |
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
 | Late Night DJ | 402777 | [402777-late-night-dj.json](./402777-late-night-dj.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | Lexomancer | 400135 | [400135-lexomancer.json](./400135-lexomancer.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
+| Liar Luna | 364936 | [364936-liar-luna.json](./364936-liar-luna.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
 | Librarian Lust | 367255 | [367255-librarian-lust.json](./367255-librarian-lust.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
