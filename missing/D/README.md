@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
+| Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Bros Inc | 166155 | [166155-diner-bros-inc.json](./166155-diner-bros-inc.json) |
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
+| DinerTown Detective Agency | 15001 | [15001-dinertown-detective-agency.json](./15001-dinertown-detective-agency.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
@@ -291,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
+| Dungeon Kingdom: Sign of the Moon | 15199 | [15199-dungeon-kingdom-sign-of-the-moon.json](./15199-dungeon-kingdom-sign-of-the-moon.json) |
 | Dungeon Lords | 304 | [304-dungeon-lords.json](./304-dungeon-lords.json) |
 | Dungeon Manager ZV | 34466 | [34466-dungeon-manager-zv.json](./34466-dungeon-manager-zv.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
