@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
+| Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Origin | 396801 | [396801-empire-origin.json](./396801-empire-origin.json) |
 | Empire: Total War - The Warpath Campaign | 82085 | [82085-empire-total-war-the-warpath-campaign.json](./82085-empire-total-war-the-warpath-campaign.json) |
 | Empluna | 404123 | [404123-empluna.json](./404123-empluna.json) |
+| Empyrean Defense | 395395 | [395395-empyrean-defense.json](./395395-empyrean-defense.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
@@ -84,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric Carle's Brown Bear Animal Parade | 89310 | [89310-eric-carles-brown-bear-animal-parade.json](./89310-eric-carles-brown-bear-animal-parade.json) |
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
+| Eros Wept | 395404 | [395404-eros-wept.json](./395404-eros-wept.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
