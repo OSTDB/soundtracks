@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KARANTIIN | 386004 | [386004-karantiin.json](./386004-karantiin.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
+| Kawaii Girls: Spicy Scientist | 373957 | [373957-kawaii-girls-spicy-scientist.json](./373957-kawaii-girls-spicy-scientist.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep Digging: Version 2.0 | 379247 | [379247-keep-digging-version-2-0.json](./379247-keep-digging-version-2-0.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Rhythm Parade | 405402 | [405402-kingdom-hearts-rhythm-parade.json](./405402-kingdom-hearts-rhythm-parade.json) |
 | Kingdom Rush Origins HD | 86887 | [86887-kingdom-rush-origins-hd.json](./86887-kingdom-rush-origins-hd.json) |
 | Kingdom Trails | 398201 | [398201-kingdom-trails.json](./398201-kingdom-trails.json) |
+| Kingdom World | 373945 | [373945-kingdom-world.json](./373945-kingdom-world.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
