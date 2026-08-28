@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandcastle | 399476 | [399476-sandcastle.json](./399476-sandcastle.json) |
 | Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
+| Sanguis et Gloria: Shadow of the Labyrinth | 375645 | [375645-sanguis-et-gloria-shadow-of-the-labyrinth.json](./375645-sanguis-et-gloria-shadow-of-the-labyrinth.json) |
 | Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Saphi | 383809 | [383809-saphi.json](./383809-saphi.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
+| Shadow City Mysteries: Case Files - Rise of the Rat King | 375666 | [375666-shadow-city-mysteries-case-files-rise-of-the-rat-king.json](./375666-shadow-city-mysteries-case-files-rise-of-the-rat-king.json) |
 | Shadow Corridor Zero | 414258 | [414258-shadow-corridor-zero.json](./414258-shadow-corridor-zero.json) |
 | Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
 | Shinobi | 386580 | [386580-shinobi.json](./386580-shinobi.json) |
 | Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
+| Shinyaku: Touhou Gensousatsu - Re.Phantasmagoria of Imagine Breaker | 375631 | [375631-shinyaku-touhou-gensousatsu-re-phantasmagoria-of-imagine-breaker.json](./375631-shinyaku-touhou-gensousatsu-re-phantasmagoria-of-imagine-breaker.json) |
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
@@ -332,6 +335,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
+| Snapstick | 375619 | [375619-snapstick.json](./375619-snapstick.json) |
+| Snip Snap | 375644 | [375644-snip-snap.json](./375644-snip-snap.json) |
 | Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
 | Sniper Elite VR: Winter Warrior | 275159 | [275159-sniper-elite-vr-winter-warrior.json](./275159-sniper-elite-vr-winter-warrior.json) |
@@ -456,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sperm Runner | 405422 | [405422-sperm-runner.json](./405422-sperm-runner.json) |
 | Sphinx and the Cursed Mummy | 4164 | [4164-sphinx-and-the-cursed-mummy.json](./4164-sphinx-and-the-cursed-mummy.json) |
 | Spider-Man | 3325 | [3325-spider-man.json](./3325-spider-man.json) |
+| Spider-Man | 375632 | [375632-spider-man.json](./375632-spider-man.json) |
 | Spider-Man 3 | 252202 | [252202-spider-man-3.json](./252202-spider-man-3.json) |
 | Spider-Man 3 | 5178 | [5178-spider-man-3.json](./5178-spider-man-3.json) |
 | Spikit | 31867 | [31867-spikit.json](./31867-spikit.json) |
@@ -560,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Shift | 389864 | [389864-static-shift.json](./389864-static-shift.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
+| Stealth Assault | 375618 | [375618-stealth-assault.json](./375618-stealth-assault.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
 | Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
