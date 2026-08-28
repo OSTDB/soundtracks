@@ -268,6 +268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
 | Milkshake | 407917 | [407917-milkshake.json](./407917-milkshake.json) |
 | Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
+| Miller's Fantasy: Party | 375027 | [375027-millers-fantasy-party.json](./375027-millers-fantasy-party.json) |
+| Miller's Fantasy: Party - Deluxe Update | 375013 | [375013-millers-fantasy-party-deluxe-update.json](./375013-millers-fantasy-party-deluxe-update.json) |
 | Million Card Game | 377456 | [377456-million-card-game.json](./377456-million-card-game.json) |
 | Million Dream | 377455 | [377455-million-dream.json](./377455-million-dream.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
+| My Furry Dragon | 375030 | [375030-my-furry-dragon.json](./375030-my-furry-dragon.json) |
 | My Grandfather's Farm | 98753 | [98753-my-grandfathers-farm.json](./98753-my-grandfathers-farm.json) |
 | My Hero Academia: All's Justice - Deluxe Edition | 407928 | [407928-my-hero-academia-alls-justice-deluxe-edition.json](./407928-my-hero-academia-alls-justice-deluxe-edition.json) |
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
