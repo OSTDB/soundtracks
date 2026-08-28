@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Sangokuden Brave Battle Warriors Shin Mirisha Taisen | 66458 | [66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json](./66458-sd-gundam-sangokuden-brave-battle-warriors-shin-mirisha-taisen.json) |
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
+| Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
+| Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
+| Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
@@ -206,7 +209,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
+| Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
+| So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Sok | 77170 | [77170-sok.json](./77170-sok.json) |
@@ -232,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
+| Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
@@ -255,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
+| Sparkfront: Online | 411484 | [411484-sparkfront-online.json](./411484-sparkfront-online.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
