@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
 | No Knock | 391512 | [391512-no-knock.json](./391512-no-knock.json) |
+| No One Leaves the Field | 376304 | [376304-no-one-leaves-the-field.json](./376304-no-one-leaves-the-field.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
 | No Such Luck | 393368 | [393368-no-such-luck.json](./393368-no-such-luck.json) |
 | No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
@@ -160,8 +161,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
 | Nodosis | 391466 | [391466-nodosis.json](./391466-nodosis.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
+| Noise’s Halloween Bash | 376320 | [376320-noise-s-halloween-bash.json](./376320-noise-s-halloween-bash.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | Nonsense Defense | 392025 | [392025-nonsense-defense.json](./392025-nonsense-defense.json) |
+| Nontan to Issho: Kuru-kuru Puzzle | 376308 | [376308-nontan-to-issho-kuru-kuru-puzzle.json](./376308-nontan-to-issho-kuru-kuru-puzzle.json) |
 | Noodlebound | 401419 | [401419-noodlebound.json](./401419-noodlebound.json) |
 | Norectus: Theatre of War | 406030 | [406030-norectus-theatre-of-war.json](./406030-norectus-theatre-of-war.json) |
 | NoReload Heroes | 95176 | [95176-noreload-heroes.json](./95176-noreload-heroes.json) |
