@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Sheep | 383226 | [383226-unicycle-sheep.json](./383226-unicycle-sheep.json) |
 | Uninvited: Security Service | 388607 | [388607-uninvited-security-service.json](./388607-uninvited-security-service.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
+| United We Forge | 379762 | [379762-united-we-forge.json](./379762-united-we-forge.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
