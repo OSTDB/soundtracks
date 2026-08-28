@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
+| Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
 | Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
 | Car Simulator: Driving School | 409487 | [409487-car-simulator-driving-school.json](./409487-car-simulator-driving-school.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
 | Carnival Games: Monkey See, Monkey Do | 47393 | [47393-carnival-games-monkey-see-monkey-do.json](./47393-carnival-games-monkey-see-monkey-do.json) |
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
+| Carol and the Bells: A Cozy Strategy Game | 406602 | [406602-carol-and-the-bells-a-cozy-strategy-game.json](./406602-carol-and-the-bells-a-cozy-strategy-game.json) |
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | CarveOut 2160 | 411475 | [411475-carveout-2160.json](./411475-carveout-2160.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
+| Clash of Armadas: Koxinga | 406586 | [406586-clash-of-armadas-koxinga.json](./406586-clash-of-armadas-koxinga.json) |
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
 | Class of '09: The Re-Up | 249830 | [249830-class-of-09-the-re-up.json](./249830-class-of-09-the-re-up.json) |
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
