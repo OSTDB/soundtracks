@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot 21 | 405386 | [405386-jackpot-21.json](./405386-jackpot-21.json) |
 | Jade Dynasty | 51194 | [51194-jade-dynasty.json](./51194-jade-dynasty.json) |
 | Jaden Williams' The Stalking Stairs | 388627 | [388627-jaden-williams-the-stalking-stairs.json](./388627-jaden-williams-the-stalking-stairs.json) |
+| Jagar | 386032 | [386032-jagar.json](./386032-jagar.json) |
 | Jagged Alliance 2: Gold Pack | 29194 | [29194-jagged-alliance-2-gold-pack.json](./29194-jagged-alliance-2-gold-pack.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
