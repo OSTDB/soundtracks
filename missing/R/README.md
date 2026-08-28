@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
+| ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Earth | 39315 | [39315-red-earth.json](./39315-red-earth.json) |
