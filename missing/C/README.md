@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
+| Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | CarveOut 2160 | 411475 | [411475-carveout-2160.json](./411475-carveout-2160.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
+| Cascader | 407232 | [407232-cascader.json](./407232-cascader.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
@@ -148,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
 | Classic TriPeaks HD | 89455 | [89455-classic-tripeaks-hd.json](./89455-classic-tripeaks-hd.json) |
 | Claws and Feathers | 24578 | [24578-claws-and-feathers.json](./24578-claws-and-feathers.json) |
+| Clay&Cats | 407264 | [407264-clay-and-cats.json](./407264-clay-and-cats.json) |
 | ClayFighter | 46687 | [46687-clayfighter.json](./46687-clayfighter.json) |
 | Cleopatra: Queen of the Nile | 7511 | [7511-cleopatra-queen-of-the-nile.json](./7511-cleopatra-queen-of-the-nile.json) |
 | Click to Win 5000 Achievement | 410766 | [410766-click-to-win-5000-achievement.json](./410766-click-to-win-5000-achievement.json) |
@@ -180,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
+| Coloring Pixels: Jigsaw Pack | 407230 | [407230-coloring-pixels-jigsaw-pack.json](./407230-coloring-pixels-jigsaw-pack.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
 | Colours of Magic: Aqua Teeter | 32950 | [32950-colours-of-magic-aqua-teeter.json](./32950-colours-of-magic-aqua-teeter.json) |
@@ -236,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covr | 413534 | [413534-covr.json](./413534-covr.json) |
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
+| Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
@@ -244,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
+| Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
@@ -269,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
+| Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Cruise Adventure: Hidden Journey - Collector's Edition | 413557 | [413557-cruise-adventure-hidden-journey-collectors-edition.json](./413557-cruise-adventure-hidden-journey-collectors-edition.json) |
