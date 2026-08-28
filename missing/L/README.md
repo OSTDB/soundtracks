@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
+| Lab Loonies | 405995 | [405995-lab-loonies.json](./405995-lab-loonies.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Ladder Lad | 412153 | [412153-ladder-lad.json](./412153-ladder-lad.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue | 22513 | [22513-lost-in-blue.json](./22513-lost-in-blue.json) |
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
+| Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
@@ -132,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Poly Truck Simulator | 407914 | [407914-low-poly-truck-simulator.json](./407914-low-poly-truck-simulator.json) |
 | LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
+| Lucky Break | 405998 | [405998-lucky-break.json](./405998-lucky-break.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
