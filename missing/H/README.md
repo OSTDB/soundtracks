@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
 | Hall of Mirrors | 378668 | [378668-hall-of-mirrors.json](./378668-hall-of-mirrors.json) |
 | Hallowed Knight | 386577 | [386577-hallowed-knight.json](./386577-hallowed-knight.json) |
+| Halloween | 376354 | [376354-halloween.json](./376354-halloween.json) |
 | Halo: Campaign Evolved - Premium Edition | 405406 | [405406-halo-campaign-evolved-premium-edition.json](./405406-halo-campaign-evolved-premium-edition.json) |
 | Halo: Spartan Assault | 4839 | [4839-halo-spartan-assault.json](./4839-halo-spartan-assault.json) |
 | Hamidashi Creative Re:Re:call | 398849 | [398849-hamidashi-creative-re-re-call.json](./398849-hamidashi-creative-re-re-call.json) |
