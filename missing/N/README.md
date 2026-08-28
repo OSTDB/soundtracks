@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
 | Neon Oblivion: Prelude | 404109 | [404109-neon-oblivion-prelude.json](./404109-neon-oblivion-prelude.json) |
 | Neon Space 2 | 21970 | [21970-neon-space-2.json](./21970-neon-space-2.json) |
+| Neon Steel | 394727 | [394727-neon-steel.json](./394727-neon-steel.json) |
 | Neon Sun | 86405 | [86405-neon-sun.json](./86405-neon-sun.json) |
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
+| Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
