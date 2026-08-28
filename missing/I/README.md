@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
 | Idle Iktah | 398891 | [398891-idle-iktah.json](./398891-idle-iktah.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
+| If You’re a Man, Hold On for Half a Song | 376301 | [376301-if-you-re-a-man-hold-on-for-half-a-song.json](./376301-if-you-re-a-man-hold-on-for-half-a-song.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
 | Ikarus | 412832 | [412832-ikarus.json](./412832-ikarus.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Tow | 396062 | [396062-in-tow.json](./396062-in-tow.json) |
 | Inanimate Insanity: Sweet Memories | 386054 | [386054-inanimate-insanity-sweet-memories.json](./386054-inanimate-insanity-sweet-memories.json) |
 | Inanis: Into the Abyss | 391502 | [391502-inanis-into-the-abyss.json](./391502-inanis-into-the-abyss.json) |
+| Inazuma Eleven Souls 2 | 376303 | [376303-inazuma-eleven-souls-2.json](./376303-inazuma-eleven-souls-2.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
