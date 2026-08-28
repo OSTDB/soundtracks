@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day and Night | 386585 | [386585-day-and-night.json](./386585-day-and-night.json) |
 | Day of the Tentacle Remastered | 15862 | [15862-day-of-the-tentacle-remastered.json](./15862-day-of-the-tentacle-remastered.json) |
 | Day Ticket | 407958 | [407958-day-ticket.json](./407958-day-ticket.json) |
+| DazOS_ | 378619 | [378619-dazos.json](./378619-dazos.json) |
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | DCS World: MiG-29A Fulcrum | 381460 | [381460-dcs-world-mig-29a-fulcrum.json](./381460-dcs-world-mig-29a-fulcrum.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
+| Deviation Game | 378641 | [378641-deviation-game.json](./378641-deviation-game.json) |
 | Devil and the Fairy | 86623 | [86623-devil-and-the-fairy.json](./86623-devil-and-the-fairy.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
 | Devil Engine | 110092 | [110092-devil-engine.json](./110092-devil-engine.json) |
@@ -293,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pocahontas | 24979 | [24979-disneys-pocahontas.json](./24979-disneys-pocahontas.json) |
 | Disney's The Jungle Book | 6480 | [6480-disneys-the-jungle-book.json](./6480-disneys-the-jungle-book.json) |
 | Disney's Toy Story | 289027 | [289027-disneys-toy-story.json](./289027-disneys-toy-story.json) |
+| Disneyland Explorer | 378647 | [378647-disneyland-explorer.json](./378647-disneyland-explorer.json) |
 | Disoriented | 30503 | [30503-disoriented.json](./30503-disoriented.json) |
 | Dispatch | 181624 | [181624-dispatch.json](./181624-dispatch.json) |
 | Dissidia Final Fantasy NT: Free Edition | 115670 | [115670-dissidia-final-fantasy-nt-free-edition.json](./115670-dissidia-final-fantasy-nt-free-edition.json) |
@@ -486,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
+| DS Doom | 378659 | [378659-ds-doom.json](./378659-ds-doom.json) |
 | Duck Block | 379213 | [379213-duck-block.json](./379213-duck-block.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
