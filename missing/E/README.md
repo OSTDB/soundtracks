@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
+| Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | Edd Skeleton VR | 406597 | [406597-edd-skeleton-vr.json](./406597-edd-skeleton-vr.json) |
@@ -36,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
+| Elf World Adventure 12: Winter Episode! | 406033 | [406033-elf-world-adventure-12-winter-episode.json](./406033-elf-world-adventure-12-winter-episode.json) |
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
@@ -76,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
+| Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
