@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blade for the Emperor | 377434 | [377434-a-blade-for-the-emperor.json](./377434-a-blade-for-the-emperor.json) |
 | A Bug’s (Short) Life | 414205 | [414205-a-bug-s-short-life.json](./414205-a-bug-s-short-life.json) |
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
+| A Christmas Carol VR | 376289 | [376289-a-christmas-carol-vr.json](./376289-a-christmas-carol-vr.json) |
 | A Christmas Cutie | 382026 | [382026-a-christmas-cutie.json](./382026-a-christmas-cutie.json) |
 | A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
+| Approaching Infinity: Shipyards | 376326 | [376326-approaching-infinity-shipyards.json](./376326-approaching-infinity-shipyards.json) |
 | APSudoku | 396090 | [396090-apsudoku.json](./396090-apsudoku.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
