@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
 | RD Racing | 390970 | [390970-rd-racing.json](./390970-rd-racing.json) |
+| Re: GSpot Master | 382062 | [382062-re-gspot-master.json](./382062-re-gspot-master.json) |
 | Re:Re:Ghosted | 401433 | [401433-re-re-ghosted.json](./401433-re-re-ghosted.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team 2 | 34430 | [34430-rescue-team-2.json](./34430-rescue-team-2.json) |
 | Rescue Team 3 | 34431 | [34431-rescue-team-3.json](./34431-rescue-team-3.json) |
 | Resette's Prescription: Book of Memory, Swaying Scale | 32976 | [32976-resettes-prescription-book-of-memory-swaying-scale.json](./32976-resettes-prescription-book-of-memory-swaying-scale.json) |
+| Resident Evil 3: Escape Run | 382052 | [382052-resident-evil-3-escape-run.json](./382052-resident-evil-3-escape-run.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil 7: Biohazard - Collector's Edition | 22143 | [22143-resident-evil-7-biohazard-collectors-edition.json](./22143-resident-evil-7-biohazard-collectors-edition.json) |
