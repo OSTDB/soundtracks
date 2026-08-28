@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | Lollipop Chainsaw RePop | 208771 | [208771-lollipop-chainsaw-repop.json](./208771-lollipop-chainsaw-repop.json) |
 | Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
+| Lone Bastion | 380856 | [380856-lone-bastion.json](./380856-lone-bastion.json) |
 | Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
 | Long Run 2 | 387246 | [387246-long-run-2.json](./387246-long-run-2.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
+| Love Limit | 380870 | [380870-love-limit.json](./380870-love-limit.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
 | Love You As I Am | 398894 | [398894-love-you-as-i-am.json](./398894-love-you-as-i-am.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
