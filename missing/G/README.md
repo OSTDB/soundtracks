@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigi il Guerriero | 408622 | [408622-gigi-il-guerriero.json](./408622-gigi-il-guerriero.json) |
 | Gion Corridor:Re | 407261 | [407261-gion-corridor-re.json](./407261-gion-corridor-re.json) |
 | Giraffe Raising Game: Reach for the sky | 413568 | [413568-giraffe-raising-game-reach-for-the-sky.json](./413568-giraffe-raising-game-reach-for-the-sky.json) |
+| Girl Travels Forest of Dream 2: Ava | 376931 | [376931-girl-travels-forest-of-dream-2-ava.json](./376931-girl-travels-forest-of-dream-2-ava.json) |
 | Girlballs | 403455 | [403455-girlballs.json](./403455-girlballs.json) |
 | Girlfriend Experience VR | 109689 | [109689-girlfriend-experience-vr.json](./109689-girlfriend-experience-vr.json) |
 | Girls Force 2: Rising Academy | 407260 | [407260-girls-force-2-rising-academy.json](./407260-girls-force-2-rising-academy.json) |
