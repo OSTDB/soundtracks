@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D | 379243 | [379243-d.json](./379243-d.json) |
 | D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
 | D.C. II P.S.: Da Capo II Plus Situation | 369405 | [369405-d-c-ii-p-s-da-capo-ii-plus-situation.json](./369405-d-c-ii-p-s-da-capo-ii-plus-situation.json) |
+| Dacha | 366055 | [366055-dacha.json](./366055-dacha.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Daedalic Multiplayer Bundle | 366657 | [366657-daedalic-multiplayer-bundle.json](./366657-daedalic-multiplayer-bundle.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity Empires | 109833 | [109833-deity-empires.json](./109833-deity-empires.json) |
 | Delete | 380254 | [380254-delete.json](./380254-delete.json) |
 | Deliria | 380253 | [380253-deliria.json](./380253-deliria.json) |
+| Delive' R Us | 366089 | [366089-delive-r-us.json](./366089-delive-r-us.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
 | Delivery Point Simulator | 380257 | [380257-delivery-point-simulator.json](./380257-delivery-point-simulator.json) |
 | Delivery Simulator | 380258 | [380258-delivery-simulator.json](./380258-delivery-simulator.json) |
@@ -492,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drained Creatures | 404102 | [404102-drained-creatures.json](./404102-drained-creatures.json) |
 | Drakan: The Ancients' Gates | 7577 | [7577-drakan-the-ancients-gates.json](./7577-drakan-the-ancients-gates.json) |
 | Drake & Josh: Talent Showdown | 7971 | [7971-drake-and-josh-talent-showdown.json](./7971-drake-and-josh-talent-showdown.json) |
+| Drake And The Wizards | 366042 | [366042-drake-and-the-wizards.json](./366042-drake-and-the-wizards.json) |
 | Drakengard 3 | 8576 | [8576-drakengard-3.json](./8576-drakengard-3.json) |
 | Drakensang: The Dark Eye | 8768 | [8768-drakensang-the-dark-eye.json](./8768-drakensang-the-dark-eye.json) |
 | Drakkhen | 12057 | [12057-drakkhen.json](./12057-drakkhen.json) |
