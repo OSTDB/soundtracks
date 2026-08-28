@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Horror 2 | 399490 | [399490-scary-horror-2.json](./399490-scary-horror-2.json) |
 | Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
 | Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
+| Scene No.0 | 397557 | [397557-scene-no-0.json](./397557-scene-no-0.json) |
 | Schedule: Rehab Business | 414978 | [414978-schedule-rehab-business.json](./414978-schedule-rehab-business.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Srq | 29881 | [29881-srq.json](./29881-srq.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
+| Stack Chaos: Alien Express | 397561 | [397561-stack-chaos-alien-express.json](./397561-stack-chaos-alien-express.json) |
 | Stack Mates | 410143 | [410143-stack-mates.json](./410143-stack-mates.json) |
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SunAge: Battle for Elysium | 17750 | [17750-sunage-battle-for-elysium.json](./17750-sunage-battle-for-elysium.json) |
 | Sunfall '80 | 412133 | [412133-sunfall-80.json](./412133-sunfall-80.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
+| Sunlit Journey | 397579 | [397579-sunlit-journey.json](./397579-sunlit-journey.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
