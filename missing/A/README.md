@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mind Forever Voyaging | 2295 | [2295-a-mind-forever-voyaging.json](./2295-a-mind-forever-voyaging.json) |
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
 | A Park Full of Cats: Complete Edition | 407225 | [407225-a-park-full-of-cats-complete-edition.json](./407225-a-park-full-of-cats-complete-edition.json) |
+| A Pig Quest | 404764 | [404764-a-pig-quest.json](./404764-a-pig-quest.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablahshikar | 410800 | [410800-ablahshikar.json](./410800-ablahshikar.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
+| Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
@@ -178,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
+| Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
@@ -250,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athens 2004 | 22298 | [22298-athens-2004.json](./22298-athens-2004.json) |
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
+| Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
