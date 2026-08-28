@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyrean Defense | 395395 | [395395-empyrean-defense.json](./395395-empyrean-defense.json) |
 | Enchanted Desert | 386615 | [386615-enchanted-desert.json](./386615-enchanted-desert.json) |
 | Enchanted Vampire Defense | 386614 | [386614-enchanted-vampire-defense.json](./386614-enchanted-vampire-defense.json) |
+| Enchantia: Wrath of the Phoenix Queen - Collector's Edition | 381434 | [381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json](./381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
 | Encryptid | 382632 | [382632-encryptid.json](./382632-encryptid.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
