@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
+| One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
