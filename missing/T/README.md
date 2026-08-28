@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
+| The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operational Art of War IV | 59525 | [59525-the-operational-art-of-war-iv.json](./59525-the-operational-art-of-war-iv.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
 | Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | Theme Park Studio | 16710 | [16710-theme-park-studio.json](./16710-theme-park-studio.json) |
+| TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
@@ -439,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble in the Deep Noon | 412166 | [412166-tumble-in-the-deep-noon.json](./412166-tumble-in-the-deep-noon.json) |
 | Tuned In | 414207 | [414207-tuned-in.json](./414207-tuned-in.json) |
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
+| Tung Tung Tung Survival | 408645 | [408645-tung-tung-tung-survival.json](./408645-tung-tung-tung-survival.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
