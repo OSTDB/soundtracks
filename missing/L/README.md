@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
+| Legend of Idle | 406608 | [406608-legend-of-idle.json](./406608-legend-of-idle.json) |
 | Legends of Atlantis: Exodus | 35806 | [35806-legends-of-atlantis-exodus.json](./35806-legends-of-atlantis-exodus.json) |
 | Legends of Dawn Reborn | 34434 | [34434-legends-of-dawn-reborn.json](./34434-legends-of-dawn-reborn.json) |
 | Legends of Ellaria | 44161 | [44161-legends-of-ellaria.json](./44161-legends-of-ellaria.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Women: Valerie's Game | 414217 | [414217-lethal-women-valeries-game.json](./414217-lethal-women-valeries-game.json) |
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
+| Level Up, Tiny King! | 406585 | [406585-level-up-tiny-king.json](./406585-level-up-tiny-king.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
@@ -139,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
+| Lux Anima | 406583 | [406583-lux-anima.json](./406583-lux-anima.json) |
 | Luxor 2 | 7535 | [7535-luxor-2.json](./7535-luxor-2.json) |
 | Luxor 5th Passage | 7541 | [7541-luxor-5th-passage.json](./7541-luxor-5th-passage.json) |
 | Luxor MahJong | 7539 | [7539-luxor-mahjong.json](./7539-luxor-mahjong.json) |
