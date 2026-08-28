@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
 | Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
+| Office Brawl: Room Smash | 394715 | [394715-office-brawl-room-smash.json](./394715-office-brawl-room-smash.json) |
 | Office Renovation | 405376 | [405376-office-renovation.json](./405376-office-renovation.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
@@ -98,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 15 | 16955 | [16955-out-of-the-park-baseball-15.json](./16955-out-of-the-park-baseball-15.json) |
 | Out of This World | 4348 | [4348-out-of-this-world.json](./4348-out-of-this-world.json) |
 | Outbreak Compound | 401416 | [401416-outbreak-compound.json](./401416-outbreak-compound.json) |
+| Outbreak Fall: Biohazard | 394737 | [394737-outbreak-fall-biohazard.json](./394737-outbreak-fall-biohazard.json) |
 | Outbreak: The New Nightmare | 38782 | [38782-outbreak-the-new-nightmare.json](./38782-outbreak-the-new-nightmare.json) |
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
