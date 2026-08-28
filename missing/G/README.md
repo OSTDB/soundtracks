@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
+| Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | GhostControl Inc. | 17106 | [17106-ghostcontrol-inc.json](./17106-ghostcontrol-inc.json) |
 | Ghostlords | 31471 | [31471-ghostlords.json](./31471-ghostlords.json) |
@@ -112,7 +113,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
+| Graventh | 414971 | [414971-graventh.json](./414971-graventh.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
+| Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
@@ -126,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
+| Groundwork | 414970 | [414970-groundwork.json](./414970-groundwork.json) |
 | Growth | 238644 | [238644-growth.json](./238644-growth.json) |
 | GS Mikami: Joreishi ha Nice Body | 42373 | [42373-gs-mikami-joreishi-ha-nice-body.json](./42373-gs-mikami-joreishi-ha-nice-body.json) |
 | GT Legends | 736 | [736-gt-legends.json](./736-gt-legends.json) |
@@ -134,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! | 4838 | [4838-guacamelee.json](./4838-guacamelee.json) |
 | Guacamelee!: Gold Edition | 19121 | [19121-guacamelee-gold-edition.json](./19121-guacamelee-gold-edition.json) |
 | Guard of Wonderland | 109756 | [109756-guard-of-wonderland.json](./109756-guard-of-wonderland.json) |
+| Guardians of Dreamstate | 414965 | [414965-guardians-of-dreamstate.json](./414965-guardians-of-dreamstate.json) |
 | Guardians of the Galaxy: The Universal Weapon | 20944 | [20944-guardians-of-the-galaxy-the-universal-weapon.json](./20944-guardians-of-the-galaxy-the-universal-weapon.json) |
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
