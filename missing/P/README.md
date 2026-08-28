@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239931 | [239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Snap | 2324 | [2324-pokemon-snap.json](./2324-pokemon-snap.json) |
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
+| Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
+| Providence | 400149 | [400149-providence.json](./400149-providence.json) |
 | Provinces | 414998 | [414998-provinces.json](./414998-provinces.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
