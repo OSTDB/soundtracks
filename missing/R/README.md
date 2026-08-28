@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
 | Ring Master II: Forget You Not, Evermore | 402817 | [402817-ring-master-ii-forget-you-not-evermore.json](./402817-ring-master-ii-forget-you-not-evermore.json) |
 | Ring Runner: Flight of the Sages | 9724 | [9724-ring-runner-flight-of-the-sages.json](./9724-ring-runner-flight-of-the-sages.json) |
+| Ring Toss Water Game | 366073 | [366073-ring-toss-water-game.json](./366073-ring-toss-water-game.json) |
 | Rings of Heaven | 382603 | [382603-rings-of-heaven.json](./382603-rings-of-heaven.json) |
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
+| Rise to King Ortler | 366085 | [366085-rise-to-king-ortler.json](./366085-rise-to-king-ortler.json) |
 | Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
 | Risen Kingdoms | 176166 | [176166-risen-kingdoms.json](./176166-risen-kingdoms.json) |
 | Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
