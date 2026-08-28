@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alt-Play: Jason Rohrer Anthology | 63355 | [63355-alt-play-jason-rohrer-anthology.json](./63355-alt-play-jason-rohrer-anthology.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
+| Alter Ego | 363225 | [363225-alter-ego.json](./363225-alter-ego.json) |
 | Altered Space | 7752 | [7752-altered-space.json](./7752-altered-space.json) |
 | Altus Chess: Archaic Beginnings | 412854 | [412854-altus-chess-archaic-beginnings.json](./412854-altus-chess-archaic-beginnings.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
@@ -258,6 +259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
 | Ancient Frontier | 31479 | [31479-ancient-frontier.json](./31479-ancient-frontier.json) |
+| Ancient Tri-Jong | 363228 | [363228-ancient-tri-jong.json](./363228-ancient-tri-jong.json) |
+| Ancient Tripeaks 2 | 363221 | [363221-ancient-tripeaks-2.json](./363221-ancient-tripeaks-2.json) |
 | Ancient Warfare: The Han Dynasty | 371118 | [371118-ancient-warfare-the-han-dynasty.json](./371118-ancient-warfare-the-han-dynasty.json) |
 | Ancients of Arkar | 382602 | [382602-ancients-of-arkar.json](./382602-ancients-of-arkar.json) |
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
@@ -311,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APSudoku | 396090 | [396090-apsudoku.json](./396090-apsudoku.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
+| Aquacade | 363219 | [363219-aquacade.json](./363219-aquacade.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
@@ -343,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Rivals | 372330 | [372330-arcane-rivals.json](./372330-arcane-rivals.json) |
 | Arcfall | 372843 | [372843-arcfall.json](./372843-arcfall.json) |
 | Arch Rivals GG2SMS | 369437 | [369437-arch-rivals-gg2sms.json](./369437-arch-rivals-gg2sms.json) |
+| Archimedes: Eureka! - Collector's Edition | 363215 | [363215-archimedes-eureka-collectors-edition.json](./363215-archimedes-eureka-collectors-edition.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
 | Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
@@ -383,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
 | Aru Otoko no Dokuhaku | 393354 | [393354-aru-otoko-no-dokuhaku.json](./393354-aru-otoko-no-dokuhaku.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
+| As Expected of the Demon Lord | 363233 | [363233-as-expected-of-the-demon-lord.json](./363233-as-expected-of-the-demon-lord.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
