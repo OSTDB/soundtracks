@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Prophecy | 16639 | [16639-salvation-prophecy.json](./16639-salvation-prophecy.json) |
 | Sam & Max: Save the World - Episode 1: Culture Shock | 27826 | [27826-sam-and-max-save-the-world-episode-1-culture-shock.json](./27826-sam-and-max-save-the-world-episode-1-culture-shock.json) |
 | Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
+| Samba del Tuerto | 414188 | [414188-samba-del-tuerto.json](./414188-samba-del-tuerto.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
 | Samurai of Hyuga | 31423 | [31423-samurai-of-hyuga.json](./31423-samurai-of-hyuga.json) |
@@ -52,10 +53,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
+| SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
+| Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
@@ -86,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
+| Shadow Corridor Zero | 414258 | [414258-shadow-corridor-zero.json](./414258-shadow-corridor-zero.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
@@ -183,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Smile Your Day | 414969 | [414969-smile-your-day.json](./414969-smile-your-day.json) |
+| Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
@@ -236,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
+| Space Parkour Obby | 414241 | [414241-space-parkour-obby.json](./414241-space-parkour-obby.json) |
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
@@ -351,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 | 39318 | [39318-street-fighter-ex2.json](./39318-street-fighter-ex2.json) |
 | Street Fighter II: Rainbow Edition | 39528 | [39528-street-fighter-ii-rainbow-edition.json](./39528-street-fighter-ii-rainbow-edition.json) |
 | Street Fighter III: 3rd Strike | 243243 | [243243-street-fighter-iii-3rd-strike.json](./243243-street-fighter-iii-3rd-strike.json) |
+| Street Food Simulator | 414227 | [414227-street-food-simulator.json](./414227-street-food-simulator.json) |
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strength of the Sword: Ultimate | 22737 | [22737-strength-of-the-sword-ultimate.json](./22737-strength-of-the-sword-ultimate.json) |
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
@@ -443,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
+| Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
