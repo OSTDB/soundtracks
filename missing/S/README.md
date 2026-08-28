@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
+| Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Stardom: The A-List | 65115 | [65115-stardom-the-a-list.json](./65115-stardom-the-a-list.json) |
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
+| Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
 | Starlight | 126311 | [126311-starlight.json](./126311-starlight.json) |
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
