@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
 | Liminal Logistics | 389896 | [389896-liminal-logistics.json](./389896-liminal-logistics.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
+| Line Defense | 365512 | [365512-line-defense.json](./365512-line-defense.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
 | Ling Tong | 368302 | [368302-ling-tong.json](./368302-ling-tong.json) |
@@ -164,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
 | LocoRoco 2 Remastered | 37147 | [37147-locoroco-2-remastered.json](./37147-locoroco-2-remastered.json) |
 | Locus Equation | 376295 | [376295-locus-equation.json](./376295-locus-equation.json) |
+| Locust_4457 | 365528 | [365528-locust-4457.json](./365528-locust-4457.json) |
 | Lode Runner | 4603 | [4603-lode-runner.json](./4603-lode-runner.json) |
 | Lofi Mahjong | 375019 | [375019-lofi-mahjong.json](./375019-lofi-mahjong.json) |
 | LOL | 124474 | [124474-lol.json](./124474-lol.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Patient | 375014 | [375014-lost-patient.json](./375014-lost-patient.json) |
 | Lost Sanity: Cthulhu | 375002 | [375002-lost-sanity-cthulhu.json](./375002-lost-sanity-cthulhu.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
+| Lostboy 2 | 365499 | [365499-lostboy-2.json](./365499-lostboy-2.json) |
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
