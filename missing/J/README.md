@@ -78,12 +78,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
 | Jump Like A Pirate | 29760 | [29760-jump-like-a-pirate.json](./29760-jump-like-a-pirate.json) |
 | Jump Stars | 36712 | [36712-jump-stars.json](./36712-jump-stars.json) |
+| Jump, You!+ | 369428 | [369428-jump-you.json](./369428-jump-you.json) |
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
 | Jumppit | 400780 | [400780-jumppit.json](./400780-jumppit.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
 | Jungle Clash | 394027 | [394027-jungle-clash.json](./394027-jungle-clash.json) |
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
+| Junji Ito Maniac: An Infinite Gaol | 369439 | [369439-junji-ito-maniac-an-infinite-gaol.json](./369439-junji-ito-maniac-an-infinite-gaol.json) |
 | Junko's Part Time Job!! | 379774 | [379774-junkos-part-time-job.json](./379774-junkos-part-time-job.json) |
 | Junkyard Garage Simulator | 388604 | [388604-junkyard-garage-simulator.json](./388604-junkyard-garage-simulator.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
