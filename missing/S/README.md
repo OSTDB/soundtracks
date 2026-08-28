@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scoop 'n Shoot | 410148 | [410148-scoop-n-shoot.json](./410148-scoop-n-shoot.json) |
+| Scoop it! Crane Game | 373385 | [373385-scoop-it-crane-game.json](./373385-scoop-it-crane-game.json) |
 | SCP Extraction Protocol | 396115 | [396115-scp-extraction-protocol.json](./396115-scp-extraction-protocol.json) |
 | SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
 | SCP: Mr. Jupiter | 407919 | [407919-scp-mr-jupiter.json](./407919-scp-mr-jupiter.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Providence | 262420 | [262420-star-of-providence.json](./262420-star-of-providence.json) |
 | Star Spark | 381469 | [381469-star-spark.json](./381469-star-spark.json) |
 | Star Striker | 381456 | [381456-star-striker.json](./381456-star-striker.json) |
+| Star Titans: War of the Galaxy | 373386 | [373386-star-titans-war-of-the-galaxy.json](./373386-star-titans-war-of-the-galaxy.json) |
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
@@ -665,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Bactron | 404733 | [404733-sudoku-bactron.json](./404733-sudoku-bactron.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
 | Sugary Super Mario Bros. Wii | 394011 | [394011-sugary-super-mario-bros-wii.json](./394011-sugary-super-mario-bros-wii.json) |
+| Sugoi Girls: Wolf Romance | 373387 | [373387-sugoi-girls-wolf-romance.json](./373387-sugoi-girls-wolf-romance.json) |
 | Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
@@ -738,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican 2 | 42447 | [42447-super-turrican-2.json](./42447-super-turrican-2.json) |
 | Super Uffe! | 89461 | [89461-super-uffe.json](./89461-super-uffe.json) |
 | Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
+| Super Yellow Ballman | 373394 | [373394-super-yellow-ballman.json](./373394-super-yellow-ballman.json) |
 | Super Yooka-Laylee Kart | 404740 | [404740-super-yooka-laylee-kart.json](./404740-super-yooka-laylee-kart.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
