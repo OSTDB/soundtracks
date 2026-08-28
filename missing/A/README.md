@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
 | Aetheris Core | 411453 | [411453-aetheris-core.json](./411453-aetheris-core.json) |
+| AFK GF | 365521 | [365521-afk-gf.json](./365521-afk-gf.json) |
 | AFK Tactics | 402819 | [402819-afk-tactics.json](./402819-afk-tactics.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
