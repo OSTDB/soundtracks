@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasscat Cafe | 396038 | [396038-grasscat-cafe.json](./396038-grasscat-cafe.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Grave New World | 412860 | [412860-grave-new-world.json](./412860-grave-new-world.json) |
+| Grave Whisperers | 374482 | [374482-grave-whisperers.json](./374482-grave-whisperers.json) |
 | Graventh | 414971 | [414971-graventh.json](./414971-graventh.json) |
 | Graverobber | 384933 | [384933-graverobber.json](./384933-graverobber.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
