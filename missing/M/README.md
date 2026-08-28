@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
+| Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Regenesis | 410146 | [410146-mega-man-x-regenesis.json](./410146-mega-man-x-regenesis.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Mega Turrican Director's Cut | 395455 | [395455-mega-turrican-directors-cut.json](./395455-mega-turrican-directors-cut.json) |
 | Megabait | 408676 | [408676-megabait.json](./408676-megabait.json) |
 | Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
 | Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
@@ -336,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
+| Murderplanet | 395421 | [395421-murderplanet.json](./395421-murderplanet.json) |
 | Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
