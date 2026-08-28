@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
+| Knockout Battle | 403466 | [403466-knockout-battle.json](./403466-knockout-battle.json) |
 | Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
 | Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
 | Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
