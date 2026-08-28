@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Exam | 405427 | [405427-damn-exam.json](./405427-damn-exam.json) |
 | Damned Nation Reborn | 35856 | [35856-damned-nation-reborn.json](./35856-damned-nation-reborn.json) |
 | Damways | 405391 | [405391-damways.json](./405391-damways.json) |
+| Dance Dance Detective | 383832 | [383832-dance-dance-detective.json](./383832-dance-dance-detective.json) |
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
@@ -90,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5 Ultimate | 7286 | [7286-dead-or-alive-5-ultimate.json](./7286-dead-or-alive-5-ultimate.json) |
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
+| Dead Rush | 383831 | [383831-dead-rush.json](./383831-dead-rush.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
 | Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
@@ -136,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest: Valley of the Forgotten DX | 90630 | [90630-defenders-quest-valley-of-the-forgotten-dx.json](./90630-defenders-quest-valley-of-the-forgotten-dx.json) |
 | Defenders of Ardania | 10177 | [10177-defenders-of-ardania.json](./10177-defenders-of-ardania.json) |
 | Defense the Farm | 102185 | [102185-defense-the-farm.json](./102185-defense-the-farm.json) |
+| Defentrix | 383829 | [383829-defentrix.json](./383829-defentrix.json) |
 | Defiance Survivors | 412142 | [412142-defiance-survivors.json](./412142-defiance-survivors.json) |
 | Deisim | 31356 | [31356-deisim.json](./31356-deisim.json) |
 | Deity Empires | 109833 | [109833-deity-empires.json](./109833-deity-empires.json) |
@@ -287,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dokapon 3-2-1: Super Collection! | 410797 | [410797-dokapon-3-2-1-super-collection.json](./410797-dokapon-3-2-1-super-collection.json) |
+| Doki Doki Insanity Club! | 383817 | [383817-doki-doki-insanity-club.json](./383817-doki-doki-insanity-club.json) |
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
 | DokiDoki Shutter Chance: Koi no Puzzle wo Kumitatete | 396773 | [396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json](./396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json) |
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
@@ -337,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Down the Stairs: The Game | 409453 | [409453-down-the-stairs-the-game.json](./409453-down-the-stairs-the-game.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
+| Downbeat | 383805 | [383805-downbeat.json](./383805-downbeat.json) |
 | Downward | 31942 | [31942-downward.json](./31942-downward.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
@@ -390,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadmarch | 389870 | [389870-dreadmarch.json](./389870-dreadmarch.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
+| Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
@@ -464,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
+| Dust Busters | 383800 | [383800-dust-busters.json](./383800-dust-busters.json) |
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustland Delivery: Wildmax Edition | 386565 | [386565-dustland-delivery-wildmax-edition.json](./386565-dustland-delivery-wildmax-edition.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
