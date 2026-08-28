@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
 | Backrooms Lost Unit | 389906 | [389906-backrooms-lost-unit.json](./389906-backrooms-lost-unit.json) |
 | Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
+| Backrooms: No Level | 364933 | [364933-backrooms-no-level.json](./364933-backrooms-no-level.json) |
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backrooms: Rogue 0 | 379749 | [379749-backrooms-rogue-0.json](./379749-backrooms-rogue-0.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Blocks | 34483 | [34483-bleeding-blocks.json](./34483-bleeding-blocks.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
+| Blighted Deep | 364897 | [364897-blighted-deep.json](./364897-blighted-deep.json) |
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
 | Blind Box Shop Simulator | 386034 | [386034-blind-box-shop-simulator.json](./386034-blind-box-shop-simulator.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Glimpse | 59138 | [59138-bloody-glimpse.json](./59138-bloody-glimpse.json) |
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
+| Bloom 'N' Buzz | 364918 | [364918-bloom-n-buzz.json](./364918-bloom-n-buzz.json) |
 | Bloom Shrooms | 22782 | [22782-bloom-shrooms.json](./22782-bloom-shrooms.json) |
 | Blooming Blossoms | 388571 | [388571-blooming-blossoms.json](./388571-blooming-blossoms.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
@@ -348,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
+| Bot Rush | 364940 | [364940-bot-rush.json](./364940-bot-rush.json) |
 | Bots 'n Bolts | 369941 | [369941-bots-n-bolts.json](./369941-bots-n-bolts.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
@@ -417,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shot | 368878 | [368878-bubble-shot.json](./368878-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubble Sweeper | 384376 | [384376-bubble-sweeper.json](./384376-bubble-sweeper.json) |
+| Bubble Tea Revolution | 364930 | [364930-bubble-tea-revolution.json](./364930-bubble-tea-revolution.json) |
 | Bubble Tea Sort | 376334 | [376334-bubble-tea-sort.json](./376334-bubble-tea-sort.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
@@ -429,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs in the Brain | 407931 | [407931-bugs-in-the-brain.json](./407931-bugs-in-the-brain.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
 | Builder Stimulator | 403492 | [403492-builder-stimulator.json](./403492-builder-stimulator.json) |
+| Buko Boko | 364910 | [364910-buko-boko.json](./364910-buko-boko.json) |
 | Bulgasari: Consume·Evolve·Survive | 389867 | [389867-bulgasari-consume-evolve-survive.json](./389867-bulgasari-consume-evolve-survive.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
