@@ -249,11 +249,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
+| Miracle Brave | 389874 | [389874-miracle-brave.json](./389874-miracle-brave.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
+| Misty Land | 389902 | [389902-misty-land.json](./389902-misty-land.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | Mizuki: Demon-Slaying Housewife | 414208 | [414208-mizuki-demon-slaying-housewife.json](./414208-mizuki-demon-slaying-housewife.json) |
@@ -376,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MXGP2: The Official Motocross Videogame Compact | 89499 | [89499-mxgp2-the-official-motocross-videogame-compact.json](./89499-mxgp2-the-official-motocross-videogame-compact.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
+| My Beautiful Winter | 389909 | [389909-my-beautiful-winter.json](./389909-my-beautiful-winter.json) |
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
