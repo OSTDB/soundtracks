@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairway Solitaire - Card Game | 86795 | [86795-fairway-solitaire-card-game.json](./86795-fairway-solitaire-card-game.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
 | Fairy Tale About Father Frost, Ivan and Nastya | 36384 | [36384-fairy-tale-about-father-frost-ivan-and-nastya.json](./36384-fairy-tale-about-father-frost-ivan-and-nastya.json) |
+| Falak | 402764 | [402764-falak.json](./402764-falak.json) |
 | Fall of the Void | 414997 | [414997-fall-of-the-void.json](./414997-fall-of-the-void.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
 | Fallout 3: Broken Steel | 10299 | [10299-fallout-3-broken-steel.json](./10299-fallout-3-broken-steel.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flat Kingdom: Paper's Cut Edition | 34393 | [34393-flat-kingdom-papers-cut-edition.json](./34393-flat-kingdom-papers-cut-edition.json) |
+| Fleet Hunters | 402758 | [402758-fleet-hunters.json](./402758-fleet-hunters.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
 | Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
@@ -173,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
 | Fore! Crisis: Final Fantasy VII Jolf | 410815 | [410815-fore-crisis-final-fantasy-vii-jolf.json](./410815-fore-crisis-final-fantasy-vii-jolf.json) |
+| Foreign Rim | 402767 | [402767-foreign-rim.json](./402767-foreign-rim.json) |
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
