@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
+| Lingix Lingo | 409460 | [409460-lingix-lingo.json](./409460-lingix-lingo.json) |
 | Linked Wheels | 412859 | [412859-linked-wheels.json](./412859-linked-wheels.json) |
 | Lips: I Love the 80's | 7052 | [7052-lips-i-love-the-80s.json](./7052-lips-i-love-the-80s.json) |
 | Lips: Party Classics | 7054 | [7054-lips-party-classics.json](./7054-lips-party-classics.json) |
