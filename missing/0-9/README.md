@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
+| "Suizokukan Kochira" | 395429 | [395429-suizokukan-kochira.json](./395429-suizokukan-kochira.json) |
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Kids Fun Puzzle Blue | 89315 | [89315-123-kids-fun-puzzle-blue.json](./89315-123-kids-fun-puzzle-blue.json) |
 | 1348: Ex Voto | 362064 | [362064-1348-ex-voto.json](./362064-1348-ex-voto.json) |
 | 140 | 9497 | [9497-140.json](./9497-140.json) |
+| 15 Minutes | 395433 | [395433-15-minutes.json](./395433-15-minutes.json) |
 | 17776 | 397522 | [397522-17776.json](./397522-17776.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
@@ -34,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
 | 2026 Soup Jam | 407927 | [407927-2026-soup-jam.json](./407927-2026-soup-jam.json) |
 | 28 Leicester Square | 412881 | [412881-28-leicester-square.json](./412881-28-leicester-square.json) |
+| 2TAP | 395416 | [395416-2tap.json](./395416-2tap.json) |
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 311 | 410112 | [410112-311.json](./410112-311.json) |
