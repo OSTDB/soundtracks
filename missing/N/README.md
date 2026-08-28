@@ -193,3 +193,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Anchor | 394033 | [394033-null-anchor.json](./394033-null-anchor.json) |
 | Null Root | 398223 | [398223-null-root.json](./398223-null-root.json) |
 | Numb Digger | 410759 | [410759-numb-digger.json](./410759-numb-digger.json) |
+| Nyaa, Smack! | 372333 | [372333-nyaa-smack.json](./372333-nyaa-smack.json) |
