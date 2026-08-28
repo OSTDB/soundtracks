@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Mega Tunnel Battle: Chomp Champs | 271213 | [271213-pac-man-mega-tunnel-battle-chomp-champs.json](./271213-pac-man-mega-tunnel-battle-chomp-champs.json) |
 | Pac-Man World Rally | 2654 | [2654-pac-man-world-rally.json](./2654-pac-man-world-rally.json) |
 | Pac-Man: Championship Edition DX+ | 16515 | [16515-pac-man-championship-edition-dx.json](./16515-pac-man-championship-edition-dx.json) |
+| Pac-Man: Halloween 2025 Edition | 375648 | [375648-pac-man-halloween-2025-edition.json](./375648-pac-man-halloween-2025-edition.json) |
 | Pacer | 27147 | [27147-pacer.json](./27147-pacer.json) |
 | Pachi-Slot Winning Post | 63590 | [63590-pachi-slot-winning-post.json](./63590-pachi-slot-winning-post.json) |
 | Pachinko Farm | 390421 | [390421-pachinko-farm.json](./390421-pachinko-farm.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
+| Paranoia! | 375670 | [375670-paranoia.json](./375670-paranoia.json) |
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
@@ -233,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239931 | [239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Snap | 2324 | [2324-pokemon-snap.json](./2324-pokemon-snap.json) |
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
+| Pokémon Trading Card Game Pocket: Mega Rising | 375662 | [375662-pokemon-trading-card-game-pocket-mega-rising.json](./375662-pokemon-trading-card-game-pocket-mega-rising.json) |
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
