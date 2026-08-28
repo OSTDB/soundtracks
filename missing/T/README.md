@@ -69,7 +69,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Splintered Fate | 248582 | [248582-teenage-mutant-ninja-turtles-splintered-fate.json](./248582-teenage-mutant-ninja-turtles-splintered-fate.json) |
 | Tekken | 304400 | [304400-tekken.json](./304400-tekken.json) |
 | Tekken 2 | 305775 | [305775-tekken-2.json](./305775-tekken-2.json) |
+| Tekken 7 | 394038 | [394038-tekken-7.json](./394038-tekken-7.json) |
 | Tekken Tag Tournament | 1249 | [1249-tekken-tag-tournament.json](./1249-tekken-tag-tournament.json) |
+| Tekken Tag Tournament 2 | 394040 | [394040-tekken-tag-tournament-2.json](./394040-tekken-tag-tournament-2.json) |
+| Tekken Tag Tournament 2 Unlimited | 394041 | [394041-tekken-tag-tournament-2-unlimited.json](./394041-tekken-tag-tournament-2-unlimited.json) |
 | Tekken: Dark Resurrection | 24181 | [24181-tekken-dark-resurrection.json](./24181-tekken-dark-resurrection.json) |
 | Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
@@ -357,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
+| This Night | 394039 | [394039-this-night.json](./394039-this-night.json) |
 | This World Unknown | 31489 | [31489-this-world-unknown.json](./31489-this-world-unknown.json) |
 | Thorne - Son of Slaves (Ep.2) | 33039 | [33039-thorne-son-of-slaves-ep-2.json](./33039-thorne-son-of-slaves-ep-2.json) |
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
@@ -430,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Anniversary | 1162 | [1162-tomb-raider-anniversary.json](./1162-tomb-raider-anniversary.json) |
 | Tomb Raider: Gold | 2537 | [2537-tomb-raider-gold.json](./2537-tomb-raider-gold.json) |
 | Tomodachi Collection | 71900 | [71900-tomodachi-collection.json](./71900-tomodachi-collection.json) |
+| ToMyX | 394030 | [394030-tomyx.json](./394030-tomyx.json) |
 | Tony Hawk's Pro Skater 4 | 210463 | [210463-tony-hawks-pro-skater-4.json](./210463-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
