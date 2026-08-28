@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 2014 FIFA World Cup Brazil | 5471 | [5471-2014-fifa-world-cup-brazil.json](./5471-2014-fifa-world-cup-brazil.json) |
 | 2017 VR | 29857 | [29857-2017-vr.json](./29857-2017-vr.json) |
+| 28 Leicester Square | 412881 | [412881-28-leicester-square.json](./412881-28-leicester-square.json) |
 | 300: Rise of an Empire | 20926 | [20926-300-rise-of-an-empire.json](./20926-300-rise-of-an-empire.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
@@ -35,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
+| 8bit Salvage | 412828 | [412828-8bit-salvage.json](./412828-8bit-salvage.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
 | Ōkami HD | 20744 | [20744-okami-hd.json](./20744-okami-hd.json) |
 | Öoo | 328028 | [328028-ooo.json](./328028-ooo.json) |
