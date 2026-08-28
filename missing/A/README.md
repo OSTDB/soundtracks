@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
+| Abyss Runner | 402837 | [402837-abyss-runner.json](./402837-abyss-runner.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
 | Aetheris Core | 411453 | [411453-aetheris-core.json](./411453-aetheris-core.json) |
+| AFK Tactics | 402819 | [402819-afk-tactics.json](./402819-afk-tactics.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
+| Alicia Reborn | 402763 | [402763-alicia-reborn.json](./402763-alicia-reborn.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
@@ -183,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
+| Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
