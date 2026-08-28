@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
+| A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
 | A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
 | A Girl Adrift: Reunited Horizon | 400141 | [400141-a-girl-adrift-reunited-horizon.json](./400141-a-girl-adrift-reunited-horizon.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
 | Arcade Archives 2: Final Lap | 396094 | [396094-arcade-archives-2-final-lap.json](./396094-arcade-archives-2-final-lap.json) |
 | Arcade Archives 2: Plump Pop | 394721 | [394721-arcade-archives-2-plump-pop.json](./394721-arcade-archives-2-plump-pop.json) |
+| Arcade Archives 2: Quester | 387879 | [387879-arcade-archives-2-quester.json](./387879-arcade-archives-2-quester.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
 | Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
