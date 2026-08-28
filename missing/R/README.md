@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
 | Rackpunk: A Wasteland Hustle | 396077 | [396077-rackpunk-a-wasteland-hustle.json](./396077-rackpunk-a-wasteland-hustle.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
+| Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
@@ -53,12 +54,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Re:Ghosted | 401433 | [401433-re-re-ghosted.json](./401433-re-re-ghosted.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
+| Reactonix Sandbox | 392035 | [392035-reactonix-sandbox.json](./392035-reactonix-sandbox.json) |
+| Reactor | 392047 | [392047-reactor.json](./392047-reactor.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
+| Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
@@ -72,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
 | Red Planet | 393999 | [393999-red-planet.json](./393999-red-planet.json) |
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
+| Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
