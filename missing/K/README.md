@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevin's In Trouble | 406616 | [406616-kevins-in-trouble.json](./406616-kevins-in-trouble.json) |
 | Key Your Debt | 386617 | [386617-key-your-debt.json](./386617-key-your-debt.json) |
 | Keykruncher | 408685 | [408685-keykruncher.json](./408685-keykruncher.json) |
+| KGB v smokinge | 375669 | [375669-kgb-v-smokinge.json](./375669-kgb-v-smokinge.json) |
 | Kiaris | 399517 | [399517-kiaris.json](./399517-kiaris.json) |
 | Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
