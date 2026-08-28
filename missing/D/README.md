@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
+| Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
 | Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
+| Dictatorship Simulator | 404159 | [404159-dictatorship-simulator.json](./404159-dictatorship-simulator.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
@@ -193,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Dunwall City Trials | 14572 | [14572-dishonored-dunwall-city-trials.json](./14572-dishonored-dunwall-city-trials.json) |
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
+| Disney Dreamlight Valley: A Hero's Journey | 404122 | [404122-disney-dreamlight-valley-a-heros-journey.json](./404122-disney-dreamlight-valley-a-heros-journey.json) |
 | Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
 | Disney Dreamlight Valley: Honeyglow Woods | 407251 | [407251-disney-dreamlight-valley-honeyglow-woods.json](./407251-disney-dreamlight-valley-honeyglow-woods.json) |
 | Disney Dreamlight Valley: Pixel Perfect | 411474 | [411474-disney-dreamlight-valley-pixel-perfect.json](./411474-disney-dreamlight-valley-pixel-perfect.json) |
@@ -299,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
 | Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
+| Drained Creatures | 404102 | [404102-drained-creatures.json](./404102-drained-creatures.json) |
 | Drakan: The Ancients' Gates | 7577 | [7577-drakan-the-ancients-gates.json](./7577-drakan-the-ancients-gates.json) |
 | Drake & Josh: Talent Showdown | 7971 | [7971-drake-and-josh-talent-showdown.json](./7971-drake-and-josh-talent-showdown.json) |
 | Drakengard 3 | 8576 | [8576-drakengard-3.json](./8576-drakengard-3.json) |
@@ -310,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
+| Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
@@ -368,4 +373,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors: Godseekers | 25639 | [25639-dynasty-warriors-godseekers.json](./25639-dynasty-warriors-godseekers.json) |
 | Dynasty Warriors: Gundam Reborn | 21072 | [21072-dynasty-warriors-gundam-reborn.json](./21072-dynasty-warriors-gundam-reborn.json) |
 | Dyschronia: Chronos Alternate | 178825 | [178825-dyschronia-chronos-alternate.json](./178825-dyschronia-chronos-alternate.json) |
+| Dysphoric Soymilk Lidocaine | 404101 | [404101-dysphoric-soymilk-lidocaine.json](./404101-dysphoric-soymilk-lidocaine.json) |
 | Dystopika | 268295 | [268295-dystopika.json](./268295-dystopika.json) |
