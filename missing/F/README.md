@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
 | Fate: The Cursed King | 15472 | [15472-fate-the-cursed-king.json](./15472-fate-the-cursed-king.json) |
+| Fate’s Loop | 387255 | [387255-fate-s-loop.json](./387255-fate-s-loop.json) |
 | Fate/Grand Order Lostbelt No. 7: Nahui Mictlān | 413519 | [413519-fate-grand-order-lostbelt-no-7-nahui-mictlan.json](./413519-fate-grand-order-lostbelt-no-7-nahui-mictlan.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
