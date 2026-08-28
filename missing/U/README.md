@@ -9,11 +9,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U Tsu Tsu Tsu | 406590 | [406590-u-tsu-tsu-tsu.json](./406590-u-tsu-tsu-tsu.json) |
 | U-Boats | 34376 | [34376-u-boats.json](./34376-u-boats.json) |
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
+| Ubai Again | 400128 | [400128-ubai-again.json](./400128-ubai-again.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
+| Ultima IV: C64 | 400133 | [400133-ultima-iv-c64.json](./400133-ultima-iv-c64.json) |
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
