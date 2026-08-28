@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Golf | 394029 | [394029-footy-golf.json](./394029-footy-golf.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forage & Brew | 392675 | [392675-forage-and-brew.json](./392675-forage-and-brew.json) |
+| Forage Wizard | 391498 | [391498-forage-wizard.json](./391498-forage-wizard.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
 | Force of Elements | 15573 | [15573-force-of-elements.json](./15573-force-of-elements.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal: Make Blooms Not War | 15062 | [15062-fractal-make-blooms-not-war.json](./15062-fractal-make-blooms-not-war.json) |
 | Fractured Minds | 114909 | [114909-fractured-minds.json](./114909-fractured-minds.json) |
 | Fragile Dreams: Farewell Ruins of the Moon | 4872 | [4872-fragile-dreams-farewell-ruins-of-the-moon.json](./4872-fragile-dreams-farewell-ruins-of-the-moon.json) |
+| Fragmentosis | 391494 | [391494-fragmentosis.json](./391494-fragmentosis.json) |
 | Framed 2 | 25236 | [25236-framed-2.json](./25236-framed-2.json) |
 | Framed Collection | 71957 | [71957-framed-collection.json](./71957-framed-collection.json) |
 | Fran Bow Chapter 2 | 91995 | [91995-fran-bow-chapter-2.json](./91995-fran-bow-chapter-2.json) |
@@ -255,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | Frog Parkour Obby | 414231 | [414231-frog-parkour-obby.json](./414231-frog-parkour-obby.json) |
+| Frog vs Mural Girl | 391478 | [391478-frog-vs-mural-girl.json](./391478-frog-vs-mural-girl.json) |
 | Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
