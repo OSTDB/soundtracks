@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
 | Grid of Change | 396774 | [396774-grid-of-change.json](./396774-grid-of-change.json) |
 | Grid: Autosport | 6415 | [6415-grid-autosport.json](./6415-grid-autosport.json) |
+| Gridvania | 378056 | [378056-gridvania.json](./378056-gridvania.json) |
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
 | Grimveil | 414220 | [414220-grimveil.json](./414220-grimveil.json) |
