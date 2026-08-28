@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
+| Desire's Burgers | 392033 | [392033-desires-burgers.json](./392033-desires-burgers.json) |
 | Desktop Destroyer | 407976 | [407976-desktop-destroyer.json](./407976-desktop-destroyer.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
+| Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dick Tracy | 83908 | [83908-dick-tracy.json](./83908-dick-tracy.json) |
 | Dick Wilde | 29669 | [29669-dick-wilde.json](./29669-dick-wilde.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Something | 22858 | [22858-draw-something.json](./22858-draw-something.json) |
 | Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
+| Draw, Draw, Pass! | 392060 | [392060-draw-draw-pass.json](./392060-draw-draw-pass.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
@@ -361,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress the Part! Outfit Puzzle | 409480 | [409480-dress-the-part-outfit-puzzle.json](./409480-dress-the-part-outfit-puzzle.json) |
 | Drift | 400129 | [400129-drift.json](./400129-drift.json) |
 | Drift Splatter | 408691 | [408691-drift-splatter.json](./408691-drift-splatter.json) |
+| Drift Survivors | 392055 | [392055-drift-survivors.json](./392055-drift-survivors.json) |
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
 | Drifters: Blackout Crew | 413536 | [413536-drifters-blackout-crew.json](./413536-drifters-blackout-crew.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
