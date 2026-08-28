@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
 | Dating Killmulator 2 | 410118 | [410118-dating-killmulator-2.json](./410118-dating-killmulator-2.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
+| Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
 | Dawn of the Plow | 24021 | [24021-dawn-of-the-plow.json](./24021-dawn-of-the-plow.json) |
 | Dawn's Light | 31504 | [31504-dawns-light.json](./31504-dawns-light.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
+| Dead by Daylight: Jason | 407237 | [407237-dead-by-daylight-jason.json](./407237-dead-by-daylight-jason.json) |
 | Dead Connection | 39635 | [39635-dead-connection.json](./39635-dead-connection.json) |
 | Dead Dawg Delivery Co. | 412143 | [412143-dead-dawg-delivery-co.json](./412143-dead-dawg-delivery-co.json) |
 | Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
 | Death Ray Manta SE | 22150 | [22150-death-ray-manta-se.json](./22150-death-ray-manta-se.json) |
+| Death Run | 407257 | [407257-death-run.json](./407257-death-run.json) |
 | Death Track: Resurrection | 11026 | [11026-death-track-resurrection.json](./11026-death-track-resurrection.json) |
 | Death Train VR | 61883 | [61883-death-train-vr.json](./61883-death-train-vr.json) |
 | Death Trash | 22779 | [22779-death-trash.json](./22779-death-trash.json) |
@@ -185,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: The Brigmore Witches | 14569 | [14569-dishonored-the-brigmore-witches.json](./14569-dishonored-the-brigmore-witches.json) |
 | Disney Art Academy | 18198 | [18198-disney-art-academy.json](./18198-disney-art-academy.json) |
 | Disney Dreamlight Valley: A Rift in Time | 275132 | [275132-disney-dreamlight-valley-a-rift-in-time.json](./275132-disney-dreamlight-valley-a-rift-in-time.json) |
+| Disney Dreamlight Valley: Honeyglow Woods | 407251 | [407251-disney-dreamlight-valley-honeyglow-woods.json](./407251-disney-dreamlight-valley-honeyglow-woods.json) |
 | Disney Dreamlight Valley: Pixel Perfect | 411474 | [411474-disney-dreamlight-valley-pixel-perfect.json](./411474-disney-dreamlight-valley-pixel-perfect.json) |
 | Disney Illusion Island | 216278 | [216278-disney-illusion-island.json](./216278-disney-illusion-island.json) |
 | Disney Infinity | 2926 | [2926-disney-infinity.json](./2926-disney-infinity.json) |
@@ -212,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
 | DMT | 109811 | [109811-dmt.json](./109811-dmt.json) |
+| Do You Really Know About Soccer? | 407263 | [407263-do-you-really-know-about-soccer.json](./407263-do-you-really-know-about-soccer.json) |
 | Doctor Lautrec and the Forgotten Knights | 6757 | [6757-doctor-lautrec-and-the-forgotten-knights.json](./6757-doctor-lautrec-and-the-forgotten-knights.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
