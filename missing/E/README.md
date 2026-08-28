@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderborn | 74330 | [74330-elderborn.json](./74330-elderborn.json) |
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
+| Elemental Witches | 390430 | [390430-elemental-witches.json](./390430-elemental-witches.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
 | Elevation | 396044 | [396044-elevation.json](./396044-elevation.json) |
 | Elf World Adventure 12: Winter Episode! | 406033 | [406033-elf-world-adventure-12-winter-episode.json](./406033-elf-world-adventure-12-winter-episode.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
 | Ephemerid: A Musical Adventure | 36111 | [36111-ephemerid-a-musical-adventure.json](./36111-ephemerid-a-musical-adventure.json) |
+| Ephialtes | 390433 | [390433-ephialtes.json](./390433-ephialtes.json) |
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
@@ -132,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
 | Every 5x5 Nonogram | 402772 | [402772-every-5x5-nonogram.json](./402772-every-5x5-nonogram.json) |
 | Every 5x6 Nonogram | 402774 | [402774-every-5x6-nonogram.json](./402774-every-5x6-nonogram.json) |
+| Every Thought Flies | 390429 | [390429-every-thought-flies.json](./390429-every-thought-flies.json) |
 | Everybody's Happy Place | 410107 | [410107-everybodys-happy-place.json](./410107-everybodys-happy-place.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
@@ -145,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
+| Excrucia | 390409 | [390409-excrucia.json](./390409-excrucia.json) |
 | Exhauster | 413531 | [413531-exhauster.json](./413531-exhauster.json) |
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Existential Kitty Cat RPG | 95618 | [95618-existential-kitty-cat-rpg.json](./95618-existential-kitty-cat-rpg.json) |
