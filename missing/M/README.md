@@ -72,11 +72,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
+| Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
+| Maple Wars | 375634 | [375634-maple-wars.json](./375634-maple-wars.json) |
 | Mara | 405424 | [405424-mara.json](./405424-mara.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
@@ -104,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark McMorris Infinite Air | 25206 | [25206-mark-mcmorris-infinite-air.json](./25206-mark-mcmorris-infinite-air.json) |
 | Marque & Reprisal | 412123 | [412123-marque-and-reprisal.json](./412123-marque-and-reprisal.json) |
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
+| Mars 2120: The More, the Merrier | 375677 | [375677-mars-2120-the-more-the-merrier.json](./375677-mars-2120-the-more-the-merrier.json) |
 | Mars Colony Simulator | 400106 | [400106-mars-colony-simulator.json](./400106-mars-colony-simulator.json) |
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
 | Marshallese Dominatrixes Are the Best | 389304 | [389304-marshallese-dominatrixes-are-the-best.json](./389304-marshallese-dominatrixes-are-the-best.json) |
@@ -421,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murasame | 383814 | [383814-murasame.json](./383814-murasame.json) |
+| Murder in Omar's Burger | 375664 | [375664-murder-in-omars-burger.json](./375664-murder-in-omars-burger.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Murderplanet | 395421 | [395421-murderplanet.json](./395421-murderplanet.json) |
 | Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
