@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
+| MoneyFalls: Coin Pusher Simulator | 386608 | [386608-moneyfalls-coin-pusher-simulator.json](./386608-moneyfalls-coin-pusher-simulator.json) |
 | Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTB Bike Simulator | 401414 | [401414-mtb-bike-simulator.json](./401414-mtb-bike-simulator.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Mullet Cop the Game | 396821 | [396821-mullet-cop-the-game.json](./396821-mullet-cop-the-game.json) |
+| Muppet Kids: Letters - Capital & Small | 386603 | [386603-muppet-kids-letters-capital-and-small.json](./386603-muppet-kids-letters-capital-and-small.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
@@ -391,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
+| My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
