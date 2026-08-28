@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicky the Fox | 386030 | [386030-vicky-the-fox.json](./386030-vicky-the-fox.json) |
 | Victorian Dread | 377447 | [377447-victorian-dread.json](./377447-victorian-dread.json) |
 | Video Battle Arena | 387195 | [387195-video-battle-arena.json](./387195-video-battle-arena.json) |
+| Viet Quoc Truyen Ky | 368341 | [368341-viet-quoc-truyen-ky.json](./368341-viet-quoc-truyen-ky.json) |
 | Vigilant Paradise | 412158 | [412158-vigilant-paradise.json](./412158-vigilant-paradise.json) |
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
