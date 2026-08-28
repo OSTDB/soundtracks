@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
 | Marbly | 20913 | [20913-marbly.json](./20913-marbly.json) |
+| March of the Red Queen | 414206 | [414206-march-of-the-red-queen.json](./414206-march-of-the-red-queen.json) |
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
+| Metroid Prime Hunters: Recompiled | 414195 | [414195-metroid-prime-hunters-recompiled.json](./414195-metroid-prime-hunters-recompiled.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
 | Miami Vice: The Game | 23818 | [23818-miami-vice-the-game.json](./23818-miami-vice-the-game.json) |
@@ -147,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Space Adventure | 7654 | [7654-mickeys-space-adventure.json](./7654-mickeys-space-adventure.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
+| Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
 | Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
@@ -175,10 +178,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
+| Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
+| Mizuki: Demon-Slaying Housewife | 414208 | [414208-mizuki-demon-slaying-housewife.json](./414208-mizuki-demon-slaying-housewife.json) |
 | MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
 | MLB SlugFest 2004 | 23819 | [23819-mlb-slugfest-2004.json](./23819-mlb-slugfest-2004.json) |
 | MLB Tap Sports Baseball 2018 | 96026 | [96026-mlb-tap-sports-baseball-2018.json](./96026-mlb-tap-sports-baseball-2018.json) |
