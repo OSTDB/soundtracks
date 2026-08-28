@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallons Legacy | 398228 | [398228-gallons-legacy.json](./398228-gallons-legacy.json) |
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
+| Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
@@ -59,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to Work, Gnomes! Christmas Factory | 399472 | [399472-get-to-work-gnomes-christmas-factory.json](./399472-get-to-work-gnomes-christmas-factory.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
+| Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | Ghost Village Girl: The Village in a Cage | 410134 | [410134-ghost-village-girl-the-village-in-a-cage.json](./410134-ghost-village-girl-the-village-in-a-cage.json) |
