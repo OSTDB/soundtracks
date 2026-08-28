@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Viking Saga: Epic Adventure | 77051 | [77051-viking-saga-epic-adventure.json](./77051-viking-saga-epic-adventure.json) |
+| Village 51 | 404736 | [404736-village-51.json](./404736-village-51.json) |
 | Village Incremental | 414954 | [414954-village-incremental.json](./414954-village-incremental.json) |
 | Village of Souls | 47133 | [47133-village-of-souls.json](./47133-village-of-souls.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
