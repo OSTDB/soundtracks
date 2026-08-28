@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
+| Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
 | Eisenhorn: Xenos | 18726 | [18726-eisenhorn-xenos.json](./18726-eisenhorn-xenos.json) |
