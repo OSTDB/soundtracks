@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Care Simulator | 373909 | [373909-lawn-care-simulator.json](./373909-lawn-care-simulator.json) |
 | Lawnmower Game | 44179 | [44179-lawnmower-game.json](./44179-lawnmower-game.json) |
 | Lawnmower Game Battle 2: Reload | 392674 | [392674-lawnmower-game-battle-2-reload.json](./392674-lawnmower-game-battle-2-reload.json) |
+| Lawnmower Game: Zombies | 367782 | [367782-lawnmower-game-zombies.json](./367782-lawnmower-game-zombies.json) |
 | Layang Atma | 412167 | [412167-layang-atma.json](./412167-layang-atma.json) |
 | Layers of Fear | 239163 | [239163-layers-of-fear.json](./239163-layers-of-fear.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
