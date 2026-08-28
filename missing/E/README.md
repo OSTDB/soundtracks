@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Coil | 411448 | [411448-eden-coil.json](./411448-eden-coil.json) |
 | Eden: Garden of the Faultless | 392027 | [392027-eden-garden-of-the-faultless.json](./392027-eden-garden-of-the-faultless.json) |
 | Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
+| Edge of Evil | 379758 | [379758-edge-of-evil.json](./379758-edge-of-evil.json) |
 | EEP 18 | 403491 | [403491-eep-18.json](./403491-eep-18.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
@@ -146,6 +147,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every 5x6 Nonogram | 402774 | [402774-every-5x6-nonogram.json](./402774-every-5x6-nonogram.json) |
 | Every Thought Flies | 390429 | [390429-every-thought-flies.json](./390429-every-thought-flies.json) |
 | Everybody's Happy Place | 410107 | [410107-everybodys-happy-place.json](./410107-everybodys-happy-place.json) |
+| Everyday I Play Board Games with a Summoned Eldritch Girl | 379755 | [379755-everyday-i-play-board-games-with-a-summoned-eldritch-girl.json](./379755-everyday-i-play-board-games-with-a-summoned-eldritch-girl.json) |
+| Everyday I Play Board Games with a Summoned Eldritch Girl: Chibi Stickers | 379756 | [379756-everyday-i-play-board-games-with-a-summoned-eldritch-girl-chibi-stickers.json](./379756-everyday-i-play-board-games-with-a-summoned-eldritch-girl-chibi-stickers.json) |
+| Everyday I play board games with a summoned eldritch girl: Morning Call | 379757 | [379757-everyday-i-play-board-games-with-a-summoned-eldritch-girl-morning-call.json](./379757-everyday-i-play-board-games-with-a-summoned-eldritch-girl-morning-call.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
 | Evil Come | 76929 | [76929-evil-come.json](./76929-evil-come.json) |
