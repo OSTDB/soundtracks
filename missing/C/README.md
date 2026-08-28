@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
 | Cat a Loop | 414995 | [414995-cat-a-loop.json](./414995-cat-a-loop.json) |
+| Cat Chaos | 392042 | [392042-cat-chaos.json](./392042-cat-chaos.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Chinbu's Adventure | 77160 | [77160-chinbus-adventure.json](./77160-chinbus-adventure.json) |
 | Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
+| Chinese Strange Stories | 392067 | [392067-chinese-strange-stories.json](./392067-chinese-strange-stories.json) |
 | Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
 | Chocolate makes you happy 2 | 76668 | [76668-chocolate-makes-you-happy-2.json](./76668-chocolate-makes-you-happy-2.json) |
 | Chocolatier: Decadence by Design | 14999 | [14999-chocolatier-decadence-by-design.json](./14999-chocolatier-decadence-by-design.json) |
@@ -191,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
+| Code of Shadows | 392037 | [392037-code-of-shadows.json](./392037-code-of-shadows.json) |
 | Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
@@ -301,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
+| Crash and Conquer | 392020 | [392020-crash-and-conquer.json](./392020-crash-and-conquer.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
