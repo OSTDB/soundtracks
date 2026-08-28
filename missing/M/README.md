@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
+| Might and Magic Trilogy | 382614 | [382614-might-and-magic-trilogy.json](./382614-might-and-magic-trilogy.json) |
 | Might and Magic V: Darkside of Xeen | 7737 | [7737-might-and-magic-v-darkside-of-xeen.json](./7737-might-and-magic-v-darkside-of-xeen.json) |
 | Mighty Dungeons | 35765 | [35765-mighty-dungeons.json](./35765-mighty-dungeons.json) |
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Minesweeper Classic | 384945 | [384945-minesweeper-classic.json](./384945-minesweeper-classic.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
+| Miney Golf | 382604 | [382604-miney-golf.json](./382604-miney-golf.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
