@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
+| Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
+| Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
@@ -108,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
 | Shufflepuck Cantina Deluxe VR | 16773 | [16773-shufflepuck-cantina-deluxe-vr.json](./16773-shufflepuck-cantina-deluxe-vr.json) |
 | Shutshimi | 23319 | [23319-shutshimi.json](./23319-shutshimi.json) |
 | SickBrick | 24601 | [24601-sickbrick.json](./24601-sickbrick.json) |
@@ -237,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
+| Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | Spellbound | 32972 | [32972-spellbound.json](./32972-spellbound.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
@@ -304,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
+| Starship Corporation | 14904 | [14904-starship-corporation.json](./14904-starship-corporation.json) |
 | Starship Traveller | 35773 | [35773-starship-traveller.json](./35773-starship-traveller.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
 | Starship Troopers: Extermination | 228175 | [228175-starship-troopers-extermination.json](./228175-starship-troopers-extermination.json) |
@@ -360,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
+| Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
