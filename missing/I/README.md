@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
+| I'm a Big Fan | 413567 | [413567-im-a-big-fan.json](./413567-im-a-big-fan.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inmost | 107187 | [107187-inmost.json](./107187-inmost.json) |
 | Insane 2 | 14974 | [14974-insane-2.json](./14974-insane-2.json) |
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
+| Inside the Cube | 413560 | [413560-inside-the-cube.json](./413560-inside-the-cube.json) |
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | Internal Light | 76914 | [76914-internal-light.json](./76914-internal-light.json) |
 | International Snooker | 10439 | [10439-international-snooker.json](./10439-international-snooker.json) |
