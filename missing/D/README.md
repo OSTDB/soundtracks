@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 2 | 1393 | [1393-dead-or-alive-xtreme-2.json](./1393-dead-or-alive-xtreme-2.json) |
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Dead Rush | 383831 | [383831-dead-rush.json](./383831-dead-rush.json) |
+| Dead Samurai | 377465 | [377465-dead-samurai.json](./377465-dead-samurai.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
 | Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decypher: Chapter 1 - Dream Intruder | 387909 | [387909-decypher-chapter-1-dream-intruder.json](./387909-decypher-chapter-1-dream-intruder.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Dive | 380249 | [380249-deep-dive.json](./380249-deep-dive.json) |
+| Deep in the Dread | 377441 | [377441-deep-in-the-dread.json](./377441-deep-in-the-dread.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Six | 380250 | [380250-deep-six.json](./380250-deep-six.json) |
 | Deep Snow Delivery | 380251 | [380251-deep-snow-delivery.json](./380251-deep-snow-delivery.json) |
@@ -443,7 +445,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
 | Draw, Draw, Pass! | 392060 | [392060-draw-draw-pass.json](./392060-draw-draw-pass.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
+| Dread of Night | 377450 | [377450-dread-of-night.json](./377450-dread-of-night.json) |
+| Dreadarion VR | 377442 | [377442-dreadarion-vr.json](./377442-dreadarion-vr.json) |
+| Dreaded Conquest | 377443 | [377443-dreaded-conquest.json](./377443-dreaded-conquest.json) |
+| Dreaded Wunder | 377444 | [377444-dreaded-wunder.json](./377444-dreaded-wunder.json) |
+| Dreadful Defenders | 377445 | [377445-dreadful-defenders.json](./377445-dreadful-defenders.json) |
+| Dreadful Delivery | 377446 | [377446-dreadful-delivery.json](./377446-dreadful-delivery.json) |
+| Dreadfull Death | 377440 | [377440-dreadfull-death.json](./377440-dreadfull-death.json) |
+| Dreadline Express | 377451 | [377451-dreadline-express.json](./377451-dreadline-express.json) |
 | Dreadmarch | 389870 | [389870-dreadmarch.json](./389870-dreadmarch.json) |
+| Dreadmarrow | 377452 | [377452-dreadmarrow.json](./377452-dreadmarrow.json) |
+| Dreadpeak | 377448 | [377448-dreadpeak.json](./377448-dreadpeak.json) |
+| Dreadveil | 377449 | [377449-dreadveil.json](./377449-dreadveil.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Chaser | 380288 | [380288-dream-chaser.json](./380288-dream-chaser.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
