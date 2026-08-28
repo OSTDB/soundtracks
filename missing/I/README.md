@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Dawn of the Dinosaurs | 4923 | [4923-ice-age-dawn-of-the-dinosaurs.json](./4923-ice-age-dawn-of-the-dinosaurs.json) |
 | Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
+| Ice Throw | 396053 | [396053-ice-throw.json](./396053-ice-throw.json) |
 | Iced | 29854 | [29854-iced.json](./29854-iced.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
 | Iconoclast | 399445 | [399445-iconoclast.json](./399445-iconoclast.json) |
@@ -59,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search Of Treasures | 398863 | [398863-in-search-of-treasures.json](./398863-in-search-of-treasures.json) |
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
+| In Tow | 396062 | [396062-in-tow.json](./396062-in-tow.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
