@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 3D Whac-A-Mole | 367771 | [367771-3d-whac-a-mole.json](./367771-3d-whac-a-mole.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
+| 3XXX: Naked Human Bombs | 364889 | [364889-3xxx-naked-human-bombs.json](./364889-3xxx-naked-human-bombs.json) |
 | 4 in 1 Bundle Creative Puzzles & Table Football | 366662 | [366662-4-in-1-bundle-creative-puzzles-and-table-football.json](./366662-4-in-1-bundle-creative-puzzles-and-table-football.json) |
 | 4 in 1 Sports Bundle | 380847 | [380847-4-in-1-sports-bundle.json](./380847-4-in-1-sports-bundle.json) |
 | 4K Bricks Breaker Plus | 367774 | [367774-4k-bricks-breaker-plus.json](./367774-4k-bricks-breaker-plus.json) |
