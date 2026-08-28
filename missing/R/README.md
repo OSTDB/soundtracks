@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail of War | 383251 | [383251-rail-of-war.json](./383251-rail-of-war.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
+| Rainbows Are Carnivores | 381431 | [381431-rainbows-are-carnivores.json](./381431-rainbows-are-carnivores.json) |
 | Raining Cats and Dogs | 398873 | [398873-raining-cats-and-dogs.json](./398873-raining-cats-and-dogs.json) |
 | Rakete | 410111 | [410111-rakete.json](./410111-rakete.json) |
 | Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
@@ -38,13 +39,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramune Forest | 391472 | [391472-ramune-forest.json](./391472-ramune-forest.json) |
 | Ranchbound | 386596 | [386596-ranchbound.json](./386596-ranchbound.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
+| Rat God | 381429 | [381429-rat-god.json](./381429-rat-god.json) |
 | Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
 | Ratalorica | 403474 | [403474-ratalorica.json](./403474-ratalorica.json) |
 | Ratchet & Clank: Going Commando | 253138 | [253138-ratchet-and-clank-going-commando.json](./253138-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Size Matters | 1791 | [1791-ratchet-and-clank-size-matters.json](./1791-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Up Your Arsenal | 1773 | [1773-ratchet-and-clank-up-your-arsenal.json](./1773-ratchet-and-clank-up-your-arsenal.json) |
 | Ratchet: Deadlocked | 254579 | [254579-ratchet-deadlocked.json](./254579-ratchet-deadlocked.json) |
+| Ratmouse | 381428 | [381428-ratmouse.json](./381428-ratmouse.json) |
 | Ratopia | 236479 | [236479-ratopia.json](./236479-ratopia.json) |
+| Ratsukade | 381427 | [381427-ratsukade.json](./381427-ratsukade.json) |
 | Rave Master | 4082 | [4082-rave-master.json](./4082-rave-master.json) |
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
@@ -76,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
 | Reason with Gonzo | 391482 | [391482-reason-with-gonzo.json](./391482-reason-with-gonzo.json) |
+| Rebirth Moon | 381450 | [381450-rebirth-moon.json](./381450-rebirth-moon.json) |
 | ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Record of Lodoss War: Haiiro no Majo | 387209 | [387209-record-of-lodoss-war-haiiro-no-majo.json](./387209-record-of-lodoss-war-haiiro-no-majo.json) |
@@ -132,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Tycoon: My Cooking Empire - Platinium Edition | 394754 | [394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json](./394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
 | Restless Dreams | 386027 | [386027-restless-dreams.json](./386027-restless-dreams.json) |
+| Resurrection Gate | 381430 | [381430-resurrection-gate.json](./381430-resurrection-gate.json) |
 | Retina Rush | 393316 | [393316-retina-rush.json](./393316-retina-rush.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
@@ -255,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | RP2D Virtual Tabletop | 404760 | [404760-rp2d-virtual-tabletop.json](./404760-rp2d-virtual-tabletop.json) |
 | RTAchan Tower Builder | 383259 | [383259-rtachan-tower-builder.json](./383259-rtachan-tower-builder.json) |
+| Ruadine | 381440 | [381440-ruadine.json](./381440-ruadine.json) |
 | Rudravati: Curse of Bhankilla | 385492 | [385492-rudravati-curse-of-bhankilla.json](./385492-rudravati-curse-of-bhankilla.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
