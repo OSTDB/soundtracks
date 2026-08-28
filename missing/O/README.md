@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Magnum: Complete Edition | 392618 | [392618-opus-magnum-complete-edition.json](./392618-opus-magnum-complete-edition.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
+| Oracle of Runes | 360390 | [360390-oracle-of-runes.json](./360390-oracle-of-runes.json) |
 | Oradea | 387858 | [387858-oradea.json](./387858-oradea.json) |
 | Orange You Glad I Didn't Say Banana | 367254 | [367254-orange-you-glad-i-didnt-say-banana.json](./367254-orange-you-glad-i-didnt-say-banana.json) |
 | Orb Grabber | 372888 | [372888-orb-grabber.json](./372888-orb-grabber.json) |
