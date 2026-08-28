@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Myth | 392066 | [392066-echoes-of-myth.json](./392066-echoes-of-myth.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
+| Eclitptic | 378671 | [378671-eclitptic.json](./378671-eclitptic.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | Eco Volunteer | 388572 | [388572-eco-volunteer.json](./388572-eco-volunteer.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Epic Royal | 386013 | [386013-epic-royal.json](./386013-epic-royal.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
+| EQ gunkatas | 378669 | [378669-eq-gunkatas.json](./378669-eq-gunkatas.json) |
 | Eqqo | 101685 | [101685-eqqo.json](./101685-eqqo.json) |
 | Equilinox | 111695 | [111695-equilinox.json](./111695-equilinox.json) |
 | Erehwon | 393357 | [393357-erehwon.json](./393357-erehwon.json) |
@@ -110,6 +112,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Wept | 395404 | [395404-eros-wept.json](./395404-eros-wept.json) |
 | Erotic Fantasy Hentai Photographer | 382063 | [382063-erotic-fantasy-hentai-photographer.json](./382063-erotic-fantasy-hentai-photographer.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
+| Escape Alice House | 378624 | [378624-escape-alice-house.json](./378624-escape-alice-house.json) |
+| Escape Alice House 2 | 378625 | [378625-escape-alice-house-2.json](./378625-escape-alice-house-2.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
