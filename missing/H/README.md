@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
+| Hundeparken | 366689 | [366689-hundeparken.json](./366689-hundeparken.json) |
 | Hungerwinter | 398247 | [398247-hungerwinter.json](./398247-hungerwinter.json) |
 | Hungry Hungry Hippos: Move N’ Munch | 382611 | [382611-hungry-hungry-hippos-move-n-munch.json](./382611-hungry-hungry-hippos-move-n-munch.json) |
 | Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
