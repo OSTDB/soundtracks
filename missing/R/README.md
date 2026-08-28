@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
 | RedPixel | 367775 | [367775-redpixel.json](./367775-redpixel.json) |
+| Redshift | 365514 | [365514-redshift.json](./365514-redshift.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby World Cup 2011 | 7165 | [7165-rugby-world-cup-2011.json](./7165-rugby-world-cup-2011.json) |
 | Rugrats: Search for Reptar | 2787 | [2787-rugrats-search-for-reptar.json](./2787-rugrats-search-for-reptar.json) |
 | Rugrats: Totally Angelica | 372882 | [372882-rugrats-totally-angelica.json](./372882-rugrats-totally-angelica.json) |
+| Ruins Of Fear | 365529 | [365529-ruins-of-fear.json](./365529-ruins-of-fear.json) |
 | Rumble Club | 276929 | [276929-rumble-club.json](./276929-rumble-club.json) |
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
