@@ -91,3 +91,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
+| Juushinden: Ultimate Beast Battlers | 382623 | [382623-juushinden-ultimate-beast-battlers.json](./382623-juushinden-ultimate-beast-battlers.json) |
