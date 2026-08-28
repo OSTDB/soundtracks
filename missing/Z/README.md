@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Gear | 14920 | [14920-zero-gear.json](./14920-zero-gear.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zigfrak | 16771 | [16771-zigfrak.json](./16771-zigfrak.json) |
+| Zigzag Zealot | 398881 | [398881-zigzag-zealot.json](./398881-zigzag-zealot.json) |
 | Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
 | Zoids Assault | 47418 | [47418-zoids-assault.json](./47418-zoids-assault.json) |
