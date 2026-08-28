@@ -59,6 +59,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hataraku Otona no Renai Jijou 2 | 372295 | [372295-hataraku-otona-no-renai-jijou-2.json](./372295-hataraku-otona-no-renai-jijou-2.json) |
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
 | Haunted Castle Revisited | 314976 | [314976-haunted-castle-revisited.json](./314976-haunted-castle-revisited.json) |
+| Haunted Manor: Remembrance - Collector's Edition | 369953 | [369953-haunted-manor-remembrance-collectors-edition.json](./369953-haunted-manor-remembrance-collectors-edition.json) |
+| Haunted Manor: The Last Reunion - Collector's Edition | 369952 | [369952-haunted-manor-the-last-reunion-collectors-edition.json](./369952-haunted-manor-the-last-reunion-collectors-edition.json) |
 | HavenCraft | 404111 | [404111-havencraft.json](./404111-havencraft.json) |
 | Havendock: Wizard Island DLC | 378064 | [378064-havendock-wizard-island-dlc.json](./378064-havendock-wizard-island-dlc.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
