@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkshake | 407917 | [407917-milkshake.json](./407917-milkshake.json) |
 | Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
+| Mimosa | 398866 | [398866-mimosa.json](./398866-mimosa.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | MindFall: Cedar Grove | 402780 | [402780-mindfall-cedar-grove.json](./402780-mindfall-cedar-grove.json) |
 | Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
