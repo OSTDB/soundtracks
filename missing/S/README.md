@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
+| Senchu | 395438 | [395438-senchu.json](./395438-senchu.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
+| Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikit | 31867 | [31867-spikit.json](./31867-spikit.json) |
 | Spilled! | 235718 | [235718-spilled.json](./235718-spilled.json) |
 | Spin the Nut: Christmas is Coming | 89522 | [89522-spin-the-nut-christmas-is-coming.json](./89522-spin-the-nut-christmas-is-coming.json) |
+| Spinbot | 395441 | [395441-spinbot.json](./395441-spinbot.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
 | Spire of Chaos: Arcana Unleashed | 396085 | [396085-spire-of-chaos-arcana-unleashed.json](./396085-spire-of-chaos-arcana-unleashed.json) |
@@ -460,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stonewards | 396815 | [396815-stonewards.json](./396815-stonewards.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
+| Storm The House Collection | 395424 | [395424-storm-the-house-collection.json](./395424-storm-the-house-collection.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
 | Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
@@ -610,3 +614,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
 | Synthwave Dream '85 | 107884 | [107884-synthwave-dream-85.json](./107884-synthwave-dream-85.json) |
+| SynthwaveZ | 395417 | [395417-synthwavez.json](./395417-synthwavez.json) |
