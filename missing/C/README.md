@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
 | Cavern of Time | 29771 | [29771-cavern-of-time.json](./29771-cavern-of-time.json) |
+| CD-ROM | 388574 | [388574-cd-rom.json](./388574-cd-rom.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chattle! | 393330 | [393330-chattle.json](./393330-chattle.json) |
+| Cheliki | 388587 | [388587-cheliki.json](./388587-cheliki.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess | 393335 | [393335-chess.json](./393335-chess.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
@@ -219,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Inverter | 401395 | [401395-color-inverter.json](./401395-color-inverter.json) |
 | Color Switch 3D | 87644 | [87644-color-switch-3d.json](./87644-color-switch-3d.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
+| Color Zone | 388585 | [388585-color-zone.json](./388585-color-zone.json) |
 | Colorgrid | 126886 | [126886-colorgrid.json](./126886-colorgrid.json) |
 | Coloring Book | 112129 | [112129-coloring-book.json](./112129-coloring-book.json) |
 | Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
