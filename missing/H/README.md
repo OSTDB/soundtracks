@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
+| Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
@@ -161,6 +162,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
 | Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
+| Horde of Distraction | 390407 | [390407-horde-of-distraction.json](./390407-horde-of-distraction.json) |
+| Hordekill | 390417 | [390417-hordekill.json](./390417-hordekill.json) |
 | Hordestomp | 400139 | [400139-hordestomp.json](./400139-hordestomp.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
@@ -194,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
 | Human Bowling: King Pin | 392617 | [392617-human-bowling-king-pin.json](./392617-human-bowling-king-pin.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
+| Humanize Robotics | 390384 | [390384-humanize-robotics.json](./390384-humanize-robotics.json) |
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
