@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace, Death! | 27976 | [27976-peace-death.json](./27976-peace-death.json) |
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
+| Peeps! | 400766 | [400766-peeps.json](./400766-peeps.json) |
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
+| Pharmacy Store Simulator | 400756 | [400756-pharmacy-store-simulator.json](./400756-pharmacy-store-simulator.json) |
 | Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 1432 | [1432-phoenix-wright-ace-attorney-dual-destinies.json](./1432-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney Trilogy HD | 80151 | [80151-phoenix-wright-ace-attorney-trilogy-hd.json](./80151-phoenix-wright-ace-attorney-trilogy-hd.json) |
@@ -124,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
+| Pixel Into the Galaxy | 400782 | [400782-pixel-into-the-galaxy.json](./400782-pixel-into-the-galaxy.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
 | Pixel Puzzles Anime Jigsaws | 401424 | [401424-pixel-puzzles-anime-jigsaws.json](./401424-pixel-puzzles-anime-jigsaws.json) |
 | Pixel Puzzles Dinosaurs Jigsaws | 405377 | [405377-pixel-puzzles-dinosaurs-jigsaws.json](./405377-pixel-puzzles-dinosaurs-jigsaws.json) |
