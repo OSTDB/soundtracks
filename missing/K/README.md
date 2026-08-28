@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knight and Code | 389302 | [389302-knight-and-code.json](./389302-knight-and-code.json) |
 | Knight Castle Defender | 387243 | [387243-knight-castle-defender.json](./387243-knight-castle-defender.json) |
+| Knights & Towers | 374465 | [374465-knights-and-towers.json](./374465-knights-and-towers.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
