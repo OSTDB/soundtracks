@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire City: 1931 | 26543 | [26543-empire-city-1931.json](./26543-empire-city-1931.json) |
 | Empire Earth: Gold Edition | 53999 | [53999-empire-earth-gold-edition.json](./53999-empire-earth-gold-edition.json) |
 | Empire of Sin | 119386 | [119386-empire-of-sin.json](./119386-empire-of-sin.json) |
+| Empire Origin | 396801 | [396801-empire-origin.json](./396801-empire-origin.json) |
 | Empire: Total War - The Warpath Campaign | 82085 | [82085-empire-total-war-the-warpath-campaign.json](./82085-empire-total-war-the-warpath-campaign.json) |
 | Empluna | 404123 | [404123-empluna.json](./404123-empluna.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
