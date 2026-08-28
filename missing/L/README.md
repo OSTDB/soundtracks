@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
 | Lethal Women: Valerie's Game | 414217 | [414217-lethal-women-valeries-game.json](./414217-lethal-women-valeries-game.json) |
+| Lethal: Last Turn | 389887 | [389887-lethal-last-turn.json](./389887-lethal-last-turn.json) |
 | Lethargic | 402813 | [402813-lethargic.json](./402813-lethargic.json) |
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Day Off | 29860 | [29860-lilys-day-off.json](./29860-lilys-day-off.json) |
 | Limby | 408624 | [408624-limby.json](./408624-limby.json) |
 | Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
+| Liminal Logistics | 389896 | [389896-liminal-logistics.json](./389896-liminal-logistics.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
 | Lines | 36633 | [36633-lines.json](./36633-lines.json) |
