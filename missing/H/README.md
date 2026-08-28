@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
 | Hairy Little Buggers | 34381 | [34381-hairy-little-buggers.json](./34381-hairy-little-buggers.json) |
+| Hajimari ha Owari to Tomo ni...: Beginning is the End... | 396806 | [396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json](./396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json) |
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
 | Half-Life 2: Deathmatch | 9471 | [9471-half-life-2-deathmatch.json](./9471-half-life-2-deathmatch.json) |
 | Half-Life: MMod | 242078 | [242078-half-life-mmod.json](./242078-half-life-mmod.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Escape from Violet Hold | 409429 | [409429-hearthstone-escape-from-violet-hold.json](./409429-hearthstone-escape-from-violet-hold.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heatwave: Sam’s Stay | 405985 | [405985-heatwave-sam-s-stay.json](./405985-heatwave-sam-s-stay.json) |
+| Heaven Invaders | 396813 | [396813-heaven-invaders.json](./396813-heaven-invaders.json) |
 | Heaven Island - VR MMO | 34476 | [34476-heaven-island-vr-mmo.json](./34476-heaven-island-vr-mmo.json) |
 | Heavenly Bodies | 121697 | [121697-heavenly-bodies.json](./121697-heavenly-bodies.json) |
 | Heavenly Island | 407964 | [407964-heavenly-island.json](./407964-heavenly-island.json) |
@@ -166,7 +168,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Shall We Die | 405992 | [405992-how-shall-we-die.json](./405992-how-shall-we-die.json) |
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
+| Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
+| Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
