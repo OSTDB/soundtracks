@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
 | Object Impermanence | 375637 | [375637-object-impermanence.json](./375637-object-impermanence.json) |
+| Obliterator | 360973 | [360973-obliterator.json](./360973-obliterator.json) |
 | Oblivion 2666 | 410132 | [410132-oblivion-2666.json](./410132-oblivion-2666.json) |
 | Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
 | Occult Hand of the Blood Lily | 383841 | [383841-occult-hand-of-the-blood-lily.json](./383841-occult-hand-of-the-blood-lily.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
 | Odysseon | 392644 | [392644-odysseon.json](./392644-odysseon.json) |
 | Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
+| Of Peaks and Tides | 360968 | [360968-of-peaks-and-tides.json](./360968-of-peaks-and-tides.json) |
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
 | Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
