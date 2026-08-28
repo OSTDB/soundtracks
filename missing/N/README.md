@@ -122,4 +122,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Fighter | 412148 | [412148-nova-fighter.json](./412148-nova-fighter.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
+| Nuktedan: The Forgotten Emotions | 406592 | [406592-nuktedan-the-forgotten-emotions.json](./406592-nuktedan-the-forgotten-emotions.json) |
 | Numb Digger | 410759 | [410759-numb-digger.json](./410759-numb-digger.json) |
