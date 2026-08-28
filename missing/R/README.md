@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance: Fall of Man | 1278 | [1278-resistance-fall-of-man.json](./1278-resistance-fall-of-man.json) |
 | Restaurant Tycoon: My Cooking Empire - Platinium Edition | 394754 | [394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json](./394754-restaurant-tycoon-my-cooking-empire-platinium-edition.json) |
 | Restaurats | 302654 | [302654-restaurats.json](./302654-restaurats.json) |
+| Retina Rush | 393316 | [393316-retina-rush.json](./393316-retina-rush.json) |
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
 | Retro Puzzles: Eviva L'arte | 406587 | [406587-retro-puzzles-eviva-larte.json](./406587-retro-puzzles-eviva-larte.json) |
