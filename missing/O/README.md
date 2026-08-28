@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Re:Fresh Act.2 | 408700 | [408700-ongeki-re-fresh-act-2.json](./408700-ongeki-re-fresh-act-2.json) |
 | Oniria | 412882 | [412882-oniria.json](./412882-oniria.json) |
 | Onirism | 77590 | [77590-onirism.json](./77590-onirism.json) |
+| Oniro | 400109 | [400109-oniro.json](./400109-oniro.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
 | Only You | 86539 | [86539-only-you.json](./86539-only-you.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
