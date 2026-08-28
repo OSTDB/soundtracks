@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Terra Taker | 389329 | [389329-terra-taker.json](./389329-terra-taker.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
+| Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
 | Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The Doors to Netherwhere | 379733 | [379733-the-doors-to-netherwhere.json](./379733-the-doors-to-netherwhere.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
+| The Dreaded Hut | 376324 | [376324-the-dreaded-hut.json](./376324-the-dreaded-hut.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
@@ -597,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
+| Traditional Tactics With Sess-AI 2.0 | 376356 | [376356-traditional-tactics-with-sess-ai-2-0.json](./376356-traditional-tactics-with-sess-ai-2-0.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
 | Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
