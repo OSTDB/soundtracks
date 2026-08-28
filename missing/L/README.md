@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
 | Last Days of Lazarus | 172142 | [172142-last-days-of-lazarus.json](./172142-last-days-of-lazarus.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
+| Last Half of Darkness: Society of the Serpent Moon | 22104 | [22104-last-half-of-darkness-society-of-the-serpent-moon.json](./22104-last-half-of-darkness-society-of-the-serpent-moon.json) |
 | Last Horizon | 14712 | [14712-last-horizon.json](./14712-last-horizon.json) |
 | Last Knight: Rogue Rider Edition | 16816 | [16816-last-knight-rogue-rider-edition.json](./16816-last-knight-rogue-rider-edition.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
