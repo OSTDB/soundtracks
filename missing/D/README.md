@@ -28,7 +28,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
+| Dangerous Mountain Together | 374479 | [374479-dangerous-mountain-together.json](./374479-dangerous-mountain-together.json) |
 | Dangidice | 396035 | [396035-dangidice.json](./396035-dangidice.json) |
+| Danmo Three Kingdoms: Battle of Wits | 374481 | [374481-danmo-three-kingdoms-battle-of-wits.json](./374481-danmo-three-kingdoms-battle-of-wits.json) |
 | Dare to Dream 2 | 397567 | [397567-dare-to-dream-2.json](./397567-dare-to-dream-2.json) |
 | Dare to Dream 3 | 397568 | [397568-dare-to-dream-3.json](./397568-dare-to-dream-3.json) |
 | Darius II | 39695 | [39695-darius-ii.json](./39695-darius-ii.json) |
@@ -107,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
 | Deadly Shaft | 403489 | [403489-deadly-shaft.json](./403489-deadly-shaft.json) |
+| DeAnima | 374470 | [374470-deanima.json](./374470-deanima.json) |
 | Dear Journey... | 390390 | [390390-dear-journey.json](./390390-dear-journey.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
 | Dear Poe | 375003 | [375003-dear-poe.json](./375003-dear-poe.json) |
@@ -191,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
 | Desire's Burgers | 392033 | [392033-desires-burgers.json](./392033-desires-burgers.json) |
 | Desktop Destroyer | 407976 | [407976-desktop-destroyer.json](./407976-desktop-destroyer.json) |
+| Desktop Purrfect | 374472 | [374472-desktop-purrfect.json](./374472-desktop-purrfect.json) |
 | Desolate | 51578 | [51578-desolate.json](./51578-desolate.json) |
 | Despair | 26646 | [26646-despair.json](./26646-despair.json) |
 | Desperation | 380260 | [380260-desperation.json](./380260-desperation.json) |
@@ -355,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Don't Stay Awake | 382622 | [382622-dont-stay-awake.json](./382622-dont-stay-awake.json) |
 | Don't Touch the Walls | 86439 | [86439-dont-touch-the-walls.json](./86439-dont-touch-the-walls.json) |
+| Don`t Peek | 374450 | [374450-don-t-peek.json](./374450-don-t-peek.json) |
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
