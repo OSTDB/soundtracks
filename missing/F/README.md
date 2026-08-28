@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
+| Find the Cats | 407935 | [407935-find-the-cats.json](./407935-find-the-cats.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
 | Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
+| Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
