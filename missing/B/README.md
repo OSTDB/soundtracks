@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
 | Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
+| BaseStar | 390427 | [390427-basestar.json](./390427-basestar.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitRay | 33025 | [33025-bitray.json](./33025-bitray.json) |
 | Bitslap | 31429 | [31429-bitslap.json](./31429-bitslap.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
+| Black Border 3 | 390403 | [390403-black-border-3.json](./390403-black-border-3.json) |
 | Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
@@ -229,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
 | Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
+| Boing Over It | 390388 | [390388-boing-over-it.json](./390388-boing-over-it.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
 | Bokuten: Why I Became an Angel | 126100 | [126100-bokuten-why-i-became-an-angel.json](./126100-bokuten-why-i-became-an-angel.json) |
 | Bolariki | 408636 | [408636-bolariki.json](./408636-bolariki.json) |
@@ -272,11 +275,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
+| Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
 | Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
 | Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
+| Break Shoot | 390416 | [390416-break-shoot.json](./390416-break-shoot.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
