@@ -61,9 +61,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HavenCraft | 404111 | [404111-havencraft.json](./404111-havencraft.json) |
 | Havendock: Wizard Island DLC | 378064 | [378064-havendock-wizard-island-dlc.json](./378064-havendock-wizard-island-dlc.json) |
 | Hawken | 1405 | [1405-hawken.json](./1405-hawken.json) |
+| Hazard Levels | 371097 | [371097-hazard-levels.json](./371097-hazard-levels.json) |
 | Hazardous Space | 86518 | [86518-hazardous-space.json](./86518-hazardous-space.json) |
 | Haze | 399444 | [399444-haze.json](./399444-haze.json) |
 | Haze | 380855 | [380855-haze.json](./380855-haze.json) |
+| He is Outside | 371110 | [371110-he-is-outside.json](./371110-he-is-outside.json) |
 | Headache: Altered States | 386000 | [386000-headache-altered-states.json](./386000-headache-altered-states.json) |
 | HeadBangers: Rhythm Royale | 252788 | [252788-headbangers-rhythm-royale.json](./252788-headbangers-rhythm-royale.json) |
 | Headcutter | 404100 | [404100-headcutter.json](./404100-headcutter.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer | 406605 | [406605-healer.json](./406605-healer.json) |
 | Heart Drive | 383219 | [383219-heart-drive.json](./383219-heart-drive.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
+| Heart of the Forest | 371106 | [371106-heart-of-the-forest.json](./371106-heart-of-the-forest.json) |
 | Heart of Vinterium | 383221 | [383221-heart-of-vinterium.json](./383221-heart-of-vinterium.json) |
 | Heart Sequence | 384939 | [384939-heart-sequence.json](./384939-heart-sequence.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
@@ -102,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Fallschirmjäger Airborne Veterans | 379742 | [379742-hell-let-loose-fallschirmjager-airborne-veterans.json](./379742-hell-let-loose-fallschirmjager-airborne-veterans.json) |
 | Hell Let Loose: Operation Suvorov Units | 379744 | [379744-hell-let-loose-operation-suvorov-units.json](./379744-hell-let-loose-operation-suvorov-units.json) |
 | Hell Let Loose: Soviet and British 8th Army Armor Pack | 379743 | [379743-hell-let-loose-soviet-and-british-8th-army-armor-pack.json](./379743-hell-let-loose-soviet-and-british-8th-army-armor-pack.json) |
+| Hell Let Loose: US & German Armour Pack | 371094 | [371094-hell-let-loose-us-and-german-armour-pack.json](./371094-hell-let-loose-us-and-german-armour-pack.json) |
 | Hell Let Loose: Veteran - Smolensk Offensive | 379745 | [379745-hell-let-loose-veteran-smolensk-offensive.json](./379745-hell-let-loose-veteran-smolensk-offensive.json) |
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Roulette | 412154 | [412154-hell-roulette.json](./412154-hell-roulette.json) |
