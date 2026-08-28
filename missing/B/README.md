@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
 | Baseball Stars | 9903 | [9903-baseball-stars.json](./9903-baseball-stars.json) |
+| Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
 | Battle Meating | 414956 | [414956-battle-meating.json](./414956-battle-meating.json) |
+| Battle Narf | 394025 | [394025-battle-narf.json](./394025-battle-narf.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
 | Battle of Giants: Dinosaurs | 7906 | [7906-battle-of-giants-dinosaurs.json](./7906-battle-of-giants-dinosaurs.json) |
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
