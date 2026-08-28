@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
+| Idle Iktah | 398891 | [398891-idle-iktah.json](./398891-idle-iktah.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
+| In Search Of Treasures | 398863 | [398863-in-search-of-treasures.json](./398863-in-search-of-treasures.json) |
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
