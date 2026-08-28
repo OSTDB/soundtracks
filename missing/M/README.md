@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiDes Kai: Mahou Shoujo Magical Destroyers Kai | 369969 | [369969-magides-kai-mahou-shoujo-magical-destroyers-kai.json](./369969-magides-kai-mahou-shoujo-magical-destroyers-kai.json) |
 | Magnet to Planet | 412862 | [412862-magnet-to-planet.json](./412862-magnet-to-planet.json) |
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
+| Magnetizer | 362647 | [362647-magnetizer.json](./362647-magnetizer.json) |
 | Mahadesora | 379751 | [379751-mahadesora.json](./379751-mahadesora.json) |
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong Dream | 368305 | [368305-mahjong-dream.json](./368305-mahjong-dream.json) |
