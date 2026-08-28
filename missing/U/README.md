@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Unearthed: Trail of Ibn Battuta | 20852 | [20852-unearthed-trail-of-ibn-battuta.json](./20852-unearthed-trail-of-ibn-battuta.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
+| Unemployed Nightmare Together | 410138 | [410138-unemployed-nightmare-together.json](./410138-unemployed-nightmare-together.json) |
 | Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unicorn Overlord: Collector's Edition | 270584 | [270584-unicorn-overlord-collectors-edition.json](./270584-unicorn-overlord-collectors-edition.json) |
 | Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited SaGa | 11314 | [11314-unlimited-saga.json](./11314-unlimited-saga.json) |
 | Unloved | 17799 | [17799-unloved.json](./17799-unloved.json) |
 | Unreal Tournament 2003 | 926 | [926-unreal-tournament-2003.json](./926-unreal-tournament-2003.json) |
+| Unsent | 410106 | [410106-unsent.json](./410106-unsent.json) |
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
 | Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
 | Urban Pirate | 17008 | [17008-urban-pirate.json](./17008-urban-pirate.json) |
