@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
 | Search | 384390 | [384390-search.json](./384390-search.json) |
+| Seaside Cafe Rush Hour | 367800 | [367800-seaside-cafe-rush-hour.json](./367800-seaside-cafe-rush-hour.json) |
 | SecreD: Foot Art | 375046 | [375046-secred-foot-art.json](./375046-secred-foot-art.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret Lab Cleaner | 372881 | [372881-secret-lab-cleaner.json](./372881-secret-lab-cleaner.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen L | 66434 | [66434-super-robot-taisen-l.json](./66434-super-robot-taisen-l.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
+| Super Scary Halloween Spooky Times: Spit's Quest | 367799 | [367799-super-scary-halloween-spooky-times-spits-quest.json](./367799-super-scary-halloween-spooky-times-spits-quest.json) |
 | Super Shout Showdown | 382606 | [382606-super-shout-showdown.json](./382606-super-shout-showdown.json) |
 | Super Sidekicks 3: The Next Glory | 39332 | [39332-super-sidekicks-3-the-next-glory.json](./39332-super-sidekicks-3-the-next-glory.json) |
 | Super Smash Bros. Ultimate: Iori Yagami Outfit and Wig | 372873 | [372873-super-smash-bros-ultimate-iori-yagami-outfit-and-wig.json](./372873-super-smash-bros-ultimate-iori-yagami-outfit-and-wig.json) |
