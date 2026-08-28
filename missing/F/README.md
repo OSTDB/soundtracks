@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Eye | 189275 | [189275-flat-eye.json](./189275-flat-eye.json) |
 | Flat Kingdom: Paper's Cut Edition | 34393 | [34393-flat-kingdom-papers-cut-edition.json](./34393-flat-kingdom-papers-cut-edition.json) |
 | Fleet Hunters | 402758 | [402758-fleet-hunters.json](./402758-fleet-hunters.json) |
+| Flesh Reactor | 372859 | [372859-flesh-reactor.json](./372859-flesh-reactor.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
 | Fling Up Together | 397533 | [397533-fling-up-together.json](./397533-fling-up-together.json) |
