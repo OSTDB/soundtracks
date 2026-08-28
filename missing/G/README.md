@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Greedy Mouse | 22718 | [22718-genius-greedy-mouse.json](./22718-genius-greedy-mouse.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
+| Geometry Attack | 396091 | [396091-geometry-attack.json](./396091-geometry-attack.json) |
 | Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
+| Grasscat Cafe | 396038 | [396038-grasscat-cafe.json](./396038-grasscat-cafe.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Grave New World | 412860 | [412860-grave-new-world.json](./412860-grave-new-world.json) |
 | Graventh | 414971 | [414971-graventh.json](./414971-graventh.json) |
