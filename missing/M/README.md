@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 17 | 19463 | [19463-madden-nfl-17.json](./19463-madden-nfl-17.json) |
 | Madden NFL 19 | 102122 | [102122-madden-nfl-19.json](./102122-madden-nfl-19.json) |
 | Madden NFL 2003 | 776 | [776-madden-nfl-2003.json](./776-madden-nfl-2003.json) |
+| MadHouse for Toys | 412857 | [412857-madhouse-for-toys.json](./412857-madhouse-for-toys.json) |
 | Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
@@ -33,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
 | Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
+| Magnet to Planet | 412862 | [412862-magnet-to-planet.json](./412862-magnet-to-planet.json) |
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
@@ -173,10 +175,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
+| Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
+| Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
 | Mirror | 55536 | [55536-mirror.json](./55536-mirror.json) |
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
