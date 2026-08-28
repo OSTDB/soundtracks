@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
 | Nier Replicant | 80468 | [80468-nier-replicant.json](./80468-nier-replicant.json) |
 | Nier: Automata - 3C3C1D119440927 | 28180 | [28180-nier-automata-3c3c1d119440927.json](./28180-nier-automata-3c3c1d119440927.json) |
+| Night at the Mall | 371084 | [371084-night-at-the-mall.json](./371084-night-at-the-mall.json) |
 | Night Book | 154902 | [154902-night-book.json](./154902-night-book.json) |
 | Night Crows | 290671 | [290671-night-crows.json](./290671-night-crows.json) |
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
