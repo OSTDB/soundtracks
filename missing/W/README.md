@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WazHack | 16851 | [16851-wazhack.json](./16851-wazhack.json) |
 | WBSC eBaseball: Power Pros | 236674 | [236674-wbsc-ebaseball-power-pros.json](./236674-wbsc-ebaseball-power-pros.json) |
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
+| We Need a Doorman. | 390396 | [390396-we-need-a-doorman.json](./390396-we-need-a-doorman.json) |
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
 | We Were Here Forever | 144455 | [144455-we-were-here-forever.json](./144455-we-were-here-forever.json) |
 | Wealdfall Squirrel | 412152 | [412152-wealdfall-squirrel.json](./412152-wealdfall-squirrel.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Nightmare | 409500 | [409500-wild-west-nightmare.json](./409500-wild-west-nightmare.json) |
 | Wilderdark | 400112 | [400112-wilderdark.json](./400112-wilderdark.json) |
 | Wildlife Ballistics | 414212 | [414212-wildlife-ballistics.json](./414212-wildlife-ballistics.json) |
+| Wildwars | 390404 | [390404-wildwars.json](./390404-wildwars.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
 | Will Rock | 23717 | [23717-will-rock.json](./23717-will-rock.json) |
