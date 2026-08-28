@@ -107,7 +107,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
 | Glowbot Tower Defense | 406007 | [406007-glowbot-tower-defense.json](./406007-glowbot-tower-defense.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
+| Gnome Expedition | 385458 | [385458-gnome-expedition.json](./385458-gnome-expedition.json) |
+| Gnome Glade | 385457 | [385457-gnome-glade.json](./385457-gnome-glade.json) |
+| Gnome Glen | 385456 | [385456-gnome-glen.json](./385456-gnome-glen.json) |
 | Gnomed | 390422 | [390422-gnomed.json](./390422-gnomed.json) |
+| Gnomes on the Roam | 385461 | [385461-gnomes-on-the-roam.json](./385461-gnomes-on-the-roam.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
@@ -178,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: San Andreas - The Nextgen Edition | 392022 | [392022-grand-theft-auto-san-andreas-the-nextgen-edition.json](./392022-grand-theft-auto-san-andreas-the-nextgen-edition.json) |
 | Grand Theft Auto: Vice City Stories 20th Anniversary Edition | 392046 | [392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json](./392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
+| Grass Gnome Golf | 385462 | [385462-grass-gnome-golf.json](./385462-grass-gnome-golf.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Grasscat Cafe | 396038 | [396038-grasscat-cafe.json](./396038-grasscat-cafe.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
