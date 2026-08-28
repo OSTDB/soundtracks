@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Trials of Atlantis | 23744 | [23744-dark-age-of-camelot-trials-of-atlantis.json](./23744-dark-age-of-camelot-trials-of-atlantis.json) |
 | Dark and Deep | 273962 | [273962-dark-and-deep.json](./273962-dark-and-deep.json) |
 | Dark Angel | 384371 | [384371-dark-angel.json](./384371-dark-angel.json) |
+| Dark Cage1: Reincarnation For Salvation | 367241 | [367241-dark-cage1-reincarnation-for-salvation.json](./367241-dark-cage1-reincarnation-for-salvation.json) |
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Fever: Upgrade Edition | 394747 | [394747-darts-fever-upgrade-edition.json](./394747-darts-fever-upgrade-edition.json) |
 | Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
+| Dashi Buyu | 367225 | [367225-dashi-buyu.json](./367225-dashi-buyu.json) |
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
 | Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
 | Dataclysm | 367791 | [367791-dataclysm.json](./367791-dataclysm.json) |
@@ -101,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
 | Dead Iron | 372296 | [372296-dead-iron.json](./372296-dead-iron.json) |
+| Dead Island 2: Kingdom Come - Deliverance II Weapon Pack | 367246 | [367246-dead-island-2-kingdom-come-deliverance-ii-weapon-pack.json](./367246-dead-island-2-kingdom-come-deliverance-ii-weapon-pack.json) |
 | Dead or Alive 2 | 1388 | [1388-dead-or-alive-2.json](./1388-dead-or-alive-2.json) |
 | Dead or Alive 4 | 1392 | [1392-dead-or-alive-4.json](./1392-dead-or-alive-4.json) |
 | Dead or Alive 5 | 1383 | [1383-dead-or-alive-5.json](./1383-dead-or-alive-5.json) |
@@ -144,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
 | Deck of Harvest | 379222 | [379222-deck-of-harvest.json](./379222-deck-of-harvest.json) |
+| Decker | 367237 | [367237-decker.json](./367237-decker.json) |
 | DeckWrecking Pirates | 379236 | [379236-deckwrecking-pirates.json](./379236-deckwrecking-pirates.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deco Online Origins | 384363 | [384363-deco-online-origins.json](./384363-deco-online-origins.json) |
@@ -252,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diana | 379760 | [379760-diana.json](./379760-diana.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
+| Dice Card Heroes | 367235 | [367235-dice-card-heroes.json](./367235-dice-card-heroes.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
 | Dice or Die | 380263 | [380263-dice-or-die.json](./380263-dice-or-die.json) |
 | Dice Roller Incremental | 391520 | [391520-dice-roller-incremental.json](./391520-dice-roller-incremental.json) |
