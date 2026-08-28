@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman World | 27255 | [27255-bomberman-world.json](./27255-bomberman-world.json) |
 | Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
+| BombLink | 364320 | [364320-bomblink.json](./364320-bomblink.json) |
 | BombPaws | 402811 | [402811-bombpaws.json](./402811-bombpaws.json) |
 | Bonaparte's Bluff | 366640 | [366640-bonapartes-bluff.json](./366640-bonapartes-bluff.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
