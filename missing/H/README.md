@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Lil' Farmers | 36914 | [36914-harvest-moon-lil-farmers.json](./36914-harvest-moon-lil-farmers.json) |
 | Harvest Moon: More Friends of Mineral Town | 49188 | [49188-harvest-moon-more-friends-of-mineral-town.json](./49188-harvest-moon-more-friends-of-mineral-town.json) |
 | Harvest Moon: Tree of Tranquility | 3388 | [3388-harvest-moon-tree-of-tranquility.json](./3388-harvest-moon-tree-of-tranquility.json) |
+| Harvest: Massive Encounter | 15936 | [15936-harvest-massive-encounter.json](./15936-harvest-massive-encounter.json) |
 | Has-Been Heroes | 26763 | [26763-has-been-heroes.json](./26763-has-been-heroes.json) |
 | Hashihime of the Old Book Town | 126103 | [126103-hashihime-of-the-old-book-town.json](./126103-hashihime-of-the-old-book-town.json) |
 | Hatsune Miku: Colorful Stage! | 139134 | [139134-hatsune-miku-colorful-stage.json](./139134-hatsune-miku-colorful-stage.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
+| Highborn | 15297 | [15297-highborn.json](./15297-highborn.json) |
 | Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
 | Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
