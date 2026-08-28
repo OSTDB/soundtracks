@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
+| Real Cars & Motocross Driving Simulator | 389881 | [389881-real-cars-and-motocross-driving-simulator.json](./389881-real-cars-and-motocross-driving-simulator.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
+| Redast | 389865 | [389865-redast.json](./389865-redast.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
@@ -136,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
+| Riff Hammer | 389908 | [389908-riff-hammer.json](./389908-riff-hammer.json) |
 | Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
 | Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
