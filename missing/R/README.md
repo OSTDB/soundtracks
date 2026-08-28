@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Car Mechanic Simulator | 405380 | [405380-rally-car-mechanic-simulator.json](./405380-rally-car-mechanic-simulator.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
+| Ramune Forest | 391472 | [391472-ramune-forest.json](./391472-ramune-forest.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
 | Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
 | Ratalorica | 403474 | [403474-ratalorica.json](./403474-ratalorica.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
+| Reason with Gonzo | 391482 | [391482-reason-with-gonzo.json](./391482-reason-with-gonzo.json) |
 | ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
@@ -88,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
+| Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
 | Replay Room | 392657 | [392657-replay-room.json](./392657-replay-room.json) |
@@ -204,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Rooster Wars Arena: MFC Combat Battle | 398204 | [398204-rooster-wars-arena-mfc-combat-battle.json](./398204-rooster-wars-arena-mfc-combat-battle.json) |
+| Rope | 391508 | [391508-rope.json](./391508-rope.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
