@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Gerphyon: The Ender's Mansion | 404147 | [404147-gerphyon-the-enders-mansion.json](./404147-gerphyon-the-enders-mansion.json) |
 | Get Fit: Beach Boys | 407262 | [407262-get-fit-beach-boys.json](./407262-get-fit-beach-boys.json) |
+| Get Fit: Men’s Fitness | 394719 | [394719-get-fit-men-s-fitness.json](./394719-get-fit-men-s-fitness.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get That Box, Girl! | 404757 | [404757-get-that-box-girl.json](./404757-get-that-box-girl.json) |
 | Get to Work, Gnomes! Christmas Factory | 399472 | [399472-get-to-work-gnomes-christmas-factory.json](./399472-get-to-work-gnomes-christmas-factory.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Robot | 18721 | [18721-good-robot.json](./18721-good-robot.json) |
 | Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
+| Goodbye Great Justice | 394729 | [394729-goodbye-great-justice.json](./394729-goodbye-great-justice.json) |
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
