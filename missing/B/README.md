@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
+| Baff A | 412146 | [412146-baff-a.json](./412146-baff-a.json) |
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
 | Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
+| Banana Airways | 412140 | [412140-banana-airways.json](./412140-banana-airways.json) |
 | Bananya Buddies | 412825 | [412825-bananya-buddies.json](./412825-bananya-buddies.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
+| Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
 | Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
@@ -232,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
+| Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
@@ -241,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
+| Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
