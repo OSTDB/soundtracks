@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
+| Harold Rabbit 3: The House of Mysteries | 406599 | [406599-harold-rabbit-3-the-house-of-mysteries.json](./406599-harold-rabbit-3-the-house-of-mysteries.json) |
 | Harry Potter and the Order of the Phoenix | 3011 | [3011-harry-potter-and-the-order-of-the-phoenix.json](./3011-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harvest Festival 64 | 230631 | [230631-harvest-festival-64.json](./230631-harvest-festival-64.json) |
 | Harvest Moon: Lil' Farmers | 36914 | [36914-harvest-moon-lil-farmers.json](./36914-harvest-moon-lil-farmers.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
 | Headshot VR | 109838 | [109838-headshot-vr.json](./109838-headshot-vr.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
+| Healer | 406605 | [406605-healer.json](./406605-healer.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
