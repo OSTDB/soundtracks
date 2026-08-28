@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
 | Risen Kingdoms | 176166 | [176166-risen-kingdoms.json](./176166-risen-kingdoms.json) |
 | Rising Kingdoms | 68819 | [68819-rising-kingdoms.json](./68819-rising-kingdoms.json) |
+| Rising Sun | 378675 | [378675-rising-sun.json](./378675-rising-sun.json) |
 | Rising World | 10776 | [10776-rising-world.json](./10776-rising-world.json) |
 | Risk of Rain 2 | 28512 | [28512-risk-of-rain-2.json](./28512-risk-of-rain-2.json) |
 | Risk Urban Assault | 58036 | [58036-risk-urban-assault.json](./58036-risk-urban-assault.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
 | Riverhill Trials | 89422 | [89422-riverhill-trials.json](./89422-riverhill-trials.json) |
 | RK Override | 388615 | [388615-rk-override.json](./388615-rk-override.json) |
+| Rleotha: Trial of Gods | 378630 | [378630-rleotha-trial-of-gods.json](./378630-rleotha-trial-of-gods.json) |
 | RMN Soup | 407915 | [407915-rmn-soup.json](./407915-rmn-soup.json) |
 | Road of Fury 2: Nuclear Blizzard | 383252 | [383252-road-of-fury-2-nuclear-blizzard.json](./383252-road-of-fury-2-nuclear-blizzard.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
@@ -220,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBlitz | 14822 | [14822-roboblitz.json](./14822-roboblitz.json) |
 | RoboCop | 12844 | [12844-robocop.json](./12844-robocop.json) |
 | RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
+| RoboCop | 378665 | [378665-robocop.json](./378665-robocop.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
 | Robot Ox | 404131 | [404131-robot-ox.json](./404131-robot-ox.json) |
 | Robot Rampage | 383824 | [383824-robot-rampage.json](./383824-robot-rampage.json) |
