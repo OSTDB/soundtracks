@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenrir | 406578 | [406578-fenrir.json](./406578-fenrir.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
+| Fern Flower | 371112 | [371112-fern-flower.json](./371112-fern-flower.json) |
 | Fernkeep | 413556 | [413556-fernkeep.json](./413556-fernkeep.json) |
 | Fête De La Soupe | 408698 | [408698-fete-de-la-soupe.json](./408698-fete-de-la-soupe.json) |
 | Fibble | 20827 | [20827-fibble.json](./20827-fibble.json) |
@@ -353,6 +354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
 | Futa Fucks Femboys | 383253 | [383253-futa-fucks-femboys.json](./383253-futa-fucks-femboys.json) |
 | Futanari Goddess | 382037 | [382037-futanari-goddess.json](./382037-futanari-goddess.json) |
+| Futanari Sex Adventures: Episode 3 | 371074 | [371074-futanari-sex-adventures-episode-3.json](./371074-futanari-sex-adventures-episode-3.json) |
+| Futanari Sex Adventures: Episode 5 | 371066 | [371066-futanari-sex-adventures-episode-5.json](./371066-futanari-sex-adventures-episode-5.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
 | Futurama: Hit & Run | 375009 | [375009-futurama-hit-and-run.json](./375009-futurama-hit-and-run.json) |
