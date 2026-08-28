@@ -37,10 +37,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet to Planet | 412862 | [412862-magnet-to-planet.json](./412862-magnet-to-planet.json) |
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
+| Mahjong House: Challenge All Achievements | 410765 | [410765-mahjong-house-challenge-all-achievements.json](./410765-mahjong-house-challenge-all-achievements.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
+| Mainframe | 410789 | [410789-mainframe.json](./410789-mainframe.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Majestic Nights | 36442 | [36442-majestic-nights.json](./36442-majestic-nights.json) |
 | Majong Games | 86671 | [86671-majong-games.json](./86671-majong-games.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
+| MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
 | Monobeno | 61910 | [61910-monobeno.json](./61910-monobeno.json) |
@@ -234,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
+| More me | 410808 | [410808-more-me.json](./410808-more-me.json) |
 | Morning Never Comes | 95613 | [95613-morning-never-comes.json](./95613-morning-never-comes.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
 | Mortal Kombat | 242240 | [242240-mortal-kombat.json](./242240-mortal-kombat.json) |
@@ -287,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Ultra Rumble | 213639 | [213639-my-hero-ultra-rumble.json](./213639-my-hero-ultra-rumble.json) |
 | My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
 | My Life as a Maiden | 76793 | [76793-my-life-as-a-maiden.json](./76793-my-life-as-a-maiden.json) |
+| My Life as a Spy | 410738 | [410738-my-life-as-a-spy.json](./410738-my-life-as-a-spy.json) |
 | My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Name is Addiction | 65779 | [65779-my-name-is-addiction.json](./65779-my-name-is-addiction.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
