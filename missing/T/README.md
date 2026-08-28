@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Premium Upgrade Pack | 402199 | [402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json](./402199-tales-of-arise-beyond-the-dawn-premium-upgrade-pack.json) |
 | Tales of Symphonia | 1204 | [1204-tales-of-symphonia.json](./1204-tales-of-symphonia.json) |
 | Tales of the Abyss | 1207 | [1207-tales-of-the-abyss.json](./1207-tales-of-the-abyss.json) |
+| Tales of the Trade | 395418 | [395418-tales-of-the-trade.json](./395418-tales-of-the-trade.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 3141 | [3141-tales-of-the-unknown-volume-i-the-bards-tale.json](./3141-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Talk to Strangers | 111206 | [111206-talk-to-strangers.json](./111206-talk-to-strangers.json) |
 | Talking Tom Jetski | 86827 | [86827-talking-tom-jetski.json](./86827-talking-tom-jetski.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Division 2: Rise Up | 396787 | [396787-the-division-2-rise-up.json](./396787-the-division-2-rise-up.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
+| The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
@@ -170,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of the Dungeon Guardians | 14464 | [14464-the-fall-of-the-dungeon-guardians.json](./14464-the-fall-of-the-dungeon-guardians.json) |
 | The Fall Part 2: Unbound | 28067 | [28067-the-fall-part-2-unbound.json](./28067-the-fall-part-2-unbound.json) |
 | The False Sun | 407975 | [407975-the-false-sun.json](./407975-the-false-sun.json) |
+| The Fancy Pants Adventures Online | 395425 | [395425-the-fancy-pants-adventures-online.json](./395425-the-fancy-pants-adventures-online.json) |
 | The Fellowship of the Ring: A Software Adventure | 10798 | [10798-the-fellowship-of-the-ring-a-software-adventure.json](./10798-the-fellowship-of-the-ring-a-software-adventure.json) |
 | The Final Scene | 413562 | [413562-the-final-scene.json](./413562-the-final-scene.json) |
 | The Flintstones: The Surprise at Dinosaur Peak! | 48288 | [48288-the-flintstones-the-surprise-at-dinosaur-peak.json](./48288-the-flintstones-the-surprise-at-dinosaur-peak.json) |
@@ -178,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
+| The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
 | The Glory Dungeon Raider | 396824 | [396824-the-glory-dungeon-raider.json](./396824-the-glory-dungeon-raider.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
@@ -199,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
 | The Incident | 66315 | [66315-the-incident.json](./66315-the-incident.json) |
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
+| The Internal | 395394 | [395394-the-internal.json](./395394-the-internal.json) |
 | The Inverted Tower | 407967 | [407967-the-inverted-tower.json](./407967-the-inverted-tower.json) |
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
@@ -278,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
+| The Scrolls | 395390 | [395390-the-scrolls.json](./395390-the-scrolls.json) |
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
 | The Second Sight: All Hallow's Eve | 402825 | [402825-the-second-sight-all-hallows-eve.json](./402825-the-second-sight-all-hallows-eve.json) |
 | The Second Sight: The Devil and the Wheel | 402823 | [402823-the-second-sight-the-devil-and-the-wheel.json](./402823-the-second-sight-the-devil-and-the-wheel.json) |
@@ -470,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack | 404114 | [404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json](./404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json) |
 | Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
+| Trabacolo | 395446 | [395446-trabacolo.json](./395446-trabacolo.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
 | TrackMania 2: Lagoon | 31556 | [31556-trackmania-2-lagoon.json](./31556-trackmania-2-lagoon.json) |
