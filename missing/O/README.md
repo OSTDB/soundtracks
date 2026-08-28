@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road Pumpkin Carriage | 399464 | [399464-off-road-pumpkin-carriage.json](./399464-off-road-pumpkin-carriage.json) |
 | Office Brawl: Room Smash | 394715 | [394715-office-brawl-room-smash.json](./394715-office-brawl-room-smash.json) |
 | Office Inspector | 383835 | [383835-office-inspector.json](./383835-office-inspector.json) |
+| Office Lover | 383250 | [383250-office-lover.json](./383250-office-lover.json) |
 | Office Renovation | 405376 | [405376-office-renovation.json](./405376-office-renovation.json) |
 | Offspring Fling! | 8961 | [8961-offspring-fling.json](./8961-offspring-fling.json) |
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
