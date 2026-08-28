@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Plump Pop | 394721 | [394721-arcade-archives-2-plump-pop.json](./394721-arcade-archives-2-plump-pop.json) |
 | Arcade Archives 2: Quester | 387879 | [387879-arcade-archives-2-quester.json](./387879-arcade-archives-2-quester.json) |
 | Arcade Archives 2: Space Invaders | 382649 | [382649-arcade-archives-2-space-invaders.json](./382649-arcade-archives-2-space-invaders.json) |
+| Arcade Archives 2: Steel Worker | 368332 | [368332-arcade-archives-2-steel-worker.json](./368332-arcade-archives-2-steel-worker.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
 | Arcade Archives: Battlantis | 373374 | [373374-arcade-archives-battlantis.json](./373374-arcade-archives-battlantis.json) |
 | Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
 | Arcade Archives: Space Invaders | 382647 | [382647-arcade-archives-space-invaders.json](./382647-arcade-archives-space-invaders.json) |
+| Arcade Archives: Steel Worker | 368331 | [368331-arcade-archives-steel-worker.json](./368331-arcade-archives-steel-worker.json) |
 | Arcade Archives: The Outfoxies | 384946 | [384946-arcade-archives-the-outfoxies.json](./384946-arcade-archives-the-outfoxies.json) |
 | Arcade Classics GG2SMS | 369436 | [369436-arcade-classics-gg2sms.json](./369436-arcade-classics-gg2sms.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariel Academy's Secret School Festival | 379203 | [379203-ariel-academys-secret-school-festival.json](./379203-ariel-academys-secret-school-festival.json) |
 | Arkanoid | 273036 | [273036-arkanoid.json](./273036-arkanoid.json) |
 | Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
+| Arkheron | 368311 | [368311-arkheron.json](./368311-arkheron.json) |
 | Arkista's Ring | 9024 | [9024-arkistas-ring.json](./9024-arkistas-ring.json) |
 | Arma 3: Marksmen | 22674 | [22674-arma-3-marksmen.json](./22674-arma-3-marksmen.json) |
 | Arma Tactics | 9774 | [9774-arma-tactics.json](./9774-arma-tactics.json) |
@@ -424,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automated Ranch Simulator | 392640 | [392640-automated-ranch-simulator.json](./392640-automated-ranch-simulator.json) |
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
+| AV Company | 368327 | [368327-av-company.json](./368327-av-company.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
 | Avemary Rocket: Captain Patchwork | 379244 | [379244-avemary-rocket-captain-patchwork.json](./379244-avemary-rocket-captain-patchwork.json) |
 | Aventuras | 412127 | [412127-aventuras.json](./412127-aventuras.json) |
