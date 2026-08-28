@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
 | Age of Wushu | 1899 | [1899-age-of-wushu.json](./1899-age-of-wushu.json) |
 | Age Twisters | 414963 | [414963-age-twisters.json](./414963-age-twisters.json) |
+| Agent1218 | 387215 | [387215-agent1218.json](./387215-agent1218.json) |
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
 | Aggressors: Ancient Rome | 46076 | [46076-aggressors-ancient-rome.json](./46076-aggressors-ancient-rome.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
