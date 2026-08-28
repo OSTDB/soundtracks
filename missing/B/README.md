@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
+| Beta Kafe: Write Your Love Story | 391496 | [391496-beta-kafe-write-your-love-story.json](./391496-beta-kafe-write-your-love-story.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
 | Beware Planet Earth! | 16895 | [16895-beware-planet-earth.json](./16895-beware-planet-earth.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
 | Blood Court | 393333 | [393333-blood-court.json](./393333-blood-court.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
+| Blood of the Future | 391500 | [391500-blood-of-the-future.json](./391500-blood-of-the-future.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
@@ -293,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bub | 404731 | [404731-bub.json](./404731-bub.json) |
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
+| Bubble Gun | 391513 | [391513-bubble-gun.json](./391513-bubble-gun.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
 | Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
