@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
+| Texas Twist Poker 3 Bandit's Run | 373937 | [373937-texas-twist-poker-3-bandits-run.json](./373937-texas-twist-poker-3-bandits-run.json) |
 | That Time I Got Reincarnated as a Tyrant God | 403465 | [403465-that-time-i-got-reincarnated-as-a-tyrant-god.json](./403465-that-time-i-got-reincarnated-as-a-tyrant-god.json) |
 | The 1% Club World Challenge | 396117 | [396117-the-1-club-world-challenge.json](./396117-the-1-club-world-challenge.json) |
 | The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underpass | 378666 | [378666-the-underpass.json](./378666-the-underpass.json) |
 | The Unlikely Legend of Rusty Pup | 63281 | [63281-the-unlikely-legend-of-rusty-pup.json](./63281-the-unlikely-legend-of-rusty-pup.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
+| The Veil of Death | 373922 | [373922-the-veil-of-death.json](./373922-the-veil-of-death.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Village Rises | 389890 | [389890-the-village-rises.json](./389890-the-village-rises.json) |
 | The Visitor: Massacre | 378020 | [378020-the-visitor-massacre.json](./378020-the-visitor-massacre.json) |
@@ -447,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | Thinky Dailies: Season 3 | 404748 | [404748-thinky-dailies-season-3.json](./404748-thinky-dailies-season-3.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
+| This Game Exists Now | 373919 | [373919-this-game-exists-now.json](./373919-this-game-exists-now.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
 | This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
 | This Night | 394039 | [394039-this-night.json](./394039-this-night.json) |
@@ -608,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
 | Toy Story: Retro Roundup! + Toy Story 3 Complete Edition Double Pack | 404114 | [404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json](./404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json) |
 | Toy Wars | 86979 | [86979-toy-wars.json](./86979-toy-wars.json) |
+| Toy Zombies | 373929 | [373929-toy-zombies.json](./373929-toy-zombies.json) |
 | Trabacolo | 395446 | [395446-trabacolo.json](./395446-trabacolo.json) |
 | Track & Field | 266659 | [266659-track-and-field.json](./266659-track-and-field.json) |
 | Track & Field | 201745 | [201745-track-and-field.json](./201745-track-and-field.json) |
@@ -655,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
 | Trine 6: Together in Time | 404741 | [404741-trine-6-together-in-time.json](./404741-trine-6-together-in-time.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
+| Triple Swap Tower | 373948 | [373948-triple-swap-tower.json](./373948-triple-swap-tower.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Triston | 407960 | [407960-triston.json](./407960-triston.json) |
 | Trivals | 399467 | [399467-trivals.json](./399467-trivals.json) |
@@ -675,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver's License | 401437 | [401437-truck-drivers-license.json](./401437-truck-drivers-license.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | Truck-Kun Is Supporting Me From Another World?! | 400104 | [400104-truck-kun-is-supporting-me-from-another-world.json](./400104-truck-kun-is-supporting-me-from-another-world.json) |
+| True Abstraction: Forbidden | 373951 | [373951-true-abstraction-forbidden.json](./373951-true-abstraction-forbidden.json) |
 | True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
 | Trump Simulator 2017 | 29877 | [29877-trump-simulator-2017.json](./29877-trump-simulator-2017.json) |
@@ -694,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tūnshí Tiāndì Xūnǐ Shìjiè | 396828 | [396828-tunshi-tiandi-xuni-shijie.json](./396828-tunshi-tiandi-xuni-shijie.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
+| Turbocide | 373914 | [373914-turbocide.json](./373914-turbocide.json) |
 | Turn It Around | 380857 | [380857-turn-it-around.json](./380857-turn-it-around.json) |
 | Tux Fishing | 382651 | [382651-tux-fishing.json](./382651-tux-fishing.json) |
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
