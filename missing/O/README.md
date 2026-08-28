@@ -23,10 +23,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
 | Oh No, Not Another L | 412145 | [412145-oh-no-not-another-l.json](./412145-oh-no-not-another-l.json) |
 | Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
+| Oil Island Hustle | 406021 | [406021-oil-island-hustle.json](./406021-oil-island-hustle.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
 | Oink & Collect | 410769 | [410769-oink-and-collect.json](./410769-oink-and-collect.json) |
 | OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
+| Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Omnipresent | 34443 | [34443-omnipresent.json](./34443-omnipresent.json) |
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
@@ -38,10 +40,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
+| One Last Push | 405993 | [405993-one-last-push.json](./405993-one-last-push.json) |
 | One Neck Ahead | 407983 | [407983-one-neck-ahead.json](./407983-one-neck-ahead.json) |
 | One Piece Treasure Battle | 65410 | [65410-one-piece-treasure-battle.json](./65410-one-piece-treasure-battle.json) |
 | One Piece: Grand Battle! | 75738 | [75738-one-piece-grand-battle.json](./75738-one-piece-grand-battle.json) |
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
+| One Wild Futa Nightclub | 405986 | [405986-one-wild-futa-nightclub.json](./405986-one-wild-futa-nightclub.json) |
 | One-Armed Robber | 263205 | [263205-one-armed-robber.json](./263205-one-armed-robber.json) |
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
 | Ongeki Re:Fresh Act.2 | 408700 | [408700-ongeki-re-fresh-act-2.json](./408700-ongeki-re-fresh-act-2.json) |
