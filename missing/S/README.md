@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
+| Saphi | 383809 | [383809-saphi.json](./383809-saphi.json) |
 | Saratoga | 389288 | [389288-saratoga.json](./389288-saratoga.json) |
 | Sarkeras: Artifact of the Ancestors | 398882 | [398882-sarkeras-artifact-of-the-ancestors.json](./398882-sarkeras-artifact-of-the-ancestors.json) |
 | SAS: Zombie Assault TD | 392630 | [392630-sas-zombie-assault-td.json](./392630-sas-zombie-assault-td.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shmandala | 384384 | [384384-shmandala.json](./384384-shmandala.json) |
 | Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
+| Shooterhouse | 383806 | [383806-shooterhouse.json](./383806-shooterhouse.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Vol. 2 | 15184 | [15184-singstar-vol-2.json](./15184-singstar-vol-2.json) |
 | Sinweaver | 386021 | [386021-sinweaver.json](./386021-sinweaver.json) |
 | Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
+| Siren | 383852 | [383852-siren.json](./383852-siren.json) |
 | Sister ha Sukuitai! | 387185 | [387185-sister-ha-sukuitai.json](./387185-sister-ha-sukuitai.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
@@ -250,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
+| Skinwalker | 383839 | [383839-skinwalker.json](./383839-skinwalker.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Skunk Simulator: Raccoon Games | 384943 | [384943-skunk-simulator-raccoon-games.json](./384943-skunk-simulator-raccoon-games.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
@@ -343,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solheart: The Hollow Sun | 386005 | [386005-solheart-the-hollow-sun.json](./386005-solheart-the-hollow-sun.json) |
 | Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
+| Solitaire Associations Journey | 383811 | [383811-solitaire-associations-journey.json](./383811-solitaire-associations-journey.json) |
 | Solitaire Crime Stories Chapter 4 | 392620 | [392620-solitaire-crime-stories-chapter-4.json](./392620-solitaire-crime-stories-chapter-4.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
@@ -495,8 +500,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: TIE Fighter - Collector's CD-ROM | 22626 | [22626-star-wars-tie-fighter-collectors-cd-rom.json](./22626-star-wars-tie-fighter-collectors-cd-rom.json) |
 | Star Wars: Yoda Stories | 155 | [155-star-wars-yoda-stories.json](./155-star-wars-yoda-stories.json) |
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
+| Stardew Aquarium | 383820 | [383820-stardew-aquarium.json](./383820-stardew-aquarium.json) |
 | Stardom: The A-List | 65115 | [65115-stardom-the-a-list.json](./65115-stardom-the-a-list.json) |
 | StarDrift Delivery | 390980 | [390980-stardrift-delivery.json](./390980-stardrift-delivery.json) |
+| Stardust Aces | 383799 | [383799-stardust-aces.json](./383799-stardust-aces.json) |
 | Stardust Frontier | 384962 | [384962-stardust-frontier.json](./384962-stardust-frontier.json) |
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
 | Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
@@ -611,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
+| Summer Days in the Joyful Countryside | 383838 | [383838-summer-days-in-the-joyful-countryside.json](./383838-summer-days-in-the-joyful-countryside.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner: A Goddess Reborn | 24088 | [24088-summoner-a-goddess-reborn.json](./24088-summoner-a-goddess-reborn.json) |
@@ -722,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sworn | 291948 | [291948-sworn.json](./291948-sworn.json) |
 | Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
+| Symblyx | 383854 | [383854-symblyx.json](./383854-symblyx.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
 | SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
