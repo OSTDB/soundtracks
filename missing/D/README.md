@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Peak | 44282 | [44282-demon-peak.json](./44282-demon-peak.json) |
 | Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
+| Demonolition | 386001 | [386001-demonolition.json](./386001-demonolition.json) |
 | Depleted | 395449 | [395449-depleted.json](./395449-depleted.json) |
 | Deployed | 389869 | [389869-deployed.json](./389869-deployed.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | Duckiost | 386618 | [386618-duckiost.json](./386618-duckiost.json) |
 | DuckTales: Remastered | 2904 | [2904-ducktales-remastered.json](./2904-ducktales-remastered.json) |
+| DUD Bounce World | 386051 | [386051-dud-bounce-world.json](./386051-dud-bounce-world.json) |
 | Duet Night Abyss: The Wind Awakening, Part 1 | 413547 | [413547-duet-night-abyss-the-wind-awakening-part-1.json](./413547-duet-night-abyss-the-wind-awakening-part-1.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
