@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
 | Ancient Frontier | 31479 | [31479-ancient-frontier.json](./31479-ancient-frontier.json) |
+| Ancients of Arkar | 382602 | [382602-ancients-of-arkar.json](./382602-ancients-of-arkar.json) |
 | Andor: Wrecking Dawn | 109629 | [109629-andor-wrecking-dawn.json](./109629-andor-wrecking-dawn.json) |
 | Angband | 50261 | [50261-angband.json](./50261-angband.json) |
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
@@ -241,11 +242,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Final Lap | 396094 | [396094-arcade-archives-2-final-lap.json](./396094-arcade-archives-2-final-lap.json) |
 | Arcade Archives 2: Plump Pop | 394721 | [394721-arcade-archives-2-plump-pop.json](./394721-arcade-archives-2-plump-pop.json) |
 | Arcade Archives 2: Quester | 387879 | [387879-arcade-archives-2-quester.json](./387879-arcade-archives-2-quester.json) |
+| Arcade Archives 2: Space Invaders | 382649 | [382649-arcade-archives-2-space-invaders.json](./382649-arcade-archives-2-space-invaders.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
 | Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
+| Arcade Archives: Space Invaders | 382647 | [382647-arcade-archives-space-invaders.json](./382647-arcade-archives-space-invaders.json) |
 | Arcade Archives: The Outfoxies | 384946 | [384946-arcade-archives-the-outfoxies.json](./384946-arcade-archives-the-outfoxies.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
@@ -276,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrange Fever | 385498 | [385498-arrange-fever.json](./385498-arrange-fever.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
+| Arrow Party | 382617 | [382617-arrow-party.json](./382617-arrow-party.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
 | Art of Drift: Cozy Drift Simulator | 414229 | [414229-art-of-drift-cozy-drift-simulator.json](./414229-art-of-drift-cozy-drift-simulator.json) |
 | Art of Gravity | 36979 | [36979-art-of-gravity.json](./36979-art-of-gravity.json) |
@@ -292,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
+| Ashes: Undertow | 382640 | [382640-ashes-undertow.json](./382640-ashes-undertow.json) |
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asobutsuri | 410814 | [410814-asobutsuri.json](./410814-asobutsuri.json) |
