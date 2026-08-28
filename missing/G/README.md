@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
 | Give Me a Weapon! | 391470 | [391470-give-me-a-weapon.json](./391470-give-me-a-weapon.json) |
 | Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
+| Gladiatorum: Sacramentum | 364317 | [364317-gladiatorum-sacramentum.json](./364317-gladiatorum-sacramentum.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glide | 379224 | [379224-glide.json](./379224-glide.json) |
