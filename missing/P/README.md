@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
 | Pocket Kingdom | 32991 | [32991-pocket-kingdom.json](./32991-pocket-kingdom.json) |
 | Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
+| Pocket Monsters Crystal Version | 392043 | [392043-pocket-monsters-crystal-version.json](./392043-pocket-monsters-crystal-version.json) |
 | Pocket Putts | 401430 | [401430-pocket-putts.json](./401430-pocket-putts.json) |
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
 | Pocky & Rocky 2 | 1536 | [1536-pocky-and-rocky-2.json](./1536-pocky-and-rocky-2.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pollo Diavolo | 399486 | [399486-pollo-diavolo.json](./399486-pollo-diavolo.json) |
+| Poly Bricks | 392024 | [392024-poly-bricks.json](./392024-poly-bricks.json) |
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
@@ -263,12 +265,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Soccer Club wo Tsukurou! Online | 406624 | [406624-pro-soccer-club-wo-tsukurou-online.json](./406624-pro-soccer-club-wo-tsukurou-online.json) |
 | Pro Soccer Club wo Tsukurou! Online 2 | 406625 | [406625-pro-soccer-club-wo-tsukurou-online-2.json](./406625-pro-soccer-club-wo-tsukurou-online-2.json) |
 | Probably Stolen | 412177 | [412177-probably-stolen.json](./412177-probably-stolen.json) |
+| Problem Solved | 392018 | [392018-problem-solved.json](./392018-problem-solved.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
+| Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
