@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafborn | 400126 | [400126-leafborn.json](./400126-leafborn.json) |
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
+| Learn Sounds with Miss Piggy | 391484 | [391484-learn-sounds-with-miss-piggy.json](./391484-learn-sounds-with-miss-piggy.json) |
 | Learn with Pokémon: Typing Adventure | 4564 | [4564-learn-with-pokemon-typing-adventure.json](./4564-learn-with-pokemon-typing-adventure.json) |
 | Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
+| Little Immortal Cultivator | 391477 | [391477-little-immortal-cultivator.json](./391477-little-immortal-cultivator.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
@@ -162,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
+| Low Magic They Said | 391497 | [391497-low-magic-they-said.json](./391497-low-magic-they-said.json) |
 | Low Poly Truck Simulator | 407914 | [407914-low-poly-truck-simulator.json](./407914-low-poly-truck-simulator.json) |
 | LRDZ: Le roi des Zosties | 396050 | [396050-lrdz-le-roi-des-zosties.json](./396050-lrdz-le-roi-des-zosties.json) |
 | LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
