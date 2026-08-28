@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
+| KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
