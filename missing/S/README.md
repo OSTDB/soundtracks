@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: Raiders Of Sophie | 252846 | [252846-sand-raiders-of-sophie.json](./252846-sand-raiders-of-sophie.json) |
 | Sandcastle | 399476 | [399476-sandcastle.json](./399476-sandcastle.json) |
 | Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
+| Sandspeed: Camel Racing | 359799 | [359799-sandspeed-camel-racing.json](./359799-sandspeed-camel-racing.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanguis et Gloria: Shadow of the Labyrinth | 375645 | [375645-sanguis-et-gloria-shadow-of-the-labyrinth.json](./375645-sanguis-et-gloria-shadow-of-the-labyrinth.json) |
 | Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 386580 | [386580-shinobi.json](./386580-shinobi.json) |
 | Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
 | Shinyaku: Touhou Gensousatsu - Re.Phantasmagoria of Imagine Breaker | 375631 | [375631-shinyaku-touhou-gensousatsu-re-phantasmagoria-of-imagine-breaker.json](./375631-shinyaku-touhou-gensousatsu-re-phantasmagoria-of-imagine-breaker.json) |
+| Ship Simulator: Ocean Fishing | 359808 | [359808-ship-simulator-ocean-fishing.json](./359808-ship-simulator-ocean-fishing.json) |
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
@@ -349,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
+| Slime Lab | 359778 | [359778-slime-lab.json](./359778-slime-lab.json) |
 | Slime Shiyou | 366047 | [366047-slime-shiyou.json](./366047-slime-shiyou.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slimes Arena | 366678 | [366678-slimes-arena.json](./366678-slimes-arena.json) |
@@ -567,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring and Autumn Chronicles | 371113 | [371113-spring-and-autumn-chronicles.json](./371113-spring-and-autumn-chronicles.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
+| SQL Island | 359779 | [359779-sql-island.json](./359779-sql-island.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
@@ -880,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
 | Surviving Mars: Relaunched | 362081 | [362081-surviving-mars-relaunched.json](./362081-surviving-mars-relaunched.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
+| Sushi Attack | 359803 | [359803-sushi-attack.json](./359803-sushi-attack.json) |
 | Sustain | 384362 | [384362-sustain.json](./384362-sustain.json) |
 | Sven's Quest: House of the Woodland Witch | 386046 | [386046-svens-quest-house-of-the-woodland-witch.json](./386046-svens-quest-house-of-the-woodland-witch.json) |
 | Swap Meet | 413522 | [413522-swap-meet.json](./413522-swap-meet.json) |
