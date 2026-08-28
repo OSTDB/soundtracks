@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakyforms Deluxe: Your Creations, Alive! | 24225 | [24225-freakyforms-deluxe-your-creations-alive.json](./24225-freakyforms-deluxe-your-creations-alive.json) |
 | Fredbear Runaway | 404105 | [404105-fredbear-runaway.json](./404105-fredbear-runaway.json) |
 | Freddy Hardest | 39081 | [39081-freddy-hardest.json](./39081-freddy-hardest.json) |
+| Freddy's: Reanimated | 387871 | [387871-freddys-reanimated.json](./387871-freddys-reanimated.json) |
 | Frederic: Resurrection of Music | 9846 | [9846-frederic-resurrection-of-music.json](./9846-frederic-resurrection-of-music.json) |
 | Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
 | Fuhon | 412851 | [412851-fuhon.json](./412851-fuhon.json) |
 | Fulfill Wishes and Save You | 394047 | [394047-fulfill-wishes-and-save-you.json](./394047-fulfill-wishes-and-save-you.json) |
+| Fulgor: I Hate, Therefore I Am | 387896 | [387896-fulgor-i-hate-therefore-i-am.json](./387896-fulgor-i-hate-therefore-i-am.json) |
 | Full Metal Furies | 27343 | [27343-full-metal-furies.json](./27343-full-metal-furies.json) |
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
