@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
+| Warlocks Nexus | 404129 | [404129-warlocks-nexus.json](./404129-warlocks-nexus.json) |
 | Warlocks vs Shadows | 36199 | [36199-warlocks-vs-shadows.json](./36199-warlocks-vs-shadows.json) |
 | Warlords | 239503 | [239503-warlords.json](./239503-warlords.json) |
 | Warlords | 81371 | [81371-warlords.json](./81371-warlords.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
 | Wiseman: No More Breakups | 410752 | [410752-wiseman-no-more-breakups.json](./410752-wiseman-no-more-breakups.json) |
+| Witch Hunt | 404137 | [404137-witch-hunt.json](./404137-witch-hunt.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
