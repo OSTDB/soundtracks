@@ -52,8 +52,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
+| 4 in 1 Sports Bundle | 380847 | [380847-4-in-1-sports-bundle.json](./380847-4-in-1-sports-bundle.json) |
 | 5318008 | 412168 | [412168-5318008.json](./412168-5318008.json) |
 | 6 Floors | 397549 | [397549-6-floors.json](./397549-6-floors.json) |
+| 6 in 1 Power Bundle Vol. 2 | 380848 | [380848-6-in-1-power-bundle-vol-2.json](./380848-6-in-1-power-bundle-vol-2.json) |
 | 60 Seconds! Atomic Adventure | 86379 | [86379-60-seconds-atomic-adventure.json](./86379-60-seconds-atomic-adventure.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
 | 7 Trials | 400791 | [400791-7-trials.json](./400791-7-trials.json) |
