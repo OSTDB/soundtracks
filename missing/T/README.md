@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The Hidden Library | 403452 | [403452-the-hidden-library.json](./403452-the-hidden-library.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
+| The Holdouts | 360930 | [360930-the-holdouts.json](./360930-the-holdouts.json) |
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
 | Towerborne: Deluxe Edition | 384963 | [384963-towerborne-deluxe-edition.json](./384963-towerborne-deluxe-edition.json) |
+| Towerfolk | 360959 | [360959-towerfolk.json](./360959-towerfolk.json) |
 | Town Tower | 384955 | [384955-town-tower.json](./384955-town-tower.json) |
 | Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
@@ -692,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
 | Traditional Tactics With Sess-AI 2.0 | 376356 | [376356-traditional-tactics-with-sess-ai-2-0.json](./376356-traditional-tactics-with-sess-ai-2-0.json) |
+| Traffic Alarm | 360994 | [360994-traffic-alarm.json](./360994-traffic-alarm.json) |
 | Trailblader | 369416 | [369416-trailblader.json](./369416-trailblader.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train and Tame | 367258 | [367258-train-and-tame.json](./367258-train-and-tame.json) |
@@ -732,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
 | Trials of Olympus | 392622 | [392622-trials-of-olympus.json](./392622-trials-of-olympus.json) |
+| Trials of Valor | 360975 | [360975-trials-of-valor.json](./360975-trials-of-valor.json) |
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
 | Tribute Revamp | 364306 | [364306-tribute-revamp.json](./364306-tribute-revamp.json) |
 | Tricky Castle | 380861 | [380861-tricky-castle.json](./380861-tricky-castle.json) |
