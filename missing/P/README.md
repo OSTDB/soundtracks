@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
+| Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
 | Police Chief | 410745 | [410745-police-chief.json](./410745-police-chief.json) |
