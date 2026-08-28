@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macaronpolis | 392057 | [392057-macaronpolis.json](./392057-macaronpolis.json) |
 | MacGuffin's Curse | 15057 | [15057-macguffins-curse.json](./15057-macguffins-curse.json) |
 | Machines | 22821 | [22821-machines.json](./22821-machines.json) |
+| Macropolis | 379731 | [379731-macropolis.json](./379731-macropolis.json) |
 | Mad Bus Simulator | 391464 | [391464-mad-bus-simulator.json](./391464-mad-bus-simulator.json) |
 | Mad Dog McCree | 4254 | [4254-mad-dog-mccree.json](./4254-mad-dog-mccree.json) |
 | Mad Father | 197833 | [197833-mad-father.json](./197833-mad-father.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicraft | 275249 | [275249-magicraft.json](./275249-magicraft.json) |
 | Magnet to Planet | 412862 | [412862-magnet-to-planet.json](./412862-magnet-to-planet.json) |
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
+| Mahadesora | 379751 | [379751-mahadesora.json](./379751-mahadesora.json) |
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
 | Mahjong House: Challenge All Achievements | 410765 | [410765-mahjong-house-challenge-all-achievements.json](./410765-mahjong-house-challenge-all-achievements.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
@@ -76,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
+| Marble Quest | 379777 | [379777-marble-quest.json](./379777-marble-quest.json) |
 | Marbly | 20913 | [20913-marbly.json](./20913-marbly.json) |
 | March of the Red Queen | 414206 | [414206-march-of-the-red-queen.json](./414206-march-of-the-red-queen.json) |
 | Marine.exe: Desktop RPG | 400803 | [400803-marine-exe-desktop-rpg.json](./400803-marine-exe-desktop-rpg.json) |
