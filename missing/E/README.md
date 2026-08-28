@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Crew 4: Call of the Ancestors - Collector's Edition | 382629 | [382629-emergency-crew-4-call-of-the-ancestors-collectors-edition.json](./382629-emergency-crew-4-call-of-the-ancestors-collectors-edition.json) |
 | Emergency Mayhem | 4831 | [4831-emergency-mayhem.json](./4831-emergency-mayhem.json) |
 | EmergeNYC | 33045 | [33045-emergenyc.json](./33045-emergenyc.json) |
+| Emma and Her Little Dragon | 366656 | [366656-emma-and-her-little-dragon.json](./366656-emma-and-her-little-dragon.json) |
 | Emoji Battlefield: Island Warfare | 392610 | [392610-emoji-battlefield-island-warfare.json](./392610-emoji-battlefield-island-warfare.json) |
 | Emoji Killer: Casino Massacre | 414230 | [414230-emoji-killer-casino-massacre.json](./414230-emoji-killer-casino-massacre.json) |
 | EmPipe | 374457 | [374457-empipe.json](./374457-empipe.json) |
