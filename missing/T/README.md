@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
+| The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
 | The Book of Legends | 17059 | [17059-the-book-of-legends.json](./17059-the-book-of-legends.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Miskatonic | 59833 | [59833-the-miskatonic.json](./59833-the-miskatonic.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
+| The Monster Pimp | 384964 | [384964-the-monster-pimp.json](./384964-the-monster-pimp.json) |
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
@@ -317,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Settlers IV: Mission CD | 22302 | [22302-the-settlers-iv-mission-cd.json](./22302-the-settlers-iv-mission-cd.json) |
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
+| The Seventh Variable | 384950 | [384950-the-seventh-variable.json](./384950-the-seventh-variable.json) |
 | The Shadow Over Hawksmill | 404759 | [404759-the-shadow-over-hawksmill.json](./404759-the-shadow-over-hawksmill.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Shovelling Hour | 385464 | [385464-the-shovelling-hour.json](./385464-the-shovelling-hour.json) |
@@ -517,6 +520,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Insolence | 411431 | [411431-tower-of-insolence.json](./411431-tower-of-insolence.json) |
 | Tower Unite | 27927 | [27927-tower-unite.json](./27927-tower-unite.json) |
 | Tower Wars | 15310 | [15310-tower-wars.json](./15310-tower-wars.json) |
+| Towerborne: Deluxe Edition | 384963 | [384963-towerborne-deluxe-edition.json](./384963-towerborne-deluxe-edition.json) |
+| Town Tower | 384955 | [384955-town-tower.json](./384955-town-tower.json) |
 | Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
