@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
+| Pokémon: Special Chapter | 376344 | [376344-pokemon-special-chapter.json](./376344-pokemon-special-chapter.json) |
 | Poker Battle | 378027 | [378027-poker-battle.json](./378027-poker-battle.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
 | Poker: Texas & Omaha Hold'em | 382633 | [382633-poker-texas-and-omaha-holdem.json](./382633-poker-texas-and-omaha-holdem.json) |
@@ -375,4 +376,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Puzzling Places: Monthly Pack #38 - Fall & Fright | 379764 | [379764-puzzling-places-monthly-pack-38-fall-and-fright.json](./379764-puzzling-places-monthly-pack-38-fall-and-fright.json) |
 | Puzzling Places: Tokyo | 379765 | [379765-puzzling-places-tokyo.json](./379765-puzzling-places-tokyo.json) |
+| Pyramid Quest 2 | 376307 | [376307-pyramid-quest-2.json](./376307-pyramid-quest-2.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
