@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
 | Gallons Legacy | 398228 | [398228-gallons-legacy.json](./398228-gallons-legacy.json) |
+| Galvan | 393328 | [393328-galvan.json](./393328-galvan.json) |
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
