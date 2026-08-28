@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unconscious | 405416 | [405416-unconscious.json](./405416-unconscious.json) |
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
+| Undead Hunter Part I | 365516 | [365516-undead-hunter-part-i.json](./365516-undead-hunter-part-i.json) |
 | Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
 | Under the Eye | 402820 | [402820-under-the-eye.json](./402820-under-the-eye.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
