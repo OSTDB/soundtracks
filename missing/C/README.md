@@ -288,6 +288,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Meat | 375636 | [375636-cold-meat.json](./375636-cold-meat.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
+| Colin Quest | 359228 | [359228-colin-quest.json](./359228-colin-quest.json) |
+| CollapsingWorldGuildmaster | 359227 | [359227-collapsingworldguildmaster.json](./359227-collapsingworldguildmaster.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
@@ -374,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Story Bro! | 396054 | [396054-cool-story-bro.json](./396054-cool-story-bro.json) |
 | Cooperate | 384361 | [384361-cooperate.json](./384361-cooperate.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
+| Coralland | 359233 | [359233-coralland.json](./359233-coralland.json) |
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
