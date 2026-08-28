@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y o u | 386575 | [386575-y-o-u.json](./386575-y-o-u.json) |
 | Yà Mù Dì Sī | 407980 | [407980-ya-mu-di-si.json](./407980-ya-mu-di-si.json) |
 | Yabai Girls: Amazing Accountant | 376352 | [376352-yabai-girls-amazing-accountant.json](./376352-yabai-girls-amazing-accountant.json) |
+| Yabai Girls: Enchanted Exorcist | 374474 | [374474-yabai-girls-enchanted-exorcist.json](./374474-yabai-girls-enchanted-exorcist.json) |
 | Yami to Hikari no Sanctuary | 398853 | [398853-yami-to-hikari-no-sanctuary.json](./398853-yami-to-hikari-no-sanctuary.json) |
 | Yatzy: Classic Dice Game | 86683 | [86683-yatzy-classic-dice-game.json](./86683-yatzy-classic-dice-game.json) |
 | Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
