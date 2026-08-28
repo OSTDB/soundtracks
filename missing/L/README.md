@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
 | Legend of Idle | 406608 | [406608-legend-of-idle.json](./406608-legend-of-idle.json) |
+| Legends Aligned: Land of Order | 396110 | [396110-legends-aligned-land-of-order.json](./396110-legends-aligned-land-of-order.json) |
 | Legends of Atlantis: Exodus | 35806 | [35806-legends-of-atlantis-exodus.json](./35806-legends-of-atlantis-exodus.json) |
 | Legends of Dawn Reborn | 34434 | [34434-legends-of-dawn-reborn.json](./34434-legends-of-dawn-reborn.json) |
 | Legends of Ellaria | 44161 | [44161-legends-of-ellaria.json](./44161-legends-of-ellaria.json) |
@@ -152,7 +153,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
 | Low Poly Truck Simulator | 407914 | [407914-low-poly-truck-simulator.json](./407914-low-poly-truck-simulator.json) |
+| LRDZ: Le roi des Zosties | 396050 | [396050-lrdz-le-roi-des-zosties.json](./396050-lrdz-le-roi-des-zosties.json) |
 | LSD | 86355 | [86355-lsd.json](./86355-lsd.json) |
+| Lucha Loka | 396089 | [396089-lucha-loka.json](./396089-lucha-loka.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky Break | 405998 | [405998-lucky-break.json](./405998-lucky-break.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
