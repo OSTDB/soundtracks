@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Sports: Goal! 2 | 396786 | [396786-jaleco-sports-goal-2.json](./396786-jaleco-sports-goal-2.json) |
 | Jalopy | 20908 | [20908-jalopy.json](./20908-jalopy.json) |
 | Jam Sessions 2 | 65090 | [65090-jam-sessions-2.json](./65090-jam-sessions-2.json) |
+| Jam's Adjustable Mirrors | 374446 | [374446-jams-adjustable-mirrors.json](./374446-jams-adjustable-mirrors.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Jammin' | 383220 | [383220-jammin.json](./383220-jammin.json) |
 | Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
