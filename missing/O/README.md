@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm - Enhanced Edition | 178211 | [178211-oddworld-soulstorm-enhanced-edition.json](./178211-oddworld-soulstorm-enhanced-edition.json) |
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
+| Odysseon | 392644 | [392644-odysseon.json](./392644-odysseon.json) |
 | Of Kings and Men | 23346 | [23346-of-kings-and-men.json](./23346-of-kings-and-men.json) |
 | Off the Vine | 404747 | [404747-off-the-vine.json](./404747-off-the-vine.json) |
 | Off World Racing | 400778 | [400778-off-world-racing.json](./400778-off-world-racing.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
 | Operation Warcade VR | 36826 | [36826-operation-warcade-vr.json](./36826-operation-warcade-vr.json) |
 | Opoona | 5087 | [5087-opoona.json](./5087-opoona.json) |
+| Opus Magnum: Complete Edition | 392618 | [392618-opus-magnum-complete-edition.json](./392618-opus-magnum-complete-edition.json) |
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
@@ -108,5 +110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcoming Pain | 76707 | [76707-overcoming-pain.json](./76707-overcoming-pain.json) |
 | Overlord | 77197 | [77197-overlord.json](./77197-overlord.json) |
 | Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
+| Overwatch Rush | 392676 | [392676-overwatch-rush.json](./392676-overwatch-rush.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
