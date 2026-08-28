@@ -198,6 +198,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Pit | 404727 | [404727-clown-pit.json](./404727-clown-pit.json) |
 | Clown's Lair | 413565 | [413565-clowns-lair.json](./413565-clowns-lair.json) |
 | Club Life | 22211 | [22211-club-life.json](./22211-club-life.json) |
+| Clue - Painted Red | 386568 | [386568-clue-painted-red.json](./386568-clue-painted-red.json) |
+| Clue: Legacy Suspect Pack | 386567 | [386567-clue-legacy-suspect-pack.json](./386567-clue-legacy-suspect-pack.json) |
+| Clue: Winter Crime Scene | 386569 | [386569-clue-winter-crime-scene.json](./386569-clue-winter-crime-scene.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
@@ -223,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Number - Poly Art | 96084 | [96084-color-by-number-poly-art.json](./96084-color-by-number-poly-art.json) |
 | Color by Numbers - Halloween + | 87645 | [87645-color-by-numbers-halloween.json](./87645-color-by-numbers-halloween.json) |
 | Color Inverter | 401395 | [401395-color-inverter.json](./401395-color-inverter.json) |
+| Color Splash: Parrots | 386611 | [386611-color-splash-parrots.json](./386611-color-splash-parrots.json) |
 | Color Switch 3D | 87644 | [87644-color-switch-3d.json](./87644-color-switch-3d.json) |
 | Color Zen | 39209 | [39209-color-zen.json](./39209-color-zen.json) |
 | Color Zone | 388585 | [388585-color-zone.json](./388585-color-zone.json) |
@@ -285,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Deluxe Edition | 394745 | [394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json](./394745-cooking-tycoons-3-in-1-bundle-deluxe-edition.json) |
 | Cool Story Bro! | 396054 | [396054-cool-story-bro.json](./396054-cool-story-bro.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
+| Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
