@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Misty Land | 389902 | [389902-misty-land.json](./389902-misty-land.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
+| Mix It! | 359246 | [359246-mix-it.json](./359246-mix-it.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
 | Mizuki: Demon-Slaying Housewife | 414208 | [414208-mizuki-demon-slaying-housewife.json](./414208-mizuki-demon-slaying-housewife.json) |
 | MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
 | Moonlight Chess | 372284 | [372284-moonlight-chess.json](./372284-moonlight-chess.json) |
+| Moonman: The Game | 359244 | [359244-moonman-the-game.json](./359244-moonman-the-game.json) |
 | Moonsteel | 360424 | [360424-moonsteel.json](./360424-moonsteel.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
