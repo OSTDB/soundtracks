@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
+| Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
 | Reptilian Rebellion | 33013 | [33013-reptilian-rebellion.json](./33013-reptilian-rebellion.json) |
 | Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Rescue Team 2 | 34430 | [34430-rescue-team-2.json](./34430-rescue-team-2.json) |
