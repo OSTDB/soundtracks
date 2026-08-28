@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
 | Isekai Wet Dream | 382014 | [382014-isekai-wet-dream.json](./382014-isekai-wet-dream.json) |
 | Iseki | 387194 | [387194-iseki.json](./387194-iseki.json) |
+| Island Life With Mayalala | 360400 | [360400-island-life-with-mayalala.json](./360400-island-life-with-mayalala.json) |
 | Island of Lost Things | 379211 | [379211-island-of-lost-things.json](./379211-island-of-lost-things.json) |
 | Island Survive Simulator: Craft, Build, Grow | 398199 | [398199-island-survive-simulator-craft-build-grow.json](./398199-island-survive-simulator-craft-build-grow.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
