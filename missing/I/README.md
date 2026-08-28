@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
 | I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
+| I'll Never Let My Owner Recover From Her Gambling Addiction | 384936 | [384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json](./384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json) |
 | I'm a Big Fan | 413567 | [413567-im-a-big-fan.json](./413567-im-a-big-fan.json) |
 | I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
