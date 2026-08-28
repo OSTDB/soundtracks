@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2018 | 96026 | [96026-mlb-tap-sports-baseball-2018.json](./96026-mlb-tap-sports-baseball-2018.json) |
 | MLB The Show 22 | 188661 | [188661-mlb-the-show-22.json](./188661-mlb-the-show-22.json) |
 | MLB The Show 23 | 230593 | [230593-mlb-the-show-23.json](./230593-mlb-the-show-23.json) |
+| MMOLB | 364324 | [364324-mmolb.json](./364324-mmolb.json) |
 | Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Mobile Droid Gumda | 392668 | [392668-mobile-droid-gumda.json](./392668-mobile-droid-gumda.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mowing Simulator | 368851 | [368851-mowing-simulator.json](./368851-mowing-simulator.json) |
+| Mr Wonder | 364295 | [364295-mr-wonder.json](./364295-mr-wonder.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Hack Jack: Robot Detective | 115937 | [115937-mr-hack-jack-robot-detective.json](./115937-mr-hack-jack-robot-detective.json) |
 | Mr. Records | 404712 | [404712-mr-records.json](./404712-mr-records.json) |
