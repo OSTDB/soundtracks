@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Legends | 736 | [736-gt-legends.json](./736-gt-legends.json) |
 | GTA Turk City | 277872 | [277872-gta-turk-city.json](./277872-gta-turk-city.json) |
 | GTR: FIA GT Racing Game | 738 | [738-gtr-fia-gt-racing-game.json](./738-gtr-fia-gt-racing-game.json) |
+| GTR: Garage Town Racing | 367228 | [367228-gtr-garage-town-racing.json](./367228-gtr-garage-town-racing.json) |
 | Guacamelee! | 4838 | [4838-guacamelee.json](./4838-guacamelee.json) |
 | Guacamelee!: Gold Edition | 19121 | [19121-guacamelee-gold-edition.json](./19121-guacamelee-gold-edition.json) |
 | Guard of Wonderland | 109756 | [109756-guard-of-wonderland.json](./109756-guard-of-wonderland.json) |
