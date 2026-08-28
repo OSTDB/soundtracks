@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tiles 3 | 95874 | [95874-magic-tiles-3.json](./95874-magic-tiles-3.json) |
 | Magic: The Gathering - Battlemage | 84256 | [84256-magic-the-gathering-battlemage.json](./84256-magic-the-gathering-battlemage.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2013: Expansion | 20835 | [20835-magic-the-gathering-duels-of-the-planeswalkers-2013-expansion.json](./20835-magic-the-gathering-duels-of-the-planeswalkers-2013-expansion.json) |
+| Magica | 378060 | [378060-magica.json](./378060-magica.json) |
 | Magical Drop V | 15279 | [15279-magical-drop-v.json](./15279-magical-drop-v.json) |
 | Magical Eyes: Red is for Anguish | 12512 | [12512-magical-eyes-red-is-for-anguish.json](./12512-magical-eyes-red-is-for-anguish.json) |
 | Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
+| Mayday | 378053 | [378053-mayday.json](./378053-mayday.json) |
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
 | Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
@@ -192,6 +194,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
 | Memeology Club | 414968 | [414968-memeology-club.json](./414968-memeology-club.json) |
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
+| Memology: Absurd Racing | 378022 | [378022-memology-absurd-racing.json](./378022-memology-absurd-racing.json) |
+| Memology: Italian Meme War | 378026 | [378026-memology-italian-meme-war.json](./378026-memology-italian-meme-war.json) |
 | Memories Off 2nd: Yuki Hotaru | 396775 | [396775-memories-off-2nd-yuki-hotaru.json](./396775-memories-off-2nd-yuki-hotaru.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Menhera Maiden | 399530 | [399530-menhera-maiden.json](./399530-menhera-maiden.json) |
@@ -221,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
 | Metroid Prime Hunters: Recompiled | 414195 | [414195-metroid-prime-hunters-recompiled.json](./414195-metroid-prime-hunters-recompiled.json) |
+| Metroid Prime: Double Trouble | 378058 | [378058-metroid-prime-double-trouble.json](./378058-metroid-prime-double-trouble.json) |
 | Metroid Prime: Trilogy | 1112 | [1112-metroid-prime-trilogy.json](./1112-metroid-prime-trilogy.json) |
 | Mhakna Gramura and Fairy Bell | 81009 | [81009-mhakna-gramura-and-fairy-bell.json](./81009-mhakna-gramura-and-fairy-bell.json) |
 | Miami Vice: The Game | 23818 | [23818-miami-vice-the-game.json](./23818-miami-vice-the-game.json) |
