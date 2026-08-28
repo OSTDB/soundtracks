@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Fury | 23659 | [23659-wings-of-fury.json](./23659-wings-of-fury.json) |
 | Winnie the Pooh | 17765 | [17765-winnie-the-pooh.json](./17765-winnie-the-pooh.json) |
 | Winter Warland | 76692 | [76692-winter-warland.json](./76692-winter-warland.json) |
+| WinterCraft: Survival in the Forest | 413570 | [413570-wintercraft-survival-in-the-forest.json](./413570-wintercraft-survival-in-the-forest.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
