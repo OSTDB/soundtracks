@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
 | Garage Mechanic Simulator 2026 | 404729 | [404729-garage-mechanic-simulator-2026.json](./404729-garage-mechanic-simulator-2026.json) |
 | Garbage Truck Simulator 2011 | 22638 | [22638-garbage-truck-simulator-2011.json](./22638-garbage-truck-simulator-2011.json) |
+| Garden Ink | 392039 | [392039-garden-ink.json](./392039-garden-ink.json) |
 | Gardener's Luck | 392638 | [392638-gardeners-luck.json](./392638-gardeners-luck.json) |
 | Gardenia | 398875 | [398875-gardenia.json](./398875-gardenia.json) |
 | Garfield: A Tail of Two Kitties | 23734 | [23734-garfield-a-tail-of-two-kitties.json](./23734-garfield-a-tail-of-two-kitties.json) |
@@ -168,6 +169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix 4 | 22060 | [22060-grand-prix-4.json](./22060-grand-prix-4.json) |
 | Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle | 93901 | [93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json](./93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json) |
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
+| Grand Theft Auto: San Andreas - The Nextgen Edition | 392022 | [392022-grand-theft-auto-san-andreas-the-nextgen-edition.json](./392022-grand-theft-auto-san-andreas-the-nextgen-edition.json) |
+| Grand Theft Auto: Vice City Stories 20th Anniversary Edition | 392046 | [392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json](./392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Grasscat Cafe | 396038 | [396038-grasscat-cafe.json](./396038-grasscat-cafe.json) |
@@ -191,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip XR | 402768 | [402768-grip-xr.json](./402768-grip-xr.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
+| Grotto Escape | 392032 | [392032-grotto-escape.json](./392032-grotto-escape.json) |
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
 | Groundwork | 414970 | [414970-groundwork.json](./414970-groundwork.json) |
@@ -219,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns, Princess and Braves | 403473 | [403473-guns-princess-and-braves.json](./403473-guns-princess-and-braves.json) |
 | Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunvalkyrie | 10234 | [10234-gunvalkyrie.json](./10234-gunvalkyrie.json) |
+| GunX | 392038 | [392038-gunx.json](./392038-gunx.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
 | GVD | 396771 | [396771-gvd.json](./396771-gvd.json) |
