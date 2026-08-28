@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie | 228463 | [228463-we-love-katamari-reroll-royal-reverie.json](./228463-we-love-katamari-reroll-royal-reverie.json) |
 | We Need to Go Deeper | 27085 | [27085-we-need-to-go-deeper.json](./27085-we-need-to-go-deeper.json) |
 | We Were Here Forever | 144455 | [144455-we-were-here-forever.json](./144455-we-were-here-forever.json) |
+| Weapon of Choice | 23028 | [23028-weapon-of-choice.json](./23028-weapon-of-choice.json) |
 | Weapon Shop de Omasse | 9639 | [9639-weapon-shop-de-omasse.json](./9639-weapon-shop-de-omasse.json) |
 | Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
@@ -75,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
+| Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
 | Will Rock | 23717 | [23717-will-rock.json](./23717-will-rock.json) |
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
 | Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
@@ -85,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander III: Heart of the Tiger | 2588 | [2588-wing-commander-iii-heart-of-the-tiger.json](./2588-wing-commander-iii-heart-of-the-tiger.json) |
 | Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
+| Wings of Fury | 23659 | [23659-wings-of-fury.json](./23659-wings-of-fury.json) |
 | Winnie the Pooh | 17765 | [17765-winnie-the-pooh.json](./17765-winnie-the-pooh.json) |
 | Winter Warland | 76692 | [76692-winter-warland.json](./76692-winter-warland.json) |
 | Wipeout HD | 1544 | [1544-wipeout-hd.json](./1544-wipeout-hd.json) |
@@ -125,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
+| Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
