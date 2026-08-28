@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
+| Sakura no Toki: Sakura no Mori no Shita wo Ayumu - First Press Limited Edition | 410137 | [410137-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu-first-press-limited-edition.json](./410137-sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu-first-press-limited-edition.json) |
 | Sakura Space | 31487 | [31487-sakura-space.json](./31487-sakura-space.json) |
 | Salammbo: Battle for Carthage | 36310 | [36310-salammbo-battle-for-carthage.json](./36310-salammbo-battle-for-carthage.json) |
 | Sally's Law | 24197 | [24197-sallys-law.json](./24197-sallys-law.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
+| Scoop 'n Shoot | 410148 | [410148-scoop-n-shoot.json](./410148-scoop-n-shoot.json) |
 | SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shattered Horizon | 10198 | [10198-shattered-horizon.json](./10198-shattered-horizon.json) |
+| Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
@@ -309,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Srq | 29881 | [29881-srq.json](./29881-srq.json) |
 | SSX | 4175 | [4175-ssx.json](./4175-ssx.json) |
 | SSX Tricky | 4176 | [4176-ssx-tricky.json](./4176-ssx-tricky.json) |
+| Stack Mates | 410143 | [410143-stack-mates.json](./410143-stack-mates.json) |
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
