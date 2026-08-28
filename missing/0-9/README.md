@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Seconds! Atomic Adventure | 86379 | [86379-60-seconds-atomic-adventure.json](./86379-60-seconds-atomic-adventure.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
+| 7dfps 2020 game | 410783 | [410783-7dfps-2020-game.json](./410783-7dfps-2020-game.json) |
 | 8-bit Adventure Anthology: Volume I | 75162 | [75162-8-bit-adventure-anthology-volume-i.json](./75162-8-bit-adventure-anthology-volume-i.json) |
 | 8bit Salvage | 412828 | [412828-8bit-salvage.json](./412828-8bit-salvage.json) |
 | 99 Levels to Hell | 8357 | [8357-99-levels-to-hell.json](./8357-99-levels-to-hell.json) |
