@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palauan Dominatrixes Are the Best | 389306 | [389306-palauan-dominatrixes-are-the-best.json](./389306-palauan-dominatrixes-are-the-best.json) |
 | Pallet Jack Racing | 386613 | [386613-pallet-jack-racing.json](./386613-pallet-jack-racing.json) |
 | Pallor Noctis Online | 410161 | [410161-pallor-noctis-online.json](./410161-pallor-noctis-online.json) |
+| Palpitations and Fears | 369983 | [369983-palpitations-and-fears.json](./369983-palpitations-and-fears.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pancakes: The Stacking Game | 396825 | [396825-pancakes-the-stacking-game.json](./396825-pancakes-the-stacking-game.json) |
 | Panda Poet | 396047 | [396047-panda-poet.json](./396047-panda-poet.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
+| Pokémon: Advanced Adventure | 369966 | [369966-pokemon-advanced-adventure.json](./369966-pokemon-advanced-adventure.json) |
 | Pokémon: Special Chapter | 376344 | [376344-pokemon-special-chapter.json](./376344-pokemon-special-chapter.json) |
 | Poker Battle | 378027 | [378027-poker-battle.json](./378027-poker-battle.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollen | 9177 | [9177-pollen.json](./9177-pollen.json) |
 | Pollo Diavolo | 399486 | [399486-pollo-diavolo.json](./399486-pollo-diavolo.json) |
 | Pollution Game | 371706 | [371706-pollution-game.json](./371706-pollution-game.json) |
+| Pollyanna | 369976 | [369976-pollyanna.json](./369976-pollyanna.json) |
 | Poly Bricks | 392024 | [392024-poly-bricks.json](./392024-poly-bricks.json) |
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | PolyGunner | 384372 | [384372-polygunner.json](./384372-polygunner.json) |
@@ -344,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
 | Project City | 414238 | [414238-project-city.json](./414238-project-city.json) |
+| Project Forestation | 369984 | [369984-project-forestation.json](./369984-project-forestation.json) |
 | Project Gotham Racing | 3320 | [3320-project-gotham-racing.json](./3320-project-gotham-racing.json) |
 | Project Lexa | 396076 | [396076-project-lexa.json](./396076-project-lexa.json) |
 | Project Lost Bits | 380853 | [380853-project-lost-bits.json](./380853-project-lost-bits.json) |
@@ -359,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
 | Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Proof Club | 386605 | [386605-proof-club.json](./386605-proof-club.json) |
+| Propwiz | 369982 | [369982-propwiz.json](./369982-propwiz.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Proto Anima | 382646 | [382646-proto-anima.json](./382646-proto-anima.json) |
