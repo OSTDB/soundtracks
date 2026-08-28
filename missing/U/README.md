@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra_Hardcore | 86597 | [86597-ultra-hardcore.json](./86597-ultra-hardcore.json) |
 | Ultros | 250626 | [250626-ultros.json](./250626-ultros.json) |
 | Ulysses and the Golden Fleece | 7657 | [7657-ulysses-and-the-golden-fleece.json](./7657-ulysses-and-the-golden-fleece.json) |
+| Umamusume: Pretty Derby - Party Dash Special Edition | 382642 | [382642-umamusume-pretty-derby-party-dash-special-edition.json](./382642-umamusume-pretty-derby-party-dash-special-edition.json) |
 | Unbowed | 387867 | [387867-unbowed.json](./387867-unbowed.json) |
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
