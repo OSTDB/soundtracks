@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 11th Hour Hero | 376912 | [376912-11th-hour-hero.json](./376912-11th-hour-hero.json) |
 | 12 Floors to Burnout | 376913 | [376913-12-floors-to-burnout.json](./376913-12-floors-to-burnout.json) |
 | 12 Labours of Hercules XVI: Olympic Bugs - Collector's Edition | 382630 | [382630-12-labours-of-hercules-xvi-olympic-bugs-collectors-edition.json](./382630-12-labours-of-hercules-xvi-olympic-bugs-collectors-edition.json) |
+| 12 Months to Launch | 372845 | [372845-12-months-to-launch.json](./372845-12-months-to-launch.json) |
 | 123 Early Learning Games for Kids, Toddlers, Babies: Language | 409470 | [409470-123-early-learning-games-for-kids-toddlers-babies-language.json](./409470-123-early-learning-games-for-kids-toddlers-babies-language.json) |
 | 123 Kids Fun Puzzle Blue | 89315 | [89315-123-kids-fun-puzzle-blue.json](./89315-123-kids-fun-puzzle-blue.json) |
 | 13 AM | 376915 | [376915-13-am.json](./376915-13-am.json) |
