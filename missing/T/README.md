@@ -75,6 +75,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Lovin' Cannibal | 400119 | [400119-tender-lovin-cannibal.json](./400119-tender-lovin-cannibal.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
+| Terminator 2: Judgment Day | 398855 | [398855-terminator-2-judgment-day.json](./398855-terminator-2-judgment-day.json) |
+| Terminator 2: Judgment Day | 398854 | [398854-terminator-2-judgment-day.json](./398854-terminator-2-judgment-day.json) |
 | Terminator 3: The Redemption | 4199 | [4199-terminator-3-the-redemption.json](./4199-terminator-3-the-redemption.json) |
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
+| The Snowdrop Diaries | 398876 | [398876-the-snowdrop-diaries.json](./398876-the-snowdrop-diaries.json) |
 | The Somnolent Prince | 414226 | [414226-the-somnolent-prince.json](./414226-the-somnolent-prince.json) |
 | The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
