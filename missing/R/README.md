@@ -89,11 +89,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
+| Regotown | 389292 | [389292-regotown.json](./389292-regotown.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
 | Reigns: The Witcher | 387351 | [387351-reigns-the-witcher.json](./387351-reigns-the-witcher.json) |
 | Reksio i Ufo | 85963 | [85963-reksio-i-ufo.json](./85963-reksio-i-ufo.json) |
 | Relicguard | 391504 | [391504-relicguard.json](./391504-relicguard.json) |
+| Relics 3: Ashes for Gold | 389319 | [389319-relics-3-ashes-for-gold.json](./389319-relics-3-ashes-for-gold.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
 | Replay Room | 392657 | [392657-replay-room.json](./392657-replay-room.json) |
