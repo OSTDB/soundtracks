@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Gravity | 17728 | [17728-beyond-gravity.json](./17728-beyond-gravity.json) |
 | Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
+| Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
 | Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioszard Corporation | 115703 | [115703-bioszard-corporation.json](./115703-bioszard-corporation.json) |
 | Biotope: Aquarium Simulator | 115812 | [115812-biotope-aquarium-simulator.json](./115812-biotope-aquarium-simulator.json) |
 | Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
+| Birdsketball | 22408 | [22408-birdsketball.json](./22408-birdsketball.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
 | Birthdays the Beginning | 26611 | [26611-birthdays-the-beginning.json](./26611-birthdays-the-beginning.json) |
 | Bit.Trip Fate | 15387 | [15387-bit-trip-fate.json](./15387-bit-trip-fate.json) |
@@ -131,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
 | Blackwind | 159751 | [159751-blackwind.json](./159751-blackwind.json) |
+| Blade Arcus From Shining: Battle Arena | 23185 | [23185-blade-arcus-from-shining-battle-arena.json](./23185-blade-arcus-from-shining-battle-arena.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
 | Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
@@ -158,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Glimpse | 59138 | [59138-bloody-glimpse.json](./59138-bloody-glimpse.json) |
 | Bloody Good Time | 2608 | [2608-bloody-good-time.json](./2608-bloody-good-time.json) |
 | Bloody Wolf | 42117 | [42117-bloody-wolf.json](./42117-bloody-wolf.json) |
+| Bloom Shrooms | 22782 | [22782-bloom-shrooms.json](./22782-bloom-shrooms.json) |
 | Bloomtown: A Different Story | 252871 | [252871-bloomtown-a-different-story.json](./252871-bloomtown-a-different-story.json) |
 | Blot | 95629 | [95629-blot.json](./95629-blot.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
