@@ -32,5 +32,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Nightmare Troubadour | 2285 | [2285-yu-gi-oh-nightmare-troubadour.json](./2285-yu-gi-oh-nightmare-troubadour.json) |
 | Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge | 26893 | [26893-yu-gi-oh-power-of-chaos-kaiba-the-revenge.json](./26893-yu-gi-oh-power-of-chaos-kaiba-the-revenge.json) |
 | Yu-Gi-Oh! The Duelists of the Roses | 4630 | [4630-yu-gi-oh-the-duelists-of-the-roses.json](./4630-yu-gi-oh-the-duelists-of-the-roses.json) |
+| Yuki no Imouto | 408690 | [408690-yuki-no-imouto.json](./408690-yuki-no-imouto.json) |
 | Yume Koujou: Doki-doki Panic | 41233 | [41233-yume-koujou-doki-doki-panic.json](./41233-yume-koujou-doki-doki-panic.json) |
 | Yuri | 123679 | [123679-yuri.json](./123679-yuri.json) |
