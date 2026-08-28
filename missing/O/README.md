@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniria | 412882 | [412882-oniria.json](./412882-oniria.json) |
 | Onirism | 77590 | [77590-onirism.json](./77590-onirism.json) |
 | Oniro | 400109 | [400109-oniro.json](./400109-oniro.json) |
+| Only Up: Brainrot Together | 364915 | [364915-only-up-brainrot-together.json](./364915-only-up-brainrot-together.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
 | Only You | 86539 | [86539-only-you.json](./86539-only-you.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
@@ -144,5 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch Rush | 392676 | [392676-overwatch-rush.json](./392676-overwatch-rush.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
+| Oxygen Not Included: The Bionic Booster Pack | 364903 | [364903-oxygen-not-included-the-bionic-booster-pack.json](./364903-oxygen-not-included-the-bionic-booster-pack.json) |
+| Oxygen Not Included: The Prehistoric Planet Pack | 364904 | [364904-oxygen-not-included-the-prehistoric-planet-pack.json](./364904-oxygen-not-included-the-prehistoric-planet-pack.json) |
 | Ozymandias: Indus Valley | 378035 | [378035-ozymandias-indus-valley.json](./378035-ozymandias-indus-valley.json) |
 | Ozymandias: Near East | 378031 | [378031-ozymandias-near-east.json](./378031-ozymandias-near-east.json) |
