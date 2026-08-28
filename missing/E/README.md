@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Echoes Within | 371724 | [371724-echoes-within.json](./371724-echoes-within.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
+| Eclipse | 371115 | [371115-eclipse.json](./371115-eclipse.json) |
 | Eclitptic | 378671 | [378671-eclitptic.json](./378671-eclitptic.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | Eco Volunteer | 388572 | [388572-eco-volunteer.json](./388572-eco-volunteer.json) |
