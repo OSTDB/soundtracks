@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
 | Fairy Tale About Father Frost, Ivan and Nastya | 36384 | [36384-fairy-tale-about-father-frost-ivan-and-nastya.json](./36384-fairy-tale-about-father-frost-ivan-and-nastya.json) |
 | Falak | 402764 | [402764-falak.json](./402764-falak.json) |
+| Fall | 386584 | [386584-fall.json](./386584-fall.json) |
 | Fall Again | 399497 | [399497-fall-again.json](./399497-fall-again.json) |
 | Fall of the Void | 414997 | [414997-fall-of-the-void.json](./414997-fall-of-the-void.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
 | Fangstorm | 397520 | [397520-fangstorm.json](./397520-fangstorm.json) |
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
+| Fantastic Journey | 386582 | [386582-fantastic-journey.json](./386582-fantastic-journey.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
 | Fantasy Ore Shop | 389882 | [389882-fantasy-ore-shop.json](./389882-fantasy-ore-shop.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Fireman Sam - Fire & Rescue | 89297 | [89297-fireman-sam-fire-and-rescue.json](./89297-fireman-sam-fire-and-rescue.json) |
 | Fireside Journey: The Creative Path of Fireside Feelings | 389301 | [389301-fireside-journey-the-creative-path-of-fireside-feelings.json](./389301-fireside-journey-the-creative-path-of-fireside-feelings.json) |
+| Firestarters | 386589 | [386589-firestarters.json](./386589-firestarters.json) |
 | First Draft | 414989 | [414989-first-draft.json](./414989-first-draft.json) |
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
