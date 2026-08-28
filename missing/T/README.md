@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
+| Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
 | The Village Rises | 389890 | [389890-the-village-rises.json](./389890-the-village-rises.json) |
+| The Visitor: Massacre | 378020 | [378020-the-visitor-massacre.json](./378020-the-visitor-massacre.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Wake | 380875 | [380875-the-wake.json](./380875-the-wake.json) |
 | The Wall | 109648 | [109648-the-wall.json](./109648-the-wall.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Drifters | 389310 | [389310-top-drifters.json](./389310-top-drifters.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
+| Top Shot Pool | 378046 | [378046-top-shot-pool.json](./378046-top-shot-pool.json) |
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
 | Torii: Beyond the Gates | 380871 | [380871-torii-beyond-the-gates.json](./380871-torii-beyond-the-gates.json) |
