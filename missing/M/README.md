@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
+| Marble Odyssey: Sandbox | 378660 | [378660-marble-odyssey-sandbox.json](./378660-marble-odyssey-sandbox.json) |
 | Marble Quest | 379777 | [379777-marble-quest.json](./379777-marble-quest.json) |
 | Marbly | 20913 | [20913-marbly.json](./20913-marbly.json) |
 | March of the Red Queen | 414206 | [414206-march-of-the-red-queen.json](./414206-march-of-the-red-queen.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
 | Mine the Deep | 410141 | [410141-mine-the-deep.json](./410141-mine-the-deep.json) |
+| Minecraft: Shared Inventory | 378656 | [378656-minecraft-shared-inventory.json](./378656-minecraft-shared-inventory.json) |
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Minesweeper Classic | 384945 | [384945-minesweeper-classic.json](./384945-minesweeper-classic.json) |
