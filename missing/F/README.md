@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Hates Snow | 369944 | [369944-froggy-hates-snow.json](./369944-froggy-hates-snow.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
+| From Dusk To Dawn | 369402 | [369402-from-dusk-to-dawn.json](./369402-from-dusk-to-dawn.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | From the Last Shift: Horror Collection | 380892 | [380892-from-the-last-shift-horror-collection.json](./380892-from-the-last-shift-horror-collection.json) |
 | From The Void | 378674 | [378674-from-the-void.json](./378674-from-the-void.json) |
