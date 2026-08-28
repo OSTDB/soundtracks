@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
 | This Game Exists Now | 373919 | [373919-this-game-exists-now.json](./373919-this-game-exists-now.json) |
 | This Is the Police | 11423 | [11423-this-is-the-police.json](./11423-this-is-the-police.json) |
+| This is the Way | 362655 | [362655-this-is-the-way.json](./362655-this-is-the-way.json) |
 | This Merchant Life | 44196 | [44196-this-merchant-life.json](./44196-this-merchant-life.json) |
 | This Night | 394039 | [394039-this-night.json](./394039-this-night.json) |
 | This World Unknown | 31489 | [31489-this-world-unknown.json](./31489-this-world-unknown.json) |
