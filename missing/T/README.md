@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
+| The Front | 383245 | [383245-the-front.json](./383245-the-front.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
 | The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up Together | 410788 | [410788-tidy-up-together.json](./410788-tidy-up-together.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Woods PGA Tour 2005 | 906 | [906-tiger-woods-pga-tour-2005.json](./906-tiger-woods-pga-tour-2005.json) |
+| Tiles of Grimmwoods | 383212 | [383212-tiles-of-grimmwoods.json](./383212-tiles-of-grimmwoods.json) |
 | Till and Hat | 396818 | [396818-till-and-hat.json](./396818-till-and-hat.json) |
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
 | Time Crisis II | 13893 | [13893-time-crisis-ii.json](./13893-time-crisis-ii.json) |
@@ -432,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Flock | 413532 | [413532-tiny-flock.json](./413532-tiny-flock.json) |
 | Tiny Magnets | 384354 | [384354-tiny-magnets.json](./384354-tiny-magnets.json) |
 | Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
+| Tiny Pasture: Azure Waters | 383246 | [383246-tiny-pasture-azure-waters.json](./383246-tiny-pasture-azure-waters.json) |
 | Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
