@@ -99,6 +99,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
+| Exterminauts | 414975 | [414975-exterminauts.json](./414975-exterminauts.json) |
+| Extravalence | 414982 | [414982-extravalence.json](./414982-extravalence.json) |
 | Extreme ATV Trials | 87648 | [87648-extreme-atv-trials.json](./87648-extreme-atv-trials.json) |
 | Extreme Bike Trials | 87632 | [87632-extreme-bike-trials.json](./87632-extreme-bike-trials.json) |
 | Extreme Hand and Foot | 87593 | [87593-extreme-hand-and-foot.json](./87593-extreme-hand-and-foot.json) |
