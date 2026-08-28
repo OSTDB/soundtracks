@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Difference Machine | 393310 | [393310-difference-machine.json](./393310-difference-machine.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
+| Dig N Picman | 385486 | [385486-dig-n-picman.json](./385486-dig-n-picman.json) |
 | Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
+| Donna Survivors | 385471 | [385471-donna-survivors.json](./385471-donna-survivors.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
 | Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
 | Donuts for Rollio | 413518 | [413518-donuts-for-rollio.json](./413518-donuts-for-rollio.json) |
