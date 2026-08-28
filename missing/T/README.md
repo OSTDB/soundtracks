@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
+| The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Survey | 30792 | [30792-the-survey.json](./30792-the-survey.json) |
 | The Survivor: Rusty Forest | 89305 | [89305-the-survivor-rusty-forest.json](./89305-the-survivor-rusty-forest.json) |
+| The Sushi Bar | 388593 | [388593-the-sushi-bar.json](./388593-the-sushi-bar.json) |
 | The Sweetest Sound | 412871 | [412871-the-sweetest-sound.json](./412871-the-sweetest-sound.json) |
 | The Tale of a Common Man | 23489 | [23489-the-tale-of-a-common-man.json](./23489-the-tale-of-a-common-man.json) |
 | The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
@@ -411,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
 | Tiny Flock | 413532 | [413532-tiny-flock.json](./413532-tiny-flock.json) |
 | Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
+| Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
@@ -425,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMT 3 | 403515 | [403515-tmt-3.json](./403515-tmt-3.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
+| Tobacco Market Simulator | 388606 | [388606-tobacco-market-simulator.json](./388606-tobacco-market-simulator.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
 | Tobidasu! Camazotz no Sekai 3D | 394730 | [394730-tobidasu-camazotz-no-sekai-3d.json](./394730-tobidasu-camazotz-no-sekai-3d.json) |
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
