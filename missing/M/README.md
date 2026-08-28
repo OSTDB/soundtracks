@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
+| Maniac Mind | 366080 | [366080-maniac-mind.json](./366080-maniac-mind.json) |
 | Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
 | Many Turns One Road | 371709 | [371709-many-turns-one-road.json](./371709-many-turns-one-road.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Mavis Beacon Teaches Typing 2020 | 372329 | [372329-mavis-beacon-teaches-typing-2020.json](./372329-mavis-beacon-teaches-typing-2020.json) |
+| Mawatte Mucho! | 366045 | [366045-mawatte-mucho.json](./366045-mawatte-mucho.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
 | Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
 | Maze Adventure | 372844 | [372844-maze-adventure.json](./372844-maze-adventure.json) |
+| Maze Infinite Puzzle | 366071 | [366071-maze-infinite-puzzle.json](./366071-maze-infinite-puzzle.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | Mazino | 384385 | [384385-mazino.json](./384385-mazino.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
