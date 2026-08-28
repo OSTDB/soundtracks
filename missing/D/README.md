@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
 | D.C. II P.S.: Da Capo II Plus Situation | 369405 | [369405-d-c-ii-p-s-da-capo-ii-plus-situation.json](./369405-d-c-ii-p-s-da-capo-ii-plus-situation.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
+| Daedalic Multiplayer Bundle | 366657 | [366657-daedalic-multiplayer-bundle.json](./366657-daedalic-multiplayer-bundle.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Daisy Goes to Slime Castle for Tea | 387203 | [387203-daisy-goes-to-slime-castle-for-tea.json](./387203-daisy-goes-to-slime-castle-for-tea.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports | 4802 | [4802-deca-sports.json](./4802-deca-sports.json) |
 | Decay | 400810 | [400810-decay.json](./400810-decay.json) |
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
+| Decaying Salvage | 366663 | [366663-decaying-salvage.json](./366663-decaying-salvage.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
 | Deck of Harvest | 379222 | [379222-deck-of-harvest.json](./379222-deck-of-harvest.json) |
@@ -258,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Card Heroes | 367235 | [367235-dice-card-heroes.json](./367235-dice-card-heroes.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
+| Dice Dice Baby | 366677 | [366677-dice-dice-baby.json](./366677-dice-dice-baby.json) |
 | Dice or Die | 380263 | [380263-dice-or-die.json](./380263-dice-or-die.json) |
 | Dice Roller Incremental | 391520 | [391520-dice-roller-incremental.json](./391520-dice-roller-incremental.json) |
 | Dice with the Devil | 372293 | [372293-dice-with-the-devil.json](./372293-dice-with-the-devil.json) |
