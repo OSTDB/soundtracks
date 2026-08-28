@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lamp Eyes | 24579 | [24579-lamp-eyes.json](./24579-lamp-eyes.json) |
 | Lamplite | 412872 | [412872-lamplite.json](./412872-lamplite.json) |
+| Lance Livre | 359773 | [359773-lance-livre.json](./359773-lance-livre.json) |
 | Land and Sword | 383227 | [383227-land-and-sword.json](./383227-land-and-sword.json) |
 | Landmark Battle | 390431 | [390431-landmark-battle.json](./390431-landmark-battle.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
