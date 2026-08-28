@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
+| Payday 3: Delivery Charge Heist | 366669 | [366669-payday-3-delivery-charge-heist.json](./366669-payday-3-delivery-charge-heist.json) |
 | PBS Kids Games | 383813 | [383813-pbs-kids-games.json](./383813-pbs-kids-games.json) |
 | PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm Collection 8 | 401427 | [401427-pixicharm-collection-8.json](./401427-pixicharm-collection-8.json) |
 | Pixie Plates: Complete Edition | 402181 | [402181-pixie-plates-complete-edition.json](./402181-pixie-plates-complete-edition.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
+| Pizza Maker + House Painting | 366654 | [366654-pizza-maker-house-painting.json](./366654-pizza-maker-house-painting.json) |
 | Pizza Restaurant Together | 373941 | [373941-pizza-restaurant-together.json](./373941-pizza-restaurant-together.json) |
 | Pizza Tower: Collector's Edition | 399492 | [399492-pizza-tower-collectors-edition.json](./399492-pizza-tower-collectors-edition.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
