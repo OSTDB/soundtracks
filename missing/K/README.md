@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Warriors of the North | 5049 | [5049-kings-bounty-warriors-of-the-north.json](./5049-kings-bounty-warriors-of-the-north.json) |
 | King's Quest III: To Heir is Human | 893 | [893-kings-quest-iii-to-heir-is-human.json](./893-kings-quest-iii-to-heir-is-human.json) |
 | King's Quest: Chapter 1 - A Knight to Remember | 28048 | [28048-kings-quest-chapter-1-a-knight-to-remember.json](./28048-kings-quest-chapter-1-a-knight-to-remember.json) |
+| Kingblade: Medieval TCG Card Shop | 401407 | [401407-kingblade-medieval-tcg-card-shop.json](./401407-kingblade-medieval-tcg-card-shop.json) |
 | Kingdom Come: Deliverance - Royal Edition | 116794 | [116794-kingdom-come-deliverance-royal-edition.json](./116794-kingdom-come-deliverance-royal-edition.json) |
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
 | Kingdom Hearts Ballon Glider | 405396 | [405396-kingdom-hearts-ballon-glider.json](./405396-kingdom-hearts-ballon-glider.json) |
