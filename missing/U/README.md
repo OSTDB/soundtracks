@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsent | 410106 | [410106-unsent.json](./410106-unsent.json) |
 | Unusual Friends Bundle | 394725 | [394725-unusual-friends-bundle.json](./394725-unusual-friends-bundle.json) |
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
+| Up Bundle | 380849 | [380849-up-bundle.json](./380849-up-bundle.json) |
 | Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
 | Urban Pirate | 17008 | [17008-urban-pirate.json](./17008-urban-pirate.json) |
 | Urban Reign | 19776 | [19776-urban-reign.json](./19776-urban-reign.json) |
