@@ -10,7 +10,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Dakar Desert Rally | 202590 | [202590-dakar-desert-rally.json](./202590-dakar-desert-rally.json) |
+| Damn Exam | 405427 | [405427-damn-exam.json](./405427-damn-exam.json) |
 | Damned Nation Reborn | 35856 | [35856-damned-nation-reborn.json](./35856-damned-nation-reborn.json) |
+| Damways | 405391 | [405391-damways.json](./405391-damways.json) |
 | Dance Dance Revolution | 3679 | [3679-dance-dance-revolution.json](./3679-dance-dance-revolution.json) |
 | Dance Dance Revolution Universe | 6953 | [6953-dance-dance-revolution-universe.json](./6953-dance-dance-revolution-universe.json) |
 | Dance Dance Revolution Universe 2 | 6954 | [6954-dance-dance-revolution-universe-2.json](./6954-dance-dance-revolution-universe-2.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
+| Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
 | Death Ray Manta SE | 22150 | [22150-death-ray-manta-se.json](./22150-death-ray-manta-se.json) |
@@ -221,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMT | 109811 | [109811-dmt.json](./109811-dmt.json) |
 | Do You Really Know About Soccer? | 407263 | [407263-do-you-really-know-about-soccer.json](./407263-do-you-really-know-about-soccer.json) |
 | Doctor Lautrec and the Forgotten Knights | 6757 | [6757-doctor-lautrec-and-the-forgotten-knights.json](./6757-doctor-lautrec-and-the-forgotten-knights.json) |
+| Dodge These Asteroids 2 | 405389 | [405389-dodge-these-asteroids-2.json](./405389-dodge-these-asteroids-2.json) |
 | DoDonPachi Resurrection | 1676 | [1676-dodonpachi-resurrection.json](./1676-dodonpachi-resurrection.json) |
 | Dogfight 1942 | 10188 | [10188-dogfight-1942.json](./10188-dogfight-1942.json) |
 | Dogos | 23839 | [23839-dogos.json](./23839-dogos.json) |
@@ -304,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
 | Drawkanoid | 107247 | [107247-drawkanoid.json](./107247-drawkanoid.json) |
+| Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
@@ -349,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
+| Dungeons of The Deep VR | 405388 | [405388-dungeons-of-the-deep-vr.json](./405388-dungeons-of-the-deep-vr.json) |
 | Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Durak | 89459 | [89459-durak.json](./89459-durak.json) |
