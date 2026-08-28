@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports UFC 4 | 136560 | [136560-ea-sports-ufc-4.json](./136560-ea-sports-ufc-4.json) |
 | Earth and Beyond | 23764 | [23764-earth-and-beyond.json](./23764-earth-and-beyond.json) |
 | Earthbound | 78559 | [78559-earthbound.json](./78559-earthbound.json) |
+| Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
@@ -29,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Related Videogame | 403459 | [403459-egg-related-videogame.json](./403459-egg-related-videogame.json) |
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
+| Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
@@ -83,6 +85,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
 | Escape from Paradise City | 15557 | [15557-escape-from-paradise-city.json](./15557-escape-from-paradise-city.json) |
 | Escape from Slumberland | 404141 | [404141-escape-from-slumberland.json](./404141-escape-from-slumberland.json) |
+| Escape from Tarkov: Bear - Three Stripes | 398231 | [398231-escape-from-tarkov-bear-three-stripes.json](./398231-escape-from-tarkov-bear-three-stripes.json) |
+| Escape from Tarkov: Usec - ScavTac | 398230 | [398230-escape-from-tarkov-usec-scavtac.json](./398230-escape-from-tarkov-usec-scavtac.json) |
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
