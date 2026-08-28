@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near Death Experience | 47228 | [47228-near-death-experience.json](./47228-near-death-experience.json) |
 | Near Midnight | 31473 | [31473-near-midnight.json](./31473-near-midnight.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
+| Necrotic Nightmare | 387191 | [387191-necrotic-nightmare.json](./387191-necrotic-nightmare.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
 | Need for Speed: High Stakes | 309579 | [309579-need-for-speed-high-stakes.json](./309579-need-for-speed-high-stakes.json) |
 | Need for Speed: V-Rally 2 | 6224 | [6224-need-for-speed-v-rally-2.json](./6224-need-for-speed-v-rally-2.json) |
