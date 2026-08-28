@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
 | After School .Live: Mirror of Twilight | 396101 | [396101-after-school-live-mirror-of-twilight.json](./396101-after-school-live-mirror-of-twilight.json) |
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
+| Afterdepth | 390432 | [390432-afterdepth.json](./390432-afterdepth.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | Afterworld | 414990 | [414990-afterworld.json](./414990-afterworld.json) |
