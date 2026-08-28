@@ -28,7 +28,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
+| Vials: ASMR Sand Sort Puzzle | 412155 | [412155-vials-asmr-sand-sort-puzzle.json](./412155-vials-asmr-sand-sort-puzzle.json) |
 | VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
+| Vigilant Paradise | 412158 | [412158-vigilant-paradise.json](./412158-vigilant-paradise.json) |
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Viking Saga: Epic Adventure | 77051 | [77051-viking-saga-epic-adventure.json](./77051-viking-saga-epic-adventure.json) |
@@ -55,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball | 55052 | [55052-volleyball.json](./55052-volleyball.json) |
 | Volleyball Unbound | 31548 | [31548-volleyball-unbound.json](./31548-volleyball-unbound.json) |
 | Voodoo Garden | 22374 | [22374-voodoo-garden.json](./22374-voodoo-garden.json) |
+| Voronoy | 412162 | [412162-voronoy.json](./412162-voronoy.json) |
 | Vortex Attack | 24593 | [24593-vortex-attack.json](./24593-vortex-attack.json) |
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
