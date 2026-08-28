@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 | 9577 | [9577-persona-3.json](./9577-persona-3.json) |
 | Persona 3 Portable | 234701 | [234701-persona-3-portable.json](./234701-persona-3-portable.json) |
 | Persona 5 Tactica | 252729 | [252729-persona-5-tactica.json](./252729-persona-5-tactica.json) |
+| Personal Best | 369440 | [369440-personal-best.json](./369440-personal-best.json) |
 | Pet Society | 165165 | [165165-pet-society.json](./165165-pet-society.json) |
 | Peter The Stash Hunter | 406615 | [406615-peter-the-stash-hunter.json](./406615-peter-the-stash-hunter.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
 | Posterior | 389878 | [389878-posterior.json](./389878-posterior.json) |
 | Postin Paradise | 406022 | [406022-postin-paradise.json](./406022-postin-paradise.json) |
+| Potato Game. Trilogy | 369389 | [369389-potato-game-trilogy.json](./369389-potato-game-trilogy.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
 | Potted Pets | 396093 | [396093-potted-pets.json](./396093-potted-pets.json) |
 | Powder Runners: Maze Quest | 389294 | [389294-powder-runners-maze-quest.json](./389294-powder-runners-maze-quest.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probably Stolen | 412177 | [412177-probably-stolen.json](./412177-probably-stolen.json) |
 | Problem Solved | 392018 | [392018-problem-solved.json](./392018-problem-solved.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
+| Programming Simulator | 369404 | [369404-programming-simulator.json](./369404-programming-simulator.json) |
 | Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
