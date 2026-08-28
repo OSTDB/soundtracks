@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
 | Sensual Adventures: Treasure Island | 367218 | [367218-sensual-adventures-treasure-island.json](./367218-sensual-adventures-treasure-island.json) |
+| Sentinel | 360964 | [360964-sentinel.json](./360964-sentinel.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
+| Shantae Advance: Risky Revolution Deluxe Edition | 360957 | [360957-shantae-advance-risky-revolution-deluxe-edition.json](./360957-shantae-advance-risky-revolution-deluxe-edition.json) |
 | Shaolin Mystery: Tale of the Jade Dragon Staff | 383239 | [383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json](./383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
 | SortCraft | 372889 | [372889-sortcraft.json](./372889-sortcraft.json) |
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
+| SOS Recordings | 360956 | [360956-sos-recordings.json](./360956-sos-recordings.json) |
 | Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
 | Soul Academy | 368347 | [368347-soul-academy.json](./368347-soul-academy.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
@@ -543,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the North 2 | 273868 | [273868-spirit-of-the-north-2.json](./273868-spirit-of-the-north-2.json) |
 | Spirit Ritual | 413537 | [413537-spirit-ritual.json](./413537-spirit-ritual.json) |
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
+| Spirit-- | 360955 | [360955-spirit.json](./360955-spirit.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
 | Sponge Break | 408625 | [408625-sponge-break.json](./408625-sponge-break.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
@@ -621,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
 | Stargazer | 367234 | [367234-stargazer.json](./367234-stargazer.json) |
+| Stargazer | 360936 | [360936-stargazer.json](./360936-stargazer.json) |
 | Starlight | 126311 | [126311-starlight.json](./126311-starlight.json) |
 | Starlight Drifter | 17895 | [17895-starlight-drifter.json](./17895-starlight-drifter.json) |
 | StarNomads | 365489 | [365489-starnomads.json](./365489-starnomads.json) |
@@ -730,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Zero | 387897 | [387897-string-zero.json](./387897-string-zero.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Strozowka | 404151 | [404151-strozowka.json](./404151-strozowka.json) |
+| Stuck Together | 360995 | [360995-stuck-together.json](./360995-stuck-together.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
 | Stunt Car Extreme Simulator | 392621 | [392621-stunt-car-extreme-simulator.json](./392621-stunt-car-extreme-simulator.json) |
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
