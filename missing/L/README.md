@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Ladder Lad | 412153 | [412153-ladder-lad.json](./412153-ladder-lad.json) |
 | Lady Pearl | 412821 | [412821-lady-pearl.json](./412821-lady-pearl.json) |
+| Lady Umbrella | 366667 | [366667-lady-umbrella.json](./366667-lady-umbrella.json) |
 | Laer Gjoll: Horror at Cemetery | 398856 | [398856-laer-gjoll-horror-at-cemetery.json](./398856-laer-gjoll-horror-at-cemetery.json) |
 | Lake | 127743 | [127743-lake.json](./127743-lake.json) |
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
