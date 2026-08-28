@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
+| Keep Digging: Version 2.0 | 379247 | [379247-keep-digging-version-2-0.json](./379247-keep-digging-version-2-0.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
 | Keks Slot Machines | 389275 | [389275-keks-slot-machines.json](./389275-keks-slot-machines.json) |
 | KemonoMix Re | 396793 | [396793-kemonomix-re.json](./396793-kemonomix-re.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
 | Kilnborn | 414213 | [414213-kilnborn.json](./414213-kilnborn.json) |
 | Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
+| Kindling Hour | 379230 | [379230-kindling-hour.json](./379230-kindling-hour.json) |
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
 | King Arthur's World | 42506 | [42506-king-arthurs-world.json](./42506-king-arthurs-world.json) |
