@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
+| I Just Wanted to Talk About Halo | 394021 | [394021-i-just-wanted-to-talk-about-halo.json](./394021-i-just-wanted-to-talk-about-halo.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
 | I-Ninja | 3951 | [3951-i-ninja.json](./3951-i-ninja.json) |
 | I, Cyborg | 63810 | [63810-i-cyborg.json](./63810-i-cyborg.json) |
