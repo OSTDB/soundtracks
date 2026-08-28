@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Cutie | 382026 | [382026-a-christmas-cutie.json](./382026-a-christmas-cutie.json) |
 | A Clown Girl Teaches You How To Make Visual Novels | 384927 | [384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json](./384927-a-clown-girl-teaches-you-how-to-make-visual-novels.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
+| A Drop of Color | 378028 | [378028-a-drop-of-color.json](./378028-a-drop-of-color.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
 | A Game About Making A Planet | 386609 | [386609-a-game-about-making-a-planet.json](./386609-a-game-about-making-a-planet.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
+| Action Deka | 378030 | [378030-action-deka.json](./378030-action-deka.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
 | Activision Collection 3 | 412823 | [412823-activision-collection-3.json](./412823-activision-collection-3.json) |
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
