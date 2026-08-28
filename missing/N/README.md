@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novella Divina | 391511 | [391511-novella-divina.json](./391511-novella-divina.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
+| Nukitashi 2 Append | 368855 | [368855-nukitashi-2-append.json](./368855-nukitashi-2-append.json) |
 | Nuktedan: The Forgotten Emotions | 406592 | [406592-nuktedan-the-forgotten-emotions.json](./406592-nuktedan-the-forgotten-emotions.json) |
 | Null Anchor | 394033 | [394033-null-anchor.json](./394033-null-anchor.json) |
 | Null Root | 398223 | [398223-null-root.json](./398223-null-root.json) |
