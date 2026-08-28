@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden | 1413 | [1413-battle-arena-toshinden.json](./1413-battle-arena-toshinden.json) |
 | Battle Bay | 76858 | [76858-battle-bay.json](./76858-battle-bay.json) |
 | Battle Bull | 7770 | [7770-battle-bull.json](./7770-battle-bull.json) |
+| battle for darkness | 390962 | [390962-battle-for-darkness.json](./390962-battle-for-darkness.json) |
 | Battle Meating | 414956 | [414956-battle-meating.json](./414956-battle-meating.json) |
 | Battle Narf | 394025 | [394025-battle-narf.json](./394025-battle-narf.json) |
 | Battle of Europe | 17815 | [17815-battle-of-europe.json](./17815-battle-of-europe.json) |
