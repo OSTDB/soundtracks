@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
+| Blind Box Shop Simulator | 386034 | [386034-blind-box-shop-simulator.json](./386034-blind-box-shop-simulator.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blinded I | 402204 | [402204-blinded-i.json](./402204-blinded-i.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain App | 89513 | [89513-brain-app.json](./89513-brain-app.json) |
 | Brain Bender | 92265 | [92265-brain-bender.json](./92265-brain-bender.json) |
 | Brain Boost! Basic Math 4-Choice Quiz | 409491 | [409491-brain-boost-basic-math-4-choice-quiz.json](./409491-brain-boost-basic-math-4-choice-quiz.json) |
+| Brain Centipede | 386037 | [386037-brain-centipede.json](./386037-brain-centipede.json) |
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
 | Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
