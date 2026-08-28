@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
 | Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
+| Car May Fly | 389324 | [389324-car-may-fly.json](./389324-car-may-fly.json) |
 | Car Mechanic Simulator 2026 | 395388 | [395388-car-mechanic-simulator-2026.json](./395388-car-mechanic-simulator-2026.json) |
 | Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
+| Codebreaker | 389283 | [389283-codebreaker.json](./389283-codebreaker.json) |
 | Codename: Typhoon | 390963 | [390963-codename-typhoon.json](./390963-codename-typhoon.json) |
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
 | Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
@@ -279,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
+| Corridors | 389303 | [389303-corridors.json](./389303-corridors.json) |
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Cosmic Holes | 389894 | [389894-cosmic-holes.json](./389894-cosmic-holes.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
