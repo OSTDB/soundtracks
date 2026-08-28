@@ -45,7 +45,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest: Chapter 1 - A Knight to Remember | 28048 | [28048-kings-quest-chapter-1-a-knight-to-remember.json](./28048-kings-quest-chapter-1-a-knight-to-remember.json) |
 | Kingdom Come: Deliverance - Royal Edition | 116794 | [116794-kingdom-come-deliverance-royal-edition.json](./116794-kingdom-come-deliverance-royal-edition.json) |
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
+| Kingdom Hearts Ballon Glider | 405396 | [405396-kingdom-hearts-ballon-glider.json](./405396-kingdom-hearts-ballon-glider.json) |
+| Kingdom Hearts Card Struggle: Daifugou | 405399 | [405399-kingdom-hearts-card-struggle-daifugou.json](./405399-kingdom-hearts-card-struggle-daifugou.json) |
 | Kingdom Hearts III: Re Mind | 117778 | [117778-kingdom-hearts-iii-re-mind.json](./117778-kingdom-hearts-iii-re-mind.json) |
+| Kingdom Hearts Pair Card Battle | 405400 | [405400-kingdom-hearts-pair-card-battle.json](./405400-kingdom-hearts-pair-card-battle.json) |
+| Kingdom Hearts Reversi | 405401 | [405401-kingdom-hearts-reversi.json](./405401-kingdom-hearts-reversi.json) |
+| Kingdom Hearts Rhythm Parade | 405402 | [405402-kingdom-hearts-rhythm-parade.json](./405402-kingdom-hearts-rhythm-parade.json) |
 | Kingdom Rush Origins HD | 86887 | [86887-kingdom-rush-origins-hd.json](./86887-kingdom-rush-origins-hd.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
