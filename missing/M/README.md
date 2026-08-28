@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetail | 413561 | [413561-magnetail.json](./413561-magnetail.json) |
 | Mahadesora | 379751 | [379751-mahadesora.json](./379751-mahadesora.json) |
 | Mahjong Deluxe 3 | 32982 | [32982-mahjong-deluxe-3.json](./32982-mahjong-deluxe-3.json) |
+| Mahjong Dream | 368305 | [368305-mahjong-dream.json](./368305-mahjong-dream.json) |
 | Mahjong House: Challenge All Achievements | 410765 | [410765-mahjong-house-challenge-all-achievements.json](./410765-mahjong-house-challenge-all-achievements.json) |
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mahjong Uranai Fortuna: Tsuki no Megami-tachi | 383242 | [383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json](./383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json) |
@@ -178,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Frontline | 1309 | [1309-medal-of-honor-frontline.json](./1309-medal-of-honor-frontline.json) |
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
 | Medal of Honor: Rising Sun | 1316 | [1316-medal-of-honor-rising-sun.json](./1316-medal-of-honor-rising-sun.json) |
+| Meddl Dash | 368323 | [368323-meddl-dash.json](./368323-meddl-dash.json) |
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
 | Medieval Juice Crafter | 400157 | [400157-medieval-juice-crafter.json](./400157-medieval-juice-crafter.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
 | Mighty Morphin Power Rangers: Power Nexus | 369964 | [369964-mighty-morphin-power-rangers-power-nexus.json](./369964-mighty-morphin-power-rangers-power-nexus.json) |
 | Mighty Morphin Power Rangers: The Movie | 3288 | [3288-mighty-morphin-power-rangers-the-movie.json](./3288-mighty-morphin-power-rangers-the-movie.json) |
+| Mika's Battle S 3 | 368307 | [368307-mikas-battle-s-3.json](./368307-mikas-battle-s-3.json) |
 | Milei: El Super Libertarian | 387252 | [387252-milei-el-super-libertarian.json](./387252-milei-el-super-libertarian.json) |
 | Milk Outside a Bag of Milk Outside a Bag of Milk | 159720 | [159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json](./159720-milk-outside-a-bag-of-milk-outside-a-bag-of-milk.json) |
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
@@ -348,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
 | Moist Depot: Adult Store Simulator | 393369 | [393369-moist-depot-adult-store-simulator.json](./393369-moist-depot-adult-store-simulator.json) |
+| Molecular Warfare | 368330 | [368330-molecular-warfare.json](./368330-molecular-warfare.json) |
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
 | Mòlù Xījì | 368854 | [368854-molu-xiji.json](./368854-molu-xiji.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
@@ -469,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum Guard: Exhibit Unknown | 387204 | [387204-museum-guard-exhibit-unknown.json](./387204-museum-guard-exhibit-unknown.json) |
 | Mushboom | 400802 | [400802-mushboom.json](./400802-mushboom.json) |
 | Mushroom Clicker | 374452 | [374452-mushroom-clicker.json](./374452-mushroom-clicker.json) |
+| Mushroom Investigates: The Fleeing Rain | 368303 | [368303-mushroom-investigates-the-fleeing-rain.json](./368303-mushroom-investigates-the-fleeing-rain.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Music Inside: A VR Rhythm Game | 31496 | [31496-music-inside-a-vr-rhythm-game.json](./31496-music-inside-a-vr-rhythm-game.json) |
