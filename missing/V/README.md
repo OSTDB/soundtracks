@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
+| Viper.io | 407245 | [407245-viper-io.json](./407245-viper-io.json) |
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
 | Virtua Tennis | 6291 | [6291-virtua-tennis.json](./6291-virtua-tennis.json) |
 | Virtual Battlegrounds | 115669 | [115669-virtual-battlegrounds.json](./115669-virtual-battlegrounds.json) |
