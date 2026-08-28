@@ -11,10 +11,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
+| Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad Girls: Wild Desire | 409492 | [409492-bad-girls-wild-desire.json](./409492-bad-girls-wild-desire.json) |
 | Bad North: Jotunn Edition | 122659 | [122659-bad-north-jotunn-edition.json](./122659-bad-north-jotunn-edition.json) |
+| Bad Piggies: King Pig's Hunt | 408680 | [408680-bad-piggies-king-pigs-hunt.json](./408680-bad-piggies-king-pigs-hunt.json) |
 | Badblood | 34408 | [34408-badblood.json](./34408-badblood.json) |
 | Baff A | 412146 | [412146-baff-a.json](./412146-baff-a.json) |
 | Bǎi Jiàng Zhēngbà | 412830 | [412830-bai-jiang-zhengba.json](./412830-bai-jiang-zhengba.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
 | Bokura | 195883 | [195883-bokura.json](./195883-bokura.json) |
 | Bokuten: Why I Became an Angel | 126100 | [126100-bokuten-why-i-became-an-angel.json](./126100-bokuten-why-i-became-an-angel.json) |
+| Bolariki | 408636 | [408636-bolariki.json](./408636-bolariki.json) |
 | Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
 | Bomb Chicken | 27880 | [27880-bomb-chicken.json](./27880-bomb-chicken.json) |
 | Bomb U! | 31437 | [31437-bomb-u.json](./31437-bomb-u.json) |
