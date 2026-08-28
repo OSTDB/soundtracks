@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Lost Unit | 389906 | [389906-backrooms-lost-unit.json](./389906-backrooms-lost-unit.json) |
 | Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
+| Backrooms: Rogue 0 | 379749 | [379749-backrooms-rogue-0.json](./379749-backrooms-rogue-0.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad Girls: Naughty Hands | 398193 | [398193-bad-girls-naughty-hands.json](./398193-bad-girls-naughty-hands.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
+| Bearly Flying | 379747 | [379747-bearly-flying.json](./379747-bearly-flying.json) |
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
@@ -182,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bioszard Corporation | 115703 | [115703-bioszard-corporation.json](./115703-bioszard-corporation.json) |
 | Biotope: Aquarium Simulator | 115812 | [115812-biotope-aquarium-simulator.json](./115812-biotope-aquarium-simulator.json) |
 | Bip and Bop | 388589 | [388589-bip-and-bop.json](./388589-bip-and-bop.json) |
+| Bird Game 3 | 379730 | [379730-bird-game-3.json](./379730-bird-game-3.json) |
 | Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
 | Birdsketball | 22408 | [22408-birdsketball.json](./22408-birdsketball.json) |
 | Birth | 204378 | [204378-birth.json](./204378-birth.json) |
@@ -193,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | Bitku | 34453 | [34453-bitku.json](./34453-bitku.json) |
 | BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
+| BitQuest | 379736 | [379736-bitquest.json](./379736-bitquest.json) |
 | BitRay | 33025 | [33025-bitray.json](./33025-bitray.json) |
 | Bitslap | 31429 | [31429-bitslap.json](./31429-bitslap.json) |
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
@@ -228,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
 | Blitz Strasse | 383843 | [383843-blitz-strasse.json](./383843-blitz-strasse.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
+| Blobbymite: Hero of Power | 379734 | [379734-blobbymite-hero-of-power.json](./379734-blobbymite-hero-of-power.json) |
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
@@ -333,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
+| Brine | 379748 | [379748-brine.json](./379748-brine.json) |
 | Bring A Knife To A Gun Fight | 387228 | [387228-bring-a-knife-to-a-gun-fight.json](./387228-bring-a-knife-to-a-gun-fight.json) |
 | Brinko | 414253 | [414253-brinko.json](./414253-brinko.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
