@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
 | Zeit 2 | 14965 | [14965-zeit-2.json](./14965-zeit-2.json) |
 | Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
+| Zenless Zone Zero: Update 2.2 - Do Not Go Gentle Into That Good Night | 362656 | [362656-zenless-zone-zero-update-2-2-do-not-go-gentle-into-that-good-night.json](./362656-zenless-zone-zero-update-2-2-do-not-go-gentle-into-that-good-night.json) |
 | Zenohell | 34456 | [34456-zenohell.json](./34456-zenohell.json) |
 | Zero Gear | 14920 | [14920-zero-gear.json](./14920-zero-gear.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
