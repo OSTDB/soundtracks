@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Atari Classics | 18402 | [18402-retro-atari-classics.json](./18402-retro-atari-classics.json) |
 | Retro Pinball | 29729 | [29729-retro-pinball.json](./29729-retro-pinball.json) |
 | Retro Puzzles: Eviva L'arte | 406587 | [406587-retro-puzzles-eviva-larte.json](./406587-retro-puzzles-eviva-larte.json) |
+| Retronaut | 376325 | [376325-retronaut.json](./376325-retronaut.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
