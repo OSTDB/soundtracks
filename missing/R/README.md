@@ -75,12 +75,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
 | Reactonix Sandbox | 392035 | [392035-reactonix-sandbox.json](./392035-reactonix-sandbox.json) |
 | Reactor | 392047 | [392047-reactor.json](./392047-reactor.json) |
+| Read Clock Time | 368329 | [368329-read-clock-time.json](./368329-read-clock-time.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
 | Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
 | Real Cars & Motocross Driving Simulator | 389881 | [389881-real-cars-and-motocross-driving-simulator.json](./389881-real-cars-and-motocross-driving-simulator.json) |
+| Real Dive World | 368344 | [368344-real-dive-world.json](./368344-real-dive-world.json) |
 | Real Moon | 379779 | [379779-real-moon.json](./379779-real-moon.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
 | RIP Love: A Story of Pain | 392665 | [392665-rip-love-a-story-of-pain.json](./392665-rip-love-a-story-of-pain.json) |
+| Rise From Ruin | 368300 | [368300-rise-from-ruin.json](./368300-rise-from-ruin.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
 | Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
