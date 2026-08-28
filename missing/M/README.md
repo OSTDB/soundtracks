@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
+| Maid Cafe Simulator | 390979 | [390979-maid-cafe-simulator.json](./390979-maid-cafe-simulator.json) |
 | Maid-chan ha Meido-chuu | 396039 | [396039-maid-chan-ha-meido-chuu.json](./396039-maid-chan-ha-meido-chuu.json) |
 | Mainframe | 410789 | [410789-mainframe.json](./410789-mainframe.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
+| Medabots Card Robattle RB | 390961 | [390961-medabots-card-robattle-rb.json](./390961-medabots-card-robattle-rb.json) |
 | Medal of Honor: Allied Assault - Spearhead | 9228 | [9228-medal-of-honor-allied-assault-spearhead.json](./9228-medal-of-honor-allied-assault-spearhead.json) |
 | Medal of Honor: Frontline | 1309 | [1309-medal-of-honor-frontline.json](./1309-medal-of-honor-frontline.json) |
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
+| Metal Gear Solid Master Collection: Volume 2 - Day One Edition | 390965 | [390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json](./390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json) |
 | Metal Gear Solid: Master Collection Vol. 2 Bonus Content | 392677 | [392677-metal-gear-solid-master-collection-vol-2-bonus-content.json](./392677-metal-gear-solid-master-collection-vol-2-bonus-content.json) |
 | Metal Slug 3 | 1408 | [1408-metal-slug-3.json](./1408-metal-slug-3.json) |
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
