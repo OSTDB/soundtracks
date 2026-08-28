@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
 | Nest of Dust | 383801 | [383801-nest-of-dust.json](./383801-nest-of-dust.json) |
+| Netbreak | 371723 | [371723-netbreak.json](./371723-netbreak.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
 | No Knock | 391512 | [391512-no-knock.json](./391512-no-knock.json) |
+| No More Furries | 371713 | [371713-no-more-furries.json](./371713-no-more-furries.json) |
 | No One Leaves the Field | 376304 | [376304-no-one-leaves-the-field.json](./376304-no-one-leaves-the-field.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
 | No Such Luck | 393368 | [393368-no-such-luck.json](./393368-no-such-luck.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing | 395420 | [395420-nothing.json](./395420-nothing.json) |
 | Nova Fight MMA | 394045 | [394045-nova-fight-mma.json](./394045-nova-fight-mma.json) |
 | Nova Fighter | 412148 | [412148-nova-fighter.json](./412148-nova-fighter.json) |
+| Nova IV | 371702 | [371702-nova-iv.json](./371702-nova-iv.json) |
 | Novella Divina | 391511 | [391511-novella-divina.json](./391511-novella-divina.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
