@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
 | Wai Wai 3-nin Uchi Mahjong | 394050 | [394050-wai-wai-3-nin-uchi-mahjong.json](./394050-wai-wai-3-nin-uchi-mahjong.json) |
 | Wai Wai Trump Taisen | 394051 | [394051-wai-wai-trump-taisen.json](./394051-wai-wai-trump-taisen.json) |
+| Waifu Lust | 389861 | [389861-waifu-lust.json](./389861-waifu-lust.json) |
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Heart? | 9204 | [9204-where-is-my-heart.json](./9204-where-is-my-heart.json) |
 | Where's My Water? 2 | 61936 | [61936-wheres-my-water-2.json](./61936-wheres-my-water-2.json) |
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
+| Whip Wreck | 389895 | [389895-whip-wreck.json](./389895-whip-wreck.json) |
 | Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
