@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of Hell | 393997 | [393997-hands-of-hell.json](./393997-hands-of-hell.json) |
 | Handshakes | 231165 | [231165-handshakes.json](./231165-handshakes.json) |
 | Handsome Watching Face Memory Challenge | 407258 | [407258-handsome-watching-face-memory-challenge.json](./407258-handsome-watching-face-memory-challenge.json) |
+| Handsum | 359264 | [359264-handsum.json](./359264-handsum.json) |
 | Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang-On | 263349 | [263349-hang-on.json](./263349-hang-on.json) |
 | Hangover Gallery | 402790 | [402790-hangover-gallery.json](./402790-hangover-gallery.json) |
