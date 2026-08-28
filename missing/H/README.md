@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
 | Headshot VR | 109838 | [109838-headshot-vr.json](./109838-headshot-vr.json) |
 | Headspun | 90821 | [90821-headspun.json](./90821-headspun.json) |
+| Headsrest | 387181 | [387181-headsrest.json](./387181-headsrest.json) |
 | Healer | 406605 | [406605-healer.json](./406605-healer.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
@@ -95,11 +96,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
+| Hentai Balls 3D: Triple Trouble | 387245 | [387245-hentai-balls-3d-triple-trouble.json](./387245-hentai-balls-3d-triple-trouble.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
 | Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
+| Hentai Shinobi | 387197 | [387197-hentai-shinobi.json](./387197-hentai-shinobi.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
@@ -143,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Classic Trilogy Remastered | 404745 | [404745-hitman-classic-trilogy-remastered.json](./404745-hitman-classic-trilogy-remastered.json) |
 | Hitman: Blood Money Reprisal | 278026 | [278026-hitman-blood-money-reprisal.json](./278026-hitman-blood-money-reprisal.json) |
 | Hitman: Definitive Edition | 96140 | [96140-hitman-definitive-edition.json](./96140-hitman-definitive-edition.json) |
+| Ho Ho & Move | 387247 | [387247-ho-ho-and-move.json](./387247-ho-ho-and-move.json) |
 | Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
@@ -173,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordekill | 390417 | [390417-hordekill.json](./390417-hordekill.json) |
 | Hordestomp | 400139 | [400139-hordestomp.json](./400139-hordestomp.json) |
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
+| Horizon Drift Unlimited 2026 | 387244 | [387244-horizon-drift-unlimited-2026.json](./387244-horizon-drift-unlimited-2026.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horn of Africa | 408643 | [408643-horn-of-africa.json](./408643-horn-of-africa.json) |
 | Horrid Henry: The Good, The Bad and The Bugly | 402781 | [402781-horrid-henry-the-good-the-bad-and-the-bugly.json](./402781-horrid-henry-the-good-the-bad-and-the-bugly.json) |
@@ -187,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
+| Hot Seat | 387253 | [387253-hot-seat.json](./387253-hot-seat.json) |
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
