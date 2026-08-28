@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
+| Game Settings | 365478 | [365478-game-settings.json](./365478-game-settings.json) |
 | Game Tycoon 2 | 34414 | [34414-game-tycoon-2.json](./34414-game-tycoon-2.json) |
 | Gamer Career Tycoon | 86611 | [86611-gamer-career-tycoon.json](./86611-gamer-career-tycoon.json) |
 | Gamer Simulator | 34462 | [34462-gamer-simulator.json](./34462-gamer-simulator.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | Goofy Golf Remastered | 368848 | [368848-goofy-golf-remastered.json](./368848-goofy-golf-remastered.json) |
+| Gorax Episode 1: The Cliff to Nowhere | 365520 | [365520-gorax-episode-1-the-cliff-to-nowhere.json](./365520-gorax-episode-1-the-cliff-to-nowhere.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guillotine | 410108 | [410108-guillotine.json](./410108-guillotine.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
+| Gulpy Gulpy! | 365492 | [365492-gulpy-gulpy.json](./365492-gulpy-gulpy.json) |
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
