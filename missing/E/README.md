@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantex | 378034 | [378034-enchantex.json](./378034-enchantex.json) |
 | Enchantia: Wrath of the Phoenix Queen - Collector's Edition | 381434 | [381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json](./381434-enchantia-wrath-of-the-phoenix-queen-collectors-edition.json) |
 | Enclave | 1345 | [1345-enclave.json](./1345-enclave.json) |
+| Encore Casino Games Collection | 367788 | [367788-encore-casino-games-collection.json](./367788-encore-casino-games-collection.json) |
 | Encryptid | 382632 | [382632-encryptid.json](./382632-encryptid.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
 | Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
+| Ewsn Card | 367794 | [367794-ewsn-card.json](./367794-ewsn-card.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
