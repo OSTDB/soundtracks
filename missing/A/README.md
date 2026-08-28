@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFK Tactics | 402819 | [402819-afk-tactics.json](./402819-afk-tactics.json) |
 | Afro Samurai | 5478 | [5478-afro-samurai.json](./5478-afro-samurai.json) |
 | After Reset RPG | 22097 | [22097-after-reset-rpg.json](./22097-after-reset-rpg.json) |
+| After School .Live: Mirror of Twilight | 396101 | [396101-after-school-live-mirror-of-twilight.json](./396101-after-school-live-mirror-of-twilight.json) |
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
 | Anime Girls VR | 77169 | [77169-anime-girls-vr.json](./77169-anime-girls-vr.json) |
+| Anime Girls: Sakura Love | 396100 | [396100-anime-girls-sakura-love.json](./396100-anime-girls-sakura-love.json) |
 | Anime Puzzle Collection | 411450 | [411450-anime-puzzle-collection.json](./411450-anime-puzzle-collection.json) |
 | Anime Video Puzzle | 411447 | [411447-anime-video-puzzle.json](./411447-anime-video-puzzle.json) |
 | Annie Amber | 32954 | [32954-annie-amber.json](./32954-annie-amber.json) |
@@ -196,12 +198,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
+| APSudoku | 396090 | [396090-apsudoku.json](./396090-apsudoku.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
+| AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
+| Arcade Archives 2: Final Lap | 396094 | [396094-arcade-archives-2-final-lap.json](./396094-arcade-archives-2-final-lap.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
+| Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
 | Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
