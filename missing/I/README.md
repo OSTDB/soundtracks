@@ -29,9 +29,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
 | Ikachan | 15466 | [15466-ikachan.json](./15466-ikachan.json) |
+| Ikarus | 412832 | [412832-ikarus.json](./412832-ikarus.json) |
 | iKout | 87629 | [87629-ikout.json](./87629-ikout.json) |
 | iLike Basket | 87647 | [87647-ilike-basket.json](./87647-ilike-basket.json) |
 | Illbleed | 26450 | [26450-illbleed.json](./26450-illbleed.json) |
+| Illumination Point | 412852 | [412852-illumination-point.json](./412852-illumination-point.json) |
 | Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illusion of Gaia | 3016 | [3016-illusion-of-gaia.json](./3016-illusion-of-gaia.json) |
 | Imagine Me | 16868 | [16868-imagine-me.json](./16868-imagine-me.json) |
