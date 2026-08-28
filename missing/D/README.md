@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
 | Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
+| Darts Fever: Upgrade Edition | 394747 | [394747-darts-fever-upgrade-edition.json](./394747-darts-fever-upgrade-edition.json) |
 | Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
