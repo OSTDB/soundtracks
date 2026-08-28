@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Holidays | 378629 | [378629-cats-holidays.json](./378629-cats-holidays.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
+| Catch Sunlight Museum | 366082 | [366082-catch-sunlight-museum.json](./366082-catch-sunlight-museum.json) |
 | Catch The Beaukes | 384359 | [384359-catch-the-beaukes.json](./384359-catch-the-beaukes.json) |
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Catjong 4: Secrets of the Purramids | 397544 | [397544-catjong-4-secrets-of-the-purramids.json](./397544-catjong-4-secrets-of-the-purramids.json) |
@@ -144,9 +145,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained | 378673 | [378673-chained.json](./378673-chained.json) |
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
+| Chair Debiti | 366059 | [366059-chair-debiti.json](./366059-chair-debiti.json) |
 | Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
 | Champion of Lore | 381471 | [381471-champion-of-lore.json](./381471-champion-of-lore.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
+| Champions of the Cosmos | 366066 | [366066-champions-of-the-cosmos.json](./366066-champions-of-the-cosmos.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Chàng Wǔ Quán Míngxīng | 407978 | [407978-chang-wu-quan-mingxing.json](./407978-chang-wu-quan-mingxing.json) |
 | Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chess Nuke | 412820 | [412820-chess-nuke.json](./412820-chess-nuke.json) |
 | Chess Tales | 384954 | [384954-chess-tales.json](./384954-chess-tales.json) |
+| ChessXpanse | 366063 | [366063-chessxpanse.json](./366063-chessxpanse.json) |
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Fren | 379735 | [379735-chicken-fren.json](./379735-chicken-fren.json) |
@@ -269,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
 | Coin Chase | 378025 | [378025-coin-chase.json](./378025-coin-chase.json) |
+| Coin Hoarder | 366072 | [366072-coin-hoarder.json](./366072-coin-hoarder.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | Coin Push RPG: Cat Meme DLC | 371103 | [371103-coin-push-rpg-cat-meme-dlc.json](./371103-coin-push-rpg-cat-meme-dlc.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
