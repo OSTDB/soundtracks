@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Floors | 397549 | [397549-6-floors.json](./397549-6-floors.json) |
 | 6 in 1 Power Bundle Vol. 2 | 380848 | [380848-6-in-1-power-bundle-vol-2.json](./380848-6-in-1-power-bundle-vol-2.json) |
 | 60 Seconds! Atomic Adventure | 86379 | [86379-60-seconds-atomic-adventure.json](./86379-60-seconds-atomic-adventure.json) |
+| 67: The 7 Pages | 375646 | [375646-67-the-7-pages.json](./375646-67-the-7-pages.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
 | 7 Trials | 400791 | [400791-7-trials.json](./400791-7-trials.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
