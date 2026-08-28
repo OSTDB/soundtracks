@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: Assassin | 368860 | [368860-kingdom-assassin.json](./368860-kingdom-assassin.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
+| Kingsage | 363244 | [363244-kingsage.json](./363244-kingsage.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
 | Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
 | Kioskeria: Summer Breeze | 410751 | [410751-kioskeria-summer-breeze.json](./410751-kioskeria-summer-breeze.json) |
