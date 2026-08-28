@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Hell & Damnation - The Clock Strikes Meat Night | 20849 | [20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json](./20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
+| Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
 | Palworld | 151665 | [151665-palworld.json](./151665-palworld.json) |
 | Pandemonium! | 6268 | [6268-pandemonium.json](./6268-pandemonium.json) |
 | Pandora's Tower | 5090 | [5090-pandoras-tower.json](./5090-pandoras-tower.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Tactica | 252729 | [252729-persona-5-tactica.json](./252729-persona-5-tactica.json) |
 | Pet Society | 165165 | [165165-pet-society.json](./165165-pet-society.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
+| Petz: Horsez 2 | 15817 | [15817-petz-horsez-2.json](./15817-petz-horsez-2.json) |
 | Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
@@ -148,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Blade 2 | 48223 | [48223-power-blade-2.json](./48223-power-blade-2.json) |
 | Power Chord | 175628 | [175628-power-chord.json](./175628-power-chord.json) |
 | Power Hover | 30402 | [30402-power-hover.json](./30402-power-hover.json) |
+| Power of Defense | 15060 | [15060-power-of-defense.json](./15060-power-of-defense.json) |
 | Power Rangers: Legacy Wars | 74865 | [74865-power-rangers-legacy-wars.json](./74865-power-rangers-legacy-wars.json) |
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
 | Power Stone | 4355 | [4355-power-stone.json](./4355-power-stone.json) |
@@ -184,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
+| PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
@@ -204,4 +208,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble Galaxy | 23257 | [23257-puzzle-bobble-galaxy.json](./23257-puzzle-bobble-galaxy.json) |
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
+| Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
