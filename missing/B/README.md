@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
 | Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
+| Blast Vein | 407961 | [407961-blast-vein.json](./407961-blast-vein.json) |
 | BlazBlue: Calamity Trigger | 6441 | [6441-blazblue-calamity-trigger.json](./6441-blazblue-calamity-trigger.json) |
 | Blazing Beaks | 75158 | [75158-blazing-beaks.json](./75158-blazing-beaks.json) |
 | Blazing Lazers | 42125 | [42125-blazing-lazers.json](./42125-blazing-lazers.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
 | Bugdom 2 | 94750 | [94750-bugdom-2.json](./94750-bugdom-2.json) |
 | Bugs Bunny Rabbit Rampage | 3054 | [3054-bugs-bunny-rabbit-rampage.json](./3054-bugs-bunny-rabbit-rampage.json) |
+| Bugs in the Brain | 407931 | [407931-bugs-in-the-brain.json](./407931-bugs-in-the-brain.json) |
 | Build-A-Lot | 16086 | [16086-build-a-lot.json](./16086-build-a-lot.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
@@ -266,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
+| BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
 | Burnable Hearts! | 410117 | [410117-burnable-hearts.json](./410117-burnable-hearts.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
