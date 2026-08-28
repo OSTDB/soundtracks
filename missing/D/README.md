@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departure | 380259 | [380259-departure.json](./380259-departure.json) |
 | Depleted | 395449 | [395449-depleted.json](./395449-depleted.json) |
 | Deployed | 389869 | [389869-deployed.json](./389869-deployed.json) |
+| Depression | 360396 | [360396-depression.json](./360396-depression.json) |
 | Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity II: Flames of Vengeance | 78635 | [78635-divinity-ii-flames-of-vengeance.json](./78635-divinity-ii-flames-of-vengeance.json) |
 | Divinity: Original Sin | 5082 | [5082-divinity-original-sin.json](./5082-divinity-original-sin.json) |
 | Dizzy Hearts | 89483 | [89483-dizzy-hearts.json](./89483-dizzy-hearts.json) |
+| Dizzy: Prince of the Yolkfolk | 360425 | [360425-dizzy-prince-of-the-yolkfolk.json](./360425-dizzy-prince-of-the-yolkfolk.json) |
 | Dizzys | 370538 | [370538-dizzys.json](./370538-dizzys.json) |
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
@@ -477,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking Neo | 411452 | [411452-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./411452-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Blade: Wrath of Fire | 4819 | [4819-dragon-blade-wrath-of-fire.json](./4819-dragon-blade-wrath-of-fire.json) |
 | Dragon Bros | 31970 | [31970-dragon-bros.json](./31970-dragon-bros.json) |
+| Dragon Chronicle | 360428 | [360428-dragon-chronicle.json](./360428-dragon-chronicle.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
 | Dragon Climax | 76856 | [76856-dragon-climax.json](./76856-dragon-climax.json) |
 | Dragon Defense | 380287 | [380287-dragon-defense.json](./380287-dragon-defense.json) |
@@ -584,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: The Wind Awakening, Part 1 | 413547 | [413547-duet-night-abyss-the-wind-awakening-part-1.json](./413547-duet-night-abyss-the-wind-awakening-part-1.json) |
 | Duke Nukem Forever: The Doctor Who Cloned Me | 22918 | [22918-duke-nukem-forever-the-doctor-who-cloned-me.json](./22918-duke-nukem-forever-the-doctor-who-cloned-me.json) |
 | Duke Nukem II | 956 | [956-duke-nukem-ii.json](./956-duke-nukem-ii.json) |
+| Duke Nukem: Alien Repudiation | 360392 | [360392-duke-nukem-alien-repudiation.json](./360392-duke-nukem-alien-repudiation.json) |
 | Duke Nukem: Critical Mass | 47967 | [47967-duke-nukem-critical-mass.json](./47967-duke-nukem-critical-mass.json) |
 | Duke Nukem: Time to Kill | 4130 | [4130-duke-nukem-time-to-kill.json](./4130-duke-nukem-time-to-kill.json) |
 | Duke Nukem: Zero Hour Overclocked | 400102 | [400102-duke-nukem-zero-hour-overclocked.json](./400102-duke-nukem-zero-hour-overclocked.json) |
