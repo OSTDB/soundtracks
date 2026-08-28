@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamplite | 412872 | [412872-lamplite.json](./412872-lamplite.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
+| Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
 | Laserlife | 12885 | [12885-laserlife.json](./12885-laserlife.json) |
 | Last Days of Lazarus | 172142 | [172142-last-days-of-lazarus.json](./172142-last-days-of-lazarus.json) |
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
+| Late Night DJ | 402777 | [402777-late-night-dj.json](./402777-late-night-dj.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
 | Laura Bailey Mysteries | 414248 | [414248-laura-bailey-mysteries.json](./414248-laura-bailey-mysteries.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
@@ -70,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
 | Lethal Women: Valerie's Game | 414217 | [414217-lethal-women-valeries-game.json](./414217-lethal-women-valeries-game.json) |
+| Lethargic | 402813 | [402813-lethargic.json](./402813-lethargic.json) |
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
 | Level Up, Tiny King! | 406585 | [406585-level-up-tiny-king.json](./406585-level-up-tiny-king.json) |
