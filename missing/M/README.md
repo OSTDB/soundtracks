@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine.exe: Desktop RPG | 400803 | [400803-marine-exe-desktop-rpg.json](./400803-marine-exe-desktop-rpg.json) |
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
+| Mario and the Mysterious Meteorite | 359835 | [359835-mario-and-the-mysterious-meteorite.json](./359835-mario-and-the-mysterious-meteorite.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
 | Mario Kart 8: Mercedez-Benz X Mario Kart 8 | 399503 | [399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json](./399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json) |
 | Mario Kart 8: Update 4.0 | 399501 | [399501-mario-kart-8-update-4-0.json](./399501-mario-kart-8-update-4-0.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memology: Absurd Racing | 378022 | [378022-memology-absurd-racing.json](./378022-memology-absurd-racing.json) |
 | Memology: Italian Meme War | 378026 | [378026-memology-italian-meme-war.json](./378026-memology-italian-meme-war.json) |
 | Memories Off 2nd: Yuki Hotaru | 396775 | [396775-memories-off-2nd-yuki-hotaru.json](./396775-memories-off-2nd-yuki-hotaru.json) |
+| Memory Holder: The Numbers | 359791 | [359791-memory-holder-the-numbers.json](./359791-memory-holder-the-numbers.json) |
 | Men Against Lizards | 367803 | [367803-men-against-lizards.json](./367803-men-against-lizards.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Menhera Maiden | 399530 | [399530-menhera-maiden.json](./399530-menhera-maiden.json) |
@@ -262,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Ape | 367211 | [367211-metal-ape.json](./367211-metal-ape.json) |
 | Metal Black | 27048 | [27048-metal-black.json](./27048-metal-black.json) |
 | Metal Gear Solid 2: Sons of Liberty - HD Edition | 55041 | [55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json](./55041-metal-gear-solid-2-sons-of-liberty-hd-edition.json) |
+| Metal Gear Solid Delta: Snake Eater - Deluxe Edition | 359838 | [359838-metal-gear-solid-delta-snake-eater-deluxe-edition.json](./359838-metal-gear-solid-delta-snake-eater-deluxe-edition.json) |
 | Metal Gear Solid Master Collection: Volume 2 - Day One Edition | 390965 | [390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json](./390965-metal-gear-solid-master-collection-volume-2-day-one-edition.json) |
 | Metal Gear Solid: Master Collection Vol. 2 Bonus Content | 392677 | [392677-metal-gear-solid-master-collection-vol-2-bonus-content.json](./392677-metal-gear-solid-master-collection-vol-2-bonus-content.json) |
 | Metal Head Warfare | 371667 | [371667-metal-head-warfare.json](./371667-metal-head-warfare.json) |
@@ -272,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphosis | 367807 | [367807-metamorphosis.json](./367807-metamorphosis.json) |
 | Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
 | MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
+| Meteor Break Mission | 359788 | [359788-meteor-break-mission.json](./359788-meteor-break-mission.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
@@ -476,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Platinium Edition | 394750 | [394750-motorbikes-pro-2025-platinium-edition.json](./394750-motorbikes-pro-2025-platinium-edition.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
+| Mouse simulator | 359798 | [359798-mouse-simulator.json](./359798-mouse-simulator.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mowing Simulator | 368851 | [368851-mowing-simulator.json](./368851-mowing-simulator.json) |
@@ -516,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Overload | 379195 | [379195-mutation-overload.json](./379195-mutation-overload.json) |
 | MuTris | 373934 | [373934-mutris.json](./373934-mutris.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
+| MX vs. ATV: Legends - 2025 AMA Pro Motocross Championship | 359806 | [359806-mx-vs-atv-legends-2025-ama-pro-motocross-championship.json](./359806-mx-vs-atv-legends-2025-ama-pro-motocross-championship.json) |
 | MXGP2: The Official Motocross Videogame Compact | 89499 | [89499-mxgp2-the-official-motocross-videogame-compact.json](./89499-mxgp2-the-official-motocross-videogame-compact.json) |
 | MXGP3: The Official Motocross Videogame | 90635 | [90635-mxgp3-the-official-motocross-videogame.json](./90635-mxgp3-the-official-motocross-videogame.json) |
 | My Beautiful Winter | 389909 | [389909-my-beautiful-winter.json](./389909-my-beautiful-winter.json) |
