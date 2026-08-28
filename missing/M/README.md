@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
+| Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine the Deep | 410141 | [410141-mine-the-deep.json](./410141-mine-the-deep.json) |
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
+| Minesweeper Classic | 384945 | [384945-minesweeper-classic.json](./384945-minesweeper-classic.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
@@ -297,7 +299,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
 | Monster Castle | 24606 | [24606-monster-castle.json](./24606-monster-castle.json) |
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
+| Monster Gals!! | 384966 | [384966-monster-gals.json](./384966-monster-gals.json) |
+| Monster Girl Descent | 384968 | [384968-monster-girl-descent.json](./384968-monster-girl-descent.json) |
 | Monster Girl Quest | 58836 | [58836-monster-girl-quest.json](./58836-monster-girl-quest.json) |
+| Monster Girls Onsen | 384965 | [384965-monster-girls-onsen.json](./384965-monster-girls-onsen.json) |
+| Monster Hookups | 384967 | [384967-monster-hookups.json](./384967-monster-hookups.json) |
+| Monster Hunter | 384972 | [384972-monster-hunter.json](./384972-monster-hunter.json) |
 | Monster Hunter Freedom 2 | 23066 | [23066-monster-hunter-freedom-2.json](./23066-monster-hunter-freedom-2.json) |
 | Monster Hunter Wilds: Ascendance | 404709 | [404709-monster-hunter-wilds-ascendance.json](./404709-monster-hunter-wilds-ascendance.json) |
 | Monster in My Pocket | 48166 | [48166-monster-in-my-pocket.json](./48166-monster-in-my-pocket.json) |
