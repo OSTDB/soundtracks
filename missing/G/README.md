@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelu | 44264 | [44264-gelu.json](./44264-gelu.json) |
 | Geneforge 3 | 8365 | [8365-geneforge-3.json](./8365-geneforge-3.json) |
 | Geneforge 4: Rebellion | 8369 | [8369-geneforge-4-rebellion.json](./8369-geneforge-4-rebellion.json) |
+| GeneLoot | 410764 | [410764-geneloot.json](./410764-geneloot.json) |
 | Generator Rex: Agent of Providence | 8005 | [8005-generator-rex-agent-of-providence.json](./8005-generator-rex-agent-of-providence.json) |
 | Genius Greedy Mouse | 22718 | [22718-genius-greedy-mouse.json](./22718-genius-greedy-mouse.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
@@ -70,11 +71,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
+| Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
 | Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
+| Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
