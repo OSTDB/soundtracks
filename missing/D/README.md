@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
 | Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
+| Darkward | 379772 | [379772-darkward.json](./379772-darkward.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
 | Darts Fever: Upgrade Edition | 394747 | [394747-darts-fever-upgrade-edition.json](./394747-darts-fever-upgrade-edition.json) |
 | Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diabolika | 380262 | [380262-diabolika.json](./380262-diabolika.json) |
+| Diana | 379760 | [379760-diana.json](./379760-diana.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
