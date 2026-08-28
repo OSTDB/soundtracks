@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopticom | 110147 | [110147-octopticom.json](./110147-octopticom.json) |
 | Odd Realm | 113138 | [113138-odd-realm.json](./113138-odd-realm.json) |
 | Odd's Job | 396789 | [396789-odds-job.json](./396789-odds-job.json) |
+| Odds Chronicles | 371072 | [371072-odds-chronicles.json](./371072-odds-chronicles.json) |
 | Oddworld: Soulstorm - Enhanced Edition | 178211 | [178211-oddworld-soulstorm-enhanced-edition.json](./178211-oddworld-soulstorm-enhanced-edition.json) |
 | Oddworld: Stranger's Wrath HD | 21070 | [21070-oddworld-strangers-wrath-hd.json](./21070-oddworld-strangers-wrath-hd.json) |
 | Odium to the Core | 96353 | [96353-odium-to-the-core.json](./96353-odium-to-the-core.json) |
