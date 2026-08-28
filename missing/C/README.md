@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker | 243900 | [243900-captain-toad-treasure-tracker.json](./243900-captain-toad-treasure-tracker.json) |
+| Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
