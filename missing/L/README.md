@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
+| Luminous Jigsaw Puzzles | 402163 | [402163-luminous-jigsaw-puzzles.json](./402163-luminous-jigsaw-puzzles.json) |
 | Lumote: The Mastermote Chronicles | 173097 | [173097-lumote-the-mastermote-chronicles.json](./173097-lumote-the-mastermote-chronicles.json) |
 | Luna Abyss | 213620 | [213620-luna-abyss.json](./213620-luna-abyss.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
