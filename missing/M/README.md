@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legacy Collection 2 | 28323 | [28323-mega-man-legacy-collection-2.json](./28323-mega-man-legacy-collection-2.json) |
 | Mega Man Star Force 2: Zerker x Saurian | 1784 | [1784-mega-man-star-force-2-zerker-x-saurian.json](./1784-mega-man-star-force-2-zerker-x-saurian.json) |
 | Mega Man V | 1737 | [1737-mega-man-v.json](./1737-mega-man-v.json) |
+| Mega Man X Regenesis | 410146 | [410146-mega-man-x-regenesis.json](./410146-mega-man-x-regenesis.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
 | Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
 | Mindustry | 83368 | [83368-mindustry.json](./83368-mindustry.json) |
+| Mine the Deep | 410141 | [410141-mine-the-deep.json](./410141-mine-the-deep.json) |
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
+| Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
 | Monobeno | 61910 | [61910-monobeno.json](./61910-monobeno.json) |
