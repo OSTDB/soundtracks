@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
 | Revelation Online | 26903 | [26903-revelation-online.json](./26903-revelation-online.json) |
 | Revenge of the 'Gator | 48916 | [48916-revenge-of-the-gator.json](./48916-revenge-of-the-gator.json) |
+| Reverie | 383823 | [383823-reverie.json](./383823-reverie.json) |
 | Reverse 1999: On Another's Sorrow | 412853 | [412853-reverse-1999-on-anothers-sorrow.json](./412853-reverse-1999-on-anothers-sorrow.json) |
 | Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
 | Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
 | Riddick: The Merc Files | 20930 | [20930-riddick-the-merc-files.json](./20930-riddick-the-merc-files.json) |
+| Riddle Of Revenge | 383849 | [383849-riddle-of-revenge.json](./383849-riddle-of-revenge.json) |
 | Ride 2 | 19803 | [19803-ride-2.json](./19803-ride-2.json) |
 | Ride! Carnival Tycoon | 15788 | [15788-ride-carnival-tycoon.json](./15788-ride-carnival-tycoon.json) |
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
@@ -158,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riff Hammer | 389908 | [389908-riff-hammer.json](./389908-riff-hammer.json) |
 | Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
 | Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
+| RiftChess | 383846 | [383846-riftchess.json](./383846-riftchess.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Rina-sama Musou: The Chosen One and the Reign of Madness | 392623 | [392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json](./392623-rina-sama-musou-the-chosen-one-and-the-reign-of-madness.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
@@ -203,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 20925 | [20925-robocop.json](./20925-robocop.json) |
 | RoboCop: Rogue City - Unfinished Business | 334672 | [334672-robocop-rogue-city-unfinished-business.json](./334672-robocop-rogue-city-unfinished-business.json) |
 | Robot Ox | 404131 | [404131-robot-ox.json](./404131-robot-ox.json) |
+| Robot Rampage | 383824 | [383824-robot-rampage.json](./383824-robot-rampage.json) |
 | Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
