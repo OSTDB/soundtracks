@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong | 151795 | [151795-opus-echo-of-starsong.json](./151795-opus-echo-of-starsong.json) |
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Oradea | 387858 | [387858-oradea.json](./387858-oradea.json) |
+| Orb Grabber | 372888 | [372888-orb-grabber.json](./372888-orb-grabber.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orb Stories | 386022 | [386022-orb-stories.json](./386022-orb-stories.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
