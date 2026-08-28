@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
+| Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
 | Revelation Online | 26903 | [26903-revelation-online.json](./26903-revelation-online.json) |
 | Revenge of the 'Gator | 48916 | [48916-revenge-of-the-gator.json](./48916-revenge-of-the-gator.json) |
+| Reverse 1999: On Another's Sorrow | 412853 | [412853-reverse-1999-on-anothers-sorrow.json](./412853-reverse-1999-on-anothers-sorrow.json) |
 | Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
