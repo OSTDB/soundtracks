@@ -29,7 +29,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
 | Your Shape Fitness Evolved 2012 | 7536 | [7536-your-shape-fitness-evolved-2012.json](./7536-your-shape-fitness-evolved-2012.json) |
+| Yox | 400127 | [400127-yox.json](./400127-yox.json) |
 | Yrminsul | 24038 | [24038-yrminsul.json](./24038-yrminsul.json) |
+| Ys Memoire: Revelations in Celceta | 400123 | [400123-ys-memoire-revelations-in-celceta.json](./400123-ys-memoire-revelations-in-celceta.json) |
 | Yu-Gi-Oh! 5D's Tag Force 6 | 42789 | [42789-yu-gi-oh-5ds-tag-force-6.json](./42789-yu-gi-oh-5ds-tag-force-6.json) |
 | Yu-Gi-Oh! Dark Duel Stories | 23467 | [23467-yu-gi-oh-dark-duel-stories.json](./23467-yu-gi-oh-dark-duel-stories.json) |
 | Yu-Gi-Oh! Nightmare Troubadour | 2285 | [2285-yu-gi-oh-nightmare-troubadour.json](./2285-yu-gi-oh-nightmare-troubadour.json) |
