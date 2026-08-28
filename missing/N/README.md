@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
 | NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
+| Nine Nights to Exposure | 396790 | [396790-nine-nights-to-exposure.json](./396790-nine-nights-to-exposure.json) |
 | Ninja Baseball League-Man: Bases Loaded | 414245 | [414245-ninja-baseball-league-man-bases-loaded.json](./414245-ninja-baseball-league-man-bases-loaded.json) |
 | Ninja Crusaders | 48193 | [48193-ninja-crusaders.json](./48193-ninja-crusaders.json) |
 | Ninja Gaiden | 7558 | [7558-ninja-gaiden.json](./7558-ninja-gaiden.json) |
