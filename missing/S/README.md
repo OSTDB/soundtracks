@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinweaver | 386021 | [386021-sinweaver.json](./386021-sinweaver.json) |
 | Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
 | Siren | 383852 | [383852-siren.json](./383852-siren.json) |
+| Sìshísì Cì Rìluò | 368315 | [368315-sishisi-ci-riluo.json](./368315-sishisi-ci-riluo.json) |
 | Sister ha Sukuitai! | 387185 | [387185-sister-ha-sukuitai.json](./387185-sister-ha-sukuitai.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
 | Solomon's Keep: Dreadful Retro Edition | 377453 | [377453-solomons-keep-dreadful-retro-edition.json](./377453-solomons-keep-dreadful-retro-edition.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
+| Soluna's Mood | 368299 | [368299-solunas-mood.json](./368299-solunas-mood.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Somnial Ouija | 391505 | [391505-somnial-ouija.json](./391505-somnial-ouija.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
@@ -439,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SortCraft | 372889 | [372889-sortcraft.json](./372889-sortcraft.json) |
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
 | Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
+| Soul Academy | 368347 | [368347-soul-academy.json](./368347-soul-academy.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | Soul Waste | 392049 | [392049-soul-waste.json](./392049-soul-waste.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
@@ -611,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
 | Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
 | SteelMechBattle | 371714 | [371714-steelmechbattle.json](./371714-steelmechbattle.json) |
+| SteelSilk Championship | 368321 | [368321-steelsilk-championship.json](./368321-steelsilk-championship.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
@@ -650,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Brew | 369930 | [369930-strange-brew.json](./369930-strange-brew.json) |
 | Stranglehold of the Elite | 369979 | [369979-stranglehold-of-the-elite.json](./369979-stranglehold-of-the-elite.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
+| Strato Freaks DX | 368317 | [368317-strato-freaks-dx.json](./368317-strato-freaks-dx.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
 | Streaming On! VTuber Training | 382024 | [382024-streaming-on-vtuber-training.json](./382024-streaming-on-vtuber-training.json) |
@@ -763,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Crossroads | 394009 | [394009-super-mario-crossroads.json](./394009-super-mario-crossroads.json) |
 | Super Mario Poison Forest | 394016 | [394016-super-mario-poison-forest.json](./394016-super-mario-poison-forest.json) |
 | Super Meat Boy 3D | 348175 | [348175-super-meat-boy-3d.json](./348175-super-meat-boy-3d.json) |
+| Super Meddl Boy | 368322 | [368322-super-meddl-boy.json](./368322-super-meddl-boy.json) |
 | Super Monkey Ball 349 | 405409 | [405409-super-monkey-ball-349.json](./405409-super-monkey-ball-349.json) |
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
 | Super Monkey Ball: Banana Rumble | 287854 | [287854-super-monkey-ball-banana-rumble.json](./287854-super-monkey-ball-banana-rumble.json) |
@@ -806,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
 | Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
 | Supremacy MMA | 7200 | [7200-supremacy-mma.json](./7200-supremacy-mma.json) |
+| Supreme War God | 368301 | [368301-supreme-war-god.json](./368301-supreme-war-god.json) |
 | Surgeon Simulator 2013 | 2974 | [2974-surgeon-simulator-2013.json](./2974-surgeon-simulator-2013.json) |
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
@@ -827,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Diving | 382056 | [382056-sweet-diving.json](./382056-sweet-diving.json) |
 | Sweet Elf | 393363 | [393363-sweet-elf.json](./393363-sweet-elf.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
+| Sweet Roommate | 368333 | [368333-sweet-roommate.json](./368333-sweet-roommate.json) |
 | Sweet Vampire | 382028 | [382028-sweet-vampire.json](./382028-sweet-vampire.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Sweetie Candy Maze: Coral Peach | 412151 | [412151-sweetie-candy-maze-coral-peach.json](./412151-sweetie-candy-maze-coral-peach.json) |
