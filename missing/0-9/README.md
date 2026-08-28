@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0.5% | 407940 | [407940-0-5.json](./407940-0-5.json) |
 | 007 Racing | 1642 | [1642-007-racing.json](./1642-007-racing.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
+| 0Player | 387890 | [387890-0player.json](./387890-0player.json) |
 | 10 Casual Games Collection | 394724 | [394724-10-casual-games-collection.json](./394724-10-casual-games-collection.json) |
 | 10 Hours Before Sunrise | 405999 | [405999-10-hours-before-sunrise.json](./405999-10-hours-before-sunrise.json) |
 | 100 Capitalist Cats | 282721 | [282721-100-capitalist-cats.json](./282721-100-capitalist-cats.json) |
