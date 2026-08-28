@@ -40,10 +40,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
+| Campfire: Night One | 387912 | [387912-campfire-night-one.json](./387912-campfire-night-one.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
+| Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -128,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess | 393335 | [393335-chess.json](./393335-chess.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
+| Chess Academy | 387872 | [387872-chess-academy.json](./387872-chess-academy.json) |
 | Chess Club Manager | 399450 | [399450-chess-club-manager.json](./399450-chess-club-manager.json) |
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chess Nuke | 412820 | [412820-chess-nuke.json](./412820-chess-nuke.json) |
@@ -302,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
+| Covenant of Fate | 387885 | [387885-covenant-of-fate.json](./387885-covenant-of-fate.json) |
 | Covr | 413534 | [413534-covr.json](./413534-covr.json) |
 | Cowboy Duel VR: Red Wild West Massacre | 401392 | [401392-cowboy-duel-vr-red-wild-west-massacre.json](./401392-cowboy-duel-vr-red-wild-west-massacre.json) |
 | Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
@@ -390,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
+| Cutle | 387917 | [387917-cutle.json](./387917-cutle.json) |
 | Cyber City: Science Crime Mystery | 411449 | [411449-cyber-city-science-crime-mystery.json](./411449-cyber-city-science-crime-mystery.json) |
 | Cyber Demon Protocol | 398888 | [398888-cyber-demon-protocol.json](./398888-cyber-demon-protocol.json) |
 | Cyber Jolt | 29745 | [29745-cyber-jolt.json](./29745-cyber-jolt.json) |
