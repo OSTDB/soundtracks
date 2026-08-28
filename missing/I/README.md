@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm a Human | 383840 | [383840-im-a-human.json](./383840-im-a-human.json) |
 | I'm Making a Monster | 378618 | [378618-im-making-a-monster.json](./378618-im-making-a-monster.json) |
 | I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
+| I'm not a Human: Horror Simulator | 373372 | [373372-im-not-a-human-horror-simulator.json](./373372-im-not-a-human-horror-simulator.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
@@ -100,6 +101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight - Flight Simulator | 95889 | [95889-infinite-flight-flight-simulator.json](./95889-infinite-flight-flight-simulator.json) |
 | Infinity Nikki: Terra's Call | 378638 | [378638-infinity-nikki-terras-call.json](./378638-infinity-nikki-terras-call.json) |
+| Infinos | 373378 | [373378-infinos.json](./373378-infinos.json) |
+| Infinos 2 | 373377 | [373377-infinos-2.json](./373377-infinos-2.json) |
 | Information Conveyed Information Received | 404763 | [404763-information-conveyed-information-received.json](./404763-information-conveyed-information-received.json) |
 | Injection π23: Tabula Rasa | 401404 | [401404-injection-23-tabula-rasa.json](./401404-injection-23-tabula-rasa.json) |
 | Ink Shadow: Zero | 389883 | [389883-ink-shadow-zero.json](./389883-ink-shadow-zero.json) |
