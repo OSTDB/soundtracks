@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dream | 16883 | [16883-last-dream.json](./16883-last-dream.json) |
 | Last Half of Darkness: Society of the Serpent Moon | 22104 | [22104-last-half-of-darkness-society-of-the-serpent-moon.json](./22104-last-half-of-darkness-society-of-the-serpent-moon.json) |
 | Last Horizon | 14712 | [14712-last-horizon.json](./14712-last-horizon.json) |
+| Last House Alive: Zombie Defense | 372307 | [372307-last-house-alive-zombie-defense.json](./372307-last-house-alive-zombie-defense.json) |
 | Last Knight: Rogue Rider Edition | 16816 | [16816-last-knight-rogue-rider-edition.json](./16816-last-knight-rogue-rider-edition.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
