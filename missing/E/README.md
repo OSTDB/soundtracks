@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEP 18 | 403491 | [403491-eep-18.json](./403491-eep-18.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
+| Egg Game | 368879 | [368879-egg-game.json](./368879-egg-game.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
 | Egg Related Videogame | 403459 | [403459-egg-related-videogame.json](./403459-egg-related-videogame.json) |
 | Eggconsole C-So! MSX | 396099 | [396099-eggconsole-c-so-msx.json](./396099-eggconsole-c-so-msx.json) |
