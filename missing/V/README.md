@@ -54,6 +54,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
 | Viper.io | 407245 | [407245-viper-io.json](./407245-viper-io.json) |
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
+| Virtua Fighter 5 R.E.V.O. World Stage: 30th Anniversary Bonus | 390938 | [390938-virtua-fighter-5-r-e-v-o-world-stage-30th-anniversary-bonus.json](./390938-virtua-fighter-5-r-e-v-o-world-stage-30th-anniversary-bonus.json) |
+| Virtua Fighter 5 R.E.V.O. World Stage: 30th Anniversary Edition | 390939 | [390939-virtua-fighter-5-r-e-v-o-world-stage-30th-anniversary-edition.json](./390939-virtua-fighter-5-r-e-v-o-world-stage-30th-anniversary-edition.json) |
+| Virtua Fighter 5 R.E.V.O. World Stage: Legendary Pack | 390927 | [390927-virtua-fighter-5-r-e-v-o-world-stage-legendary-pack.json](./390927-virtua-fighter-5-r-e-v-o-world-stage-legendary-pack.json) |
+| Virtua Fighter 5 R.E.V.O. World Stage: Yakuza Series Collaboration Pack | 390928 | [390928-virtua-fighter-5-r-e-v-o-world-stage-yakuza-series-collaboration-pack.json](./390928-virtua-fighter-5-r-e-v-o-world-stage-yakuza-series-collaboration-pack.json) |
 | Virtua Tennis | 6291 | [6291-virtua-tennis.json](./6291-virtua-tennis.json) |
 | Virtual Battlegrounds | 115669 | [115669-virtual-battlegrounds.json](./115669-virtual-battlegrounds.json) |
 | Virtual Escape: The Play Room | 31477 | [31477-virtual-escape-the-play-room.json](./31477-virtual-escape-the-play-room.json) |
