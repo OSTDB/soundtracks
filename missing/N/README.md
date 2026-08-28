@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Nightbell | 395408 | [395408-nightbell.json](./395408-nightbell.json) |
+| Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
@@ -117,12 +118,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Usagimaru: The Gem of Blessings | 44390 | [44390-ninja-usagimaru-the-gem-of-blessings.json](./44390-ninja-usagimaru-the-gem-of-blessings.json) |
 | Nintendo Labo: Toy-Con 04 - VR Kit | 115875 | [115875-nintendo-labo-toy-con-04-vr-kit.json](./115875-nintendo-labo-toy-con-04-vr-kit.json) |
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
+| Niph | 391467 | [391467-niph.json](./391467-niph.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
+| No Knock | 391512 | [391512-no-knock.json](./391512-no-knock.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
 | No Such Luck | 393368 | [393368-no-such-luck.json](./393368-no-such-luck.json) |
 | No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
@@ -134,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Zero | 410743 | [410743-node-zero.json](./410743-node-zero.json) |
 | Nodebuster | 314649 | [314649-nodebuster.json](./314649-nodebuster.json) |
 | Nodoku | 101980 | [101980-nodoku.json](./101980-nodoku.json) |
+| Nodosis | 391466 | [391466-nodosis.json](./391466-nodosis.json) |
 | Nodusfall | 414966 | [414966-nodusfall.json](./414966-nodusfall.json) |
 | Nongunz | 36499 | [36499-nongunz.json](./36499-nongunz.json) |
 | Nonsense Defense | 392025 | [392025-nonsense-defense.json](./392025-nonsense-defense.json) |
@@ -147,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing | 395420 | [395420-nothing.json](./395420-nothing.json) |
 | Nova Fight MMA | 394045 | [394045-nova-fight-mma.json](./394045-nova-fight-mma.json) |
 | Nova Fighter | 412148 | [412148-nova-fighter.json](./412148-nova-fighter.json) |
+| Novella Divina | 391511 | [391511-novella-divina.json](./391511-novella-divina.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
 | Nuktedan: The Forgotten Emotions | 406592 | [406592-nuktedan-the-forgotten-emotions.json](./406592-nuktedan-the-forgotten-emotions.json) |
