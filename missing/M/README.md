@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
 | Museum Guard: Exhibit Unknown | 387204 | [387204-museum-guard-exhibit-unknown.json](./387204-museum-guard-exhibit-unknown.json) |
 | Mushboom | 400802 | [400802-mushboom.json](./400802-mushboom.json) |
+| Mushroom Clicker | 374452 | [374452-mushroom-clicker.json](./374452-mushroom-clicker.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Music Inside: A VR Rhythm Game | 31496 | [31496-music-inside-a-vr-rhythm-game.json](./31496-music-inside-a-vr-rhythm-game.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Big Sister | 77157 | [77157-my-big-sister.json](./77157-my-big-sister.json) |
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
+| My Cold Girlfriend | 374467 | [374467-my-cold-girlfriend.json](./374467-my-cold-girlfriend.json) |
 | My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
