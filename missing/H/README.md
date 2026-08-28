@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
 | Hepatomancy | 383224 | [383224-hepatomancy.json](./383224-hepatomancy.json) |
+| Her Last Piece | 375047 | [375047-her-last-piece.json](./375047-her-last-piece.json) |
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | High on Life VR | 413521 | [413521-high-on-life-vr.json](./413521-high-on-life-vr.json) |
+| High Stakes: Hot Nights | 375045 | [375045-high-stakes-hot-nights.json](./375045-high-stakes-hot-nights.json) |
 | Highborn | 15297 | [15297-highborn.json](./15297-highborn.json) |
 | Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
 | HoloVillage: Our Cozy Days | 379245 | [379245-holovillage-our-cozy-days.json](./379245-holovillage-our-cozy-days.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
+| Holy Night | 375044 | [375044-holy-night.json](./375044-holy-night.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
@@ -284,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Pinball | 22785 | [22785-hyperspace-pinball.json](./22785-hyperspace-pinball.json) |
 | Hyperspeed | 35801 | [35801-hyperspeed.json](./35801-hyperspeed.json) |
 | Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
+| Hypnosync | 375040 | [375040-hypnosync.json](./375040-hypnosync.json) |
 | Hyrule Warriors | 5314 | [5314-hyrule-warriors.json](./5314-hyrule-warriors.json) |
 | Hyrule Warriors: Age of Calamity | 138343 | [138343-hyrule-warriors-age-of-calamity.json](./138343-hyrule-warriors-age-of-calamity.json) |
 | Hyrule Warriors: Definitive Edition | 81147 | [81147-hyrule-warriors-definitive-edition.json](./81147-hyrule-warriors-definitive-edition.json) |
