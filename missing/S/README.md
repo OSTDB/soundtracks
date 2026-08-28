@@ -84,12 +84,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
+| Settle or Sweep | 412861 | [412861-settle-or-sweep.json](./412861-settle-or-sweep.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
 | Shadow Corridor Zero | 414258 | [414258-shadow-corridor-zero.json](./414258-shadow-corridor-zero.json) |
+| Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
@@ -109,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
+| Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
 | Shopkins: Shoppie Dash! | 87621 | [87621-shopkins-shoppie-dash.json](./87621-shopkins-shoppie-dash.json) |
@@ -344,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Volleyball | 89307 | [89307-stickman-volleyball.json](./89307-stickman-volleyball.json) |
 | Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
 | Stigmat | 34442 | [34442-stigmat.json](./34442-stigmat.json) |
+| Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
