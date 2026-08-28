@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
+| Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Together: To the Moon | 414992 | [414992-stack-together-to-the-moon.json](./414992-stack-together-to-the-moon.json) |
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
+| Stall Tycoon | 407205 | [407205-stall-tycoon.json](./407205-stall-tycoon.json) |
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
@@ -476,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
+| Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
