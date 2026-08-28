@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduce Me 2: The Demon War | 33008 | [33008-seduce-me-2-the-demon-war.json](./33008-seduce-me-2-the-demon-war.json) |
 | Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
 | See the Sky | 414972 | [414972-see-the-sky.json](./414972-see-the-sky.json) |
+| Seed Adventure | 371675 | [371675-seed-adventure.json](./371675-seed-adventure.json) |
 | Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Seedwyr | 408677 | [408677-seedwyr.json](./408677-seedwyr.json) |
 | Seek and Seduce: Naomie | 382044 | [382044-seek-and-seduce-naomie.json](./382044-seek-and-seduce-naomie.json) |
@@ -227,6 +228,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
 | Sid Meier's Civilization III: Complete | 27820 | [27820-sid-meiers-civilization-iii-complete.json](./27820-sid-meiers-civilization-iii-complete.json) |
 | Sid Meier's Civilization IV: Colonization | 4228 | [4228-sid-meiers-civilization-iv-colonization.json](./4228-sid-meiers-civilization-iv-colonization.json) |
+| Sid Meier's Civilization V: Enlightenment Era | 371681 | [371681-sid-meiers-civilization-v-enlightenment-era.json](./371681-sid-meiers-civilization-v-enlightenment-era.json) |
+| Sid Meier's Civilization V: Future Worlds | 371708 | [371708-sid-meiers-civilization-v-future-worlds.json](./371708-sid-meiers-civilization-v-future-worlds.json) |
 | Sid Meier's Civilization V: The Complete Edition | 53610 | [53610-sid-meiers-civilization-v-the-complete-edition.json](./53610-sid-meiers-civilization-v-the-complete-edition.json) |
 | Sid Meier's Railroad Tycoon | 962 | [962-sid-meiers-railroad-tycoon.json](./962-sid-meiers-railroad-tycoon.json) |
 | Sid Meier's SimGolf | 869 | [869-sid-meiers-simgolf.json](./869-sid-meiers-simgolf.json) |
@@ -281,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
 | Ski Zone | 372288 | [372288-ski-zone.json](./372288-ski-zone.json) |
+| Skigill | 371733 | [371733-skigill.json](./371733-skigill.json) |
 | Skinwalker | 383839 | [383839-skinwalker.json](./383839-skinwalker.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
 | Skunk Simulator: Raccoon Games | 384943 | [384943-skunk-simulator-raccoon-games.json](./384943-skunk-simulator-raccoon-games.json) |
@@ -586,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
 | Steelarchy | 398893 | [398893-steelarchy.json](./398893-steelarchy.json) |
+| SteelMechBattle | 371714 | [371714-steelmechbattle.json](./371714-steelmechbattle.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
@@ -699,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit Journey | 397579 | [397579-sunlit-journey.json](./397579-sunlit-journey.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
+| Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
