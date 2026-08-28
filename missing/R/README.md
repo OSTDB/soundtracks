@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
+| Rakete | 410111 | [410111-rakete.json](./410111-rakete.json) |
 | Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
+| Roll 'em Out | 410109 | [410109-roll-em-out.json](./410109-roll-em-out.json) |
 | RollerCoaster Tycoon Adventures | 86497 | [86497-rollercoaster-tycoon-adventures.json](./86497-rollercoaster-tycoon-adventures.json) |
 | RollerCoaster Tycoon Classic | 26589 | [26589-rollercoaster-tycoon-classic.json](./26589-rollercoaster-tycoon-classic.json) |
 | RollerCoaster Tycoon Wonderworks | 414953 | [414953-rollercoaster-tycoon-wonderworks.json](./414953-rollercoaster-tycoon-wonderworks.json) |
