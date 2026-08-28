@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: The Short Message | 218744 | [218744-silent-hill-the-short-message.json](./218744-silent-hill-the-short-message.json) |
 | Silent Hunter 4: Wolves of the Pacific | 993 | [993-silent-hunter-4-wolves-of-the-pacific.json](./993-silent-hunter-4-wolves-of-the-pacific.json) |
 | Silent Hunter II | 992 | [992-silent-hunter-ii.json](./992-silent-hunter-ii.json) |
+| Sillinder's Somewhat Uneventful Tuesday | 409467 | [409467-sillinders-somewhat-uneventful-tuesday.json](./409467-sillinders-somewhat-uneventful-tuesday.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Your Day | 414969 | [414969-smile-your-day.json](./414969-smile-your-day.json) |
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
+| Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
 | Snakeybus | 114475 | [114475-snakeybus.json](./114475-snakeybus.json) |
 | Sniper 3D Gun Shooter | 95885 | [95885-sniper-3d-gun-shooter.json](./95885-sniper-3d-gun-shooter.json) |
 | Sniper Elite V2 Remastered | 116191 | [116191-sniper-elite-v2-remastered.json](./116191-sniper-elite-v2-remastered.json) |
