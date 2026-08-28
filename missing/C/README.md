@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
+| Code-Zero | 372874 | [372874-code-zero.json](./372874-code-zero.json) |
 | Codebreaker | 389283 | [389283-codebreaker.json](./389283-codebreaker.json) |
 | Codename: Typhoon | 390963 | [390963-codename-typhoon.json](./390963-codename-typhoon.json) |
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
 | Concepts | 403460 | [403460-concepts.json](./403460-concepts.json) |
 | Condemned 2: Recompiled | 412833 | [412833-condemned-2-recompiled.json](./412833-condemned-2-recompiled.json) |
+| Condemned to Clean | 372842 | [372842-condemned-to-clean.json](./372842-condemned-to-clean.json) |
 | Conduit 2 | 4770 | [4770-conduit-2.json](./4770-conduit-2.json) |
 | Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
 | Conflict Zone | 6727 | [6727-conflict-zone.json](./6727-conflict-zone.json) |
@@ -472,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
 | Cyberpunk Store Simulator | 374487 | [374487-cyberpunk-store-simulator.json](./374487-cyberpunk-store-simulator.json) |
+| CyberSmash | 372890 | [372890-cybersmash.json](./372890-cybersmash.json) |
 | Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
 | Cypher | 378033 | [378033-cypher.json](./378033-cypher.json) |
 | Cypher Dungeon | 390398 | [390398-cypher-dungeon.json](./390398-cypher-dungeon.json) |
