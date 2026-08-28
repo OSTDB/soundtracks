@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Kaboom Monsters | 33047 | [33047-kaboom-monsters.json](./33047-kaboom-monsters.json) |
+| Kaboomania | 413569 | [413569-kaboomania.json](./413569-kaboomania.json) |
 | Kami 2 | 26498 | [26498-kami-2.json](./26498-kami-2.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
