@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
+| Who Wants to Be an Ultimate? Retake | 399525 | [399525-who-wants-to-be-an-ultimate-retake.json](./399525-who-wants-to-be-an-ultimate-retake.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
 | Whodunit Sudoku | 414249 | [414249-whodunit-sudoku.json](./414249-whodunit-sudoku.json) |
 | Whys & Wonders Secrets of the Universe | 409499 | [409499-whys-and-wonders-secrets-of-the-universe.json](./409499-whys-and-wonders-secrets-of-the-universe.json) |
