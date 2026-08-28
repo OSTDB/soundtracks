@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeburg Legacies | 152260 | [152260-lakeburg-legacies.json](./152260-lakeburg-legacies.json) |
 | Lamp Eyes | 24579 | [24579-lamp-eyes.json](./24579-lamp-eyes.json) |
 | Lamplite | 412872 | [412872-lamplite.json](./412872-lamplite.json) |
+| Landmark Battle | 390431 | [390431-landmark-battle.json](./390431-landmark-battle.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
