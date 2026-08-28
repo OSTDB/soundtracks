@@ -280,8 +280,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunX | 392038 | [392038-gunx.json](./392038-gunx.json) |
 | Gurgamoth | 18593 | [18593-gurgamoth.json](./18593-gurgamoth.json) |
 | Guts and Glory | 26945 | [26945-guts-and-glory.json](./26945-guts-and-glory.json) |
+| Guud Dawg! | 367790 | [367790-guud-dawg.json](./367790-guud-dawg.json) |
 | GVD | 396771 | [396771-gvd.json](./396771-gvd.json) |
 | Gymnastics Salon - Makeup & Dressup Girls Game | 89534 | [89534-gymnastics-salon-makeup-and-dressup-girls-game.json](./89534-gymnastics-salon-makeup-and-dressup-girls-game.json) |
 | Gynophobia | 18592 | [18592-gynophobia.json](./18592-gynophobia.json) |
+| Gyra | 367804 | [367804-gyra.json](./367804-gyra.json) |
 | Gyro | 409462 | [409462-gyro.json](./409462-gyro.json) |
 | Gyromancer | 10385 | [10385-gyromancer.json](./10385-gyromancer.json) |
