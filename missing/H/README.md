@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
 | Hardtrace | 393348 | [393348-hardtrace.json](./393348-hardtrace.json) |
+| Harem of Ankhutep | 368873 | [368873-harem-of-ankhutep.json](./368873-harem-of-ankhutep.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
 | Harold Rabbit 3: The House of Mysteries | 406599 | [406599-harold-rabbit-3-the-house-of-mysteries.json](./406599-harold-rabbit-3-the-house-of-mysteries.json) |
