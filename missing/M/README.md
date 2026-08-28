@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
+| Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
 | Mara | 405424 | [405424-mara.json](./405424-mara.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
@@ -262,6 +263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkmaid of the Milky Way | 26732 | [26732-milkmaid-of-the-milky-way.json](./26732-milkmaid-of-the-milky-way.json) |
 | Milkshake | 407917 | [407917-milkshake.json](./407917-milkshake.json) |
 | Millennia | 267837 | [267837-millennia.json](./267837-millennia.json) |
+| Million Card Game | 377456 | [377456-million-card-game.json](./377456-million-card-game.json) |
+| Million Dream | 377455 | [377455-million-dream.json](./377455-million-dream.json) |
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Mimosa | 398866 | [398866-mimosa.json](./398866-mimosa.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
