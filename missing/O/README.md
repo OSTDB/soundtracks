@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Omnipresent | 34443 | [34443-omnipresent.json](./34443-omnipresent.json) |
+| Omori: Collector's Edition | 376346 | [376346-omori-collectors-edition.json](./376346-omori-collectors-edition.json) |
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
 | On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
 | On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
