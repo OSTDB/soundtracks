@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
 | You vs. Zombies | 397582 | [397582-you-vs-zombies.json](./397582-you-vs-zombies.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
+| You’re Here Again | 381470 | [381470-you-re-here-again.json](./381470-you-re-here-again.json) |
 | You're Invading My Space | 386018 | [386018-youre-invading-my-space.json](./386018-youre-invading-my-space.json) |
 | You're Nuts! | 398212 | [398212-youre-nuts.json](./398212-youre-nuts.json) |
 | Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
