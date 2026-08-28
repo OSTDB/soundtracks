@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Leaves the Field | 376304 | [376304-no-one-leaves-the-field.json](./376304-no-one-leaves-the-field.json) |
 | No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
 | No Such Luck | 393368 | [393368-no-such-luck.json](./393368-no-such-luck.json) |
+| No Tithe for Olaf | 366044 | [366044-no-tithe-for-olaf.json](./366044-no-tithe-for-olaf.json) |
 | No Witnesses | 410757 | [410757-no-witnesses.json](./410757-no-witnesses.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
