@@ -8,6 +8,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I am Crazy Gorilla | 401401 | [401401-i-am-crazy-gorilla.json](./401401-i-am-crazy-gorilla.json) |
+| I Am Sakuya FPS: Lunarian Invasion | 370493 | [370493-i-am-sakuya-fps-lunarian-invasion.json](./370493-i-am-sakuya-fps-lunarian-invasion.json) |
+| I am Stone | 370531 | [370531-i-am-stone.json](./370531-i-am-stone.json) |
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
 | I Commissioned Some Snails 5 | 378042 | [378042-i-commissioned-some-snails-5.json](./378042-i-commissioned-some-snails-5.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
@@ -42,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCraps | 87639 | [87639-icraps.json](./87639-icraps.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
 | Icy Gifts 2 | 401403 | [401403-icy-gifts-2.json](./401403-icy-gifts-2.json) |
+| Idle Commonwealth | 370504 | [370504-idle-commonwealth.json](./370504-idle-commonwealth.json) |
 | Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
@@ -139,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intueri | 378636 | [378636-intueri.json](./378636-intueri.json) |
 | Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
+| Invert | 370499 | [370499-invert.json](./370499-invert.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
 | Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
