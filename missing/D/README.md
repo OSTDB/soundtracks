@@ -50,6 +50,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls 2: Mad Warrior Edition | 381467 | [381467-dark-souls-2-mad-warrior-edition.json](./381467-dark-souls-2-mad-warrior-edition.json) |
 | Dark Souls II: Crown of the Ivory King | 20341 | [20341-dark-souls-ii-crown-of-the-ivory-king.json](./20341-dark-souls-ii-crown-of-the-ivory-king.json) |
 | Dark Stories Bundle | 373397 | [373397-dark-stories-bundle.json](./373397-dark-stories-bundle.json) |
+| Dark Times | 370503 | [370503-dark-times.json](./370503-dark-times.json) |
+| Dark War II | 370513 | [370513-dark-war-ii.json](./370513-dark-war-ii.json) |
 | Dark Watching Chapter 2 | 400107 | [400107-dark-watching-chapter-2.json](./400107-dark-watching-chapter-2.json) |
 | Darkarta: A Broken Heart's Quest Collector's Edition | 29344 | [29344-darkarta-a-broken-hearts-quest-collectors-edition.json](./29344-darkarta-a-broken-hearts-quest-collectors-edition.json) |
 | Darkman: Bounty Hunter | 408633 | [408633-darkman-bounty-hunter.json](./408633-darkman-bounty-hunter.json) |
@@ -336,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity II: Flames of Vengeance | 78635 | [78635-divinity-ii-flames-of-vengeance.json](./78635-divinity-ii-flames-of-vengeance.json) |
 | Divinity: Original Sin | 5082 | [5082-divinity-original-sin.json](./5082-divinity-original-sin.json) |
 | Dizzy Hearts | 89483 | [89483-dizzy-hearts.json](./89483-dizzy-hearts.json) |
+| Dizzys | 370538 | [370538-dizzys.json](./370538-dizzys.json) |
 | DJ Hero 2 | 2680 | [2680-dj-hero-2.json](./2680-dj-hero-2.json) |
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
