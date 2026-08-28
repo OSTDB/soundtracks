@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
 | Fate: The Cursed King | 15472 | [15472-fate-the-cursed-king.json](./15472-fate-the-cursed-king.json) |
+| Fate/Grand Order Lostbelt No. 7: Nahui Mictlān | 413519 | [413519-fate-grand-order-lostbelt-no-7-nahui-mictlan.json](./413519-fate-grand-order-lostbelt-no-7-nahui-mictlan.json) |
 | Fate/Samurai Remnant | 229919 | [229919-fate-samurai-remnant.json](./229919-fate-samurai-remnant.json) |
 | Fate/Stay Night Remastered | 284570 | [284570-fate-stay-night-remastered.json](./284570-fate-stay-night-remastered.json) |
 | Fatehaven | 31422 | [31422-fatehaven.json](./31422-fatehaven.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feminazi: The Triggering | 29670 | [29670-feminazi-the-triggering.json](./29670-feminazi-the-triggering.json) |
 | Férias frustradas do Pica-Pau | 8011 | [8011-ferias-frustradas-do-pica-pau.json](./8011-ferias-frustradas-do-pica-pau.json) |
 | Fermi's Path | 20958 | [20958-fermis-path.json](./20958-fermis-path.json) |
+| Fernkeep | 413556 | [413556-fernkeep.json](./413556-fernkeep.json) |
 | Fibble | 20827 | [20827-fibble.json](./20827-fibble.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
