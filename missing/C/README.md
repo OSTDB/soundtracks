@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Lumethis | 412175 | [412175-chronicles-of-lumethis.json](./412175-chronicles-of-lumethis.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
+| Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
 | Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
 | Cigkofte Empire | 411436 | [411436-cigkofte-empire.json](./411436-cigkofte-empire.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
+| Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
@@ -248,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Card Idle | 126739 | [126739-creature-card-idle.json](./126739-creature-card-idle.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
+| Creep Tank | 408652 | [408652-creep-tank.json](./408652-creep-tank.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
@@ -258,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
+| Crom | 408618 | [408618-crom.json](./408618-crom.json) |
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
@@ -278,9 +282,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube Soccer AR | 96079 | [96079-cube-soccer-ar.json](./96079-cube-soccer-ar.json) |
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
+| Cubic | 408693 | [408693-cubic.json](./408693-cubic.json) |
 | Cubor | 87583 | [87583-cubor.json](./87583-cubor.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
+| Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
