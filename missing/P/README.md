@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
 | Prism of You | 371716 | [371716-prism-of-you.json](./371716-prism-of-you.json) |
+| Prism Song | 362657 | [362657-prism-song.json](./362657-prism-song.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Programming Simulator | 369404 | [369404-programming-simulator.json](./369404-programming-simulator.json) |
 | Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
+| Project Agent | 362631 | [362631-project-agent.json](./362631-project-agent.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project Capture | 363232 | [363232-project-capture.json](./363232-project-capture.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
