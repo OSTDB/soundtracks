@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
 | BFDI Pop! | 402786 | [402786-bfdi-pop.json](./402786-bfdi-pop.json) |
+| Bibimba wo Mazesaseruna | 384959 | [384959-bibimba-wo-mazesaseruna.json](./384959-bibimba-wo-mazesaseruna.json) |
 | Bientôt l'été | 15421 | [15421-bientot-lete.json](./15421-bientot-lete.json) |
 | Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
 | Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
@@ -244,6 +245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
+| Bocchle | 384960 | [384960-bocchle.json](./384960-bocchle.json) |
+| Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
@@ -308,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
+| Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
