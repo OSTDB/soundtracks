@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anode | 34489 | [34489-anode.json](./34489-anode.json) |
 | Anodyne | 11092 | [11092-anodyne.json](./11092-anodyne.json) |
 | Anomaly Defenders | 8993 | [8993-anomaly-defenders.json](./8993-anomaly-defenders.json) |
+| Anomaly Protocol | 373933 | [373933-anomaly-protocol.json](./373933-anomaly-protocol.json) |
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
 | Ant War: Domination | 34395 | [34395-ant-war-domination.json](./34395-ant-war-domination.json) |
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Invader | 385499 | [385499-attack-invader.json](./385499-attack-invader.json) |
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
+| Attorney Investigations Online | 373952 | [373952-attorney-investigations-online.json](./373952-attorney-investigations-online.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
 | Aualé | 375649 | [375649-auale.json](./375649-auale.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
