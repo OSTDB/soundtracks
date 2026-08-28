@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmbound | 415002 | [415002-farmbound.json](./415002-farmbound.json) |
 | Farmer Fowl's Farmhouse | 375639 | [375639-farmer-fowls-farmhouse.json](./375639-farmer-fowls-farmhouse.json) |
 | Farmer Reborn | 378628 | [378628-farmer-reborn.json](./378628-farmer-reborn.json) |
+| Farming & Defense: Farmfence | 374998 | [374998-farming-and-defense-farmfence.json](./374998-farming-and-defense-farmfence.json) |
 | Farming Incremental But With Guns | 399536 | [399536-farming-incremental-but-with-guns.json](./399536-farming-incremental-but-with-guns.json) |
 | Farming Simulator 16 | 41026 | [41026-farming-simulator-16.json](./41026-farming-simulator-16.json) |
 | Farming Simulator 25: Beans & Alpacas Expansion | 410128 | [410128-farming-simulator-25-beans-and-alpacas-expansion.json](./410128-farming-simulator-25-beans-and-alpacas-expansion.json) |
@@ -331,4 +332,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Goddess | 382037 | [382037-futanari-goddess.json](./382037-futanari-goddess.json) |
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
+| Futurama: Hit & Run | 375009 | [375009-futurama-hit-and-run.json](./375009-futurama-hit-and-run.json) |
 | Fuuun Shaolin Kyo | 384978 | [384978-fuuun-shaolin-kyo.json](./384978-fuuun-shaolin-kyo.json) |
