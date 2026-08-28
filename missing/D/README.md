@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
+| De-Extinct: Jurassic Dinosaurs | 396829 | [396829-de-extinct-jurassic-dinosaurs.json](./396829-de-extinct-jurassic-dinosaurs.json) |
 | De-Limited | 403463 | [403463-de-limited.json](./403463-de-limited.json) |
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogurai | 82439 | [82439-dogurai.json](./82439-dogurai.json) |
 | Dokapon 3-2-1: Super Collection! | 410797 | [410797-dokapon-3-2-1-super-collection.json](./410797-dokapon-3-2-1-super-collection.json) |
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
+| DokiDoki Shutter Chance: Koi no Puzzle wo Kumitatete | 396773 | [396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json](./396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json) |
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
