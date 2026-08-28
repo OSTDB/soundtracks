@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farthest Frontier: Cats and Dogs | 400113 | [400113-farthest-frontier-cats-and-dogs.json](./400113-farthest-frontier-cats-and-dogs.json) |
 | Fascist | 406612 | [406612-fascist.json](./406612-fascist.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
+| Fast Food Master 2025 | 390968 | [390968-fast-food-master-2025.json](./390968-fast-food-master-2025.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fast Racing League | 14890 | [14890-fast-racing-league.json](./14890-fast-racing-league.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
