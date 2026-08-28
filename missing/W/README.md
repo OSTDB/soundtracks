@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 384353 | [384353-wake-up.json](./384353-wake-up.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Walk This Road, Again | 369980 | [369980-walk-this-road-again.json](./369980-walk-this-road-again.json) |
+| Walking Tank Warrior | 360967 | [360967-walking-tank-warrior.json](./360967-walking-tank-warrior.json) |
 | Wall-E | 390957 | [390957-wall-e.json](./390957-wall-e.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watcher's Eye | 371089 | [371089-watchers-eye.json](./371089-watchers-eye.json) |
 | Wave Leads You... | 379214 | [379214-wave-leads-you.json](./379214-wave-leads-you.json) |
 | Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
+| Wavekin | 360958 | [360958-wavekin.json](./360958-wavekin.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
 | Way of the Hunter: Bear Archery Pack | 376285 | [376285-way-of-the-hunter-bear-archery-pack.json](./376285-way-of-the-hunter-bear-archery-pack.json) |
 | Way of the Hunter: Christensen Arms Pack | 376287 | [376287-way-of-the-hunter-christensen-arms-pack.json](./376287-way-of-the-hunter-christensen-arms-pack.json) |
