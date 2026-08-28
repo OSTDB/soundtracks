@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
 | Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
+| Wraith of the Cards | 411433 | [411433-wraith-of-the-cards.json](./411433-wraith-of-the-cards.json) |
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
