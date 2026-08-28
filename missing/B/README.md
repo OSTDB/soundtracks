@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Blobbymite: Hero of Power | 379734 | [379734-blobbymite-hero-of-power.json](./379734-blobbymite-hero-of-power.json) |
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
+| Block Path | 366653 | [366653-block-path.json](./366653-block-path.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
 | Blockscape | 15404 | [15404-blockscape.json](./15404-blockscape.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchle | 384960 | [384960-bocchle.json](./384960-bocchle.json) |
 | Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
 | Bodacious Babes: Fantasy | 382060 | [382060-bodacious-babes-fantasy.json](./382060-bodacious-babes-fantasy.json) |
+| Bodycam Record Shooter | 366660 | [366660-bodycam-record-shooter.json](./366660-bodycam-record-shooter.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
@@ -324,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
 | BombPaws | 402811 | [402811-bombpaws.json](./402811-bombpaws.json) |
+| Bonaparte's Bluff | 366640 | [366640-bonapartes-bluff.json](./366640-bonapartes-bluff.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
 | Bongo Cat: God Pack | 402773 | [402773-bongo-cat-god-pack.json](./402773-bongo-cat-god-pack.json) |
 | Bonsai Barber | 20902 | [20902-bonsai-barber.json](./20902-bonsai-barber.json) |
