@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
 | Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
+| Throw a Life! | 392026 | [392026-throw-a-life.json](./392026-throw-a-life.json) |
 | Thumper: Pocket Edition | 86886 | [86886-thumper-pocket-edition.json](./86886-thumper-pocket-edition.json) |
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
@@ -397,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
 | Tiny Defense - Mini Robot Wars | 101682 | [101682-tiny-defense-mini-robot-wars.json](./101682-tiny-defense-mini-robot-wars.json) |
 | Tiny Flock | 413532 | [413532-tiny-flock.json](./413532-tiny-flock.json) |
+| Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
 | Tiny Toon Adventures: The Great Beanstalk | 8054 | [8054-tiny-toon-adventures-the-great-beanstalk.json](./8054-tiny-toon-adventures-the-great-beanstalk.json) |
@@ -470,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Suimusou: Immaterial and Missing Power | 27161 | [27161-touhou-suimusou-immaterial-and-missing-power.json](./27161-touhou-suimusou-immaterial-and-missing-power.json) |
+| Touhou: Divine Land -Majesty in Game- | 392052 | [392052-touhou-divine-land-majesty-in-game.json](./392052-touhou-divine-land-majesty-in-game.json) |
 | Touhou: Records of Wealth-Seeking | 410150 | [410150-touhou-records-of-wealth-seeking.json](./410150-touhou-records-of-wealth-seeking.json) |
 | Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
