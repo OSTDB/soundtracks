@@ -52,8 +52,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandcastle | 399476 | [399476-sandcastle.json](./399476-sandcastle.json) |
 | Sands and Relics | 405381 | [405381-sands-and-relics.json](./405381-sands-and-relics.json) |
 | Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
+| Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
 | Sarkeras: Artifact of the Ancestors | 398882 | [398882-sarkeras-artifact-of-the-ancestors.json](./398882-sarkeras-artifact-of-the-ancestors.json) |
+| SAS: Zombie Assault TD | 392630 | [392630-sas-zombie-assault-td.json](./392630-sas-zombie-assault-td.json) |
 | Satazius | 10812 | [10812-satazius.json](./10812-satazius.json) |
 | Satelital | 410782 | [410782-satelital.json](./410782-satelital.json) |
 | Satellite | 86612 | [86612-satellite.json](./86612-satellite.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
+| Slap Your Homies | 392639 | [392639-slap-your-homies.json](./392639-slap-your-homies.json) |
 | Slave Zero X | 210941 | [210941-slave-zero-x.json](./210941-slave-zero-x.json) |
 | Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
@@ -286,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
+| Sociable Soccer Champions | 392619 | [392619-sociable-soccer-champions.json](./392619-sociable-soccer-champions.json) |
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Socket | 393996 | [393996-socket.json](./393996-socket.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
@@ -297,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solid Void: Topsy Turvy World | 396116 | [396116-solid-void-topsy-turvy-world.json](./396116-solid-void-topsy-turvy-world.json) |
 | Solitaire - Cat Pirate Portrait | 44268 | [44268-solitaire-cat-pirate-portrait.json](./44268-solitaire-cat-pirate-portrait.json) |
+| Solitaire Crime Stories Chapter 4 | 392620 | [392620-solitaire-crime-stories-chapter-4.json](./392620-solitaire-crime-stories-chapter-4.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
@@ -512,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Strozowka | 404151 | [404151-strozowka.json](./404151-strozowka.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
+| Stunt Car Extreme Simulator | 392621 | [392621-stunt-car-extreme-simulator.json](./392621-stunt-car-extreme-simulator.json) |
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
 | Style Savvy | 85398 | [85398-style-savvy.json](./85398-style-savvy.json) |
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
