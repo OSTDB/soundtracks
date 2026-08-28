@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker Evolution | 1023 | [1023-hacker-evolution.json](./1023-hacker-evolution.json) |
 | Hackerman | 401398 | [401398-hackerman.json](./401398-hackerman.json) |
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
+| HackSociety | 388595 | [388595-hacksociety.json](./388595-hacksociety.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
 | Hairy Little Buggers | 34381 | [34381-hairy-little-buggers.json](./34381-hairy-little-buggers.json) |
 | Hajimari ha Owari to Tomo ni...: Beginning is the End... | 396806 | [396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json](./396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: Clash of the Ancients | 11524 | [11524-hegemony-iii-clash-of-the-ancients.json](./11524-hegemony-iii-clash-of-the-ancients.json) |
 | Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Helicopter Rescue Simulator | 411445 | [411445-helicopter-rescue-simulator.json](./411445-helicopter-rescue-simulator.json) |
+| Hell Architect: Survivors | 388568 | [388568-hell-architect-survivors.json](./388568-hell-architect-survivors.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Roulette | 412154 | [412154-hell-roulette.json](./412154-hell-roulette.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
+| Hexa Rhythm | 388590 | [388590-hexa-rhythm.json](./388590-hexa-rhythm.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
@@ -163,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong Ninja | 404107 | [404107-hong-kong-ninja.json](./404107-hong-kong-ninja.json) |
 | Honkai: Star Rail | 178282 | [178282-honkai-star-rail.json](./178282-honkai-star-rail.json) |
 | Honkai: Star Rail - Farewell, Penacony | 304993 | [304993-honkai-star-rail-farewell-penacony.json](./304993-honkai-star-rail-farewell-penacony.json) |
+| Honkai: Star Rail - No Aha At Full Moon | 388573 | [388573-honkai-star-rail-no-aha-at-full-moon.json](./388573-honkai-star-rail-no-aha-at-full-moon.json) |
 | Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Horde of Distraction | 390407 | [390407-horde-of-distraction.json](./390407-horde-of-distraction.json) |
