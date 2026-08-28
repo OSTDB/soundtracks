@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voronoy | 412162 | [412162-voronoy.json](./412162-voronoy.json) |
 | Vortex Attack | 24593 | [24593-vortex-attack.json](./24593-vortex-attack.json) |
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
+| Voxel Verse | 359230 | [359230-voxel-verse.json](./359230-voxel-verse.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
 | Voyage: Journey to the Moon | 9734 | [9734-voyage-journey-to-the-moon.json](./9734-voyage-journey-to-the-moon.json) |
 | VR Construction Lab | 389281 | [389281-vr-construction-lab.json](./389281-vr-construction-lab.json) |
