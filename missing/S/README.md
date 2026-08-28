@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See the Sky | 414972 | [414972-see-the-sky.json](./414972-see-the-sky.json) |
 | Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Seedwyr | 408677 | [408677-seedwyr.json](./408677-seedwyr.json) |
+| Seek and Seduce: Naomie | 382044 | [382044-seek-and-seduce-naomie.json](./382044-seek-and-seduce-naomie.json) |
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Mansion: The First Escape | 403505 | [403505-seventh-mansion-the-first-escape.json](./403505-seventh-mansion-the-first-escape.json) |
 | Severance: Blade of Darkness | 5623 | [5623-severance-blade-of-darkness.json](./5623-severance-blade-of-darkness.json) |
 | SeverSoul Xookeeper | 396097 | [396097-seversoul-xookeeper.json](./396097-seversoul-xookeeper.json) |
+| Sex on the beach | 382064 | [382064-sex-on-the-beach.json](./382064-sex-on-the-beach.json) |
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
@@ -339,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
 | Sociable Soccer Champions | 392619 | [392619-sociable-soccer-champions.json](./392619-sociable-soccer-champions.json) |
 | Social Caterpillar | 386616 | [386616-social-caterpillar.json](./386616-social-caterpillar.json) |
+| Social Clicker: Persona | 382050 | [382050-social-clicker-persona.json](./382050-social-clicker-persona.json) |
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Socket | 393996 | [393996-socket.json](./393996-socket.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
@@ -411,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilgrim Academy: Reunion | 115961 | [115961-space-pilgrim-academy-reunion.json](./115961-space-pilgrim-academy-reunion.json) |
 | Space Pilgrim Episode IV: Sol | 18175 | [18175-space-pilgrim-episode-iv-sol.json](./18175-space-pilgrim-episode-iv-sol.json) |
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
+| Space Sex Lab | 382027 | [382027-space-sex-lab.json](./382027-space-sex-lab.json) |
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
@@ -572,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
+| Streaming On! VTuber Training | 382024 | [382024-streaming-on-vtuber-training.json](./382024-streaming-on-vtuber-training.json) |
 | Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter 6: Year 4 - Arjun | 404718 | [404718-street-fighter-6-year-4-arjun.json](./404718-street-fighter-6-year-4-arjun.json) |
@@ -626,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
 | Summer Days in the Joyful Countryside | 383838 | [383838-summer-days-in-the-joyful-countryside.json](./383838-summer-days-in-the-joyful-countryside.json) |
+| Summer Passion | 382016 | [382016-summer-passion.json](./382016-summer-passion.json) |
 | Summer’s Heartbeat | 383218 | [383218-summer-s-heartbeat.json](./383218-summer-s-heartbeat.json) |
 | Summoner | 3103 | [3103-summoner.json](./3103-summoner.json) |
 | Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
@@ -721,8 +727,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
+| Sweet Bathhouse | 382058 | [382058-sweet-bathhouse.json](./382058-sweet-bathhouse.json) |
+| Sweet Diving | 382056 | [382056-sweet-diving.json](./382056-sweet-diving.json) |
 | Sweet Elf | 393363 | [393363-sweet-elf.json](./393363-sweet-elf.json) |
 | Sweet Escape VR | 32986 | [32986-sweet-escape-vr.json](./32986-sweet-escape-vr.json) |
+| Sweet Vampire | 382028 | [382028-sweet-vampire.json](./382028-sweet-vampire.json) |
 | Sweet Volley High | 31453 | [31453-sweet-volley-high.json](./31453-sweet-volley-high.json) |
 | Sweetie Candy Maze: Coral Peach | 412151 | [412151-sweetie-candy-maze-coral-peach.json](./412151-sweetie-candy-maze-coral-peach.json) |
 | Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
