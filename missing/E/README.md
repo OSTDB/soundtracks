@@ -23,6 +23,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
+| Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
+| Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
@@ -51,7 +53,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
+| Endless Summer Syndrome | 409434 | [409434-endless-summer-syndrome.json](./409434-endless-summer-syndrome.json) |
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
+| Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
 | Entropy Rising | 36134 | [36134-entropy-rising.json](./36134-entropy-rising.json) |
 | Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
