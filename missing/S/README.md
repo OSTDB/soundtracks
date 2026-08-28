@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| S.E.M.I.: Side Effects May Include... | 370528 | [370528-s-e-m-i-side-effects-may-include.json](./370528-s-e-m-i-side-effects-may-include.json) |
 | S.N.I.P.E.R.: Hunter Scope - Add-on Edition | 402184 | [402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json](./402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Core Edition | 394755 | [394755-s-n-i-p-e-r-hunter-scope-core-edition.json](./394755-s-n-i-p-e-r-hunter-scope-core-edition.json) |
 | S.P.E.C.T.O.R 01 | 393998 | [393998-s-p-e-c-t-o-r-01.json](./393998-s-p-e-c-t-o-r-01.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
+| Shiroi Hana ha Boku ni '' " wo Tsugete Iru | 370544 | [370544-shiroi-hana-ha-boku-ni-wo-tsugete-iru.json](./370544-shiroi-hana-ha-boku-ni-wo-tsugete-iru.json) |
 | Shiroi Kizuna | 386024 | [386024-shiroi-kizuna.json](./386024-shiroi-kizuna.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shmandala | 384384 | [384384-shmandala.json](./384384-shmandala.json) |
@@ -406,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbird Symphony | 76412 | [76412-songbird-symphony.json](./76412-songbird-symphony.json) |
 | Sonic & All-Stars Racing Transformed | 299190 | [299190-sonic-and-all-stars-racing-transformed.json](./299190-sonic-and-all-stars-racing-transformed.json) |
 | Sonic Advance 3 | 6599 | [6599-sonic-advance-3.json](./6599-sonic-advance-3.json) |
+| Sonic Before the Sequel '26 | 370535 | [370535-sonic-before-the-sequel-26.json](./370535-sonic-before-the-sequel-26.json) |
 | Sonic Blast Man II | 42459 | [42459-sonic-blast-man-ii.json](./42459-sonic-blast-man-ii.json) |
 | Sonic Chronicles: The Dark Brotherhood | 217 | [217-sonic-chronicles-the-dark-brotherhood.json](./217-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Drift 2 | 46358 | [46358-sonic-drift-2.json](./46358-sonic-drift-2.json) |
@@ -591,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Shift | 389864 | [389864-static-shift.json](./389864-static-shift.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
+| Stay Alive for Me | 370500 | [370500-stay-alive-for-me.json](./370500-stay-alive-for-me.json) |
 | Stealth Assault | 375618 | [375618-stealth-assault.json](./375618-stealth-assault.json) |
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steam to Electric | 400117 | [400117-steam-to-electric.json](./400117-steam-to-electric.json) |
@@ -681,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
 | Subway Simulator: Underground Train - Remaster | 402198 | [402198-subway-simulator-underground-train-remaster.json](./402198-subway-simulator-underground-train-remaster.json) |
+| Subzero Stealth | 370547 | [370547-subzero-stealth.json](./370547-subzero-stealth.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
@@ -714,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
+| Super Bowl | 370507 | [370507-super-bowl.json](./370507-super-bowl.json) |
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
 | Super Dimensional Creator | 376302 | [376302-super-dimensional-creator.json](./376302-super-dimensional-creator.json) |
 | Super Doot Sunshine | 387856 | [387856-super-doot-sunshine.json](./387856-super-doot-sunshine.json) |
@@ -775,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercar Evolution 2025 | 384981 | [384981-supercar-evolution-2025.json](./384981-supercar-evolution-2025.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
+| SuperLite 1500 Series: Battle Qix | 370501 | [370501-superlite-1500-series-battle-qix.json](./370501-superlite-1500-series-battle-qix.json) |
 | Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
