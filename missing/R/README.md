@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Record of Lodoss War: Haiiro no Majo | 387209 | [387209-record-of-lodoss-war-haiiro-no-majo.json](./387209-record-of-lodoss-war-haiiro-no-majo.json) |
 | Record of Lodoss War: Haiiro no Majo | 387205 | [387205-record-of-lodoss-war-haiiro-no-majo.json](./387205-record-of-lodoss-war-haiiro-no-majo.json) |
+| Recycle Quest | 384387 | [384387-recycle-quest.json](./384387-recycle-quest.json) |
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Carnation | 398860 | [398860-red-carnation.json](./398860-red-carnation.json) |
 | Red Earth | 39315 | [39315-red-earth.json](./39315-red-earth.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
+| Road To Place | 384375 | [384375-road-to-place.json](./384375-road-to-place.json) |
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
