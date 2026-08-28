@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guidelines: Hotel Napoli | 399473 | [399473-the-guidelines-hotel-napoli.json](./399473-the-guidelines-hotel-napoli.json) |
 | The Guild 2: Pirates of the European Seas | 9323 | [9323-the-guild-2-pirates-of-the-european-seas.json](./9323-the-guild-2-pirates-of-the-european-seas.json) |
 | The Guise | 123960 | [123960-the-guise.json](./123960-the-guise.json) |
+| The happiness of maggots | 386007 | [386007-the-happiness-of-maggots.json](./386007-the-happiness-of-maggots.json) |
 | The Hat Man | 406000 | [406000-the-hat-man.json](./406000-the-hat-man.json) |
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Team Pass 2 | 407254 | [407254-the-king-of-fighters-xv-team-pass-2.json](./407254-the-king-of-fighters-xv-team-pass-2.json) |
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
+| The Last Call | 385998 | [385998-the-last-call.json](./385998-the-last-call.json) |
 | The Last Camp: Dawn | 402203 | [402203-the-last-camp-dawn.json](./402203-the-last-camp-dawn.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
@@ -298,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Reason My Wife Has Gotten More Beautiful | 386026 | [386026-the-reason-my-wife-has-gotten-more-beautiful.json](./386026-the-reason-my-wife-has-gotten-more-beautiful.json) |
 | The Red Dowry | 396810 | [396810-the-red-dowry.json](./396810-the-red-dowry.json) |
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
@@ -492,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fuujinroku: Mountain of Faith | 27167 | [27167-touhou-fuujinroku-mountain-of-faith.json](./27167-touhou-fuujinroku-mountain-of-faith.json) |
 | Touhou Genso Wanderer | 26567 | [26567-touhou-genso-wanderer.json](./26567-touhou-genso-wanderer.json) |
 | Touhou Gishinreibyou | 406026 | [406026-touhou-gishinreibyou.json](./406026-touhou-gishinreibyou.json) |
+| Touhou Mistystory | 386019 | [386019-touhou-mistystory.json](./386019-touhou-mistystory.json) |
 | Touhou Mystia's Izakaya | 153963 | [153963-touhou-mystias-izakaya.json](./153963-touhou-mystias-izakaya.json) |
 | Touhou Shinkirou: Hopeless Masquerade | 27158 | [27158-touhou-shinkirou-hopeless-masquerade.json](./27158-touhou-shinkirou-hopeless-masquerade.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 27159 | [27159-touhou-shinpiroku-urban-legend-in-limbo.json](./27159-touhou-shinpiroku-urban-legend-in-limbo.json) |
