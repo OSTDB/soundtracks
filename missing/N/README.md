@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextWorld2 | 307930 | [307930-nextworld2.json](./307930-nextworld2.json) |
 | Nexuiz | 10595 | [10595-nexuiz.json](./10595-nexuiz.json) |
 | Nexvultus | 393359 | [393359-nexvultus.json](./393359-nexvultus.json) |
+| NFL Math | 378029 | [378029-nfl-math.json](./378029-nfl-math.json) |
 | NHL 13 | 2986 | [2986-nhl-13.json](./2986-nhl-13.json) |
 | NHL 19 | 103500 | [103500-nhl-19.json](./103500-nhl-19.json) |
 | NHL 24 | 261413 | [261413-nhl-24.json](./261413-nhl-24.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Nocan's Quest: Sex Gold Glory | 387866 | [387866-nocans-quest-sex-gold-glory.json](./387866-nocans-quest-sex-gold-glory.json) |
 | Nocternum | 396088 | [396088-nocternum.json](./396088-nocternum.json) |
+| Nocturnal Watch | 378021 | [378021-nocturnal-watch.json](./378021-nocturnal-watch.json) |
 | Nocturne Routes | 398202 | [398202-nocturne-routes.json](./398202-nocturne-routes.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
 | Node Zero | 410743 | [410743-node-zero.json](./410743-node-zero.json) |
