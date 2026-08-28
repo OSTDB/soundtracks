@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
+| Indian Mechanic Simulator | 374497 | [374497-indian-mechanic-simulator.json](./374497-indian-mechanic-simulator.json) |
 | Indiana Jones and His Desktop Adventures | 183 | [183-indiana-jones-and-his-desktop-adventures.json](./183-indiana-jones-and-his-desktop-adventures.json) |
 | Indiana Jones and the Infernal Machine | 188 | [188-indiana-jones-and-the-infernal-machine.json](./188-indiana-jones-and-the-infernal-machine.json) |
 | Indianapolis 500 Legends | 4933 | [4933-indianapolis-500-legends.json](./4933-indianapolis-500-legends.json) |
@@ -158,4 +159,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Inside Me | 378065 | [378065-its-inside-me.json](./378065-its-inside-me.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
+| It’s Quiz Time: Guinness World Records Edition | 374477 | [374477-it-s-quiz-time-guinness-world-records-edition.json](./374477-it-s-quiz-time-guinness-world-records-edition.json) |
 | Ithaca | 404735 | [404735-ithaca.json](./404735-ithaca.json) |
