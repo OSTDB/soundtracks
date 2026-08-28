@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Woody | 386610 | [386610-little-woody.json](./386610-little-woody.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
 | Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
+| Living With a Little Fox Girl | 374471 | [374471-living-with-a-little-fox-girl.json](./374471-living-with-a-little-fox-girl.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
 | Locktale | 384969 | [384969-locktale.json](./384969-locktale.json) |
