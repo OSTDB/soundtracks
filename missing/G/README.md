@@ -80,13 +80,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
 | Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
+| Glowbot Tower Defense | 406007 | [406007-glowbot-tower-defense.json](./406007-glowbot-tower-defense.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
+| Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
 | Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
 | Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
+| Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
