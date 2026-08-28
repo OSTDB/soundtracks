@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellAngel | 31421 | [31421-hellangel.json](./31421-hellangel.json) |
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Helldivers 2: Machinery of Oppression | 389320 | [389320-helldivers-2-machinery-of-oppression.json](./389320-helldivers-2-machinery-of-oppression.json) |
+| Hellversus | 382643 | [382643-hellversus.json](./382643-hellversus.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
 | Help Me Hide the Body | 384929 | [384929-help-me-hide-the-body.json](./384929-help-me-hide-the-body.json) |
 | Help Santa In Christmas Xmas Game | 384404 | [384404-help-santa-in-christmas-xmas-game.json](./384404-help-santa-in-christmas-xmas-game.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Shall We Die | 405992 | [405992-how-shall-we-die.json](./405992-how-shall-we-die.json) |
 | How Smart Are You? IQ Test | 389295 | [389295-how-smart-are-you-iq-test.json](./389295-how-smart-are-you-iq-test.json) |
 | How to Sing to Open Your Heart | 109690 | [109690-how-to-sing-to-open-your-heart.json](./109690-how-to-sing-to-open-your-heart.json) |
+| How to Train Your Dragon: Riders of the Skies | 382619 | [382619-how-to-train-your-dragon-riders-of-the-skies.json](./382619-how-to-train-your-dragon-riders-of-the-skies.json) |
 | Hoyle Casino Collection 2 | 89351 | [89351-hoyle-casino-collection-2.json](./89351-hoyle-casino-collection-2.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
@@ -229,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
 | Hungerwinter | 398247 | [398247-hungerwinter.json](./398247-hungerwinter.json) |
+| Hungry Hungry Hippos: Move N’ Munch | 382611 | [382611-hungry-hungry-hippos-move-n-munch.json](./382611-hungry-hungry-hippos-move-n-munch.json) |
 | Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
