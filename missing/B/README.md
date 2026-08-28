@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
+| Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
@@ -300,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
+| Bring A Knife To A Gun Fight | 387228 | [387228-bring-a-knife-to-a-gun-fight.json](./387228-bring-a-knife-to-a-gun-fight.json) |
 | Brinko | 414253 | [414253-brinko.json](./414253-brinko.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
 | Broken Sword: The Angel of Death | 353933 | [353933-broken-sword-the-angel-of-death.json](./353933-broken-sword-the-angel-of-death.json) |
