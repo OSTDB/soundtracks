@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
+| Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
 | Gaia Beyond | 86418 | [86418-gaia-beyond.json](./86418-gaia-beyond.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
