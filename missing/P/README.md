@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
 | Path of Exile: Mercenaries of Trarthus | 370542 | [370542-path-of-exile-mercenaries-of-trarthus.json](./370542-path-of-exile-mercenaries-of-trarthus.json) |
 | Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
+| Path of the Ninja Bundle | 365525 | [365525-path-of-the-ninja-bundle.json](./365525-path-of-the-ninja-bundle.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Paw Pop Fish | 374480 | [374480-paw-pop-fish.json](./374480-paw-pop-fish.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinfall | 391465 | [391465-pinfall.json](./391465-pinfall.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
 | Pǐnuòcáo de Fùsū | 379763 | [379763-pinuocao-de-fusu.json](./379763-pinuocao-de-fusu.json) |
+| Pionero Capital | 365498 | [365498-pionero-capital.json](./365498-pionero-capital.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
 | Pippin Please | 398245 | [398245-pippin-please.json](./398245-pippin-please.json) |
 | Pirate Havoc | 401423 | [401423-pirate-havoc.json](./401423-pirate-havoc.json) |
@@ -385,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provinces | 414998 | [414998-provinces.json](./414998-provinces.json) |
 | Proxy Project Ouroboros | 366076 | [366076-proxy-project-ouroboros.json](./366076-proxy-project-ouroboros.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
+| PsiFrost | 365497 | [365497-psifrost.json](./365497-psifrost.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
 | PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
@@ -420,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Piecer: The Joys of Spring | 405378 | [405378-puzzle-piecer-the-joys-of-spring.json](./405378-puzzle-piecer-the-joys-of-spring.json) |
 | Puzzle Playing Cards | 384377 | [384377-puzzle-playing-cards.json](./384377-puzzle-playing-cards.json) |
+| Puzzle Quest: Immortal Edition | 365495 | [365495-puzzle-quest-immortal-edition.json](./365495-puzzle-quest-immortal-edition.json) |
 | Puzzle Swap | 230571 | [230571-puzzle-swap.json](./230571-puzzle-swap.json) |
 | Puzzler World | 16026 | [16026-puzzler-world.json](./16026-puzzler-world.json) |
 | Puzzling Places: Monthly Pack #38 - Fall & Fright | 379764 | [379764-puzzling-places-monthly-pack-38-fall-and-fright.json](./379764-puzzling-places-monthly-pack-38-fall-and-fright.json) |
