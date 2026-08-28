@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Painful - Definitive Edition | 252188 | [252188-lisa-the-painful-definitive-edition.json](./252188-lisa-the-painful-definitive-edition.json) |
 | Little Bettas | 414991 | [414991-little-bettas.json](./414991-little-bettas.json) |
 | Little Blue Wings for the Blue Girl | 395430 | [395430-little-blue-wings-for-the-blue-girl.json](./395430-little-blue-wings-for-the-blue-girl.json) |
+| Little Fishing Trip | 383810 | [383810-little-fishing-trip.json](./383810-little-fishing-trip.json) |
 | Little Immortal Cultivator | 391477 | [391477-little-immortal-cultivator.json](./391477-little-immortal-cultivator.json) |
 | Little Mouse's Encyclopedia | 114498 | [114498-little-mouses-encyclopedia.json](./114498-little-mouses-encyclopedia.json) |
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Tide | 384934 | [384934-lunar-tide.json](./384934-lunar-tide.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
+| Lure Of Passion | 383798 | [383798-lure-of-passion.json](./383798-lure-of-passion.json) |
 | Lured In | 395423 | [395423-lured-in.json](./395423-lured-in.json) |
 | Lust Anime: Egyptian Goddess Cleopatra | 404723 | [404723-lust-anime-egyptian-goddess-cleopatra.json](./404723-lust-anime-egyptian-goddess-cleopatra.json) |
 | Lustquake Legion | 400116 | [400116-lustquake-legion.json](./400116-lustquake-legion.json) |
