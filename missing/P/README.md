@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
 | Pictonico! | 402158 | [402158-pictonico.json](./402158-pictonico.json) |
+| Pieces of the Abyss: Succubus | 382054 | [382054-pieces-of-the-abyss-succubus.json](./382054-pieces-of-the-abyss-succubus.json) |
 | Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pig in Hell | 393307 | [393307-pig-in-hell.json](./393307-pig-in-hell.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison of the Five Crevices | 391515 | [391515-poison-of-the-five-crevices.json](./391515-poison-of-the-five-crevices.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
 | Pokémon Legends: Z-A | 288327 | [288327-pokemon-legends-z-a.json](./288327-pokemon-legends-z-a.json) |
+| Pokémon Relict | 382011 | [382011-pokemon-relict.json](./382011-pokemon-relict.json) |
 | Pokémon Rumble | 4562 | [4562-pokemon-rumble.json](./4562-pokemon-rumble.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239931 | [239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Snap | 2324 | [2324-pokemon-snap.json](./2324-pokemon-snap.json) |
@@ -345,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Ascent | 388633 | [388633-purrfect-ascent.json](./388633-purrfect-ascent.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
 | Puss in Box | 402821 | [402821-puss-in-box.json](./402821-puss-in-box.json) |
+| Pussy Clicker | 382040 | [382040-pussy-clicker.json](./382040-pussy-clicker.json) |
 | Putin 20!8 | 86541 | [86541-putin-20-8.json](./86541-putin-20-8.json) |
 | Putin vs. Isis | 95175 | [95175-putin-vs-isis.json](./95175-putin-vs-isis.json) |
 | Putt-Putt Joins the Parade | 3733 | [3733-putt-putt-joins-the-parade.json](./3733-putt-putt-joins-the-parade.json) |
