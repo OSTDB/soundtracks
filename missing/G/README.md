@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Gnome Golf | 385462 | [385462-grass-gnome-golf.json](./385462-grass-gnome-golf.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
 | Grasscat Cafe | 396038 | [396038-grasscat-cafe.json](./396038-grasscat-cafe.json) |
+| Grassland Cleaning Worker | 372319 | [372319-grassland-cleaning-worker.json](./372319-grassland-cleaning-worker.json) |
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Grave New World | 412860 | [412860-grave-new-world.json](./412860-grave-new-world.json) |
 | Grave Whisperers | 374482 | [374482-grave-whisperers.json](./374482-grave-whisperers.json) |
