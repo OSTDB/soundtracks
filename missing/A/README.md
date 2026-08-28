@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquacade | 363219 | [363219-aquacade.json](./363219-aquacade.json) |
+| Aquaduto | 359847 | [359847-aquaduto.json](./359847-aquaduto.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
