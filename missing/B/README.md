@@ -303,5 +303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
+| Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
 | Bytepath | 86519 | [86519-bytepath.json](./86519-bytepath.json) |
