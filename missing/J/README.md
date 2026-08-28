@@ -33,7 +33,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeep Horror | 414191 | [414191-jeep-horror.json](./414191-jeep-horror.json) |
 | Jeffrey Eggstein | 407920 | [407920-jeffrey-eggstein.json](./407920-jeffrey-eggstein.json) |
 | Jelly Float | 412877 | [412877-jelly-float.json](./412877-jelly-float.json) |
+| Jelly Math | 401405 | [401405-jelly-math.json](./401405-jelly-math.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
+| Jesus: The Journey | 401406 | [401406-jesus-the-journey.json](./401406-jesus-the-journey.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
 | Jet Grind Radio | 1569 | [1569-jet-grind-radio.json](./1569-jet-grind-radio.json) |
 | Jet Lancer | 113836 | [113836-jet-lancer.json](./113836-jet-lancer.json) |
