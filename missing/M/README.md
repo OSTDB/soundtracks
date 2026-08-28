@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
 | Marbly | 20913 | [20913-marbly.json](./20913-marbly.json) |
 | March of the Red Queen | 414206 | [414206-march-of-the-red-queen.json](./414206-march-of-the-red-queen.json) |
+| Marine.exe: Desktop RPG | 400803 | [400803-marine-exe-desktop-rpg.json](./400803-marine-exe-desktop-rpg.json) |
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Micro Race R2 | 401412 | [401412-micro-race-r2.json](./401412-micro-race-r2.json) |
 | Micronova | 404157 | [404157-micronova.json](./404157-micronova.json) |
+| Microsoft Jewel | 400773 | [400773-microsoft-jewel.json](./400773-microsoft-jewel.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
 | Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
@@ -212,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
+| Minos Initiative: 2112 | 400806 | [400806-minos-initiative-2112.json](./400806-minos-initiative-2112.json) |
 | Minos Strategos | 29838 | [29838-minos-strategos.json](./29838-minos-strategos.json) |
 | MinosMaze - The Minotaur's Labyrinth | 31511 | [31511-minosmaze-the-minotaurs-labyrinth.json](./31511-minosmaze-the-minotaurs-labyrinth.json) |
 | Minty Abyss | 412874 | [412874-minty-abyss.json](./412874-minty-abyss.json) |
@@ -319,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
+| Mushboom | 400802 | [400802-mushboom.json](./400802-mushboom.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Music Inside: A VR Rhythm Game | 31496 | [31496-music-inside-a-vr-rhythm-game.json](./31496-music-inside-a-vr-rhythm-game.json) |
