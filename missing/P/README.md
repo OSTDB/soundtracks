@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
 | Painkiller: Hell & Damnation - The Clock Strikes Meat Night | 20849 | [20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json](./20849-painkiller-hell-and-damnation-the-clock-strikes-meat-night.json) |
 | Paint it Back | 16311 | [16311-paint-it-back.json](./16311-paint-it-back.json) |
+| Paint Path | 372289 | [372289-paint-path.json](./372289-paint-path.json) |
 | Pair-A-Dice | 374492 | [374492-pair-a-dice.json](./374492-pair-a-dice.json) |
 | Pajama Sam In: No Need to Hide When It's Dark Outside | 3730 | [3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json](./3730-pajama-sam-in-no-need-to-hide-when-its-dark-outside.json) |
 | Paladin | 15333 | [15333-paladin.json](./15333-paladin.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | PolyGunner | 384372 | [384372-polygunner.json](./384372-polygunner.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
+| Pond Guardian | 372309 | [372309-pond-guardian.json](./372309-pond-guardian.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
 | Pone | 375026 | [375026-pone.json](./375026-pone.json) |
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
