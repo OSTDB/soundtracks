@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Bands | 4709 | [4709-battle-of-the-bands.json](./4709-battle-of-the-bands.json) |
 | Battle Realms: Winter of the Wolf | 11104 | [11104-battle-realms-winter-of-the-wolf.json](./11104-battle-realms-winter-of-the-wolf.json) |
 | Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
+| Battle Simulator: Counter Terrorist | 404762 | [404762-battle-simulator-counter-terrorist.json](./404762-battle-simulator-counter-terrorist.json) |
 | BattleBit Remastered | 50531 | [50531-battlebit-remastered.json](./50531-battlebit-remastered.json) |
 | Battleborn | 7687 | [7687-battleborn.json](./7687-battleborn.json) |
 | Battlefield 2: Euro Force | 3813 | [3813-battlefield-2-euro-force.json](./3813-battlefield-2-euro-force.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
 | BattleLore: Command | 35779 | [35779-battlelore-command.json](./35779-battlelore-command.json) |
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
+| Battlot | 404708 | [404708-battlot.json](./404708-battlot.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Blocks | 34483 | [34483-bleeding-blocks.json](./34483-bleeding-blocks.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
+| Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
@@ -255,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
+| Bub | 404731 | [404731-bub.json](./404731-bub.json) |
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
