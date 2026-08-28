@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon: Battle Spirit 2 | 6375 | [6375-digimon-battle-spirit-2.json](./6375-digimon-battle-spirit-2.json) |
 | Digital Devil Story: Megami Tensei | 5081 | [5081-digital-devil-story-megami-tensei.json](./5081-digital-devil-story-megami-tensei.json) |
 | Diluvion | 26743 | [26743-diluvion.json](./26743-diluvion.json) |
+| Dimension Totsu Lovers!! | 382042 | [382042-dimension-totsu-lovers.json](./382042-dimension-totsu-lovers.json) |
 | Diner Bros Inc | 166155 | [166155-diner-bros-inc.json](./166155-diner-bros-inc.json) |
 | Diner Dash | 6377 | [6377-diner-dash.json](./6377-diner-dash.json) |
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
 | Dreams Far Away | 397540 | [397540-dreams-far-away.json](./397540-dreams-far-away.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
+| Dreams of Saturn 3.0 | 382012 | [382012-dreams-of-saturn-3-0.json](./382012-dreams-of-saturn-3-0.json) |
 | Dreamy Golden Snow | 391509 | [391509-dreamy-golden-snow.json](./391509-dreamy-golden-snow.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
