@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCL: The Game | 113797 | [113797-dcl-the-game.json](./113797-dcl-the-game.json) |
 | DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | De Mambo | 18358 | [18358-de-mambo.json](./18358-de-mambo.json) |
+| De-Limited | 403463 | [403463-de-limited.json](./403463-de-limited.json) |
 | De'Vine: Card Game | 115799 | [115799-devine-card-game.json](./115799-devine-card-game.json) |
 | Dead Age | 24765 | [24765-dead-age.json](./24765-dead-age.json) |
 | Dead by Daylight: Jason | 407237 | [407237-dead-by-daylight-jason.json](./407237-dead-by-daylight-jason.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
+| Deadly Shaft | 403489 | [403489-deadly-shaft.json](./403489-deadly-shaft.json) |
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
 | Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
