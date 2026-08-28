@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Yori Aoi Umi no Hate | 409427 | [409427-ai-yori-aoi-umi-no-hate.json](./409427-ai-yori-aoi-umi-no-hate.json) |
 | AIdol | 96115 | [96115-aidol.json](./96115-aidol.json) |
 | Air Buster | 5353 | [5353-air-buster.json](./5353-air-buster.json) |
+| Air Challenge | 371725 | [371725-air-challenge.json](./371725-air-challenge.json) |
 | Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
