@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | B.O.B.Y's Journey | 407241 | [407241-b-o-b-ys-journey.json](./407241-b-o-b-ys-journey.json) |
 | B.O.D.E. | 375006 | [375006-b-o-d-e.json](./375006-b-o-d-e.json) |
+| Bà Shì Kuáng Dāo | 368853 | [368853-ba-shi-kuang-dao.json](./368853-ba-shi-kuang-dao.json) |
 | Baba Is You | 76638 | [76638-baba-is-you.json](./76638-baba-is-you.json) |
 | Babel Rising | 10017 | [10017-babel-rising.json](./10017-babel-rising.json) |
 | Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamdmi | 393331 | [393331-bamdmi.json](./393331-bamdmi.json) |
 | Bamorota Defense | 374500 | [374500-bamorota-defense.json](./374500-bamorota-defense.json) |
 | Banana Airways | 412140 | [412140-banana-airways.json](./412140-banana-airways.json) |
+| Banana Clicker | 368881 | [368881-banana-clicker.json](./368881-banana-clicker.json) |
 | Bananya Buddies | 412825 | [412825-bananya-buddies.json](./412825-bananya-buddies.json) |
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandle Tale: A League of Legends Story | 266687 | [266687-bandle-tale-a-league-of-legends-story.json](./266687-bandle-tale-a-league-of-legends-story.json) |
@@ -133,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
+| Beautiful Life Show | 368833 | [368833-beautiful-life-show.json](./368833-beautiful-life-show.json) |
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
 | Beauty Store Simulator | 374490 | [374490-beauty-store-simulator.json](./374490-beauty-store-simulator.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
@@ -255,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Box Shop Simulator | 386034 | [386034-blind-box-shop-simulator.json](./386034-blind-box-shop-simulator.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blind Memory | 369972 | [369972-blind-memory.json](./369972-blind-memory.json) |
+| Blind No.8 Chick Shoot | 368861 | [368861-blind-no-8-chick-shoot.json](./368861-blind-no-8-chick-shoot.json) |
 | Blinded I | 402204 | [402204-blinded-i.json](./402204-blinded-i.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
@@ -396,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Gun | 391513 | [391513-bubble-gun.json](./391513-bubble-gun.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
 | Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
+| Bubble Shot | 368878 | [368878-bubble-shot.json](./368878-bubble-shot.json) |
 | Bubble Smasher | 397516 | [397516-bubble-smasher.json](./397516-bubble-smasher.json) |
 | Bubble Sweeper | 384376 | [384376-bubble-sweeper.json](./384376-bubble-sweeper.json) |
 | Bubble Tea Sort | 376334 | [376334-bubble-tea-sort.json](./376334-bubble-tea-sort.json) |
@@ -417,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bumblebee: Spooky Nights | 373383 | [373383-bumblebee-spooky-nights.json](./373383-bumblebee-spooky-nights.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bumper Balls | 368870 | [368870-bumper-balls.json](./368870-bumper-balls.json) |
 | Bumpers & Dragons | 387884 | [387884-bumpers-and-dragons.json](./387884-bumpers-and-dragons.json) |
 | Bumshak | 398859 | [398859-bumshak.json](./398859-bumshak.json) |
 | Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
@@ -440,4 +446,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
 | Bye-Bye, Watashi no Hajimete no Koi | 370532 | [370532-bye-bye-watashi-no-hajimete-no-koi.json](./370532-bye-bye-watashi-no-hajimete-no-koi.json) |
+| Bygone Snow | 368842 | [368842-bygone-snow.json](./368842-bygone-snow.json) |
 | Bytepath | 86519 | [86519-bytepath.json](./86519-bytepath.json) |
