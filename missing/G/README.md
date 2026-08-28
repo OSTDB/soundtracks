@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glide | 379224 | [379224-glide.json](./379224-glide.json) |
 | Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
+| Glitch & Glory: Tales of Honeywood | 364941 | [364941-glitch-and-glory-tales-of-honeywood.json](./364941-glitch-and-glory-tales-of-honeywood.json) |
 | Glitch Core | 369426 | [369426-glitch-core.json](./369426-glitch-core.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guard of Wonderland | 109756 | [109756-guard-of-wonderland.json](./109756-guard-of-wonderland.json) |
 | Guardians of Dreamstate | 414965 | [414965-guardians-of-dreamstate.json](./414965-guardians-of-dreamstate.json) |
 | Guardians of the Galaxy: The Universal Weapon | 20944 | [20944-guardians-of-the-galaxy-the-universal-weapon.json](./20944-guardians-of-the-galaxy-the-universal-weapon.json) |
+| Guess The Movie.Name | 364886 | [364886-guess-the-movie-name.json](./364886-guess-the-movie-name.json) |
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
 | Guillotine | 410108 | [410108-guillotine.json](./410108-guillotine.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
