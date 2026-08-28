@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Fren | 379735 | [379735-chicken-fren.json](./379735-chicken-fren.json) |
+| Chicken Herding | 360929 | [360929-chicken-herding.json](./360929-chicken-herding.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | ChickOut! | 364329 | [364329-chickout.json](./364329-chickout.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire 3: New Horizons | 382627 | [382627-cosmo-solitaire-3-new-horizons.json](./382627-cosmo-solitaire-3-new-horizons.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
+| Cosmolon | 360947 | [360947-cosmolon.json](./360947-cosmolon.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmos Point | 374493 | [374493-cosmos-point.json](./374493-cosmos-point.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
