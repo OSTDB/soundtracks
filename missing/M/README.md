@@ -66,6 +66,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
+| Mario Kart 8: Mercedez-Benz X Mario Kart 8 | 399503 | [399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json](./399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json) |
+| Mario Kart 8: Update 4.0 | 399501 | [399501-mario-kart-8-update-4-0.json](./399501-mario-kart-8-update-4-0.json) |
 | Mario Kart Arcade GP 2 | 39342 | [39342-mario-kart-arcade-gp-2.json](./39342-mario-kart-arcade-gp-2.json) |
 | Mario Party 8 | 2193 | [2193-mario-party-8.json](./2193-mario-party-8.json) |
 | Mario Party Advance | 2337 | [2337-mario-party-advance.json](./2337-mario-party-advance.json) |
@@ -155,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memeology Club | 414968 | [414968-memeology-club.json](./414968-memeology-club.json) |
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
 | Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
+| Menhera Maiden | 399530 | [399530-menhera-maiden.json](./399530-menhera-maiden.json) |
 | Mensa Academy | 20840 | [20840-mensa-academy.json](./20840-mensa-academy.json) |
 | Mental Asylum VR | 29792 | [29792-mental-asylum-vr.json](./29792-mental-asylum-vr.json) |
 | Mental Haze | 411441 | [411441-mental-haze.json](./411441-mental-haze.json) |
