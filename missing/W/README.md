@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted G-Man | 385493 | [385493-wanted-g-man.json](./385493-wanted-g-man.json) |
 | Wanted Killer VR | 96158 | [96158-wanted-killer-vr.json](./96158-wanted-killer-vr.json) |
 | War | 383254 | [383254-war.json](./383254-war.json) |
+| War Beans | 372847 | [372847-war-beans.json](./372847-war-beans.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
 | War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
@@ -146,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
 | Will Rock | 23717 | [23717-will-rock.json](./23717-will-rock.json) |
 | Willow | 74394 | [74394-willow.json](./74394-willow.json) |
+| Willow's Paper House | 372848 | [372848-willows-paper-house.json](./372848-willows-paper-house.json) |
 | Willowbrooke Post | 110116 | [110116-willowbrooke-post.json](./110116-willowbrooke-post.json) |
 | Win the Game: WTF! | 102200 | [102200-win-the-game-wtf.json](./102200-win-the-game-wtf.json) |
 | WinBolo | 410147 | [410147-winbolo.json](./410147-winbolo.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
+| Word Quest Pirates | 372887 | [372887-word-quest-pirates.json](./372887-word-quest-pirates.json) |
 | Word Search By Jgabrib | 401435 | [401435-word-search-by-jgabrib.json](./401435-word-search-by-jgabrib.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
