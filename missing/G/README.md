@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get That Box, Girl! | 404757 | [404757-get-that-box-girl.json](./404757-get-that-box-girl.json) |
 | Get to Work, Gnomes! Christmas Factory | 399472 | [399472-get-to-work-gnomes-christmas-factory.json](./399472-get-to-work-gnomes-christmas-factory.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
+| GGM | 383850 | [383850-ggm.json](./383850-ggm.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
