@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Theme Park Craft: Water Slide Fun Park Games | 101943 | [101943-girls-theme-park-craft-water-slide-fun-park-games.json](./101943-girls-theme-park-craft-water-slide-fun-park-games.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
+| Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
+| Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
