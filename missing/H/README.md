@@ -92,6 +92,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Rescue Simulator | 411445 | [411445-helicopter-rescue-simulator.json](./411445-helicopter-rescue-simulator.json) |
 | Hell Architect: Survivors | 388568 | [388568-hell-architect-survivors.json](./388568-hell-architect-survivors.json) |
 | Hell is Other Demons | 56062 | [56062-hell-is-other-demons.json](./56062-hell-is-other-demons.json) |
+| Hell Let Loose: Fallschirmjäger Airborne Veterans | 379742 | [379742-hell-let-loose-fallschirmjager-airborne-veterans.json](./379742-hell-let-loose-fallschirmjager-airborne-veterans.json) |
+| Hell Let Loose: Operation Suvorov Units | 379744 | [379744-hell-let-loose-operation-suvorov-units.json](./379744-hell-let-loose-operation-suvorov-units.json) |
+| Hell Let Loose: Soviet and British 8th Army Armor Pack | 379743 | [379743-hell-let-loose-soviet-and-british-8th-army-armor-pack.json](./379743-hell-let-loose-soviet-and-british-8th-army-armor-pack.json) |
+| Hell Let Loose: Veteran - Smolensk Offensive | 379745 | [379745-hell-let-loose-veteran-smolensk-offensive.json](./379745-hell-let-loose-veteran-smolensk-offensive.json) |
 | Hell Quest | 44145 | [44145-hell-quest.json](./44145-hell-quest.json) |
 | Hell Roulette | 412154 | [412154-hell-roulette.json](./412154-hell-roulette.json) |
 | Hell Shooter | 109814 | [109814-hell-shooter.json](./109814-hell-shooter.json) |
@@ -113,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
 | Hentai Dice Sudoku | 382033 | [382033-hentai-dice-sudoku.json](./382033-hentai-dice-sudoku.json) |
 | Hentai Elarin | 382022 | [382022-hentai-elarin.json](./382022-hentai-elarin.json) |
+| Hentai Gallery: Sweet Dreams | 379770 | [379770-hentai-gallery-sweet-dreams.json](./379770-hentai-gallery-sweet-dreams.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Merge Dice | 382029 | [382029-hentai-merge-dice.json](./382029-hentai-merge-dice.json) |
@@ -222,8 +227,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Tennis | 21537 | [21537-hot-shots-tennis.json](./21537-hot-shots-tennis.json) |
 | Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
+| Hotel Espir | 379738 | [379738-hotel-espir.json](./379738-hotel-espir.json) |
 | Hotel Manager 2026 | 396107 | [396107-hotel-manager-2026.json](./396107-hotel-manager-2026.json) |
 | Hotel Renovator Simulator | 396106 | [396106-hotel-renovator-simulator.json](./396106-hotel-renovator-simulator.json) |
+| Hotwing Hellions | 379746 | [379746-hotwing-hellions.json](./379746-hotwing-hellions.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
 | House Haunters | 390964 | [390964-house-haunters.json](./390964-house-haunters.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
