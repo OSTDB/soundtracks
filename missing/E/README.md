@@ -18,12 +18,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
 | Echoes of Meda | 397584 | [397584-echoes-of-meda.json](./397584-echoes-of-meda.json) |
+| Echoes of Myth | 392066 | [392066-echoes-of-myth.json](./392066-echoes-of-myth.json) |
 | Echoes of the Plum Grove | 235861 | [235861-echoes-of-the-plum-grove.json](./235861-echoes-of-the-plum-grove.json) |
 | Eclipse | 405988 | [405988-eclipse.json](./405988-eclipse.json) |
 | Eco Fighters | 39358 | [39358-eco-fighters.json](./39358-eco-fighters.json) |
 | EcoQuest: The Search for Cetus | 7693 | [7693-ecoquest-the-search-for-cetus.json](./7693-ecoquest-the-search-for-cetus.json) |
 | Edd Skeleton VR | 406597 | [406597-edd-skeleton-vr.json](./406597-edd-skeleton-vr.json) |
 | Eden Coil | 411448 | [411448-eden-coil.json](./411448-eden-coil.json) |
+| Eden: Garden of the Faultless | 392027 | [392027-eden-garden-of-the-faultless.json](./392027-eden-garden-of-the-faultless.json) |
 | Eden: World Builder | 89535 | [89535-eden-world-builder.json](./89535-eden-world-builder.json) |
 | EEP 18 | 403491 | [403491-eep-18.json](./403491-eep-18.json) |
 | eFootball PES 2020 | 119422 | [119422-efootball-pes-2020.json](./119422-efootball-pes-2020.json) |
@@ -53,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
+| Elton Manor: Requiem of the Cursed Roses | 392030 | [392030-elton-manor-requiem-of-the-cursed-roses.json](./392030-elton-manor-requiem-of-the-cursed-roses.json) |
 | Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Ember Express | 406593 | [406593-ember-express.json](./406593-ember-express.json) |
@@ -121,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evenfall | 394731 | [394731-evenfall.json](./394731-evenfall.json) |
+| EverCastle | 392064 | [392064-evercastle.json](./392064-evercastle.json) |
 | Everfall | 393364 | [393364-everfall.json](./393364-everfall.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
