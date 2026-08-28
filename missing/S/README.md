@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
+| Shapeless | 384983 | [384983-shapeless.json](./384983-shapeless.json) |
 | Shapevasion | 404127 | [404127-shapevasion.json](./404127-shapevasion.json) |
 | Shards of Infinity | 116048 | [116048-shards-of-infinity.json](./116048-shards-of-infinity.json) |
 | Shatter | 405413 | [405413-shatter.json](./405413-shatter.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
 | Ski Park Tycoon | 35870 | [35870-ski-park-tycoon.json](./35870-ski-park-tycoon.json) |
 | Skool Daze: Reskooled | 102103 | [102103-skool-daze-reskooled.json](./102103-skool-daze-reskooled.json) |
+| Skunk Simulator: Raccoon Games | 384943 | [384943-skunk-simulator-raccoon-games.json](./384943-skunk-simulator-raccoon-games.json) |
 | Sky Destroyer | 4620 | [4620-sky-destroyer.json](./4620-sky-destroyer.json) |
 | Sky Drill | 389877 | [389877-sky-drill.json](./389877-sky-drill.json) |
 | Sky Force Anniversary | 10030 | [10030-sky-force-anniversary.json](./10030-sky-force-anniversary.json) |
@@ -488,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 2 | 9850 | [9850-star-wolves-2.json](./9850-star-wolves-2.json) |
 | Stardom: The A-List | 65115 | [65115-stardom-the-a-list.json](./65115-stardom-the-a-list.json) |
 | StarDrift Delivery | 390980 | [390980-stardrift-delivery.json](./390980-stardrift-delivery.json) |
+| Stardust Frontier | 384962 | [384962-stardust-frontier.json](./384962-stardust-frontier.json) |
 | Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
 | Starfield: Free Lanes | 398248 | [398248-starfield-free-lanes.json](./398248-starfield-free-lanes.json) |
 | Starflight | 2886 | [2886-starflight.json](./2886-starflight.json) |
@@ -528,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Maze: Stab Eyes | 404130 | [404130-still-maze-stab-eyes.json](./404130-still-maze-stab-eyes.json) |
 | Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
+| Stinky Cat | 384937 | [384937-stinky-cat.json](./384937-stinky-cat.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone | 407962 | [407962-stone.json](./407962-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
@@ -666,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yooka-Laylee Kart | 404740 | [404740-super-yooka-laylee-kart.json](./404740-super-yooka-laylee-kart.json) |
 | Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | Supercar Challenge | 7462 | [7462-supercar-challenge.json](./7462-supercar-challenge.json) |
+| Supercar Evolution 2025 | 384981 | [384981-supercar-evolution-2025.json](./384981-supercar-evolution-2025.json) |
 | Supercow | 175553 | [175553-supercow.json](./175553-supercow.json) |
 | Superfighters | 10038 | [10038-superfighters.json](./10038-superfighters.json) |
 | Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
