@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rackpunk: A Wasteland Hustle | 396077 | [396077-rackpunk-a-wasteland-hustle.json](./396077-rackpunk-a-wasteland-hustle.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Radiant Sword | 383228 | [383228-radiant-sword.json](./383228-radiant-sword.json) |
+| Radica Bass Fishin' | 375621 | [375621-radica-bass-fishin.json](./375621-radica-bass-fishin.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
@@ -134,6 +135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
 | Resident Evil 7: Biohazard - Collector's Edition | 22143 | [22143-resident-evil-7-biohazard-collectors-edition.json](./22143-resident-evil-7-biohazard-collectors-edition.json) |
+| Resident Evil Generation Pack | 375638 | [375638-resident-evil-generation-pack.json](./375638-resident-evil-generation-pack.json) |
+| Resident Evil Requiem: Deluxe Edition | 375627 | [375627-resident-evil-requiem-deluxe-edition.json](./375627-resident-evil-requiem-deluxe-edition.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
 | Resident Evil: The Umbrella Chronicles | 975 | [975-resident-evil-the-umbrella-chronicles.json](./975-resident-evil-the-umbrella-chronicles.json) |
 | Resistance: Burning Skies | 19907 | [19907-resistance-burning-skies.json](./19907-resistance-burning-skies.json) |
@@ -216,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
 | Road To Place | 384375 | [384375-road-to-place.json](./384375-road-to-place.json) |
+| Road Tripped Live | 375674 | [375674-road-tripped-live.json](./375674-road-tripped-live.json) |
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
@@ -261,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| Rookie Knight | 375673 | [375673-rookie-knight.json](./375673-rookie-knight.json) |
 | Room 713 | 384952 | [384952-room-713.json](./384952-room-713.json) |
 | Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
