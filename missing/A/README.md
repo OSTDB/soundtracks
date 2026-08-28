@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
 | Achivement Maze 1 | 410122 | [410122-achivement-maze-1.json](./410122-achivement-maze-1.json) |
+| Acid Bunny | 389326 | [389326-acid-bunny.json](./389326-acid-bunny.json) |
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
+| Alice Lorange Adventures Season 1 | 389287 | [389287-alice-lorange-adventures-season-1.json](./389287-alice-lorange-adventures-season-1.json) |
 | Alice Mystery Garden | 76811 | [76811-alice-mystery-garden.json](./76811-alice-mystery-garden.json) |
 | Alicia Reborn | 402763 | [402763-alicia-reborn.json](./402763-alicia-reborn.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
