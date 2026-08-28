@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: The Hideaway | 36836 | [36836-little-nightmares-the-hideaway.json](./36836-little-nightmares-the-hideaway.json) |
 | Little Spaces | 400130 | [400130-little-spaces.json](./400130-little-spaces.json) |
 | Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
+| Little Woody | 386610 | [386610-little-woody.json](./386610-little-woody.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
 | Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Startup & Co-founder | 410129 | [410129-love-startup-and-co-founder.json](./410129-love-startup-and-co-founder.json) |
 | LoveBeat | 16133 | [16133-lovebeat.json](./16133-lovebeat.json) |
 | Lovelace Case | 387886 | [387886-lovelace-case.json](./387886-lovelace-case.json) |
+| Lovely Anime Puzzle: Halloween | 386612 | [386612-lovely-anime-puzzle-halloween.json](./386612-lovely-anime-puzzle-halloween.json) |
 | Lovely Weather We're Having | 34404 | [34404-lovely-weather-were-having.json](./34404-lovely-weather-were-having.json) |
 | Low Magic Age | 29900 | [29900-low-magic-age.json](./29900-low-magic-age.json) |
 | Low Magic They Said | 391497 | [391497-low-magic-they-said.json](./391497-low-magic-they-said.json) |
