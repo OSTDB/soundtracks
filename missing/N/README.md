@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightlight | 383808 | [383808-nightlight.json](./383808-nightlight.json) |
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
+| Nightmare Fishing Tournament 2D | 365491 | [365491-nightmare-fishing-tournament-2d.json](./365491-nightmare-fishing-tournament-2d.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
 | Nightpark Journal | 379219 | [379219-nightpark-journal.json](./379219-nightpark-journal.json) |
 | NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
