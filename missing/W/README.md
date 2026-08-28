@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
 | Wushu Chronicles | 107801 | [107801-wushu-chronicles.json](./107801-wushu-chronicles.json) |
+| Wuthering Waves: The Dream Not Dreamed | 405403 | [405403-wuthering-waves-the-dream-not-dreamed.json](./405403-wuthering-waves-the-dream-not-dreamed.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
 | WWE SmackDown vs. Raw 2009 | 5299 | [5299-wwe-smackdown-vs-raw-2009.json](./5299-wwe-smackdown-vs-raw-2009.json) |
