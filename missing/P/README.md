@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project North | 386012 | [386012-project-north.json](./386012-project-north.json) |
+| Project Pandanda | 366041 | [366041-project-pandanda.json](./366041-project-pandanda.json) |
 | Project Retrograde: The Becoming | 370498 | [370498-project-retrograde-the-becoming.json](./370498-project-retrograde-the-becoming.json) |
 | Project Rogue | 389284 | [389284-project-rogue.json](./389284-project-rogue.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
@@ -382,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype 2: Limited Edition | 387192 | [387192-prototype-2-limited-edition.json](./387192-prototype-2-limited-edition.json) |
 | Providence | 400149 | [400149-providence.json](./400149-providence.json) |
 | Provinces | 414998 | [414998-provinces.json](./414998-provinces.json) |
+| Proxy Project Ouroboros | 366076 | [366076-proxy-project-ouroboros.json](./366076-proxy-project-ouroboros.json) |
 | Psalm 5:9-13 | 289536 | [289536-psalm-5-9-13.json](./289536-psalm-5-9-13.json) |
 | Psychic Detective | 4258 | [4258-psychic-detective.json](./4258-psychic-detective.json) |
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
