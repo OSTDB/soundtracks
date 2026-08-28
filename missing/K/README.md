@@ -44,6 +44,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill la Kill: If | 103369 | [103369-kill-la-kill-if.json](./103369-kill-la-kill-if.json) |
 | Kill Spewy | 389884 | [389884-kill-spewy.json](./389884-kill-spewy.json) |
 | Kill The Sea | 409440 | [409440-kill-the-sea.json](./409440-kill-the-sea.json) |
+| Killer Escape | 383231 | [383231-killer-escape.json](./383231-killer-escape.json) |
+| Killer Escape 2 | 383232 | [383232-killer-escape-2.json](./383232-killer-escape-2.json) |
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
 | Kilnborn | 414213 | [414213-kilnborn.json](./414213-kilnborn.json) |
@@ -85,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KitchenCraft | 397526 | [397526-kitchencraft.json](./397526-kitchencraft.json) |
 | Kitty Clicker | 410770 | [410770-kitty-clicker.json](./410770-kitty-clicker.json) |
 | Kitty Powers' Matchmaker | 11421 | [11421-kitty-powers-matchmaker.json](./11421-kitty-powers-matchmaker.json) |
+| Kitty Witchy | 383209 | [383209-kitty-witchy.json](./383209-kitty-witchy.json) |
 | Klonoa Beach Volleyball | 22702 | [22702-klonoa-beach-volleyball.json](./22702-klonoa-beach-volleyball.json) |
 | Klonoa: Door to Phantomile | 4959 | [4959-klonoa-door-to-phantomile.json](./4959-klonoa-door-to-phantomile.json) |
 | Knife Hit | 87058 | [87058-knife-hit.json](./87058-knife-hit.json) |
