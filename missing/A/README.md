@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Year of Rain | 116212 | [116212-a-year-of-rain.json](./116212-a-year-of-rain.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
+| Ablahshikar | 410800 | [410800-ablahshikar.json](./410800-ablahshikar.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
@@ -77,8 +78,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Director 2: Tycoon Game | 32995 | [32995-airline-director-2-tycoon-game.json](./32995-airline-director-2-tycoon-game.json) |
 | AirMech Arena | 25989 | [25989-airmech-arena.json](./25989-airmech-arena.json) |
 | Airport Madness: Time Machine | 34463 | [34463-airport-madness-time-machine.json](./34463-airport-madness-time-machine.json) |
+| Alan Wake Collector's Edition | 410795 | [410795-alan-wake-collectors-edition.json](./410795-alan-wake-collectors-edition.json) |
+| Alan Wake Collector's Edition Extras | 410793 | [410793-alan-wake-collectors-edition-extras.json](./410793-alan-wake-collectors-edition-extras.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
 | Alan Wake II: The Lake House | 273997 | [273997-alan-wake-ii-the-lake-house.json](./273997-alan-wake-ii-the-lake-house.json) |
+| Alan Wake Origins Bundle | 410796 | [410796-alan-wake-origins-bundle.json](./410796-alan-wake-origins-bundle.json) |
 | Alarm for Cobra 11: Nitro | 81663 | [81663-alarm-for-cobra-11-nitro.json](./81663-alarm-for-cobra-11-nitro.json) |
 | Alarm112: Fire Unit | 411485 | [411485-alarm112-fire-unit.json](./411485-alarm112-fire-unit.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
@@ -196,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
+| Asobutsuri | 410814 | [410814-asobutsuri.json](./410814-asobutsuri.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
 | Assassin's Creed Brotherhood: Deluxe Edition | 24743 | [24743-assassins-creed-brotherhood-deluxe-edition.json](./24743-assassins-creed-brotherhood-deluxe-edition.json) |
 | Assassin's Creed Chronicles: Trilogy Pack | 52416 | [52416-assassins-creed-chronicles-trilogy-pack.json](./52416-assassins-creed-chronicles-trilogy-pack.json) |
