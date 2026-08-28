@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
+| Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
 | Five Nights at Candy's Remastered | 153591 | [153591-five-nights-at-candys-remastered.json](./153591-five-nights-at-candys-remastered.json) |
 | Five Nights at Freddy's 2 | 223089 | [223089-five-nights-at-freddys-2.json](./223089-five-nights-at-freddys-2.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
+| Fox Jam | 405395 | [405395-fox-jam.json](./405395-fox-jam.json) |
 | FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
 | FoxyLand | 72372 | [72372-foxyland.json](./72372-foxyland.json) |
 | FPS Chess | 207383 | [207383-fps-chess.json](./207383-fps-chess.json) |
