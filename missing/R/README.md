@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
 | Real-time Shogi | 364920 | [364920-real-time-shogi.json](./364920-real-time-shogi.json) |
+| Realm of Fame | 360417 | [360417-realm-of-fame.json](./360417-realm-of-fame.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
@@ -138,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remains | 364924 | [364924-remains.json](./364924-remains.json) |
 | Remedy for Personality | 379776 | [379776-remedy-for-personality.json](./379776-remedy-for-personality.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
+| Remnants of War | 360442 | [360442-remnants-of-war.json](./360442-remnants-of-war.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
 | Replay Room | 392657 | [392657-replay-room.json](./392657-replay-room.json) |
 | Reptilarium | 406598 | [406598-reptilarium.json](./406598-reptilarium.json) |
