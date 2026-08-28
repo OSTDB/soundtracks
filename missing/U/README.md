@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
 | Ultimate Rock Crawler | 34488 | [34488-ultimate-rock-crawler.json](./34488-ultimate-rock-crawler.json) |
 | Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
+| Ultra Pixel Survive 2 | 409495 | [409495-ultra-pixel-survive-2.json](./409495-ultra-pixel-survive-2.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
 | Ultra_Hardcore | 86597 | [86597-ultra-hardcore.json](./86597-ultra-hardcore.json) |
