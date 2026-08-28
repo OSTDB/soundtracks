@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Golf Remastered | 368848 | [368848-goofy-golf-remastered.json](./368848-goofy-golf-remastered.json) |
 | Gorax Episode 1: The Cliff to Nowhere | 365520 | [365520-gorax-episode-1-the-cliff-to-nowhere.json](./365520-gorax-episode-1-the-cliff-to-nowhere.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
+| Görev | 360433 | [360433-gorev.json](./360433-gorev.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
@@ -224,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
 | Grand Theft Auto: San Andreas - The Nextgen Edition | 392022 | [392022-grand-theft-auto-san-andreas-the-nextgen-edition.json](./392022-grand-theft-auto-san-andreas-the-nextgen-edition.json) |
 | Grand Theft Auto: Vice City Stories 20th Anniversary Edition | 392046 | [392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json](./392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json) |
+| Grandma, Is That You? | 360426 | [360426-grandma-is-that-you.json](./360426-grandma-is-that-you.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
 | Grass Gnome Golf | 385462 | [385462-grass-gnome-golf.json](./385462-grass-gnome-golf.json) |
 | Grass Simulator | 36193 | [36193-grass-simulator.json](./36193-grass-simulator.json) |
