@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Tree: Match It Puzzle | 87633 | [87633-jewel-tree-match-it-puzzle.json](./87633-jewel-tree-match-it-puzzle.json) |
 | Jigsaw Puzzle: Fun Shapes | 414234 | [414234-jigsaw-puzzle-fun-shapes.json](./414234-jigsaw-puzzle-fun-shapes.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
+| Jim Henson's Muppet Babies: What's New at the Zoo? | 391486 | [391486-jim-hensons-muppet-babies-whats-new-at-the-zoo.json](./391486-jim-hensons-muppet-babies-whats-new-at-the-zoo.json) |
 | Jitsumei Jikkyou Keiba Dream Classic 2002 | 403510 | [403510-jitsumei-jikkyou-keiba-dream-classic-2002.json](./403510-jitsumei-jikkyou-keiba-dream-classic-2002.json) |
 | Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Joe Gunn Gold | 404766 | [404766-joe-gunn-gold.json](./404766-joe-gunn-gold.json) |
