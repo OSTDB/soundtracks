@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
+| Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
+| Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
