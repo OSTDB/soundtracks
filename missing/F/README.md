@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Fortune Pact | 407233 | [407233-fortune-pact.json](./407233-fortune-pact.json) |
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
 | Forza Horizon - 1000 Club Expansion Pack | 20851 | [20851-forza-horizon-1000-club-expansion-pack.json](./20851-forza-horizon-1000-club-expansion-pack.json) |
 | Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
