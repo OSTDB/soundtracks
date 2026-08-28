@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion 2666 | 410132 | [410132-oblivion-2666.json](./410132-oblivion-2666.json) |
 | Obscura | 46463 | [46463-obscura.json](./46463-obscura.json) |
 | Occult Hand of the Blood Lily | 383841 | [383841-occult-hand-of-the-blood-lily.json](./383841-occult-hand-of-the-blood-lily.json) |
+| Ocean of Vengeance | 373916 | [373916-ocean-of-vengeance.json](./373916-ocean-of-vengeance.json) |
 | Ocean Otter Swim | 388622 | [388622-ocean-otter-swim.json](./388622-ocean-otter-swim.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Ocean::Ephemera | 387853 | [387853-ocean-ephemera.json](./387853-ocean-ephemera.json) |
