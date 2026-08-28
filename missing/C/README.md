@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
 | Chess 2: The Sequel | 17659 | [17659-chess-2-the-sequel.json](./17659-chess-2-the-sequel.json) |
+| Chess Club Manager | 399450 | [399450-chess-club-manager.json](./399450-chess-club-manager.json) |
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chess Nuke | 412820 | [412820-chess-nuke.json](./412820-chess-nuke.json) |
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
