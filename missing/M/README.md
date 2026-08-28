@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
+| Maker Arena: Path of Vaiolet | 384368 | [384368-maker-arena-path-of-vaiolet.json](./384368-maker-arena-path-of-vaiolet.json) |
 | Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
 | Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
+| Mazino | 384385 | [384385-mazino.json](./384385-mazino.json) |
 | MDK2 | 218 | [218-mdk2.json](./218-mdk2.json) |
 | Meadow | 25638 | [25638-meadow.json](./25638-meadow.json) |
 | Mean Girls: The Game | 21990 | [21990-mean-girls-the-game.json](./21990-mean-girls-the-game.json) |
@@ -146,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
 | Medieval Juice Crafter | 400157 | [400157-medieval-juice-crafter.json](./400157-medieval-juice-crafter.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
+| Medieval Lord Tycoon | 384401 | [384401-medieval-lord-tycoon.json](./384401-medieval-lord-tycoon.json) |
 | MediEvil | 76960 | [76960-medievil.json](./76960-medievil.json) |
 | Mediterranea Inferno: Deluxe Edition | 406036 | [406036-mediterranea-inferno-deluxe-edition.json](./406036-mediterranea-inferno-deluxe-edition.json) |
 | Medivia Online | 59935 | [59935-medivia-online.json](./59935-medivia-online.json) |
@@ -439,4 +442,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
 | Mystical Demon Farm | 389323 | [389323-mystical-demon-farm.json](./389323-mystical-demon-farm.json) |
 | Myth Requiem | 391468 | [391468-myth-requiem.json](./391468-myth-requiem.json) |
+| Myth Xaran | 384393 | [384393-myth-xaran.json](./384393-myth-xaran.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
