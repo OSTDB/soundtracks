@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes | 395433 | [395433-15-minutes.json](./395433-15-minutes.json) |
 | 17776 | 397522 | [397522-17776.json](./397522-17776.json) |
 | 1941: Counter Attack | 6077 | [6077-1941-counter-attack.json](./6077-1941-counter-attack.json) |
+| 1999Tokoyo Building | 379250 | [379250-1999tokoyo-building.json](./379250-1999tokoyo-building.json) |
 | 1bitHeart | 54831 | [54831-1bitheart.json](./54831-1bitheart.json) |
 | 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 2-Player Games for 1 Device | 385996 | [385996-2-player-games-for-1-device.json](./385996-2-player-games-for-1-device.json) |
