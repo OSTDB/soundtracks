@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
 | Rabbids Rumble | 6867 | [6867-rabbids-rumble.json](./6867-rabbids-rumble.json) |
+| Racer | 378059 | [378059-racer.json](./378059-racer.json) |
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
 | Rackpunk: A Wasteland Hustle | 396077 | [396077-rackpunk-a-wasteland-hustle.json](./396077-rackpunk-a-wasteland-hustle.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redast | 389865 | [389865-redast.json](./389865-redast.json) |
+| RedCloak | 378055 | [378055-redcloak.json](./378055-redcloak.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
@@ -228,8 +230,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rampage | 383824 | [383824-robot-rampage.json](./383824-robot-rampage.json) |
 | Robot Recycler Ryn | 379231 | [379231-robot-recycler-ryn.json](./379231-robot-recycler-ryn.json) |
 | Robot Soccer Challenge | 29743 | [29743-robot-soccer-challenge.json](./29743-robot-soccer-challenge.json) |
+| Robot-Mail Rush | 378047 | [378047-robot-mail-rush.json](./378047-robot-mail-rush.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
+| Rock Shot | 378061 | [378061-rock-shot.json](./378061-rock-shot.json) |
 | Rocket Man X | 406580 | [406580-rocket-man-x.json](./406580-rocket-man-x.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rockman | 398846 | [398846-rockman.json](./398846-rockman.json) |
