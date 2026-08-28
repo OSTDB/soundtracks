@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
+| Taima Miko | 369413 | [369413-taima-miko.json](./369413-taima-miko.json) |
 | Tainted Grail: The Fall of Avalon - Challenge Mode DLC | 400118 | [400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json](./400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json) |
 | Tainted Grail: The Fall of Avalon - Merlin's Tomb | 396814 | [396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json](./396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pyramid | 378635 | [378635-the-black-pyramid.json](./378635-the-black-pyramid.json) |
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
+| The Bladeingtons Camping Adventure | 369431 | [369431-the-bladeingtons-camping-adventure.json](./369431-the-bladeingtons-camping-adventure.json) |
 | The Blue Flamingo | 9783 | [9783-the-blue-flamingo.json](./9783-the-blue-flamingo.json) |
 | The Bold Bogey | 371088 | [371088-the-bold-bogey.json](./371088-the-bold-bogey.json) |
 | The Book of Legends | 17059 | [17059-the-book-of-legends.json](./17059-the-book-of-legends.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreaded Hut | 376324 | [376324-the-dreaded-hut.json](./376324-the-dreaded-hut.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
+| The Eighth Continent 2 | 369392 | [369392-the-eighth-continent-2.json](./369392-the-eighth-continent-2.json) |
 | The Elder Scrolls III: Bloodmoon | 58 | [58-the-elder-scrolls-iii-bloodmoon.json](./58-the-elder-scrolls-iii-bloodmoon.json) |
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
@@ -204,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
+| The Escape: Team Battle Arena | 369422 | [369422-the-escape-team-battle-arena.json](./369422-the-escape-team-battle-arena.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
@@ -475,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Three Jokers | 390981 | [390981-three-jokers.json](./390981-three-jokers.json) |
+| Three Kingdoms Mushouden: Digital Deluxe Edition | 369399 | [369399-three-kingdoms-mushouden-digital-deluxe-edition.json](./369399-three-kingdoms-mushouden-digital-deluxe-edition.json) |
 | Three The Hard Way | 399495 | [399495-three-the-hard-way.json](./399495-three-the-hard-way.json) |
 | Thriving in Ruins: The End of Humanity is not the End of the World | 379729 | [379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json](./379729-thriving-in-ruins-the-end-of-humanity-is-not-the-end-of-the-world.json) |
 | Throne of Lies: Medieval Politics | 29422 | [29422-throne-of-lies-medieval-politics.json](./29422-throne-of-lies-medieval-politics.json) |
@@ -638,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania 2: Valley | 25393 | [25393-trackmania-2-valley.json](./25393-trackmania-2-valley.json) |
 | Tradewinds Classics | 16054 | [16054-tradewinds-classics.json](./16054-tradewinds-classics.json) |
 | Traditional Tactics With Sess-AI 2.0 | 376356 | [376356-traditional-tactics-with-sess-ai-2-0.json](./376356-traditional-tactics-with-sess-ai-2-0.json) |
+| Trailblader | 369416 | [369416-trailblader.json](./369416-trailblader.json) |
 | Trailerpark mechanic | 109874 | [109874-trailerpark-mechanic.json](./109874-trailerpark-mechanic.json) |
 | Train Hero | 371651 | [371651-train-hero.json](./371651-train-hero.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
