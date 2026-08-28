@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
+| Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
 | MediEvil | 76960 | [76960-medievil.json](./76960-medievil.json) |
+| Mediterranea Inferno: Deluxe Edition | 406036 | [406036-mediterranea-inferno-deluxe-edition.json](./406036-mediterranea-inferno-deluxe-edition.json) |
 | Medivia Online | 59935 | [59935-medivia-online.json](./59935-medivia-online.json) |
 | Mega Bomberman | 4513 | [4513-mega-bomberman.json](./4513-mega-bomberman.json) |
 | Mega Man 6 | 1719 | [1719-mega-man-6.json](./1719-mega-man-6.json) |
