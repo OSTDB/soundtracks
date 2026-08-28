@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
+| Blinded I | 402204 | [402204-blinded-i.json](./402204-blinded-i.json) |
 | Blink Atomic Music | 412855 | [412855-blink-atomic-music.json](./412855-blink-atomic-music.json) |
 | Bliss Valley: After Dark | 409438 | [409438-bliss-valley-after-dark.json](./409438-bliss-valley-after-dark.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
+| Bowling Fever: Ultra Edition | 402175 | [402175-bowling-fever-ultra-edition.json](./402175-bowling-fever-ultra-edition.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
 | Brain / Out | 27689 | [27689-brain-out.json](./27689-brain-out.json) |
@@ -287,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
