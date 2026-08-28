@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Maid Cafe Simulator | 390979 | [390979-maid-cafe-simulator.json](./390979-maid-cafe-simulator.json) |
+| Maid in Grisaille | 388608 | [388608-maid-in-grisaille.json](./388608-maid-in-grisaille.json) |
 | Maid-chan ha Meido-chuu | 396039 | [396039-maid-chan-ha-meido-chuu.json](./396039-maid-chan-ha-meido-chuu.json) |
 | Mainframe | 410789 | [410789-mainframe.json](./410789-mainframe.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortifero Motus | 29731 | [29731-mortifero-motus.json](./29731-mortifero-motus.json) |
 | Mosaic Garden: The Flower Game | 406591 | [406591-mosaic-garden-the-flower-game.json](./406591-mosaic-garden-the-flower-game.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
+| Mote: Workshop | 388624 | [388624-mote-workshop.json](./388624-mote-workshop.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
 | Motion Serpentine | 392652 | [392652-motion-serpentine.json](./392652-motion-serpentine.json) |
