@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generator Rex: Agent of Providence | 8005 | [8005-generator-rex-agent-of-providence.json](./8005-generator-rex-agent-of-providence.json) |
 | Genius Greedy Mouse | 22718 | [22718-genius-greedy-mouse.json](./22718-genius-greedy-mouse.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
+| Gentleman's Violence | 384956 | [384956-gentlemans-violence.json](./384956-gentlemans-violence.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geometry Attack | 396091 | [396091-geometry-attack.json](./396091-geometry-attack.json) |
 | Geometry Kreisker | 412883 | [412883-geometry-kreisker.json](./412883-geometry-kreisker.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Grave New World | 412860 | [412860-grave-new-world.json](./412860-grave-new-world.json) |
 | Graventh | 414971 | [414971-graventh.json](./414971-graventh.json) |
+| Graverobber | 384933 | [384933-graverobber.json](./384933-graverobber.json) |
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
