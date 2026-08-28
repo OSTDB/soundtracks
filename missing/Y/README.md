@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorg.io 3 | 124182 | [124182-yorg-io-3.json](./124182-yorg-io-3.json) |
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
+| Yoshi Egg's Journey | 384935 | [384935-yoshi-eggs-journey.json](./384935-yoshi-eggs-journey.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
 | You and Choice | 392667 | [392667-you-and-choice.json](./392667-you-and-choice.json) |
 | You Are Disabled | 14739 | [14739-you-are-disabled.json](./14739-you-are-disabled.json) |
