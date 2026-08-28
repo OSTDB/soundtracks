@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pig Quest | 404764 | [404764-a-pig-quest.json](./404764-a-pig-quest.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
+| A Short Quest | 393332 | [393332-a-short-quest.json](./393332-a-short-quest.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
 | A Timely Intervention | 33037 | [33037-a-timely-intervention.json](./33037-a-timely-intervention.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abjure | 403488 | [403488-abjure.json](./403488-abjure.json) |
 | Ablahshikar | 410800 | [410800-ablahshikar.json](./410800-ablahshikar.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
+| Above Water | 393308 | [393308-above-water.json](./393308-above-water.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
 | Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
@@ -253,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure Gaiden | 76753 | [76753-artifact-adventure-gaiden.json](./76753-artifact-adventure-gaiden.json) |
 | Artifact Seeker: Paladin | 396816 | [396816-artifact-seeker-paladin.json](./396816-artifact-seeker-paladin.json) |
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
+| Aru Otoko no Dokuhaku | 393354 | [393354-aru-otoko-no-dokuhaku.json](./393354-aru-otoko-no-dokuhaku.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
