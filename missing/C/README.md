@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
 | Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
+| Candystand Miniature Golf | 360393 | [360393-candystand-miniature-golf.json](./360393-candystand-miniature-golf.json) |
 | Cannibals & Missionaries | 381454 | [381454-cannibals-and-missionaries.json](./381454-cannibals-and-missionaries.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
@@ -420,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash 'N' Dance | 371109 | [371109-crash-n-dance.json](./371109-crash-n-dance.json) |
 | Crash and Conquer | 392020 | [392020-crash-and-conquer.json](./392020-crash-and-conquer.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
+| Crash Bandicoot Retro HiJinx | 360430 | [360430-crash-bandicoot-retro-hijinx.json](./360430-crash-bandicoot-retro-hijinx.json) |
 | Crash of the Titans: Monster Edition | 386044 | [386044-crash-of-the-titans-monster-edition.json](./386044-crash-of-the-titans-monster-edition.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Craterville | 381436 | [381436-craterville.json](./381436-craterville.json) |
@@ -467,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Reverie | 384953 | [384953-cross-reverie.json](./384953-cross-reverie.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
+| Crow | 360418 | [360418-crow.json](./360418-crow.json) |
 | Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
 | Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
