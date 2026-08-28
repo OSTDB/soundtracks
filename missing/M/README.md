@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
+| Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
 | Max Payne 3: The Complete Edition | 53338 | [53338-max-payne-3-the-complete-edition.json](./53338-max-payne-3-the-complete-edition.json) |
@@ -167,12 +168,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Safari in Letterland | 48168 | [48168-mickeys-safari-in-letterland.json](./48168-mickeys-safari-in-letterland.json) |
 | Mickey's Space Adventure | 7654 | [7654-mickeys-space-adventure.json](./7654-mickeys-space-adventure.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
+| Micronova | 404157 | [404157-micronova.json](./404157-micronova.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
 | Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
+| Midnight Moments | 404118 | [404118-midnight-moments.json](./404118-midnight-moments.json) |
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
 | Might & Magic Heroes VII | 7615 | [7615-might-and-magic-heroes-vii.json](./7615-might-and-magic-heroes-vii.json) |
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
