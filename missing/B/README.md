@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | B.O.B.Y's Journey | 407241 | [407241-b-o-b-ys-journey.json](./407241-b-o-b-ys-journey.json) |
+| B.O.D.E. | 375006 | [375006-b-o-d-e.json](./375006-b-o-d-e.json) |
 | Baba Is You | 76638 | [76638-baba-is-you.json](./76638-baba-is-you.json) |
 | Babel Rising | 10017 | [10017-babel-rising.json](./10017-babel-rising.json) |
 | Baby Storm | 185775 | [185775-baby-storm.json](./185775-baby-storm.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholder: Blissful Sleep | 51706 | [51706-beholder-blissful-sleep.json](./51706-beholder-blissful-sleep.json) |
 | Being Food | 383237 | [383237-being-food.json](./383237-being-food.json) |
 | Belfry | 398848 | [398848-belfry.json](./398848-belfry.json) |
+| Bellochia: Love Powered by Gears | 375004 | [375004-bellochia-love-powered-by-gears.json](./375004-bellochia-love-powered-by-gears.json) |
 | Below | 383834 | [383834-below.json](./383834-below.json) |
 | Below The Blades | 410748 | [410748-below-the-blades.json](./410748-below-the-blades.json) |
 | Beltix | 384397 | [384397-beltix.json](./384397-beltix.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben-Hur | 57820 | [57820-ben-hur.json](./57820-ben-hur.json) |
 | Bench Simulator | 405394 | [405394-bench-simulator.json](./405394-bench-simulator.json) |
 | Bend2 | 397553 | [397553-bend2.json](./397553-bend2.json) |
+| Benjumpin Hopkins | 375025 | [375025-benjumpin-hopkins.json](./375025-benjumpin-hopkins.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
