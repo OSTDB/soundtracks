@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
 | Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
+| HoloVillage: Our Cozy Days | 379245 | [379245-holovillage-our-cozy-days.json](./379245-holovillage-our-cozy-days.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
