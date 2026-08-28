@@ -112,8 +112,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
+| Terrific Spongebob Darts | 366680 | [366680-terrific-spongebob-darts.json](./366680-terrific-spongebob-darts.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
 | Terrorsepsis | 367797 | [367797-terrorsepsis.json](./367797-terrorsepsis.json) |
+| Test Drive: Off-Road 3 | 366686 | [366686-test-drive-off-road-3.json](./366686-test-drive-off-road-3.json) |
 | Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alley | 380869 | [380869-the-alley.json](./380869-the-alley.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Archives of Trevosa | 400144 | [400144-the-archives-of-trevosa.json](./400144-the-archives-of-trevosa.json) |
+| The Ascent: Complete Edition | 366692 | [366692-the-ascent-complete-edition.json](./366692-the-ascent-complete-edition.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
@@ -208,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls: Arena | 52 | [52-the-elder-scrolls-arena.json](./52-the-elder-scrolls-arena.json) |
 | The Elder Scrolls: Legends | 11120 | [11120-the-elder-scrolls-legends.json](./11120-the-elder-scrolls-legends.json) |
 | The Electric Bots | 400158 | [400158-the-electric-bots.json](./400158-the-electric-bots.json) |
+| The Elf on the Shelf: Christmas Heroes | 366655 | [366655-the-elf-on-the-shelf-christmas-heroes.json](./366655-the-elf-on-the-shelf-christmas-heroes.json) |
 | The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
@@ -235,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Franz Kafka Videogame | 26239 | [26239-the-franz-kafka-videogame.json](./26239-the-franz-kafka-videogame.json) |
 | The Free Ones | 75540 | [75540-the-free-ones.json](./75540-the-free-ones.json) |
 | The Front | 383245 | [383245-the-front.json](./383245-the-front.json) |
+| The Game Dev Tree | 366683 | [366683-the-game-dev-tree.json](./366683-the-game-dev-tree.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
 | The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
@@ -319,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
+| The Looking Game | 366679 | [366679-the-looking-game.json](./366679-the-looking-game.json) |
 | The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
@@ -544,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
 | Titan Quest: Immortal Throne | 8312 | [8312-titan-quest-immortal-throne.json](./8312-titan-quest-immortal-throne.json) |
 | Titanic | 380872 | [380872-titanic.json](./380872-titanic.json) |
+| Titanic Go Go Go | 366681 | [366681-titanic-go-go-go.json](./366681-titanic-go-go-go.json) |
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | TMT 3 | 403515 | [403515-tmt-3.json](./403515-tmt-3.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
@@ -582,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombsweeper | 385455 | [385455-tombsweeper.json](./385455-tombsweeper.json) |
 | Tomodachi Collection | 71900 | [71900-tomodachi-collection.json](./71900-tomodachi-collection.json) |
 | ToMyX | 394030 | [394030-tomyx.json](./394030-tomyx.json) |
+| Tonka Raceway | 366687 | [366687-tonka-raceway.json](./366687-tonka-raceway.json) |
 | Tony Hawk's Pro Skater 4 | 210463 | [210463-tony-hawks-pro-skater-4.json](./210463-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
