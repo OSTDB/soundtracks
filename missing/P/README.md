@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
+| Paper io 2: Platinum Edition | 402180 | [402180-paper-io-2-platinum-edition.json](./402180-paper-io-2-platinum-edition.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
 | Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
+| Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
 | PDF File Slayer | 412184 | [412184-pdf-file-slayer.json](./412184-pdf-file-slayer.json) |
@@ -98,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
+| Pictonico! | 402158 | [402158-pictonico.json](./402158-pictonico.json) |
 | Pierline | 414228 | [414228-pierline.json](./414228-pierline.json) |
 | Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pigeon's Untitled Screenplay | 403453 | [403453-pigeons-untitled-screenplay.json](./403453-pigeons-untitled-screenplay.json) |
@@ -124,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
 | Pixelwave Off | 406001 | [406001-pixelwave-off.json](./406001-pixelwave-off.json) |
+| Pixie Plates: Complete Edition | 402181 | [402181-pixie-plates-complete-edition.json](./402181-pixie-plates-complete-edition.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
