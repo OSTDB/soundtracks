@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
 | Kirby's Return to Dream Land Deluxe | 217565 | [217565-kirbys-return-to-dream-land-deluxe.json](./217565-kirbys-return-to-dream-land-deluxe.json) |
+| Kirk Mephisto | 398877 | [398877-kirk-mephisto.json](./398877-kirk-mephisto.json) |
 | Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kitchen Simulator 2015 | 34502 | [34502-kitchen-simulator-2015.json](./34502-kitchen-simulator-2015.json) |
 | Kitchen Sync: The Flying Tavern | 412842 | [412842-kitchen-sync-the-flying-tavern.json](./412842-kitchen-sync-the-flying-tavern.json) |
@@ -99,3 +100,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
 | Kyoto Colorful Days | 32949 | [32949-kyoto-colorful-days.json](./32949-kyoto-colorful-days.json) |
+| Kyra The Hunter | 398862 | [398862-kyra-the-hunter.json](./398862-kyra-the-hunter.json) |
