@@ -57,8 +57,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
 | Scoop 'n Shoot | 410148 | [410148-scoop-n-shoot.json](./410148-scoop-n-shoot.json) |
 | SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
+| SCP: Mr. Jupiter | 407919 | [407919-scp-mr-jupiter.json](./407919-scp-mr-jupiter.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
 | Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
+| Scrabble | 407938 | [407938-scrabble.json](./407938-scrabble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin and Punishment | 1467 | [1467-sin-and-punishment.json](./1467-sin-and-punishment.json) |
 | SiN Episodes | 1044 | [1044-sin-episodes.json](./1044-sin-episodes.json) |
 | SinaRun | 17868 | [17868-sinarun.json](./17868-sinarun.json) |
+| Sindikat | 407936 | [407936-sindikat.json](./407936-sindikat.json) |
 | SingStar: '90s | 15165 | [15165-singstar-90s.json](./15165-singstar-90s.json) |
 | SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Ultimate Party | 15100 | [15100-singstar-ultimate-party.json](./15100-singstar-ultimate-party.json) |
@@ -219,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Moto Racing 3D | 63468 | [63468-snow-moto-racing-3d.json](./63468-snow-moto-racing-3d.json) |
 | Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
+| Snowbound With Irene | 407973 | [407973-snowbound-with-irene.json](./407973-snowbound-with-irene.json) |
 | Snowbreak: Containment Zone | 174608 | [174608-snowbreak-containment-zone.json](./174608-snowbreak-containment-zone.json) |
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
@@ -248,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Shadow Generations | 284716 | [284716-sonic-x-shadow-generations.json](./284716-sonic-x-shadow-generations.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
+| Sore | 407925 | [407925-sore.json](./407925-sore.json) |
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
@@ -376,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
+| Stone | 407962 | [407962-stone.json](./407962-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
