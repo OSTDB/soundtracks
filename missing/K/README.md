@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
+| Kemuri Neko | 398218 | [398218-kemuri-neko.json](./398218-kemuri-neko.json) |
 | Ken to Mahou no Relic Saga | 410119 | [410119-ken-to-mahou-no-relic-saga.json](./410119-ken-to-mahou-no-relic-saga.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Reversi | 405401 | [405401-kingdom-hearts-reversi.json](./405401-kingdom-hearts-reversi.json) |
 | Kingdom Hearts Rhythm Parade | 405402 | [405402-kingdom-hearts-rhythm-parade.json](./405402-kingdom-hearts-rhythm-parade.json) |
 | Kingdom Rush Origins HD | 86887 | [86887-kingdom-rush-origins-hd.json](./86887-kingdom-rush-origins-hd.json) |
+| Kingdom Trails | 398201 | [398201-kingdom-trails.json](./398201-kingdom-trails.json) |
 | Kingdoms of Amalur: Reckoning - The Legend of Dead Kel | 10485 | [10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json](./10485-kingdoms-of-amalur-reckoning-the-legend-of-dead-kel.json) |
 | Kings of Kung Fu | 17714 | [17714-kings-of-kung-fu.json](./17714-kings-of-kung-fu.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
@@ -89,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystopia: A Puzzle Journey | 126880 | [126880-krystopia-a-puzzle-journey.json](./126880-krystopia-a-puzzle-journey.json) |
 | Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
 | Kubz VR | 31532 | [31532-kubz-vr.json](./31532-kubz-vr.json) |
+| Kuitaiyou | 398256 | [398256-kuitaiyou.json](./398256-kuitaiyou.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
