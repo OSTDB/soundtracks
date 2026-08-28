@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
 | Pankapu | 24440 | [24440-pankapu.json](./24440-pankapu.json) |
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
+| Panty Party Perfect | 401422 | [401422-panty-party-perfect.json](./401422-panty-party-perfect.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
 | Panzer General 2 | 14416 | [14416-panzer-general-2.json](./14416-panzer-general-2.json) |
 | Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
@@ -51,7 +52,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
 | PaRappa the Rapper 2 | 6082 | [6082-parappa-the-rapper-2.json](./6082-parappa-the-rapper-2.json) |
+| Parcel Inspection Simulator | 401421 | [401421-parcel-inspection-simulator.json](./401421-parcel-inspection-simulator.json) |
 | Pariah | 5979 | [5979-pariah.json](./5979-pariah.json) |
+| Parkour Simulator VR | 401420 | [401420-parkour-simulator-vr.json](./401420-parkour-simulator-vr.json) |
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
 | Party in my Dorm | 95646 | [95646-party-in-my-dorm.json](./95646-party-in-my-dorm.json) |
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
@@ -113,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
+| Pirate Havoc | 401423 | [401423-pirate-havoc.json](./401423-pirate-havoc.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
@@ -121,12 +125,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gladiator | 30949 | [30949-pixel-gladiator.json](./30949-pixel-gladiator.json) |
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
+| Pixel Puzzles Anime Jigsaws | 401424 | [401424-pixel-puzzles-anime-jigsaws.json](./401424-pixel-puzzles-anime-jigsaws.json) |
 | Pixel Puzzles Dinosaurs Jigsaws | 405377 | [405377-pixel-puzzles-dinosaurs-jigsaws.json](./405377-pixel-puzzles-dinosaurs-jigsaws.json) |
+| Pixel Puzzles Space Jigsaws | 401425 | [401425-pixel-puzzles-space-jigsaws.json](./401425-pixel-puzzles-space-jigsaws.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | Pixel Shopkeeper | 44518 | [44518-pixel-shopkeeper.json](./44518-pixel-shopkeeper.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
 | Pixelwave Off | 406001 | [406001-pixelwave-off.json](./406001-pixelwave-off.json) |
+| Pixicharm Collection 7 | 401426 | [401426-pixicharm-collection-7.json](./401426-pixicharm-collection-7.json) |
+| Pixicharm Collection 8 | 401427 | [401427-pixicharm-collection-8.json](./401427-pixicharm-collection-8.json) |
 | Pixie Plates: Complete Edition | 402181 | [402181-pixie-plates-complete-edition.json](./402181-pixie-plates-complete-edition.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
@@ -154,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
 | Pocket Kingdom | 32991 | [32991-pocket-kingdom.json](./32991-pocket-kingdom.json) |
 | Pocket League Story 2 | 20914 | [20914-pocket-league-story-2.json](./20914-pocket-league-story-2.json) |
+| Pocket Putts | 401430 | [401430-pocket-putts.json](./401430-pocket-putts.json) |
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
 | Pocky & Rocky 2 | 1536 | [1536-pocky-and-rocky-2.json](./1536-pocky-and-rocky-2.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
@@ -164,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
+| Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
 | Police Chief | 410745 | [410745-police-chief.json](./410745-police-chief.json) |
 | Police Quest: In Pursuit of the Death Angel | 84151 | [84151-police-quest-in-pursuit-of-the-death-angel.json](./84151-police-quest-in-pursuit-of-the-death-angel.json) |
 | Political Puzzle | 106664 | [106664-political-puzzle.json](./106664-political-puzzle.json) |
@@ -171,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychromatic | 20956 | [20956-polychromatic.json](./20956-polychromatic.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
+| Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
 | Poor Bird | 410763 | [410763-poor-bird.json](./410763-poor-bird.json) |
