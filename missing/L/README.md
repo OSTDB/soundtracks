@@ -62,6 +62,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
 | Legend of Idle | 406608 | [406608-legend-of-idle.json](./406608-legend-of-idle.json) |
+| Legend of the Void | 378019 | [378019-legend-of-the-void.json](./378019-legend-of-the-void.json) |
+| Legend of the Void 2 | 378018 | [378018-legend-of-the-void-2.json](./378018-legend-of-the-void-2.json) |
 | Legendary Tales V: Price of Power | 394712 | [394712-legendary-tales-v-price-of-power.json](./394712-legendary-tales-v-price-of-power.json) |
 | Legends Aligned: Land of Order | 396110 | [396110-legends-aligned-land-of-order.json](./396110-legends-aligned-land-of-order.json) |
 | Legends of Atlantis: Exodus | 35806 | [35806-legends-of-atlantis-exodus.json](./35806-legends-of-atlantis-exodus.json) |
@@ -160,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
 | Lootspire | 400159 | [400159-lootspire.json](./400159-lootspire.json) |
 | Lop Nor Zombie VR | 31455 | [31455-lop-nor-zombie-vr.json](./31455-lop-nor-zombie-vr.json) |
+| Lord of Darkness: Celebration | 378044 | [378044-lord-of-darkness-celebration.json](./378044-lord-of-darkness-celebration.json) |
 | Lord of the Click | 116232 | [116232-lord-of-the-click.json](./116232-lord-of-the-click.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Base Escape | 29804 | [29804-lost-base-escape.json](./29804-lost-base-escape.json) |
