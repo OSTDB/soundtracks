@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
+| Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
 | Wànjié Bù Miè | 407977 | [407977-wanjie-bu-mie.json](./407977-wanjie-bu-mie.json) |
 | Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
+| Welcome to Cafe Lumière!: A Dragon Girl Concept Cafe | 398851 | [398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json](./398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
@@ -169,6 +171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
 | Wreckreation 2 | 410777 | [410777-wreckreation-2.json](./410777-wreckreation-2.json) |
+| Wretch: Divine Ascent - Pirate Pack | 398870 | [398870-wretch-divine-ascent-pirate-pack.json](./398870-wretch-divine-ascent-pirate-pack.json) |
+| Wretch: Divine Ascent - Premier Weapon Skin Collection | 398871 | [398871-wretch-divine-ascent-premier-weapon-skin-collection.json](./398871-wretch-divine-ascent-premier-weapon-skin-collection.json) |
 | WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
