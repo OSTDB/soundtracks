@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Lovin' Cannibal | 400119 | [400119-tender-lovin-cannibal.json](./400119-tender-lovin-cannibal.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
 | Tentacular | 191430 | [191430-tentacular.json](./191430-tentacular.json) |
+| Terminal Illness | 368308 | [368308-terminal-illness.json](./368308-terminal-illness.json) |
 | Terminal Mass | 397576 | [397576-terminal-mass.json](./397576-terminal-mass.json) |
 | Terminator 2: Judgment Day | 398855 | [398855-terminator-2-judgment-day.json](./398855-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 398854 | [398854-terminator-2-judgment-day.json](./398854-terminator-2-judgment-day.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
 | The Cure | 397572 | [397572-the-cure.json](./397572-the-cure.json) |
+| The Cursed Soul | 368313 | [368313-the-cursed-soul.json](./368313-the-cursed-soul.json) |
 | The Cursed Ward | 405989 | [405989-the-cursed-ward.json](./405989-the-cursed-ward.json) |
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
@@ -438,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Village Rises | 389890 | [389890-the-village-rises.json](./389890-the-village-rises.json) |
 | The Visitor: Massacre | 378020 | [378020-the-visitor-massacre.json](./378020-the-visitor-massacre.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
+| The Waiting Room: An Existential Simulation | 368319 | [368319-the-waiting-room-an-existential-simulation.json](./368319-the-waiting-room-an-existential-simulation.json) |
 | The Wake | 380875 | [380875-the-wake.json](./380875-the-wake.json) |
 | The Wall | 109648 | [109648-the-wall.json](./109648-the-wall.json) |
 | The Wall | 380876 | [380876-the-wall.json](./380876-the-wall.json) |
@@ -595,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Legit Wheeler Seller | 371108 | [371108-totally-legit-wheeler-seller.json](./371108-totally-legit-wheeler-seller.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
 | Tottado! Yoiko no Mujintou Seikatsu | 372332 | [372332-tottado-yoiko-no-mujintou-seikatsu.json](./372332-tottado-yoiko-no-mujintou-seikatsu.json) |
+| Touch Typing Home Row Speed Grinder | 368320 | [368320-touch-typing-home-row-speed-grinder.json](./368320-touch-typing-home-row-speed-grinder.json) |
 | Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
