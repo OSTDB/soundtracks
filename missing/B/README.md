@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond R: Rule Ripper | 370530 | [370530-beyond-r-rule-ripper.json](./370530-beyond-r-rule-ripper.json) |
 | Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
+| Beyond the Mirror | 368297 | [368297-beyond-the-mirror.json](./368297-beyond-the-mirror.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
 | BFDI Pop! | 402786 | [402786-bfdi-pop.json](./402786-bfdi-pop.json) |
 | Bias Quartet: Additional Content | 383261 | [383261-bias-quartet-additional-content.json](./383261-bias-quartet-additional-content.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
 | Bongo Cat: God Pack | 402773 | [402773-bongo-cat-god-pack.json](./402773-bongo-cat-god-pack.json) |
 | Bonsai Barber | 20902 | [20902-bonsai-barber.json](./20902-bonsai-barber.json) |
+| Boobs 'em up | 368348 | [368348-boobs-em-up.json](./368348-boobs-em-up.json) |
 | Boogie Superstar | 4726 | [4726-boogie-superstar.json](./4726-boogie-superstar.json) |
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
 | Boot Hill Bounties | 76947 | [76947-boot-hill-bounties.json](./76947-boot-hill-bounties.json) |
