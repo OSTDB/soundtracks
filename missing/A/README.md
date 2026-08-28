@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Castle Full of Cats | 210901 | [210901-a-castle-full-of-cats.json](./210901-a-castle-full-of-cats.json) |
 | A Corgi's Cozy Hike: Spooky Costume Pack | 407209 | [407209-a-corgis-cozy-hike-spooky-costume-pack.json](./407209-a-corgis-cozy-hike-spooky-costume-pack.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
+| A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
 | A Girl Adrift: Reunited Horizon | 400141 | [400141-a-girl-adrift-reunited-horizon.json](./400141-a-girl-adrift-reunited-horizon.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
@@ -40,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
 | Abyss Runner | 402837 | [402837-abyss-runner.json](./402837-abyss-runner.json) |
+| ACA Neo Geo: Pop'n Bounce | 394723 | [394723-aca-neo-geo-popn-bounce.json](./394723-aca-neo-geo-popn-bounce.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I OK? | 411488 | [411488-am-i-ok.json](./411488-am-i-ok.json) |
 | Amalgam | 170588 | [170588-amalgam.json](./170588-amalgam.json) |
 | Amalgamate | 395426 | [395426-amalgamate.json](./395426-amalgamate.json) |
+| Amalgamation | 394733 | [394733-amalgamation.json](./394733-amalgamation.json) |
 | aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
@@ -170,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
 | Angry Raccoon | 412118 | [412118-angry-raccoon.json](./412118-angry-raccoon.json) |
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
+| Animal Coloring Books for Kids & Toddlers: Dinosaurs | 394722 | [394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json](./394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
@@ -207,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
 | Arcade Archives 2: Final Lap | 396094 | [396094-arcade-archives-2-final-lap.json](./396094-arcade-archives-2-final-lap.json) |
+| Arcade Archives 2: Plump Pop | 394721 | [394721-arcade-archives-2-plump-pop.json](./394721-arcade-archives-2-plump-pop.json) |
 | Arcade Archives: Arkanoid | 400777 | [400777-arcade-archives-arkanoid.json](./400777-arcade-archives-arkanoid.json) |
 | Arcade Archives: Final Lap | 396095 | [396095-arcade-archives-final-lap.json](./396095-arcade-archives-final-lap.json) |
 | Arcade Archives: Lady Bug | 409476 | [409476-arcade-archives-lady-bug.json](./409476-arcade-archives-lady-bug.json) |
