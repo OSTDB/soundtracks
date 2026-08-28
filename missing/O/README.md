@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okurek | 404154 | [404154-okurek.json](./404154-okurek.json) |
 | OldMaidGirl | 44208 | [44208-oldmaidgirl.json](./44208-oldmaidgirl.json) |
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
+| Oliver | 359265 | [359265-oliver.json](./359265-oliver.json) |
 | Om Nom: Run 2 - Gold Edition | 402179 | [402179-om-nom-run-2-gold-edition.json](./402179-om-nom-run-2-gold-edition.json) |
 | Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up: Brainrot Together | 364915 | [364915-only-up-brainrot-together.json](./364915-only-up-brainrot-together.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
 | Only You | 86539 | [86539-only-you.json](./86539-only-you.json) |
+| OnlyGame | 359269 | [359269-onlygame.json](./359269-onlygame.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | OpenPete | 413542 | [413542-openpete.json](./413542-openpete.json) |
