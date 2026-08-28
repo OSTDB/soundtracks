@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 2: Normandy Crash Site | 202310 | [202310-mass-effect-2-normandy-crash-site.json](./202310-mass-effect-2-normandy-crash-site.json) |
 | Mass Effect: Polish Collector's Edition | 36320 | [36320-mass-effect-polish-collectors-edition.json](./36320-mass-effect-polish-collectors-edition.json) |
 | Mass O' Kyzt | 65785 | [65785-mass-o-kyzt.json](./65785-mass-o-kyzt.json) |
+| Mass of Consumption | 381449 | [381449-mass-of-consumption.json](./381449-mass-of-consumption.json) |
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
@@ -228,9 +229,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
 | Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
+| Midnight Billiards | 381445 | [381445-midnight-billiards.json](./381445-midnight-billiards.json) |
 | Midnight Club: Street Racing | 6509 | [6509-midnight-club-street-racing.json](./6509-midnight-club-street-racing.json) |
 | Midnight Deluxe | 89495 | [89495-midnight-deluxe.json](./89495-midnight-deluxe.json) |
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
+| Midnight Hoops | 381447 | [381447-midnight-hoops.json](./381447-midnight-hoops.json) |
 | Midnight Joy Ride | 396055 | [396055-midnight-joy-ride.json](./396055-midnight-joy-ride.json) |
 | Midnight Moments | 404118 | [404118-midnight-moments.json](./404118-midnight-moments.json) |
 | Midnight Realm | 383205 | [383205-midnight-realm.json](./383205-midnight-realm.json) |
@@ -403,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Murderplanet | 395421 | [395421-murderplanet.json](./395421-murderplanet.json) |
 | Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
+| Murky | 381462 | [381462-murky.json](./381462-murky.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
 | Museum Guard: Exhibit Unknown | 387204 | [387204-museum-guard-exhibit-unknown.json](./387204-museum-guard-exhibit-unknown.json) |
@@ -457,4 +461,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Demon Farm | 389323 | [389323-mystical-demon-farm.json](./389323-mystical-demon-farm.json) |
 | Myth Requiem | 391468 | [391468-myth-requiem.json](./391468-myth-requiem.json) |
 | Myth Xaran | 384393 | [384393-myth-xaran.json](./384393-myth-xaran.json) |
+| Mythic Wonders: The Philosopher's Stone - Collector's Edition | 381420 | [381420-mythic-wonders-the-philosophers-stone-collectors-edition.json](./381420-mythic-wonders-the-philosophers-stone-collectors-edition.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
