@@ -219,6 +219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | HVS: Hitler vs Stalin - Battle Of Moscow | 389282 | [389282-hvs-hitler-vs-stalin-battle-of-moscow.json](./389282-hvs-hitler-vs-stalin-battle-of-moscow.json) |
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
+| Hydlide 3: The Space Memories | 387874 | [387874-hydlide-3-the-space-memories.json](./387874-hydlide-3-the-space-memories.json) |
+| Hydlide 3: Yami kara no Houmonsha | 387877 | [387877-hydlide-3-yami-kara-no-houmonsha.json](./387877-hydlide-3-yami-kara-no-houmonsha.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hygrim | 392654 | [392654-hygrim.json](./392654-hygrim.json) |
 | Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
