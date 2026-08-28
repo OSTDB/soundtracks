@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Christmas Cats | 276704 | [276704-100-christmas-cats.json](./276704-100-christmas-cats.json) |
 | 100 Euro | 115826 | [115826-100-euro.json](./115826-100-euro.json) |
 | 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
+| 1001 Threads of Mizan | 414985 | [414985-1001-threads-of-mizan.json](./414985-1001-threads-of-mizan.json) |
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 123 Kids Fun Puzzle Blue | 89315 | [89315-123-kids-fun-puzzle-blue.json](./89315-123-kids-fun-puzzle-blue.json) |
