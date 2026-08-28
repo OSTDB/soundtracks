@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Theme Park Craft: Water Slide Fun Park Games | 101943 | [101943-girls-theme-park-craft-water-slide-fun-park-games.json](./101943-girls-theme-park-craft-water-slide-fun-park-games.json) |
 | Girls' Frontline 2: Exilium | 174844 | [174844-girls-frontline-2-exilium.json](./174844-girls-frontline-2-exilium.json) |
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
+| Give Me a Weapon! | 391470 | [391470-give-me-a-weapon.json](./391470-give-me-a-weapon.json) |
 | Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
