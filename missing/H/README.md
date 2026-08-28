@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Empire 3 | 102284 | [102284-hex-empire-3.json](./102284-hex-empire-3.json) |
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexa Rhythm | 388590 | [388590-hexa-rhythm.json](./388590-hexa-rhythm.json) |
+| Hexágonos | 359775 | [359775-hexagonos.json](./359775-hexagonos.json) |
 | Hexaloric | 386052 | [386052-hexaloric.json](./386052-hexaloric.json) |
 | Hexashell | 364314 | [364314-hexashell.json](./364314-hexashell.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
