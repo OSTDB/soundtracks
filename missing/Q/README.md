@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake III: Team Arena | 6634 | [6634-quake-iii-team-arena.json](./6634-quake-iii-team-arena.json) |
 | Quantic Pinball | 29831 | [29831-quantic-pinball.json](./29831-quantic-pinball.json) |
 | Quantum Cowboy | 413516 | [413516-quantum-cowboy.json](./413516-quantum-cowboy.json) |
+| Quantum Tycoon | 395440 | [395440-quantum-tycoon.json](./395440-quantum-tycoon.json) |
 | Quarantine Checkpoint: Medical Control Unit | 401431 | [401431-quarantine-checkpoint-medical-control-unit.json](./401431-quarantine-checkpoint-medical-control-unit.json) |
 | Quarries of Scred | 35835 | [35835-quarries-of-scred.json](./35835-quarries-of-scred.json) |
 | Qubed | 7150 | [7150-qubed.json](./7150-qubed.json) |
