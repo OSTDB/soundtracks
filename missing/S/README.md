@@ -96,11 +96,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
+| Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
+| Session: Skate Sim - Throwdowns Update | 400794 | [400794-session-skate-sim-throwdowns-update.json](./400794-session-skate-sim-throwdowns-update.json) |
 | SET Pro HD | 87578 | [87578-set-pro-hd.json](./87578-set-pro-hd.json) |
 | Settle or Sweep | 412861 | [412861-settle-or-sweep.json](./412861-settle-or-sweep.json) |
 | Seum: Speedrunners from Hell | 21993 | [21993-seum-speedrunners-from-hell.json](./21993-seum-speedrunners-from-hell.json) |
@@ -129,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Move Together | 410153 | [410153-sheep-move-together.json](./410153-sheep-move-together.json) |
 | Shelter 2: Complete Edition | 89318 | [89318-shelter-2-complete-edition.json](./89318-shelter-2-complete-edition.json) |
 | Shelve the Potions! | 411469 | [411469-shelve-the-potions.json](./411469-shelve-the-potions.json) |
+| Shepherd | 400812 | [400812-shepherd.json](./400812-shepherd.json) |
 | Sherlock Holmes: Chapter One | 134161 | [134161-sherlock-holmes-chapter-one.json](./134161-sherlock-holmes-chapter-one.json) |
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shibora Renkare Keiyaku: Hataraku Otona no Onee-san to H na Rental Kareshi Seikatsu | 410785 | [410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json](./410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json) |
@@ -224,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
+| Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
 | Slipspace Panic | 404153 | [404153-slipspace-panic.json](./404153-slipspace-panic.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
@@ -232,6 +236,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World of Golf | 404134 | [404134-small-world-of-golf.json](./404134-small-world-of-golf.json) |
 | Smart Ball | 42461 | [42461-smart-ball.json](./42461-smart-ball.json) |
 | Smart Logic Games:Toddler Kids & Baby Learning App | 89532 | [89532-smart-logic-games-toddler-kids-and-baby-learning-app.json](./89532-smart-logic-games-toddler-kids-and-baby-learning-app.json) |
+| Smash Dizzy | 400769 | [400769-smash-dizzy.json](./400769-smash-dizzy.json) |
+| Smash Melee | 400768 | [400768-smash-melee.json](./400768-smash-melee.json) |
 | Smashbox Arena | 26550 | [26550-smashbox-arena.json](./26550-smashbox-arena.json) |
 | Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Smile and Play | 405991 | [405991-smile-and-play.json](./405991-smile-and-play.json) |
@@ -319,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
+| Speed Rivals: Model Trains | 400759 | [400759-speed-rivals-model-trains.json](./400759-speed-rivals-model-trains.json) |
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | Speedy Bundle Speedway & Grand Prix | 412119 | [412119-speedy-bundle-speedway-and-grand-prix.json](./412119-speedy-bundle-speedway-and-grand-prix.json) |
 | Spellbound | 32972 | [32972-spellbound.json](./32972-spellbound.json) |
@@ -412,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Prison | 82804 | [82804-steam-prison.json](./82804-steam-prison.json) |
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
+| Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
