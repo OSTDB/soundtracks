@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of a Million Monsters! | 377454 | [377454-mansion-of-a-million-monsters.json](./377454-mansion-of-a-million-monsters.json) |
 | Mantle | 365500 | [365500-mantle.json](./365500-mantle.json) |
 | Many Turns One Road | 371709 | [371709-many-turns-one-road.json](./371709-many-turns-one-road.json) |
+| Map-Center's Quake Traps Jam 1 | 360983 | [360983-map-centers-quake-traps-jam-1.json](./360983-map-centers-quake-traps-jam-1.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
 | Maple Wars | 375634 | [375634-maple-wars.json](./375634-maple-wars.json) |
 | Mara | 405424 | [405424-mara.json](./405424-mara.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2120: The More, the Merrier | 375677 | [375677-mars-2120-the-more-the-merrier.json](./375677-mars-2120-the-more-the-merrier.json) |
 | Mars Colony Simulator | 400106 | [400106-mars-colony-simulator.json](./400106-mars-colony-simulator.json) |
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
+| Mars Kitchen | 360996 | [360996-mars-kitchen.json](./360996-mars-kitchen.json) |
 | Marshallese Dominatrixes Are the Best | 389304 | [389304-marshallese-dominatrixes-are-the-best.json](./389304-marshallese-dominatrixes-are-the-best.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
@@ -159,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Mavis Beacon Teaches Typing 2020 | 372329 | [372329-mavis-beacon-teaches-typing-2020.json](./372329-mavis-beacon-teaches-typing-2020.json) |
+| Maw of the Storm | 360971 | [360971-maw-of-the-storm.json](./360971-maw-of-the-storm.json) |
 | Mawatte Mucho! | 366045 | [366045-mawatte-mucho.json](./366045-mawatte-mucho.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
 | Max Mustard | 278411 | [278411-max-mustard.json](./278411-max-mustard.json) |
@@ -179,6 +182,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeatSlayer: Dash or Death | 370526 | [370526-meatslayer-dash-or-death.json](./370526-meatslayer-dash-or-death.json) |
 | Mech and Tech 1 | 373930 | [373930-mech-and-tech-1.json](./373930-mech-and-tech-1.json) |
 | Mech Builder 3D | 371691 | [371691-mech-builder-3d.json](./371691-mech-builder-3d.json) |
+| Mech Encounter: Rise of the Blade | 360965 | [360965-mech-encounter-rise-of-the-blade.json](./360965-mech-encounter-rise-of-the-blade.json) |
+| Mech Mayhem Manager | 360972 | [360972-mech-mayhem-manager.json](./360972-mech-mayhem-manager.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
 | Medabots Card Robattle RB | 390961 | [390961-medabots-card-robattle-rb.json](./390961-medabots-card-robattle-rb.json) |
@@ -382,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
 | Monkey Pirates | 20960 | [20960-monkey-pirates.json](./20960-monkey-pirates.json) |
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
+| Monmusu Paradise | 360954 | [360954-monmusu-paradise.json](./360954-monmusu-paradise.json) |
 | Monobeno | 61910 | [61910-monobeno.json](./61910-monobeno.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
@@ -478,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | MTB Bike Simulator | 401414 | [401414-mtb-bike-simulator.json](./401414-mtb-bike-simulator.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
+| Mugging It Up | 360928 | [360928-mugging-it-up.json](./360928-mugging-it-up.json) |
 | Mullet Cop the Game | 396821 | [396821-mullet-cop-the-game.json](./396821-mullet-cop-the-game.json) |
 | Muppet Kids: Letters - Capital & Small | 386603 | [386603-muppet-kids-letters-capital-and-small.json](./386603-muppet-kids-letters-capital-and-small.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
@@ -494,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushboom | 400802 | [400802-mushboom.json](./400802-mushboom.json) |
 | Mushroom Clicker | 374452 | [374452-mushroom-clicker.json](./374452-mushroom-clicker.json) |
 | Mushroom Investigates: The Fleeing Rain | 368303 | [368303-mushroom-investigates-the-fleeing-rain.json](./368303-mushroom-investigates-the-fleeing-rain.json) |
+| Mushroom Kingdom Match-Up | 360933 | [360933-mushroom-kingdom-match-up.json](./360933-mushroom-kingdom-match-up.json) |
 | Mushroom Men: Rise of the Fungi | 15022 | [15022-mushroom-men-rise-of-the-fungi.json](./15022-mushroom-men-rise-of-the-fungi.json) |
 | Mushroom Men: The Spore Wars | 5027 | [5027-mushroom-men-the-spore-wars.json](./5027-mushroom-men-the-spore-wars.json) |
 | Music Inside: A VR Rhythm Game | 31496 | [31496-music-inside-a-vr-rhythm-game.json](./31496-music-inside-a-vr-rhythm-game.json) |
@@ -510,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
 | My Cold Girlfriend | 374467 | [374467-my-cold-girlfriend.json](./374467-my-cold-girlfriend.json) |
+| My Dear Emma | 360945 | [360945-my-dear-emma.json](./360945-my-dear-emma.json) |
 | My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
