@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Majotori | 22023 | [22023-majotori.json](./22023-majotori.json) |
 | Mak Survival | 407231 | [407231-mak-survival.json](./407231-mak-survival.json) |
+| Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marry Me - Perfect Wedding Day | 86672 | [86672-marry-me-perfect-wedding-day.json](./86672-marry-me-perfect-wedding-day.json) |
 | Mars Colony Simulator | 400106 | [400106-mars-colony-simulator.json](./400106-mars-colony-simulator.json) |
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
+| Marshallese Dominatrixes Are the Best | 389304 | [389304-marshallese-dominatrixes-are-the-best.json](./389304-marshallese-dominatrixes-are-the-best.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
 | Marvel Rivals: Season 8 - Sins of Alchemax | 402159 | [402159-marvel-rivals-season-8-sins-of-alchemax.json](./402159-marvel-rivals-season-8-sins-of-alchemax.json) |
@@ -206,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Space Adventure | 7654 | [7654-mickeys-space-adventure.json](./7654-mickeys-space-adventure.json) |
 | Mickey's Wild Adventure | 256368 | [256368-mickeys-wild-adventure.json](./256368-mickeys-wild-adventure.json) |
 | Micro Race R2 | 401412 | [401412-micro-race-r2.json](./401412-micro-race-r2.json) |
+| Micronesian Dominatrixes Are the Best | 389305 | [389305-micronesian-dominatrixes-are-the-best.json](./389305-micronesian-dominatrixes-are-the-best.json) |
 | Micronova | 404157 | [404157-micronova.json](./404157-micronova.json) |
 | Microsoft Ants | 392624 | [392624-microsoft-ants.json](./392624-microsoft-ants.json) |
 | Microsoft Jewel | 400773 | [400773-microsoft-jewel.json](./400773-microsoft-jewel.json) |
@@ -242,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
+| Minigames Master | 389277 | [389277-minigames-master.json](./389277-minigames-master.json) |
 | Minigolf Family Party | 394714 | [394714-minigolf-family-party.json](./394714-minigolf-family-party.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
@@ -412,5 +416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Blackthorn Castle | 87623 | [87623-mystery-of-blackthorn-castle.json](./87623-mystery-of-blackthorn-castle.json) |
 | Mystic Heroes | 50583 | [50583-mystic-heroes.json](./50583-mystic-heroes.json) |
 | Mystic Vale | 112942 | [112942-mystic-vale.json](./112942-mystic-vale.json) |
+| Mystical Demon Farm | 389323 | [389323-mystical-demon-farm.json](./389323-mystical-demon-farm.json) |
 | Myth Requiem | 391468 | [391468-myth-requiem.json](./391468-myth-requiem.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
