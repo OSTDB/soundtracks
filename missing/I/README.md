@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Ella Mental - Diamond Skin | 400153 | [400153-invincible-vs-ella-mental-diamond-skin.json](./400153-invincible-vs-ella-mental-diamond-skin.json) |
 | Inworld Origins | 393327 | [393327-inworld-origins.json](./393327-inworld-origins.json) |
 | Ion Fury | 54844 | [54844-ion-fury.json](./54844-ion-fury.json) |
+| Iris | 390974 | [390974-iris.json](./390974-iris.json) |
 | Irisu Syndrome | 64288 | [64288-irisu-syndrome.json](./64288-irisu-syndrome.json) |
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survive Simulator: Craft, Build, Grow | 398199 | [398199-island-survive-simulator-craft-build-grow.json](./398199-island-survive-simulator-craft-build-grow.json) |
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
+| Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
 | It's Killing Time | 33005 | [33005-its-killing-time.json](./33005-its-killing-time.json) |
 | It's Quiz Time | 75227 | [75227-its-quiz-time.json](./75227-its-quiz-time.json) |
 | Ithaca | 404735 | [404735-ithaca.json](./404735-ithaca.json) |
