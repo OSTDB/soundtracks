@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
+| Raiding Party | 384980 | [384980-raiding-party.json](./384980-raiding-party.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
 | Raining Cats and Dogs | 398873 | [398873-raining-cats-and-dogs.json](./398873-raining-cats-and-dogs.json) |
@@ -30,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally & Hypercar Bundle | 412120 | [412120-rally-and-hypercar-bundle.json](./412120-rally-and-hypercar-bundle.json) |
 | Rally Car Mechanic Simulator | 405380 | [405380-rally-car-mechanic-simulator.json](./405380-rally-car-mechanic-simulator.json) |
 | Rally Trophy | 842 | [842-rally-trophy.json](./842-rally-trophy.json) |
+| Rally31 | 384982 | [384982-rally31.json](./384982-rally31.json) |
 | Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Ramune Forest | 391472 | [391472-ramune-forest.json](./391472-ramune-forest.json) |
 | Ranchbound | 386596 | [386596-ranchbound.json](./386596-ranchbound.json) |
@@ -224,9 +226,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman's Christmas: A Furry Detective Game | 107841 | [107841-romans-christmas-a-furry-detective-game.json](./107841-romans-christmas-a-furry-detective-game.json) |
 | Romance of the Three Kingdoms IX | 7492 | [7492-romance-of-the-three-kingdoms-ix.json](./7492-romance-of-the-three-kingdoms-ix.json) |
 | Romance of the Three Kingdoms X with Power Up Kit | 77038 | [77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json](./77038-romance-of-the-three-kingdoms-x-with-power-up-kit.json) |
+| Romancing Stella Visor | 384928 | [384928-romancing-stella-visor.json](./384928-romancing-stella-visor.json) |
 | Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rooftop Rascal: The Alley Cat | 308323 | [308323-rooftop-rascal-the-alley-cat.json](./308323-rooftop-rascal-the-alley-cat.json) |
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
+| Room 713 | 384952 | [384952-room-713.json](./384952-room-713.json) |
 | Room Craft | 406024 | [406024-room-craft.json](./406024-room-craft.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Roommates, Romance, and Ringing Hearts | 385460 | [385460-roommates-romance-and-ringing-hearts.json](./385460-roommates-romance-and-ringing-hearts.json) |
