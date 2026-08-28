@@ -67,6 +67,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Leads You... | 379214 | [379214-wave-leads-you.json](./379214-wave-leads-you.json) |
 | Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
+| Way of the Hunter: Bear Archery Pack | 376285 | [376285-way-of-the-hunter-bear-archery-pack.json](./376285-way-of-the-hunter-bear-archery-pack.json) |
+| Way of the Hunter: Christensen Arms Pack | 376287 | [376287-way-of-the-hunter-christensen-arms-pack.json](./376287-way-of-the-hunter-christensen-arms-pack.json) |
+| Way of the Hunter: Hunter's Advantage Pack | 376286 | [376286-way-of-the-hunter-hunters-advantage-pack.json](./376286-way-of-the-hunter-hunters-advantage-pack.json) |
 | Way of the Passive Fist | 36780 | [36780-way-of-the-passive-fist.json](./36780-way-of-the-passive-fist.json) |
 | Way of the Samurai Bundle: Sword Combat & Action | 409498 | [409498-way-of-the-samurai-bundle-sword-combat-and-action.json](./409498-way-of-the-samurai-bundle-sword-combat-and-action.json) |
 | Wayfinder | 228532 | [228532-wayfinder.json](./228532-wayfinder.json) |
