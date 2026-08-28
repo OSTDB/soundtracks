@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
 | Idle Iktah | 398891 | [398891-idle-iktah.json](./398891-idle-iktah.json) |
+| Idle Rect | 366056 | [366056-idle-rect.json](./366056-idle-rect.json) |
 | Idle Taoist Mage Warrior | 369395 | [369395-idle-taoist-mage-warrior.json](./369395-idle-taoist-mage-warrior.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | If You’re a Man, Hold On for Half a Song | 376301 | [376301-if-you-re-a-man-hold-on-for-half-a-song.json](./376301-if-you-re-a-man-hold-on-for-half-a-song.json) |
