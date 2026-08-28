@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ascent: Complete Edition | 366692 | [366692-the-ascent-complete-edition.json](./366692-the-ascent-complete-edition.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
+| The Barber Shop | 366090 | [366090-the-barber-shop.json](./366090-the-barber-shop.json) |
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
 | The Baseball: Go-taimen Stadium | 385502 | [385502-the-baseball-go-taimen-stadium.json](./385502-the-baseball-go-taimen-stadium.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Butcher's Village | 371096 | [371096-the-butchers-village.json](./371096-the-butchers-village.json) |
+| The Butterfly | 366064 | [366064-the-butterfly.json](./366064-the-butterfly.json) |
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Stone from Mebara | 35843 | [35843-the-dark-stone-from-mebara.json](./35843-the-dark-stone-from-mebara.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
+| The Deluge | 366088 | [366088-the-deluge.json](./366088-the-deluge.json) |
 | The Demon Inside You | 396051 | [396051-the-demon-inside-you.json](./396051-the-demon-inside-you.json) |
 | The Demon Party | 404113 | [404113-the-demon-party.json](./404113-the-demon-party.json) |
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
@@ -325,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
 | The Looking Game | 366679 | [366679-the-looking-game.json](./366679-the-looking-game.json) |
+| The Loop Below | 366069 | [366069-the-loop-below.json](./366069-the-loop-below.json) |
 | The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
 | The Lord of the Rings Online | 3092 | [3092-the-lord-of-the-rings-online.json](./3092-the-lord-of-the-rings-online.json) |
 | The Lord of the Rings Online: Mines of Moria | 774 | [774-the-lord-of-the-rings-online-mines-of-moria.json](./774-the-lord-of-the-rings-online-mines-of-moria.json) |
@@ -382,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Richest | 379752 | [379752-the-richest.json](./379752-the-richest.json) |
 | The Ritual | 380883 | [380883-the-ritual.json](./380883-the-ritual.json) |
+| The Sacrilege | 366070 | [366070-the-sacrilege.json](./366070-the-sacrilege.json) |
 | The Saplum Cradle | 387241 | [387241-the-saplum-cradle.json](./387241-the-saplum-cradle.json) |
 | The Scrolls | 395390 | [395390-the-scrolls.json](./395390-the-scrolls.json) |
 | The Sea Eternal | 32970 | [32970-the-sea-eternal.json](./32970-the-sea-eternal.json) |
@@ -479,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
+| Thief: The Stray Cat | 366038 | [366038-thief-the-stray-cat.json](./366038-thief-the-stray-cat.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Think Like a Shrink | 375028 | [375028-think-like-a-shrink.json](./375028-think-like-a-shrink.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
@@ -493,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoth | 24816 | [24816-thoth.json](./24816-thoth.json) |
 | Thousand Floors | 404148 | [404148-thousand-floors.json](./404148-thousand-floors.json) |
 | Threat Ops | 412875 | [412875-threat-ops.json](./412875-threat-ops.json) |
+| Three Body Problem | 366043 | [366043-three-body-problem.json](./366043-three-body-problem.json) |
 | Three Fourths Home | 10989 | [10989-three-fourths-home.json](./10989-three-fourths-home.json) |
 | Three Jokers | 390981 | [390981-three-jokers.json](./390981-three-jokers.json) |
 | Three Kingdoms Mushouden: Digital Deluxe Edition | 369399 | [369399-three-kingdoms-mushouden-digital-deluxe-edition.json](./369399-three-kingdoms-mushouden-digital-deluxe-edition.json) |
@@ -729,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
 | Truck Clash Duel | 403495 | [403495-truck-clash-duel.json](./403495-truck-clash-duel.json) |
 | Truck Driver's License | 401437 | [401437-truck-drivers-license.json](./401437-truck-drivers-license.json) |
+| Truck Parking World | 366058 | [366058-truck-parking-world.json](./366058-truck-parking-world.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | Truck-Kun Is Supporting Me From Another World?! | 400104 | [400104-truck-kun-is-supporting-me-from-another-world.json](./400104-truck-kun-is-supporting-me-from-another-world.json) |
 | True Abstraction: Forbidden | 373951 | [373951-true-abstraction-forbidden.json](./373951-true-abstraction-forbidden.json) |
