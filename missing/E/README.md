@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EG Chess | 87600 | [87600-eg-chess.json](./87600-eg-chess.json) |
 | Egg Is Broken. Heart Is Too. | 109832 | [109832-egg-is-broken-heart-is-too.json](./109832-egg-is-broken-heart-is-too.json) |
 | Egg Related Videogame | 403459 | [403459-egg-related-videogame.json](./403459-egg-related-videogame.json) |
+| Eggconsole C-So! MSX | 396099 | [396099-eggconsole-c-so-msx.json](./396099-eggconsole-c-so-msx.json) |
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | Element TD | 29810 | [29810-element-td.json](./29810-element-td.json) |
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
+| Elevation | 396044 | [396044-elevation.json](./396044-elevation.json) |
 | Elf World Adventure 12: Winter Episode! | 406033 | [406033-elf-world-adventure-12-winter-episode.json](./406033-elf-world-adventure-12-winter-episode.json) |
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
@@ -97,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity's Child | 15954 | [15954-eternitys-child.json](./15954-eternitys-child.json) |
 | Ether One | 5639 | [5639-ether-one.json](./5639-ether-one.json) |
 | Ethereal | 109818 | [109818-ethereal.json](./109818-ethereal.json) |
+| Etrange Overlord: Deluxe Edition | 396037 | [396037-etrange-overlord-deluxe-edition.json](./396037-etrange-overlord-deluxe-edition.json) |
 | Etrian Odyssey | 14716 | [14716-etrian-odyssey.json](./14716-etrian-odyssey.json) |
 | Etrian Odyssey 2 Untold: The Fafnir Knight | 14709 | [14709-etrian-odyssey-2-untold-the-fafnir-knight.json](./14709-etrian-odyssey-2-untold-the-fafnir-knight.json) |
 | Etrian Odyssey Nexus | 57012 | [57012-etrian-odyssey-nexus.json](./57012-etrian-odyssey-nexus.json) |
@@ -105,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Divine Wind | 10270 | [10270-europa-universalis-iii-divine-wind.json](./10270-europa-universalis-iii-divine-wind.json) |
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
 | European Logistics Tycoon | 400789 | [400789-european-logistics-tycoon.json](./400789-european-logistics-tycoon.json) |
+| European Truck Simulator | 396098 | [396098-european-truck-simulator.json](./396098-european-truck-simulator.json) |
 | Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
