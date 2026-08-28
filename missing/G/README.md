@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generator Rex: Agent of Providence | 8005 | [8005-generator-rex-agent-of-providence.json](./8005-generator-rex-agent-of-providence.json) |
 | Genius Greedy Mouse | 22718 | [22718-genius-greedy-mouse.json](./22718-genius-greedy-mouse.json) |
 | Genma Onimusha | 78622 | [78622-genma-onimusha.json](./78622-genma-onimusha.json) |
+| Genshin Impact: A Traveler on a Winter's Night | 382013 | [382013-genshin-impact-a-traveler-on-a-winters-night.json](./382013-genshin-impact-a-traveler-on-a-winters-night.json) |
 | Gentleman's Violence | 384956 | [384956-gentlemans-violence.json](./384956-gentlemans-violence.json) |
 | Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geometry Attack | 396091 | [396091-geometry-attack.json](./396091-geometry-attack.json) |
