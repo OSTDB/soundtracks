@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to Work, Gnomes! Christmas Factory | 399472 | [399472-get-to-work-gnomes-christmas-factory.json](./399472-get-to-work-gnomes-christmas-factory.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | GGM | 383850 | [383850-ggm.json](./383850-ggm.json) |
+| Ghost Code: Escape | 366081 | [366081-ghost-code-escape.json](./366081-ghost-code-escape.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
 | Ghost Gang | 369940 | [369940-ghost-gang.json](./369940-ghost-gang.json) |
 | Ghost Hunter Simulator | 371082 | [371082-ghost-hunter-simulator.json](./371082-ghost-hunter-simulator.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
 | Gravitten | 379775 | [379775-gravitten.json](./379775-gravitten.json) |
+| GravityMan | 366049 | [366049-gravityman.json](./366049-gravityman.json) |
 | Gravosphere | 368334 | [368334-gravosphere.json](./368334-gravosphere.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
