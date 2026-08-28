@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexbot Quality Assurance Simulator | 109630 | [109630-sexbot-quality-assurance-simulator.json](./109630-sexbot-quality-assurance-simulator.json) |
 | Sexy Parodius | 39485 | [39485-sexy-parodius.json](./39485-sexy-parodius.json) |
 | Sexy Serial Killer | 76698 | [76698-sexy-serial-killer.json](./76698-sexy-serial-killer.json) |
+| Shā Diāo Zhī Lù | 364335 | [364335-sha-diao-zhi-lu.json](./364335-sha-diao-zhi-lu.json) |
 | Shadow City Mysteries: Case Files - Rise of the Rat King | 375666 | [375666-shadow-city-mysteries-case-files-rise-of-the-rat-king.json](./375666-shadow-city-mysteries-case-files-rise-of-the-rat-king.json) |
 | Shadow Corridor Zero | 414258 | [414258-shadow-corridor-zero.json](./414258-shadow-corridor-zero.json) |
 | Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
 | Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
 | Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
+| Snake Chess | 364288 | [364288-snake-chess.json](./364288-snake-chess.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
 | Snake:Byte | 372325 | [372325-snake-byte.json](./372325-snake-byte.json) |
@@ -407,10 +409,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
 | Socket | 393996 | [393996-socket.json](./393996-socket.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
+| Softspores | 364289 | [364289-softspores.json](./364289-softspores.json) |
 | Sok | 77170 | [77170-sok.json](./77170-sok.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
 | Solace Crafting | 46487 | [46487-solace-crafting.json](./46487-solace-crafting.json) |
 | Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
+| Solbrand | 364319 | [364319-solbrand.json](./364319-solbrand.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solheart: The Hollow Sun | 386005 | [386005-solheart-the-hollow-sun.json](./386005-solheart-the-hollow-sun.json) |
@@ -488,7 +492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Space Sex Lab | 382027 | [382027-space-sex-lab.json](./382027-space-sex-lab.json) |
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
+| Space Sweeper | 364291 | [364291-space-sweeper.json](./364291-space-sweeper.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
+| Spaceloop | 364292 | [364292-spaceloop.json](./364292-spaceloop.json) |
 | Spacenap | 378049 | [378049-spacenap.json](./378049-spacenap.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spacetime Shooter | 388619 | [388619-spacetime-shooter.json](./388619-spacetime-shooter.json) |
@@ -612,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarNomads | 365489 | [365489-starnomads.json](./365489-starnomads.json) |
 | Starport Delta | 110879 | [110879-starport-delta.json](./110879-starport-delta.json) |
 | Stars in the Trash | 208410 | [208410-stars-in-the-trash.json](./208410-stars-in-the-trash.json) |
+| Stars in Your Eyes | 364296 | [364296-stars-in-your-eyes.json](./364296-stars-in-your-eyes.json) |
 | Starship Corporation | 14904 | [14904-starship-corporation.json](./14904-starship-corporation.json) |
 | Starship Traveller | 35773 | [35773-starship-traveller.json](./35773-starship-traveller.json) |
 | Starship Troopers | 22401 | [22401-starship-troopers.json](./22401-starship-troopers.json) |
@@ -653,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stinky Cat | 384937 | [384937-stinky-cat.json](./384937-stinky-cat.json) |
+| Stomagron | 364297 | [364297-stomagron.json](./364297-stomagron.json) |
 | Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone | 407962 | [407962-stone.json](./407962-stone.json) |
 | Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
@@ -680,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
 | Streaming On! VTuber Training | 382024 | [382024-streaming-on-vtuber-training.json](./382024-streaming-on-vtuber-training.json) |
 | Street Arena | 35817 | [35817-street-arena.json](./35817-street-arena.json) |
+| Street Cleaning Day: Rat's Revenge | 364298 | [364298-street-cleaning-day-rats-revenge.json](./364298-street-cleaning-day-rats-revenge.json) |
 | Street Fighter 30th Anniversary Collection | 77175 | [77175-street-fighter-30th-anniversary-collection.json](./77175-street-fighter-30th-anniversary-collection.json) |
 | Street Fighter 6: Year 4 - Arjun | 404718 | [404718-street-fighter-6-year-4-arjun.json](./404718-street-fighter-6-year-4-arjun.json) |
 | Street Fighter 6: Year 4 - Bosch | 404719 | [404719-street-fighter-6-year-4-bosch.json](./404719-street-fighter-6-year-4-bosch.json) |
@@ -754,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunlit Journey | 397579 | [397579-sunlit-journey.json](./397579-sunlit-journey.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
+| Sunset Satellite | 364299 | [364299-sunset-satellite.json](./364299-sunset-satellite.json) |
 | Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
 | Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
