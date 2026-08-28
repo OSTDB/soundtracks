@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
+| Chill & Reel | 386025 | [386025-chill-and-reel.json](./386025-chill-and-reel.json) |
 | Chill Drive Together | 415000 | [415000-chill-drive-together.json](./415000-chill-drive-together.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Chinbu's Adventure | 77160 | [77160-chinbus-adventure.json](./77160-chinbus-adventure.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
 | Crash and Conquer | 392020 | [392020-crash-and-conquer.json](./392020-crash-and-conquer.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
+| Crash of the Titans: Monster Edition | 386044 | [386044-crash-of-the-titans-monster-edition.json](./386044-crash-of-the-titans-monster-edition.json) |
 | Crash Twinsanity | 1189 | [1189-crash-twinsanity.json](./1189-crash-twinsanity.json) |
 | Crawlers and Brawlers | 32996 | [32996-crawlers-and-brawlers.json](./32996-crawlers-and-brawlers.json) |
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
@@ -378,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushing Force | 392627 | [392627-crushing-force.json](./392627-crushing-force.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
 | Crypto Crisis | 110091 | [110091-crypto-crisis.json](./110091-crypto-crisis.json) |
+| Crysalis | 386029 | [386029-crysalis.json](./386029-crysalis.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
