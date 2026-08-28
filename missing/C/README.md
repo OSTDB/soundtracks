@@ -179,6 +179,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Vein II Deluxe Edition | 407918 | [407918-code-vein-ii-deluxe-edition.json](./407918-code-vein-ii-deluxe-edition.json) |
 | Code Vein II: Mask of Idris | 408674 | [408674-code-vein-ii-mask-of-idris.json](./408674-code-vein-ii-mask-of-idris.json) |
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
+| Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
+| Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
 | Cooking Mama: Cook Off | 3061 | [3061-cooking-mama-cook-off.json](./3061-cooking-mama-cook-off.json) |
 | Cooking Simulator | 38967 | [38967-cooking-simulator.json](./38967-cooking-simulator.json) |
+| Cooking Tycoons: 3 in 1 Bundle - Definitive Edition | 402173 | [402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json](./402173-cooking-tycoons-3-in-1-bundle-definitive-edition.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
@@ -246,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
+| Cottage Witch | 402149 | [402149-cottage-witch.json](./402149-cottage-witch.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
 | Counter Terrorist Agency | 110697 | [110697-counter-terrorist-agency.json](./110697-counter-terrorist-agency.json) |
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
@@ -315,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
 | Cupcake Maker | 89502 | [89502-cupcake-maker.json](./89502-cupcake-maker.json) |
+| Curious Copy Cats | 402167 | [402167-curious-copy-cats.json](./402167-curious-copy-cats.json) |
 | Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
