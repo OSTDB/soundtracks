@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Territory: Quake Wars | 680 | [680-enemy-territory-quake-wars.json](./680-enemy-territory-quake-wars.json) |
 | Engraved Establishment | 409435 | [409435-engraved-establishment.json](./409435-engraved-establishment.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
+| Entropy Archive | 404761 | [404761-entropy-archive.json](./404761-entropy-archive.json) |
 | Entropy Rising | 36134 | [36134-entropy-rising.json](./36134-entropy-rising.json) |
 | Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
