@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbikes Pro 2025: Elite Edition | 402177 | [402177-motorbikes-pro-2025-elite-edition.json](./402177-motorbikes-pro-2025-elite-edition.json) |
 | Motorbikes Pro 2025: Platinium Edition | 394750 | [394750-motorbikes-pro-2025-platinium-edition.json](./394750-motorbikes-pro-2025-platinium-edition.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
+| Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
 | My Vet Practice: In the Country | 17044 | [17044-my-vet-practice-in-the-country.json](./17044-my-vet-practice-in-the-country.json) |
 | My Wet Leto Comic: Fan Anthem of Deduction | 393994 | [393994-my-wet-leto-comic-fan-anthem-of-deduction.json](./393994-my-wet-leto-comic-fan-anthem-of-deduction.json) |
+| My Wish To You | 390385 | [390385-my-wish-to-you.json](./390385-my-wish-to-you.json) |
 | Mym's Sword | 402812 | [402812-myms-sword.json](./402812-myms-sword.json) |
 | MyMemory | 397562 | [397562-mymemory.json](./397562-mymemory.json) |
 | MyNewSMBW Traditional Mod | 394014 | [394014-mynewsmbw-traditional-mod.json](./394014-mynewsmbw-traditional-mod.json) |
