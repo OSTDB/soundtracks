@@ -171,6 +171,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
 | Pirates vs. Ninjas Dodgeball | 5102 | [5102-pirates-vs-ninjas-dodgeball.json](./5102-pirates-vs-ninjas-dodgeball.json) |
 | Pit-Fighter | 6824 | [6824-pit-fighter.json](./6824-pit-fighter.json) |
+| Pit-Fighter | 374994 | [374994-pit-fighter.json](./374994-pit-fighter.json) |
+| Pit-Fighter | 374993 | [374993-pit-fighter.json](./374993-pit-fighter.json) |
+| Pit-Fighter | 374992 | [374992-pit-fighter.json](./374992-pit-fighter.json) |
+| Pit-Fighter | 374991 | [374991-pit-fighter.json](./374991-pit-fighter.json) |
 | Pith | 412176 | [412176-pith.json](./412176-pith.json) |
 | Pitstop | 23877 | [23877-pitstop.json](./23877-pitstop.json) |
 | Pixel Cafe Minimal Chic | 386566 | [386566-pixel-cafe-minimal-chic.json](./386566-pixel-cafe-minimal-chic.json) |
@@ -257,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyGunner | 384372 | [384372-polygunner.json](./384372-polygunner.json) |
 | Polywings | 31470 | [31470-polywings.json](./31470-polywings.json) |
 | Ponder Thy Realm | 406607 | [406607-ponder-thy-realm.json](./406607-ponder-thy-realm.json) |
+| Pone | 375026 | [375026-pone.json](./375026-pone.json) |
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
 | Pool Fever: Platinium Edition | 394753 | [394753-pool-fever-platinium-edition.json](./394753-pool-fever-platinium-edition.json) |
 | Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
@@ -338,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Proto Anima | 382646 | [382646-proto-anima.json](./382646-proto-anima.json) |
+| Protocol: Umbra | 375016 | [375016-protocol-umbra.json](./375016-protocol-umbra.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
 | Prototype 2: Limited Edition | 387192 | [387192-prototype-2-limited-edition.json](./387192-prototype-2-limited-edition.json) |
 | Providence | 400149 | [400149-providence.json](./400149-providence.json) |
