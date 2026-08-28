@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headsrest | 387181 | [387181-headsrest.json](./387181-headsrest.json) |
 | Healer | 406605 | [406605-healer.json](./406605-healer.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
+| Heart Sequence | 384939 | [384939-heart-sequence.json](./384939-heart-sequence.json) |
 | Heart's Medicine: Hospital Heat | 36625 | [36625-hearts-medicine-hospital-heat.json](./36625-hearts-medicine-hospital-heat.json) |
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: Web of Wyrd | 228522 | [228522-hellboy-web-of-wyrd.json](./228522-hellboy-web-of-wyrd.json) |
 | Helldivers 2: Machinery of Oppression | 389320 | [389320-helldivers-2-machinery-of-oppression.json](./389320-helldivers-2-machinery-of-oppression.json) |
 | Hellxorcist | 398887 | [398887-hellxorcist.json](./398887-hellxorcist.json) |
+| Help Me Hide the Body | 384929 | [384929-help-me-hide-the-body.json](./384929-help-me-hide-the-body.json) |
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
 | Hentai Balls 3D: Triple Trouble | 387245 | [387245-hentai-balls-3d-triple-trouble.json](./387245-hentai-balls-3d-triple-trouble.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
 | Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
+| Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | HolyBattle | 402818 | [402818-holybattle.json](./402818-holybattle.json) |
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
