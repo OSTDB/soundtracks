@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | Frog Parkour Obby | 414231 | [414231-frog-parkour-obby.json](./414231-frog-parkour-obby.json) |
+| Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
 | Front Defense | 46590 | [46590-front-defense.json](./46590-front-defense.json) |
