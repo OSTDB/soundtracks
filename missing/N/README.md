@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Screams at the Funfair | 392045 | [392045-nice-screams-at-the-funfair.json](./392045-nice-screams-at-the-funfair.json) |
 | Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
+| Nidos | 381459 | [381459-nidos.json](./381459-nidos.json) |
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
 | Nier Replicant | 80468 | [80468-nier-replicant.json](./80468-nier-replicant.json) |
 | Nier: Automata - 3C3C1D119440927 | 28180 | [28180-nier-automata-3c3c1d119440927.json](./28180-nier-automata-3c3c1d119440927.json) |
