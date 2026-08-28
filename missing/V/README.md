@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
 | Visitors | 31537 | [31537-visitors.json](./31537-visitors.json) |
+| VIVIT-99 | 379197 | [379197-vivit-99.json](./379197-vivit-99.json) |
 | Vlak | 78148 | [78148-vlak.json](./78148-vlak.json) |
 | Void Blasters | 402168 | [402168-void-blasters.json](./402168-void-blasters.json) |
 | Void Breach | 395448 | [395448-void-breach.json](./395448-void-breach.json) |
