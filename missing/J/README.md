@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Orlando: Director's Cut | 30239 | [30239-jack-orlando-directors-cut.json](./30239-jack-orlando-directors-cut.json) |
 | Jackpot 21 | 405386 | [405386-jackpot-21.json](./405386-jackpot-21.json) |
 | Jade Dynasty | 51194 | [51194-jade-dynasty.json](./51194-jade-dynasty.json) |
+| Jaden Williams' The Stalking Stairs | 388627 | [388627-jaden-williams-the-stalking-stairs.json](./388627-jaden-williams-the-stalking-stairs.json) |
 | Jagged Alliance 2: Gold Pack | 29194 | [29194-jagged-alliance-2-gold-pack.json](./29194-jagged-alliance-2-gold-pack.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
@@ -78,11 +79,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Clash | 394027 | [394027-jungle-clash.json](./394027-jungle-clash.json) |
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
+| Junkyard Garage Simulator | 388604 | [388604-junkyard-garage-simulator.json](./388604-junkyard-garage-simulator.json) |
 | Jupiter Hell | 25825 | [25825-jupiter-hell.json](./25825-jupiter-hell.json) |
 | Jurassic Life: Tyrannosaurus Rex Dinosaur Simulator | 87577 | [87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json](./87577-jurassic-life-tyrannosaurus-rex-dinosaur-simulator.json) |
 | Jurassic Life: Velociraptor Dinosaur Simulator | 87579 | [87579-jurassic-life-velociraptor-dinosaur-simulator.json](./87579-jurassic-life-velociraptor-dinosaur-simulator.json) |
 | Jurassic Park | 11067 | [11067-jurassic-park.json](./11067-jurassic-park.json) |
 | Jurassic World Evolution 3: Wetlands | 396074 | [396074-jurassic-world-evolution-3-wetlands.json](./396074-jurassic-world-evolution-3-wetlands.json) |
+| Just Chess | 388586 | [388586-just-chess.json](./388586-just-chess.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
