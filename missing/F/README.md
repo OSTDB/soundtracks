@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
 | Faerie Solitaire Harvest | 115787 | [115787-faerie-solitaire-harvest.json](./115787-faerie-solitaire-harvest.json) |
 | FaeVerse Alchemy | 36421 | [36421-faeverse-alchemy.json](./36421-faeverse-alchemy.json) |
+| Faint Echo | 373950 | [373950-faint-echo.json](./373950-faint-echo.json) |
 | Fairune Collection | 96241 | [96241-fairune-collection.json](./96241-fairune-collection.json) |
 | Fairway Solitaire - Card Game | 86795 | [86795-fairway-solitaire-card-game.json](./86795-fairway-solitaire-card-game.json) |
 | Fairy Fencer F: Advent Dark Force | 11502 | [11502-fairy-fencer-f-advent-dark-force.json](./11502-fairy-fencer-f-advent-dark-force.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Contraption | 18403 | [18403-fantastic-contraption.json](./18403-fantastic-contraption.json) |
 | Fantastic Journey | 386582 | [386582-fantastic-journey.json](./386582-fantastic-journey.json) |
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
+| Fantasy Franchise | 373939 | [373939-fantasy-franchise.json](./373939-fantasy-franchise.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
 | Fantasy Ore Shop | 389882 | [389882-fantasy-ore-shop.json](./389882-fantasy-ore-shop.json) |
 | Fantasy Versus | 96514 | [96514-fantasy-versus.json](./96514-fantasy-versus.json) |
@@ -92,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearbound | 409494 | [409494-fearbound.json](./409494-fearbound.json) |
 | Fearless Fantasy | 9233 | [9233-fearless-fantasy.json](./9233-fearless-fantasy.json) |
+| Fechtbucher | 373918 | [373918-fechtbucher.json](./373918-fechtbucher.json) |
 | Feed My Mech | 374476 | [374476-feed-my-mech.json](./374476-feed-my-mech.json) |
 | Feed The Void | 389311 | [389311-feed-the-void.json](./389311-feed-the-void.json) |
 | Feeding Frenzy | 3759 | [3759-feeding-frenzy.json](./3759-feeding-frenzy.json) |
@@ -188,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
 | Flappy Poire | 412876 | [412876-flappy-poire.json](./412876-flappy-poire.json) |
 | Flappy Sky Bird | 87588 | [87588-flappy-sky-bird.json](./87588-flappy-sky-bird.json) |
+| Flappy Witch | 373943 | [373943-flappy-witch.json](./373943-flappy-witch.json) |
 | Flashing Lights: Police Fire EMS | 58580 | [58580-flashing-lights-police-fire-ems.json](./58580-flashing-lights-police-fire-ems.json) |
 | Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
@@ -326,9 +330,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Chess 3D | 89462 | [89462-fun-chess-3d.json](./89462-fun-chess-3d.json) |
 | Fun! Fun! Minigolf Touch! | 47648 | [47648-fun-fun-minigolf-touch.json](./47648-fun-fun-minigolf-touch.json) |
 | Funnel Runners | 393305 | [393305-funnel-runners.json](./393305-funnel-runners.json) |
+| Funny Bones | 373921 | [373921-funny-bones.json](./373921-funny-bones.json) |
 | Furikake Spacey OVA: Vietnam Thai Cambodia Philippines-hen | 379221 | [379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json](./379221-furikake-spacey-ova-vietnam-thai-cambodia-philippines-hen.json) |
 | Furious Racing: Muscle cars | 95669 | [95669-furious-racing-muscle-cars.json](./95669-furious-racing-muscle-cars.json) |
 | Furnace God | 395431 | [395431-furnace-god.json](./395431-furnace-god.json) |
+| Furniture Restoration Simulator: Garage Edition | 373908 | [373908-furniture-restoration-simulator-garage-edition.json](./373908-furniture-restoration-simulator-garage-edition.json) |
 | Furry Girls | 382061 | [382061-furry-girls.json](./382061-furry-girls.json) |
 | Furry Passion | 382025 | [382025-furry-passion.json](./382025-furry-passion.json) |
 | Fusion Ball | 89474 | [89474-fusion-ball.json](./89474-fusion-ball.json) |
