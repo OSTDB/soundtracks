@@ -70,12 +70,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
+| Whodunit Sudoku | 414249 | [414249-whodunit-sudoku.json](./414249-whodunit-sudoku.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
 | Wild Animal Sports Day | 86346 | [86346-wild-animal-sports-day.json](./86346-wild-animal-sports-day.json) |
 | Wild Arms 5 | 1682 | [1682-wild-arms-5.json](./1682-wild-arms-5.json) |
 | Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
+| Wildlife Ballistics | 414212 | [414212-wildlife-ballistics.json](./414212-wildlife-ballistics.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
 | Will Rock | 23717 | [23717-will-rock.json](./23717-will-rock.json) |
@@ -98,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
+| Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
