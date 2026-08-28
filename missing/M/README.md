@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Maple Ridge | 407921 | [407921-maple-ridge.json](./407921-maple-ridge.json) |
+| Mara | 405424 | [405424-mara.json](./405424-mara.json) |
 | Marauder | 75863 | [75863-marauder.json](./75863-marauder.json) |
 | Marble Madness | 2246 | [2246-marble-madness.json](./2246-marble-madness.json) |
 | Marble Muse | 24029 | [24029-marble-muse.json](./24029-marble-muse.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
+| Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | Monkey Business | 410105 | [410105-monkey-business.json](./410105-monkey-business.json) |
@@ -237,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Max | 18629 | [18629-monster-max.json](./18629-monster-max.json) |
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
+| Monster Slingshot Smash | 405375 | [405375-monster-slingshot-smash.json](./405375-monster-slingshot-smash.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Monsterland | 34364 | [34364-monsterland.json](./34364-monsterland.json) |
 | Monsters and Monocles | 23184 | [23184-monsters-and-monocles.json](./23184-monsters-and-monocles.json) |
