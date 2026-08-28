@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerfuel | 392633 | [392633-powerfuel.json](./392633-powerfuel.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
+| Practisim Designer | 388591 | [388591-practisim-designer.json](./388591-practisim-designer.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
 | Premium Play Darkness | 22477 | [22477-premium-play-darkness.json](./22477-premium-play-darkness.json) |
 | Press: Authorized Disposal | 411489 | [411489-press-authorized-disposal.json](./411489-press-authorized-disposal.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Chess | 16749 | [16749-pure-chess.json](./16749-pure-chess.json) |
 | Pure Football | 7138 | [7138-pure-football.json](./7138-pure-football.json) |
 | Pure Rock Crawling | 95627 | [95627-pure-rock-crawling.json](./95627-pure-rock-crawling.json) |
+| Purrfect Ascent | 388633 | [388633-purrfect-ascent.json](./388633-purrfect-ascent.json) |
 | Pursuit Force | 26995 | [26995-pursuit-force.json](./26995-pursuit-force.json) |
 | Puss in Box | 402821 | [402821-puss-in-box.json](./402821-puss-in-box.json) |
 | Putin 20!8 | 86541 | [86541-putin-20-8.json](./86541-putin-20-8.json) |
