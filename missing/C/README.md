@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: United Offensive | 624 | [624-call-of-duty-united-offensive.json](./624-call-of-duty-united-offensive.json) |
 | Call of Duty: World at War - Final Fronts | 19836 | [19836-call-of-duty-world-at-war-final-fronts.json](./19836-call-of-duty-world-at-war-final-fronts.json) |
 | Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
+| Call of Elmore | 403507 | [403507-call-of-elmore.json](./403507-call-of-elmore.json) |
 | Call to 10 | 29875 | [29875-call-to-10.json](./29875-call-to-10.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Competitive TicTacToe | 404108 | [404108-competitive-tictactoe.json](./404108-competitive-tictactoe.json) |
 | Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
+| Concepts | 403460 | [403460-concepts.json](./403460-concepts.json) |
 | Condemned 2: Recompiled | 412833 | [412833-condemned-2-recompiled.json](./412833-condemned-2-recompiled.json) |
 | Conduit 2 | 4770 | [4770-conduit-2.json](./4770-conduit-2.json) |
 | Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
 | CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
+| Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
 | Crown Control | 407228 | [407228-crown-control.json](./407228-crown-control.json) |
 | Crown of the Gods | 20924 | [20924-crown-of-the-gods.json](./20924-crown-of-the-gods.json) |
 | Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
