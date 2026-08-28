@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
 | Verge: Lost Chapter | 34484 | [34484-verge-lost-chapter.json](./34484-verge-lost-chapter.json) |
+| Vergessen ist nicht vergangen | 398253 | [398253-vergessen-ist-nicht-vergangen.json](./398253-vergessen-ist-nicht-vergangen.json) |
 | Versus: Battle of the Gladiator | 23231 | [23231-versus-battle-of-the-gladiator.json](./23231-versus-battle-of-the-gladiator.json) |
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
