@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
+| Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
+| Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
@@ -132,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rider DX | 61928 | [61928-bike-rider-dx.json](./61928-bike-rider-dx.json) |
 | Bike Rider DX2: Galaxy | 61925 | [61925-bike-rider-dx2-galaxy.json](./61925-bike-rider-dx2-galaxy.json) |
 | Bill Elliott's NASCAR Challenge | 7785 | [7785-bill-elliotts-nascar-challenge.json](./7785-bill-elliotts-nascar-challenge.json) |
+| Bin Ladin Duck Hunt | 396071 | [396071-bin-ladin-duck-hunt.json](./396071-bin-ladin-duck-hunt.json) |
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
 | BioShock | 152660 | [152660-bioshock.json](./152660-bioshock.json) |
@@ -233,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
+| Borderlands 4: Story Pack 1 - Mad Ellie and the Vault of the Damned | 396087 | [396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json](./396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json) |
 | Boring Man: Online Tactical Stickman Combat | 35862 | [35862-boring-man-online-tactical-stickman-combat.json](./35862-boring-man-online-tactical-stickman-combat.json) |
 | Born Again | 403461 | [403461-born-again.json](./403461-born-again.json) |
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
