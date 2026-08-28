@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
 | That Time I Got Reincarnated as a Tyrant God | 403465 | [403465-that-time-i-got-reincarnated-as-a-tyrant-god.json](./403465-that-time-i-got-reincarnated-as-a-tyrant-god.json) |
+| The 1% Club World Challenge | 396117 | [396117-the-1-club-world-challenge.json](./396117-the-1-club-world-challenge.json) |
 | The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Stone from Mebara | 35843 | [35843-the-dark-stone-from-mebara.json](./35843-the-dark-stone-from-mebara.json) |
 | The Darkside Detective | 35283 | [35283-the-darkside-detective.json](./35283-the-darkside-detective.json) |
 | The Deer | 15324 | [15324-the-deer.json](./15324-the-deer.json) |
+| The Demon Inside You | 396051 | [396051-the-demon-inside-you.json](./396051-the-demon-inside-you.json) |
 | The Demon Party | 404113 | [404113-the-demon-party.json](./404113-the-demon-party.json) |
 | The Denpa Men 2: Beyond the Waves | 63484 | [63484-the-denpa-men-2-beyond-the-waves.json](./63484-the-denpa-men-2-beyond-the-waves.json) |
 | The Denpa Men 3: The Rise of Digitoll | 63170 | [63170-the-denpa-men-3-the-rise-of-digitoll.json](./63170-the-denpa-men-3-the-rise-of-digitoll.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Project 8 | 6204 | [6204-tony-hawks-project-8.json](./6204-tony-hawks-project-8.json) |
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
 | Too Many Balls | 404117 | [404117-too-many-balls.json](./404117-too-many-balls.json) |
+| Too Many Captains | 396081 | [396081-too-many-captains.json](./396081-too-many-captains.json) |
 | Too Well Hidden | 396832 | [396832-too-well-hidden.json](./396832-too-well-hidden.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
