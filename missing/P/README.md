@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
+| Peppa Pig: Jump & Giggle | 382610 | [382610-peppa-pig-jump-and-giggle.json](./382610-peppa-pig-jump-and-giggle.json) |
 | Perfect Game | 411462 | [411462-perfect-game.json](./411462-perfect-game.json) |
 | PerformVR | 412834 | [412834-performvr.json](./412834-performvr.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
+| Poker: Texas & Omaha Hold'em | 382633 | [382633-poker-texas-and-omaha-holdem.json](./382633-poker-texas-and-omaha-holdem.json) |
 | Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
 | Polda 2 | 64662 | [64662-polda-2.json](./64662-polda-2.json) |
 | Police Car Simulator: Evo | 401429 | [401429-police-car-simulator-evo.json](./401429-police-car-simulator-evo.json) |
@@ -318,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proof Club | 386605 | [386605-proof-club.json](./386605-proof-club.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
+| Proto Anima | 382646 | [382646-proto-anima.json](./382646-proto-anima.json) |
 | Protonwar | 33044 | [33044-protonwar.json](./33044-protonwar.json) |
 | Prototype 2: Limited Edition | 387192 | [387192-prototype-2-limited-edition.json](./387192-prototype-2-limited-edition.json) |
 | Providence | 400149 | [400149-providence.json](./400149-providence.json) |
