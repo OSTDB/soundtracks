@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle of Forgotten Testament | 86607 | [86607-oracle-of-forgotten-testament.json](./86607-oracle-of-forgotten-testament.json) |
 | Oradea | 387858 | [387858-oradea.json](./387858-oradea.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
+| Orb Stories | 386022 | [386022-orb-stories.json](./386022-orb-stories.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
 | Orbit Arcadia | 387239 | [387239-orbit-arcadia.json](./387239-orbit-arcadia.json) |
