@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Baron II | 845 | [845-red-baron-ii.json](./845-red-baron-ii.json) |
 | Red Earth | 39315 | [39315-red-earth.json](./39315-red-earth.json) |
 | Red Faction II | 4083 | [4083-red-faction-ii.json](./4083-red-faction-ii.json) |
+| Red Kite | 407985 | [407985-red-kite.json](./407985-red-kite.json) |
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City: Tokyo Rumble | 24433 | [24433-river-city-tokyo-rumble.json](./24433-river-city-tokyo-rumble.json) |
 | Riverbond | 57420 | [57420-riverbond.json](./57420-riverbond.json) |
 | Riverhill Trials | 89422 | [89422-riverhill-trials.json](./89422-riverhill-trials.json) |
+| RMN Soup | 407915 | [407915-rmn-soup.json](./407915-rmn-soup.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
 | Road Rash II | 4429 | [4429-road-rash-ii.json](./4429-road-rash-ii.json) |
@@ -159,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Farmer Cat | 395582 | [395582-rooftop-rascal-the-farmer-cat.json](./395582-rooftop-rascal-the-farmer-cat.json) |
 | rooMaze | 29872 | [29872-roomaze.json](./29872-roomaze.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
+| Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
