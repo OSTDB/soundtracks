@@ -46,12 +46,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razerwire:Nanowars | 86448 | [86448-razerwire-nanowars.json](./86448-razerwire-nanowars.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
+| Re:Re:Ghosted | 401433 | [401433-re-re-ghosted.json](./401433-re-re-ghosted.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
 | Reaching for Petals | 38661 | [38661-reaching-for-petals.json](./38661-reaching-for-petals.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
+| Real Car Parking Simulator | 401434 | [401434-real-car-parking-simulator.json](./401434-real-car-parking-simulator.json) |
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
@@ -113,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
 | Rift of the NecroDancer: Friday Night Funkin' Music Pack | 402205 | [402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json](./402205-rift-of-the-necrodancer-friday-night-funkin-music-pack.json) |
+| Rift Riot | 401432 | [401432-rift-riot.json](./401432-rift-riot.json) |
 | Rifter | 43891 | [43891-rifter.json](./43891-rifter.json) |
 | Ring Fit Adventure | 122338 | [122338-ring-fit-adventure.json](./122338-ring-fit-adventure.json) |
 | Ring Master I: The Shadow of Filias | 402816 | [402816-ring-master-i-the-shadow-of-filias.json](./402816-ring-master-i-the-shadow-of-filias.json) |
