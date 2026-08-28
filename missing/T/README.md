@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorsepsis | 367797 | [367797-terrorsepsis.json](./367797-terrorsepsis.json) |
 | Test Drive: Off-Road 3 | 366686 | [366686-test-drive-off-road-3.json](./366686-test-drive-off-road-3.json) |
 | Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
+| Tetap Kacau | 364300 | [364300-tetap-kacau.json](./364300-tetap-kacau.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Horse the Horse | 412870 | [412870-the-adventures-of-horse-the-horse.json](./412870-the-adventures-of-horse-the-horse.json) |
 | The Adventures of Lomax | 7663 | [7663-the-adventures-of-lomax.json](./7663-the-adventures-of-lomax.json) |
 | The Algian Sword | 370523 | [370523-the-algian-sword.json](./370523-the-algian-sword.json) |
+| The Alius | 364293 | [364293-the-alius.json](./364293-the-alius.json) |
 | The Alley | 380869 | [380869-the-alley.json](./380869-the-alley.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
 | The Archives of Trevosa | 400144 | [400144-the-archives-of-trevosa.json](./400144-the-archives-of-trevosa.json) |
@@ -365,6 +367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nurse | 380888 | [380888-the-nurse.json](./380888-the-nurse.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
+| The Olisinpa Split | 364301 | [364301-the-olisinpa-split.json](./364301-the-olisinpa-split.json) |
+| The Only Hope | 364302 | [364302-the-only-hope.json](./364302-the-only-hope.json) |
 | The Operational Art of War IV | 59525 | [59525-the-operational-art-of-war-iv.json](./59525-the-operational-art-of-war-iv.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
@@ -385,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Quest | 380884 | [380884-the-queens-quest.json](./380884-the-queens-quest.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Raxxnorian Alliance | 364303 | [364303-the-raxxnorian-alliance.json](./364303-the-raxxnorian-alliance.json) |
 | The Reason My Wife Has Gotten More Beautiful | 386026 | [386026-the-reason-my-wife-has-gotten-more-beautiful.json](./386026-the-reason-my-wife-has-gotten-more-beautiful.json) |
 | The Red Dowry | 396810 | [396810-the-red-dowry.json](./396810-the-red-dowry.json) |
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
@@ -469,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Waiting Room: An Existential Simulation | 368319 | [368319-the-waiting-room-an-existential-simulation.json](./368319-the-waiting-room-an-existential-simulation.json) |
 | The Wake | 380875 | [380875-the-wake.json](./380875-the-wake.json) |
+| The Walkin Cat | 364304 | [364304-the-walkin-cat.json](./364304-the-walkin-cat.json) |
 | The Wall | 109648 | [109648-the-wall.json](./109648-the-wall.json) |
 | The Wall | 380876 | [380876-the-wall.json](./380876-the-wall.json) |
 | The Way | 380877 | [380877-the-way.json](./380877-the-way.json) |
@@ -523,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Castle | 26296 | [26296-thunder-castle.json](./26296-thunder-castle.json) |
 | Thunder Force III | 4423 | [4423-thunder-force-iii.json](./4423-thunder-force-iii.json) |
 | Thunder Kid | 109805 | [109805-thunder-kid.json](./109805-thunder-kid.json) |
+| Thunder Road | 364310 | [364310-thunder-road.json](./364310-thunder-road.json) |
 | Thunder Spikes Volleyball | 365479 | [365479-thunder-spikes-volleyball.json](./365479-thunder-spikes-volleyball.json) |
 | Tick Tock Bang Bang | 33067 | [33067-tick-tock-bang-bang.json](./33067-tick-tock-bang-bang.json) |
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
@@ -653,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Divine Land -Majesty in Game- | 392052 | [392052-touhou-divine-land-majesty-in-game.json](./392052-touhou-divine-land-majesty-in-game.json) |
 | Touhou: Records of Wealth-Seeking | 410150 | [410150-touhou-records-of-wealth-seeking.json](./410150-touhou-records-of-wealth-seeking.json) |
 | Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
+| Tourtour | 364305 | [364305-tourtour.json](./364305-tourtour.json) |
 | Tow the Line | 390414 | [390414-tow-the-line.json](./390414-tow-the-line.json) |
 | Tower Defense | 380868 | [380868-tower-defense.json](./380868-tower-defense.json) |
 | Tower Dwellers | 33019 | [33019-tower-dwellers.json](./33019-tower-dwellers.json) |
@@ -722,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
 | Trials of Olympus | 392622 | [392622-trials-of-olympus.json](./392622-trials-of-olympus.json) |
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
+| Tribute Revamp | 364306 | [364306-tribute-revamp.json](./364306-tribute-revamp.json) |
 | Tricky Castle | 380861 | [380861-tricky-castle.json](./380861-tricky-castle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
