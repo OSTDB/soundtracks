@@ -136,5 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kvartirant | 387236 | [387236-kvartirant.json](./387236-kvartirant.json) |
 | Kygo 'Carry Me' VR Experience | 29835 | [29835-kygo-carry-me-vr-experience.json](./29835-kygo-carry-me-vr-experience.json) |
 | Kynseed | 56026 | [56026-kynseed.json](./56026-kynseed.json) |
+| Kyojin-tachi Zero Div1 | 376338 | [376338-kyojin-tachi-zero-div1.json](./376338-kyojin-tachi-zero-div1.json) |
+| Kyojin-tachi Zero: Prologue | 376337 | [376337-kyojin-tachi-zero-prologue.json](./376337-kyojin-tachi-zero-prologue.json) |
 | Kyoto Colorful Days | 32949 | [32949-kyoto-colorful-days.json](./32949-kyoto-colorful-days.json) |
 | Kyra The Hunter | 398862 | [398862-kyra-the-hunter.json](./398862-kyra-the-hunter.json) |
