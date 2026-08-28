@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Beginning: Final Cut | 20832 | [20832-a-new-beginning-final-cut.json](./20832-a-new-beginning-final-cut.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
+| A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
 | A Timely Intervention | 33037 | [33037-a-timely-intervention.json](./33037-a-timely-intervention.json) |
 | A Witch's Tale | 24264 | [24264-a-witchs-tale.json](./24264-a-witchs-tale.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
@@ -27,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Raiders: Uncharted | 35788 | [35788-abyss-raiders-uncharted.json](./35788-abyss-raiders-uncharted.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
+| Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
@@ -200,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
+| AVSEQ | 15288 | [15288-avseq.json](./15288-avseq.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
