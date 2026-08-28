@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unlikely Legend of Rusty Pup | 63281 | [63281-the-unlikely-legend-of-rusty-pup.json](./63281-the-unlikely-legend-of-rusty-pup.json) |
 | The Valiant | 201895 | [201895-the-valiant.json](./201895-the-valiant.json) |
 | The Videokid | 29801 | [29801-the-videokid.json](./29801-the-videokid.json) |
+| The Village Rises | 389890 | [389890-the-village-rises.json](./389890-the-village-rises.json) |
 | The Void Rains Upon Her Heart | 78062 | [78062-the-void-rains-upon-her-heart.json](./78062-the-void-rains-upon-her-heart.json) |
 | The Wall | 109648 | [109648-the-wall.json](./109648-the-wall.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
 | Together We Move | 398213 | [398213-together-we-move.json](./398213-together-we-move.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
+| Toilet Paper Idle | 389898 | [389898-toilet-paper-idle.json](./389898-toilet-paper-idle.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
 | Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tung | 413541 | [413541-tung.json](./413541-tung.json) |
 | Tung Tung Tung Survival | 408645 | [408645-tung-tung-tung-survival.json](./408645-tung-tung-tung-survival.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
+| Tunnel Escape Fates Entwined | 389871 | [389871-tunnel-escape-fates-entwined.json](./389871-tunnel-escape-fates-entwined.json) |
 | Tūnshí Tiāndì Xūnǐ Shìjiè | 396828 | [396828-tunshi-tiandi-xuni-shijie.json](./396828-tunshi-tiandi-xuni-shijie.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
