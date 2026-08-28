@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
+| Hardtrace | 393348 | [393348-hardtrace.json](./393348-hardtrace.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
 | Harold Rabbit 3: The House of Mysteries | 406599 | [406599-harold-rabbit-3-the-house-of-mysteries.json](./406599-harold-rabbit-3-the-house-of-mysteries.json) |
@@ -121,9 +122,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highborn | 15297 | [15297-highborn.json](./15297-highborn.json) |
 | Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
+| Highwind | 393345 | [393345-highwind.json](./393345-highwind.json) |
 | Hikaru no Go 3 | 62379 | [62379-hikaru-no-go-3.json](./62379-hikaru-no-go-3.json) |
 | Hill Climb Legends | 405387 | [405387-hill-climb-legends.json](./405387-hill-climb-legends.json) |
 | Hill Climb Racing 2 | 74858 | [74858-hill-climb-racing-2.json](./74858-hill-climb-racing-2.json) |
+| Himawari Aqua After: The Day the Moon Stood Still | 393323 | [393323-himawari-aqua-after-the-day-the-moon-stood-still.json](./393323-himawari-aqua-after-the-day-the-moon-stood-still.json) |
 | Hinterland | 14913 | [14913-hinterland.json](./14913-hinterland.json) |
 | Hip Hop Immortals | 403477 | [403477-hip-hop-immortals.json](./403477-hip-hop-immortals.json) |
 | Hip-Hop Trivia: Starring Murs | 20941 | [20941-hip-hop-trivia-starring-murs.json](./20941-hip-hop-trivia-starring-murs.json) |
@@ -141,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone | 243887 | [243887-home-alone.json](./243887-home-alone.json) |
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
 | Home Invader | 397543 | [397543-home-invader.json](./397543-home-invader.json) |
+| Home Is Where The Hearth Is | 393318 | [393318-home-is-where-the-hearth-is.json](./393318-home-is-where-the-hearth-is.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
 | Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
@@ -165,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
 | Horse Spirit Valley 2 | 413558 | [413558-horse-spirit-valley-2.json](./413558-horse-spirit-valley-2.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
+| Hoshiyomi no Tsumugu Uta | 393346 | [393346-hoshiyomi-no-tsumugu-uta.json](./393346-hoshiyomi-no-tsumugu-uta.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
 | Hostile Waters: Antaeus Rising | 752 | [752-hostile-waters-antaeus-rising.json](./752-hostile-waters-antaeus-rising.json) |
@@ -196,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
+| Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
 | Hyper Rollergirl | 395398 | [395398-hyper-rollergirl.json](./395398-hyper-rollergirl.json) |
