@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village of Souls | 47133 | [47133-village-of-souls.json](./47133-village-of-souls.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
+| Violet Impetus | 385469 | [385469-violet-impetus.json](./385469-violet-impetus.json) |
 | VIP | 9202 | [9202-vip.json](./9202-vip.json) |
 | Viper.io | 407245 | [407245-viper-io.json](./407245-viper-io.json) |
 | Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
