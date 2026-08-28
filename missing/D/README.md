@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diabolika | 380262 | [380262-diabolika.json](./380262-diabolika.json) |
+| Diamond Cash Slots | 360985 | [360985-diamond-cash-slots.json](./360985-diamond-cash-slots.json) |
 | Diana | 379760 | [379760-diana.json](./379760-diana.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirtlight | 400138 | [400138-dirtlight.json](./400138-dirtlight.json) |
 | Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
+| Dirtzone | 360961 | [360961-dirtzone.json](./360961-dirtzone.json) |
 | Disc Golf | 380268 | [380268-disc-golf.json](./380268-disc-golf.json) |
 | Disc Jam | 25210 | [25210-disc-jam.json](./25210-disc-jam.json) |
 | Disciples: Sacred Lands | 6541 | [6541-disciples-sacred-lands.json](./6541-disciples-sacred-lands.json) |
@@ -410,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country 4: The Kongs Return | 381457 | [381457-donkey-kong-country-4-the-kongs-return.json](./381457-donkey-kong-country-4-the-kongs-return.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
+| Donkey Kong Match-Up | 360932 | [360932-donkey-kong-match-up.json](./360932-donkey-kong-match-up.json) |
 | Donna Survivors | 385471 | [385471-donna-survivors.json](./385471-donna-survivors.json) |
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
 | Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
@@ -534,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams | 380290 | [380290-dreams.json](./380290-dreams.json) |
 | Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
 | Dreams Far Away | 397540 | [397540-dreams-far-away.json](./397540-dreams-far-away.json) |
+| Dreams of a Ghost | 360953 | [360953-dreams-of-a-ghost.json](./360953-dreams-of-a-ghost.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dreams of Saturn 3.0 | 382012 | [382012-dreams-of-saturn-3-0.json](./382012-dreams-of-saturn-3-0.json) |
 | Dreamy Golden Snow | 391509 | [391509-dreamy-golden-snow.json](./391509-dreamy-golden-snow.json) |
