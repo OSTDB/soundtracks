@@ -49,7 +49,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
 | Get Your Hot Money | 87626 | [87626-get-your-hot-money.json](./87626-get-your-hot-money.json) |
 | Ghost Express | 414987 | [414987-ghost-express.json](./414987-ghost-express.json) |
+| Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
+| Ghost Village Girl: The Village in a Cage | 410134 | [410134-ghost-village-girl-the-village-in-a-cage.json](./410134-ghost-village-girl-the-village-in-a-cage.json) |
 | GhostControl Inc. | 17106 | [17106-ghostcontrol-inc.json](./17106-ghostcontrol-inc.json) |
 | Ghoste's Grunge | 412867 | [412867-ghostes-grunge.json](./412867-ghostes-grunge.json) |
 | Ghostlords | 31471 | [31471-ghostlords.json](./31471-ghostlords.json) |
@@ -153,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Dreamstate | 414965 | [414965-guardians-of-dreamstate.json](./414965-guardians-of-dreamstate.json) |
 | Guardians of the Galaxy: The Universal Weapon | 20944 | [20944-guardians-of-the-galaxy-the-universal-weapon.json](./20944-guardians-of-the-galaxy-the-universal-weapon.json) |
 | Guild Wars 2: Path of Fire | 53387 | [53387-guild-wars-2-path-of-fire.json](./53387-guild-wars-2-path-of-fire.json) |
+| Guillotine | 410108 | [410108-guillotine.json](./410108-guillotine.json) |
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
