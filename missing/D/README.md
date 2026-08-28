@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictatorship Simulator | 404159 | [404159-dictatorship-simulator.json](./404159-dictatorship-simulator.json) |
 | Die By Die | 372853 | [372853-die-by-die.json](./372853-die-by-die.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
+| Die drei ???: Geheimnis der Schattenhelden | 368846 | [368846-die-drei-geheimnis-der-schattenhelden.json](./368846-die-drei-geheimnis-der-schattenhelden.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Difference Machine | 393310 | [393310-difference-machine.json](./393310-difference-machine.json) |
