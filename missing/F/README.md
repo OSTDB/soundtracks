@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| F-22 Lightning 3 | 16012 | [16012-f-22-lightning-3.json](./16012-f-22-lightning-3.json) |
 | F-22 Lightning II | 10759 | [10759-f-22-lightning-ii.json](./10759-f-22-lightning-ii.json) |
 | F-24 Stealth Fighter | 20980 | [20980-f-24-stealth-fighter.json](./20980-f-24-stealth-fighter.json) |
 | F1 2002 | 22059 | [22059-f1-2002.json](./22059-f1-2002.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farnham Fables | 24531 | [24531-farnham-fables.json](./24531-farnham-fables.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
+| Fast Racing League | 14890 | [14890-fast-racing-league.json](./14890-fast-racing-league.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
@@ -141,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
 | Forbidden Love With the Ghost Girl | 126650 | [126650-forbidden-love-with-the-ghost-girl.json](./126650-forbidden-love-with-the-ghost-girl.json) |
+| Force of Elements | 15573 | [15573-force-of-elements.json](./15573-force-of-elements.json) |
 | Forced | 5626 | [5626-forced.json](./5626-forced.json) |
 | Ford Racing: Off Road | 4868 | [4868-ford-racing-off-road.json](./4868-ford-racing-off-road.json) |
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
