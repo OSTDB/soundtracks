@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| Wàng Wénài Shēng Yì | 372321 | [372321-wang-wenai-sheng-yi.json](./372321-wang-wenai-sheng-yi.json) |
 | Wànjié Bù Miè | 407977 | [407977-wanjie-bu-mie.json](./407977-wanjie-bu-mie.json) |
 | Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
 | Wanted G-Man | 385493 | [385493-wanted-g-man.json](./385493-wanted-g-man.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
+| Warlocks Maze | 372313 | [372313-warlocks-maze.json](./372313-warlocks-maze.json) |
 | Warlocks Nexus | 404129 | [404129-warlocks-nexus.json](./404129-warlocks-nexus.json) |
 | Warlocks vs Shadows | 36199 | [36199-warlocks-vs-shadows.json](./36199-warlocks-vs-shadows.json) |
 | Warlords | 239503 | [239503-warlords.json](./239503-warlords.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeb Store Simulator: Supermarket Together | 388610 | [388610-weeb-store-simulator-supermarket-together.json](./388610-weeb-store-simulator-supermarket-together.json) |
 | Weed Inc | 101948 | [101948-weed-inc.json](./101948-weed-inc.json) |
 | WeedEx: Drug Express Delivery | 373913 | [373913-weedex-drug-express-delivery.json](./373913-weedex-drug-express-delivery.json) |
+| Wèilái Zhànshì | 372315 | [372315-weilai-zhanshi.json](./372315-weilai-zhanshi.json) |
 | WEJbA: We Exist Just to be Alive | 398207 | [398207-wejba-we-exist-just-to-be-alive.json](./398207-wejba-we-exist-just-to-be-alive.json) |
 | Welcome Back to 2007 | 77180 | [77180-welcome-back-to-2007.json](./77180-welcome-back-to-2007.json) |
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
