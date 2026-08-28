@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizards in the Woods | 383211 | [383211-wizards-in-the-woods.json](./383211-wizards-in-the-woods.json) |
+| Wǒ de Rénshēng | 367217 | [367217-wo-de-rensheng.json](./367217-wo-de-rensheng.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Warp | 369981 | [369981-word-warp.json](./369981-word-warp.json) |
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | WordWar | 368328 | [368328-wordwar.json](./368328-wordwar.json) |
+| Workshop Works | 367256 | [367256-workshop-works.json](./367256-workshop-works.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
