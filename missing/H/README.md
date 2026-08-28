@@ -92,9 +92,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's House | 26149 | [26149-henrys-house.json](./26149-henrys-house.json) |
 | Hentai Age Scientist | 396066 | [396066-hentai-age-scientist.json](./396066-hentai-age-scientist.json) |
 | Hentai Defense | 109663 | [109663-hentai-defense.json](./109663-hentai-defense.json) |
+| Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
+| Hentai Nazi Hitler is Back | 392646 | [392646-hentai-nazi-hitler-is-back.json](./392646-hentai-nazi-hitler-is-back.json) |
 | Hentai Reality | 396102 | [396102-hentai-reality.json](./396102-hentai-reality.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
+| Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
@@ -187,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
+| Human Bowling: King Pin | 392617 | [392617-human-bowling-king-pin.json](./392617-human-bowling-king-pin.json) |
 | Humanity | 122565 | [122565-humanity.json](./122565-humanity.json) |
 | Humankind II | 414961 | [414961-humankind-ii.json](./414961-humankind-ii.json) |
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
@@ -201,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
+| Hygrim | 392654 | [392654-hygrim.json](./392654-hygrim.json) |
 | Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
