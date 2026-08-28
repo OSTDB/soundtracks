@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostship Aftermath | 17114 | [17114-ghostship-aftermath.json](./17114-ghostship-aftermath.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
 | Gibber Babel | 403464 | [403464-gibber-babel.json](./403464-gibber-babel.json) |
+| Giga Lich | 400136 | [400136-giga-lich.json](./400136-giga-lich.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
 | Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt. | 114023 | [114023-giga-wrecker-alt.json](./114023-giga-wrecker-alt.json) |
@@ -106,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
 | Gods With Guns | 407259 | [407259-gods-with-guns.json](./407259-gods-with-guns.json) |
+| Godseeker II | 400108 | [400108-godseeker-ii.json](./400108-godseeker-ii.json) |
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
