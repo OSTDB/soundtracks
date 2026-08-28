@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | S.N.I.P.E.R.: Hunter Scope - Add-on Edition | 402184 | [402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json](./402184-s-n-i-p-e-r-hunter-scope-add-on-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Core Edition | 394755 | [394755-s-n-i-p-e-r-hunter-scope-core-edition.json](./394755-s-n-i-p-e-r-hunter-scope-core-edition.json) |
+| S.P.E.C.T.O.R 01 | 393998 | [393998-s-p-e-c-t-o-r-01.json](./393998-s-p-e-c-t-o-r-01.json) |
 | S.p.l.i.t | 342566 | [342566-s-p-l-i-t.json](./342566-s-p-l-i-t.json) |
 | S.W.I.N.E. HD Remaster | 114758 | [114758-s-w-i-n-e-hd-remaster.json](./114758-s-w-i-n-e-hd-remaster.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 27879 | [27879-sabans-mighty-morphin-power-rangers-mega-battle.json](./27879-sabans-mighty-morphin-power-rangers-mega-battle.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
 | Social Justice Warriors | 35776 | [35776-social-justice-warriors.json](./35776-social-justice-warriors.json) |
+| Socket | 393996 | [393996-socket.json](./393996-socket.json) |
 | Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Sok | 77170 | [77170-sok.json](./77170-sok.json) |
 | Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
@@ -317,11 +319,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sore | 407925 | [407925-sore.json](./407925-sore.json) |
 | Sorry! World | 411455 | [411455-sorry-world.json](./411455-sorry-world.json) |
 | Sortilège | 410761 | [410761-sortilege.json](./410761-sortilege.json) |
+| Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
 | Soulmine | 404149 | [404149-soulmine.json](./404149-soulmine.json) |
+| Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
 | Soup4U | 408699 | [408699-soup4u.json](./408699-soup4u.json) |
 | South Park | 1257 | [1257-south-park.json](./1257-south-park.json) |
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
@@ -459,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Volleyball | 89307 | [89307-stickman-volleyball.json](./89307-stickman-volleyball.json) |
 | Stickman WW2 Battle Simulator | 101944 | [101944-stickman-ww2-battle-simulator.json](./101944-stickman-ww2-battle-simulator.json) |
 | Stigmat | 34442 | [34442-stigmat.json](./34442-stigmat.json) |
+| Stika | 394006 | [394006-stika.json](./394006-stika.json) |
 | Still Maze: Stab Eyes | 404130 | [404130-still-maze-stab-eyes.json](./404130-still-maze-stab-eyes.json) |
 | Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
@@ -517,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Sudoku Bactron | 404733 | [404733-sudoku-bactron.json](./404733-sudoku-bactron.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
+| Sugary Super Mario Bros. Wii | 394011 | [394011-sugary-super-mario-bros-wii.json](./394011-sugary-super-mario-bros-wii.json) |
 | Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
@@ -539,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
 | Super Dragon Ball Z | 2581 | [2581-super-dragon-ball-z.json](./2581-super-dragon-ball-z.json) |
 | Super Fluid Hyper Flow! | 412181 | [412181-super-fluid-hyper-flow.json](./412181-super-fluid-hyper-flow.json) |
+| Super Frozen World 2 | 394018 | [394018-super-frozen-world-2.json](./394018-super-frozen-world-2.json) |
 | Super Galaxy Gladiator | 404121 | [404121-super-galaxy-gladiator.json](./404121-super-galaxy-gladiator.json) |
 | Super Gem Fighter Mini Mix | 39314 | [39314-super-gem-fighter-mini-mix.json](./39314-super-gem-fighter-mini-mix.json) |
 | Super Ghouls'n Ghosts | 6621 | [6621-super-ghoulsn-ghosts.json](./6621-super-ghoulsn-ghosts.json) |
@@ -551,10 +558,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: The Unknown Courses | 405410 | [405410-super-mario-64-the-unknown-courses.json](./405410-super-mario-64-the-unknown-courses.json) |
 | Super Mario Advance | 81197 | [81197-super-mario-advance.json](./81197-super-mario-advance.json) |
 | Super Mario All-Stars + Super Mario World | 77378 | [77378-super-mario-all-stars-super-mario-world.json](./77378-super-mario-all-stars-super-mario-world.json) |
+| Super Mario and the SkyStar Dreams | 394015 | [394015-super-mario-and-the-skystar-dreams.json](./394015-super-mario-and-the-skystar-dreams.json) |
+| Super Mario and the Starry Skies | 394017 | [394017-super-mario-and-the-starry-skies.json](./394017-super-mario-and-the-starry-skies.json) |
 | Super Mario Bros. / Duck Hunt | 69638 | [69638-super-mario-bros-duck-hunt.json](./69638-super-mario-bros-duck-hunt.json) |
 | Super Mario Bros. 3 | 222099 | [222099-super-mario-bros-3.json](./222099-super-mario-bros-3.json) |
+| Super Mario Bros. Midnight | 394007 | [394007-super-mario-bros-midnight.json](./394007-super-mario-bros-midnight.json) |
 | Super Mario Bros.: The Lost Levels | 1066 | [1066-super-mario-bros-the-lost-levels.json](./1066-super-mario-bros-the-lost-levels.json) |
 | Super Mario Bros.: The Lost Levels | 222097 | [222097-super-mario-bros-the-lost-levels.json](./222097-super-mario-bros-the-lost-levels.json) |
+| Super Mario Crossroads | 394009 | [394009-super-mario-crossroads.json](./394009-super-mario-crossroads.json) |
+| Super Mario Poison Forest | 394016 | [394016-super-mario-poison-forest.json](./394016-super-mario-poison-forest.json) |
 | Super Meat Boy 3D | 348175 | [348175-super-meat-boy-3d.json](./348175-super-meat-boy-3d.json) |
 | Super Monkey Ball 349 | 405409 | [405409-super-monkey-ball-349.json](./405409-super-monkey-ball-349.json) |
 | Super Monkey Ball Deluxe | 2929 | [2929-super-monkey-ball-deluxe.json](./2929-super-monkey-ball-deluxe.json) |
