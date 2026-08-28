@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
+| Alien Snap | 391463 | [391463-alien-snap.json](./391463-alien-snap.json) |
 | Alien Syndrome | 4667 | [4667-alien-syndrome.json](./4667-alien-syndrome.json) |
 | Alien Zombie Megadeath | 15146 | [15146-alien-zombie-megadeath.json](./15146-alien-zombie-megadeath.json) |
 | Alien: Isolation - Nostromo Edition | 41606 | [41606-alien-isolation-nostromo-edition.json](./41606-alien-isolation-nostromo-edition.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All is Whale | 412840 | [412840-all-is-whale.json](./412840-all-is-whale.json) |
 | All-Star Baseball 2004 | 11558 | [11558-all-star-baseball-2004.json](./11558-all-star-baseball-2004.json) |
 | All-Star Fruit Racing | 52263 | [52263-all-star-fruit-racing.json](./52263-all-star-fruit-racing.json) |
+| Almanach: Of Empires and Sorcery | 391493 | [391493-almanach-of-empires-and-sorcery.json](./391493-almanach-of-empires-and-sorcery.json) |
 | Almightree: The Last Dreamer | 24031 | [24031-almightree-the-last-dreamer.json](./24031-almightree-the-last-dreamer.json) |
 | Alone in the Dark | 213237 | [213237-alone-in-the-dark.json](./213237-alone-in-the-dark.json) |
 | Alone in the Dark 3 | 1959 | [1959-alone-in-the-dark-3.json](./1959-alone-in-the-dark-3.json) |
