@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction II | 4083 | [4083-red-faction-ii.json](./4083-red-faction-ii.json) |
 | Red Kite | 407985 | [407985-red-kite.json](./407985-red-kite.json) |
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
+| Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
 | Redline: Strings of Fate | 411434 | [411434-redline-strings-of-fate.json](./411434-redline-strings-of-fate.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rings of Power | 7224 | [7224-rings-of-power.json](./7224-rings-of-power.json) |
 | Riot of the numbers | 29785 | [29785-riot-of-the-numbers.json](./29785-riot-of-the-numbers.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
+| Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
 | Rise: Battle Lines | 24035 | [24035-rise-battle-lines.json](./24035-rise-battle-lines.json) |
 | Risen Kingdoms | 176166 | [176166-risen-kingdoms.json](./176166-risen-kingdoms.json) |
