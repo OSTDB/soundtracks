@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard 2 | 27088 | [27088-party-hard-2.json](./27088-party-hard-2.json) |
 | Party in my Dorm | 95646 | [95646-party-in-my-dorm.json](./95646-party-in-my-dorm.json) |
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
+| Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photographs | 80878 | [80878-photographs.json](./80878-photographs.json) |
 | Piano Trauma: Stress Deluxe | 409452 | [409452-piano-trauma-stress-deluxe.json](./409452-piano-trauma-stress-deluxe.json) |
 | Pico Park | 33027 | [33027-pico-park.json](./33027-pico-park.json) |
+| PicoCross | 404743 | [404743-picocross.json](./404743-picocross.json) |
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross S | 68334 | [68334-picross-s.json](./68334-picross-s.json) |
