@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex-Up | 76915 | [76915-hex-up.json](./76915-hex-up.json) |
 | Hexa Rhythm | 388590 | [388590-hexa-rhythm.json](./388590-hexa-rhythm.json) |
 | Hexaloric | 386052 | [386052-hexaloric.json](./386052-hexaloric.json) |
+| Hexashell | 364314 | [364314-hexashell.json](./364314-hexashell.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
+| Hollow Stories: Lockdown | 364315 | [364315-hollow-stories-lockdown.json](./364315-hollow-stories-lockdown.json) |
 | Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
 | Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
 | HoloVillage: Our Cozy Days | 379245 | [379245-holovillage-our-cozy-days.json](./379245-holovillage-our-cozy-days.json) |
