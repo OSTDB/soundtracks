@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alestian Story | 386033 | [386033-alestian-story.json](./386033-alestian-story.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
+| Algas | 385497 | [385497-algas.json](./385497-algas.json) |
 | Alhimik | 396797 | [396797-alhimik.json](./396797-alhimik.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
 | Alice in Wonderland: Hidden Objects | 89430 | [89430-alice-in-wonderland-hidden-objects.json](./89430-alice-in-wonderland-hidden-objects.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
 | Amazing Tater | 7754 | [7754-amazing-tater.json](./7754-amazing-tater.json) |
+| Amazone | 385496 | [385496-amazone.json](./385496-amazone.json) |
 | Amber Ceres | 400761 | [400761-amber-ceres.json](./400761-amber-ceres.json) |
 | Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
 | Amelie's Café: Halloween | 89313 | [89313-amelies-cafe-halloween.json](./89313-amelies-cafe-halloween.json) |
@@ -262,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arno Dash | 403517 | [403517-arno-dash.json](./403517-arno-dash.json) |
 | Arno Dash 2 | 403518 | [403518-arno-dash-2.json](./403518-arno-dash-2.json) |
 | Aromantic Confession | 406623 | [406623-aromantic-confession.json](./406623-aromantic-confession.json) |
+| Arrange Fever | 385498 | [385498-arrange-fever.json](./385498-arrange-fever.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Art Academy: Lessons for Everyone! | 6849 | [6849-art-academy-lessons-for-everyone.json](./6849-art-academy-lessons-for-everyone.json) |
@@ -304,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Emporia | 35860 | [35860-astro-emporia.json](./35860-astro-emporia.json) |
 | Astro Yoinkers | 407916 | [407916-astro-yoinkers.json](./407916-astro-yoinkers.json) |
 | Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
+| Astrovader 3D | 385482 | [385482-astrovader-3d.json](./385482-astrovader-3d.json) |
 | Aswang Hunter | 414189 | [414189-aswang-hunter.json](./414189-aswang-hunter.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
 | Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
@@ -314,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlyss | 283486 | [283486-atlyss.json](./283486-atlyss.json) |
 | AtmaSphere | 83607 | [83607-atmasphere.json](./83607-atmasphere.json) |
 | Atmosphere | 398236 | [398236-atmosphere.json](./398236-atmosphere.json) |
+| Attack Invader | 385499 | [385499-attack-invader.json](./385499-attack-invader.json) |
 | Attack on Titan 3 | 404715 | [404715-attack-on-titan-3.json](./404715-attack-on-titan-3.json) |
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
