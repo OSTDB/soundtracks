@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
 | Visitors | 31537 | [31537-visitors.json](./31537-visitors.json) |
 | Vlak | 78148 | [78148-vlak.json](./78148-vlak.json) |
+| Void Blasters | 402168 | [402168-void-blasters.json](./402168-void-blasters.json) |
 | Void Destroyer | 16776 | [16776-void-destroyer.json](./16776-void-destroyer.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
 | Voidhold | 414983 | [414983-voidhold.json](./414983-voidhold.json) |
