@@ -47,6 +47,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Blacksmith | 111486 | [111486-fantasy-blacksmith.json](./111486-fantasy-blacksmith.json) |
 | Fantasy Franchise | 373939 | [373939-fantasy-franchise.json](./373939-fantasy-franchise.json) |
 | Fantasy Life i: The Girl Who Steals Time | 236664 | [236664-fantasy-life-i-the-girl-who-steals-time.json](./236664-fantasy-life-i-the-girl-who-steals-time.json) |
+| Fantasy of Caocao | 368858 | [368858-fantasy-of-caocao.json](./368858-fantasy-of-caocao.json) |
+| Fantasy of Caocao 2 | 368876 | [368876-fantasy-of-caocao-2.json](./368876-fantasy-of-caocao-2.json) |
 | Fantasy Ore Shop | 389882 | [389882-fantasy-ore-shop.json](./389882-fantasy-ore-shop.json) |
 | Fantasy Versus | 96514 | [96514-fantasy-versus.json](./96514-fantasy-versus.json) |
 | Fantasy World Dizzy | 12090 | [12090-fantasy-world-dizzy.json](./12090-fantasy-world-dizzy.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - My Life as a Darklord | 41856 | [41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json](./41856-final-fantasy-crystal-chronicles-my-life-as-a-darklord.json) |
 | Final Fantasy: Record Keeper | 26981 | [26981-final-fantasy-record-keeper.json](./26981-final-fantasy-record-keeper.json) |
 | Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
+| Final Formation | 368837 | [368837-final-formation.json](./368837-final-formation.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
 | Find All: Christmas 2025 | 382656 | [382656-find-all-christmas-2025.json](./382656-find-all-christmas-2025.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
@@ -263,12 +266,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Definitive Edition | 402171 | [402171-formula-racing-pro-2026-definitive-edition.json](./402171-formula-racing-pro-2026-definitive-edition.json) |
 | Formula Racing Pro 2026: Premium Edition | 394749 | [394749-formula-racing-pro-2026-premium-edition.json](./394749-formula-racing-pro-2026-premium-edition.json) |
 | Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
+| Forsaken Lands | 368839 | [368839-forsaken-lands.json](./368839-forsaken-lands.json) |
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
+| Fortnite Festival: Black Hole Sun | 368831 | [368831-fortnite-festival-black-hole-sun.json](./368831-fortnite-festival-black-hole-sun.json) |
 | Fortnite Festival: I Feel It Coming | 369935 | [369935-fortnite-festival-i-feel-it-coming.json](./369935-fortnite-festival-i-feel-it-coming.json) |
 | Fortnite Festival: I Write Sins Not Tragedies | 369936 | [369936-fortnite-festival-i-write-sins-not-tragedies.json](./369936-fortnite-festival-i-write-sins-not-tragedies.json) |
+| Fortnite Festival: In Ha Mood | 368835 | [368835-fortnite-festival-in-ha-mood.json](./368835-fortnite-festival-in-ha-mood.json) |
 | Fortnite Festival: The Unforgiven | 369933 | [369933-fortnite-festival-the-unforgiven.json](./369933-fortnite-festival-the-unforgiven.json) |
+| Fortnite Festival: This Is How We Do It | 368830 | [368830-fortnite-festival-this-is-how-we-do-it.json](./368830-fortnite-festival-this-is-how-we-do-it.json) |
 | Fortnite: Gilded Elites Pack | 369951 | [369951-fortnite-gilded-elites-pack.json](./369951-fortnite-gilded-elites-pack.json) |
 | Fortune Mill | 403497 | [403497-fortune-mill.json](./403497-fortune-mill.json) |
 | Fortune Pact | 407233 | [407233-fortune-pact.json](./407233-fortune-pact.json) |
@@ -334,6 +341,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
 | Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
+| Frontier Hunter: Erza's Wheel of Fortune - Fashion Package Final Season | 368872 | [368872-frontier-hunter-erzas-wheel-of-fortune-fashion-package-final-season.json](./368872-frontier-hunter-erzas-wheel-of-fortune-fashion-package-final-season.json) |
+| Frontier Hunter: Erza's Wheel of Fortune - Mother's Trial | 368871 | [368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json](./368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
 | Frost and Glory | 374462 | [374462-frost-and-glory.json](./374462-frost-and-glory.json) |
