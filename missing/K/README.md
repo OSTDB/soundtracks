@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
 | Knowtorious | 412880 | [412880-knowtorious.json](./412880-knowtorious.json) |
 | Kokoro Space Opera | 414246 | [414246-kokoro-space-opera.json](./414246-kokoro-space-opera.json) |
+| Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
