@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
+| Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
 | Gothic 3: The Beginning | 10372 | [10372-gothic-3-the-beginning.json](./10372-gothic-3-the-beginning.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dawn: Definitive Edition | 154544 | [154544-grim-dawn-definitive-edition.json](./154544-grim-dawn-definitive-edition.json) |
 | GrimGrimoire | 2116 | [2116-grimgrimoire.json](./2116-grimgrimoire.json) |
 | Grimveil | 414220 | [414220-grimveil.json](./414220-grimveil.json) |
+| Grip XR | 402768 | [402768-grip-xr.json](./402768-grip-xr.json) |
 | Grocery Store Simulator | 302546 | [302546-grocery-store-simulator.json](./302546-grocery-store-simulator.json) |
 | Groove Coaster | 41497 | [41497-groove-coaster.json](./41497-groove-coaster.json) |
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
