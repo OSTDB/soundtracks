@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Witches Origin: Episode1 Daughters of Amalgam | 33066 | [33066-trouble-witches-origin-episode1-daughters-of-amalgam.json](./33066-trouble-witches-origin-episode1-daughters-of-amalgam.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
 | Truck Clash Duel | 403495 | [403495-truck-clash-duel.json](./403495-truck-clash-duel.json) |
+| Truck Driver's License | 401437 | [401437-truck-drivers-license.json](./401437-truck-drivers-license.json) |
 | Truck Racer | 16719 | [16719-truck-racer.json](./16719-truck-racer.json) |
 | True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True Remembrance | 78939 | [78939-true-remembrance.json](./78939-true-remembrance.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tung Tung Tung Survival | 408645 | [408645-tung-tung-tung-survival.json](./408645-tung-tung-tung-survival.json) |
 | Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
+| Turbo Rivals | 401436 | [401436-turbo-rivals.json](./401436-turbo-rivals.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
 | Twisted Fusion | 61926 | [61926-twisted-fusion.json](./61926-twisted-fusion.json) |
