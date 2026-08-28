@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami to Hikari no Sanctuary | 398853 | [398853-yami-to-hikari-no-sanctuary.json](./398853-yami-to-hikari-no-sanctuary.json) |
 | Yatzy: Classic Dice Game | 86683 | [86683-yatzy-classic-dice-game.json](./86683-yatzy-classic-dice-game.json) |
 | Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
+| Yggdrasil | 364307 | [364307-yggdrasil.json](./364307-yggdrasil.json) |
 | YGOMaster-TCG | 399455 | [399455-ygomaster-tcg.json](./399455-ygomaster-tcg.json) |
 | Yì Shìjiè Wùyǔ | 372322 | [372322-yi-shijie-wuyu.json](./372322-yi-shijie-wuyu.json) |
 | Yie Ar Kung-Fu 2: The Emperor Yie-Gah | 26340 | [26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json](./26340-yie-ar-kung-fu-2-the-emperor-yie-gah.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
 | You Must Sleep | 375652 | [375652-you-must-sleep.json](./375652-you-must-sleep.json) |
 | You vs. Zombies | 397582 | [397582-you-vs-zombies.json](./397582-you-vs-zombies.json) |
+| You Were Here Before | 364309 | [364309-you-were-here-before.json](./364309-you-were-here-before.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
 | You’re Here Again | 381470 | [381470-you-re-here-again.json](./381470-you-re-here-again.json) |
 | You're Invading My Space | 386018 | [386018-youre-invading-my-space.json](./386018-youre-invading-my-space.json) |
