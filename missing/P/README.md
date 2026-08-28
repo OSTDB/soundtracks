@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack'N Maze | 385488 | [385488-packn-maze.json](./385488-packn-maze.json) |
 | Package Pirates | 381426 | [381426-package-pirates.json](./381426-package-pirates.json) |
 | Pact, Passion, Puchimon! | 368832 | [368832-pact-passion-puchimon.json](./368832-pact-passion-puchimon.json) |
+| Paddle Pop The Pyrata | 360991 | [360991-paddle-pop-the-pyrata.json](./360991-paddle-pop-the-pyrata.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pain Signal | 408661 | [408661-pain-signal.json](./408661-pain-signal.json) |
 | Painkiller: Battle out of Hell | 1835 | [1835-painkiller-battle-out-of-hell.json](./1835-painkiller-battle-out-of-hell.json) |
