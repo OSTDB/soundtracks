@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I am Crazy Gorilla | 401401 | [401401-i-am-crazy-gorilla.json](./401401-i-am-crazy-gorilla.json) |
+| I Am Quadrober! | 369429 | [369429-i-am-quadrober.json](./369429-i-am-quadrober.json) |
 | I Am Sakuya FPS: Lunarian Invasion | 370493 | [370493-i-am-sakuya-fps-lunarian-invasion.json](./370493-i-am-sakuya-fps-lunarian-invasion.json) |
 | I am Stone | 370531 | [370531-i-am-stone.json](./370531-i-am-stone.json) |
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
 | Idle Iktah | 398891 | [398891-idle-iktah.json](./398891-idle-iktah.json) |
+| Idle Taoist Mage Warrior | 369395 | [369395-idle-taoist-mage-warrior.json](./369395-idle-taoist-mage-warrior.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | If You’re a Man, Hold On for Half a Song | 376301 | [376301-if-you-re-a-man-hold-on-for-half-a-song.json](./376301-if-you-re-a-man-hold-on-for-half-a-song.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
@@ -142,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intueri | 378636 | [378636-intueri.json](./378636-intueri.json) |
 | Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
+| Invention 8 | 369419 | [369419-invention-8.json](./369419-invention-8.json) |
 | Invert | 370499 | [370499-invert.json](./370499-invert.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
 | Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
