@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Tournament 2003 | 926 | [926-unreal-tournament-2003.json](./926-unreal-tournament-2003.json) |
 | Unsealed Pact | 372880 | [372880-unsealed-pact.json](./372880-unsealed-pact.json) |
 | Unsent | 410106 | [410106-unsent.json](./410106-unsent.json) |
+| Unshine Arcade | 369945 | [369945-unshine-arcade.json](./369945-unshine-arcade.json) |
 | Unusual Friends Bundle | 394725 | [394725-unusual-friends-bundle.json](./394725-unusual-friends-bundle.json) |
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
 | Up Bundle | 380849 | [380849-up-bundle.json](./380849-up-bundle.json) |
