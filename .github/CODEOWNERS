@@ -1,0 +1,5 @@
+# These owners are automatically requested for review on PRs that touch
+# the matching paths. See https://docs.github.com/articles/about-codeowners
+
+/submissions/  @metjum
+/missing/      @metjum

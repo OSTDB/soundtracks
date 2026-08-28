@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Submit a soundtrack (fastest)
+    url: https://ostdb.net/submit
+    about: Add a soundtrack directly on ostdb.net — no GitHub account needed.
+  - name: Submit via pull request
+    url: https://github.com/OSTDB/soundtracks/blob/main/SUBMITTING.md
+    about: Prefer PRs? Follow the step-by-step guide instead of opening an issue.

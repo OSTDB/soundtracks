@@ -1,0 +1,37 @@
+name: Broken or incorrect link
+description: A soundtrack entry has a dead, wrong, or outdated streaming link
+labels: ["broken-link"]
+body:
+  - type: input
+    id: game_name
+    attributes:
+      label: Game name
+      placeholder: e.g. Hollow Knight
+    validations:
+      required: true
+  - type: input
+    id: album_name
+    attributes:
+      label: Album name
+      description: The exact soundtrack/album name on ostdb.net
+    validations:
+      required: true
+  - type: dropdown
+    id: which_link
+    attributes:
+      label: Which link is broken?
+      options:
+        - Spotify
+        - Apple Music
+        - album.link
+        - Cover art
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong?
+      description: Dead link, wrong game/album, points to the wrong version, etc. Include the correct URL if you have it.
+    validations:
+      required: true

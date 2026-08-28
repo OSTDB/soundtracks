@@ -1,0 +1,31 @@
+name: Missing soundtrack
+description: A game is missing a soundtrack entry, or you don't want to submit a PR yourself
+labels: ["missing-soundtrack"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer a faster route? You can [submit directly on ostdb.net](https://ostdb.net/submit) or open a pull request yourself — see [SUBMITTING.md](../../SUBMITTING.md). Use this issue only if you'd rather someone else add it.
+  - type: input
+    id: game_name
+    attributes:
+      label: Game name
+      placeholder: e.g. Hollow Knight
+    validations:
+      required: true
+  - type: input
+    id: igdb_id
+    attributes:
+      label: IGDB ID (if known)
+      description: Find it via the "Submit soundtrack" link on the game's ostdb.net page, or leave blank.
+      placeholder: e.g. 1234
+    validations:
+      required: false
+  - type: input
+    id: links
+    attributes:
+      label: Streaming links
+      description: Spotify, Apple Music, or album.link URL for the soundtrack
+      placeholder: https://open.spotify.com/album/...
+    validations:
+      required: false
