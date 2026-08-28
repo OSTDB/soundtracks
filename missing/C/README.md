@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
+| Crazy Taxy 2D | 396805 | [396805-crazy-taxy-2d.json](./396805-crazy-taxy-2d.json) |
 | Creator Shelter | 414960 | [414960-creator-shelter.json](./414960-creator-shelter.json) |
 | Creature Card Idle | 126739 | [126739-creature-card-idle.json](./126739-creature-card-idle.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
