@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleLore: Command | 35779 | [35779-battlelore-command.json](./35779-battlelore-command.json) |
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
+| Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
 | Blocks!: Julius Caesar | 126300 | [126300-blocks-julius-caesar.json](./126300-blocks-julius-caesar.json) |
 | Blockscape | 15404 | [15404-blockscape.json](./15404-blockscape.json) |
+| Blocky Powers | 413552 | [413552-blocky-powers.json](./413552-blocky-powers.json) |
 | Blok Drop U | 62100 | [62100-blok-drop-u.json](./62100-blok-drop-u.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
