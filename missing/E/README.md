@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eroico | 110553 | [110553-eroico.json](./110553-eroico.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
 | Eros Wept | 395404 | [395404-eros-wept.json](./395404-eros-wept.json) |
+| Erotic Fantasy Hentai Photographer | 382063 | [382063-erotic-fantasy-hentai-photographer.json](./382063-erotic-fantasy-hentai-photographer.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape From Mystwood Mansion | 235381 | [235381-escape-from-mystwood-mansion.json](./235381-escape-from-mystwood-mansion.json) |
 | Escape From Nazi Labs | 31428 | [31428-escape-from-nazi-labs.json](./31428-escape-from-nazi-labs.json) |
