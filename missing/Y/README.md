@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 3 | 16783 | [16783-you-dont-know-jack-vol-3.json](./16783-you-dont-know-jack-vol-3.json) |
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
+| Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
 | Your Shape Fitness Evolved 2012 | 7536 | [7536-your-shape-fitness-evolved-2012.json](./7536-your-shape-fitness-evolved-2012.json) |
 | Yrminsul | 24038 | [24038-yrminsul.json](./24038-yrminsul.json) |
