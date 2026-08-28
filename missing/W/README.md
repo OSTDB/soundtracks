@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
 | Wild West Nightmare | 409500 | [409500-wild-west-nightmare.json](./409500-wild-west-nightmare.json) |
+| Wilderdark | 400112 | [400112-wilderdark.json](./400112-wilderdark.json) |
 | Wildlife Ballistics | 414212 | [414212-wildlife-ballistics.json](./414212-wildlife-ballistics.json) |
 | Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will of the Gods | 23491 | [23491-will-of-the-gods.json](./23491-will-of-the-gods.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
+| World of Warships X Azur Lane: Quest for Al Avrora | 400105 | [400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json](./400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json) |
 | World Ship Simulator | 34401 | [34401-world-ship-simulator.json](./34401-world-ship-simulator.json) |
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
