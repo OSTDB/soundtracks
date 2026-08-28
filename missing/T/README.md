@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Grail: The Fall of Avalon - Merlin's Tomb | 396814 | [396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json](./396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json) |
 | Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
+| Talentos Indie ZNT | 375012 | [375012-talentos-indie-znt.json](./375012-talentos-indie-znt.json) |
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
 | Tales From the Other Side: Beneath the Roots | 409455 | [409455-tales-from-the-other-side-beneath-the-roots.json](./409455-tales-from-the-other-side-beneath-the-roots.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
 | The Binding of Isaac: Most Unholy Edition | 382616 | [382616-the-binding-of-isaac-most-unholy-edition.json](./382616-the-binding-of-isaac-most-unholy-edition.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
+| The Birthday Boys | 375032 | [375032-the-birthday-boys.json](./375032-the-birthday-boys.json) |
 | The Black Pyramid | 378635 | [378635-the-black-pyramid.json](./378635-the-black-pyramid.json) |
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
 | The Blackwell Epiphany | 8511 | [8511-the-blackwell-epiphany.json](./8511-the-blackwell-epiphany.json) |
@@ -313,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
+| The Never Ending Flower Shop | 375007 | [375007-the-never-ending-flower-shop.json](./375007-the-never-ending-flower-shop.json) |
 | The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Night Shift | 380885 | [380885-the-night-shift.json](./380885-the-night-shift.json) |
 | The Nightmare | 380886 | [380886-the-nightmare.json](./380886-the-nightmare.json) |
@@ -436,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
 | They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
+| Think Like a Shrink | 375028 | [375028-think-like-a-shrink.json](./375028-think-like-a-shrink.json) |
 | Thinking with Time Machine | 51478 | [51478-thinking-with-time-machine.json](./51478-thinking-with-time-machine.json) |
 | Thinky Dailies: Season 3 | 404748 | [404748-thinky-dailies-season-3.json](./404748-thinky-dailies-season-3.json) |
 | This Bed We Made | 218674 | [218674-this-bed-we-made.json](./218674-this-bed-we-made.json) |
@@ -501,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | TMT 3 | 403515 | [403515-tmt-3.json](./403515-tmt-3.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
+| Toada Brava | 375017 | [375017-toada-brava.json](./375017-toada-brava.json) |
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
 | Tobacco Market Simulator | 388606 | [388606-tobacco-market-simulator.json](./388606-tobacco-market-simulator.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
