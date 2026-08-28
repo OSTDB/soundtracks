@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
+| One Neck Ahead | 407983 | [407983-one-neck-ahead.json](./407983-one-neck-ahead.json) |
 | One Piece Treasure Battle | 65410 | [65410-one-piece-treasure-battle.json](./65410-one-piece-treasure-battle.json) |
 | One Piece: Grand Battle! | 75738 | [75738-one-piece-grand-battle.json](./75738-one-piece-grand-battle.json) |
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
