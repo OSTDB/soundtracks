@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Monster Village | 392023 | [392023-tiny-monster-village.json](./392023-tiny-monster-village.json) |
 | Tiny Pasture: Azure Waters | 383246 | [383246-tiny-pasture-azure-waters.json](./383246-tiny-pasture-azure-waters.json) |
 | Tiny Paws | 374475 | [374475-tiny-paws.json](./374475-tiny-paws.json) |
+| Tiny Space Pirate | 372856 | [372856-tiny-space-pirate.json](./372856-tiny-space-pirate.json) |
 | Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
@@ -639,12 +640,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped on the FlipSide | 383836 | [383836-trapped-on-the-flipside.json](./383836-trapped-on-the-flipside.json) |
 | Trapped Together | 407984 | [407984-trapped-together.json](./407984-trapped-together.json) |
 | Trash Goblin | 266494 | [266494-trash-goblin.json](./266494-trash-goblin.json) |
+| Trash Takeout | 372858 | [372858-trash-takeout.json](./372858-trash-takeout.json) |
 | Trash Truck Simulator | 382650 | [382650-trash-truck-simulator.json](./382650-trash-truck-simulator.json) |
 | Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
 | Trashy Cashy | 406014 | [406014-trashy-cashy.json](./406014-trashy-cashy.json) |
 | Trauma Center: Under the Knife | 1523 | [1523-trauma-center-under-the-knife.json](./1523-trauma-center-under-the-knife.json) |
 | Trauma Center: Under the Knife 2 | 1526 | [1526-trauma-center-under-the-knife-2.json](./1526-trauma-center-under-the-knife-2.json) |
 | Trauma Team | 1527 | [1527-trauma-team.json](./1527-trauma-team.json) |
+| Traveler Arena | 372863 | [372863-traveler-arena.json](./372863-traveler-arena.json) |
 | Treadnauts | 54785 | [54785-treadnauts.json](./54785-treadnauts.json) |
 | Treasure Hunter | 380859 | [380859-treasure-hunter.json](./380859-treasure-hunter.json) |
 | Treasure Island: Abandoned Enigma | 402770 | [402770-treasure-island-abandoned-enigma.json](./402770-treasure-island-abandoned-enigma.json) |
