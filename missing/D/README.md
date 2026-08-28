@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | D | 379243 | [379243-d.json](./379243-d.json) |
 | D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
+| D.C. II P.S.: Da Capo II Plus Situation | 369405 | [369405-d-c-ii-p-s-da-capo-ii-plus-situation.json](./369405-d-c-ii-p-s-da-capo-ii-plus-situation.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
 | Deltarune: Hallow's Eve Hack | 379241 | [379241-deltarune-hallows-eve-hack.json](./379241-deltarune-hallows-eve-hack.json) |
 | Deluded Mind | 93656 | [93656-deluded-mind.json](./93656-deluded-mind.json) |
+| Deluxe Invaders | 369414 | [369414-deluxe-invaders.json](./369414-deluxe-invaders.json) |
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
@@ -220,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Hunt - Crownston City PD | 32951 | [32951-detective-hunt-crownston-city-pd.json](./32951-detective-hunt-crownston-city-pd.json) |
 | Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
 | Detritus | 374996 | [374996-detritus.json](./374996-detritus.json) |
+| Detritus | 369423 | [369423-detritus.json](./369423-detritus.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex Remastered | 369987 | [369987-deus-ex-remastered.json](./369987-deus-ex-remastered.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
@@ -278,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Dusk | 78285 | [78285-digimon-world-dusk.json](./78285-digimon-world-dusk.json) |
 | Digimon: Battle Spirit 2 | 6375 | [6375-digimon-battle-spirit-2.json](./6375-digimon-battle-spirit-2.json) |
 | Digital Devil Story: Megami Tensei | 5081 | [5081-digital-devil-story-megami-tensei.json](./5081-digital-devil-story-megami-tensei.json) |
+| Digital Holmes | 369435 | [369435-digital-holmes.json](./369435-digital-holmes.json) |
 | Diluvion | 26743 | [26743-diluvion.json](./26743-diluvion.json) |
 | Dimension Totsu Lovers!! | 382042 | [382042-dimension-totsu-lovers.json](./382042-dimension-totsu-lovers.json) |
 | Diner Bros Inc | 166155 | [166155-diner-bros-inc.json](./166155-diner-bros-inc.json) |
