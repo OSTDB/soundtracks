@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain of Hallucination | 371715 | [371715-domain-of-hallucination.json](./371715-domain-of-hallucination.json) |
 | Dome Keeper | 200611 | [200611-dome-keeper.json](./200611-dome-keeper.json) |
 | Dome Keeper: Multiplayer Update | 362083 | [362083-dome-keeper-multiplayer-update.json](./362083-dome-keeper-multiplayer-update.json) |
+| Domine o território | 359843 | [359843-domine-o-territorio.json](./359843-domine-o-territorio.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
 | Don't Crack! | 390418 | [390418-dont-crack.json](./390418-dont-crack.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don`t Peek | 374450 | [374450-don-t-peek.json](./374450-don-t-peek.json) |
 | Donald in Maui Mallard | 371101 | [371101-donald-in-maui-mallard.json](./371101-donald-in-maui-mallard.json) |
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
+| Dòngwù Sēnlín | 359837 | [359837-dongwu-senlin.json](./359837-dongwu-senlin.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country 4: The Kongs Return | 381457 | [381457-donkey-kong-country-4-the-kongs-return.json](./381457-donkey-kong-country-4-the-kongs-return.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
 | Double or Nothing | 399447 | [399447-double-or-nothing.json](./399447-double-or-nothing.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
+| Doubutsu no Mori: Ice Climber | 359780 | [359780-doubutsu-no-mori-ice-climber.json](./359780-doubutsu-no-mori-ice-climber.json) |
 | Down the Stairs: The Game | 409453 | [409453-down-the-stairs-the-game.json](./409453-down-the-stairs-the-game.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
 | Downbeat | 383805 | [383805-downbeat.json](./383805-downbeat.json) |
