@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass O' Kyzt | 65785 | [65785-mass-o-kyzt.json](./65785-mass-o-kyzt.json) |
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
+| Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
+| Meitantei Camazotz Kamigami no Kyousoukyoku: MessengerText | 394732 | [394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json](./394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json) |
 | Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
@@ -226,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
+| Minigolf Family Party | 394714 | [394714-minigolf-family-party.json](./394714-minigolf-family-party.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
 | Minimum | 15309 | [15309-minimum.json](./15309-minimum.json) |
 | Minos Initiative: 2112 | 400806 | [400806-minos-initiative-2112.json](./400806-minos-initiative-2112.json) |
@@ -313,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
 | Moto Racer 3 | 10563 | [10563-moto-racer-3.json](./10563-moto-racer-3.json) |
+| Moto Rush GT: Exclusive Edition | 394752 | [394752-moto-rush-gt-exclusive-edition.json](./394752-moto-rush-gt-exclusive-edition.json) |
 | Moto Rush GT: Pro Edition | 402178 | [402178-moto-rush-gt-pro-edition.json](./402178-moto-rush-gt-pro-edition.json) |
 | Motocross Madness | 10261 | [10261-motocross-madness.json](./10261-motocross-madness.json) |
 | MotoGP | 23012 | [23012-motogp.json](./23012-motogp.json) |
@@ -321,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 22 | 191857 | [191857-motogp-22.json](./191857-motogp-22.json) |
 | MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
 | Motorbikes Pro 2025: Elite Edition | 402177 | [402177-motorbikes-pro-2025-elite-edition.json](./402177-motorbikes-pro-2025-elite-edition.json) |
+| Motorbikes Pro 2025: Platinium Edition | 394750 | [394750-motorbikes-pro-2025-platinium-edition.json](./394750-motorbikes-pro-2025-platinium-edition.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
