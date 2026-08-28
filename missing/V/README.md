@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
 | Verge: Lost Chapter | 34484 | [34484-verge-lost-chapter.json](./34484-verge-lost-chapter.json) |
+| Versus: Battle of the Gladiator | 23231 | [23231-versus-battle-of-the-gladiator.json](./23231-versus-battle-of-the-gladiator.json) |
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidship: The Long Journey | 109671 | [109671-voidship-the-long-journey.json](./109671-voidship-the-long-journey.json) |
 | Volleyball | 55052 | [55052-volleyball.json](./55052-volleyball.json) |
 | Volleyball Unbound | 31548 | [31548-volleyball-unbound.json](./31548-volleyball-unbound.json) |
+| Voodoo Garden | 22374 | [22374-voodoo-garden.json](./22374-voodoo-garden.json) |
 | Vortex Attack | 24593 | [24593-vortex-attack.json](./24593-vortex-attack.json) |
 | Vox Machinae | 96558 | [96558-vox-machinae.json](./96558-vox-machinae.json) |
 | Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
