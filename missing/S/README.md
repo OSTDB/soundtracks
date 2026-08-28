@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
 | Simsala Grimm: Het Dappere Snijdertje | 381443 | [381443-simsala-grimm-het-dappere-snijdertje.json](./381443-simsala-grimm-het-dappere-snijdertje.json) |
 | Simulation | 387193 | [387193-simulation.json](./387193-simulation.json) |
+| Simulators, Strategies and Pigeons | 359241 | [359241-simulators-strategies-and-pigeons.json](./359241-simulators-strategies-and-pigeons.json) |
 | Simulyator Lazan'ya po Zabroshkam | 367257 | [367257-simulyator-lazanya-po-zabroshkam.json](./367257-simulyator-lazanya-po-zabroshkam.json) |
 | Simulyator PVZ | 367216 | [367216-simulyator-pvz.json](./367216-simulyator-pvz.json) |
 | Sin & Punishment: Star Successor | 1468 | [1468-sin-and-punishment-star-successor.json](./1468-sin-and-punishment-star-successor.json) |
@@ -304,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skam | 382605 | [382605-skam.json](./382605-skam.json) |
 | Skarven | 379750 | [379750-skarven.json](./379750-skarven.json) |
 | Skate Style | 379215 | [379215-skate-style.json](./379215-skate-style.json) |
+| Skating Warrior | 359278 | [359278-skating-warrior.json](./359278-skating-warrior.json) |
 | Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
 | SketchCode | 394703 | [394703-sketchcode.json](./394703-sketchcode.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
 | Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
 | Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
+| Snail Trail | 359238 | [359238-snail-trail.json](./359238-snail-trail.json) |
 | Snake Chess | 364288 | [364288-snake-chess.json](./364288-snake-chess.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
 | Snake Teaches Typing | 409468 | [409468-snake-teaches-typing.json](./409468-snake-teaches-typing.json) |
@@ -491,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
 | South Park: Phone Destroyer | 37063 | [37063-south-park-phone-destroyer.json](./37063-south-park-phone-destroyer.json) |
 | Sovereignty: Crown of Kings | 17613 | [17613-sovereignty-crown-of-kings.json](./17613-sovereignty-crown-of-kings.json) |
+| Soviet Tide Arising! | 359261 | [359261-soviet-tide-arising.json](./359261-soviet-tide-arising.json) |
 | SP Football Life 2026 | 389885 | [389885-sp-football-life-2026.json](./389885-sp-football-life-2026.json) |
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
@@ -509,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Sex Lab | 382027 | [382027-space-sex-lab.json](./382027-space-sex-lab.json) |
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
 | Space Sweeper | 364291 | [364291-space-sweeper.json](./364291-space-sweeper.json) |
+| Space Travel: Chronicles | 359229 | [359229-space-travel-chronicles.json](./359229-space-travel-chronicles.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
 | Spaceloop | 364292 | [364292-spaceloop.json](./364292-spaceloop.json) |
 | Spacenap | 378049 | [378049-spacenap.json](./378049-spacenap.json) |
