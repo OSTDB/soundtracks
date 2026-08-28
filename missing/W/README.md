@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While We Wait Here | 238675 | [238675-while-we-wait-here.json](./238675-while-we-wait-here.json) |
 | Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
+| Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Your Coworker | 407944 | [407944-with-your-coworker.json](./407944-with-your-coworker.json) |
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
+| Without a Hitch: Steam Exclusive - Valve Hat | 407229 | [407229-without-a-hitch-steam-exclusive-valve-hat.json](./407229-without-a-hitch-steam-exclusive-valve-hat.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 267083 | [267083-wizardry-proving-grounds-of-the-mad-overlord.json](./267083-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
+| WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
