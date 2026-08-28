@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
+| In My Bubble | 388577 | [388577-in-my-bubble.json](./388577-in-my-bubble.json) |
 | In Search Of Treasures | 398863 | [398863-in-search-of-treasures.json](./398863-in-search-of-treasures.json) |
 | in Space | 77005 | [77005-in-space.json](./77005-in-space.json) |
 | In Space We Brawl | 20919 | [20919-in-space-we-brawl.json](./20919-in-space-we-brawl.json) |
