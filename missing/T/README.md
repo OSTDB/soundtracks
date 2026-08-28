@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
+| Tantan's Hangout | 393362 | [393362-tantans-hangout.json](./393362-tantans-hangout.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
 | Tap Tap Fish: AbyssRium | 86983 | [86983-tap-tap-fish-abyssrium.json](./86983-tap-tap-fish-abyssrium.json) |
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Movies | 2995 | [2995-the-movies.json](./2995-the-movies.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
+| The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Occupation | 27931 | [27931-the-occupation.json](./27931-the-occupation.json) |
 | The Old Tree | 24610 | [24610-the-old-tree.json](./24610-the-old-tree.json) |
 | The Operational Art of War IV | 59525 | [59525-the-operational-art-of-war-iv.json](./59525-the-operational-art-of-war-iv.json) |
@@ -389,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi Paradox: Episode 1 | 76783 | [76783-time-tenshi-paradox-episode-1.json](./76783-time-tenshi-paradox-episode-1.json) |
 | Time Thief | 412172 | [412172-time-thief.json](./412172-time-thief.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
+| Timefront | 393324 | [393324-timefront.json](./393324-timefront.json) |
 | Timore 5 | 31517 | [31517-timore-5.json](./31517-timore-5.json) |
 | Tinertia | 18012 | [18012-tinertia.json](./18012-tinertia.json) |
 | Tingle's Balloon Fight DS | 47828 | [47828-tingles-balloon-fight-ds.json](./47828-tingles-balloon-fight-ds.json) |
