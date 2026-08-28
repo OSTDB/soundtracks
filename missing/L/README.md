@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Night | 400811 | [400811-lost-in-night.json](./400811-lost-in-night.json) |
 | Lost in Space | 405425 | [405425-lost-in-space.json](./405425-lost-in-space.json) |
 | Lost in Your Eyes | 390975 | [390975-lost-in-your-eyes.json](./390975-lost-in-your-eyes.json) |
+| Lost Inside | 385470 | [385470-lost-inside.json](./385470-lost-inside.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
