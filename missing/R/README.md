@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Driver | 87642 | [87642-racing-driver.json](./87642-racing-driver.json) |
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
+| Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
@@ -67,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resette's Prescription: Book of Memory, Swaying Scale | 32976 | [32976-resettes-prescription-book-of-memory-swaying-scale.json](./32976-resettes-prescription-book-of-memory-swaying-scale.json) |
 | Resident Evil 4: The Mercenaries | 242726 | [242726-resident-evil-4-the-mercenaries.json](./242726-resident-evil-4-the-mercenaries.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 1 | 27018 | [27018-resident-evil-7-biohazard-banned-footage-vol-1.json](./27018-resident-evil-7-biohazard-banned-footage-vol-1.json) |
+| Resident Evil 7: Biohazard - Collector's Edition | 22143 | [22143-resident-evil-7-biohazard-collectors-edition.json](./22143-resident-evil-7-biohazard-collectors-edition.json) |
 | Resident Evil: Revelations 2 - Episode 2: Contemplation | 27040 | [27040-resident-evil-revelations-2-episode-2-contemplation.json](./27040-resident-evil-revelations-2-episode-2-contemplation.json) |
 | Resident Evil: The Umbrella Chronicles | 975 | [975-resident-evil-the-umbrella-chronicles.json](./975-resident-evil-the-umbrella-chronicles.json) |
 | Resistance: Burning Skies | 19907 | [19907-resistance-burning-skies.json](./19907-resistance-burning-skies.json) |
@@ -79,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
 | Revelation Online | 26903 | [26903-revelation-online.json](./26903-revelation-online.json) |
 | Revenge of the 'Gator | 48916 | [48916-revenge-of-the-gator.json](./48916-revenge-of-the-gator.json) |
+| Revolution 60 | 23433 | [23433-revolution-60.json](./23433-revolution-60.json) |
 | Revulsion | 76808 | [76808-revulsion.json](./76808-revulsion.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
@@ -126,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
+| Rogue System | 22837 | [22837-rogue-system.json](./22837-rogue-system.json) |
 | Rogue Tower | 188503 | [188503-rogue-tower.json](./188503-rogue-tower.json) |
 | Rogue Trip: Vacation 2012 | 26143 | [26143-rogue-trip-vacation-2012.json](./26143-rogue-trip-vacation-2012.json) |
 | Rogue Wizards | 23179 | [23179-rogue-wizards.json](./23179-rogue-wizards.json) |
