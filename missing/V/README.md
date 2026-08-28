@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor 1944 | 410154 | [410154-valor-1944.json](./410154-valor-1944.json) |
 | Vampire & Monsters: Hidden Object Games | 115866 | [115866-vampire-and-monsters-hidden-object-games.json](./115866-vampire-and-monsters-hidden-object-games.json) |
 | Vampire Savior 2: The Lord of Vampire | 39696 | [39696-vampire-savior-2-the-lord-of-vampire.json](./39696-vampire-savior-2-the-lord-of-vampire.json) |
+| Vampire Slayer | 367244 | [367244-vampire-slayer.json](./367244-vampire-slayer.json) |
 | Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
 | Vampire: The Masquerade - Oaths and Ashes | 400121 | [400121-vampire-the-masquerade-oaths-and-ashes.json](./400121-vampire-the-masquerade-oaths-and-ashes.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
@@ -29,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vastar | 384388 | [384388-vastar.json](./384388-vastar.json) |
 | Vector Lab | 379771 | [379771-vector-lab.json](./379771-vector-lab.json) |
 | Vector Seven | 372846 | [372846-vector-seven.json](./372846-vector-seven.json) |
+| Vedmy Zov | 367213 | [367213-vedmy-zov.json](./367213-vedmy-zov.json) |
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
@@ -58,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Megapolis | 86557 | [86557-viki-spotter-megapolis.json](./86557-viki-spotter-megapolis.json) |
 | Viki Spotter: Shopping | 95615 | [95615-viki-spotter-shopping.json](./95615-viki-spotter-shopping.json) |
 | Viking Saga: Epic Adventure | 77051 | [77051-viking-saga-epic-adventure.json](./77051-viking-saga-epic-adventure.json) |
+| Vikings: Sex and Blood | 367219 | [367219-vikings-sex-and-blood.json](./367219-vikings-sex-and-blood.json) |
 | Village 51 | 404736 | [404736-village-51.json](./404736-village-51.json) |
 | Village Incremental | 414954 | [414954-village-incremental.json](./414954-village-incremental.json) |
 | Village of Souls | 47133 | [47133-village-of-souls.json](./47133-village-of-souls.json) |
