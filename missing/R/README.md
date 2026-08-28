@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reason with Gonzo | 391482 | [391482-reason-with-gonzo.json](./391482-reason-with-gonzo.json) |
 | Rebirth Moon | 381450 | [381450-rebirth-moon.json](./381450-rebirth-moon.json) |
 | ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
+| Reconfigure | 369974 | [369974-reconfigure.json](./369974-reconfigure.json) |
 | Record of Lodoss War | 69656 | [69656-record-of-lodoss-war.json](./69656-record-of-lodoss-war.json) |
 | Record of Lodoss War: Haiiro no Majo | 387209 | [387209-record-of-lodoss-war-haiiro-no-majo.json](./387209-record-of-lodoss-war-haiiro-no-majo.json) |
 | Record of Lodoss War: Haiiro no Majo | 387205 | [387205-record-of-lodoss-war-haiiro-no-majo.json](./387205-record-of-lodoss-war-haiiro-no-majo.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Kentucky and the Next Generation Chickens | 116161 | [116161-redneck-kentucky-and-the-next-generation-chickens.json](./116161-redneck-kentucky-and-the-next-generation-chickens.json) |
 | Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
+| Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
 | Regotown | 389292 | [389292-regotown.json](./389292-regotown.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
@@ -168,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite: Oka-ken Katsudou Kiroku Gaiden | 370522 | [370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json](./370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json) |
 | Rewritten | 399515 | [399515-rewritten.json](./399515-rewritten.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
+| Rhizomatic Compound | 369962 | [369962-rhizomatic-compound.json](./369962-rhizomatic-compound.json) |
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
@@ -311,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Train | 400786 | [400786-running-train.json](./400786-running-train.json) |
 | Rush | 95751 | [95751-rush.json](./95751-rush.json) |
 | Rush Rally Collection | 399481 | [399481-rush-rally-collection.json](./399481-rush-rally-collection.json) |
+| Rush The Towers | 369947 | [369947-rush-the-towers.json](./369947-rush-the-towers.json) |
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rushy Road | 382653 | [382653-rushy-road.json](./382653-rushy-road.json) |
