@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
+| Vespadian | 378677 | [378677-vespadian.json](./378677-vespadian.json) |
 | Vessel | 391519 | [391519-vessel.json](./391519-vessel.json) |
 | Vesuvius | 400809 | [400809-vesuvius.json](./400809-vesuvius.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
