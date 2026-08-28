@@ -51,8 +51,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
 | Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
+| Bard’s Fault | 387861 | [387861-bard-s-fault.json](./387861-bard-s-fault.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Bardo | 410123 | [410123-bardo.json](./410123-bardo.json) |
+| Bargalian Regicide | 387888 | [387888-bargalian-regicide.json](./387888-bargalian-regicide.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
+| Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
 | Before They Wake | 402808 | [402808-before-they-wake.json](./402808-before-they-wake.json) |
@@ -283,6 +286,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
+| Brazilian Drug Dealer Before 4: Demons From the Portal to Hell I Opened Are Still in the Favela and Now I Have to Save Mamadas From Ronaldo | 387850 | [387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json](./387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json) |
+| Brazzante | 387882 | [387882-brazzante.json](./387882-brazzante.json) |
 | Breach: The Archangel Job | 126414 | [126414-breach-the-archangel-job.json](./126414-breach-the-archangel-job.json) |
 | Breached: Follow Me | 412836 | [412836-breached-follow-me.json](./412836-breached-follow-me.json) |
 | Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
@@ -329,10 +334,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bump 'n' Jump | 5664 | [5664-bump-n-jump.json](./5664-bump-n-jump.json) |
+| Bumpers & Dragons | 387884 | [387884-bumpers-and-dragons.json](./387884-bumpers-and-dragons.json) |
 | Bumshak | 398859 | [398859-bumshak.json](./398859-bumshak.json) |
 | Bun Buns: Cute Edition | 402174 | [402174-bun-buns-cute-edition.json](./402174-bun-buns-cute-edition.json) |
 | Bunka no Kenkyuu: Revival of Queen Leyak | 44281 | [44281-bunka-no-kenkyuu-revival-of-queen-leyak.json](./44281-bunka-no-kenkyuu-revival-of-queen-leyak.json) |
 | Bunker Punks | 18656 | [18656-bunker-punks.json](./18656-bunker-punks.json) |
+| Bunny Flags 2 | 387870 | [387870-bunny-flags-2.json](./387870-bunny-flags-2.json) |
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
 | Burgie's Cozy Kitchen: Halloween Cosmetics Pack | 407210 | [407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json](./407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json) |
 | Burnable Hearts! | 410117 | [410117-burnable-hearts.json](./410117-burnable-hearts.json) |
