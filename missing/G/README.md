@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
 | Gaia Beyond | 86418 | [86418-gaia-beyond.json](./86418-gaia-beyond.json) |
+| Gakuen Tokusou Bakushion | 386048 | [386048-gakuen-tokusou-bakushion.json](./386048-gakuen-tokusou-bakushion.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
@@ -16,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga | 2751 | [2751-galaga.json](./2751-galaga.json) |
 | Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
 | Gallons Legacy | 398228 | [398228-gallons-legacy.json](./398228-gallons-legacy.json) |
+| Galmoon | 386049 | [386049-galmoon.json](./386049-galmoon.json) |
 | Galvan | 393328 | [393328-galvan.json](./393328-galvan.json) |
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
