@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavatro | 386036 | [386036-lavatro.json](./386036-lavatro.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
 | Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
+| Lawn Care Simulator | 373909 | [373909-lawn-care-simulator.json](./373909-lawn-care-simulator.json) |
 | Lawnmower Game | 44179 | [44179-lawnmower-game.json](./44179-lawnmower-game.json) |
 | Lawnmower Game Battle 2: Reload | 392674 | [392674-lawnmower-game-battle-2-reload.json](./392674-lawnmower-game-battle-2-reload.json) |
 | Layang Atma | 412167 | [412167-layang-atma.json](./412167-layang-atma.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layton's Mystery Journey: Katrielle and the Millionaire's Conspiracy | 28125 | [28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json](./28125-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
 | Lazy River | 404732 | [404732-lazy-river.json](./404732-lazy-river.json) |
+| Lead to Gold | 373936 | [373936-lead-to-gold.json](./373936-lead-to-gold.json) |
 | Leafborn | 400126 | [400126-leafborn.json](./400126-leafborn.json) |
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
 | Learn Japanese to Survive! Kanji Combat | 96164 | [96164-learn-japanese-to-survive-kanji-combat.json](./96164-learn-japanese-to-survive-kanji-combat.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Pikinini: IMS Intelligence Corp | 387208 | [387208-lucky-pikinini-ims-intelligence-corp.json](./387208-lucky-pikinini-ims-intelligence-corp.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
+| Ludominar | 373917 | [373917-ludominar.json](./373917-ludominar.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
 | Luigi's Haunted Quest 2: Bligmire | 394734 | [394734-luigis-haunted-quest-2-bligmire.json](./394734-luigis-haunted-quest-2-bligmire.json) |
 | Lullaby | 387891 | [387891-lullaby.json](./387891-lullaby.json) |
