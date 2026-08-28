@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave | 395422 | [395422-leave.json](./395422-leave.json) |
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legatus | 389328 | [389328-legatus.json](./389328-legatus.json) |
 | Legend Battles | 392670 | [392670-legend-battles.json](./392670-legend-battles.json) |
 | Legend of Bakehime | 411471 | [411471-legend-of-bakehime.json](./411471-legend-of-bakehime.json) |
 | Legend of Heroes | 405426 | [405426-legend-of-heroes.json](./405426-legend-of-heroes.json) |
