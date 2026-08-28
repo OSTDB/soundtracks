@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma: Sexy Hentai Girls | 110108 | [110108-chroma-sexy-hentai-girls.json](./110108-chroma-sexy-hentai-girls.json) |
 | Chronicles Of Lumethis | 412175 | [412175-chronicles-of-lumethis.json](./412175-chronicles-of-lumethis.json) |
 | Chronicles of Mystery: The Scorpio Ritual | 16043 | [16043-chronicles-of-mystery-the-scorpio-ritual.json](./16043-chronicles-of-mystery-the-scorpio-ritual.json) |
+| Chronigma | 371092 | [371092-chronigma.json](./371092-chronigma.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Connection | 4610 | [4610-city-connection.json](./4610-city-connection.json) |
 | City Defence Artillery | 384391 | [384391-city-defence-artillery.json](./384391-city-defence-artillery.json) |
 | City of Hunger | 384957 | [384957-city-of-hunger.json](./384957-city-of-hunger.json) |
+| Citystate Metropolis | 371080 | [371080-citystate-metropolis.json](./371080-citystate-metropolis.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
 | Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
 | Coin Chase | 378025 | [378025-coin-chase.json](./378025-coin-chase.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
+| Coin Push RPG: Cat Meme DLC | 371103 | [371103-coin-push-rpg-cat-meme-dlc.json](./371103-coin-push-rpg-cat-meme-dlc.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Meat | 375636 | [375636-cold-meat.json](./375636-cold-meat.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
@@ -383,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
+| Crash 'N' Dance | 371109 | [371109-crash-n-dance.json](./371109-crash-n-dance.json) |
 | Crash and Conquer | 392020 | [392020-crash-and-conquer.json](./392020-crash-and-conquer.json) |
 | Crash Bandicoot Purple: Ripto's Rampage | 1199 | [1199-crash-bandicoot-purple-riptos-rampage.json](./1199-crash-bandicoot-purple-riptos-rampage.json) |
 | Crash of the Titans: Monster Edition | 386044 | [386044-crash-of-the-titans-monster-edition.json](./386044-crash-of-the-titans-monster-edition.json) |
@@ -420,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Critical | 378622 | [378622-critical.json](./378622-critical.json) |
+| Critical Mass | 371099 | [371099-critical-mass.json](./371099-critical-mass.json) |
 | Croak? | 374489 | [374489-croak.json](./374489-croak.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
@@ -455,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubemen 2 | 6900 | [6900-cubemen-2.json](./6900-cubemen-2.json) |
 | Cubic | 408693 | [408693-cubic.json](./408693-cubic.json) |
 | Cubor | 87583 | [87583-cubor.json](./87583-cubor.json) |
+| Cuckold Sex: Episode 4 | 371068 | [371068-cuckold-sex-episode-4.json](./371068-cuckold-sex-episode-4.json) |
 | Culpa Innata | 9631 | [9631-culpa-innata.json](./9631-culpa-innata.json) |
 | Cultic | 164944 | [164944-cultic.json](./164944-cultic.json) |
 | Cultivation: Mystic Realm of Spirit Mountain | 408619 | [408619-cultivation-mystic-realm-of-spirit-mountain.json](./408619-cultivation-mystic-realm-of-spirit-mountain.json) |
