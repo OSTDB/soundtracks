@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Loka | 396089 | [396089-lucha-loka.json](./396089-lucha-loka.json) |
 | Lucid | 15061 | [15061-lucid.json](./15061-lucid.json) |
 | Lucky Break | 405998 | [405998-lucky-break.json](./405998-lucky-break.json) |
+| Lucky Coin Pusher | 379227 | [379227-lucky-coin-pusher.json](./379227-lucky-coin-pusher.json) |
 | Lucky Pikinini: IMS Intelligence Corp | 387208 | [387208-lucky-pikinini-ims-intelligence-corp.json](./387208-lucky-pikinini-ims-intelligence-corp.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
