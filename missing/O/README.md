@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
 | One Last Breath | 190145 | [190145-one-last-breath.json](./190145-one-last-breath.json) |
 | One Last Push | 405993 | [405993-one-last-push.json](./405993-one-last-push.json) |
+| One Million Buttons | 377457 | [377457-one-million-buttons.json](./377457-one-million-buttons.json) |
 | One More 6ix | 378664 | [378664-one-more-6ix.json](./378664-one-more-6ix.json) |
 | One Neck Ahead | 407983 | [407983-one-neck-ahead.json](./407983-one-neck-ahead.json) |
 | One Piece Treasure Battle | 65410 | [65410-one-piece-treasure-battle.json](./65410-one-piece-treasure-battle.json) |
