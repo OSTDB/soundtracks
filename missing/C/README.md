@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
 | Call of Duty: Advanced Warfare - Digital Pro Edition | 86667 | [86667-call-of-duty-advanced-warfare-digital-pro-edition.json](./86667-call-of-duty-advanced-warfare-digital-pro-edition.json) |
+| Call of Duty: Black Ops 7 - Season 1 | 378032 | [378032-call-of-duty-black-ops-7-season-1.json](./378032-call-of-duty-black-ops-7-season-1.json) |
 | Call of Duty: Black Ops III - Gold Edition | 29164 | [29164-call-of-duty-black-ops-iii-gold-edition.json](./29164-call-of-duty-black-ops-iii-gold-edition.json) |
 | Call of Duty: Black Ops III - Salvation | 23727 | [23727-call-of-duty-black-ops-iii-salvation.json](./23727-call-of-duty-black-ops-iii-salvation.json) |
 | Call of Duty: Finest Hour | 3761 | [3761-call-of-duty-finest-hour.json](./3761-call-of-duty-finest-hour.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
 | Cavern of Time | 29771 | [29771-cavern-of-time.json](./29771-cavern-of-time.json) |
 | CD-ROM | 388574 | [388574-cd-rom.json](./388574-cd-rom.json) |
+| Ceaseless Defense | 378017 | [378017-ceaseless-defense.json](./378017-ceaseless-defense.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
 | Cel Damage HD | 79812 | [79812-cel-damage-hd.json](./79812-cel-damage-hd.json) |
 | Celestial Front | 384367 | [384367-celestial-front.json](./384367-celestial-front.json) |
@@ -238,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Talk: Tokyo - Deluxe Edition Upgrade | 402186 | [402186-coffee-talk-tokyo-deluxe-edition-upgrade.json](./402186-coffee-talk-tokyo-deluxe-edition-upgrade.json) |
 | Coffin Dodgers | 10100 | [10100-coffin-dodgers.json](./10100-coffin-dodgers.json) |
 | Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
+| Coin Chase | 378025 | [378025-coin-chase.json](./378025-coin-chase.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
@@ -264,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours of Magic: Aqua Teeter | 32950 | [32950-colours-of-magic-aqua-teeter.json](./32950-colours-of-magic-aqua-teeter.json) |
 | Colt Express | 31149 | [31149-colt-express.json](./31149-colt-express.json) |
 | Combat Air Patrol 2 | 35799 | [35799-combat-air-patrol-2.json](./35799-combat-air-patrol-2.json) |
+| Combat Forces | 378039 | [378039-combat-forces.json](./378039-combat-forces.json) |
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
 | Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
@@ -277,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Northern Inferno | 24607 | [24607-command-modern-operations-northern-inferno.json](./24607-command-modern-operations-northern-inferno.json) |
 | Commander Keen in Aliens Ate My Baby Sitter! | 2446 | [2446-commander-keen-in-aliens-ate-my-baby-sitter.json](./2446-commander-keen-in-aliens-ate-my-baby-sitter.json) |
 | Common Sense National Championship | 409485 | [409485-common-sense-national-championship.json](./409485-common-sense-national-championship.json) |
+| Communist Clicker | 378024 | [378024-communist-clicker.json](./378024-communist-clicker.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Competitive TicTacToe | 404108 | [404108-competitive-tictactoe.json](./404108-competitive-tictactoe.json) |
 | Compound Word Puzzles 3 | 401394 | [401394-compound-word-puzzles-3.json](./401394-compound-word-puzzles-3.json) |
@@ -449,4 +454,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberpong | 33024 | [33024-cyberpong.json](./33024-cyberpong.json) |
 | Cylne | 35831 | [35831-cylne.json](./35831-cylne.json) |
+| Cypher | 378033 | [378033-cypher.json](./378033-cypher.json) |
 | Cypher Dungeon | 390398 | [390398-cypher-dungeon.json](./390398-cypher-dungeon.json) |
