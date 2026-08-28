@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
+| Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
 | Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
