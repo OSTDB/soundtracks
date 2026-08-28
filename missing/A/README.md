@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm112: Fire Unit | 411485 | [411485-alarm112-fire-unit.json](./411485-alarm112-fire-unit.json) |
 | Albatross | 408626 | [408626-albatross.json](./408626-albatross.json) |
 | Alchemilla Millefolium | 398890 | [398890-alchemilla-millefolium.json](./398890-alchemilla-millefolium.json) |
+| Alchemist Watch | 397573 | [397573-alchemist-watch.json](./397573-alchemist-watch.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
 | Alice and the Looking-Glass | 409475 | [409475-alice-and-the-looking-glass.json](./409475-alice-and-the-looking-glass.json) |
