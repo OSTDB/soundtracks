@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living With a Little Fox Girl | 374471 | [374471-living-with-a-little-fox-girl.json](./374471-living-with-a-little-fox-girl.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
+| Locally Sourced Anthology II: The Timeline | 366051 | [366051-locally-sourced-anthology-ii-the-timeline.json](./366051-locally-sourced-anthology-ii-the-timeline.json) |
 | Locktale | 384969 | [384969-locktale.json](./384969-locktale.json) |
 | Loco Dojo | 46483 | [46483-loco-dojo.json](./46483-loco-dojo.json) |
 | LocoCycle | 4846 | [4846-lococycle.json](./4846-lococycle.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue: Shipwrecked | 4979 | [4979-lost-in-blue-shipwrecked.json](./4979-lost-in-blue-shipwrecked.json) |
 | Lost in Night | 400811 | [400811-lost-in-night.json](./400811-lost-in-night.json) |
 | Lost in Space | 405425 | [405425-lost-in-space.json](./405425-lost-in-space.json) |
+| Lost in the World of Succubi | 366087 | [366087-lost-in-the-world-of-succubi.json](./366087-lost-in-the-world-of-succubi.json) |
 | Lost in Your Eyes | 390975 | [390975-lost-in-your-eyes.json](./390975-lost-in-your-eyes.json) |
 | Lost Inside | 385470 | [385470-lost-inside.json](./385470-lost-inside.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
