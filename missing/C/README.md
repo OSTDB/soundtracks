@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cafe 0: The Sleeping Beast | 33015 | [33015-cafe-0-the-sleeping-beast.json](./33015-cafe-0-the-sleeping-beast.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
+| Cake Mania: Main Street | 14996 | [14996-cake-mania-main-street.json](./14996-cake-mania-main-street.json) |
 | Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
 | Call of Cthulhu: The Wasted Land | 16667 | [16667-call-of-cthulhu-the-wasted-land.json](./16667-call-of-cthulhu-the-wasted-land.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
 | Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
 | Chocolate makes you happy 2 | 76668 | [76668-chocolate-makes-you-happy-2.json](./76668-chocolate-makes-you-happy-2.json) |
+| Chocolatier: Decadence by Design | 14999 | [14999-chocolatier-decadence-by-design.json](./14999-chocolatier-decadence-by-design.json) |
 | Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
@@ -168,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Northern Inferno | 24607 | [24607-command-modern-operations-northern-inferno.json](./24607-command-modern-operations-northern-inferno.json) |
 | Commander Keen in Aliens Ate My Baby Sitter! | 2446 | [2446-commander-keen-in-aliens-ate-my-baby-sitter.json](./2446-commander-keen-in-aliens-ate-my-baby-sitter.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
+| Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
 | Conduit 2 | 4770 | [4770-conduit-2.json](./4770-conduit-2.json) |
 | Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
 | Conflict Zone | 6727 | [6727-conflict-zone.json](./6727-conflict-zone.json) |
@@ -177,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Protocol | 22124 | [22124-containment-protocol.json](./22124-containment-protocol.json) |
+| Containment: The Zombie Puzzler | 15163 | [15163-containment-the-zombie-puzzler.json](./15163-containment-the-zombie-puzzler.json) |
 | Contra III: The Alien Wars | 6351 | [6351-contra-iii-the-alien-wars.json](./6351-contra-iii-the-alien-wars.json) |
 | Contra ReBirth | 11300 | [11300-contra-rebirth.json](./11300-contra-rebirth.json) |
 | Contra: Operation Galuga | 266684 | [266684-contra-operation-galuga.json](./266684-contra-operation-galuga.json) |
@@ -194,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
+| Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
 | Countdown Vampires | 28055 | [28055-countdown-vampires.json](./28055-countdown-vampires.json) |
 | Counter Terrorist Agency | 110697 | [110697-counter-terrorist-agency.json](./110697-counter-terrorist-agency.json) |
@@ -212,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
 | Creature Card Idle | 126739 | [126739-creature-card-idle.json](./126739-creature-card-idle.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
+| CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
