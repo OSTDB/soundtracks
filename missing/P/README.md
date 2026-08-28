@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Land | 87580 | [87580-pango-land.json](./87580-pango-land.json) |
 | Pankapu | 24440 | [24440-pankapu.json](./24440-pankapu.json) |
 | Panoptyca: Idle RPG Manager | 374466 | [374466-panoptyca-idle-rpg-manager.json](./374466-panoptyca-idle-rpg-manager.json) |
+| Pantry Raid | 370505 | [370505-pantry-raid.json](./370505-pantry-raid.json) |
 | Panty Party | 30339 | [30339-panty-party.json](./30339-panty-party.json) |
 | Panty Party Perfect | 401422 | [401422-panty-party-perfect.json](./401422-panty-party-perfect.json) |
 | Panzer Dragoon | 1667 | [1667-panzer-dragoon.json](./1667-panzer-dragoon.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
+| Path of Exile: Mercenaries of Trarthus | 370542 | [370542-path-of-exile-mercenaries-of-trarthus.json](./370542-path-of-exile-mercenaries-of-trarthus.json) |
 | Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Paw Pop Fish | 374480 | [374480-paw-pop-fish.json](./374480-paw-pop-fish.json) |
@@ -118,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter The Stash Hunter | 406615 | [406615-peter-the-stash-hunter.json](./406615-peter-the-stash-hunter.json) |
 | Petka 3: Vozvraschenie Alaski | 52757 | [52757-petka-3-vozvraschenie-alaski.json](./52757-petka-3-vozvraschenie-alaski.json) |
 | Petrichor | 387911 | [387911-petrichor.json](./387911-petrichor.json) |
+| Petscop: Restored | 370515 | [370515-petscop-restored.json](./370515-petscop-restored.json) |
 | Petz: Horsez 2 | 15817 | [15817-petz-horsez-2.json](./15817-petz-horsez-2.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 6 | 390935 | [390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json](./390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 7 | 390936 | [390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json](./390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json) |
@@ -347,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Louisiana: The Bounds VR | 392044 | [392044-project-louisiana-the-bounds-vr.json](./392044-project-louisiana-the-bounds-vr.json) |
 | Project Manager Sim | 402784 | [402784-project-manager-sim.json](./402784-project-manager-sim.json) |
 | Project North | 386012 | [386012-project-north.json](./386012-project-north.json) |
+| Project Retrograde: The Becoming | 370498 | [370498-project-retrograde-the-becoming.json](./370498-project-retrograde-the-becoming.json) |
 | Project Rogue | 389284 | [389284-project-rogue.json](./389284-project-rogue.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
