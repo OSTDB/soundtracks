@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D | 379243 | [379243-d.json](./379243-d.json) |
 | D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
@@ -125,6 +126,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay: The Mare | 10175 | [10175-decay-the-mare.json](./10175-decay-the-mare.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
+| Deck of Harvest | 379222 | [379222-deck-of-harvest.json](./379222-deck-of-harvest.json) |
+| DeckWrecking Pirates | 379236 | [379236-deckwrecking-pirates.json](./379236-deckwrecking-pirates.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deco Online Origins | 384363 | [384363-deco-online-origins.json](./384363-deco-online-origins.json) |
 | Decypher: Chapter 1 - Dream Intruder | 387909 | [387909-decypher-chapter-1-dream-intruder.json](./387909-decypher-chapter-1-dream-intruder.json) |
@@ -159,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Force | 666 | [666-delta-force.json](./666-delta-force.json) |
 | Deltarune: Chapter 3 | 274236 | [274236-deltarune-chapter-3.json](./274236-deltarune-chapter-3.json) |
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
+| Deltarune: Hallow's Eve Hack | 379241 | [379241-deltarune-hallows-eve-hack.json](./379241-deltarune-hallows-eve-hack.json) |
 | Deluded Mind | 93656 | [93656-deluded-mind.json](./93656-deluded-mind.json) |
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
@@ -482,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
+| Duck Block | 379213 | [379213-duck-block.json](./379213-duck-block.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | Duckiost | 386618 | [386618-duckiost.json](./386618-duckiost.json) |
