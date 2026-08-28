@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party in my Dorm | 95646 | [95646-party-in-my-dorm.json](./95646-party-in-my-dorm.json) |
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
+| Patches | 395387 | [395387-patches.json](./395387-patches.json) |
 | Pathologic 2: Marble Nest | 27781 | [27781-pathologic-2-marble-nest.json](./27781-pathologic-2-marble-nest.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychopathics | 86677 | [86677-psychopathics.json](./86677-psychopathics.json) |
 | PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
+| Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
 | Punch Monkey Revenge | 405379 | [405379-punch-monkey-revenge.json](./405379-punch-monkey-revenge.json) |
