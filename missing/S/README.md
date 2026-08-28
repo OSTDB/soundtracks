@@ -340,11 +340,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
+| Slime Shiyou | 366047 | [366047-slime-shiyou.json](./366047-slime-shiyou.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
 | Slimes Arena | 366678 | [366678-slimes-arena.json](./366678-slimes-arena.json) |
 | Slingshot people | 30946 | [30946-slingshot-people.json](./30946-slingshot-people.json) |
 | Slipgate | 400767 | [400767-slipgate.json](./400767-slipgate.json) |
 | Slipspace Panic | 404153 | [404153-slipspace-panic.json](./404153-slipspace-panic.json) |
+| Slither Link Plus | 366078 | [366078-slither-link-plus.json](./366078-slither-link-plus.json) |
 | Slorbis: Tower Defense | 390391 | [390391-slorbis-tower-defense.json](./390391-slorbis-tower-defense.json) |
 | Slot Gallina 2 | 95635 | [95635-slot-gallina-2.json](./95635-slot-gallina-2.json) |
 | Slot Machine Casino & Capsules: Prize Party | 405383 | [405383-slot-machine-casino-and-capsules-prize-party.json](./405383-slot-machine-casino-and-capsules-prize-party.json) |
@@ -650,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stonewards | 396815 | [396815-stonewards.json](./396815-stonewards.json) |
+| Store Life Simulator | 366046 | [366046-store-life-simulator.json](./366046-store-life-simulator.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Storm The House Collection | 395424 | [395424-storm-the-house-collection.json](./395424-storm-the-house-collection.json) |
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
