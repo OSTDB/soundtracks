@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Don't Touch the Walls | 86439 | [86439-dont-touch-the-walls.json](./86439-dont-touch-the-walls.json) |
+| Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country Returns | 1100 | [1100-donkey-kong-country-returns.json](./1100-donkey-kong-country-returns.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways: Holy Mountains of Flesh | 18430 | [18430-doorways-holy-mountains-of-flesh.json](./18430-doorways-holy-mountains-of-flesh.json) |
 | Dora Puppy | 7976 | [7976-dora-puppy.json](./7976-dora-puppy.json) |
 | Dora the Explorer: Dora Saves the Mermaids | 7975 | [7975-dora-the-explorer-dora-saves-the-mermaids.json](./7975-dora-the-explorer-dora-saves-the-mermaids.json) |
+| Dora-Con Cafe 2 | 398852 | [398852-dora-con-cafe-2.json](./398852-dora-con-cafe-2.json) |
 | Doritos VR Battle | 31441 | [31441-doritos-vr-battle.json](./31441-doritos-vr-battle.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
 | Dots eXtreme | 31513 | [31513-dots-extreme.json](./31513-dots-extreme.json) |
@@ -312,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Soul | 409481 | [409481-dragon-soul.json](./409481-dragon-soul.json) |
 | Dragon Village 3 | 408682 | [408682-dragon-village-3.json](./408682-dragon-village-3.json) |
+| Dragon: The Bruce Lee Story | 398885 | [398885-dragon-the-bruce-lee-story.json](./398885-dragon-the-bruce-lee-story.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
 | Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
@@ -344,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive on Moscow | 31501 | [31501-drive-on-moscow.json](./31501-drive-on-moscow.json) |
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
+| Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
 | Drop the Ball | 101946 | [101946-drop-the-ball.json](./101946-drop-the-ball.json) |
 | DropBlop | 413545 | [413545-dropblop.json](./413545-dropblop.json) |
 | Drowned God | 400775 | [400775-drowned-god.json](./400775-drowned-god.json) |
