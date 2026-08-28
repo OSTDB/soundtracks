@@ -83,9 +83,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Scandinavia | 26253 | [26253-euro-truck-simulator-2-scandinavia.json](./26253-euro-truck-simulator-2-scandinavia.json) |
 | Europa Universalis III: Divine Wind | 10270 | [10270-europa-universalis-iii-divine-wind.json](./10270-europa-universalis-iii-divine-wind.json) |
 | Europa Universalis IV | 1904 | [1904-europa-universalis-iv.json](./1904-europa-universalis-iv.json) |
+| Even or Odd 1 | 410145 | [410145-even-or-odd-1.json](./410145-even-or-odd-1.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
+| Everybody's Happy Place | 410107 | [410107-everybodys-happy-place.json](./410107-everybodys-happy-place.json) |
 | Everything | 27910 | [27910-everything.json](./27910-everything.json) |
 | Evil Bank Manager | 111513 | [111513-evil-bank-manager.json](./111513-evil-bank-manager.json) |
 | Evil Come | 76929 | [76929-evil-come.json](./76929-evil-come.json) |
