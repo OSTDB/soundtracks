@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction II | 4083 | [4083-red-faction-ii.json](./4083-red-faction-ii.json) |
 | Red Kite | 407985 | [407985-red-kite.json](./407985-red-kite.json) |
 | Red Orchestra 2: Heroes of Stalingrad | 1055 | [1055-red-orchestra-2-heroes-of-stalingrad.json](./1055-red-orchestra-2-heroes-of-stalingrad.json) |
+| Red Planet | 393999 | [393999-red-planet.json](./393999-red-planet.json) |
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
