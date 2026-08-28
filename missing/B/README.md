@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BombLink | 364320 | [364320-bomblink.json](./364320-bomblink.json) |
 | BombPaws | 402811 | [402811-bombpaws.json](./402811-bombpaws.json) |
 | Bonaparte's Bluff | 366640 | [366640-bonapartes-bluff.json](./366640-bonapartes-bluff.json) |
+| Bone March | 360399 | [360399-bone-march.json](./360399-bone-march.json) |
 | Bone: The Great Cow Race | 10060 | [10060-bone-the-great-cow-race.json](./10060-bone-the-great-cow-race.json) |
 | Bongo Cat: God Pack | 402773 | [402773-bongo-cat-god-pack.json](./402773-bongo-cat-god-pack.json) |
 | Bonsai Barber | 20902 | [20902-bonsai-barber.json](./20902-bonsai-barber.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 4: Story Pack 1 - Mad Ellie and the Vault of the Damned | 396087 | [396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json](./396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json) |
 | Boring Man: Online Tactical Stickman Combat | 35862 | [35862-boring-man-online-tactical-stickman-combat.json](./35862-boring-man-online-tactical-stickman-combat.json) |
 | Born Again | 403461 | [403461-born-again.json](./403461-born-again.json) |
+| Born to Burn: Ash and Flesh - A Tale from Surrealidade | 360398 | [360398-born-to-burn-ash-and-flesh-a-tale-from-surrealidade.json](./360398-born-to-burn-ash-and-flesh-a-tale-from-surrealidade.json) |
 | Boss Crushers | 86527 | [86527-boss-crushers.json](./86527-boss-crushers.json) |
 | Bossgard | 102178 | [102178-bossgard.json](./102178-bossgard.json) |
 | Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
@@ -409,9 +411,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
 | Brine | 379748 | [379748-brine.json](./379748-brine.json) |
 | Bring A Knife To A Gun Fight | 387228 | [387228-bring-a-knife-to-a-gun-fight.json](./387228-bring-a-knife-to-a-gun-fight.json) |
+| Bring Me Home | 360432 | [360432-bring-me-home.json](./360432-bring-me-home.json) |
 | Bringer | 375655 | [375655-bringer.json](./375655-bringer.json) |
 | Brinko | 414253 | [414253-brinko.json](./414253-brinko.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
+| Broken Defense | 360438 | [360438-broken-defense.json](./360438-broken-defense.json) |
 | Broken Sword: The Angel of Death | 353933 | [353933-broken-sword-the-angel-of-death.json](./353933-broken-sword-the-angel-of-death.json) |
 | Broken Sword: The Smoking Mirror - Reforged | 372335 | [372335-broken-sword-the-smoking-mirror-reforged.json](./372335-broken-sword-the-smoking-mirror-reforged.json) |
 | Broken Sword: The Smoking Mirror - Remastered | 27860 | [27860-broken-sword-the-smoking-mirror-remastered.json](./27860-broken-sword-the-smoking-mirror-remastered.json) |
