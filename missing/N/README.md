@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
+| No Socks RPG | 411478 | [411478-no-socks-rpg.json](./411478-no-socks-rpg.json) |
 | Nobodies | 56365 | [56365-nobodies.json](./56365-nobodies.json) |
 | Noby Noby Boy | 1351 | [1351-noby-noby-boy.json](./1351-noby-noby-boy.json) |
 | Noda | 29803 | [29803-noda.json](./29803-noda.json) |
