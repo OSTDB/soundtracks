@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces High | 15587 | [15587-aces-high.json](./15587-aces-high.json) |
 | Aces Wild: Manic Brawling Action! | 16910 | [16910-aces-wild-manic-brawling-action.json](./16910-aces-wild-manic-brawling-action.json) |
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
+| Achivement Maze 1 | 410122 | [410122-achivement-maze-1.json](./410122-achivement-maze-1.json) |
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APB Reloaded | 1014 | [1014-apb-reloaded.json](./1014-apb-reloaded.json) |
 | Ape Escape: Pumped & Primed | 46030 | [46030-ape-escape-pumped-and-primed.json](./46030-ape-escape-pumped-and-primed.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
+| App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
