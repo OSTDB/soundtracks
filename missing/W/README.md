@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: End Times - Vermintide | 9181 | [9181-warhammer-end-times-vermintide.json](./9181-warhammer-end-times-vermintide.json) |
 | Warhammer: Mark of Chaos - Gold Edition (Classic) | 398241 | [398241-warhammer-mark-of-chaos-gold-edition-classic.json](./398241-warhammer-mark-of-chaos-gold-edition-classic.json) |
 | Warhammer: Shadow of the Horned Rat (Classic) | 398238 | [398238-warhammer-shadow-of-the-horned-rat-classic.json](./398238-warhammer-shadow-of-the-horned-rat-classic.json) |
+| Warhead Destined | 386607 | [386607-warhead-destined.json](./386607-warhead-destined.json) |
 | Wario Land II | 1697 | [1697-wario-land-ii.json](./1697-wario-land-ii.json) |
 | Wario Land: Super Mario Land 3 | 1072 | [1072-wario-land-super-mario-land-3.json](./1072-wario-land-super-mario-land-3.json) |
 | Wario World | 1700 | [1700-wario-world.json](./1700-wario-world.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Cinema - Movie Tycoon | 35876 | [35876-world-of-cinema-movie-tycoon.json](./35876-world-of-cinema-movie-tycoon.json) |
 | World of Demons | 96500 | [96500-world-of-demons.json](./96500-world-of-demons.json) |
 | World of Outlaws: Sprint Cars | 7487 | [7487-world-of-outlaws-sprint-cars.json](./7487-world-of-outlaws-sprint-cars.json) |
+| World of Tanks Blitz: Reforged | 386573 | [386573-world-of-tanks-blitz-reforged.json](./386573-world-of-tanks-blitz-reforged.json) |
 | World of Warcraft: Dragonflight | 198157 | [198157-world-of-warcraft-dragonflight.json](./198157-world-of-warcraft-dragonflight.json) |
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
@@ -191,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
 | Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
+| Worship Demon | 386576 | [386576-worship-demon.json](./386576-worship-demon.json) |
 | Wraith of the Cards | 411433 | [411433-wraith-of-the-cards.json](./411433-wraith-of-the-cards.json) |
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
