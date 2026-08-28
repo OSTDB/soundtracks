@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Veil | 410778 | [410778-black-veil.json](./410778-black-veil.json) |
 | Black Widow: Recharged | 175662 | [175662-black-widow-recharged.json](./175662-black-widow-recharged.json) |
+| Blackjack Ascension | 375656 | [375656-blackjack-ascension.json](./375656-blackjack-ascension.json) |
 | BlackJack Math Trainer | 404132 | [404132-blackjack-math-trainer.json](./404132-blackjack-math-trainer.json) |
 | Blackout Jack | 404106 | [404106-blackout-jack.json](./404106-blackout-jack.json) |
 | Blackwater Bayou VR | 29825 | [29825-blackwater-bayou-vr.json](./29825-blackwater-bayou-vr.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot & Tic | 400784 | [400784-bot-and-tic.json](./400784-bot-and-tic.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
+| Bound to the Dark World | 375661 | [375661-bound-to-the-dark-world.json](./375661-bound-to-the-dark-world.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
 | Bowling Fever: Full Edition | 394744 | [394744-bowling-fever-full-edition.json](./394744-bowling-fever-full-edition.json) |
@@ -339,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
 | Break Shoot | 390416 | [390416-break-shoot.json](./390416-break-shoot.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
+| Breaker | 375630 | [375630-breaker.json](./375630-breaker.json) |
 | Breaking Armor | 383248 | [383248-breaking-armor.json](./383248-breaking-armor.json) |
 | Breakout 13: Fight | 234282 | [234282-breakout-13-fight.json](./234282-breakout-13-fight.json) |
 | BreakQuest: Extra Evolution | 20838 | [20838-breakquest-extra-evolution.json](./20838-breakquest-extra-evolution.json) |
@@ -349,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
 | Brine | 379748 | [379748-brine.json](./379748-brine.json) |
 | Bring A Knife To A Gun Fight | 387228 | [387228-bring-a-knife-to-a-gun-fight.json](./387228-bring-a-knife-to-a-gun-fight.json) |
+| Bringer | 375655 | [375655-bringer.json](./375655-bringer.json) |
 | Brinko | 414253 | [414253-brinko.json](./414253-brinko.json) |
 | Broken Age | 3087 | [3087-broken-age.json](./3087-broken-age.json) |
 | Broken Sword: The Angel of Death | 353933 | [353933-broken-sword-the-angel-of-death.json](./353933-broken-sword-the-angel-of-death.json) |
