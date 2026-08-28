@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Mission | 4929 | [4929-impossible-mission.json](./4929-impossible-mission.json) |
 | ImpossibleBosses | 404155 | [404155-impossiblebosses.json](./404155-impossiblebosses.json) |
 | Impulse of War | 31506 | [31506-impulse-of-war.json](./31506-impulse-of-war.json) |
+| In Banjiha | 373927 | [373927-in-banjiha.json](./373927-in-banjiha.json) |
 | In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Exilium | 35875 | [35875-in-exilium.json](./35875-in-exilium.json) |
 | In Fear I Trust | 24841 | [24841-in-fear-i-trust.json](./24841-in-fear-i-trust.json) |
