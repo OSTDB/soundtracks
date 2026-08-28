@@ -42,6 +42,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technobabylon | 13232 | [13232-technobabylon.json](./13232-technobabylon.json) |
 | Technotron Defense | 77172 | [77172-technotron-defense.json](./77172-technotron-defense.json) |
 | Tecmo Bowl | 285764 | [285764-tecmo-bowl.json](./285764-tecmo-bowl.json) |
+| Teddy Collector: Cozy Pack | 407206 | [407206-teddy-collector-cozy-pack.json](./407206-teddy-collector-cozy-pack.json) |
+| Teddy Collector: Cyberpunk Pack | 407215 | [407215-teddy-collector-cyberpunk-pack.json](./407215-teddy-collector-cyberpunk-pack.json) |
+| Teddy Collector: Emo Pack | 407220 | [407220-teddy-collector-emo-pack.json](./407220-teddy-collector-emo-pack.json) |
+| Teddy Collector: Food Pack | 407217 | [407217-teddy-collector-food-pack.json](./407217-teddy-collector-food-pack.json) |
+| Teddy Collector: Fruits Pack | 407222 | [407222-teddy-collector-fruits-pack.json](./407222-teddy-collector-fruits-pack.json) |
+| Teddy Collector: Halloween Pack | 407214 | [407214-teddy-collector-halloween-pack.json](./407214-teddy-collector-halloween-pack.json) |
+| Teddy Collector: Kawaii Pack | 407218 | [407218-teddy-collector-kawaii-pack.json](./407218-teddy-collector-kawaii-pack.json) |
+| Teddy Collector: Mythology Pack | 407221 | [407221-teddy-collector-mythology-pack.json](./407221-teddy-collector-mythology-pack.json) |
+| Teddy Collector: Steampunk Pack | 407219 | [407219-teddy-collector-steampunk-pack.json](./407219-teddy-collector-steampunk-pack.json) |
+| Teddy Collector: Xmas Pack | 407216 | [407216-teddy-collector-xmas-pack.json](./407216-teddy-collector-xmas-pack.json) |
 | Teenage Mutant Ninja Turtles | 86386 | [86386-teenage-mutant-ninja-turtles.json](./86386-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed | 289562 | [289562-teenage-mutant-ninja-turtles-mutants-unleashed.json](./289562-teenage-mutant-ninja-turtles-mutants-unleashed.json) |
 | Teenage Mutant Ninja Turtles: Out of the Shadows | 2598 | [2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json](./2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json) |
@@ -67,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
+| The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
@@ -163,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Karters | 22749 | [22749-the-karters.json](./22749-the-karters.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
+| The King of Fighters XV: Team Pass 2 | 407254 | [407254-the-king-of-fighters-xv-team-pass-2.json](./407254-the-king-of-fighters-xv-team-pass-2.json) |
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
