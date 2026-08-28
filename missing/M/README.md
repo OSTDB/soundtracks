@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Maid Cafe Simulator | 390979 | [390979-maid-cafe-simulator.json](./390979-maid-cafe-simulator.json) |
 | Maid in Grisaille | 388608 | [388608-maid-in-grisaille.json](./388608-maid-in-grisaille.json) |
+| Maid of Sker VR | 371107 | [371107-maid-of-sker-vr.json](./371107-maid-of-sker-vr.json) |
 | Maid-chan ha Meido-chuu | 396039 | [396039-maid-chan-ha-meido-chuu.json](./396039-maid-chan-ha-meido-chuu.json) |
 | Mainframe | 410789 | [410789-mainframe.json](./410789-mainframe.json) |
 | Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
+| Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Mavis Beacon Teaches Typing 2020 | 372329 | [372329-mavis-beacon-teaches-typing-2020.json](./372329-mavis-beacon-teaches-typing-2020.json) |
 | Max Gentlemen | 16731 | [16731-max-gentlemen.json](./16731-max-gentlemen.json) |
@@ -200,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatagmension Blanc + Neptune VS Zombies | 24867 | [24867-megatagmension-blanc-neptune-vs-zombies.json](./24867-megatagmension-blanc-neptune-vs-zombies.json) |
 | MegaWars III | 383257 | [383257-megawars-iii.json](./383257-megawars-iii.json) |
 | MeiQ: Labyrinth of Death | 23687 | [23687-meiq-labyrinth-of-death.json](./23687-meiq-labyrinth-of-death.json) |
+| Meisin | 371087 | [371087-meisin.json](./371087-meisin.json) |
 | Meitantei Camazotz Kamigami no Kyousoukyoku: MessengerText | 394732 | [394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json](./394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json) |
 | Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
