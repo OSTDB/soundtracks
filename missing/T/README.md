@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Butterfly Sign | 26577 | [26577-the-butterfly-sign.json](./26577-the-butterfly-sign.json) |
 | The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
+| The Celestial Seeker | 380271 | [380271-the-celestial-seeker.json](./380271-the-celestial-seeker.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Dowry | 396810 | [396810-the-red-dowry.json](./396810-the-red-dowry.json) |
 | The Registry | 407970 | [407970-the-registry.json](./407970-the-registry.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
+| The Remains | 380261 | [380261-the-remains.json](./380261-the-remains.json) |
 | The Ren & Stimpy Show: Veediots! | 7989 | [7989-the-ren-and-stimpy-show-veediots.json](./7989-the-ren-and-stimpy-show-veediots.json) |
 | The Ritual | 380883 | [380883-the-ritual.json](./380883-the-ritual.json) |
 | The Saplum Cradle | 387241 | [387241-the-saplum-cradle.json](./387241-the-saplum-cradle.json) |
