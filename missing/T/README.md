@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infectious Madness of Doctor Dekker | 25264 | [25264-the-infectious-madness-of-doctor-dekker.json](./25264-the-infectious-madness-of-doctor-dekker.json) |
 | The Internal | 395394 | [395394-the-internal.json](./395394-the-internal.json) |
 | The Inverted Tower | 407967 | [407967-the-inverted-tower.json](./407967-the-inverted-tower.json) |
+| The Invisible Man | 369971 | [369971-the-invisible-man.json](./369971-the-invisible-man.json) |
 | The Island of Dr. Brain | 7723 | [7723-the-island-of-dr-brain.json](./7723-the-island-of-dr-brain.json) |
 | The Jackbox Party Pack 10 | 243869 | [243869-the-jackbox-party-pack-10.json](./243869-the-jackbox-party-pack-10.json) |
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Sight: All Hallow's Eve | 402825 | [402825-the-second-sight-all-hallows-eve.json](./402825-the-second-sight-all-hallows-eve.json) |
 | The Second Sight: The Devil and the Wheel | 402823 | [402823-the-second-sight-the-devil-and-the-wheel.json](./402823-the-second-sight-the-devil-and-the-wheel.json) |
 | The Secret Order 5: The Buried Kingdom | 29960 | [29960-the-secret-order-5-the-buried-kingdom.json](./29960-the-secret-order-5-the-buried-kingdom.json) |
+| The Serpent & The Seed | 369963 | [369963-the-serpent-and-the-seed.json](./369963-the-serpent-and-the-seed.json) |
 | The Settlers II: 10th Anniversary | 3699 | [3699-the-settlers-ii-10th-anniversary.json](./3699-the-settlers-ii-10th-anniversary.json) |
 | The Settlers IV: Mission CD | 22302 | [22302-the-settlers-iv-mission-cd.json](./22302-the-settlers-iv-mission-cd.json) |
 | The Settlers: New Allies | 107233 | [107233-the-settlers-new-allies.json](./107233-the-settlers-new-allies.json) |
@@ -726,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Rush | 371093 | [371093-turnip-rush.json](./371093-turnip-rush.json) |
 | Tux Fishing | 382651 | [382651-tux-fishing.json](./382651-tux-fishing.json) |
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
+| Twilight Dungeons | 369986 | [369986-twilight-dungeons.json](./369986-twilight-dungeons.json) |
 | Twin Hawk | 28040 | [28040-twin-hawk.json](./28040-twin-hawk.json) |
 | Twinkle Seek | 400758 | [400758-twinkle-seek.json](./400758-twinkle-seek.json) |
 | Twinvader III | 385490 | [385490-twinvader-iii.json](./385490-twinvader-iii.json) |
