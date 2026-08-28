@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Glory | 89403 | [89403-wild-glory.json](./89403-wild-glory.json) |
 | Wild Guns | 1344 | [1344-wild-guns.json](./1344-wild-guns.json) |
 | Wild Guns Reloaded | 25675 | [25675-wild-guns-reloaded.json](./25675-wild-guns-reloaded.json) |
+| Wild Omission | 370509 | [370509-wild-omission.json](./370509-wild-omission.json) |
 | Wild West Nightmare | 409500 | [409500-wild-west-nightmare.json](./409500-wild-west-nightmare.json) |
 | Wilderdark | 400112 | [400112-wilderdark.json](./400112-wilderdark.json) |
 | Wildlife Ballistics | 414212 | [414212-wildlife-ballistics.json](./414212-wildlife-ballistics.json) |
