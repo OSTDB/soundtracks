@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vantage: Primitive Survival Game | 44302 | [44302-vantage-primitive-survival-game.json](./44302-vantage-primitive-survival-game.json) |
+| Vape Simulator | 384979 | [384979-vape-simulator.json](./384979-vape-simulator.json) |
 | Vapor Soup | 407930 | [407930-vapor-soup.json](./407930-vapor-soup.json) |
 | Varius | 102308 | [102308-varius.json](./102308-varius.json) |
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
