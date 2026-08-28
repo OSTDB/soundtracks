@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Sword | 383228 | [383228-radiant-sword.json](./383228-radiant-sword.json) |
 | Radica Bass Fishin' | 375621 | [375621-radica-bass-fishin.json](./375621-radica-bass-fishin.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
+| RadioWave: Black Signal | 371719 | [371719-radiowave-black-signal.json](./371719-radiowave-black-signal.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
