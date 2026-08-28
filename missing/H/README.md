@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
+| High on Life VR | 413521 | [413521-high-on-life-vr.json](./413521-high-on-life-vr.json) |
 | Highborn | 15297 | [15297-highborn.json](./15297-highborn.json) |
 | Highschool Possession | 22213 | [22213-highschool-possession.json](./22213-highschool-possession.json) |
 | Highwater | 204359 | [204359-highwater.json](./204359-highwater.json) |
@@ -107,8 +108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Call of the Mountain | 186309 | [186309-horizon-call-of-the-mountain.json](./186309-horizon-call-of-the-mountain.json) |
 | Horizon Zero Dawn Remastered | 317103 | [317103-horizon-zero-dawn-remastered.json](./317103-horizon-zero-dawn-remastered.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
+| Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
 | Horse Paradise: My Dream Ranch | 76693 | [76693-horse-paradise-my-dream-ranch.json](./76693-horse-paradise-my-dream-ranch.json) |
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
+| Horse Spirit Valley 2 | 413558 | [413558-horse-spirit-valley-2.json](./413558-horse-spirit-valley-2.json) |
 | HorseHotel | 101640 | [101640-horsehotel.json](./101640-horsehotel.json) |
 | Hospital 666 | 285741 | [285741-hospital-666.json](./285741-hospital-666.json) |
 | Hospital Manager | 35777 | [35777-hospital-manager.json](./35777-hospital-manager.json) |
