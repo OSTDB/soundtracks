@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yono and the Celestial Elephants | 55197 | [55197-yono-and-the-celestial-elephants.json](./55197-yono-and-the-celestial-elephants.json) |
 | Yorg.io 3 | 124182 | [124182-yorg-io-3.json](./124182-yorg-io-3.json) |
 | Yorkshire Gubbins | 72447 | [72447-yorkshire-gubbins.json](./72447-yorkshire-gubbins.json) |
+| Yorunomori Bus Stop | 375667 | [375667-yorunomori-bus-stop.json](./375667-yorunomori-bus-stop.json) |
 | Yoshi | 172787 | [172787-yoshi.json](./172787-yoshi.json) |
 | Yoshi Egg's Journey | 384935 | [384935-yoshi-eggs-journey.json](./384935-yoshi-eggs-journey.json) |
 | Yoshi Topsy-Turvy | 49212 | [49212-yoshi-topsy-turvy.json](./49212-yoshi-topsy-turvy.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
 | You Don't Know Jack Vol. 3 | 16783 | [16783-you-dont-know-jack-vol-3.json](./16783-you-dont-know-jack-vol-3.json) |
 | You Have 10 Seconds 2 | 31490 | [31490-you-have-10-seconds-2.json](./31490-you-have-10-seconds-2.json) |
+| You Must Sleep | 375652 | [375652-you-must-sleep.json](./375652-you-must-sleep.json) |
 | You vs. Zombies | 397582 | [397582-you-vs-zombies.json](./397582-you-vs-zombies.json) |
 | You Will (Not) Remain | 186483 | [186483-you-will-not-remain.json](./186483-you-will-not-remain.json) |
 | You’re Here Again | 381470 | [381470-you-re-here-again.json](./381470-you-re-here-again.json) |
