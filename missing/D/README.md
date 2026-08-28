@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Dig Dug II: Trouble in Paradise | 2736 | [2736-dig-dug-ii-trouble-in-paradise.json](./2736-dig-dug-ii-trouble-in-paradise.json) |
+| Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: Wander of the Dragons | 21001 | [21001-double-dragon-ii-wander-of-the-dragons.json](./21001-double-dragon-ii-wander-of-the-dragons.json) |
 | Double Dragon V: The Shadow Falls | 4475 | [4475-double-dragon-v-the-shadow-falls.json](./4475-double-dragon-v-the-shadow-falls.json) |
 | Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
+| Down the Stairs: The Game | 409453 | [409453-down-the-stairs-the-game.json](./409453-down-the-stairs-the-game.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
 | Downward | 31942 | [31942-downward.json](./31942-downward.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
@@ -276,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
+| Dragon Soul | 409481 | [409481-dragon-soul.json](./409481-dragon-soul.json) |
 | Dragon's Lair | 4248 | [4248-dragons-lair.json](./4248-dragons-lair.json) |
 | Dragonheir: Silent Gods | 226376 | [226376-dragonheir-silent-gods.json](./226376-dragonheir-silent-gods.json) |
 | Dragons' Twilight | 47169 | [47169-dragons-twilight.json](./47169-dragons-twilight.json) |
@@ -294,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
+| Dress the Part! Outfit Puzzle | 409480 | [409480-dress-the-part-outfit-puzzle.json](./409480-dress-the-part-outfit-puzzle.json) |
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
 | Drifters: Blackout Crew | 413536 | [413536-drifters-blackout-crew.json](./413536-drifters-blackout-crew.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
