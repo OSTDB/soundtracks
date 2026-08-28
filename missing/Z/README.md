@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army 4: Dead War | 119234 | [119234-zombie-army-4-dead-war.json](./119234-zombie-army-4-dead-war.json) |
 | Zombie Brawl Slayer | 398206 | [398206-zombie-brawl-slayer.json](./398206-zombie-brawl-slayer.json) |
 | Zombie City Defense 2 | 22806 | [22806-zombie-city-defense-2.json](./22806-zombie-city-defense-2.json) |
+| Zombie Craft | 386581 | [386581-zombie-craft.json](./386581-zombie-craft.json) |
 | Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Derby 2 | 81686 | [81686-zombie-derby-2.json](./81686-zombie-derby-2.json) |
 | Zombie Emperor | 387862 | [387862-zombie-emperor.json](./387862-zombie-emperor.json) |
