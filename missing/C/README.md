@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2008 | 4735 | [4735-cabelas-big-game-hunter-2008.json](./4735-cabelas-big-game-hunter-2008.json) |
 | Cabela's Big Game Hunter: Pro Hunts | 16631 | [16631-cabelas-big-game-hunter-pro-hunts.json](./16631-cabelas-big-game-hunter-pro-hunts.json) |
 | Cabela's Hunting Expeditions | 7808 | [7808-cabelas-hunting-expeditions.json](./7808-cabelas-hunting-expeditions.json) |
+| Cable Arrange | 414981 | [414981-cable-arrange.json](./414981-cable-arrange.json) |
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
@@ -41,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
 | Capcom vs. SNK 2 EO | 86343 | [86343-capcom-vs-snk-2-eo.json](./86343-capcom-vs-snk-2-eo.json) |
+| Capital City | 415007 | [415007-capital-city.json](./415007-capital-city.json) |
 | Captain America: The Winter Soldier | 23807 | [23807-captain-america-the-winter-soldier.json](./23807-captain-america-the-winter-soldier.json) |
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
@@ -48,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne | 75582 | [75582-carcassonne.json](./75582-carcassonne.json) |
 | Carcassonne | 81495 | [81495-carcassonne.json](./81495-carcassonne.json) |
 | Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
+| Card Revolution Soccer | 414977 | [414977-card-revolution-soccer.json](./414977-card-revolution-soccer.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
 | Cargo Commander | 7880 | [7880-cargo-commander.json](./7880-cargo-commander.json) |
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
@@ -70,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
+| Cat a Loop | 414995 | [414995-cat-a-loop.json](./414995-cat-a-loop.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
@@ -97,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
+| Chill Drive Together | 415000 | [415000-chill-drive-together.json](./415000-chill-drive-together.json) |
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Chinbu's Adventure | 77160 | [77160-chinbus-adventure.json](./77160-chinbus-adventure.json) |
 | Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
@@ -205,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike | 266357 | [266357-counter-strike.json](./266357-counter-strike.json) |
 | Counter-Strike: Condition Zero | 297 | [297-counter-strike-condition-zero.json](./297-counter-strike-condition-zero.json) |
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
+| CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
@@ -215,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
+| Creator Shelter | 414960 | [414960-creator-shelter.json](./414960-creator-shelter.json) |
 | Creature Card Idle | 126739 | [126739-creature-card-idle.json](./126739-creature-card-idle.json) |
 | Creature Shock | 9259 | [9259-creature-shock.json](./9259-creature-shock.json) |
 | CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
@@ -223,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crimson Desert Enhanced | 414979 | [414979-crimson-desert-enhanced.json](./414979-crimson-desert-enhanced.json) |
 | Cris Tales | 119349 | [119349-cris-tales.json](./119349-cris-tales.json) |
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
