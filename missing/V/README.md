@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | V tylu vraga 2: Bratya po oruzhiyu | 393302 | [393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./393302-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V-Racer Hoverbike | 95577 | [95577-v-racer-hoverbike.json](./95577-v-racer-hoverbike.json) |
+| Vacivus: Resurger | 391501 | [391501-vacivus-resurger.json](./391501-vacivus-resurger.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
 | Valnir Rok | 61887 | [61887-valnir-rok.json](./61887-valnir-rok.json) |
@@ -35,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Drop Heroes HD | 9808 | [9808-vertical-drop-heroes-hd.json](./9808-vertical-drop-heroes-hd.json) |
 | Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vertigo Rush | 413530 | [413530-vertigo-rush.json](./413530-vertigo-rush.json) |
+| Vessel | 391519 | [391519-vessel.json](./391519-vessel.json) |
 | Vesuvius | 400809 | [400809-vesuvius.json](./400809-vesuvius.json) |
 | Vexx | 4079 | [4079-vexx.json](./4079-vexx.json) |
 | Vial's Verdict | 396820 | [396820-vials-verdict.json](./396820-vials-verdict.json) |
