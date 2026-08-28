@@ -12,3 +12,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2 Collection | 86268 | [86268-xcom-2-collection.json](./86268-xcom-2-collection.json) |
 | Xenon Valkyrie+ | 77957 | [77957-xenon-valkyrie.json](./77957-xenon-valkyrie.json) |
 | XP Girls | 126416 | [126416-xp-girls.json](./126416-xp-girls.json) |
+| Xray Customs | 402166 | [402166-xray-customs.json](./402166-xray-customs.json) |
