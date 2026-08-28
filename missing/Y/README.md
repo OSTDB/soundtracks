@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Nuts! | 398212 | [398212-youre-nuts.json](./398212-youre-nuts.json) |
 | Your Happy Place | 412186 | [412186-your-happy-place.json](./412186-your-happy-place.json) |
 | Your Only Move is Hustle | 225590 | [225590-your-only-move-is-hustle.json](./225590-your-only-move-is-hustle.json) |
+| Your Price, Your Honor. | 385476 | [385476-your-price-your-honor.json](./385476-your-price-your-honor.json) |
 | Your Shape Fitness Evolved 2012 | 7536 | [7536-your-shape-fitness-evolved-2012.json](./7536-your-shape-fitness-evolved-2012.json) |
 | Yox | 400127 | [400127-yox.json](./400127-yox.json) |
 | Yrminsul | 24038 | [24038-yrminsul.json](./24038-yrminsul.json) |
