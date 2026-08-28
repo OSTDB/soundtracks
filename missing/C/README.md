@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Tales | 384954 | [384954-chess-tales.json](./384954-chess-tales.json) |
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
 | Chibi-Robo!: Park Patrol | 21307 | [21307-chibi-robo-park-patrol.json](./21307-chibi-robo-park-patrol.json) |
+| Chicken Fren | 379735 | [379735-chicken-fren.json](./379735-chicken-fren.json) |
 | Chicken Police | 119323 | [119323-chicken-police.json](./119323-chicken-police.json) |
 | Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chill & Reel | 386025 | [386025-chill-and-reel.json](./386025-chill-and-reel.json) |
@@ -195,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
 | Clash of Armadas: Koxinga | 406586 | [406586-clash-of-armadas-koxinga.json](./406586-clash-of-armadas-koxinga.json) |
+| Clash of Peaks: Dynasty in Your Grasp | 379732 | [379732-clash-of-peaks-dynasty-in-your-grasp.json](./379732-clash-of-peaks-dynasty-in-your-grasp.json) |
 | Clash: Artifacts of Chaos | 154769 | [154769-clash-artifacts-of-chaos.json](./154769-clash-artifacts-of-chaos.json) |
 | Class of '09: The Re-Up | 249830 | [249830-class-of-09-the-re-up.json](./249830-class-of-09-the-re-up.json) |
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
