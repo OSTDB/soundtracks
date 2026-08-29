@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Hujeong Auditorium | 394710 | [394710-korean-drone-flying-tour-hujeong-auditorium.json](./394710-korean-drone-flying-tour-hujeong-auditorium.json) |
 | Korean Drone Flying Tour Tapjeong Lake | 394711 | [394711-korean-drone-flying-tour-tapjeong-lake.json](./394711-korean-drone-flying-tour-tapjeong-lake.json) |
 | Kosenki | 404144 | [404144-kosenki.json](./404144-kosenki.json) |
+| Kotou no Majo to Houtou Ouji | 356486 | [356486-kotou-no-majo-to-houtou-ouji.json](./356486-kotou-no-majo-to-houtou-ouji.json) |
 | Krusty's Fun House | 2740 | [2740-krustys-fun-house.json](./2740-krustys-fun-house.json) |
 | Krystopia: A Puzzle Journey | 126880 | [126880-krystopia-a-puzzle-journey.json](./126880-krystopia-a-puzzle-journey.json) |
 | Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
