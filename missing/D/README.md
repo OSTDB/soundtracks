@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hallow's Eve Hack | 379241 | [379241-deltarune-hallows-eve-hack.json](./379241-deltarune-hallows-eve-hack.json) |
 | Deluded Mind | 93656 | [93656-deluded-mind.json](./93656-deluded-mind.json) |
 | Deluxe Invaders | 369414 | [369414-deluxe-invaders.json](./369414-deluxe-invaders.json) |
+| DeLuxe Moposota | 354825 | [354825-deluxe-moposota.json](./354825-deluxe-moposota.json) |
 | Democracy 3 | 5506 | [5506-democracy-3.json](./5506-democracy-3.json) |
 | Demon Gaze | 9914 | [9914-demon-gaze.json](./9914-demon-gaze.json) |
 | Demon Hunter 3: Revelation | 31328 | [31328-demon-hunter-3-revelation.json](./31328-demon-hunter-3-revelation.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakengard 3 | 8576 | [8576-drakengard-3.json](./8576-drakengard-3.json) |
 | Drakensang: The Dark Eye | 8768 | [8768-drakensang-the-dark-eye.json](./8768-drakensang-the-dark-eye.json) |
 | Drakkhen | 12057 | [12057-drakkhen.json](./12057-drakkhen.json) |
+| Draugar | 354855 | [354855-draugar.json](./354855-draugar.json) |
 | Draw Something | 22858 | [22858-draw-something.json](./22858-draw-something.json) |
 | Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Draw With Unknown | 115885 | [115885-draw-with-unknown.json](./115885-draw-with-unknown.json) |
