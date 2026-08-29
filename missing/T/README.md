@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
 | Terrific Spongebob Darts | 366680 | [366680-terrific-spongebob-darts.json](./366680-terrific-spongebob-darts.json) |
+| Terrol | 354853 | [354853-terrol.json](./354853-terrol.json) |
 | Terrorist Takedown | 7426 | [7426-terrorist-takedown.json](./7426-terrorist-takedown.json) |
 | Terrorsepsis | 367797 | [367797-terrorsepsis.json](./367797-terrorsepsis.json) |
 | Test Drive: Off-Road 3 | 366686 | [366686-test-drive-off-road-3.json](./366686-test-drive-off-road-3.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Call | 385998 | [385998-the-last-call.json](./385998-the-last-call.json) |
+| The Last Camp | 354839 | [354839-the-last-camp.json](./354839-the-last-camp.json) |
 | The Last Camp: Dawn | 402203 | [402203-the-last-camp-dawn.json](./402203-the-last-camp-dawn.json) |
 | The Last Case of Benedict Fox | 204622 | [204622-the-last-case-of-benedict-fox.json](./204622-the-last-case-of-benedict-fox.json) |
 | The Last Clockwinder | 189856 | [189856-the-last-clockwinder.json](./189856-the-last-clockwinder.json) |
@@ -334,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
 | The Last Pawn | 367259 | [367259-the-last-pawn.json](./367259-the-last-pawn.json) |
 | The Last Prisoner | 364927 | [364927-the-last-prisoner.json](./364927-the-last-prisoner.json) |
+| The Last Shores | 354878 | [354878-the-last-shores.json](./354878-the-last-shores.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
@@ -418,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Quest | 380884 | [380884-the-queens-quest.json](./380884-the-queens-quest.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
+| The Rage of Mert | 354874 | [354874-the-rage-of-mert.json](./354874-the-rage-of-mert.json) |
 | The Raxxnorian Alliance | 364303 | [364303-the-raxxnorian-alliance.json](./364303-the-raxxnorian-alliance.json) |
 | The Reason My Wife Has Gotten More Beautiful | 386026 | [386026-the-reason-my-wife-has-gotten-more-beautiful.json](./386026-the-reason-my-wife-has-gotten-more-beautiful.json) |
 | The Red Dowry | 396810 | [396810-the-red-dowry.json](./396810-the-red-dowry.json) |
@@ -656,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Captains | 396081 | [396081-too-many-captains.json](./396081-too-many-captains.json) |
 | Too Many Gamedevs And Only One Game: A Continue-the-Bitsy Minijam | 355952 | [355952-too-many-gamedevs-and-only-one-game-a-continue-the-bitsy-minijam.json](./355952-too-many-gamedevs-and-only-one-game-a-continue-the-bitsy-minijam.json) |
 | Too Well Hidden | 396832 | [396832-too-well-hidden.json](./396832-too-well-hidden.json) |
+| Tools Up! and Servonauts Bundle | 354843 | [354843-tools-up-and-servonauts-bundle.json](./354843-tools-up-and-servonauts-bundle.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Drifters | 389310 | [389310-top-drifters.json](./389310-top-drifters.json) |
 | Top Hand Rodeo Tour | 64566 | [64566-top-hand-rodeo-tour.json](./64566-top-hand-rodeo-tour.json) |
@@ -769,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treated | 378657 | [378657-treated.json](./378657-treated.json) |
 | Tree Hugging Simulator | 367805 | [367805-tree-hugging-simulator.json](./367805-tree-hugging-simulator.json) |
 | Tree Simulator 2020 | 115970 | [115970-tree-simulator-2020.json](./115970-tree-simulator-2020.json) |
+| Treeplanter | 354880 | [354880-treeplanter.json](./354880-treeplanter.json) |
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
 | Trials of Olympus | 392622 | [392622-trials-of-olympus.json](./392622-trials-of-olympus.json) |
