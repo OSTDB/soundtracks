@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole First Queen IV PC-9801 | 409479 | [409479-eggconsole-first-queen-iv-pc-9801.json](./409479-eggconsole-first-queen-iv-pc-9801.json) |
 | Eggconsole Hydefos MSX2 | 409478 | [409478-eggconsole-hydefos-msx2.json](./409478-eggconsole-hydefos-msx2.json) |
 | Eggconsole Hydlide MSX2 | 394717 | [394717-eggconsole-hydlide-msx2.json](./394717-eggconsole-hydlide-msx2.json) |
+| Eggconsole Mado Monogatari 1-2-3 MSX2 | 350839 | [350839-eggconsole-mado-monogatari-1-2-3-msx2.json](./350839-eggconsole-mado-monogatari-1-2-3-msx2.json) |
 | Eggconsole Psycho World MSX2 | 398197 | [398197-eggconsole-psycho-world-msx2.json](./398197-eggconsole-psycho-world-msx2.json) |
 | Eggconsole Revival Xanadu II PC-9801 | 373376 | [373376-eggconsole-revival-xanadu-ii-pc-9801.json](./373376-eggconsole-revival-xanadu-ii-pc-9801.json) |
 | Eggconsole Super Cooks MSX2 | 392611 | [392611-eggconsole-super-cooks-msx2.json](./392611-eggconsole-super-cooks-msx2.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravalence | 414982 | [414982-extravalence.json](./414982-extravalence.json) |
 | Extreme ATV Trials | 87648 | [87648-extreme-atv-trials.json](./87648-extreme-atv-trials.json) |
 | Extreme Bike Trials | 87632 | [87632-extreme-bike-trials.json](./87632-extreme-bike-trials.json) |
+| Extreme Delivery | 350807 | [350807-extreme-delivery.json](./350807-extreme-delivery.json) |
 | Extreme Hand and Foot | 87593 | [87593-extreme-hand-and-foot.json](./87593-extreme-hand-and-foot.json) |
 | Extreme-G | 3485 | [3485-extreme-g.json](./3485-extreme-g.json) |
 | Extreme-G: XG2 | 3486 | [3486-extreme-g-xg2.json](./3486-extreme-g-xg2.json) |
