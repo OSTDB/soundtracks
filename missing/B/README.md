@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barabizna | 355933 | [355933-barabizna.json](./355933-barabizna.json) |
 | Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
+| Barbie: Dreamhouse Party | 345296 | [345296-barbie-dreamhouse-party.json](./345296-barbie-dreamhouse-party.json) |
 | Bard’s Fault | 387861 | [387861-bard-s-fault.json](./387861-bard-s-fault.json) |
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Bardo | 410123 | [410123-bardo.json](./410123-bardo.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement to the Sky | 394048 | [394048-basement-to-the-sky.json](./394048-basement-to-the-sky.json) |
 | BaseStar | 390427 | [390427-basestar.json](./390427-basestar.json) |
 | Basketball Knockout | 382608 | [382608-basketball-knockout.json](./382608-basketball-knockout.json) |
+| Basketball Showdown | 345332 | [345332-basketball-showdown.json](./345332-basketball-showdown.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | Basketball3 | 345871 | [345871-basketball3.json](./345871-basketball3.json) |
 | Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
@@ -476,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
 | Bomb Chicken | 27880 | [27880-bomb-chicken.json](./27880-bomb-chicken.json) |
 | Bomb U! | 31437 | [31437-bomb-u.json](./31437-bomb-u.json) |
+| Bombardino Crocodilo vs. Tung Tung Sahur | 345334 | [345334-bombardino-crocodilo-vs-tung-tung-sahur.json](./345334-bombardino-crocodilo-vs-tung-tung-sahur.json) |
 | Bomberman World | 27255 | [27255-bomberman-world.json](./27255-bomberman-world.json) |
 | Bombing Bastards | 17653 | [17653-bombing-bastards.json](./17653-bombing-bastards.json) |
 | Bombing Busters | 52145 | [52145-bombing-busters.json](./52145-bombing-busters.json) |
@@ -537,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Fighting | 349674 | [349674-brainrot-fighting.json](./349674-brainrot-fighting.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Bramblefort | 360962 | [360962-bramblefort.json](./360962-bramblefort.json) |
+| Bratz Kidz | 345299 | [345299-bratz-kidz.json](./345299-bratz-kidz.json) |
 | Bratz: Rock Angelz | 345880 | [345880-bratz-rock-angelz.json](./345880-bratz-rock-angelz.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Brave x Junction | 373370 | [373370-brave-x-junction.json](./373370-brave-x-junction.json) |
@@ -558,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bresh | 373946 | [373946-bresh.json](./373946-bresh.json) |
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
+| Brickies | 345306 | [345306-brickies.json](./345306-brickies.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
 | Bridge to eQualia | 346950 | [346950-bridge-to-equalia.json](./346950-bridge-to-equalia.json) |
 | Brigandine Grand Edition: Cross Mod | 356464 | [356464-brigandine-grand-edition-cross-mod.json](./356464-brigandine-grand-edition-cross-mod.json) |
