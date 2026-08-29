@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicia and the Curse of Climax | 379201 | [379201-alicia-and-the-curse-of-climax.json](./379201-alicia-and-the-curse-of-climax.json) |
 | Alicia Reborn | 402763 | [402763-alicia-reborn.json](./402763-alicia-reborn.json) |
 | Alien Escape | 116144 | [116144-alien-escape.json](./116144-alien-escape.json) |
+| Alien Invaders | 346969 | [346969-alien-invaders.json](./346969-alien-invaders.json) |
 | Alien Rage: Unlimited | 30150 | [30150-alien-rage-unlimited.json](./30150-alien-rage-unlimited.json) |
 | Alien Shooter | 8634 | [8634-alien-shooter.json](./8634-alien-shooter.json) |
 | Alien Snap | 391463 | [391463-alien-snap.json](./391463-alien-snap.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy | 3416 | [3416-amy.json](./3416-amy.json) |
 | An Arcade Full of Cats: Complete Edition | 407224 | [407224-an-arcade-full-of-cats-complete-edition.json](./407224-an-arcade-full-of-cats-complete-edition.json) |
 | An Assassin in Orlandes | 36099 | [36099-an-assassin-in-orlandes.json](./36099-an-assassin-in-orlandes.json) |
+| An Average-Day Adventure At School | 346986 | [346986-an-average-day-adventure-at-school.json](./346986-an-average-day-adventure-at-school.json) |
 | Ancestors Legacy | 28794 | [28794-ancestors-legacy.json](./28794-ancestors-legacy.json) |
 | Ancient Amuletor | 36767 | [36767-ancient-amuletor.json](./36767-ancient-amuletor.json) |
 | Ancient Frontier | 31479 | [31479-ancient-frontier.json](./31479-ancient-frontier.json) |
