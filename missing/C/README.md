@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Cosmic Free Fire | 385483 | [385483-cosmic-free-fire.json](./385483-cosmic-free-fire.json) |
 | Cosmic Holes | 389894 | [389894-cosmic-holes.json](./389894-cosmic-holes.json) |
+| Cosmic Invaders | 346984 | [346984-cosmic-invaders.json](./346984-cosmic-invaders.json) |
 | Cosmic Top Secret | 90251 | [90251-cosmic-top-secret.json](./90251-cosmic-top-secret.json) |
 | Cosmic Twinvader | 385484 | [385484-cosmic-twinvader.json](./385484-cosmic-twinvader.json) |
 | Cosmic Wayfinder | 400799 | [400799-cosmic-wayfinder.json](./400799-cosmic-wayfinder.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike: Condition Zero Deleted Scenes | 93807 | [93807-counter-strike-condition-zero-deleted-scenes.json](./93807-counter-strike-condition-zero-deleted-scenes.json) |
 | Covenant of Fate | 387885 | [387885-covenant-of-fate.json](./387885-covenant-of-fate.json) |
 | Covr | 413534 | [413534-covr.json](./413534-covr.json) |
+| Cow Carries | 346983 | [346983-cow-carries.json](./346983-cow-carries.json) |
 | Cowboy Duel VR: Red Wild West Massacre | 401392 | [401392-cowboy-duel-vr-red-wild-west-massacre.json](./401392-cowboy-duel-vr-red-wild-west-massacre.json) |
 | Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
 | Cozy Basket | 401390 | [401390-cozy-basket.json](./401390-cozy-basket.json) |
