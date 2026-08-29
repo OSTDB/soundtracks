@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexashell | 364314 | [364314-hexashell.json](./364314-hexashell.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
+| Hey Taxi | 347545 | [347545-hey-taxi.json](./347545-hey-taxi.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
 | Hibikino-san-chi ha Eroge-ya-san! | 396043 | [396043-hibikino-san-chi-ha-eroge-ya-san.json](./396043-hibikino-san-chi-ha-eroge-ya-san.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
