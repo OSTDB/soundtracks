@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiete | 371718 | [371718-quiete.json](./371718-quiete.json) |
 | Quill & Sword: Fate of Eryndor | 383230 | [383230-quill-and-sword-fate-of-eryndor.json](./383230-quill-and-sword-fate-of-eryndor.json) |
 | Quiz no Hoshi | 371105 | [371105-quiz-no-hoshi.json](./371105-quiz-no-hoshi.json) |
+| Quiz! Cat Proverbs Around the World | 342445 | [342445-quiz-cat-proverbs-around-the-world.json](./342445-quiz-cat-proverbs-around-the-world.json) |
 | QuizUp | 9487 | [9487-quizup.json](./9487-quizup.json) |
 | Qume: Echoes of Sand | 348620 | [348620-qume-echoes-of-sand.json](./348620-qume-echoes-of-sand.json) |
 | Quod Init Exit | 369956 | [369956-quod-init-exit.json](./369956-quod-init-exit.json) |
