@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Library | 403452 | [403452-the-hidden-library.json](./403452-the-hidden-library.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
 | The Holdouts | 360930 | [360930-the-holdouts.json](./360930-the-holdouts.json) |
+| The Hollow Path | 354274 | [354274-the-hollow-path.json](./354274-the-hollow-path.json) |
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
@@ -631,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
 | Toilet Paper Idle | 389898 | [389898-toilet-paper-idle.json](./389898-toilet-paper-idle.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
+| Toko-toko Truck | 354265 | [354265-toko-toko-truck.json](./354265-toko-toko-truck.json) |
 | Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
 | Tokyo Xtreme Racer | 314475 | [314475-tokyo-xtreme-racer.json](./314475-tokyo-xtreme-racer.json) |
 | Tom & Jerry | 8026 | [8026-tom-and-jerry.json](./8026-tom-and-jerry.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Tower | 384955 | [384955-town-tower.json](./384955-town-tower.json) |
 | Townopolis | 32994 | [32994-townopolis.json](./32994-townopolis.json) |
 | Townscaper | 135789 | [135789-townscaper.json](./135789-townscaper.json) |
+| Towst: The One Who Sees Things | 354268 | [354268-towst-the-one-who-sees-things.json](./354268-towst-the-one-who-sees-things.json) |
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
 | Toxic | 380867 | [380867-toxic.json](./380867-toxic.json) |
 | Toy Fight | 389290 | [389290-toy-fight.json](./389290-toy-fight.json) |
@@ -777,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treeplanter | 354880 | [354880-treeplanter.json](./354880-treeplanter.json) |
 | Treetop Trials | 402815 | [402815-treetop-trials.json](./402815-treetop-trials.json) |
 | Trench Run | 380860 | [380860-trench-run.json](./380860-trench-run.json) |
+| Trenches VR | 354272 | [354272-trenches-vr.json](./354272-trenches-vr.json) |
 | Trials of Olympus | 392622 | [392622-trials-of-olympus.json](./392622-trials-of-olympus.json) |
 | Trials of Valor | 360975 | [360975-trials-of-valor.json](./360975-trials-of-valor.json) |
 | Triangle | 29732 | [29732-triangle.json](./29732-triangle.json) |
