@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fofumia | 347524 | [347524-fofumia.json](./347524-fofumia.json) |
 | Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
+| Foglit | 346428 | [346428-foglit.json](./346428-foglit.json) |
 | Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Food Hell | 365526 | [365526-food-hell.json](./365526-food-hell.json) |
