@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| E-Racer | 356465 | [356465-e-racer.json](./356465-e-racer.json) |
 | E.T. Armies | 14744 | [14744-e-t-armies.json](./14744-e-t-armies.json) |
 | E9uations | 374448 | [374448-e9uations.json](./374448-e9uations.json) |
 | EA Sports Active | 4826 | [4826-ea-sports-active.json](./4826-ea-sports-active.json) |
