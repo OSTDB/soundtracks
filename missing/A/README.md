@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With: Xiang | 382059 | [382059-a-sexy-tour-with-xiang.json](./382059-a-sexy-tour-with-xiang.json) |
 | A Short Quest | 393332 | [393332-a-short-quest.json](./393332-a-short-quest.json) |
 | A Snail's Tale | 349661 | [349661-a-snails-tale.json](./349661-a-snails-tale.json) |
+| A Song of Steel and Spirits | 347552 | [347552-a-song-of-steel-and-spirits.json](./347552-a-song-of-steel-and-spirits.json) |
 | A Spark in the Forest | 382020 | [382020-a-spark-in-the-forest.json](./382020-a-spark-in-the-forest.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Echo | 377470 | [377470-abyssal-echo.json](./377470-abyssal-echo.json) |
 | Abyssal Swarm | 377471 | [377471-abyssal-swarm.json](./377471-abyssal-swarm.json) |
 | Abyssal Tides | 377466 | [377466-abyssal-tides.json](./377466-abyssal-tides.json) |
+| Abyssborne | 347522 | [347522-abyssborne.json](./347522-abyssborne.json) |
 | ACA Neo Geo: Pop'n Bounce | 394723 | [394723-aca-neo-geo-popn-bounce.json](./394723-aca-neo-geo-popn-bounce.json) |
 | ACA Neo Geo: Top Hunter Roddy & Cathy | 76959 | [76959-aca-neo-geo-top-hunter-roddy-and-cathy.json](./76959-aca-neo-geo-top-hunter-roddy-and-cathy.json) |
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrogorpon | 377478 | [377478-acrogorpon.json](./377478-acrogorpon.json) |
 | Acropalypse | 349705 | [349705-acropalypse.json](./349705-acropalypse.json) |
 | Across the Gap | 377477 | [377477-across-the-gap.json](./377477-across-the-gap.json) |
+| Across the Obelisk: The Sunken Temple | 347523 | [347523-across-the-obelisk-the-sunken-temple.json](./347523-across-the-obelisk-the-sunken-temple.json) |
 | Across Unbeaten Paths | 377479 | [377479-across-unbeaten-paths.json](./377479-across-unbeaten-paths.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
@@ -218,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka | 388575 | [388575-aka.json](./388575-aka.json) |
 | Aker Fern 2 | 403475 | [403475-aker-fern-2.json](./403475-aker-fern-2.json) |
 | Aki no Yuugure ha Boku no Kokoro wo Terashiteita. | 370546 | [370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json](./370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json) |
+| Aku: Rebirth of Shadows | 347508 | [347508-aku-rebirth-of-shadows.json](./347508-aku-rebirth-of-shadows.json) |
 | Alan Wake Collector's Edition | 410795 | [410795-alan-wake-collectors-edition.json](./410795-alan-wake-collectors-edition.json) |
 | Alan Wake Collector's Edition Extras | 410793 | [410793-alan-wake-collectors-edition-extras.json](./410793-alan-wake-collectors-edition-extras.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
@@ -371,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Aphasie | 366050 | [366050-aphasie.json](./366050-aphasie.json) |
 | Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
+| Apothecary of City X | 347537 | [347537-apothecary-of-city-x.json](./347537-apothecary-of-city-x.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
 | Apple Crumble | 404738 | [404738-apple-crumble.json](./404738-apple-crumble.json) |
 | Approaching Infinity: Shipyards | 376326 | [376326-approaching-infinity-shipyards.json](./376326-approaching-infinity-shipyards.json) |
@@ -457,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure Gaiden | 76753 | [76753-artifact-adventure-gaiden.json](./76753-artifact-adventure-gaiden.json) |
 | Artifact Seeker: Paladin | 396816 | [396816-artifact-seeker-paladin.json](./396816-artifact-seeker-paladin.json) |
 | Artificial Extinction | 126833 | [126833-artificial-extinction.json](./126833-artificial-extinction.json) |
+| Artisan Acre | 347528 | [347528-artisan-acre.json](./347528-artisan-acre.json) |
 | Aru Otoko no Dokuhaku | 393354 | [393354-aru-otoko-no-dokuhaku.json](./393354-aru-otoko-no-dokuhaku.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | As Expected of the Demon Lord | 363233 | [363233-as-expected-of-the-demon-lord.json](./363233-as-expected-of-the-demon-lord.json) |
