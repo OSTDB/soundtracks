@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorax Episode 1: The Cliff to Nowhere | 365520 | [365520-gorax-episode-1-the-cliff-to-nowhere.json](./365520-gorax-episode-1-the-cliff-to-nowhere.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Görev | 360433 | [360433-gorev.json](./360433-gorev.json) |
+| Gorilla Vs 100 Men | 345883 | [345883-gorilla-vs-100-men.json](./345883-gorilla-vs-100-men.json) |
 | Gotcha Racing 2nd | 95054 | [95054-gotcha-racing-2nd.json](./95054-gotcha-racing-2nd.json) |
 | Goth Clicker | 402814 | [402814-goth-clicker.json](./402814-goth-clicker.json) |
 | Gotham City Impostors | 1012 | [1012-gotham-city-impostors.json](./1012-gotham-city-impostors.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravityMan | 366049 | [366049-gravityman.json](./366049-gravityman.json) |
 | Gravosphere | 368334 | [368334-gravosphere.json](./368334-gravosphere.json) |
 | Gray Goo | 359252 | [359252-gray-goo.json](./359252-gray-goo.json) |
+| Graynold Runner | 345865 | [345865-graynold-runner.json](./345865-graynold-runner.json) |
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTR: Garage Town Racing | 367228 | [367228-gtr-garage-town-racing.json](./367228-gtr-garage-town-racing.json) |
 | Guacamelee! | 4838 | [4838-guacamelee.json](./4838-guacamelee.json) |
 | Guacamelee!: Gold Edition | 19121 | [19121-guacamelee-gold-edition.json](./19121-guacamelee-gold-edition.json) |
+| Guard Break | 345900 | [345900-guard-break.json](./345900-guard-break.json) |
 | Guard of Wonderland | 109756 | [109756-guard-of-wonderland.json](./109756-guard-of-wonderland.json) |
 | Guardians of Dreamstate | 414965 | [414965-guardians-of-dreamstate.json](./414965-guardians-of-dreamstate.json) |
 | Guardians of the Galaxy: The Universal Weapon | 20944 | [20944-guardians-of-the-galaxy-the-universal-weapon.json](./20944-guardians-of-the-galaxy-the-universal-weapon.json) |
