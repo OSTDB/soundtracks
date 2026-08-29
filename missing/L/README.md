@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaves Against Unalived | 404146 | [404146-leaves-against-unalived.json](./404146-leaves-against-unalived.json) |
 | Leek Game | 354263 | [354263-leek-game.json](./354263-leek-game.json) |
 | Left 4 Dead 2: The Passing | 22890 | [22890-left-4-dead-2-the-passing.json](./22890-left-4-dead-2-the-passing.json) |
+| Legacy of Shadows | 345307 | [345307-legacy-of-shadows.json](./345307-legacy-of-shadows.json) |
 | Legacy of Valor | 359275 | [359275-legacy-of-valor.json](./359275-legacy-of-valor.json) |
 | Legal Beagll: Justice is Argued | 371091 | [371091-legal-beagll-justice-is-argued.json](./371091-legal-beagll-justice-is-argued.json) |
 | Legatus | 389328 | [389328-legatus.json](./389328-legatus.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lift It | 34464 | [34464-lift-it.json](./34464-lift-it.json) |
 | Light Fall | 354854 | [354854-light-fall.json](./354854-light-fall.json) |
+| Light This Up | 345298 | [345298-light-this-up.json](./345298-light-this-up.json) |
 | Lightfold | 400134 | [400134-lightfold.json](./400134-lightfold.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Like or Die | 415004 | [415004-like-or-die.json](./415004-like-or-die.json) |
@@ -151,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Cage: Gin no Youkakutei | 393334 | [393334-liminal-cage-gin-no-youkakutei.json](./393334-liminal-cage-gin-no-youkakutei.json) |
 | Liminal Exit | 360375 | [360375-liminal-exit.json](./360375-liminal-exit.json) |
 | Liminal Logistics | 389896 | [389896-liminal-logistics.json](./389896-liminal-logistics.json) |
+| Liminal. | 345293 | [345293-liminal.json](./345293-liminal.json) |
 | Limiter | 76684 | [76684-limiter.json](./76684-limiter.json) |
 | Line Defense | 365512 | [365512-line-defense.json](./365512-line-defense.json) |
 | Line of Sight: Vietnam | 24087 | [24087-line-of-sight-vietnam.json](./24087-line-of-sight-vietnam.json) |
@@ -198,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Apocalypse | 359254 | [359254-lone-apocalypse.json](./359254-lone-apocalypse.json) |
 | Lone Bastion | 380856 | [380856-lone-bastion.json](./380856-lone-bastion.json) |
 | Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
+| Long Edge Wins | 345336 | [345336-long-edge-wins.json](./345336-long-edge-wins.json) |
 | Long Knives | 349152 | [349152-long-knives.json](./349152-long-knives.json) |
 | Long Run 2 | 387246 | [387246-long-run-2.json](./387246-long-run-2.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
