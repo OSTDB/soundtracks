@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
 | Night of the Ritual | 375021 | [375021-night-of-the-ritual.json](./375021-night-of-the-ritual.json) |
 | Night Rolls Cozy Store | 407211 | [407211-night-rolls-cozy-store.json](./407211-night-rolls-cozy-store.json) |
+| Night Sentinel | 354253 | [354253-night-sentinel.json](./354253-night-sentinel.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
 | Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
