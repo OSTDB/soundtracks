@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazone | 385496 | [385496-amazone.json](./385496-amazone.json) |
 | Amber Ceres | 400761 | [400761-amber-ceres.json](./400761-amber-ceres.json) |
 | Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
+| Amelia | 357653 | [357653-amelia.json](./357653-amelia.json) |
 | Amelie's Café: Halloween | 89313 | [89313-amelies-cafe-halloween.json](./89313-amelies-cafe-halloween.json) |
 | Amenti | 327698 | [327698-amenti.json](./327698-amenti.json) |
 | American Conquest | 596 | [596-american-conquest.json](./596-american-conquest.json) |
