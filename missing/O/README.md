@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyGame | 359269 | [359269-onlygame.json](./359269-onlygame.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
+| Open Training | 358702 | [358702-open-training.json](./358702-open-training.json) |
 | OpenPete | 413542 | [413542-openpete.json](./413542-openpete.json) |
 | OpenQuacks | 398229 | [398229-openquacks.json](./398229-openquacks.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
