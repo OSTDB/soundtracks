@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports Rivals | 4842 | [4842-kinect-sports-rivals.json](./4842-kinect-sports-rivals.json) |
 | Kinetic Void | 15415 | [15415-kinetic-void.json](./15415-kinetic-void.json) |
 | King Arthur's World | 42506 | [42506-king-arthurs-world.json](./42506-king-arthurs-world.json) |
+| King of Bones | 351464 | [351464-king-of-bones.json](./351464-king-of-bones.json) |
 | King of Kings | 360976 | [360976-king-of-kings.json](./360976-king-of-kings.json) |
 | King of Meat: Deluxe Edition | 369396 | [369396-king-of-meat-deluxe-edition.json](./369396-king-of-meat-deluxe-edition.json) |
 | King of Swords | 384373 | [384373-king-of-swords.json](./384373-king-of-swords.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
+| Konpira Fune Fune | 351433 | [351433-konpira-fune-fune.json](./351433-konpira-fune-fune.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Konung 2: Blood of Titans | 10491 | [10491-konung-2-blood-of-titans.json](./10491-konung-2-blood-of-titans.json) |
 | Korean Drone Flying Tour Anmyeon-eup | 394709 | [394709-korean-drone-flying-tour-anmyeon-eup.json](./394709-korean-drone-flying-tour-anmyeon-eup.json) |
