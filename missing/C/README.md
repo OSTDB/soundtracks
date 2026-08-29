@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
 | Cat Runner | 355910 | [355910-cat-runner.json](./355910-cat-runner.json) |
 | Cat's Holidays | 378629 | [378629-cats-holidays.json](./378629-cats-holidays.json) |
+| Catacomb Abyss 3D | 343098 | [343098-catacomb-abyss-3d.json](./343098-catacomb-abyss-3d.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
 | Catch Sunlight Museum | 366082 | [366082-catch-sunlight-museum.json](./366082-catch-sunlight-museum.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cineris Somnia | 109646 | [109646-cineris-somnia.json](./109646-cineris-somnia.json) |
 | Circle | 398234 | [398234-circle.json](./398234-circle.json) |
+| Circle Defense | 343078 | [343078-circle-defense.json](./343078-circle-defense.json) |
 | Circuits | 395456 | [395456-circuits.json](./395456-circuits.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
