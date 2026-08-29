@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerialia: Wings of Delivery | 413551 | [413551-aerialia-wings-of-delivery.json](./413551-aerialia-wings-of-delivery.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
 | Aerosurge | 360960 | [360960-aerosurge.json](./360960-aerosurge.json) |
+| Aery: Titans of the Future | 350844 | [350844-aery-titans-of-the-future.json](./350844-aery-titans-of-the-future.json) |
 | Aether Keepers | 409471 | [409471-aether-keepers.json](./409471-aether-keepers.json) |
 | Aetheris Core | 411453 | [411453-aetheris-core.json](./411453-aetheris-core.json) |
 | AFK GF | 365521 | [365521-afk-gf.json](./365521-afk-gf.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Space Cyclone | 407267 | [407267-arcade-archives-space-cyclone.json](./407267-arcade-archives-space-cyclone.json) |
 | Arcade Archives: Space Invaders | 382647 | [382647-arcade-archives-space-invaders.json](./382647-arcade-archives-space-invaders.json) |
 | Arcade Archives: Steel Worker | 368331 | [368331-arcade-archives-steel-worker.json](./368331-arcade-archives-steel-worker.json) |
+| Arcade Archives: Strategy X | 350824 | [350824-arcade-archives-strategy-x.json](./350824-arcade-archives-strategy-x.json) |
 | Arcade Archives: The Outfoxies | 384946 | [384946-arcade-archives-the-outfoxies.json](./384946-arcade-archives-the-outfoxies.json) |
 | Arcade Classics GG2SMS | 369436 | [369436-arcade-classics-gg2sms.json](./369436-arcade-classics-gg2sms.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
