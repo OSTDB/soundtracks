@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Adventure | 386571 | [386571-sea-adventure.json](./386571-sea-adventure.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
 | Sea Drillers | 346432 | [346432-sea-drillers.json](./346432-sea-drillers.json) |
+| Sea of Remnants | 344218 | [344218-sea-of-remnants.json](./344218-sea-of-remnants.json) |
 | Sea of Thieves: Season 18 - Return to the Devil's Roar | 382621 | [382621-sea-of-thieves-season-18-return-to-the-devils-roar.json](./382621-sea-of-thieves-season-18-return-to-the-devils-roar.json) |
 | Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner | 23088 | [23088-shin-megami-tensei-devil-summoner.json](./23088-shin-megami-tensei-devil-summoner.json) |
 | Shin Megami Tensei: Strange Journey Redux | 27959 | [27959-shin-megami-tensei-strange-journey-redux.json](./27959-shin-megami-tensei-strange-journey-redux.json) |
 | Shin Megami Tensei: Synchronicity Prologue | 74492 | [74492-shin-megami-tensei-synchronicity-prologue.json](./74492-shin-megami-tensei-synchronicity-prologue.json) |
+| Shin Zero | 344178 | [344178-shin-zero.json](./344178-shin-zero.json) |
 | Shining Force II | 3197 | [3197-shining-force-ii.json](./3197-shining-force-ii.json) |
 | Shinobi | 386580 | [386580-shinobi.json](./386580-shinobi.json) |
 | Shinsoudenki Arithmetica | 402757 | [402757-shinsoudenki-arithmetica.json](./402757-shinsoudenki-arithmetica.json) |
@@ -814,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Miami VR | 406609 | [406609-streets-of-miami-vr.json](./406609-streets-of-miami-vr.json) |
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strength of the Sword: Ultimate | 22737 | [22737-strength-of-the-sword-ultimate.json](./22737-strength-of-the-sword-ultimate.json) |
+| Stress Baal | 344216 | [344216-stress-baal.json](./344216-stress-baal.json) |
 | Strife Lords | 348099 | [348099-strife-lords.json](./348099-strife-lords.json) |
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
@@ -959,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Battle Qix | 370501 | [370501-superlite-1500-series-battle-qix.json](./370501-superlite-1500-series-battle-qix.json) |
 | Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
+| Superman: The Actionscript Adventure | 344203 | [344203-superman-the-actionscript-adventure.json](./344203-superman-the-actionscript-adventure.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Supermarket Manager 2025 | 350834 | [350834-supermarket-manager-2025.json](./350834-supermarket-manager-2025.json) |
 | Superspective | 344772 | [344772-superspective.json](./344772-superspective.json) |
