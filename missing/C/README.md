@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catjong 4: Secrets of the Purramids | 397544 | [397544-catjong-4-secrets-of-the-purramids.json](./397544-catjong-4-secrets-of-the-purramids.json) |
 | Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
 | Cats & Pandas | 347546 | [347546-cats-and-pandas.json](./347546-cats-and-pandas.json) |
+| Cats are Money | 346405 | [346405-cats-are-money.json](./346405-cats-are-money.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Cats Organized Neatly 2 | 382652 | [382652-cats-organized-neatly-2.json](./382652-cats-organized-neatly-2.json) |
 | Cats vs. Rats | 372310 | [372310-cats-vs-rats.json](./372310-cats-vs-rats.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm: The Rift | 12014 | [12014-chasm-the-rift.json](./12014-chasm-the-rift.json) |
 | Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chattle! | 393330 | [393330-chattle.json](./393330-chattle.json) |
+| Checkmage! | 346441 | [346441-checkmage.json](./346441-checkmage.json) |
 | Cheliki | 388587 | [388587-cheliki.json](./388587-cheliki.json) |
 | Cheri's Dollhouse: Forgotten Memory | 376332 | [376332-cheris-dollhouse-forgotten-memory.json](./376332-cheris-dollhouse-forgotten-memory.json) |
 | Cherry Creek | 115769 | [115769-cherry-creek.json](./115769-cherry-creek.json) |
@@ -299,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code World | 65813 | [65813-code-world.json](./65813-code-world.json) |
 | Code-Zero | 372874 | [372874-code-zero.json](./372874-code-zero.json) |
 | Code: Elyse | 370545 | [370545-code-elyse.json](./370545-code-elyse.json) |
+| Code: Loopbreaker | 346422 | [346422-code-loopbreaker.json](./346422-code-loopbreaker.json) |
 | Codebreaker | 389283 | [389283-codebreaker.json](./389283-codebreaker.json) |
 | Codename: Typhoon | 390963 | [390963-codename-typhoon.json](./390963-codename-typhoon.json) |
 | Coffee Talk: Tokyo - Deluxe Edition | 402170 | [402170-coffee-talk-tokyo-deluxe-edition.json](./402170-coffee-talk-tokyo-deluxe-edition.json) |
@@ -453,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cove | 350281 | [350281-cozy-cove.json](./350281-cozy-cove.json) |
 | Cozy Farm | 389879 | [389879-cozy-farm.json](./389879-cozy-farm.json) |
 | Cozy Game Restoration | 394023 | [394023-cozy-game-restoration.json](./394023-cozy-game-restoration.json) |
+| Cozy Market Simulator | 346411 | [346411-cozy-market-simulator.json](./346411-cozy-market-simulator.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
 | Cozy Radiation Cleaner | 407212 | [407212-cozy-radiation-cleaner.json](./407212-cozy-radiation-cleaner.json) |
 | Cozy Snow Friends | 398196 | [398196-cozy-snow-friends.json](./398196-cozy-snow-friends.json) |
