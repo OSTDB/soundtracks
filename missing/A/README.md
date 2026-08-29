@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant War: Domination | 34395 | [34395-ant-war-domination.json](./34395-ant-war-domination.json) |
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
+| Antivirus Protocol | 345313 | [345313-antivirus-protocol.json](./345313-antivirus-protocol.json) |
 | Antropeo | 406016 | [406016-antropeo.json](./406016-antropeo.json) |
 | Anubis And The Buried Bone | 404125 | [404125-anubis-and-the-buried-bone.json](./404125-anubis-and-the-buried-bone.json) |
 | Anymaker | 399539 | [399539-anymaker.json](./399539-anymaker.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aromantic Confession | 406623 | [406623-aromantic-confession.json](./406623-aromantic-confession.json) |
 | Arrange Fever | 385498 | [385498-arrange-fever.json](./385498-arrange-fever.json) |
 | Arranger: A Role-Puzzling Adventure | 287847 | [287847-arranger-a-role-puzzling-adventure.json](./287847-arranger-a-role-puzzling-adventure.json) |
+| Arrow | 345345 | [345345-arrow.json](./345345-arrow.json) |
 | Arrow Heads | 22392 | [22392-arrow-heads.json](./22392-arrow-heads.json) |
 | Arrow Party | 382617 | [382617-arrow-party.json](./382617-arrow-party.json) |
 | Arrow Spire: Tower Defense | 374486 | [374486-arrow-spire-tower-defense.json](./374486-arrow-spire-tower-defense.json) |
@@ -475,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aru Otoko no Dokuhaku | 393354 | [393354-aru-otoko-no-dokuhaku.json](./393354-aru-otoko-no-dokuhaku.json) |
 | Arzette: The Jewel of Faramore | 256403 | [256403-arzette-the-jewel-of-faramore.json](./256403-arzette-the-jewel-of-faramore.json) |
 | As Expected of the Demon Lord | 363233 | [363233-as-expected-of-the-demon-lord.json](./363233-as-expected-of-the-demon-lord.json) |
+| Ascend the Dome | 345327 | [345327-ascend-the-dome.json](./345327-ascend-the-dome.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | Ascension of the Dead | 350243 | [350243-ascension-of-the-dead.json](./350243-ascension-of-the-dead.json) |
@@ -502,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Director's Cut Edition | 27827 | [27827-assassins-creed-directors-cut-edition.json](./27827-assassins-creed-directors-cut-edition.json) |
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Assault Wing 3 | 414257 | [414257-assault-wing-3.json](./414257-assault-wing-3.json) |
+| Astball | 345343 | [345343-astball.json](./345343-astball.json) |
 | Asteranova | 412131 | [412131-asteranova.json](./412131-asteranova.json) |
 | Asterix & Obelix: Searching for the Black Gold | 348105 | [348105-asterix-and-obelix-searching-for-the-black-gold.json](./348105-asterix-and-obelix-searching-for-the-black-gold.json) |
 | Asterix: Total Retaliation | 348098 | [348098-asterix-total-retaliation.json](./348098-asterix-total-retaliation.json) |
@@ -516,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrovader 3D | 385482 | [385482-astrovader-3d.json](./385482-astrovader-3d.json) |
 | Aswang Hunter | 414189 | [414189-aswang-hunter.json](./414189-aswang-hunter.json) |
 | Asylium | 380256 | [380256-asylium.json](./380256-asylium.json) |
+| Ataraxia | 345347 | [345347-ataraxia.json](./345347-ataraxia.json) |
 | Atari 50: The Anniversary Celebration | 207018 | [207018-atari-50-the-anniversary-celebration.json](./207018-atari-50-the-anniversary-celebration.json) |
 | Atari Mania | 205172 | [205172-atari-mania.json](./205172-atari-mania.json) |
 | Atelier Annie: Alchemists of Sera Island | 24262 | [24262-atelier-annie-alchemists-of-sera-island.json](./24262-atelier-annie-alchemists-of-sera-island.json) |
