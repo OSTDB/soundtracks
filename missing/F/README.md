@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Wasteland Workshop | 18030 | [18030-fallout-4-wasteland-workshop.json](./18030-fallout-4-wasteland-workshop.json) |
 | Fallout: London | 212711 | [212711-fallout-london.json](./212711-fallout-london.json) |
 | Fallowind | 355901 | [355901-fallowind.json](./355901-fallowind.json) |
+| Familiar Shadows | 345854 | [345854-familiar-shadows.json](./345854-familiar-shadows.json) |
 | Family cobweb | 46488 | [46488-family-cobweb.json](./46488-family-cobweb.json) |
 | Family Feud: 2010 Edition | 6677 | [6677-family-feud-2010-edition.json](./6677-family-feud-2010-edition.json) |
 | Family Games Extra Pack: 15 in 1 | 350850 | [350850-family-games-extra-pack-15-in-1.json](./350850-family-games-extra-pack-15-in-1.json) |
@@ -229,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights with Tung Tung Sahur | 373379 | [373379-five-nights-with-tung-tung-sahur.json](./373379-five-nights-with-tung-tung-sahur.json) |
 | Fix & Flip Dream House | 396104 | [396104-fix-and-flip-dream-house.json](./396104-fix-and-flip-dream-house.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
+| FL Changeman | 345877 | [345877-fl-changeman.json](./345877-fl-changeman.json) |
 | Flame & Forge | 389903 | [389903-flame-and-forge.json](./389903-flame-and-forge.json) |
 | Flame Dragon 2: Legend of Golden Castle | 351440 | [351440-flame-dragon-2-legend-of-golden-castle.json](./351440-flame-dragon-2-legend-of-golden-castle.json) |
 | Flame Dragon Plus: Marks of Wind | 351442 | [351442-flame-dragon-plus-marks-of-wind.json](./351442-flame-dragon-plus-marks-of-wind.json) |
@@ -289,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | Football Manager Mobile 2018 | 76927 | [76927-football-manager-mobile-2018.json](./76927-football-manager-mobile-2018.json) |
 | Football Star - Super Striker | 101660 | [101660-football-star-super-striker.json](./101660-football-star-super-striker.json) |
+| Football4 | 345872 | [345872-football4.json](./345872-football4.json) |
 | Footbrawl Playground | 31436 | [31436-footbrawl-playground.json](./31436-footbrawl-playground.json) |
 | Footy Golf | 394029 | [394029-footy-golf.json](./394029-footy-golf.json) |
 | For the King II | 217311 | [217311-for-the-king-ii.json](./217311-for-the-king-ii.json) |
