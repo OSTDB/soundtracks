@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Knight: Rogue Rider Edition | 16816 | [16816-last-knight-rogue-rider-edition.json](./16816-last-knight-rogue-rider-edition.json) |
 | Last Man Standing | 54660 | [54660-last-man-standing.json](./54660-last-man-standing.json) |
 | Last Shift | 368863 | [368863-last-shift.json](./368863-last-shift.json) |
+| Last Stand Legends | 346445 | [346445-last-stand-legends.json](./346445-last-stand-legends.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
 | Last War | 358684 | [358684-last-war.json](./358684-last-war.json) |
