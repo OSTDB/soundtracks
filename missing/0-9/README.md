@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 in a Million: A Game of Odds - Reduce Time | 376941 | [376941-1-in-a-million-a-game-of-odds-reduce-time.json](./376941-1-in-a-million-a-game-of-odds-reduce-time.json) |
 | 1 Minute Commuting to School | 376936 | [376936-1-minute-commuting-to-school.json](./376936-1-minute-commuting-to-school.json) |
 | 1 Trillion Credits In Debt | 376938 | [376938-1-trillion-credits-in-debt.json](./376938-1-trillion-credits-in-debt.json) |
+| 1! 2! 3! Battle Card! | 349124 | [349124-1-2-3-battle-card.json](./349124-1-2-3-battle-card.json) |
 | 10 Casual Games Collection | 394724 | [394724-10-casual-games-collection.json](./394724-10-casual-games-collection.json) |
 | 10 Dead Doves: Backer Beanie | 376908 | [376908-10-dead-doves-backer-beanie.json](./376908-10-dead-doves-backer-beanie.json) |
 | 10 Dead Doves: Supporter Edition | 376909 | [376909-10-dead-doves-supporter-edition.json](./376909-10-dead-doves-supporter-edition.json) |
