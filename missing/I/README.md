@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inc. | 372891 | [372891-inc.json](./372891-inc.json) |
 | Inca Marbles | 102169 | [102169-inca-marbles.json](./102169-inca-marbles.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
+| Incident X | 350813 | [350813-incident-x.json](./350813-incident-x.json) |
 | Incoming: The Final Conflict | 25120 | [25120-incoming-the-final-conflict.json](./25120-incoming-the-final-conflict.json) |
 | Incredible Dracula: License to Relax | 371078 | [371078-incredible-dracula-license-to-relax.json](./371078-incredible-dracula-license-to-relax.json) |
 | Independence War | 757 | [757-independence-war.json](./757-independence-war.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo's Dreams | 403513 | [403513-indigos-dreams.json](./403513-indigos-dreams.json) |
 | Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
+| Infantry Attack: Airstrike Edition | 350852 | [350852-infantry-attack-airstrike-edition.json](./350852-infantry-attack-airstrike-edition.json) |
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
