@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Gold | 12775 | [12775-bards-gold.json](./12775-bards-gold.json) |
 | Bardo | 410123 | [410123-bardo.json](./410123-bardo.json) |
 | Bargalian Regicide | 387888 | [387888-bargalian-regicide.json](./387888-bargalian-regicide.json) |
+| Barn Quest | 357663 | [357663-barn-quest.json](./357663-barn-quest.json) |
 | Baroque Syndrome | 380272 | [380272-baroque-syndrome.json](./380272-baroque-syndrome.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
@@ -163,7 +164,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Fall Out Boy - "My Songs Know What You Did in the Dark (Light Em Up)" | 358115 | [358115-beat-saber-fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up.json](./358115-beat-saber-fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up.json) |
 | Beat Saber: Fall Out Boy - "This Ain’t a Scene, It’s an Arms Race" | 358116 | [358116-beat-saber-fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race.json](./358116-beat-saber-fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race.json) |
 | Beat Saber: Fall Out Boy - "Thnks fr th Mmrs" | 358117 | [358117-beat-saber-fall-out-boy-thnks-fr-th-mmrs.json](./358117-beat-saber-fall-out-boy-thnks-fr-th-mmrs.json) |
+| Beat Saber: Fatboy Slim - "The Rockafeller Skank" | 357640 | [357640-beat-saber-fatboy-slim-the-rockafeller-skank.json](./357640-beat-saber-fatboy-slim-the-rockafeller-skank.json) |
 | Beat Saber: Feint - "We Won't Be Alone (feat. Laura Brehm)" | 358159 | [358159-beat-saber-feint-we-wont-be-alone-feat-laura-brehm.json](./358159-beat-saber-feint-we-wont-be-alone-feat-laura-brehm.json) |
+| Beat Saber: Guns N' Roses - "Sweet Child O' Mine" | 357628 | [357628-beat-saber-guns-n-roses-sweet-child-o-mine.json](./357628-beat-saber-guns-n-roses-sweet-child-o-mine.json) |
 | Beat Saber: Gwen Stefani - "The Sweet Escape ft. Akon" | 358150 | [358150-beat-saber-gwen-stefani-the-sweet-escape-ft-akon.json](./358150-beat-saber-gwen-stefani-the-sweet-escape-ft-akon.json) |
 | Beat Saber: Imagine Dragons - "Bones" | 358104 | [358104-beat-saber-imagine-dragons-bones.json](./358104-beat-saber-imagine-dragons-bones.json) |
 | Beat Saber: Imagine Dragons - "It's Time" | 358156 | [358156-beat-saber-imagine-dragons-its-time.json](./358156-beat-saber-imagine-dragons-its-time.json) |
@@ -182,13 +185,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Limp Bizkit - "Rollin’ (Air Raid Vehicle)" | 358151 | [358151-beat-saber-limp-bizkit-rollin-air-raid-vehicle.json](./358151-beat-saber-limp-bizkit-rollin-air-raid-vehicle.json) |
 | Beat Saber: Linkin Park - "Faint" | 358160 | [358160-beat-saber-linkin-park-faint.json](./358160-beat-saber-linkin-park-faint.json) |
 | Beat Saber: Linkin Park - "Papercut" | 358161 | [358161-beat-saber-linkin-park-papercut.json](./358161-beat-saber-linkin-park-papercut.json) |
+| Beat Saber: Lizzo - "2 Be Loved (Am I Ready)" | 357638 | [357638-beat-saber-lizzo-2-be-loved-am-i-ready.json](./357638-beat-saber-lizzo-2-be-loved-am-i-ready.json) |
+| Beat Saber: Lizzo - "About Damn Time" | 357633 | [357633-beat-saber-lizzo-about-damn-time.json](./357633-beat-saber-lizzo-about-damn-time.json) |
+| Beat Saber: Lizzo - "Cuz I Love You" | 357637 | [357637-beat-saber-lizzo-cuz-i-love-you.json](./357637-beat-saber-lizzo-cuz-i-love-you.json) |
+| Beat Saber: Lizzo - "Everybody's Gay" | 357639 | [357639-beat-saber-lizzo-everybodys-gay.json](./357639-beat-saber-lizzo-everybodys-gay.json) |
+| Beat Saber: Lizzo - "Good As Hell" | 357635 | [357635-beat-saber-lizzo-good-as-hell.json](./357635-beat-saber-lizzo-good-as-hell.json) |
+| Beat Saber: Lizzo - "Juice" | 357636 | [357636-beat-saber-lizzo-juice.json](./357636-beat-saber-lizzo-juice.json) |
+| Beat Saber: Lizzo - "Tempo (feat. Missy Elliot)" | 357632 | [357632-beat-saber-lizzo-tempo-feat-missy-elliot.json](./357632-beat-saber-lizzo-tempo-feat-missy-elliot.json) |
+| Beat Saber: Lizzo - "Truth Hurts" | 357631 | [357631-beat-saber-lizzo-truth-hurts.json](./357631-beat-saber-lizzo-truth-hurts.json) |
+| Beat Saber: Lizzo - "Worship" | 357634 | [357634-beat-saber-lizzo-worship.json](./357634-beat-saber-lizzo-worship.json) |
 | Beat Saber: LMFAO ft. Lauren Bennett, GoonRock - "Party Rock Anthem" | 358145 | [358145-beat-saber-lmfao-ft-lauren-bennett-goonrock-party-rock-anthem.json](./358145-beat-saber-lmfao-ft-lauren-bennett-goonrock-party-rock-anthem.json) |
+| Beat Saber: Lynyrd Skynyrd - "Free Bird" | 357630 | [357630-beat-saber-lynyrd-skynyrd-free-bird.json](./357630-beat-saber-lynyrd-skynyrd-free-bird.json) |
 | Beat Saber: Madeon - "Icarus" | 358107 | [358107-beat-saber-madeon-icarus.json](./358107-beat-saber-madeon-icarus.json) |
 | Beat Saber: Maroon 5 - "Sugar" | 358148 | [358148-beat-saber-maroon-5-sugar.json](./358148-beat-saber-maroon-5-sugar.json) |
 | Beat Saber: Marshmello - "Alone" | 358110 | [358110-beat-saber-marshmello-alone.json](./358110-beat-saber-marshmello-alone.json) |
+| Beat Saber: Martin Garrix - "Animals" | 357643 | [357643-beat-saber-martin-garrix-animals.json](./357643-beat-saber-martin-garrix-animals.json) |
 | Beat Saber: Metallica Music Pack | 363203 | [363203-beat-saber-metallica-music-pack.json](./363203-beat-saber-metallica-music-pack.json) |
 | Beat Saber: Monstercat Mixtape 2 | 363202 | [363202-beat-saber-monstercat-mixtape-2.json](./363202-beat-saber-monstercat-mixtape-2.json) |
 | Beat Saber: Muzzy - "Feeling Stronger (feat. Charlotte Colley)" | 358158 | [358158-beat-saber-muzzy-feeling-stronger-feat-charlotte-colley.json](./358158-beat-saber-muzzy-feeling-stronger-feat-charlotte-colley.json) |
+| Beat Saber: Nirvana - "Smells Like Teen Spirit" | 357627 | [357627-beat-saber-nirvana-smells-like-teen-spirit.json](./357627-beat-saber-nirvana-smells-like-teen-spirit.json) |
 | Beat Saber: OneRepublic - "Counting Stars" | 358149 | [358149-beat-saber-onerepublic-counting-stars.json](./358149-beat-saber-onerepublic-counting-stars.json) |
 | Beat Saber: Panic! At The Disco - "Crazy = Genius" | 358103 | [358103-beat-saber-panic-at-the-disco-crazy-genius.json](./358103-beat-saber-panic-at-the-disco-crazy-genius.json) |
 | Beat Saber: Panic! At The Disco - "Dancing's Not A Crime" | 358102 | [358102-beat-saber-panic-at-the-disco-dancings-not-a-crime.json](./358102-beat-saber-panic-at-the-disco-dancings-not-a-crime.json) |
@@ -197,6 +212,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Panic! At The Disco - "Sugar Soaker" | 358099 | [358099-beat-saber-panic-at-the-disco-sugar-soaker.json](./358099-beat-saber-panic-at-the-disco-sugar-soaker.json) |
 | Beat Saber: Panic! at the Disco - "The Greatest Show" | 358164 | [358164-beat-saber-panic-at-the-disco-the-greatest-show.json](./358164-beat-saber-panic-at-the-disco-the-greatest-show.json) |
 | Beat Saber: Panic! at the Disco - "Victorious" | 358155 | [358155-beat-saber-panic-at-the-disco-victorious.json](./358155-beat-saber-panic-at-the-disco-victorious.json) |
+| Beat Saber: Pendulum - "Witchcraft" | 357642 | [357642-beat-saber-pendulum-witchcraft.json](./357642-beat-saber-pendulum-witchcraft.json) |
+| Beat Saber: Queen - "Crazy Little Thing Called Love" | 357623 | [357623-beat-saber-queen-crazy-little-thing-called-love.json](./357623-beat-saber-queen-crazy-little-thing-called-love.json) |
+| Beat Saber: Queen - "Don't Stop Me Now" | 357613 | [357613-beat-saber-queen-dont-stop-me-now.json](./357613-beat-saber-queen-dont-stop-me-now.json) |
+| Beat Saber: Queen - "I Want It All" | 357625 | [357625-beat-saber-queen-i-want-it-all.json](./357625-beat-saber-queen-i-want-it-all.json) |
+| Beat Saber: Queen - "Killer Queen" | 357626 | [357626-beat-saber-queen-killer-queen.json](./357626-beat-saber-queen-killer-queen.json) |
+| Beat Saber: Queen - "One Vision" | 357612 | [357612-beat-saber-queen-one-vision.json](./357612-beat-saber-queen-one-vision.json) |
+| Beat Saber: Queen - "Somebody to Love" | 357624 | [357624-beat-saber-queen-somebody-to-love.json](./357624-beat-saber-queen-somebody-to-love.json) |
+| Beat Saber: Queen - "Stone Cold Crazy" | 357611 | [357611-beat-saber-queen-stone-cold-crazy.json](./357611-beat-saber-queen-stone-cold-crazy.json) |
 | Beat Saber: Rogue - "Rattlesnake" | 358153 | [358153-beat-saber-rogue-rattlesnake.json](./358153-beat-saber-rogue-rattlesnake.json) |
 | Beat Saber: Rudimental - "Waiting All Night (feat. Ella Eyre)" | 358108 | [358108-beat-saber-rudimental-waiting-all-night-feat-ella-eyre.json](./358108-beat-saber-rudimental-waiting-all-night-feat-ella-eyre.json) |
 | Beat Saber: Skrillex - "First of the Year (Equinox)" | 358133 | [358133-beat-saber-skrillex-first-of-the-year-equinox.json](./358133-beat-saber-skrillex-first-of-the-year-equinox.json) |
@@ -208,6 +231,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Stonebank - "Stronger (feat. Emel)" | 358157 | [358157-beat-saber-stonebank-stronger-feat-emel.json](./358157-beat-saber-stonebank-stronger-feat-emel.json) |
 | Beat Saber: The Pussycat Dolls - "Don't Cha" | 358146 | [358146-beat-saber-the-pussycat-dolls-dont-cha.json](./358146-beat-saber-the-pussycat-dolls-dont-cha.json) |
 | Beat Saber: The Rolling Stones Music Pack | 363201 | [363201-beat-saber-the-rolling-stones-music-pack.json](./363201-beat-saber-the-rolling-stones-music-pack.json) |
+| Beat Saber: The Weeknd - "How Do I Make You Love Me?" | 357617 | [357617-beat-saber-the-weeknd-how-do-i-make-you-love-me.json](./357617-beat-saber-the-weeknd-how-do-i-make-you-love-me.json) |
+| Beat Saber: The Weeknd - "I Feel It Coming (Feat. Daft Punk)" | 357619 | [357619-beat-saber-the-weeknd-i-feel-it-coming-feat-daft-punk.json](./357619-beat-saber-the-weeknd-i-feel-it-coming-feat-daft-punk.json) |
+| Beat Saber: The Weeknd - "Sacrifice" | 357621 | [357621-beat-saber-the-weeknd-sacrifice.json](./357621-beat-saber-the-weeknd-sacrifice.json) |
+| Beat Saber: The Weeknd - "Save Your Tears" | 357618 | [357618-beat-saber-the-weeknd-save-your-tears.json](./357618-beat-saber-the-weeknd-save-your-tears.json) |
+| Beat Saber: The Weeknd - "Starboy (feat. Daft Punk)" | 357620 | [357620-beat-saber-the-weeknd-starboy-feat-daft-punk.json](./357620-beat-saber-the-weeknd-starboy-feat-daft-punk.json) |
+| Beat Saber: The Weeknd - "Take My Breath" | 357615 | [357615-beat-saber-the-weeknd-take-my-breath.json](./357615-beat-saber-the-weeknd-take-my-breath.json) |
+| Beat Saber: The Weeknd - "The Hills" | 357622 | [357622-beat-saber-the-weeknd-the-hills.json](./357622-beat-saber-the-weeknd-the-hills.json) |
+| Beat Saber: The Weeknd, Kendrick Lamar - "Pray For Me" | 357616 | [357616-beat-saber-the-weeknd-kendrick-lamar-pray-for-me.json](./357616-beat-saber-the-weeknd-kendrick-lamar-pray-for-me.json) |
+| Beat Saber: The White Stripes - "Seven Nation Army" | 357629 | [357629-beat-saber-the-white-stripes-seven-nation-army.json](./357629-beat-saber-the-white-stripes-seven-nation-army.json) |
+| Beat Saber: Zedd - "Stay the Night (feat. Hayley Williams)" | 357641 | [357641-beat-saber-zedd-stay-the-night-feat-hayley-williams.json](./357641-beat-saber-zedd-stay-the-night-feat-hayley-williams.json) |
 | Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
@@ -217,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beé! Frenzy Sheep | 366079 | [366079-bee-frenzy-sheep.json](./366079-bee-frenzy-sheep.json) |
 | Beer Mania | 370497 | [370497-beer-mania.json](./370497-beer-mania.json) |
+| Beer Runner | 357647 | [357647-beer-runner.json](./357647-beer-runner.json) |
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
@@ -388,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunderworld | 370524 | [370524-blunderworld.json](./370524-blunderworld.json) |
 | Board Poker | 412858 | [412858-board-poker.json](./412858-board-poker.json) |
 | Bob the Brick Breaker | 378041 | [378041-bob-the-brick-breaker.json](./378041-bob-the-brick-breaker.json) |
+| Bob's Crystals | 357651 | [357651-bobs-crystals.json](./357651-bobs-crystals.json) |
 | Bobble and the Tri-Crystal | 386594 | [386594-bobble-and-the-tri-crystal.json](./386594-bobble-and-the-tri-crystal.json) |
 | Bocchle | 384960 | [384960-bocchle.json](./384960-bocchle.json) |
 | Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
