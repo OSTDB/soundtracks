@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | Lexomancer | 400135 | [400135-lexomancer.json](./400135-lexomancer.json) |
 | LGBT Flags Merge! | 249633 | [249633-lgbt-flags-merge.json](./249633-lgbt-flags-merge.json) |
+| Lia: Hacking Destiny | 349133 | [349133-lia-hacking-destiny.json](./349133-lia-hacking-destiny.json) |
 | Liar Luna | 364936 | [364936-liar-luna.json](./364936-liar-luna.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
 | Librarian Lust | 367255 | [367255-librarian-lust.json](./367255-librarian-lust.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liè Shān Hǎi Èr | 367215 | [367215-lie-shan-hai-er.json](./367215-lie-shan-hai-er.json) |
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
 | LiEat: The Lie-Eating Dragon & the Azure Dreameater | 81348 | [81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json](./81348-lieat-the-lie-eating-dragon-and-the-azure-dreameater.json) |
+| Liege of the Labyrinth | 349155 | [349155-liege-of-the-labyrinth.json](./349155-liege-of-the-labyrinth.json) |
 | Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Apocalypse | 359254 | [359254-lone-apocalypse.json](./359254-lone-apocalypse.json) |
 | Lone Bastion | 380856 | [380856-lone-bastion.json](./380856-lone-bastion.json) |
 | Lonely Hospital | 390972 | [390972-lonely-hospital.json](./390972-lonely-hospital.json) |
+| Long Knives | 349152 | [349152-long-knives.json](./349152-long-knives.json) |
 | Long Run 2 | 387246 | [387246-long-run-2.json](./387246-long-run-2.json) |
 | Lóng Yuè Jiǔtiān: Qíng Xì Jiānghú | 407981 | [407981-long-yue-jiutian-qing-xi-jianghu.json](./407981-long-yue-jiutian-qing-xi-jianghu.json) |
 | Longboard Skate Downhill Simulator | 401409 | [401409-longboard-skate-downhill-simulator.json](./401409-longboard-skate-downhill-simulator.json) |
