@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
+| The Adventures of Commander Shepard | 349690 | [349690-the-adventures-of-commander-shepard.json](./349690-the-adventures-of-commander-shepard.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
 | The Adventures of Fei Duanmu | 90464 | [90464-the-adventures-of-fei-duanmu.json](./90464-the-adventures-of-fei-duanmu.json) |
 | The Adventures of Hooman | 406579 | [406579-the-adventures-of-hooman.json](./406579-the-adventures-of-hooman.json) |
@@ -801,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Swap Tower | 373948 | [373948-triple-swap-tower.json](./373948-triple-swap-tower.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Triston | 407960 | [407960-triston.json](./407960-triston.json) |
+| Triumvirate | 349702 | [349702-triumvirate.json](./349702-triumvirate.json) |
 | Trivals | 399467 | [399467-trivals.json](./399467-trivals.json) |
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
