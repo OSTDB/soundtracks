@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
+| Saints of the Fallen Cross | 346430 | [346430-saints-of-the-fallen-cross.json](./346430-saints-of-the-fallen-cross.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | SakaTsuku DS: Touch and Direct | 406627 | [406627-sakatsuku-ds-touch-and-direct.json](./406627-sakatsuku-ds-touch-and-direct.json) |
 | SakaTsuku DS: World Challenge 2010 | 406630 | [406630-sakatsuku-ds-world-challenge-2010.json](./406630-sakatsuku-ds-world-challenge-2010.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sdorica | 96095 | [96095-sdorica.json](./96095-sdorica.json) |
 | Sea Adventure | 386571 | [386571-sea-adventure.json](./386571-sea-adventure.json) |
 | Sea Dogs | 2932 | [2932-sea-dogs.json](./2932-sea-dogs.json) |
+| Sea Drillers | 346432 | [346432-sea-drillers.json](./346432-sea-drillers.json) |
 | Sea of Thieves: Season 18 - Return to the Devil's Roar | 382621 | [382621-sea-of-thieves-season-18-return-to-the-devils-roar.json](./382621-sea-of-thieves-season-18-return-to-the-devils-roar.json) |
 | Sea Sweeper | 384403 | [384403-sea-sweeper.json](./384403-sea-sweeper.json) |
 | Seabound | 403496 | [403496-seabound.json](./403496-seabound.json) |
@@ -438,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrop | 398880 | [398880-snowdrop.json](./398880-snowdrop.json) |
 | Snowdrop | 398879 | [398879-snowdrop.json](./398879-snowdrop.json) |
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
+| Snowfall's Mystery | 346433 | [346433-snowfalls-mystery.json](./346433-snowfalls-mystery.json) |
 | Snug Finder: Deluxe Edition | 350851 | [350851-snug-finder-deluxe-edition.json](./350851-snug-finder-deluxe-edition.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
@@ -471,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solkatt_ | 357644 | [357644-solkatt.json](./357644-solkatt.json) |
 | Solomon's Keep: Dreadful Retro Edition | 377453 | [377453-solomons-keep-dreadful-retro-edition.json](./377453-solomons-keep-dreadful-retro-edition.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
+| Solstorm | 346416 | [346416-solstorm.json](./346416-solstorm.json) |
 | Soluna's Mood | 368299 | [368299-solunas-mood.json](./368299-solunas-mood.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
 | Some Assembly Required | 348610 | [348610-some-assembly-required.json](./348610-some-assembly-required.json) |
@@ -502,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Project Revenge | 361508 | [361508-sonic-project-revenge.json](./361508-sonic-project-revenge.json) |
 | Sonya: The Great Adventure | 30445 | [30445-sonya-the-great-adventure.json](./30445-sonya-the-great-adventure.json) |
 | Soothe | 402164 | [402164-soothe.json](./402164-soothe.json) |
+| Sophistry | 346452 | [346452-sophistry.json](./346452-sophistry.json) |
 | Sopwith | 406015 | [406015-sopwith.json](./406015-sopwith.json) |
 | Sorcery! Part 4 | 24206 | [24206-sorcery-part-4.json](./24206-sorcery-part-4.json) |
 | Sore | 407925 | [407925-sore.json](./407925-sore.json) |
@@ -649,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
 | Star Alliance | 126398 | [126398-star-alliance.json](./126398-star-alliance.json) |
+| Star Clicker Odyssey | 346438 | [346438-star-clicker-odyssey.json](./346438-star-clicker-odyssey.json) |
 | Star Command Galaxies | 34459 | [34459-star-command-galaxies.json](./34459-star-command-galaxies.json) |
 | Star Conflict | 3210 | [3210-star-conflict.json](./3210-star-conflict.json) |
 | Star Conflict: Amber. Weapon of victory | 372336 | [372336-star-conflict-amber-weapon-of-victory.json](./372336-star-conflict-amber-weapon-of-victory.json) |
