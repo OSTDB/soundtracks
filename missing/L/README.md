@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Lab Loonies | 405995 | [405995-lab-loonies.json](./405995-lab-loonies.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
+| Labyrinth of Shadows | 343625 | [343625-labyrinth-of-shadows.json](./343625-labyrinth-of-shadows.json) |
 | Labyrinth: The Computer Game | 7517 | [7517-labyrinth-the-computer-game.json](./7517-labyrinth-the-computer-game.json) |
 | Ladder Lad | 412153 | [412153-ladder-lad.json](./412153-ladder-lad.json) |
 | Lady Pearl | 412821 | [412821-lady-pearl.json](./412821-lady-pearl.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239309 | [239309-lemmings.json](./239309-lemmings.json) |
 | Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
+| LeMrosh in the Lazy Kingdom | 343635 | [343635-lemrosh-in-the-lazy-kingdom.json](./343635-lemrosh-in-the-lazy-kingdom.json) |
 | Léo e Maya | 356449 | [356449-leo-e-maya.json](./356449-leo-e-maya.json) |
 | Lesotho Rooftop Conversation | 381442 | [381442-lesotho-rooftop-conversation.json](./381442-lesotho-rooftop-conversation.json) |
 | Let's Golf 3D | 47667 | [47667-lets-golf-3d.json](./47667-lets-golf-3d.json) |
