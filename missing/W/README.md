@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmachine: Tactics | 16695 | [16695-warmachine-tactics.json](./16695-warmachine-tactics.json) |
 | Warn | 364896 | [364896-warn.json](./364896-warn.json) |
 | Warp Dash | 359250 | [359250-warp-dash.json](./359250-warp-dash.json) |
+| Warriors | 351465 | [351465-warriors.json](./351465-warriors.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
