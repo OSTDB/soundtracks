@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| Wanderstate | 354256 | [354256-wanderstate.json](./354256-wanderstate.json) |
 | Wàng Wénài Shēng Yì | 372321 | [372321-wang-wenai-sheng-yi.json](./372321-wang-wenai-sheng-yi.json) |
 | Wànjié Bù Miè | 407977 | [407977-wanjie-bu-mie.json](./407977-wanjie-bu-mie.json) |
 | Wantama Life | 409497 | [409497-wantama-life.json](./409497-wantama-life.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǒ de Rénshēng | 367217 | [367217-wo-de-rensheng.json](./367217-wo-de-rensheng.json) |
 | Woahblade | 414222 | [414222-woahblade.json](./414222-woahblade.json) |
 | Wolf Craft | 89299 | [89299-wolf-craft.json](./89299-wolf-craft.json) |
+| Wolf Girlfriend | 354259 | [354259-wolf-girlfriend.json](./354259-wolf-girlfriend.json) |
 | Wolfteam | 50793 | [50793-wolfteam.json](./50793-wolfteam.json) |
 | WonderBlocks | 101686 | [101686-wonderblocks.json](./101686-wonderblocks.json) |
 | Wonderful Richman | 368862 | [368862-wonderful-richman.json](./368862-wonderful-richman.json) |
