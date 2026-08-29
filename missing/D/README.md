@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Restrained Nature | 399511 | [399511-danganronpa-restrained-nature.json](./399511-danganronpa-restrained-nature.json) |
 | Danganronpa: Trigger Happy Havoc - Anniversary Edition | 152399 | [152399-danganronpa-trigger-happy-havoc-anniversary-edition.json](./152399-danganronpa-trigger-happy-havoc-anniversary-edition.json) |
 | Danger Gazers | 115972 | [115972-danger-gazers.json](./115972-danger-gazers.json) |
+| Danger in Pompeii | 346453 | [346453-danger-in-pompeii.json](./346453-danger-in-pompeii.json) |
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
 | Dangerous Mountain Together | 374479 | [374479-dangerous-mountain-together.json](./374479-dangerous-mountain-together.json) |
 | Dangidice | 396035 | [396035-dangidice.json](./396035-dangidice.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die By Die | 372853 | [372853-die-by-die.json](./372853-die-by-die.json) |
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Die drei ???: Geheimnis der Schattenhelden | 368846 | [368846-die-drei-geheimnis-der-schattenhelden.json](./368846-die-drei-geheimnis-der-schattenhelden.json) |
+| Die Fighter | 346404 | [346404-die-fighter.json](./346404-die-fighter.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
 | Diecast | 355401 | [355401-diecast.json](./355401-diecast.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
@@ -318,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Out | 375011 | [375011-dig-out.json](./375011-dig-out.json) |
 | Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
+| Digger: Galactic Treasures | 346448 | [346448-digger-galactic-treasures.json](./346448-digger-galactic-treasures.json) |
 | Digging Adventure Simulator 2025 | 356499 | [356499-digging-adventure-simulator-2025.json](./356499-digging-adventure-simulator-2025.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
@@ -587,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Forest | 358698 | [358698-dream-forest.json](./358698-dream-forest.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
+| Dream Night | 346434 | [346434-dream-night.json](./346434-dream-night.json) |
 | Dream Of | 357092 | [357092-dream-of.json](./357092-dream-of.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
