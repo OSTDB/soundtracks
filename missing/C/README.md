@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cafe 0: The Sleeping Beast | 33015 | [33015-cafe-0-the-sleeping-beast.json](./33015-cafe-0-the-sleeping-beast.json) |
+| Cageling | 357650 | [357650-cageling.json](./357650-cageling.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Cake Mania: Main Street | 14996 | [14996-cake-mania-main-street.json](./14996-cake-mania-main-street.json) |
 | Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | Cartoon Cagematch | 384378 | [384378-cartoon-cagematch.json](./384378-cartoon-cagematch.json) |
+| Cartoon Survivor | 357659 | [357659-cartoon-survivor.json](./357659-cartoon-survivor.json) |
 | CarveOut 2160 | 411475 | [411475-carveout-2160.json](./411475-carveout-2160.json) |
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Cascader | 407232 | [407232-cascader.json](./407232-cascader.json) |
