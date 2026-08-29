@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramune Forest | 391472 | [391472-ramune-forest.json](./391472-ramune-forest.json) |
 | Ranchbound | 386596 | [386596-ranchbound.json](./386596-ranchbound.json) |
 | Raptor Valley | 31412 | [31412-raptor-valley.json](./31412-raptor-valley.json) |
+| Raspberry Flavoured | 353668 | [353668-raspberry-flavoured.json](./353668-raspberry-flavoured.json) |
 | Rat God | 381429 | [381429-rat-god.json](./381429-rat-god.json) |
 | Rat Trap | 407244 | [407244-rat-trap.json](./407244-rat-trap.json) |
 | Ratalorica | 403474 | [403474-ratalorica.json](./403474-ratalorica.json) |
