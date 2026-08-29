@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
+| % | 356494 | [356494-.json](./356494-.json) |
 | 0.5% | 407940 | [407940-0-5.json](./407940-0-5.json) |
 | 007 Racing | 1642 | [1642-007-racing.json](./1642-007-racing.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101 Cats in Beijing | 376897 | [376897-101-cats-in-beijing.json](./376897-101-cats-in-beijing.json) |
 | 101 Cats in Vietnam | 372338 | [372338-101-cats-in-vietnam.json](./372338-101-cats-in-vietnam.json) |
+| 101 Dogs Hidden in Dubai | 356471 | [356471-101-dogs-hidden-in-dubai.json](./356471-101-dogs-hidden-in-dubai.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 11th Hour Hero | 376912 | [376912-11th-hour-hero.json](./376912-11th-hour-hero.json) |
 | 12 Floors to Burnout | 376913 | [376913-12-floors-to-burnout.json](./376913-12-floors-to-burnout.json) |
