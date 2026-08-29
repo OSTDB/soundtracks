@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Radiant Sword | 383228 | [383228-radiant-sword.json](./383228-radiant-sword.json) |
 | Radica Bass Fishin' | 375621 | [375621-radica-bass-fishin.json](./375621-radica-bass-fishin.json) |
+| Radioactive | 346966 | [346966-radioactive.json](./346966-radioactive.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | RadioWave: Black Signal | 371719 | [371719-radiowave-black-signal.json](./371719-radiowave-black-signal.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RK Override | 388615 | [388615-rk-override.json](./388615-rk-override.json) |
 | Rleotha: Trial of Gods | 378630 | [378630-rleotha-trial-of-gods.json](./378630-rleotha-trial-of-gods.json) |
 | RMN Soup | 407915 | [407915-rmn-soup.json](./407915-rmn-soup.json) |
+| Road Food Simulator | 346962 | [346962-road-food-simulator.json](./346962-road-food-simulator.json) |
 | Road of Fury 2: Nuclear Blizzard | 383252 | [383252-road-of-fury-2-nuclear-blizzard.json](./383252-road-of-fury-2-nuclear-blizzard.json) |
 | Road Rash | 3249 | [3249-road-rash.json](./3249-road-rash.json) |
 | Road Rash 3 | 45592 | [45592-road-rash-3.json](./45592-road-rash-3.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
+| Roadside Research | 346940 | [346940-roadside-research.json](./346940-roadside-research.json) |
 | Roam0120 | 348085 | [348085-roam0120.json](./348085-roam0120.json) |
 | Rob Your Friends or Die | 349129 | [349129-rob-your-friends-or-die.json](./349129-rob-your-friends-or-die.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
@@ -365,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Jump | 86644 | [86644-run-and-jump.json](./86644-run-and-jump.json) |
 | Run Chicken Run | 349148 | [349148-run-chicken-run.json](./349148-run-chicken-run.json) |
 | Run Eternal Depths | 370529 | [370529-run-eternal-depths.json](./370529-run-eternal-depths.json) |
+| Run Quad Run | 346993 | [346993-run-quad-run.json](./346993-run-quad-run.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
 | Runeblight | 358687 | [358687-runeblight.json](./358687-runeblight.json) |
