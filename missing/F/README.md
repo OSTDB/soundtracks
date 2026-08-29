@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall | 386584 | [386584-fall.json](./386584-fall.json) |
 | Fall Again | 399497 | [399497-fall-again.json](./399497-fall-again.json) |
 | Fall of the Void | 414997 | [414997-fall-of-the-void.json](./414997-fall-of-the-void.json) |
+| Fallen / Brand New World | 351430 | [351430-fallen-brand-new-world.json](./351430-fallen-brand-new-world.json) |
 | Fallen Enchantress: Legendary Heroes | 10298 | [10298-fallen-enchantress-legendary-heroes.json](./10298-fallen-enchantress-legendary-heroes.json) |
 | Fallout 3: Broken Steel | 10299 | [10299-fallout-3-broken-steel.json](./10299-fallout-3-broken-steel.json) |
 | Fallout 3: The Pitt | 10303 | [10303-fallout-3-the-pitt.json](./10303-fallout-3-the-pitt.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Record Keeper | 26981 | [26981-final-fantasy-record-keeper.json](./26981-final-fantasy-record-keeper.json) |
 | Final Fight | 203293 | [203293-final-fight.json](./203293-final-fight.json) |
 | Final Formation | 368837 | [368837-final-formation.json](./368837-final-formation.json) |
+| Final Stand | 351451 | [351451-final-stand.json](./351451-final-stand.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
 | Find All: Christmas 2025 | 382656 | [382656-find-all-christmas-2025.json](./382656-find-all-christmas-2025.json) |
 | Find Kittens 5: Magic Tree | 366084 | [366084-find-kittens-5-magic-tree.json](./366084-find-kittens-5-magic-tree.json) |
@@ -219,6 +221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix & Flip Dream House | 396104 | [396104-fix-and-flip-dream-house.json](./396104-fix-and-flip-dream-house.json) |
 | FixFox | 190980 | [190980-fixfox.json](./190980-fixfox.json) |
 | Flame & Forge | 389903 | [389903-flame-and-forge.json](./389903-flame-and-forge.json) |
+| Flame Dragon 2: Legend of Golden Castle | 351440 | [351440-flame-dragon-2-legend-of-golden-castle.json](./351440-flame-dragon-2-legend-of-golden-castle.json) |
+| Flame Dragon Plus: Marks of Wind | 351442 | [351442-flame-dragon-plus-marks-of-wind.json](./351442-flame-dragon-plus-marks-of-wind.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
 | Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
 | Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
@@ -364,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency | 9111 | [9111-frequency.json](./9111-frequency.json) |
 | FreshWomen | 215301 | [215301-freshwomen.json](./215301-freshwomen.json) |
 | Fri: The Unforgettable City | 379217 | [379217-fri-the-unforgettable-city.json](./379217-fri-the-unforgettable-city.json) |
+| Frick It | 351462 | [351462-frick-it.json](./351462-frick-it.json) |
 | Friday Night Funkin': ERB Steve Jobs Vs. Bill Gates - Blammed | 366673 | [366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json](./366673-friday-night-funkin-erb-steve-jobs-vs-bill-gates-blammed.json) |
 | Frio: Lost In Old Town | 86543 | [86543-frio-lost-in-old-town.json](./86543-frio-lost-in-old-town.json) |
 | Fritz Chess 20 Steam Edition | 392656 | [392656-fritz-chess-20-steam-edition.json](./392656-fritz-chess-20-steam-edition.json) |
