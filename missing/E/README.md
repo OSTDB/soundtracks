@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encore Casino Games Collection | 367788 | [367788-encore-casino-games-collection.json](./367788-encore-casino-games-collection.json) |
 | Encryptid | 382632 | [382632-encryptid.json](./382632-encryptid.json) |
 | Endacopia | 225604 | [225604-endacopia.json](./225604-endacopia.json) |
+| Endless Arena | 349659 | [349659-endless-arena.json](./349659-endless-arena.json) |
 | Endless ATC | 44194 | [44194-endless-atc.json](./44194-endless-atc.json) |
 | Endless Ocean | 4832 | [4832-endless-ocean.json](./4832-endless-ocean.json) |
 | Endless Summer Syndrome | 409434 | [409434-endless-summer-syndrome.json](./409434-endless-summer-syndrome.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | ESG Football | 357097 | [357097-esg-football.json](./357097-esg-football.json) |
+| Espirito Delusion | 349692 | [349692-espirito-delusion.json](./349692-espirito-delusion.json) |
 | eSports Life | 63733 | [63733-esports-life.json](./63733-esports-life.json) |
 | Estland Campaign | 365496 | [365496-estland-campaign.json](./365496-estland-campaign.json) |
 | Eternal Darkness: Sanity's Requiem | 3907 | [3907-eternal-darkness-sanitys-requiem.json](./3907-eternal-darkness-sanitys-requiem.json) |
