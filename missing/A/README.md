@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pig Quest | 404764 | [404764-a-pig-quest.json](./404764-a-pig-quest.json) |
 | A Princess' Tale | 33041 | [33041-a-princess-tale.json](./33041-a-princess-tale.json) |
 | A Quiver of Crows | 35802 | [35802-a-quiver-of-crows.json](./35802-a-quiver-of-crows.json) |
+| A Second Chance | 344754 | [344754-a-second-chance.json](./344754-a-second-chance.json) |
 | A Sexy Tour With: Carmen | 382053 | [382053-a-sexy-tour-with-carmen.json](./382053-a-sexy-tour-with-carmen.json) |
 | A Sexy Tour With: Elsie | 382049 | [382049-a-sexy-tour-with-elsie.json](./382049-a-sexy-tour-with-elsie.json) |
 | A Sexy Tour With: Juana | 382021 | [382021-a-sexy-tour-with-juana.json](./382021-a-sexy-tour-with-juana.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thousand Bees | 389891 | [389891-a-thousand-bees.json](./389891-a-thousand-bees.json) |
 | A Timely Intervention | 33037 | [33037-a-timely-intervention.json](./33037-a-timely-intervention.json) |
 | A Tragedy in Elvish | 354247 | [354247-a-tragedy-in-elvish.json](./354247-a-tragedy-in-elvish.json) |
+| A Walk in the Woods | 344760 | [344760-a-walk-in-the-woods.json](./344760-a-walk-in-the-woods.json) |
 | A Witch's Tale | 24264 | [24264-a-witchs-tale.json](./24264-a-witchs-tale.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
 | A World To Come | 413563 | [413563-a-world-to-come.json](./413563-a-world-to-come.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
+| Angry Neighbors: Petty Revenge | 344742 | [344742-angry-neighbors-petty-revenge.json](./344742-angry-neighbors-petty-revenge.json) |
 | Angry Pirate | 358709 | [358709-angry-pirate.json](./358709-angry-pirate.json) |
 | Angry Raccoon | 412118 | [412118-angry-raccoon.json](./412118-angry-raccoon.json) |
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
@@ -381,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape-tite | 400145 | [400145-ape-tite.json](./400145-ape-tite.json) |
 | Apes vs Helium | 234128 | [234128-apes-vs-helium.json](./234128-apes-vs-helium.json) |
 | Aphasie | 366050 | [366050-aphasie.json](./366050-aphasie.json) |
+| Apollo 11 VR | 344757 | [344757-apollo-11-vr.json](./344757-apollo-11-vr.json) |
 | Aporia Aegis Antechamber | 402771 | [402771-aporia-aegis-antechamber.json](./402771-aporia-aegis-antechamber.json) |
 | Apothecary of City X | 347537 | [347537-apothecary-of-city-x.json](./347537-apothecary-of-city-x.json) |
 | App Developer Tycoon | 410139 | [410139-app-developer-tycoon.json](./410139-app-developer-tycoon.json) |
@@ -395,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Hero Edition | 358674 | [358674-aquapark-io-hero-edition.json](./358674-aquapark-io-hero-edition.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
+| AR Shot | 344782 | [344782-ar-shot.json](./344782-ar-shot.json) |
 | Arabian Gulf | 346439 | [346439-arabian-gulf.json](./346439-arabian-gulf.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
 | Arc Hound | 355902 | [355902-arc-hound.json](./355902-arc-hound.json) |
@@ -431,6 +436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Rivals | 372330 | [372330-arcane-rivals.json](./372330-arcane-rivals.json) |
 | Arcfall | 372843 | [372843-arcfall.json](./372843-arcfall.json) |
 | Arch Rivals GG2SMS | 369437 | [369437-arch-rivals-gg2sms.json](./369437-arch-rivals-gg2sms.json) |
+| Archery | 344780 | [344780-archery.json](./344780-archery.json) |
+| Archimedes: Eureka! | 344753 | [344753-archimedes-eureka.json](./344753-archimedes-eureka.json) |
 | Archimedes: Eureka! - Collector's Edition | 363215 | [363215-archimedes-eureka-collectors-edition.json](./363215-archimedes-eureka-collectors-edition.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
