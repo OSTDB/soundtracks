@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
 | Udon! Road to Mastery | 373395 | [373395-udon-road-to-mastery.json](./373395-udon-road-to-mastery.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
+| UFO Shooting | 358705 | [358705-ufo-shooting.json](./358705-ufo-shooting.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Uki Uki Tsuri Tengoku: Ningyo Densetsu no Nazo | 384942 | [384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json](./384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
@@ -29,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Underworld: The Stygian Abyss | 12908 | [12908-ultima-underworld-the-stygian-abyss.json](./12908-ultima-underworld-the-stygian-abyss.json) |
 | Ultimate Dream | 389873 | [389873-ultimate-dream.json](./389873-ultimate-dream.json) |
 | Ultimate Epic Battle Simulator | 28171 | [28171-ultimate-epic-battle-simulator.json](./28171-ultimate-epic-battle-simulator.json) |
+| Ultimate Frisbee | 358704 | [358704-ultimate-frisbee.json](./358704-ultimate-frisbee.json) |
 | Ultimate Mortal Kombat | 21526 | [21526-ultimate-mortal-kombat.json](./21526-ultimate-mortal-kombat.json) |
 | Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
 | Ultimate Rock Crawler | 34488 | [34488-ultimate-rock-crawler.json](./34488-ultimate-rock-crawler.json) |
