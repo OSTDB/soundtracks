@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Showdown | 391521 | [391521-nightclub-showdown.json](./391521-nightclub-showdown.json) |
 | Nightfall | 383826 | [383826-nightfall.json](./383826-nightfall.json) |
 | Nightfall Berlin | 386572 | [386572-nightfall-berlin.json](./386572-nightfall-berlin.json) |
+| Nightfall Secrets | 350273 | [350273-nightfall-secrets.json](./350273-nightfall-secrets.json) |
 | Nightholme | 375049 | [375049-nightholme.json](./375049-nightholme.json) |
 | Nightingale | 185249 | [185249-nightingale.json](./185249-nightingale.json) |
 | Nightlight | 383808 | [383808-nightlight.json](./383808-nightlight.json) |
