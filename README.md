@@ -14,8 +14,6 @@ This list is auto-generated from the [OSTDB](https://ostdb.net) database, one co
 
 You can also submit or correct a soundtrack by opening a pull request — no need to use the website. See **[SUBMITTING.md](SUBMITTING.md)** for instructions.
 
-Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 10049 known games without a soundtrack entry, bucketed by letter just like below. Pick one and open a pull request.
-
 ## Browse by letter
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z) · [0-9](#0-9)
@@ -73,6 +71,7 @@ Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 100
 | <img src="https://i.scdn.co/image/ab67616d0000b2734aa84b613963d8ad62d245d5" width="60" /> | [Assassin's Creed Odyssey](https://ostdb.net/games/assassins-creed-odyssey) | **Assassin's Creed Odyssey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/19WTqbdqDMWMthZfkmxSbx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc47bb4ce1690aa0915c097f" width="60" /> | [Assassin's Creed Origins](https://ostdb.net/games/assassins-creed-origins) | **Assassin's Creed Origins (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1tGG9ggFTIX8LZt8lH9hqF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273af90297c92789c595aeb64db" width="60" /> | [Assassin's Creed Revelations](https://ostdb.net/games/assassins-creed-revelations) | **Assassin's Creed Revelations (The Complete Recordings) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/4YQsbhCYkpmueqKC4aEn7f) |
+| <img src="https://i.scdn.co/image/ab67616d0000aa54af90297c92789c595aeb64db" width="60" /> | [Assassin's Creed Revelations](https://ostdb.net/games/assassins-creed-revelations) | **Assassin's Creed Revelations (The Complete Recordings) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/4YQsbhCYkpmueqKC4aEn7f) · [Apple Music](https://music.apple.com/us/album/assassins-creed-revelations-the-complete-recordings/1640101475?l=cs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273561d3e583a11123ef101227b" width="60" /> | [Assassin's Creed Rogue](https://ostdb.net/games/assassins-creed-rogue) | **Assassin's Creed Rogue (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/576UCWC3doVjUcEZFuWMOS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273215cd91782c7680d96733e67" width="60" /> | [Assassin's Creed Shadows](https://ostdb.net/games/assassins-creed-shadows) | **Assassin's Creed Shadows (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/37GwxDlEShsv6NFe0Re264) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4d41f3423642520a37f9e19" width="60" /> | [Assassin's Creed Syndicate](https://ostdb.net/games/assassins-creed-syndicate) | **Assassin's Creed Syndicate (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf) |
@@ -1107,4 +1106,4 @@ Looking for a game that isn't listed yet? Check **[missing/](missing/)** — 100
 
 ---
 
-_1431 soundtracks · last updated 2026-08-29T07:32:19.956Z_
+_1432 soundtracks · last updated 2026-08-29T07:40:48.217Z_
