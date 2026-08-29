@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Research | 408647 | [408647-backrooms-research.json](./408647-backrooms-research.json) |
 | Backrooms: Rogue 0 | 379749 | [379749-backrooms-rogue-0.json](./379749-backrooms-rogue-0.json) |
 | Backyard Football 1999 | 50298 | [50298-backyard-football-1999.json](./50298-backyard-football-1999.json) |
+| Bad Cat | 349677 | [349677-bad-cat.json](./349677-bad-cat.json) |
 | Bad Day on the Midway | 22627 | [22627-bad-day-on-the-midway.json](./22627-bad-day-on-the-midway.json) |
 | Bad Girls: Naughty Hands | 398193 | [398193-bad-girls-naughty-hands.json](./398193-bad-girls-naughty-hands.json) |
 | Bad Girls: Tempting Night | 394716 | [394716-bad-girls-tempting-night.json](./394716-bad-girls-tempting-night.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
 | Brainrot Royale | 351476 | [351476-brainrot-royale.json](./351476-brainrot-royale.json) |
+| Brainrot: Fighting | 349674 | [349674-brainrot-fighting.json](./349674-brainrot-fighting.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Bramblefort | 360962 | [360962-bramblefort.json](./360962-bramblefort.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
