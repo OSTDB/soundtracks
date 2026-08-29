@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean::Ephemera | 387853 | [387853-ocean-ephemera.json](./387853-ocean-ephemera.json) |
 | Ocean's Delight | 348601 | [348601-oceans-delight.json](./348601-oceans-delight.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
+| OctoKid | 344184 | [344184-octokid.json](./344184-octokid.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
 | Octopticom | 110147 | [110147-octopticom.json](./110147-octopticom.json) |
 | Odd Realm | 113138 | [113138-odd-realm.json](./113138-odd-realm.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olija | 120550 | [120550-olija.json](./120550-olija.json) |
 | Oliver | 359265 | [359265-oliver.json](./359265-oliver.json) |
 | Om Nom: Run 2 - Gold Edition | 402179 | [402179-om-nom-run-2-gold-edition.json](./402179-om-nom-run-2-gold-edition.json) |
+| Omanah | 344229 | [344229-omanah.json](./344229-omanah.json) |
 | Omea | 405994 | [405994-omea.json](./405994-omea.json) |
 | Omega Boost | 24009 | [24009-omega-boost.json](./24009-omega-boost.json) |
 | Omega Point | 366062 | [366062-omega-point.json](./366062-omega-point.json) |
