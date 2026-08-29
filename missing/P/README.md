@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
+| Parallel | 350242 | [350242-parallel.json](./350242-parallel.json) |
 | Parallel Convergence | 353677 | [353677-parallel-convergence.json](./353677-parallel-convergence.json) |
 | Paranoia! | 375670 | [375670-paranoia.json](./375670-paranoia.json) |
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pǐnuòcáo de Fùsū | 379763 | [379763-pinuocao-de-fusu.json](./379763-pinuocao-de-fusu.json) |
 | Pionero Capital | 365498 | [365498-pionero-capital.json](./365498-pionero-capital.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
+| Pipeworks Puzzle | 350288 | [350288-pipeworks-puzzle.json](./350288-pipeworks-puzzle.json) |
 | Pippin Please | 398245 | [398245-pippin-please.json](./398245-pippin-please.json) |
 | Pirate Havoc | 401423 | [401423-pirate-havoc.json](./401423-pirate-havoc.json) |
 | Pirates of the Caribbean: At World's End | 5100 | [5100-pirates-of-the-caribbean-at-worlds-end.json](./5100-pirates-of-the-caribbean-at-worlds-end.json) |
@@ -463,11 +465,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
 | Pro Basketball Manager 2016 | 35797 | [35797-pro-basketball-manager-2016.json](./35797-pro-basketball-manager-2016.json) |
+| Pro Blackjack | 350283 | [350283-pro-blackjack.json](./350283-pro-blackjack.json) |
 | Pro Craps | 354842 | [354842-pro-craps.json](./354842-pro-craps.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
 | Pro Race Driver | 2483 | [2483-pro-race-driver.json](./2483-pro-race-driver.json) |
+| Pro Roulette | 350285 | [350285-pro-roulette.json](./350285-pro-roulette.json) |
 | Pro Soccer Club wo Tsukurou! Online | 406624 | [406624-pro-soccer-club-wo-tsukurou-online.json](./406624-pro-soccer-club-wo-tsukurou-online.json) |
 | Pro Soccer Club wo Tsukurou! Online 2 | 406625 | [406625-pro-soccer-club-wo-tsukurou-online-2.json](./406625-pro-soccer-club-wo-tsukurou-online-2.json) |
 | Probably Stolen | 412177 | [412177-probably-stolen.json](./412177-probably-stolen.json) |
@@ -538,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Hunt 2.0 | 367796 | [367796-prop-hunt-2-0.json](./367796-prop-hunt-2-0.json) |
 | Propwiz | 369982 | [369982-propwiz.json](./369982-propwiz.json) |
 | Prosperity | 102286 | [102286-prosperity.json](./102286-prosperity.json) |
+| Protect the Hangar: From Zombies | 350260 | [350260-protect-the-hangar-from-zombies.json](./350260-protect-the-hangar-from-zombies.json) |
 | Protect Your Humans | 410149 | [410149-protect-your-humans.json](./410149-protect-your-humans.json) |
 | Proto Anima | 382646 | [382646-proto-anima.json](./382646-proto-anima.json) |
 | Protocol: Umbra | 375016 | [375016-protocol-umbra.json](./375016-protocol-umbra.json) |
