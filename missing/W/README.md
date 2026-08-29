@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War | 383254 | [383254-war.json](./383254-war.json) |
 | War Beans | 372847 | [372847-war-beans.json](./372847-war-beans.json) |
 | War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
+| War of the Worlds: New York | 346431 | [346431-war-of-the-worlds-new-york.json](./346431-war-of-the-worlds-new-york.json) |
 | War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War Robots: Frontiers | 226343 | [226343-war-robots-frontiers.json](./226343-war-robots-frontiers.json) |
 | Warcraft II: Remastered | 322109 | [322109-warcraft-ii-remastered.json](./322109-warcraft-ii-remastered.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
 | Wavekin | 360958 | [360958-wavekin.json](./360958-wavekin.json) |
 | Waves of the Atlantide | 115709 | [115709-waves-of-the-atlantide.json](./115709-waves-of-the-atlantide.json) |
+| Way of the Dragons | 346440 | [346440-way-of-the-dragons.json](./346440-way-of-the-dragons.json) |
 | Way of the Hunter: Bear Archery Pack | 376285 | [376285-way-of-the-hunter-bear-archery-pack.json](./376285-way-of-the-hunter-bear-archery-pack.json) |
 | Way of the Hunter: Christensen Arms Pack | 376287 | [376287-way-of-the-hunter-christensen-arms-pack.json](./376287-way-of-the-hunter-christensen-arms-pack.json) |
 | Way of the Hunter: Hunter's Advantage Pack | 376286 | [376286-way-of-the-hunter-hunters-advantage-pack.json](./376286-way-of-the-hunter-hunters-advantage-pack.json) |
