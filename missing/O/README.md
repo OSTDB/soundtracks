@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
 | Open Training | 358702 | [358702-open-training.json](./358702-open-training.json) |
+| OpenJK | 357052 | [357052-openjk.json](./357052-openjk.json) |
 | OpenPete | 413542 | [413542-openpete.json](./413542-openpete.json) |
 | OpenQuacks | 398229 | [398229-openquacks.json](./398229-openquacks.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
@@ -128,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otdelenie 38 | 367238 | [367238-otdelenie-38.json](./367238-otdelenie-38.json) |
 | Othello | 3660 | [3660-othello.json](./3660-othello.json) |
 | Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
+| Otherside: Untamed Words | 357063 | [357063-otherside-untamed-words.json](./357063-otherside-untamed-words.json) |
 | Otpisani: Nightingale | 400808 | [400808-otpisani-nightingale.json](./400808-otpisani-nightingale.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our Brief Eternity | 390400 | [390400-our-brief-eternity.json](./390400-our-brief-eternity.json) |
@@ -143,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcast | 827 | [827-outcast.json](./827-outcast.json) |
 | Outlanders: Complete Edition | 373405 | [373405-outlanders-complete-edition.json](./373405-outlanders-complete-edition.json) |
 | Outlanders: DLC Pack | 373406 | [373406-outlanders-dlc-pack.json](./373406-outlanders-dlc-pack.json) |
+| Outlive 25 | 357069 | [357069-outlive-25.json](./357069-outlive-25.json) |
 | OutRun | 2051 | [2051-outrun.json](./2051-outrun.json) |
 | Outward: Definitive Edition | 201935 | [201935-outward-definitive-edition.json](./201935-outward-definitive-edition.json) |
 | Over the Alps | 125509 | [125509-over-the-alps.json](./125509-over-the-alps.json) |
