@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Power | 358701 | [358701-net-power.json](./358701-net-power.json) |
 | Netbreak | 371723 | [371723-netbreak.json](./371723-netbreak.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
+| Netherwake | 349703 | [349703-netherwake.json](./349703-netherwake.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
 | NeverAwake | 192774 | [192774-neverawake.json](./192774-neverawake.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novella Divina | 391511 | [391511-novella-divina.json](./391511-novella-divina.json) |
 | Nowhere Prophet | 51736 | [51736-nowhere-prophet.json](./51736-nowhere-prophet.json) |
 | Nubs' Adventure | 34495 | [34495-nubs-adventure.json](./34495-nubs-adventure.json) |
+| Nuclear Crawler | 349707 | [349707-nuclear-crawler.json](./349707-nuclear-crawler.json) |
 | Nukitashi 2 Append | 368855 | [368855-nukitashi-2-append.json](./368855-nukitashi-2-append.json) |
 | Nuktedan: The Forgotten Emotions | 406592 | [406592-nuktedan-the-forgotten-emotions.json](./406592-nuktedan-the-forgotten-emotions.json) |
 | Null Anchor | 394033 | [394033-null-anchor.json](./394033-null-anchor.json) |
