@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight | 414199 | [414199-food-fight.json](./414199-food-fight.json) |
 | Food Hell | 365526 | [365526-food-hell.json](./365526-food-hell.json) |
 | Food Truck Kingdom | 373380 | [373380-food-truck-kingdom.json](./373380-food-truck-kingdom.json) |
+| Foodomina | 343099 | [343099-foodomina.json](./343099-foodomina.json) |
 | Fool's Court | 395393 | [395393-fools-court.json](./395393-fools-court.json) |
 | Fool's Cup | 374464 | [374464-fools-cup.json](./374464-fools-cup.json) |
 | Football AFK | 390387 | [390387-football-afk.json](./390387-football-afk.json) |
