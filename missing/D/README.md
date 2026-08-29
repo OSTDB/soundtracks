@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Dive | 380249 | [380249-deep-dive.json](./380249-deep-dive.json) |
 | Deep Fog Signals | 375622 | [375622-deep-fog-signals.json](./375622-deep-fog-signals.json) |
+| Deep Hell | 350271 | [350271-deep-hell.json](./350271-deep-hell.json) |
 | Deep in the Dread | 377441 | [377441-deep-in-the-dread.json](./377441-deep-in-the-dread.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Rock Galactic: Survivor - After Hours Pack | 368351 | [368351-deep-rock-galactic-survivor-after-hours-pack.json](./368351-deep-rock-galactic-survivor-after-hours-pack.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: King of Swing | 1098 | [1098-dk-king-of-swing.json](./1098-dk-king-of-swing.json) |
 | DKO: Divine Knockout | 204408 | [204408-dko-divine-knockout.json](./204408-dko-divine-knockout.json) |
 | DMT | 109811 | [109811-dmt.json](./109811-dmt.json) |
+| Do Not Disturb | 350241 | [350241-do-not-disturb.json](./350241-do-not-disturb.json) |
 | Do Not Fall | 380277 | [380277-do-not-fall.json](./380277-do-not-fall.json) |
 | Do Something | 380283 | [380283-do-something.json](./380283-do-something.json) |
 | Do You Really Know About Soccer? | 407263 | [407263-do-you-really-know-about-soccer.json](./407263-do-you-really-know-about-soccer.json) |
@@ -416,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domine o território | 359843 | [359843-domine-o-territorio.json](./359843-domine-o-territorio.json) |
 | Domino Earning World | 321265 | [321265-domino-earning-world.json](./321265-domino-earning-world.json) |
 | Don Bradman Cricket 17 | 26748 | [26748-don-bradman-cricket-17.json](./26748-don-bradman-cricket-17.json) |
+| Don't Breathe In! | 350274 | [350274-dont-breathe-in.json](./350274-dont-breathe-in.json) |
 | Don't Crack! | 390418 | [390418-dont-crack.json](./390418-dont-crack.json) |
 | Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Crash | 380276 | [380276-dont-crash.json](./380276-dont-crash.json) |
