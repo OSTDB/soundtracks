@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Exodus: Journey to the Promised Land | 370495 | [370495-exodus-journey-to-the-promised-land.json](./370495-exodus-journey-to-the-promised-land.json) |
 | Exodus: Journey to the Promised Land | 370494 | [370494-exodus-journey-to-the-promised-land.json](./370494-exodus-journey-to-the-promised-land.json) |
+| Exofactory | 354243 | [354243-exofactory.json](./354243-exofactory.json) |
 | Exorush | 384399 | [384399-exorush.json](./384399-exorush.json) |
 | Expeditions: A MudRunner Game | 262534 | [262534-expeditions-a-mudrunner-game.json](./262534-expeditions-a-mudrunner-game.json) |
 | Exterminauts | 414975 | [414975-exterminauts.json](./414975-exterminauts.json) |
