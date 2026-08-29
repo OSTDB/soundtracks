@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memody: Sindrel Song | 126599 | [126599-memody-sindrel-song.json](./126599-memody-sindrel-song.json) |
 | Memology: Absurd Racing | 378022 | [378022-memology-absurd-racing.json](./378022-memology-absurd-racing.json) |
 | Memology: Italian Meme War | 378026 | [378026-memology-italian-meme-war.json](./378026-memology-italian-meme-war.json) |
+| Memories of Fireflies | 344761 | [344761-memories-of-fireflies.json](./344761-memories-of-fireflies.json) |
 | Memories Off 2nd: Yuki Hotaru | 396775 | [396775-memories-off-2nd-yuki-hotaru.json](./396775-memories-off-2nd-yuki-hotaru.json) |
 | Memory Holder: The Numbers | 359791 | [359791-memory-holder-the-numbers.json](./359791-memory-holder-the-numbers.json) |
 | Men Against Lizards | 367803 | [367803-men-against-lizards.json](./367803-men-against-lizards.json) |
@@ -542,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
 | Mommy’s Slipper | 350245 | [350245-mommy-s-slipper.json](./350245-mommy-s-slipper.json) |
 | Momo Crash | 349156 | [349156-momo-crash.json](./349156-momo-crash.json) |
+| Momo's Revitalization Project! | 344774 | [344774-momos-revitalization-project.json](./344774-momos-revitalization-project.json) |
 | Momoka (wo) Wasshoi | 367224 | [367224-momoka-wo-wasshoi.json](./367224-momoka-wo-wasshoi.json) |
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
 | Monarch | 353672 | [353672-monarch.json](./353672-monarch.json) |
