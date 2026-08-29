@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
 | Game of Fate 3 | 382645 | [382645-game-of-fate-3.json](./382645-game-of-fate-3.json) |
 | Game of Fitna Vol. 1 | 348100 | [348100-game-of-fitna-vol-1.json](./348100-game-of-fitna-vol-1.json) |
+| Game of Grass | 346408 | [346408-game-of-grass.json](./346408-game-of-grass.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Agenda | 20976 | [20976-global-agenda.json](./20976-global-agenda.json) |
 | Gloom Punks | 369932 | [369932-gloom-punks.json](./369932-gloom-punks.json) |
 | Gloria Union: Twin Fates in Blue Ocean FHD Edition | 410804 | [410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json](./410804-gloria-union-twin-fates-in-blue-ocean-fhd-edition.json) |
+| Glow Cubes | 346425 | [346425-glow-cubes.json](./346425-glow-cubes.json) |
 | Glowbot Tower Defense | 406007 | [406007-glowbot-tower-defense.json](./406007-glowbot-tower-defense.json) |
 | Glowcoma: Chapter 1 | 126738 | [126738-glowcoma-chapter-1.json](./126738-glowcoma-chapter-1.json) |
 | Gnome Expedition | 385458 | [385458-gnome-expedition.json](./385458-gnome-expedition.json) |
