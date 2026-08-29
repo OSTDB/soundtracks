@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsage | 363244 | [363244-kingsage.json](./363244-kingsage.json) |
 | Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
 | Kingsley's Adventure | 8308 | [8308-kingsleys-adventure.json](./8308-kingsleys-adventure.json) |
+| Kingsrules Chxess | 346946 | [346946-kingsrules-chxess.json](./346946-kingsrules-chxess.json) |
 | Kioskeria: Summer Breeze | 410751 | [410751-kioskeria-summer-breeze.json](./410751-kioskeria-summer-breeze.json) |
 | Kirby's Dream Land 2 | 3718 | [3718-kirbys-dream-land-2.json](./3718-kirbys-dream-land-2.json) |
 | Kirby's Pinball Land | 3715 | [3715-kirbys-pinball-land.json](./3715-kirbys-pinball-land.json) |
