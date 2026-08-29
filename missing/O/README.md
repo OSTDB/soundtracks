@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O.R.B.: Off-World Resource Base | 23834 | [23834-o-r-b-off-world-resource-base.json](./23834-o-r-b-off-world-resource-base.json) |
+| Obakeyashiki | 351474 | [351474-obakeyashiki.json](./351474-obakeyashiki.json) |
 | Object Impermanence | 375637 | [375637-object-impermanence.json](./375637-object-impermanence.json) |
 | Obliterator | 360973 | [360973-obliterator.json](./360973-obliterator.json) |
 | Oblivion 2666 | 410132 | [410132-oblivion-2666.json](./410132-oblivion-2666.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors | 3161 | [3161-one-piece-pirate-warriors.json](./3161-one-piece-pirate-warriors.json) |
 | One Wild Futa Nightclub | 405986 | [405986-one-wild-futa-nightclub.json](./405986-one-wild-futa-nightclub.json) |
 | One-Armed Robber | 263205 | [263205-one-armed-robber.json](./263205-one-armed-robber.json) |
+| One-In | 351468 | [351468-one-in.json](./351468-one-in.json) |
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
 | Ongeki Re:Fresh Act.2 | 408700 | [408700-ongeki-re-fresh-act-2.json](./408700-ongeki-re-fresh-act-2.json) |
 | Oniria | 412882 | [412882-oniria.json](./412882-oniria.json) |
@@ -108,12 +110,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Grabber | 372888 | [372888-orb-grabber.json](./372888-orb-grabber.json) |
 | Orb of Petals | 401417 | [401417-orb-of-petals.json](./401417-orb-of-petals.json) |
 | Orb Stories | 386022 | [386022-orb-stories.json](./386022-orb-stories.json) |
+| Orbcraft Survivors | 351441 | [351441-orbcraft-survivors.json](./351441-orbcraft-survivors.json) |
 | Orbit | 20962 | [20962-orbit.json](./20962-orbit.json) |
 | Orbit | 412865 | [412865-orbit.json](./412865-orbit.json) |
 | Orbit Arcadia | 387239 | [387239-orbit-arcadia.json](./387239-orbit-arcadia.json) |
 | Orbit to Riches | 399520 | [399520-orbit-to-riches.json](./399520-orbit-to-riches.json) |
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orbital | 386583 | [386583-orbital.json](./386583-orbital.json) |
+| Orbital Challenge | 351456 | [351456-orbital-challenge.json](./351456-orbital-challenge.json) |
 | Orbital Purge | 366057 | [366057-orbital-purge.json](./366057-orbital-purge.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
@@ -154,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
 | Overwatch Rush | 392676 | [392676-overwatch-rush.json](./392676-overwatch-rush.json) |
 | Overwatch: Collector's Edition | 28061 | [28061-overwatch-collectors-edition.json](./28061-overwatch-collectors-edition.json) |
+| Overwork Empire | 351445 | [351445-overwork-empire.json](./351445-overwork-empire.json) |
 | Oxenfree II: Lost Signals | 145784 | [145784-oxenfree-ii-lost-signals.json](./145784-oxenfree-ii-lost-signals.json) |
 | Oxygen Not Included: The Bionic Booster Pack | 364903 | [364903-oxygen-not-included-the-bionic-booster-pack.json](./364903-oxygen-not-included-the-bionic-booster-pack.json) |
 | Oxygen Not Included: The Prehistoric Planet Pack | 364904 | [364904-oxygen-not-included-the-prehistoric-planet-pack.json](./364904-oxygen-not-included-the-prehistoric-planet-pack.json) |
