@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Strike | 378676 | [378676-first-strike.json](./378676-first-strike.json) |
 | First Survivors | 365518 | [365518-first-survivors.json](./365518-first-survivors.json) |
 | Fish Collector: Aquarium Story | 364911 | [364911-fish-collector-aquarium-story.json](./364911-fish-collector-aquarium-story.json) |
+| Fish Hooks | 352597 | [352597-fish-hooks.json](./352597-fish-hooks.json) |
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
