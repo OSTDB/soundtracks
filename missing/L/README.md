@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmark Battle | 390431 | [390431-landmark-battle.json](./390431-landmark-battle.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
+| Large Meals | 348600 | [348600-large-meals.json](./348600-large-meals.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
 | Laser Matrix | 378658 | [378658-laser-matrix.json](./378658-laser-matrix.json) |
 | Laser Tank | 376296 | [376296-laser-tank.json](./376296-laser-tank.json) |
