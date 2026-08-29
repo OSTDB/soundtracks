@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
 | Motorbikes Pro 2025: Elite Edition | 402177 | [402177-motorbikes-pro-2025-elite-edition.json](./402177-motorbikes-pro-2025-elite-edition.json) |
 | Motorbikes Pro 2025: Platinium Edition | 394750 | [394750-motorbikes-pro-2025-platinium-edition.json](./394750-motorbikes-pro-2025-platinium-edition.json) |
+| Motori | 347549 | [347549-motori.json](./347549-motori.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
 | Mouse simulator | 359798 | [359798-mouse-simulator.json](./359798-mouse-simulator.json) |
