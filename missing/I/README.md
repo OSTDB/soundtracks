@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
 | Insert Game Here | 359262 | [359262-insert-game-here.json](./359262-insert-game-here.json) |
 | Inside the Cube | 413560 | [413560-inside-the-cube.json](./413560-inside-the-cube.json) |
+| Intel: Game Hero | 344212 | [344212-intel-game-hero.json](./344212-intel-game-hero.json) |
 | Interdimensional Vending Machine | 391514 | [391514-interdimensional-vending-machine.json](./391514-interdimensional-vending-machine.json) |
 | Interloper | 13221 | [13221-interloper.json](./13221-interloper.json) |
 | Internal Light | 76914 | [76914-internal-light.json](./76914-internal-light.json) |
