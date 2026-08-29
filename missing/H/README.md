@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
 | Hermit | 349126 | [349126-hermit.json](./349126-hermit.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
+| Hero Collection 3 in 1 | 342471 | [342471-hero-collection-3-in-1.json](./342471-hero-collection-3-in-1.json) |
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
 | Heroes of Hellas 3: Athens | 35810 | [35810-heroes-of-hellas-3-athens.json](./35810-heroes-of-hellas-3-athens.json) |
 | Heroes of Hellas Origins: Part One | 123917 | [123917-heroes-of-hellas-origins-part-one.json](./123917-heroes-of-hellas-origins-part-one.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
 | Hibikino-san-chi ha Eroge-ya-san! | 396043 | [396043-hibikino-san-chi-ha-eroge-ya-san.json](./396043-hibikino-san-chi-ha-eroge-ya-san.json) |
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
+| Hidden Capybaras with Orange: Collection | 342472 | [342472-hidden-capybaras-with-orange-collection.json](./342472-hidden-capybaras-with-orange-collection.json) |
 | Hidden Expedition: The Lost Paradise | 360389 | [360389-hidden-expedition-the-lost-paradise.json](./360389-hidden-expedition-the-lost-paradise.json) |
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden Post-Apocalyptic 3 Top-Down 3D | 345305 | [345305-hidden-post-apocalyptic-3-top-down-3d.json](./345305-hidden-post-apocalyptic-3-top-down-3d.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunchback | 26118 | [26118-hunchback.json](./26118-hunchback.json) |
 | Hunchback 8Bits | 407951 | [407951-hunchback-8bits.json](./407951-hunchback-8bits.json) |
 | Hundeparken | 366689 | [366689-hundeparken.json](./366689-hundeparken.json) |
+| Hundred Fires: The Rising of Red Star - Complete Edition | 342473 | [342473-hundred-fires-the-rising-of-red-star-complete-edition.json](./342473-hundred-fires-the-rising-of-red-star-complete-edition.json) |
 | Hungerwinter | 398247 | [398247-hungerwinter.json](./398247-hungerwinter.json) |
 | Hungry Hungry Hippos: Move N’ Munch | 382611 | [382611-hungry-hungry-hippos-move-n-munch.json](./382611-hungry-hungry-hippos-move-n-munch.json) |
 | Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
