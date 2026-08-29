@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkspy | 372337 | [372337-darkspy.json](./372337-darkspy.json) |
 | Darkward | 379772 | [379772-darkward.json](./379772-darkward.json) |
 | Darq: The Tower | 174153 | [174153-darq-the-tower.json](./174153-darq-the-tower.json) |
+| Dartmour: Tablets of the Ancients | 347527 | [347527-dartmour-tablets-of-the-ancients.json](./347527-dartmour-tablets-of-the-ancients.json) |
 | Darts Fever: Upgrade Edition | 394747 | [394747-darts-fever-upgrade-edition.json](./394747-darts-fever-upgrade-edition.json) |
 | Darwinia+ | 20975 | [20975-darwinia.json](./20975-darwinia.json) |
 | DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
