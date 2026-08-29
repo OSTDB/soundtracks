@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug Finder: Deluxe Edition | 350851 | [350851-snug-finder-deluxe-edition.json](./350851-snug-finder-deluxe-edition.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
+| Soccer Showdown | 345335 | [345335-soccer-showdown.json](./345335-soccer-showdown.json) |
 | Soccerlypse | 368877 | [368877-soccerlypse.json](./368877-soccerlypse.json) |
 | Sociable Soccer Champions | 392619 | [392619-sociable-soccer-champions.json](./392619-sociable-soccer-champions.json) |
 | Social Caterpillar | 386616 | [386616-social-caterpillar.json](./386616-social-caterpillar.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
 | Spirit-- | 360955 | [360955-spirit.json](./360955-spirit.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
+| Splish Splash Pong | 345329 | [345329-splish-splash-pong.json](./345329-splish-splash-pong.json) |
 | Sponge Break | 408625 | [408625-sponge-break.json](./408625-sponge-break.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 2765 | [2765-spongebob-squarepants-battle-for-bikini-bottom.json](./2765-spongebob-squarepants-battle-for-bikini-bottom.json) |
@@ -758,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoneTide: Age of Pirates | 116205 | [116205-stonetide-age-of-pirates.json](./116205-stonetide-age-of-pirates.json) |
 | Stonewall Penitentiary | 96126 | [96126-stonewall-penitentiary.json](./96126-stonewall-penitentiary.json) |
 | Stonewards | 396815 | [396815-stonewards.json](./396815-stonewards.json) |
+| Storage Finder | 345301 | [345301-storage-finder.json](./345301-storage-finder.json) |
 | Store Life Simulator | 366046 | [366046-store-life-simulator.json](./366046-store-life-simulator.json) |
 | Storm of Spears | 32971 | [32971-storm-of-spears.json](./32971-storm-of-spears.json) |
 | Storm The House Collection | 395424 | [395424-storm-the-house-collection.json](./395424-storm-the-house-collection.json) |
