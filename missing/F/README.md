@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fortress | 89505 | [89505-forest-fortress.json](./89505-forest-fortress.json) |
 | Forest Hustle | 384355 | [384355-forest-hustle.json](./384355-forest-hustle.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
+| Forever Delicious Bundle | 358677 | [358677-forever-delicious-bundle.json](./358677-forever-delicious-bundle.json) |
 | Forgedale | 369975 | [369975-forgedale.json](./369975-forgedale.json) |
 | Forgive for Ever | 371717 | [371717-forgive-for-ever.json](./371717-forgive-for-ever.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
@@ -344,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Kick Football: 3D Soccer | 367264 | [367264-free-kick-football-3d-soccer.json](./367264-free-kick-football-3d-soccer.json) |
 | Free Spirit VR Meditation | 410110 | [410110-free-spirit-vr-meditation.json](./410110-free-spirit-vr-meditation.json) |
 | Freedom Finger | 115925 | [115925-freedom-finger.json](./115925-freedom-finger.json) |
+| Freedom Force | 358699 | [358699-freedom-force.json](./358699-freedom-force.json) |
 | Freedom Force vs. The 3rd Reich | 721 | [721-freedom-force-vs-the-3rd-reich.json](./721-freedom-force-vs-the-3rd-reich.json) |
 | Freedom Planet Plus | 376353 | [376353-freedom-planet-plus.json](./376353-freedom-planet-plus.json) |
 | Freefall Tournament | 102152 | [102152-freefall-tournament.json](./102152-freefall-tournament.json) |
