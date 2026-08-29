@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickertale | 381433 | [381433-clickertale.json](./381433-clickertale.json) |
 | Clickolding | 307075 | [307075-clickolding.json](./307075-clickolding.json) |
 | Cliffside Cafe | 402789 | [402789-cliffside-cafe.json](./402789-cliffside-cafe.json) |
+| Climb | 344755 | [344755-climb.json](./344755-climb.json) |
 | Climbey | 31533 | [31533-climbey.json](./31533-climbey.json) |
 | Clock Jump | 359801 | [359801-clock-jump.json](./359801-clock-jump.json) |
 | Cloning Clyde | 15083 | [15083-cloning-clyde.json](./15083-cloning-clyde.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corebound | 357082 | [357082-corebound.json](./357082-corebound.json) |
 | Corebound | 347538 | [347538-corebound.json](./347538-corebound.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
+| Coreward | 344764 | [344764-coreward.json](./344764-coreward.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corn Quest | 382648 | [382648-corn-quest.json](./382648-corn-quest.json) |
 | Corpse Party | 11319 | [11319-corpse-party.json](./11319-corpse-party.json) |
@@ -492,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Friends | 413555 | [413555-crayon-friends.json](./413555-crayon-friends.json) |
 | Crayon Halloween | 373959 | [373959-crayon-halloween.json](./373959-crayon-halloween.json) |
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
+| Crazy Alien | 344762 | [344762-crazy-alien.json](./344762-crazy-alien.json) |
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Cats Survivors | 387201 | [387201-crazy-cats-survivors.json](./387201-crazy-cats-survivors.json) |
 | Crazy Caves | 349671 | [349671-crazy-caves.json](./349671-crazy-caves.json) |
