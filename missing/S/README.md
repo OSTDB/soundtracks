@@ -247,6 +247,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
 | Shooter and Simulator Bundle | 350857 | [350857-shooter-and-simulator-bundle.json](./350857-shooter-and-simulator-bundle.json) |
 | Shooterhouse | 383806 | [383806-shooterhouse.json](./383806-shooterhouse.json) |
+| Shooting Showdown | 344733 | [344733-shooting-showdown.json](./344733-shooting-showdown.json) |
+| Shooting Showdown 2 | 344736 | [344736-shooting-showdown-2.json](./344736-shooting-showdown-2.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
 | Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
@@ -349,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
 | Sky Sword Strategy | 403512 | [403512-sky-sword-strategy.json](./403512-sky-sword-strategy.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
+| Skye | 344758 | [344758-skye.json](./344758-skye.json) |
 | SkyFactory 5 | 349676 | [349676-skyfactory-5.json](./349676-skyfactory-5.json) |
 | Skyline Bowling: Split Edition | 402182 | [402182-skyline-bowling-split-edition.json](./402182-skyline-bowling-split-edition.json) |
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
@@ -417,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoke Shop Simulator | 357049 | [357049-smoke-shop-simulator.json](./357049-smoke-shop-simulator.json) |
 | Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
 | Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
+| Snail Mail | 344768 | [344768-snail-mail.json](./344768-snail-mail.json) |
 | Snail Trail | 359238 | [359238-snail-trail.json](./359238-snail-trail.json) |
 | Snake Chess | 364288 | [364288-snake-chess.json](./364288-snake-chess.json) |
 | Snake Simulator | 87643 | [87643-snake-simulator.json](./87643-snake-simulator.json) |
@@ -533,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
 | Soup Rooms | 379248 | [379248-soup-rooms.json](./379248-soup-rooms.json) |
 | Soup4U | 408699 | [408699-soup4u.json](./408699-soup4u.json) |
+| Souper Game | 344778 | [344778-souper-game.json](./344778-souper-game.json) |
 | South Park | 1257 | [1257-south-park.json](./1257-south-park.json) |
 | South Park: Chef's Luv Shack | 1258 | [1258-south-park-chefs-luv-shack.json](./1258-south-park-chefs-luv-shack.json) |
 | South Park: Phone Destroyer | 37063 | [37063-south-park-phone-destroyer.json](./37063-south-park-phone-destroyer.json) |
@@ -817,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Zero | 387897 | [387897-string-zero.json](./387897-string-zero.json) |
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Strozowka | 404151 | [404151-strozowka.json](./404151-strozowka.json) |
+| Struggle | 344731 | [344731-struggle.json](./344731-struggle.json) |
 | Stuck Together | 360995 | [360995-stuck-together.json](./360995-stuck-together.json) |
 | Stuff it! | 350846 | [350846-stuff-it.json](./350846-stuff-it.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
@@ -955,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Supermarket Manager 2025 | 350834 | [350834-supermarket-manager-2025.json](./350834-supermarket-manager-2025.json) |
+| Superspective | 344772 | [344772-superspective.json](./344772-superspective.json) |
 | SuperStar: The Boyz | 388578 | [388578-superstar-the-boyz.json](./388578-superstar-the-boyz.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
 | Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
@@ -983,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
 | Sweatshop Simulator | 351434 | [351434-sweatshop-simulator.json](./351434-sweatshop-simulator.json) |
+| Sweepin' XS | 344744 | [344744-sweepin-xs.json](./344744-sweepin-xs.json) |
 | Sweet Bathhouse | 382058 | [382058-sweet-bathhouse.json](./382058-sweet-bathhouse.json) |
 | Sweet Diving | 382056 | [382056-sweet-diving.json](./382056-sweet-diving.json) |
 | Sweet Elf | 393363 | [393363-sweet-elf.json](./393363-sweet-elf.json) |
