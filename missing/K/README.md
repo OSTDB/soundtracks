@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapuritto-kyu Minigame Collection | 391479 | [391479-kapuritto-kyu-minigame-collection.json](./391479-kapuritto-kyu-minigame-collection.json) |
 | Karakoi Invitation | 382655 | [382655-karakoi-invitation.json](./382655-karakoi-invitation.json) |
 | Karakulo 21 | 410775 | [410775-karakulo-21.json](./410775-karakulo-21.json) |
+| Karaneko | 346413 | [346413-karaneko.json](./346413-karaneko.json) |
 | KARANTIIN | 386004 | [386004-karantiin.json](./386004-karantiin.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
