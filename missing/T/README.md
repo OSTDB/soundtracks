@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls: Legends | 11120 | [11120-the-elder-scrolls-legends.json](./11120-the-elder-scrolls-legends.json) |
 | The Electric Bots | 400158 | [400158-the-electric-bots.json](./400158-the-electric-bots.json) |
 | The Elf on the Shelf: Christmas Heroes | 366655 | [366655-the-elf-on-the-shelf-christmas-heroes.json](./366655-the-elf-on-the-shelf-christmas-heroes.json) |
+| The Elomont Raider | 351467 | [351467-the-elomont-raider.json](./351467-the-elomont-raider.json) |
 | The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
