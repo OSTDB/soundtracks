@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooperate | 384361 | [384361-cooperate.json](./384361-cooperate.json) |
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | Coralland | 359233 | [359233-coralland.json](./359233-coralland.json) |
+| Corbaci: A Cozy Cinematic Horror | 349147 | [349147-corbaci-a-cozy-cinematic-horror.json](./349147-corbaci-a-cozy-cinematic-horror.json) |
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | Corebound | 357082 | [357082-corebound.json](./357082-corebound.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
