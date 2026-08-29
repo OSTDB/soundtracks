@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Puzzles: Eviva L'arte | 406587 | [406587-retro-puzzles-eviva-larte.json](./406587-retro-puzzles-eviva-larte.json) |
 | Retronaut | 376325 | [376325-retronaut.json](./376325-retronaut.json) |
 | Retrowave Need For Speed Drift | 359814 | [359814-retrowave-need-for-speed-drift.json](./359814-retrowave-need-for-speed-drift.json) |
+| RETURN | 358693 | [358693-return.json](./358693-return.json) |
 | Return of the Tentacle | 2274 | [2274-return-of-the-tentacle.json](./2274-return-of-the-tentacle.json) |
 | Return to Zork | 279 | [279-return-to-zork.json](./279-return-to-zork.json) |
 | Reveal the Deep | 26521 | [26521-reveal-the-deep.json](./26521-reveal-the-deep.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Eternal Depths | 370529 | [370529-run-eternal-depths.json](./370529-run-eternal-depths.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
+| Runeblight | 358687 | [358687-runeblight.json](./358687-runeblight.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
 | Running Train | 400786 | [400786-running-train.json](./400786-running-train.json) |
