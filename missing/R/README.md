@@ -34,6 +34,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Room: Catharsis | 351460 | [351460-rage-room-catharsis.json](./351460-rage-room-catharsis.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Raiding Party | 384980 | [384980-raiding-party.json](./384980-raiding-party.json) |
+| Raidou Remastered: The Mystery of the Soulless Army - Demons of the Aril Rift | 343671 | [343671-raidou-remastered-the-mystery-of-the-soulless-army-demons-of-the-aril-rift.json](./343671-raidou-remastered-the-mystery-of-the-soulless-army-demons-of-the-aril-rift.json) |
+| Raidou Remastered: The Mystery of the Soulless Army - Guest Demons Pack | 343670 | [343670-raidou-remastered-the-mystery-of-the-soulless-army-guest-demons-pack.json](./343670-raidou-remastered-the-mystery-of-the-soulless-army-guest-demons-pack.json) |
 | Rail of War | 383251 | [383251-rail-of-war.json](./383251-rail-of-war.json) |
 | Railroad to Hell 3 | 379761 | [379761-railroad-to-hell-3.json](./379761-railroad-to-hell-3.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
@@ -319,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue AI: Idle Domination | 373938 | [373938-rogue-ai-idle-domination.json](./373938-rogue-ai-idle-domination.json) |
 | Rogue Melee | 374447 | [374447-rogue-melee.json](./374447-rogue-melee.json) |
 | Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
+| Rogue Scum | 343644 | [343644-rogue-scum.json](./343644-rogue-scum.json) |
 | Rogue Star Rescue | 115602 | [115602-rogue-star-rescue.json](./115602-rogue-star-rescue.json) |
 | Rogue Stradale | 396794 | [396794-rogue-stradale.json](./396794-rogue-stradale.json) |
 | Rogue System | 22837 | [22837-rogue-system.json](./22837-rogue-system.json) |
@@ -361,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPGMP: Retrieving the Ruby | 369400 | [369400-rpgmp-retrieving-the-ruby.json](./369400-rpgmp-retrieving-the-ruby.json) |
 | RTAchan Tower Builder | 383259 | [383259-rtachan-tower-builder.json](./383259-rtachan-tower-builder.json) |
 | Ruadine | 381440 | [381440-ruadine.json](./381440-ruadine.json) |
+| Rubik's Cube | 343632 | [343632-rubiks-cube.json](./343632-rubiks-cube.json) |
 | Rudravati: Curse of Bhankilla | 385492 | [385492-rudravati-curse-of-bhankilla.json](./385492-rudravati-curse-of-bhankilla.json) |
 | Rugby 08 | 21535 | [21535-rugby-08.json](./21535-rugby-08.json) |
 | Rugby 18 | 36551 | [36551-rugby-18.json](./36551-rugby-18.json) |
