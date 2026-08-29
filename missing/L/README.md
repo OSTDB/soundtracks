@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shift | 368863 | [368863-last-shift.json](./368863-last-shift.json) |
 | Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Train Home | 252869 | [252869-last-train-home.json](./252869-last-train-home.json) |
+| Last War | 358684 | [358684-last-war.json](./358684-last-war.json) |
 | Last Wave | 364931 | [364931-last-wave.json](./364931-last-wave.json) |
 | Late at Night | 109700 | [109700-late-at-night.json](./109700-late-at-night.json) |
 | Late Night DJ | 402777 | [402777-late-night-dj.json](./402777-late-night-dj.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Darkness: Celebration | 378044 | [378044-lord-of-darkness-celebration.json](./378044-lord-of-darkness-celebration.json) |
 | Lord of the Click | 116232 | [116232-lord-of-the-click.json](./116232-lord-of-the-click.json) |
 | Lordling of Hearts | 369441 | [369441-lordling-of-hearts.json](./369441-lordling-of-hearts.json) |
+| Los Angeles Mod | 358689 | [358689-los-angeles-mod.json](./358689-los-angeles-mod.json) |
 | Lost Ark | 26128 | [26128-lost-ark.json](./26128-lost-ark.json) |
 | Lost Base Escape | 29804 | [29804-lost-base-escape.json](./29804-lost-base-escape.json) |
 | Lost Castle | 23582 | [23582-lost-castle.json](./23582-lost-castle.json) |
