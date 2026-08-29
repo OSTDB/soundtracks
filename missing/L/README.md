@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
 | LEGO Rock Raiders | 2157 | [2157-lego-rock-raiders.json](./2157-lego-rock-raiders.json) |
 | LEGO Skylines | 414994 | [414994-lego-skylines.json](./414994-lego-skylines.json) |
+| Lego Star Wars: Empire vs. Rebels | 344205 | [344205-lego-star-wars-empire-vs-rebels.json](./344205-lego-star-wars-empire-vs-rebels.json) |
 | LEGO Star Wars: Microfighters | 20937 | [20937-lego-star-wars-microfighters.json](./20937-lego-star-wars-microfighters.json) |
 | LEGO Star Wars: The Force Awakens | 17030 | [17030-lego-star-wars-the-force-awakens.json](./17030-lego-star-wars-the-force-awakens.json) |
 | LEGO Star Wars: The Video Game | 2681 | [2681-lego-star-wars-the-video-game.json](./2681-lego-star-wars-the-video-game.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Luna | 364936 | [364936-liar-luna.json](./364936-liar-luna.json) |
 | Liberation Maiden | 21007 | [21007-liberation-maiden.json](./21007-liberation-maiden.json) |
 | Librarian Lust | 367255 | [367255-librarian-lust.json](./367255-librarian-lust.json) |
+| License to Poop | 344193 | [344193-license-to-poop.json](./344193-license-to-poop.json) |
 | Lichtspeer | 24446 | [24446-lichtspeer.json](./24446-lichtspeer.json) |
 | Liè Shān Hǎi Èr | 367215 | [367215-lie-shan-hai-er.json](./367215-lie-shan-hai-er.json) |
 | LiEat | 35132 | [35132-lieat.json](./35132-lieat.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living With a Little Fox Girl | 374471 | [374471-living-with-a-little-fox-girl.json](./374471-living-with-a-little-fox-girl.json) |
 | Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | Loaded Lions: Mane City | 350068 | [350068-loaded-lions-mane-city.json](./350068-loaded-lions-mane-city.json) |
+| Lobotomy | 344199 | [344199-lobotomy.json](./344199-lobotomy.json) |
 | Locally Sourced Anthology II: The Timeline | 366051 | [366051-locally-sourced-anthology-ii-the-timeline.json](./366051-locally-sourced-anthology-ii-the-timeline.json) |
 | Locktale | 384969 | [384969-locktale.json](./384969-locktale.json) |
 | Loco Dojo | 46483 | [46483-loco-dojo.json](./46483-loco-dojo.json) |
