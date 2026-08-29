@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
 | Invincible Vs.: Double Dimensions - Skin Bundle | 400147 | [400147-invincible-vs-double-dimensions-skin-bundle.json](./400147-invincible-vs-double-dimensions-skin-bundle.json) |
 | Invincible Vs.: Ella Mental - Diamond Skin | 400153 | [400153-invincible-vs-ella-mental-diamond-skin.json](./400153-invincible-vs-ella-mental-diamond-skin.json) |
+| Invisible | 345879 | [345879-invisible.json](./345879-invisible.json) |
 | Invoker Tactics | 378045 | [378045-invoker-tactics.json](./378045-invoker-tactics.json) |
 | Invokyr | 359277 | [359277-invokyr.json](./359277-invokyr.json) |
 | Inworld Origins | 393327 | [393327-inworld-origins.json](./393327-inworld-origins.json) |
@@ -220,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isle of Poochimon | 368880 | [368880-isle-of-poochimon.json](./368880-isle-of-poochimon.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
+| Isles of Sea and Sky: Mysterious Update | 345855 | [345855-isles-of-sea-and-sky-mysterious-update.json](./345855-isles-of-sea-and-sky-mysterious-update.json) |
 | Isoforge | 346451 | [346451-isoforge.json](./346451-isoforge.json) |
 | Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
