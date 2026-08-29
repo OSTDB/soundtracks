@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Formation | 368837 | [368837-final-formation.json](./368837-final-formation.json) |
 | Final Stand | 351451 | [351451-final-stand.json](./351451-final-stand.json) |
 | Final Theory | 109835 | [109835-final-theory.json](./109835-final-theory.json) |
+| Finally a Florist | 349706 | [349706-finally-a-florist.json](./349706-finally-a-florist.json) |
 | Find All: Christmas 2025 | 382656 | [382656-find-all-christmas-2025.json](./382656-find-all-christmas-2025.json) |
 | Find Kittens 5: Magic Tree | 366084 | [366084-find-kittens-5-magic-tree.json](./366084-find-kittens-5-magic-tree.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Engage | 217550 | [217550-fire-emblem-engage.json](./217550-fire-emblem-engage.json) |
 | Fire Emblem Gaiden | 1434 | [1434-fire-emblem-gaiden.json](./1434-fire-emblem-gaiden.json) |
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
+| Fire in the Frost | 349698 | [349698-fire-in-the-frost.json](./349698-fire-in-the-frost.json) |
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Firefly Haven | 356472 | [356472-firefly-haven.json](./356472-firefly-haven.json) |
@@ -305,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Formula Racing Pro 2026: Definitive Edition | 402171 | [402171-formula-racing-pro-2026-definitive-edition.json](./402171-formula-racing-pro-2026-definitive-edition.json) |
 | Formula Racing Pro 2026: Premium Edition | 394749 | [394749-formula-racing-pro-2026-premium-edition.json](./394749-formula-racing-pro-2026-premium-edition.json) |
+| Formula Suzuki Hayabusa Time Attack | 349660 | [349660-formula-suzuki-hayabusa-time-attack.json](./349660-formula-suzuki-hayabusa-time-attack.json) |
 | Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
 | Forsaken Lands | 368839 | [368839-forsaken-lands.json](./368839-forsaken-lands.json) |
 | Forsaken Manor | 350275 | [350275-forsaken-manor.json](./350275-forsaken-manor.json) |
@@ -334,10 +337,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Summoners: Secret of the Elemental Stone | 12526 | [12526-fortune-summoners-secret-of-the-elemental-stone.json](./12526-fortune-summoners-secret-of-the-elemental-stone.json) |
 | Forza Horizon - 1000 Club Expansion Pack | 20851 | [20851-forza-horizon-1000-club-expansion-pack.json](./20851-forza-horizon-1000-club-expansion-pack.json) |
 | Forza Horizon 3: Blizzard Mountain | 26495 | [26495-forza-horizon-3-blizzard-mountain.json](./26495-forza-horizon-3-blizzard-mountain.json) |
+| Forza Horizon 3: Car Pass | 349675 | [349675-forza-horizon-3-car-pass.json](./349675-forza-horizon-3-car-pass.json) |
+| Forza Horizon 3: VIP | 349679 | [349679-forza-horizon-3-vip.json](./349679-forza-horizon-3-vip.json) |
 | Forza Horizon 5: Hot Wheels | 204679 | [204679-forza-horizon-5-hot-wheels.json](./204679-forza-horizon-5-hot-wheels.json) |
 | Forza Horizon 5: Rally Adventure | 195375 | [195375-forza-horizon-5-rally-adventure.json](./195375-forza-horizon-5-rally-adventure.json) |
 | Forza Motorsport 4 Porsche | 20824 | [20824-forza-motorsport-4-porsche.json](./20824-forza-motorsport-4-porsche.json) |
 | Forza Motorsport 6: Apex | 26911 | [26911-forza-motorsport-6-apex.json](./26911-forza-motorsport-6-apex.json) |
+| Forza Motorsport 7: Hoonigan Car Pack | 349688 | [349688-forza-motorsport-7-hoonigan-car-pack.json](./349688-forza-motorsport-7-hoonigan-car-pack.json) |
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | Four Corners: Square Off | 381452 | [381452-four-corners-square-off.json](./381452-four-corners-square-off.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
