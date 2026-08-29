@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawtumn: The Parkside Purrsuit! | 364281 | [364281-pawtumn-the-parkside-purrsuit.json](./364281-pawtumn-the-parkside-purrsuit.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
 | Payday 3: Delivery Charge Heist | 366669 | [366669-payday-3-delivery-charge-heist.json](./366669-payday-3-delivery-charge-heist.json) |
+| Pazunin: Uminin no Puzzle de Nimu | 356453 | [356453-pazunin-uminin-no-puzzle-de-nimu.json](./356453-pazunin-uminin-no-puzzle-de-nimu.json) |
 | PBS Kids Games | 383813 | [383813-pbs-kids-games.json](./383813-pbs-kids-games.json) |
 | PC Creator Simulator | 397545 | [397545-pc-creator-simulator.json](./397545-pc-creator-simulator.json) |
 | PDC World Championship Darts Pro Tour | 7128 | [7128-pdc-world-championship-darts-pro-tour.json](./7128-pdc-world-championship-darts-pro-tour.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rogue | 389284 | [389284-project-rogue.json](./389284-project-rogue.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
+| Project Warfield Heroes | 356446 | [356446-project-warfield-heroes.json](./356446-project-warfield-heroes.json) |
 | Project XZ | 398251 | [398251-project-xz.json](./398251-project-xz.json) |
 | Project: Playtime | 227788 | [227788-project-playtime.json](./227788-project-playtime.json) |
 | Projekt | 90435 | [90435-projekt.json](./90435-projekt.json) |
