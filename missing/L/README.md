@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land and Sword | 383227 | [383227-land-and-sword.json](./383227-land-and-sword.json) |
 | Landmark Battle | 390431 | [390431-landmark-battle.json](./390431-landmark-battle.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
+| Lap of the Gods | 348081 | [348081-lap-of-the-gods.json](./348081-lap-of-the-gods.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Large Meals | 348600 | [348600-large-meals.json](./348600-large-meals.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love Limit | 380870 | [380870-love-limit.json](./380870-love-limit.json) |
 | Love Quest | 355907 | [355907-love-quest.json](./355907-love-quest.json) |
+| Love x Crotch x Gym | 348066 | [348066-love-x-crotch-x-gym.json](./348066-love-x-crotch-x-gym.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
 | Love You As I Am | 398894 | [398894-love-you-as-i-am.json](./398894-love-you-as-i-am.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
