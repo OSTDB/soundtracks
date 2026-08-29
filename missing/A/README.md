@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Challenge | 371725 | [371725-air-challenge.json](./371725-air-challenge.json) |
 | Air Patriots | 364934 | [364934-air-patriots.json](./364934-air-patriots.json) |
 | Air Traffic Chaos | 23032 | [23032-air-traffic-chaos.json](./23032-air-traffic-chaos.json) |
+| Aira & Van's Last Journey | 355922 | [355922-aira-and-vans-last-journey.json](./355922-aira-and-vans-last-journey.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
 | Airhead Academy | 384389 | [384389-airhead-academy.json](./384389-airhead-academy.json) |
@@ -291,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Video Puzzle | 411447 | [411447-anime-video-puzzle.json](./411447-anime-video-puzzle.json) |
 | Anime: Fantasy Uni 2 | 384357 | [384357-anime-fantasy-uni-2.json](./384357-anime-fantasy-uni-2.json) |
 | Animic: Attack with Your Voice | 384973 | [384973-animic-attack-with-your-voice.json](./384973-animic-attack-with-your-voice.json) |
+| Aniverse | 355908 | [355908-aniverse.json](./355908-aniverse.json) |
 | Annie Amber | 32954 | [32954-annie-amber.json](./32954-annie-amber.json) |
 | Anno 1503 | 300 | [300-anno-1503.json](./300-anno-1503.json) |
 | Anno 1701 | 8225 | [8225-anno-1701.json](./8225-anno-1701.json) |
@@ -327,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
+| Arc Hound | 355902 | [355902-arc-hound.json](./355902-arc-hound.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
 | Arc the Lad III | 26346 | [26346-arc-the-lad-iii.json](./26346-arc-the-lad-iii.json) |
 | Arcade Archives 2: Arkanoid | 400781 | [400781-arcade-archives-2-arkanoid.json](./400781-arcade-archives-2-arkanoid.json) |
@@ -470,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
 | Avion | 408621 | [408621-avion.json](./408621-avion.json) |
 | AVSEQ | 15288 | [15288-avseq.json](./15288-avseq.json) |
+| Awakeroots | 355911 | [355911-awakeroots.json](./355911-awakeroots.json) |
 | Awesome Animated Monster Maker Math | 380851 | [380851-awesome-animated-monster-maker-math.json](./380851-awesome-animated-monster-maker-math.json) |
 | Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
