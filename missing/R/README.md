@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant | 46746 | [46746-radiant.json](./46746-radiant.json) |
 | Radiant Sword | 383228 | [383228-radiant-sword.json](./383228-radiant-sword.json) |
 | Radica Bass Fishin' | 375621 | [375621-radica-bass-fishin.json](./375621-radica-bass-fishin.json) |
+| Radio Ghosts | 346418 | [346418-radio-ghosts.json](./346418-radio-ghosts.json) |
 | Radioactive | 346966 | [346966-radioactive.json](./346966-radioactive.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | RadioWave: Black Signal | 371719 | [371719-radiowave-black-signal.json](./371719-radiowave-black-signal.json) |
