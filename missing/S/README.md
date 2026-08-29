@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret File | 366668 | [366668-secret-file.json](./366668-secret-file.json) |
 | Secret Flasher Manaka | 411472 | [411472-secret-flasher-manaka.json](./411472-secret-flasher-manaka.json) |
 | Secret Lab Cleaner | 372881 | [372881-secret-lab-cleaner.json](./372881-secret-lab-cleaner.json) |
+| Secret Mission | 358695 | [358695-secret-mission.json](./358695-secret-mission.json) |
 | Secret of Mana | 55092 | [55092-secret-of-mana.json](./55092-secret-of-mana.json) |
 | Secret Ponchos | 8249 | [8249-secret-ponchos.json](./8249-secret-ponchos.json) |
 | Secrets of Solari | 387864 | [387864-secrets-of-solari.json](./387864-secrets-of-solari.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
+| Super Archer | 358703 | [358703-super-archer.json](./358703-super-archer.json) |
 | Super Bear: Hunt for the Lost Beer | 367265 | [367265-super-bear-hunt-for-the-lost-beer.json](./367265-super-bear-hunt-for-the-lost-beer.json) |
 | Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Bowl | 370507 | [370507-super-bowl.json](./370507-super-bowl.json) |
@@ -838,6 +840,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pixalo | 35804 | [35804-super-pixalo.json](./35804-super-pixalo.json) |
 | Super Robo Mouse | 61228 | [61228-super-robo-mouse.json](./61228-super-robo-mouse.json) |
 | Super Robot Taisen L | 66434 | [66434-super-robot-taisen-l.json](./66434-super-robot-taisen-l.json) |
+| Super Robot Wars Y: Bonus Mission Pack | 358679 | [358679-super-robot-wars-y-bonus-mission-pack.json](./358679-super-robot-wars-y-bonus-mission-pack.json) |
+| Super Robot Wars Y: Premium Sound & Data Pack | 358680 | [358680-super-robot-wars-y-premium-sound-and-data-pack.json](./358680-super-robot-wars-y-premium-sound-and-data-pack.json) |
 | Super Rude Bear Resurrection | 28188 | [28188-super-rude-bear-resurrection.json](./28188-super-rude-bear-resurrection.json) |
 | Super Saurio Fly | 93734 | [93734-super-saurio-fly.json](./93734-super-saurio-fly.json) |
 | Super Scary Halloween Spooky Times: Spit's Quest | 367799 | [367799-super-scary-halloween-spooky-times-spits-quest.json](./367799-super-scary-halloween-spooky-times-spits-quest.json) |
