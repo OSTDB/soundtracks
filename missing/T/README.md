@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mutiny | 408683 | [408683-the-mutiny.json](./408683-the-mutiny.json) |
 | The Myth of a Godslayer | 374478 | [374478-the-myth-of-a-godslayer.json](./374478-the-myth-of-a-godslayer.json) |
 | The Name of the Night | 370527 | [370527-the-name-of-the-night.json](./370527-the-name-of-the-night.json) |
+| The Nest | 350808 | [350808-the-nest.json](./350808-the-nest.json) |
 | The Never Ending Flower Shop | 375007 | [375007-the-never-ending-flower-shop.json](./375007-the-never-ending-flower-shop.json) |
 | The Night Games Collection | 393360 | [393360-the-night-games-collection.json](./393360-the-night-games-collection.json) |
 | The Night Shift | 380885 | [380885-the-night-shift.json](./380885-the-night-shift.json) |
@@ -744,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train and Tame | 367258 | [367258-train-and-tame.json](./367258-train-and-tame.json) |
 | Train Hero | 371651 | [371651-train-hero.json](./371651-train-hero.json) |
 | Train Manager | 380864 | [380864-train-manager.json](./380864-train-manager.json) |
+| Train Plus | 350847 | [350847-train-plus.json](./350847-train-plus.json) |
 | Train Sim World 6: Transport for Wales BR Class 142 Pacer DMU | 378634 | [378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json](./378634-train-sim-world-6-transport-for-wales-br-class-142-pacer-dmu.json) |
 | Train Simulator: GP9 Loco Add-On | 360381 | [360381-train-simulator-gp9-loco-add-on.json](./360381-train-simulator-gp9-loco-add-on.json) |
 | Train Simulator: WSR Diesels Loco Add-On | 360380 | [360380-train-simulator-wsr-diesels-loco-add-on.json](./360380-train-simulator-wsr-diesels-loco-add-on.json) |
@@ -753,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajectile | 22982 | [22982-trajectile.json](./22982-trajectile.json) |
 | Trajectory of Summer Flower | 64932 | [64932-trajectory-of-summer-flower.json](./64932-trajectory-of-summer-flower.json) |
 | Tralalero Tralala: Jigsaw Puzzles | 359792 | [359792-tralalero-tralala-jigsaw-puzzles.json](./359792-tralalero-tralala-jigsaw-puzzles.json) |
+| Tralalero Tralala: Rage Bait! | 350848 | [350848-tralalero-tralala-rage-bait.json](./350848-tralalero-tralala-rage-bait.json) |
 | Transcripted | 30152 | [30152-transcripted.json](./30152-transcripted.json) |
 | Transfer | 380865 | [380865-transfer.json](./380865-transfer.json) |
 | Transformers: Autobots | 21536 | [21536-transformers-autobots.json](./21536-transformers-autobots.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth or Dare | 380858 | [380858-truth-or-dare.json](./380858-truth-or-dare.json) |
 | Truxton | 4418 | [4418-truxton.json](./4418-truxton.json) |
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
+| Tsumattemasu. | 350819 | [350819-tsumattemasu.json](./350819-tsumattemasu.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
 | Tuìhūn Hòu, Zōngzhǔ Mǎjiǎ Cáng Bùzhù | 407979 | [407979-tuihun-hou-zongzhu-majia-cang-buzhu.json](./407979-tuihun-hou-zongzhu-majia-cang-buzhu.json) |
