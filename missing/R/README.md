@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
 | Reflections of Life: In Screams and Sorrow | 359276 | [359276-reflections-of-life-in-screams-and-sorrow.json](./359276-reflections-of-life-in-screams-and-sorrow.json) |
+| Refraction | 344192 | [344192-refraction.json](./344192-refraction.json) |
 | Regotown | 389292 | [389292-regotown.json](./389292-regotown.json) |
 | Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Reignfall | 109764 | [109764-reignfall.json](./109764-reignfall.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Rhythm Survivors | 387863 | [387863-rhythm-survivors.json](./387863-rhythm-survivors.json) |
+| Rhythmic | 344185 | [344185-rhythmic.json](./344185-rhythmic.json) |
 | Richer Than the King | 406004 | [406004-richer-than-the-king.json](./406004-richer-than-the-king.json) |
 | Rick and Alice: Retro Games Hunters | 408692 | [408692-rick-and-alice-retro-games-hunters.json](./408692-rick-and-alice-retro-games-hunters.json) |
 | Rick Henderson: Eternal Arena | 372862 | [372862-rick-henderson-eternal-arena.json](./372862-rick-henderson-eternal-arena.json) |
