@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dice Sudoku | 382033 | [382033-hentai-dice-sudoku.json](./382033-hentai-dice-sudoku.json) |
 | Hentai Elarin | 382022 | [382022-hentai-elarin.json](./382022-hentai-elarin.json) |
 | Hentai Gallery: Sweet Dreams | 379770 | [379770-hentai-gallery-sweet-dreams.json](./379770-hentai-gallery-sweet-dreams.json) |
+| Hentai Girls: Charming Chef | 350845 | [350845-hentai-girls-charming-chef.json](./350845-hentai-girls-charming-chef.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
 | Hentai Merge Dice | 382029 | [382029-hentai-merge-dice.json](./382029-hentai-merge-dice.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
 | Hockey Pong | 384382 | [384382-hockey-pong.json](./384382-hockey-pong.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
+| Hole io: Doomsday Edition | 350853 | [350853-hole-io-doomsday-edition.json](./350853-hole-io-doomsday-edition.json) |
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
 | Hollow Knight: Godmaster | 105420 | [105420-hollow-knight-godmaster.json](./105420-hollow-knight-godmaster.json) |
