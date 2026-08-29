@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
 | Seiken Densetsu: The Emergence of Excalibur | 355905 | [355905-seiken-densetsu-the-emergence-of-excalibur.json](./355905-seiken-densetsu-the-emergence-of-excalibur.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
+| Self Simulated | 343102 | [343102-self-simulated.json](./343102-self-simulated.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sempai no Namida | 365517 | [365517-sempai-no-namida.json](./365517-sempai-no-namida.json) |
 | Senatordle | 386597 | [386597-senatordle.json](./386597-senatordle.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Knight | 412147 | [412147-shiba-knight.json](./412147-shiba-knight.json) |
 | Shibora Renkare Keiyaku: Hataraku Otona no Onee-san to H na Rental Kareshi Seikatsu | 410785 | [410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json](./410785-shibora-renkare-keiyaku-hataraku-otona-no-onee-san-to-h-na-rental-kareshi-seikatsu.json) |
 | Shift Happens | 11250 | [11250-shift-happens.json](./11250-shift-happens.json) |
+| Shiika wo Tashinamu Re | 343061 | [343061-shiika-wo-tashinamu-re.json](./343061-shiika-wo-tashinamu-re.json) |
 | Shikiyoku: Teru Yumemi in the Nightmare | 360440 | [360440-shikiyoku-teru-yumemi-in-the-nightmare.json](./360440-shikiyoku-teru-yumemi-in-the-nightmare.json) |
 | Shin Megami Tensei | 21074 | [21074-shin-megami-tensei.json](./21074-shin-megami-tensei.json) |
 | Shin Megami Tensei II | 23879 | [23879-shin-megami-tensei-ii.json](./23879-shin-megami-tensei-ii.json) |
@@ -353,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
 | Sky Sword Strategy | 403512 | [403512-sky-sword-strategy.json](./403512-sky-sword-strategy.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
+| Sky Up: Keep Alive | 343080 | [343080-sky-up-keep-alive.json](./343080-sky-up-keep-alive.json) |
 | Skye | 344758 | [344758-skye.json](./344758-skye.json) |
 | SkyFactory 5 | 349676 | [349676-skyfactory-5.json](./349676-skyfactory-5.json) |
 | Skyline Bowling: Split Edition | 402182 | [402182-skyline-bowling-split-edition.json](./402182-skyline-bowling-split-edition.json) |
@@ -440,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom: Card Fighters' Clash | 186758 | [186758-snk-vs-capcom-card-fighters-clash.json](./186758-snk-vs-capcom-card-fighters-clash.json) |
 | SNK vs. Capcom: The Match of the Millennium | 55058 | [55058-snk-vs-capcom-the-match-of-the-millennium.json](./55058-snk-vs-capcom-the-match-of-the-millennium.json) |
 | Snooker Fever: Super Edition | 402183 | [402183-snooker-fever-super-edition.json](./402183-snooker-fever-super-edition.json) |
+| Snoopy's Street Fair | 343106 | [343106-snoopys-street-fair.json](./343106-snoopys-street-fair.json) |
 | Snow Moto Racing 3D | 63468 | [63468-snow-moto-racing-3d.json](./63468-snow-moto-racing-3d.json) |
 | Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
@@ -546,6 +550,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereignty: Crown of Kings | 17613 | [17613-sovereignty-crown-of-kings.json](./17613-sovereignty-crown-of-kings.json) |
 | Soviet Tide Arising! | 359261 | [359261-soviet-tide-arising.json](./359261-soviet-tide-arising.json) |
 | SP Football Life 2026 | 389885 | [389885-sp-football-life-2026.json](./389885-sp-football-life-2026.json) |
+| Space Attack | 343064 | [343064-space-attack.json](./343064-space-attack.json) |
+| Space Attack | 343063 | [343063-space-attack.json](./343063-space-attack.json) |
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
@@ -630,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
 | Spooky Driving | 351471 | [351471-spooky-driving.json](./351471-spooky-driving.json) |
+| Spooky Express | 343116 | [343116-spooky-express.json](./343116-spooky-express.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spooky Spins Deluxe | 368849 | [368849-spooky-spins-deluxe.json](./368849-spooky-spins-deluxe.json) |
 | Sport Animals | 365522 | [365522-sport-animals.json](./365522-sport-animals.json) |
@@ -743,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep: Road to the Olympics | 37078 | [37078-steep-road-to-the-olympics.json](./37078-steep-road-to-the-olympics.json) |
 | Steins;??? | 412150 | [412150-steins.json](./412150-steins.json) |
 | Steins;Gate Re:Boot - Limited Edition | 400760 | [400760-steins-gate-re-boot-limited-edition.json](./400760-steins-gate-re-boot-limited-edition.json) |
+| Stella Story | 343093 | [343093-stella-story.json](./343093-stella-story.json) |
 | Stellar Dawn: Survivor | 387196 | [387196-stellar-dawn-survivor.json](./387196-stellar-dawn-survivor.json) |
 | Stellar Nemesis | 373935 | [373935-stellar-nemesis.json](./373935-stellar-nemesis.json) |
 | Stellifier: The Comeback | 372866 | [372866-stellifier-the-comeback.json](./372866-stellifier-the-comeback.json) |
@@ -789,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Strato Freaks DX | 368317 | [368317-strato-freaks-dx.json](./368317-strato-freaks-dx.json) |
 | Strawberry Smoothie | 345861 | [345861-strawberry-smoothie.json](./345861-strawberry-smoothie.json) |
+| Stray Savior | 343079 | [343079-stray-savior.json](./343079-stray-savior.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
 | Streaming On! VTuber Training | 382024 | [382024-streaming-on-vtuber-training.json](./382024-streaming-on-vtuber-training.json) |
@@ -968,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: The Actionscript Adventure | 344203 | [344203-superman-the-actionscript-adventure.json](./344203-superman-the-actionscript-adventure.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
 | Supermarket Manager 2025 | 350834 | [350834-supermarket-manager-2025.json](./350834-supermarket-manager-2025.json) |
+| Supersonic Dogfighters | 343065 | [343065-supersonic-dogfighters.json](./343065-supersonic-dogfighters.json) |
 | Superspective | 344772 | [344772-superspective.json](./344772-superspective.json) |
 | SuperStar: The Boyz | 388578 | [388578-superstar-the-boyz.json](./388578-superstar-the-boyz.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
