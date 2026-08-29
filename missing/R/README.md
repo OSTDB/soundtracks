@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Types | 22892 | [22892-r-types.json](./22892-r-types.json) |
 | R.A.W: Realms of Ancient War | 10753 | [10753-r-a-w-realms-of-ancient-war.json](./10753-r-a-w-realms-of-ancient-war.json) |
 | R.E.C | 397556 | [397556-r-e-c.json](./397556-r-e-c.json) |
+| R.E.P.A. Operation | 344740 | [344740-r-e-p-a-operation.json](./344740-r-e-p-a-operation.json) |
 | R.I.P.: Reincarnation Insurance Program | 372865 | [372865-r-i-p-reincarnation-insurance-program.json](./372865-r-i-p-reincarnation-insurance-program.json) |
 | R.I.P.D.: The Game | 16525 | [16525-r-i-p-d-the-game.json](./16525-r-i-p-d-the-game.json) |
 | R.U.S.E. | 1378 | [1378-r-u-s-e.json](./1378-r-u-s-e.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radica Bass Fishin' | 375621 | [375621-radica-bass-fishin.json](./375621-radica-bass-fishin.json) |
 | Radio Ghosts | 346418 | [346418-radio-ghosts.json](./346418-radio-ghosts.json) |
 | Radioactive | 346966 | [346966-radioactive.json](./346966-radioactive.json) |
+| Radioactive | 344756 | [344756-radioactive.json](./344756-radioactive.json) |
 | Radiotext | 392040 | [392040-radiotext.json](./392040-radiotext.json) |
 | RadioWave: Black Signal | 371719 | [371719-radiowave-black-signal.json](./371719-radiowave-black-signal.json) |
 | Raft Survival | 95859 | [95859-raft-survival.json](./95859-raft-survival.json) |
@@ -346,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rostov | 379754 | [379754-rostov.json](./379754-rostov.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Rotten Heart of Yours | 357058 | [357058-rotten-heart-of-yours.json](./357058-rotten-heart-of-yours.json) |
+| Rotten Sails | 344771 | [344771-rotten-sails.json](./344771-rotten-sails.json) |
 | Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
 | Rouletum | 348614 | [348614-rouletum.json](./348614-rouletum.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
