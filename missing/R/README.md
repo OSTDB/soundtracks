@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor: Salvation | 364318 | [364318-razor-salvation.json](./364318-razor-salvation.json) |
 | Razortron 2000 | 31025 | [31025-razortron-2000.json](./31025-razortron-2000.json) |
 | RD Racing | 390970 | [390970-rd-racing.json](./390970-rd-racing.json) |
+| Re-body | 357056 | [357056-re-body.json](./357056-re-body.json) |
 | Re: GSpot Master | 382062 | [382062-re-gspot-master.json](./382062-re-gspot-master.json) |
 | Re:Re:Ghosted | 401433 | [401433-re-re-ghosted.json](./401433-re-re-ghosted.json) |
 | Reach for the Sun | 16635 | [16635-reach-for-the-sun.json](./16635-reach-for-the-sun.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope | 391508 | [391508-rope.json](./391508-rope.json) |
 | Rostov | 379754 | [379754-rostov.json](./379754-rostov.json) |
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
+| Rotten Heart of Yours | 357058 | [357058-rotten-heart-of-yours.json](./357058-rotten-heart-of-yours.json) |
 | Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
