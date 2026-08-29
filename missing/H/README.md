@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hackmud | 24441 | [24441-hackmud.json](./24441-hackmud.json) |
 | HackSociety | 388595 | [388595-hacksociety.json](./388595-hacksociety.json) |
 | Haiku, the Robot | 132565 | [132565-haiku-the-robot.json](./132565-haiku-the-robot.json) |
+| Hairy Eyeballs. | 346990 | [346990-hairy-eyeballs.json](./346990-hairy-eyeballs.json) |
 | Hairy Little Buggers | 34381 | [34381-hairy-little-buggers.json](./34381-hairy-little-buggers.json) |
 | Hajimari ha Owari to Tomo ni...: Beginning is the End... | 396806 | [396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json](./396806-hajimari-ha-owari-to-tomo-ni-beginning-is-the-end.json) |
 | Half Past Fate | 116001 | [116001-half-past-fate.json](./116001-half-past-fate.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry: The Good, The Bad and The Bugly | 402781 | [402781-horrid-henry-the-good-the-bad-and-the-bugly.json](./402781-horrid-henry-the-good-the-bad-and-the-bugly.json) |
 | Horror Fish Simulator | 96127 | [96127-horror-fish-simulator.json](./96127-horror-fish-simulator.json) |
 | Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
+| Horror House | 346977 | [346977-horror-house.json](./346977-horror-house.json) |
 | Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
 | Horse Paradise: My Dream Ranch | 76693 | [76693-horse-paradise-my-dream-ranch.json](./76693-horse-paradise-my-dream-ranch.json) |
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
