@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer is Dead: Nightmare Edition | 23353 | [23353-killer-is-dead-nightmare-edition.json](./23353-killer-is-dead-nightmare-edition.json) |
 | Killzone: Mercenary | 1869 | [1869-killzone-mercenary.json](./1869-killzone-mercenary.json) |
 | Kilnborn | 414213 | [414213-kilnborn.json](./414213-kilnborn.json) |
+| Kiloton: Black Company | 350255 | [350255-kiloton-black-company.json](./350255-kiloton-black-company.json) |
 | Kim Kardashian: Hollywood | 18058 | [18058-kim-kardashian-hollywood.json](./18058-kim-kardashian-hollywood.json) |
 | Kin and Quarry | 366664 | [366664-kin-and-quarry.json](./366664-kin-and-quarry.json) |
 | Kindling | 366672 | [366672-kindling.json](./366672-kindling.json) |
