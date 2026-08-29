@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herb's Homegrown Havoc | 408634 | [408634-herbs-homegrown-havoc.json](./408634-herbs-homegrown-havoc.json) |
 | Herc's Adventures | 45506 | [45506-hercs-adventures.json](./45506-hercs-adventures.json) |
 | Heretic's Fork | 223462 | [223462-heretics-fork.json](./223462-heretics-fork.json) |
+| Hermit | 349126 | [349126-hermit.json](./349126-hermit.json) |
 | Hero Academy | 15293 | [15293-hero-academy.json](./15293-hero-academy.json) |
 | Hero's Quest: So You Want to Be a Hero | 1893 | [1893-heros-quest-so-you-want-to-be-a-hero.json](./1893-heros-quest-so-you-want-to-be-a-hero.json) |
 | Heroes of Hellas 3: Athens | 35810 | [35810-heroes-of-hellas-3-athens.json](./35810-heroes-of-hellas-3-athens.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntin' Buddies | 397532 | [397532-huntin-buddies.json](./397532-huntin-buddies.json) |
 | Hunting Unlimited 2008 | 14863 | [14863-hunting-unlimited-2008.json](./14863-hunting-unlimited-2008.json) |
 | Hunting USA | 89490 | [89490-hunting-usa.json](./89490-hunting-usa.json) |
+| Hurry Chef | 349163 | [349163-hurry-chef.json](./349163-hurry-chef.json) |
 | Hushed | 397559 | [397559-hushed.json](./397559-hushed.json) |
 | Hustle Kings | 52232 | [52232-hustle-kings.json](./52232-hustle-kings.json) |
 | HVS: Hitler vs Stalin - Battle Of Moscow | 389282 | [389282-hvs-hitler-vs-stalin-battle-of-moscow.json](./389282-hvs-hitler-vs-stalin-battle-of-moscow.json) |
@@ -339,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Paddle | 351477 | [351477-hyper-paddle.json](./351477-hyper-paddle.json) |
 | Hyper Rollergirl | 395398 | [395398-hyper-rollergirl.json](./395398-hyper-rollergirl.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
+| Hyperdrive | 349132 | [349132-hyperdrive.json](./349132-hyperdrive.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
 | Hypernet Explorer | 381465 | [381465-hypernet-explorer.json](./381465-hypernet-explorer.json) |
 | HyperNova: Escape from Hadea | 47168 | [47168-hypernova-escape-from-hadea.json](./47168-hypernova-escape-from-hadea.json) |
