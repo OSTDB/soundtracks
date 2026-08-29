@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
 | Dark Hero Party | 115867 | [115867-dark-hero-party.json](./115867-dark-hero-party.json) |
 | Dark Horizons: Mechanized Corps | 16890 | [16890-dark-horizons-mechanized-corps.json](./16890-dark-horizons-mechanized-corps.json) |
+| Dark Magic | 357044 | [357044-dark-magic.json](./357044-dark-magic.json) |
 | Dark Matter | 16668 | [16668-dark-matter.json](./16668-dark-matter.json) |
 | Dark Parables: Curse of Briar Rose - Collector's Edition | 31425 | [31425-dark-parables-curse-of-briar-rose-collectors-edition.json](./31425-dark-parables-curse-of-briar-rose-collectors-edition.json) |
 | Dark Ride: The Feline Fix | 375675 | [375675-dark-ride-the-feline-fix.json](./375675-dark-ride-the-feline-fix.json) |
@@ -539,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Forest | 358698 | [358698-dream-forest.json](./358698-dream-forest.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
+| Dream Of | 357092 | [357092-dream-of.json](./357092-dream-of.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
 | Dream Strikers | 364888 | [364888-dream-strikers.json](./364888-dream-strikers.json) |
@@ -570,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
+| Drone District | 357084 | [357084-drone-district.json](./357084-drone-district.json) |
 | Drone Wars | 380292 | [380292-drone-wars.json](./380292-drone-wars.json) |
 | Drones Drop Bombs | 388634 | [388634-drones-drop-bombs.json](./388634-drones-drop-bombs.json) |
 | Drop Duchy: Complete Edition | 386593 | [386593-drop-duchy-complete-edition.json](./386593-drop-duchy-complete-edition.json) |
@@ -625,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonery | 400137 | [400137-dungeonery.json](./400137-dungeonery.json) |
 | Dungeons & Donuts | 412163 | [412163-dungeons-and-donuts.json](./412163-dungeons-and-donuts.json) |
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
+| Dungeons & Dragons: Dragonshard | 357070 | [357070-dungeons-and-dragons-dragonshard.json](./357070-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
 | Dungeons of Dredmor | 6743 | [6743-dungeons-of-dredmor.json](./6743-dungeons-of-dredmor.json) |
 | Dungeons of Hinterberg | 146917 | [146917-dungeons-of-hinterberg.json](./146917-dungeons-of-hinterberg.json) |
