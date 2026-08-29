@@ -181,10 +181,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne Mobile | 86868 | [86868-max-payne-mobile.json](./86868-max-payne-mobile.json) |
 | Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
 | Mayday | 378053 | [378053-mayday.json](./378053-mayday.json) |
+| Mayday Trials | 350258 | [350258-mayday-trials.json](./350258-mayday-trials.json) |
 | Mayhem Intergalactic | 14919 | [14919-mayhem-intergalactic.json](./14919-mayhem-intergalactic.json) |
 | Mayro's Heart Throbbing Adventure Wii Ultimate | 394013 | [394013-mayros-heart-throbbing-adventure-wii-ultimate.json](./394013-mayros-heart-throbbing-adventure-wii-ultimate.json) |
 | Maze Adventure | 372844 | [372844-maze-adventure.json](./372844-maze-adventure.json) |
 | Maze Infinite Puzzle | 366071 | [366071-maze-infinite-puzzle.json](./366071-maze-infinite-puzzle.json) |
+| Maze of Perdition | 350287 | [350287-maze-of-perdition.json](./350287-maze-of-perdition.json) |
 | Maze Planet 3D | 95866 | [95866-maze-planet-3d.json](./95866-maze-planet-3d.json) |
 | Mazino | 384385 | [384385-mazino.json](./384385-mazino.json) |
 | Mazzy | 364919 | [364919-mazzy.json](./364919-mazzy.json) |
@@ -520,10 +522,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mòlù Xījì | 368854 | [368854-molu-xiji.json](./368854-molu-xiji.json) |
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
+| Mommy’s Slipper | 350245 | [350245-mommy-s-slipper.json](./350245-mommy-s-slipper.json) |
 | Momoka (wo) Wasshoi | 367224 | [367224-momoka-wo-wasshoi.json](./367224-momoka-wo-wasshoi.json) |
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
 | Monarch | 353672 | [353672-monarch.json](./353672-monarch.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
+| Money Theft 2: Heist | 350235 | [350235-money-theft-2-heist.json](./350235-money-theft-2-heist.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | MoneyFalls: Coin Pusher Simulator | 386608 | [386608-moneyfalls-coin-pusher-simulator.json](./386608-moneyfalls-coin-pusher-simulator.json) |
 | Monkaroon | 383812 | [383812-monkaroon.json](./383812-monkaroon.json) |
