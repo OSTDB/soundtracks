@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenJK | 357052 | [357052-openjk.json](./357052-openjk.json) |
 | OpenPete | 413542 | [413542-openpete.json](./413542-openpete.json) |
 | OpenQuacks | 398229 | [398229-openquacks.json](./398229-openquacks.json) |
+| Operation D-DAY: One Second of War | 346945 | [346945-operation-d-day-one-second-of-war.json](./346945-operation-d-day-one-second-of-war.json) |
 | Operation Thunderstorm | 8344 | [8344-operation-thunderstorm.json](./8344-operation-thunderstorm.json) |
 | Operation Warcade VR | 36826 | [36826-operation-warcade-vr.json](./36826-operation-warcade-vr.json) |
 | Opoona | 5087 | [5087-opoona.json](./5087-opoona.json) |
