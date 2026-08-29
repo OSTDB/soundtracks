@@ -683,9 +683,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Striker | 381456 | [381456-star-striker.json](./381456-star-striker.json) |
 | Star Titans: War of the Galaxy | 373386 | [373386-star-titans-war-of-the-galaxy.json](./373386-star-titans-war-of-the-galaxy.json) |
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
+| Star Trek Legends: Enemies & Allies Content Pack | 343675 | [343675-star-trek-legends-enemies-and-allies-content-pack.json](./343675-star-trek-legends-enemies-and-allies-content-pack.json) |
 | Star Trek: Infection | 362076 | [362076-star-trek-infection.json](./362076-star-trek-infection.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
 | Star Wars Battlefront II: Remaster | 356461 | [356461-star-wars-battlefront-ii-remaster.json](./356461-star-wars-battlefront-ii-remaster.json) |
+| Star Wars Outlaws: Desert Nomad Bundle | 343663 | [343663-star-wars-outlaws-desert-nomad-bundle.json](./343663-star-wars-outlaws-desert-nomad-bundle.json) |
+| Star Wars Outlaws: Naboo Nobility Bundle | 343661 | [343661-star-wars-outlaws-naboo-nobility-bundle.json](./343661-star-wars-outlaws-naboo-nobility-bundle.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
 | Star Wars: Episode I - Racer | 167641 | [167641-star-wars-episode-i-racer.json](./167641-star-wars-episode-i-racer.json) |
 | Star Wars: Jedi Arena | 10203 | [10203-star-wars-jedi-arena.json](./10203-star-wars-jedi-arena.json) |
