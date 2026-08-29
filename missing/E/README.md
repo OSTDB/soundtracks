@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs for You | 395432 | [395432-eggs-for-you.json](./395432-eggs-for-you.json) |
 | Eggscape | 412139 | [412139-eggscape.json](./412139-eggscape.json) |
 | Egress | 86496 | [86496-egress.json](./86496-egress.json) |
+| Egypt Solitaire | 343628 | [343628-egypt-solitaire.json](./343628-egypt-solitaire.json) |
 | Eiga Sumikko Gurashi Sora no Oukoku to Futari no ko Asobou Chara Cross | 369420 | [369420-eiga-sumikko-gurashi-sora-no-oukoku-to-futari-no-ko-asobou-chara-cross.json](./369420-eiga-sumikko-gurashi-sora-no-oukoku-to-futari-no-ko-asobou-chara-cross.json) |
 | Eight Dragons | 86429 | [86429-eight-dragons.json](./86429-eight-dragons.json) |
 | Eight Strange Corridors | 376341 | [376341-eight-strange-corridors.json](./376341-eight-strange-corridors.json) |
