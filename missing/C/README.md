@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collect All These Stones! | 410768 | [410768-collect-all-these-stones.json](./410768-collect-all-these-stones.json) |
 | College Football Trivia | 87604 | [87604-college-football-trivia.json](./87604-college-football-trivia.json) |
 | College Hoops 2K8 | 6941 | [6941-college-hoops-2k8.json](./6941-college-hoops-2k8.json) |
+| Collosseum Heroes | 344222 | [344222-collosseum-heroes.json](./344222-collosseum-heroes.json) |
 | Colony Cephea | 367781 | [367781-colony-cephea.json](./367781-colony-cephea.json) |
 | Color a Dinosaur | 8202 | [8202-color-a-dinosaur.json](./8202-color-a-dinosaur.json) |
 | Color Beatz | 87627 | [87627-color-beatz.json](./87627-color-beatz.json) |
