@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced PET: Battle Chip - Triple Crack | 353124 | [353124-advanced-pet-battle-chip-triple-crack.json](./353124-advanced-pet-battle-chip-triple-crack.json) |
 | Advanced PET: Battle Chip - Waraningyou | 353127 | [353127-advanced-pet-battle-chip-waraningyou.json](./353127-advanced-pet-battle-chip-waraningyou.json) |
 | Advanced PET: Battle Chip - White Web 3 | 353117 | [353117-advanced-pet-battle-chip-white-web-3.json](./353117-advanced-pet-battle-chip-white-web-3.json) |
+| Adventure Awaits in The Secret of the Golden Key | 343676 | [343676-adventure-awaits-in-the-secret-of-the-golden-key.json](./343676-adventure-awaits-in-the-secret-of-the-golden-key.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Protocol | 373933 | [373933-anomaly-protocol.json](./373933-anomaly-protocol.json) |
 | Another Code: Recollection | 266679 | [266679-another-code-recollection.json](./266679-another-code-recollection.json) |
 | Another Day of My Life | 372857 | [372857-another-day-of-my-life.json](./372857-another-day-of-my-life.json) |
+| Another World for GP32 | 343678 | [343678-another-world-for-gp32.json](./343678-another-world-for-gp32.json) |
 | Ant War: Domination | 34395 | [34395-ant-war-domination.json](./34395-ant-war-domination.json) |
 | Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Antigraviator | 76566 | [76566-antigraviator.json](./76566-antigraviator.json) |
