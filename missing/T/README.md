@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Shooter | 26556 | [26556-trouble-shooter.json](./26556-trouble-shooter.json) |
 | Trouble Witches Origin: Episode1 Daughters of Amalgam | 33066 | [33066-trouble-witches-origin-episode1-daughters-of-amalgam.json](./33066-trouble-witches-origin-episode1-daughters-of-amalgam.json) |
 | Trover Saves the Universe | 103331 | [103331-trover-saves-the-universe.json](./103331-trover-saves-the-universe.json) |
+| Truck / Real Car Driving / Offroad / Motorcycle / Demolish Derby Bundle | 342469 | [342469-truck-real-car-driving-offroad-motorcycle-demolish-derby-bundle.json](./342469-truck-real-car-driving-offroad-motorcycle-demolish-derby-bundle.json) |
 | Truck Clash Duel | 403495 | [403495-truck-clash-duel.json](./403495-truck-clash-duel.json) |
 | Truck Driver's License | 401437 | [401437-truck-drivers-license.json](./401437-truck-drivers-license.json) |
 | Truck Parking World | 366058 | [366058-truck-parking-world.json](./366058-truck-parking-world.json) |
