@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.E.L.D.E.R. | 64546 | [64546-w-e-l-d-e-r.json](./64546-w-e-l-d-e-r.json) |
 | W3dge | 355912 | [355912-w3dge.json](./355912-w3dge.json) |
 | Wabisabi SushiDerby | 379249 | [379249-wabisabi-sushiderby.json](./379249-wabisabi-sushiderby.json) |
+| Wacky Run | 354838 | [354838-wacky-run.json](./354838-wacky-run.json) |
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
 | Waffle Games: A Lethal Room Experience | 360379 | [360379-waffle-games-a-lethal-room-experience.json](./360379-waffle-games-a-lethal-room-experience.json) |
 | Wai Wai 3-nin Uchi Mahjong | 394050 | [394050-wai-wai-3-nin-uchi-mahjong.json](./394050-wai-wai-3-nin-uchi-mahjong.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
+| Warzone | 354851 | [354851-warzone.json](./354851-warzone.json) |
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
 | Wasteland Shop Simulator | 374494 | [374494-wasteland-shop-simulator.json](./374494-wasteland-shop-simulator.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
@@ -148,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Do Voodoo | 374469 | [374469-who-do-voodoo.json](./374469-who-do-voodoo.json) |
 | Who is Here? | 394736 | [394736-who-is-here.json](./394736-who-is-here.json) |
 | Who the Hell Opened the Portal?! | 383837 | [383837-who-the-hell-opened-the-portal.json](./383837-who-the-hell-opened-the-portal.json) |
+| Who Trained the Hero?: Spin of Fate | 354848 | [354848-who-trained-the-hero-spin-of-fate.json](./354848-who-trained-the-hero-spin-of-fate.json) |
 | Who Wants to Be a Millionaire: 3rd Edition | 43909 | [43909-who-wants-to-be-a-millionaire-3rd-edition.json](./43909-who-wants-to-be-a-millionaire-3rd-edition.json) |
 | Who Wants to Be an Ultimate? Retake | 399525 | [399525-who-wants-to-be-an-ultimate-retake.json](./399525-who-wants-to-be-an-ultimate-retake.json) |
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
@@ -221,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Block Puzzle Game | 87653 | [87653-wooden-block-puzzle-game.json](./87653-wooden-block-puzzle-game.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
 | Woodland Warriors | 383214 | [383214-woodland-warriors.json](./383214-woodland-warriors.json) |
+| Woogi World | 354872 | [354872-woogi-world.json](./354872-woogi-world.json) |
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Puzzle - Connect words | 87603 | [87603-word-puzzle-connect-words.json](./87603-word-puzzle-connect-words.json) |
 | Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
