@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guard Sex: Episode 4 | 371069 | [371069-security-guard-sex-episode-4.json](./371069-security-guard-sex-episode-4.json) |
 | Security Guard Sex: Episode 5 | 371076 | [371076-security-guard-sex-episode-5.json](./371076-security-guard-sex-episode-5.json) |
 | Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
+| Sediment | 357045 | [357045-sediment.json](./357045-sediment.json) |
 | Seduce Me 2: The Demon War | 33008 | [33008-seduce-me-2-the-demon-war.json](./33008-seduce-me-2-the-demon-war.json) |
 | Seduction | 46474 | [46474-seduction.json](./46474-seduction.json) |
 | See the Sky | 414972 | [414972-see-the-sky.json](./414972-see-the-sky.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowverse: Worlds Beyond - Skybound Dragons | 376300 | [376300-shadowverse-worlds-beyond-skybound-dragons.json](./376300-shadowverse-worlds-beyond-skybound-dragons.json) |
 | Shai’s Gambit | 391491 | [391491-shai-s-gambit.json](./391491-shai-s-gambit.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
+| Shallow Pond | 357064 | [357064-shallow-pond.json](./357064-shallow-pond.json) |
 | Shanghai Rummy | 101648 | [101648-shanghai-rummy.json](./101648-shanghai-rummy.json) |
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shantae Advance: Risky Revolution Deluxe Edition | 360957 | [360957-shantae-advance-risky-revolution-deluxe-edition.json](./360957-shantae-advance-risky-revolution-deluxe-edition.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile and Play | 405991 | [405991-smile-and-play.json](./405991-smile-and-play.json) |
 | Smile Your Day | 414969 | [414969-smile-your-day.json](./414969-smile-your-day.json) |
 | Smithsonian: Digging For Dinosaurs | 414240 | [414240-smithsonian-digging-for-dinosaurs.json](./414240-smithsonian-digging-for-dinosaurs.json) |
+| Smoke Shop Simulator | 357049 | [357049-smoke-shop-simulator.json](./357049-smoke-shop-simulator.json) |
 | Smoke Town | 406019 | [406019-smoke-town.json](./406019-smoke-town.json) |
 | Smoq Games 26 | 396052 | [396052-smoq-games-26.json](./396052-smoq-games-26.json) |
 | Snail Trail | 359238 | [359238-snail-trail.json](./359238-snail-trail.json) |
@@ -533,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedX 3D: Hyper Edition | 47688 | [47688-speedx-3d-hyper-edition.json](./47688-speedx-3d-hyper-edition.json) |
 | Speedy Bundle Speedway & Grand Prix | 412119 | [412119-speedy-bundle-speedway-and-grand-prix.json](./412119-speedy-bundle-speedway-and-grand-prix.json) |
 | Spellbound | 32972 | [32972-spellbound.json](./32972-spellbound.json) |
+| SpellCutter | 357071 | [357071-spellcutter.json](./357071-spellcutter.json) |
 | SpellForce III: Reforced | 170263 | [170263-spellforce-iii-reforced.json](./170263-spellforce-iii-reforced.json) |
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
@@ -795,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunlit Journey | 397579 | [397579-sunlit-journey.json](./397579-sunlit-journey.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Sunset Satellite | 364299 | [364299-sunset-satellite.json](./364299-sunset-satellite.json) |
+| Sunset Suckerpunch | 357079 | [357079-sunset-suckerpunch.json](./357079-sunset-suckerpunch.json) |
 | Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
 | Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
