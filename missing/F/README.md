@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farthest Frontier: Cats and Dogs | 400113 | [400113-farthest-frontier-cats-and-dogs.json](./400113-farthest-frontier-cats-and-dogs.json) |
 | Fascist | 406612 | [406612-fascist.json](./406612-fascist.json) |
 | Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
+| Fast Break | 344752 | [344752-fast-break.json](./344752-fast-break.json) |
 | Fast Food Master 2025 | 390968 | [390968-fast-food-master-2025.json](./390968-fast-food-master-2025.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fast Racing League | 14890 | [14890-fast-racing-league.json](./14890-fast-racing-league.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish3: First Catch | 373368 | [373368-fish3-first-catch.json](./373368-fish3-first-catch.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
+| Fishing | 344784 | [344784-fishing.json](./344784-fishing.json) |
 | Fishing Friends 3D | 357649 | [357649-fishing-friends-3d.json](./357649-fishing-friends-3d.json) |
 | Fishing Master | 400772 | [400772-fishing-master.json](./400772-fishing-master.json) |
 | Fishing Planet: Bottom Power Pack | 376290 | [376290-fishing-planet-bottom-power-pack.json](./376290-fishing-planet-bottom-power-pack.json) |
