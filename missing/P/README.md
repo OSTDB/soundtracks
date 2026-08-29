@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
+| Parallel Convergence | 353677 | [353677-parallel-convergence.json](./353677-parallel-convergence.json) |
 | Paranoia! | 375670 | [375670-paranoia.json](./375670-paranoia.json) |
 | Paranoid | 411482 | [411482-paranoid.json](./411482-paranoid.json) |
 | Paranoize | 402765 | [402765-paranoize.json](./402765-paranoize.json) |
@@ -237,6 +238,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Tycoon | 396799 | [396799-pilot-tycoon.json](./396799-pilot-tycoon.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
 | Pin Money | 406020 | [406020-pin-money.json](./406020-pin-money.json) |
+| Pinball Arcade: Attack from Mars | 353688 | [353688-pinball-arcade-attack-from-mars.json](./353688-pinball-arcade-attack-from-mars.json) |
+| Pinball Arcade: Big Shot | 353687 | [353687-pinball-arcade-big-shot.json](./353687-pinball-arcade-big-shot.json) |
+| Pinball Arcade: Black Knight | 353685 | [353685-pinball-arcade-black-knight.json](./353685-pinball-arcade-black-knight.json) |
+| Pinball Arcade: Black Rose | 353703 | [353703-pinball-arcade-black-rose.json](./353703-pinball-arcade-black-rose.json) |
+| Pinball Arcade: Centaur | 353694 | [353694-pinball-arcade-centaur.json](./353694-pinball-arcade-centaur.json) |
+| Pinball Arcade: Central Park | 353693 | [353693-pinball-arcade-central-park.json](./353693-pinball-arcade-central-park.json) |
+| Pinball Arcade: Cyclone | 353707 | [353707-pinball-arcade-cyclone.json](./353707-pinball-arcade-cyclone.json) |
+| Pinball Arcade: Dr. Dude and His Excellent Ray | 353690 | [353690-pinball-arcade-dr-dude-and-his-excellent-ray.json](./353690-pinball-arcade-dr-dude-and-his-excellent-ray.json) |
+| Pinball Arcade: El Dorado | 353712 | [353712-pinball-arcade-el-dorado.json](./353712-pinball-arcade-el-dorado.json) |
+| Pinball Arcade: El Dorado - City Of Gold | 353701 | [353701-pinball-arcade-el-dorado-city-of-gold.json](./353701-pinball-arcade-el-dorado-city-of-gold.json) |
+| Pinball Arcade: Elvira and the Party Monsters | 353686 | [353686-pinball-arcade-elvira-and-the-party-monsters.json](./353686-pinball-arcade-elvira-and-the-party-monsters.json) |
+| Pinball Arcade: Fireball | 353711 | [353711-pinball-arcade-fireball.json](./353711-pinball-arcade-fireball.json) |
+| Pinball Arcade: Firepower | 353692 | [353692-pinball-arcade-firepower.json](./353692-pinball-arcade-firepower.json) |
+| Pinball Arcade: FunHouse | 353684 | [353684-pinball-arcade-funhouse.json](./353684-pinball-arcade-funhouse.json) |
+| Pinball Arcade: Genie | 353689 | [353689-pinball-arcade-genie.json](./353689-pinball-arcade-genie.json) |
+| Pinball Arcade: Haunted House | 353700 | [353700-pinball-arcade-haunted-house.json](./353700-pinball-arcade-haunted-house.json) |
+| Pinball Arcade: Jack-Bot | 353709 | [353709-pinball-arcade-jack-bot.json](./353709-pinball-arcade-jack-bot.json) |
+| Pinball Arcade: Lights Camera Action! | 353705 | [353705-pinball-arcade-lights-camera-action.json](./353705-pinball-arcade-lights-camera-action.json) |
+| Pinball Arcade: Medieval Madness | 353682 | [353682-pinball-arcade-medieval-madness.json](./353682-pinball-arcade-medieval-madness.json) |
+| Pinball Arcade: Pin-Bot | 353695 | [353695-pinball-arcade-pin-bot.json](./353695-pinball-arcade-pin-bot.json) |
+| Pinball Arcade: The Champion Pub | 353696 | [353696-pinball-arcade-the-champion-pub.json](./353696-pinball-arcade-the-champion-pub.json) |
+| Pinball Arcade: The Machine - Bride of Pin-Bot️ | 353683 | [353683-pinball-arcade-the-machine-bride-of-pin-bot.json](./353683-pinball-arcade-the-machine-bride-of-pin-bot.json) |
+| Pinball Arcade: The Party Zone | 353706 | [353706-pinball-arcade-the-party-zone.json](./353706-pinball-arcade-the-party-zone.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball Garden | 389888 | [389888-pinball-garden.json](./389888-pinball-garden.json) |
@@ -297,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Work | 364325 | [364325-planet-work.json](./364325-planet-work.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | Planetary Inc. | 389907 | [389907-planetary-inc.json](./389907-planetary-inc.json) |
+| Planetary Sim | 353661 | [353661-planetary-sim.json](./353661-planetary-sim.json) |
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
 | Platera | 389327 | [389327-platera.json](./389327-platera.json) |
@@ -388,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pops | 414962 | [414962-pops.json](./414962-pops.json) |
 | PopStar Guitar | 5104 | [5104-popstar-guitar.json](./5104-popstar-guitar.json) |
 | Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
+| Populous | 353710 | [353710-populous.json](./353710-populous.json) |
 | Pork 2: The Gizzard of Showbiz | 381473 | [381473-pork-2-the-gizzard-of-showbiz.json](./381473-pork-2-the-gizzard-of-showbiz.json) |
 | Portal 2: The Courtesy Call | 359840 | [359840-portal-2-the-courtesy-call.json](./359840-portal-2-the-courtesy-call.json) |
 | Ports of Call | 25564 | [25564-ports-of-call.json](./25564-ports-of-call.json) |
