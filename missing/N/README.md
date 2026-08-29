@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia Game Maker R:Evolution - Day One Edition | 279222 | [279222-neptunia-game-maker-r-evolution-day-one-edition.json](./279222-neptunia-game-maker-r-evolution-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters | 182403 | [182403-neptunia-sisters-vs-sisters.json](./182403-neptunia-sisters-vs-sisters.json) |
 | Nest of Dust | 383801 | [383801-nest-of-dust.json](./383801-nest-of-dust.json) |
+| Net Power | 358701 | [358701-net-power.json](./358701-net-power.json) |
 | Netbreak | 371723 | [371723-netbreak.json](./371723-netbreak.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
