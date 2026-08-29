@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
 | Nether's Delight | 348608 | [348608-nethers-delight.json](./348608-nethers-delight.json) |
 | Netherwake | 349703 | [349703-netherwake.json](./349703-netherwake.json) |
+| Netoff | 345860 | [345860-netoff.json](./345860-netoff.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
 | Never's End | 346954 | [346954-nevers-end.json](./346954-nevers-end.json) |
