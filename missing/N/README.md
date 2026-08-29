@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Fishing Tournament 2D | 365491 | [365491-nightmare-fishing-tournament-2d.json](./365491-nightmare-fishing-tournament-2d.json) |
 | Nightmare Kart | 295664 | [295664-nightmare-kart.json](./295664-nightmare-kart.json) |
+| Nightmare Mario Wii | 350823 | [350823-nightmare-mario-wii.json](./350823-nightmare-mario-wii.json) |
 | Nightpark Journal | 379219 | [379219-nightpark-journal.json](./379219-nightpark-journal.json) |
 | NightRunner | 414201 | [414201-nightrunner.json](./414201-nightrunner.json) |
 | Nights of Azure 2: Bride of the New Moon | 25636 | [25636-nights-of-azure-2-bride-of-the-new-moon.json](./25636-nights-of-azure-2-bride-of-the-new-moon.json) |
