@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Strike | 362102 | [362102-lunar-strike.json](./362102-lunar-strike.json) |
 | Lunar Tide | 384934 | [384934-lunar-tide.json](./384934-lunar-tide.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
+| Lunatix | 347540 | [347540-lunatix.json](./347540-lunatix.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Lure Of Passion | 383798 | [383798-lure-of-passion.json](./383798-lure-of-passion.json) |
 | Lured In | 395423 | [395423-lured-in.json](./395423-lured-in.json) |
