@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Lurker: You are going to have to work for these nuts | 102132 | [102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json](./102132-achievement-lurker-you-are-going-to-have-to-work-for-these-nuts.json) |
 | Achivement Maze 1 | 410122 | [410122-achivement-maze-1.json](./410122-achivement-maze-1.json) |
 | Acid Bunny | 389326 | [389326-acid-bunny.json](./389326-acid-bunny.json) |
+| Acornia of the Stars | 348069 | [348069-acornia-of-the-stars.json](./348069-acornia-of-the-stars.json) |
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Acrogorpon | 377478 | [377478-acrogorpon.json](./377478-acrogorpon.json) |
 | Acropalypse | 349705 | [349705-acropalypse.json](./349705-acropalypse.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act of War: High Treason | 9339 | [9339-act-of-war-high-treason.json](./9339-act-of-war-high-treason.json) |
 | Action Clicker | 377480 | [377480-action-clicker.json](./377480-action-clicker.json) |
 | Action Deka | 378030 | [378030-action-deka.json](./378030-action-deka.json) |
+| Action Game Course | 348053 | [348053-action-game-course.json](./348053-action-game-course.json) |
 | Active Life: Extreme Challenge | 4660 | [4660-active-life-extreme-challenge.json](./4660-active-life-extreme-challenge.json) |
 | Activision Collection 3 | 412823 | [412823-activision-collection-3.json](./412823-activision-collection-3.json) |
 | Actraiser Renaissance | 172430 | [172430-actraiser-renaissance.json](./172430-actraiser-renaissance.json) |
@@ -486,6 +488,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Origins - Gold Edition | 39044 | [39044-assassins-creed-origins-gold-edition.json](./39044-assassins-creed-origins-gold-edition.json) |
 | Assault Wing 3 | 414257 | [414257-assault-wing-3.json](./414257-assault-wing-3.json) |
 | Asteranova | 412131 | [412131-asteranova.json](./412131-asteranova.json) |
+| Asterix & Obelix: Searching for the Black Gold | 348105 | [348105-asterix-and-obelix-searching-for-the-black-gold.json](./348105-asterix-and-obelix-searching-for-the-black-gold.json) |
+| Asterix: Total Retaliation | 348098 | [348098-asterix-total-retaliation.json](./348098-asterix-total-retaliation.json) |
 | Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astral Wizard Orb | 381418 | [381418-astral-wizard-orb.json](./381418-astral-wizard-orb.json) |
