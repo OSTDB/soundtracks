@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | G-LOC: Air Battle | 363241 | [363241-g-loc-air-battle.json](./363241-g-loc-air-battle.json) |
+| G-Switch | 348089 | [348089-g-switch.json](./348089-g-switch.json) |
 | G.O.D. Global Orbital Defense | 404158 | [404158-g-o-d-global-orbital-defense.json](./404158-g-o-d-global-orbital-defense.json) |
 | Gabby's Odyssey | 395435 | [395435-gabbys-odyssey.json](./395435-gabbys-odyssey.json) |
 | Gacha Story | 375663 | [375663-gacha-story.json](./375663-gacha-story.json) |
@@ -30,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Creator 2 | 353681 | [353681-game-creator-2.json](./353681-game-creator-2.json) |
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
 | Game of Fate 3 | 382645 | [382645-game-of-fate-3.json](./382645-game-of-fate-3.json) |
+| Game of Fitna Vol. 1 | 348100 | [348100-game-of-fitna-vol-1.json](./348100-game-of-fitna-vol-1.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
 | Game of Thrones: Kingsroad | 325605 | [325605-game-of-thrones-kingsroad.json](./325605-game-of-thrones-kingsroad.json) |
 | Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
