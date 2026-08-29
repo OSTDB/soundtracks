@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Warzone | 354851 | [354851-warzone.json](./354851-warzone.json) |
 | Wasteland 2 | 3101 | [3101-wasteland-2.json](./3101-wasteland-2.json) |
+| Wasteland Bites | 349709 | [349709-wasteland-bites.json](./349709-wasteland-bites.json) |
 | Wasteland Shop Simulator | 374494 | [374494-wasteland-shop-simulator.json](./374494-wasteland-shop-simulator.json) |
 | Watch Dogs 2: Deluxe Edition | 24443 | [24443-watch-dogs-2-deluxe-edition.json](./24443-watch-dogs-2-deluxe-edition.json) |
 | Watch Dogs: Vigilante Edition | 42969 | [42969-watch-dogs-vigilante-edition.json](./42969-watch-dogs-vigilante-edition.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Rooms | 203919 | [203919-withering-rooms.json](./203919-withering-rooms.json) |
 | Withering State | 410801 | [410801-withering-state.json](./410801-withering-state.json) |
 | Within These Four Walls | 378063 | [378063-within-these-four-walls.json](./378063-within-these-four-walls.json) |
+| Without a Clear Path | 349667 | [349667-without-a-clear-path.json](./349667-without-a-clear-path.json) |
 | Without a Hitch: Steam Exclusive - Valve Hat | 407229 | [407229-without-a-hitch-steam-exclusive-valve-hat.json](./407229-without-a-hitch-steam-exclusive-valve-hat.json) |
 | Wizard Blaster | 387200 | [387200-wizard-blaster.json](./387200-wizard-blaster.json) |
 | Wizard Critter 64 | 387881 | [387881-wizard-critter-64.json](./387881-wizard-critter-64.json) |
