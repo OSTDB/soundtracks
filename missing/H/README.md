@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Espir | 379738 | [379738-hotel-espir.json](./379738-hotel-espir.json) |
 | Hotel Manager 2026 | 396107 | [396107-hotel-manager-2026.json](./396107-hotel-manager-2026.json) |
 | Hotel Renovator Simulator | 396106 | [396106-hotel-renovator-simulator.json](./396106-hotel-renovator-simulator.json) |
+| Hotline Miami 2: Her Relentless Crusade | 343076 | [343076-hotline-miami-2-her-relentless-crusade.json](./343076-hotline-miami-2-her-relentless-crusade.json) |
 | Hotwing Hellions | 379746 | [379746-hotwing-hellions.json](./379746-hotwing-hellions.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
 | House Flipper Remastered Collection | 358692 | [358692-house-flipper-remastered-collection.json](./358692-house-flipper-remastered-collection.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrror | 372852 | [372852-hrror.json](./372852-hrror.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
+| Hugo Classic #4 | 343073 | [343073-hugo-classic-4.json](./343073-hugo-classic-4.json) |
 | Hugo: Kampen om Krystalkortet | 345309 | [345309-hugo-kampen-om-krystalkortet.json](./345309-hugo-kampen-om-krystalkortet.json) |
 | Hula Hula Wee | 372290 | [372290-hula-hula-wee.json](./372290-hula-hula-wee.json) |
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
