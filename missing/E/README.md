@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma of Hearts | 393349 | [393349-enigma-of-hearts.json](./393349-enigma-of-hearts.json) |
 | Enlarge Your Eggplant | 365485 | [365485-enlarge-your-eggplant.json](./365485-enlarge-your-eggplant.json) |
 | Enola | 16842 | [16842-enola.json](./16842-enola.json) |
+| Entering Host | 350251 | [350251-entering-host.json](./350251-entering-host.json) |
 | Enthrallor | 394026 | [394026-enthrallor.json](./394026-enthrallor.json) |
 | Entiled | 399540 | [399540-entiled.json](./399540-entiled.json) |
 | Entropy Archive | 404761 | [404761-entropy-archive.json](./404761-entropy-archive.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
 | Eros Wept | 395404 | [395404-eros-wept.json](./395404-eros-wept.json) |
 | Erotic Fantasy Hentai Photographer | 382063 | [382063-erotic-fantasy-hentai-photographer.json](./382063-erotic-fantasy-hentai-photographer.json) |
+| Escape | 350252 | [350252-escape.json](./350252-escape.json) |
 | Escape Academy | 194464 | [194464-escape-academy.json](./194464-escape-academy.json) |
 | Escape Alice House | 378624 | [378624-escape-alice-house.json](./378624-escape-alice-house.json) |
 | Escape Alice House 2 | 378625 | [378625-escape-alice-house-2.json](./378625-escape-alice-house-2.json) |
