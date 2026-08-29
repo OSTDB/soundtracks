@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
 | Peppa Pig: Jump & Giggle | 382610 | [382610-peppa-pig-jump-and-giggle.json](./382610-peppa-pig-jump-and-giggle.json) |
+| Perfect Diamond | 357080 | [357080-perfect-diamond.json](./357080-perfect-diamond.json) |
 | Perfect Game | 411462 | [411462-perfect-game.json](./411462-perfect-game.json) |
 | PerformVR | 412834 | [412834-performvr.json](./412834-performvr.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
@@ -318,12 +319,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison of the Five Crevices | 391515 | [391515-poison-of-the-five-crevices.json](./391515-poison-of-the-five-crevices.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
 | Pokémon Legends: Z-A | 288327 | [288327-pokemon-legends-z-a.json](./288327-pokemon-legends-z-a.json) |
+| Pokémon Quetzal | 357054 | [357054-pokemon-quetzal.json](./357054-pokemon-quetzal.json) |
 | Pokémon Relict | 382011 | [382011-pokemon-relict.json](./382011-pokemon-relict.json) |
 | Pokémon Rumble | 4562 | [4562-pokemon-rumble.json](./4562-pokemon-rumble.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239931 | [239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Snap | 2324 | [2324-pokemon-snap.json](./2324-pokemon-snap.json) |
 | Pokémon Super Mystery Dungeon | 10906 | [10906-pokemon-super-mystery-dungeon.json](./10906-pokemon-super-mystery-dungeon.json) |
 | Pokémon Trading Card Game Pocket: Mega Rising | 375662 | [375662-pokemon-trading-card-game-pocket-mega-rising.json](./375662-pokemon-trading-card-game-pocket-mega-rising.json) |
+| Pokémon Trading Card Game Pocket: Wisdom of Sea and Sky | 357047 | [357047-pokemon-trading-card-game-pocket-wisdom-of-sea-and-sky.json](./357047-pokemon-trading-card-game-pocket-wisdom-of-sea-and-sky.json) |
 | Pokemon Transform | 400140 | [400140-pokemon-transform.json](./400140-pokemon-transform.json) |
 | Pokémon Violet | 191930 | [191930-pokemon-violet.json](./191930-pokemon-violet.json) |
 | Pokemon XD: DX [Director's Cut] | 386600 | [386600-pokemon-xd-dx-directors-cut.json](./386600-pokemon-xd-dx-directors-cut.json) |
