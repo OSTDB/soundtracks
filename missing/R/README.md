@@ -57,7 +57,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratopia | 236479 | [236479-ratopia.json](./236479-ratopia.json) |
 | Ratsukade | 381427 | [381427-ratsukade.json](./381427-ratsukade.json) |
 | Rave Master | 4082 | [4082-rave-master.json](./4082-rave-master.json) |
+| Ravenhille: Awakened | 349128 | [349128-ravenhille-awakened.json](./349128-ravenhille-awakened.json) |
 | RavenQuest | 222608 | [222608-ravenquest.json](./222608-ravenquest.json) |
+| Ravenridge | 349160 | [349160-ravenridge.json](./349160-ravenridge.json) |
 | Ravenswatch | 208417 | [208417-ravenswatch.json](./208417-ravenswatch.json) |
 | Ravenswatch: Song of Thieves | 400796 | [400796-ravenswatch-song-of-thieves.json](./400796-ravenswatch-song-of-thieves.json) |
 | Raw Danger! | 11696 | [11696-raw-danger.json](./11696-raw-danger.json) |
@@ -216,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer 2 | 23127 | [23127-ridge-racer-2.json](./23127-ridge-racer-2.json) |
 | Ridge Racer 64 | 3588 | [3588-ridge-racer-64.json](./3588-ridge-racer-64.json) |
 | Ridge Racer V | 10386 | [10386-ridge-racer-v.json](./10386-ridge-racer-v.json) |
+| Ridiculous Gungame | 349165 | [349165-ridiculous-gungame.json](./349165-ridiculous-gungame.json) |
 | Riding Out | 33032 | [33032-riding-out.json](./33032-riding-out.json) |
 | Riff Hammer | 389908 | [389908-riff-hammer.json](./389908-riff-hammer.json) |
 | Rift of the NecroDancer: Everhood - "Feisty Flowers" | 360941 | [360941-rift-of-the-necrodancer-everhood-feisty-flowers.json](./360941-rift-of-the-necrodancer-everhood-feisty-flowers.json) |
@@ -273,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
+| Rob Your Friends or Die | 349129 | [349129-rob-your-friends-or-die.json](./349129-rob-your-friends-or-die.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
 | Robo Instructus | 115979 | [115979-robo-instructus.json](./115979-robo-instructus.json) |
@@ -354,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Roses | 27041 | [27041-rumble-roses.json](./27041-rumble-roses.json) |
 | Rumbleverse | 185256 | [185256-rumbleverse.json](./185256-rumbleverse.json) |
 | Run and Jump | 86644 | [86644-run-and-jump.json](./86644-run-and-jump.json) |
+| Run Chicken Run | 349148 | [349148-run-chicken-run.json](./349148-run-chicken-run.json) |
 | Run Eternal Depths | 370529 | [370529-run-eternal-depths.json](./370529-run-eternal-depths.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
