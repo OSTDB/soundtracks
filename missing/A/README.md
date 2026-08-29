@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstractica | 377458 | [377458-abstractica.json](./377458-abstractica.json) |
 | Absurd Frog | 377468 | [377468-absurd-frog.json](./377468-absurd-frog.json) |
 | Abuse | 586 | [586-abuse.json](./586-abuse.json) |
+| Abuzittin'in Maceraları III: "O Şimdi Mafya" Part: 1 | 346407 | [346407-abuzittinin-maceralar-iii-o-simdi-mafya-part-1.json](./346407-abuzittinin-maceralar-iii-o-simdi-mafya-part-1.json) |
 | Abyss Chamber | 404726 | [404726-abyss-chamber.json](./404726-abyss-chamber.json) |
 | Abyss Depth: Control | 377476 | [377476-abyss-depth-control.json](./377476-abyss-depth-control.json) |
 | Abyss Diver | 377475 | [377475-abyss-diver.json](./377475-abyss-diver.json) |
@@ -232,6 +233,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross | 408626 | [408626-albatross.json](./408626-albatross.json) |
 | Alchemilla Millefolium | 398890 | [398890-alchemilla-millefolium.json](./398890-alchemilla-millefolium.json) |
 | Alchemist Watch | 397573 | [397573-alchemist-watch.json](./397573-alchemist-watch.json) |
+| Alchemist: Journey of the Soul | 346442 | [346442-alchemist-journey-of-the-soul.json](./346442-alchemist-journey-of-the-soul.json) |
+| Aleae | 346421 | [346421-aleae.json](./346421-aleae.json) |
 | Aleste | 41653 | [41653-aleste.json](./41653-aleste.json) |
 | Alestian Story | 386033 | [386033-alestian-story.json](./386033-alestian-story.json) |
 | Alex Jones: NWO Wars | 277154 | [277154-alex-jones-nwo-wars.json](./277154-alex-jones-nwo-wars.json) |
@@ -390,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Hero Edition | 358674 | [358674-aquapark-io-hero-edition.json](./358674-aquapark-io-hero-edition.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
+| Arabian Gulf | 346439 | [346439-arabian-gulf.json](./346439-arabian-gulf.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
 | Arc Hound | 355902 | [355902-arc-hound.json](./355902-arc-hound.json) |
 | Arc Salvo | 406577 | [406577-arc-salvo.json](./406577-arc-salvo.json) |
@@ -414,8 +418,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics GG2SMS | 369436 | [369436-arcade-classics-gg2sms.json](./369436-arcade-classics-gg2sms.json) |
 | Arcade Game Series: Galaga | 82376 | [82376-arcade-game-series-galaga.json](./82376-arcade-game-series-galaga.json) |
 | Arcade Game Series: Ms. Pac-Man | 82381 | [82381-arcade-game-series-ms-pac-man.json](./82381-arcade-game-series-ms-pac-man.json) |
+| Arcade Management Simulator | 346427 | [346427-arcade-management-simulator.json](./346427-arcade-management-simulator.json) |
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
+| Arcadian Days | 346423 | [346423-arcadian-days.json](./346423-arcadian-days.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
 | Arcane Dice Wars: Gacha Date | 353144 | [353144-arcane-dice-wars-gacha-date.json](./353144-arcane-dice-wars-gacha-date.json) |
 | Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
@@ -526,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attentat 1942 | 27996 | [27996-attentat-1942.json](./27996-attentat-1942.json) |
 | Attorney Investigations Online | 373952 | [373952-attorney-investigations-online.json](./373952-attorney-investigations-online.json) |
 | Attrition: Tactical Fronts | 44273 | [44273-attrition-tactical-fronts.json](./44273-attrition-tactical-fronts.json) |
+| Atura | 346435 | [346435-atura.json](./346435-atura.json) |
 | Aualé | 375649 | [375649-auale.json](./375649-auale.json) |
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Audica: DLC Pack 03 | 360371 | [360371-audica-dlc-pack-03.json](./360371-audica-dlc-pack-03.json) |
