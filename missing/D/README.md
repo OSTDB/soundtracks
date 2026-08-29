@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die by the Sword | 10912 | [10912-die-by-the-sword.json](./10912-die-by-the-sword.json) |
 | Die drei ???: Geheimnis der Schattenhelden | 368846 | [368846-die-drei-geheimnis-der-schattenhelden.json](./368846-die-drei-geheimnis-der-schattenhelden.json) |
 | Die Maus: Verrückte Olympiade | 95376 | [95376-die-maus-verruckte-olympiade.json](./95376-die-maus-verruckte-olympiade.json) |
+| Diecast | 355401 | [355401-diecast.json](./355401-diecast.json) |
 | Diehard Dungeon | 17064 | [17064-diehard-dungeon.json](./17064-diehard-dungeon.json) |
 | Difference Machine | 393310 | [393310-difference-machine.json](./393310-difference-machine.json) |
 | Diffusion | 380265 | [380265-diffusion.json](./380265-diffusion.json) |
