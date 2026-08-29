@@ -229,6 +229,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
+| Excite Baseball | 345898 | [345898-excite-baseball.json](./345898-excite-baseball.json) |
+| Excite Tennis | 345899 | [345899-excite-tennis.json](./345899-excite-tennis.json) |
 | Excitebike 64 | 3337 | [3337-excitebike-64.json](./3337-excitebike-64.json) |
 | Excrucia | 390409 | [390409-excrucia.json](./390409-excrucia.json) |
 | Exe.cutor | 388621 | [388621-exe-cutor.json](./388621-exe-cutor.json) |
