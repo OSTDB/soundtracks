@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
 | Blighted Deep | 364897 | [364897-blighted-deep.json](./364897-blighted-deep.json) |
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
+| Blightspire | 350259 | [350259-blightspire.json](./350259-blightspire.json) |
 | Blind Box Shop Simulator | 386034 | [386034-blind-box-shop-simulator.json](./386034-blind-box-shop-simulator.json) |
 | Blind Justice | 126424 | [126424-blind-justice.json](./126424-blind-justice.json) |
 | Blind Memory | 369972 | [369972-blind-memory.json](./369972-blind-memory.json) |
@@ -411,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
 | BloodJack | 409451 | [409451-bloodjack.json](./409451-bloodjack.json) |
 | BloodRayne Betrayal: Fresh Bites | 152323 | [152323-bloodrayne-betrayal-fresh-bites.json](./152323-bloodrayne-betrayal-fresh-bites.json) |
+| Bloodrise | 350263 | [350263-bloodrise.json](./350263-bloodrise.json) |
 | Bloodrust | 393361 | [393361-bloodrust.json](./393361-bloodrust.json) |
 | Bloodshot | 405405 | [405405-bloodshot.json](./405405-bloodshot.json) |
 | Bloodstained: Curse of the Moon | 101176 | [101176-bloodstained-curse-of-the-moon.json](./101176-bloodstained-curse-of-the-moon.json) |
@@ -440,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodacious Babes: Fantasy | 382060 | [382060-bodacious-babes-fantasy.json](./382060-bodacious-babes-fantasy.json) |
 | Bodycam Record Shooter | 366660 | [366660-bodycam-record-shooter.json](./366660-bodycam-record-shooter.json) |
 | BodyCam: Tactical Freelancer | 356500 | [356500-bodycam-tactical-freelancer.json](./356500-bodycam-tactical-freelancer.json) |
+| Bodypanic | 350266 | [350266-bodypanic.json](./350266-bodypanic.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
@@ -563,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Sweeper | 384376 | [384376-bubble-sweeper.json](./384376-bubble-sweeper.json) |
 | Bubble Tea Revolution | 364930 | [364930-bubble-tea-revolution.json](./364930-bubble-tea-revolution.json) |
 | Bubble Tea Sort | 376334 | [376334-bubble-tea-sort.json](./376334-bubble-tea-sort.json) |
+| Bubble Trouble | 350277 | [350277-bubble-trouble.json](./350277-bubble-trouble.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
 | Budgie's Bug Shop | 389905 | [389905-budgies-bug-shop.json](./389905-budgies-bug-shop.json) |
@@ -607,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
 | Butcher | 24839 | [24839-butcher.json](./24839-butcher.json) |
 | Butt Brawl: Survival | 399493 | [399493-butt-brawl-survival.json](./399493-butt-brawl-survival.json) |
+| Butter Side Down | 350239 | [350239-butter-side-down.json](./350239-butter-side-down.json) |
 | Buttonbox | 367813 | [367813-buttonbox.json](./367813-buttonbox.json) |
 | Buy The Galaxy | 367263 | [367263-buy-the-galaxy.json](./367263-buy-the-galaxy.json) |
 | Bǔyú Dà Wánkā | 412835 | [412835-buyu-da-wanka.json](./412835-buyu-da-wanka.json) |
