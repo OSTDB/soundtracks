@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam's Adjustable Mirrors | 374446 | [374446-jams-adjustable-mirrors.json](./374446-jams-adjustable-mirrors.json) |
 | James Bond 007: Nightfire | 1631 | [1631-james-bond-007-nightfire.json](./1631-james-bond-007-nightfire.json) |
 | Jammin' | 383220 | [383220-jammin.json](./383220-jammin.json) |
+| Jampa Buggys | 356490 | [356490-jampa-buggys.json](./356490-jampa-buggys.json) |
 | Japan Stigmatized Property 2 | 414233 | [414233-japan-stigmatized-property-2.json](./414233-japan-stigmatized-property-2.json) |
 | Japanese Basics Hiragana Fill-in Quiz | 396108 | [396108-japanese-basics-hiragana-fill-in-quiz.json](./396108-japanese-basics-hiragana-fill-in-quiz.json) |
 | Japanese Culture Literacy Test | 398200 | [398200-japanese-culture-literacy-test.json](./398200-japanese-culture-literacy-test.json) |
