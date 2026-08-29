@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
 | Icarus: Dangerous Horizons | 410097 | [410097-icarus-dangerous-horizons.json](./410097-icarus-dangerous-horizons.json) |
 | Ice Age: Dawn of the Dinosaurs | 4923 | [4923-ice-age-dawn-of-the-dinosaurs.json](./4923-ice-age-dawn-of-the-dinosaurs.json) |
+| Ice Cream Typer | 357646 | [357646-ice-cream-typer.json](./357646-ice-cream-typer.json) |
 | Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Eyes | 382639 | [382639-ice-eyes.json](./382639-ice-eyes.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
 | Invention 8 | 369419 | [369419-invention-8.json](./369419-invention-8.json) |
 | Invert | 370499 | [370499-invert.json](./370499-invert.json) |
+| Investormania | 357661 | [357661-investormania.json](./357661-investormania.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
 | Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
