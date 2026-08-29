@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uciana | 95740 | [95740-uciana.json](./95740-uciana.json) |
 | Udon! Road to Mastery | 373395 | [373395-udon-road-to-mastery.json](./373395-udon-road-to-mastery.json) |
 | UEFA Euro 2004: Portugal | 925 | [925-uefa-euro-2004-portugal.json](./925-uefa-euro-2004-portugal.json) |
+| UFO Factory | 346965 | [346965-ufo-factory.json](./346965-ufo-factory.json) |
 | UFO Shooting | 358705 | [358705-ufo-shooting.json](./358705-ufo-shooting.json) |
 | Ufouria: The Saga | 48268 | [48268-ufouria-the-saga.json](./48268-ufouria-the-saga.json) |
 | Uki Uki Tsuri Tengoku: Ningyo Densetsu no Nazo | 384942 | [384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json](./384942-uki-uki-tsuri-tengoku-ningyo-densetsu-no-nazo.json) |
