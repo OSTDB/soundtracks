@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
 | Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
 | Taxi: Average City | 359248 | [359248-taxi-average-city.json](./359248-taxi-average-city.json) |
+| Taxido | 347544 | [347544-taxido.json](./347544-taxido.json) |
 | Te Iu ka, Joshi ni Kokuraretan Desu kedo!? | 396776 | [396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json](./396776-te-iu-ka-joshi-ni-kokuraretan-desu-kedo.json) |
 | Teach Your Monster to Read: Phonics and Reading | 96063 | [96063-teach-your-monster-to-read-phonics-and-reading.json](./96063-teach-your-monster-to-read-phonics-and-reading.json) |
 | Techmino | 371732 | [371732-techmino.json](./371732-techmino.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Dev Tree | 366683 | [366683-the-game-dev-tree.json](./366683-the-game-dev-tree.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
+| The Gentle Golem | 347511 | [347511-the-gentle-golem.json](./347511-the-gentle-golem.json) |
 | The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
 | The Girl in the Clouds | 357665 | [357665-the-girl-in-the-clouds.json](./357665-the-girl-in-the-clouds.json) |
 | The Glitch Prison Together | 381432 | [381432-the-glitch-prison-together.json](./381432-the-glitch-prison-together.json) |
@@ -548,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Four Walls | 372316 | [372316-these-four-walls.json](./372316-these-four-walls.json) |
 | TheSlayers | 408631 | [408631-theslayers.json](./408631-theslayers.json) |
 | They Breathe | 9698 | [9698-they-breathe.json](./9698-they-breathe.json) |
+| They Call It Gravity | 347506 | [347506-they-call-it-gravity.json](./347506-they-call-it-gravity.json) |
 | They Can't Hear You | 403457 | [403457-they-cant-hear-you.json](./403457-they-cant-hear-you.json) |
 | Thief: The Stray Cat | 366038 | [366038-thief-the-stray-cat.json](./366038-thief-the-stray-cat.json) |
 | Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
@@ -630,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT | 248514 | [248514-tmnt.json](./248514-tmnt.json) |
 | TMT 3 | 403515 | [403515-tmt-3.json](./403515-tmt-3.json) |
 | To Be Headed or Not to Be | 126210 | [126210-to-be-headed-or-not-to-be.json](./126210-to-be-headed-or-not-to-be.json) |
+| To the Skies! | 347518 | [347518-to-the-skies.json](./347518-to-the-skies.json) |
 | Toada Brava | 375017 | [375017-toada-brava.json](./375017-toada-brava.json) |
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
 | Tobacco Market Simulator | 388606 | [388606-tobacco-market-simulator.json](./388606-tobacco-market-simulator.json) |
