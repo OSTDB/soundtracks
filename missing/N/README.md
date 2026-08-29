@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanima | 392058 | [392058-nanima.json](./392058-nanima.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
+| Napuland | 344773 | [344773-napuland.json](./344773-napuland.json) |
 | Naruto Online | 22797 | [22797-naruto-online.json](./22797-naruto-online.json) |
 | Naruto Shippuden: Ultimate Ninja 6 | 356454 | [356454-naruto-shippuden-ultimate-ninja-6.json](./356454-naruto-shippuden-ultimate-ninja-6.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ne Padai! | 367793 | [367793-ne-padai.json](./367793-ne-padai.json) |
 | Near Death Experience | 47228 | [47228-near-death-experience.json](./47228-near-death-experience.json) |
 | Near Midnight | 31473 | [31473-near-midnight.json](./31473-near-midnight.json) |
+| Necro Siege | 344769 | [344769-necro-siege.json](./344769-necro-siege.json) |
 | Necropolis | 11347 | [11347-necropolis.json](./11347-necropolis.json) |
 | Necrotic Nightmare | 387191 | [387191-necrotic-nightmare.json](./387191-necrotic-nightmare.json) |
 | Need for Speed | 10965 | [10965-need-for-speed.json](./10965-need-for-speed.json) |
@@ -141,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Sentinel | 354253 | [354253-night-sentinel.json](./354253-night-sentinel.json) |
 | Night Shift Hospital | 408687 | [408687-night-shift-hospital.json](./408687-night-shift-hospital.json) |
 | Night Shift: Security | 402779 | [402779-night-shift-security.json](./402779-night-shift-security.json) |
+| Night to Meet Chu! | 344777 | [344777-night-to-meet-chu.json](./344777-night-to-meet-chu.json) |
 | Night Warriors: Darkstalkers' Revenge | 20010 | [20010-night-warriors-darkstalkers-revenge.json](./20010-night-warriors-darkstalkers-revenge.json) |
 | Night Watch at Freddie's: The July 5th Archive | 383240 | [383240-night-watch-at-freddies-the-july-5th-archive.json](./383240-night-watch-at-freddies-the-july-5th-archive.json) |
 | Nightbell | 395408 | [395408-nightbell.json](./395408-nightbell.json) |
