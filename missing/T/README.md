@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Off-Road 3 | 366686 | [366686-test-drive-off-road-3.json](./366686-test-drive-off-road-3.json) |
 | Testimony: Metal Graveyard | 378051 | [378051-testimony-metal-graveyard.json](./378051-testimony-metal-graveyard.json) |
 | Tetap Kacau | 364300 | [364300-tetap-kacau.json](./364300-tetap-kacau.json) |
+| Tetrasex | 348059 | [348059-tetrasex.json](./348059-tetrasex.json) |
 | Tetris Attack | 2739 | [2739-tetris-attack.json](./2739-tetris-attack.json) |
 | Tetris: Axis | 6896 | [6896-tetris-axis.json](./6896-tetris-axis.json) |
 | Tetropunk | 77188 | [77188-tetropunk.json](./77188-tetropunk.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Legends | 17059 | [17059-the-book-of-legends.json](./17059-the-book-of-legends.json) |
 | The Box | 398222 | [398222-the-box.json](./398222-the-box.json) |
 | The Bradwell Conspiracy | 107314 | [107314-the-bradwell-conspiracy.json](./107314-the-bradwell-conspiracy.json) |
+| The Broken Clock | 348083 | [348083-the-broken-clock.json](./348083-the-broken-clock.json) |
 | The Bugs Bunny Crazy Castle 2 | 7814 | [7814-the-bugs-bunny-crazy-castle-2.json](./7814-the-bugs-bunny-crazy-castle-2.json) |
 | The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Butcher's Village | 371096 | [371096-the-butchers-village.json](./371096-the-butchers-village.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Late Arrival | 380891 | [380891-the-late-arrival.json](./380891-the-late-arrival.json) |
 | The Legend of Dark Witch Episode 4: Echoes from Episode 3 | 357086 | [357086-the-legend-of-dark-witch-episode-4-echoes-from-episode-3.json](./357086-the-legend-of-dark-witch-episode-4-echoes-from-episode-3.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
+| The Legend of Heroes: Gagharv | 348091 | [348091-the-legend-of-heroes-gagharv.json](./348091-the-legend-of-heroes-gagharv.json) |
 | The Legend of Heroes: Trails from Zero | 23322 | [23322-the-legend-of-heroes-trails-from-zero.json](./23322-the-legend-of-heroes-trails-from-zero.json) |
 | The Legend of Heroes: Trails in the Sky | 379767 | [379767-the-legend-of-heroes-trails-in-the-sky.json](./379767-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails of Cold Steel III | 26564 | [26564-the-legend-of-heroes-trails-of-cold-steel-iii.json](./26564-the-legend-of-heroes-trails-of-cold-steel-iii.json) |
@@ -507,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 4 | 36307 | [36307-the-treasures-of-montezuma-4.json](./36307-the-treasures-of-montezuma-4.json) |
 | The Trench | 380878 | [380878-the-trench.json](./380878-the-trench.json) |
 | The Tribe Must Survive | 188808 | [188808-the-tribe-must-survive.json](./188808-the-tribe-must-survive.json) |
+| The Triminals | 348082 | [348082-the-triminals.json](./348082-the-triminals.json) |
 | The True Bottom | 385466 | [385466-the-true-bottom.json](./385466-the-true-bottom.json) |
 | The Tunnel | 380879 | [380879-the-tunnel.json](./380879-the-tunnel.json) |
 | The Underpass | 378666 | [378666-the-underpass.json](./378666-the-underpass.json) |
