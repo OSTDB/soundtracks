@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can't Find My Phone! | 399514 | [399514-i-cant-find-my-phone.json](./399514-i-cant-find-my-phone.json) |
 | I Commissioned Some Snails 5 | 378042 | [378042-i-commissioned-some-snails-5.json](./378042-i-commissioned-some-snails-5.json) |
 | I Don't Hate Hentai Puzzles | 126395 | [126395-i-dont-hate-hentai-puzzles.json](./126395-i-dont-hate-hentai-puzzles.json) |
+| I Don't Want to Be a Good Woman | 351470 | [351470-i-dont-want-to-be-a-good-woman.json](./351470-i-dont-want-to-be-a-good-woman.json) |
 | I Dream of Demons | 392063 | [392063-i-dream-of-demons.json](./392063-i-dream-of-demons.json) |
 | I Found the Well | 385465 | [385465-i-found-the-well.json](./385465-i-found-the-well.json) |
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Gifts 2 | 401403 | [401403-icy-gifts-2.json](./401403-icy-gifts-2.json) |
 | Idle Champions of the Forgotten Realms: Light of Xaryxis | 357096 | [357096-idle-champions-of-the-forgotten-realms-light-of-xaryxis.json](./357096-idle-champions-of-the-forgotten-realms-light-of-xaryxis.json) |
 | Idle Commonwealth | 370504 | [370504-idle-commonwealth.json](./370504-idle-commonwealth.json) |
+| Idle Crypto Mining | 351444 | [351444-idle-crypto-mining.json](./351444-idle-crypto-mining.json) |
 | Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
 | Idle Evolution | 29800 | [29800-idle-evolution.json](./29800-idle-evolution.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Terra's Call | 378638 | [378638-infinity-nikki-terras-call.json](./378638-infinity-nikki-terras-call.json) |
 | Infinos | 373378 | [373378-infinos.json](./373378-infinos.json) |
 | Infinos 2 | 373377 | [373377-infinos-2.json](./373377-infinos-2.json) |
+| Inflamed | 351466 | [351466-inflamed.json](./351466-inflamed.json) |
 | Information Conveyed Information Received | 404763 | [404763-information-conveyed-information-received.json](./404763-information-conveyed-information-received.json) |
 | Injection π23: Tabula Rasa | 401404 | [401404-injection-23-tabula-rasa.json](./401404-injection-23-tabula-rasa.json) |
 | Ink Shadow: Zero | 389883 | [389883-ink-shadow-zero.json](./389883-ink-shadow-zero.json) |
