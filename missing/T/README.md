@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreaded Hut | 376324 | [376324-the-dreaded-hut.json](./376324-the-dreaded-hut.json) |
 | The Dream's Exit | 355900 | [355900-the-dreams-exit.json](./355900-the-dreams-exit.json) |
 | The Dreamcatcher | 359260 | [359260-the-dreamcatcher.json](./359260-the-dreamcatcher.json) |
+| The Dukes of Hazzard | 346996 | [346996-the-dukes-of-hazzard.json](./346996-the-dukes-of-hazzard.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The E-Collector | 359247 | [359247-the-e-collector.json](./359247-the-e-collector.json) |
 | The East New World | 32998 | [32998-the-east-new-world.json](./32998-the-east-new-world.json) |
