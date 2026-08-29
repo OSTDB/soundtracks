@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
 | NASCAR Unleashed | 6848 | [6848-nascar-unleashed.json](./6848-nascar-unleashed.json) |
 | Nash Racing | 29740 | [29740-nash-racing.json](./29740-nash-racing.json) |
+| Naturalist Delight | 348607 | [348607-naturalist-delight.json](./348607-naturalist-delight.json) |
 | Nature's Question | 396111 | [396111-natures-question.json](./396111-natures-question.json) |
 | Navalny 20!8 : The Rise of Evil | 76662 | [76662-navalny-20-8-the-rise-of-evil.json](./76662-navalny-20-8-the-rise-of-evil.json) |
 | Navigatore of the Ruined World | 398850 | [398850-navigatore-of-the-ruined-world.json](./398850-navigatore-of-the-ruined-world.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
+| Neon Cipher | 348625 | [348625-neon-cipher.json](./348625-neon-cipher.json) |
 | Neon City | 383833 | [383833-neon-city.json](./383833-neon-city.json) |
 | Neon Digital | 368350 | [368350-neon-digital.json](./368350-neon-digital.json) |
 | Neon Mind | 384406 | [384406-neon-mind.json](./384406-neon-mind.json) |
@@ -79,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Power | 358701 | [358701-net-power.json](./358701-net-power.json) |
 | Netbreak | 371723 | [371723-netbreak.json](./371723-netbreak.json) |
 | NetHack: Legacy | 126492 | [126492-nethack-legacy.json](./126492-nethack-legacy.json) |
+| Nether's Delight | 348608 | [348608-nethers-delight.json](./348608-nethers-delight.json) |
 | Netherwake | 349703 | [349703-netherwake.json](./349703-netherwake.json) |
 | Neuralnx | 406028 | [406028-neuralnx.json](./406028-neuralnx.json) |
 | NeuroVoider | 23581 | [23581-neurovoider.json](./23581-neurovoider.json) |
@@ -170,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
+| No Customers Left | 348629 | [348629-no-customers-left.json](./348629-no-customers-left.json) |
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
 | No Escape | 408651 | [408651-no-escape.json](./408651-no-escape.json) |
 | No Knock | 391512 | [391512-no-knock.json](./391512-no-knock.json) |
