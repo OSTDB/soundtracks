@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
 | Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
+| Brainrot Royale | 351476 | [351476-brainrot-royale.json](./351476-brainrot-royale.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Bramblefort | 360962 | [360962-bramblefort.json](./360962-bramblefort.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
