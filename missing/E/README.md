@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Coloring Book for Kids & Toddlers | 398198 | [398198-easter-coloring-book-for-kids-and-toddlers.json](./398198-easter-coloring-book-for-kids-and-toddlers.json) |
 | EasyTetris | 371658 | [371658-easytetris.json](./371658-easytetris.json) |
 | Eat Repeat | 360997 | [360997-eat-repeat.json](./360997-eat-repeat.json) |
+| Ebonor | 351457 | [351457-ebonor.json](./351457-ebonor.json) |
 | Echo Contingency | 387865 | [387865-echo-contingency.json](./387865-echo-contingency.json) |
 | Echo Tokyo: Intro | 22212 | [22212-echo-tokyo-intro.json](./22212-echo-tokyo-intro.json) |
 | Echo Zero | 394032 | [394032-echo-zero.json](./394032-echo-zero.json) |
