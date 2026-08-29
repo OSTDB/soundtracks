@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Monsters | 95853 | [95853-neo-monsters.json](./95853-neo-monsters.json) |
 | Neocron Evolution | 341705 | [341705-neocron-evolution.json](./341705-neocron-evolution.json) |
 | Neogeo Arcade 4 | 407913 | [407913-neogeo-arcade-4.json](./407913-neogeo-arcade-4.json) |
+| Neohell | 346410 | [346410-neohell.json](./346410-neohell.json) |
 | Neon Cipher | 348625 | [348625-neon-cipher.json](./348625-neon-cipher.json) |
 | Neon City | 383833 | [383833-neon-city.json](./383833-neon-city.json) |
 | Neon Digital | 368350 | [368350-neon-digital.json](./368350-neon-digital.json) |
