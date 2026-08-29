@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
 | Order: The New Dawn | 350244 | [350244-order-the-new-dawn.json](./350244-order-the-new-dawn.json) |
 | Ore | 86465 | [86465-ore.json](./86465-ore.json) |
+| OrePlant | 345319 | [345319-oreplant.json](./345319-oreplant.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
 | Orson, P.I.: Midnight at the Grand Hotel | 392054 | [392054-orson-p-i-midnight-at-the-grand-hotel.json](./392054-orson-p-i-midnight-at-the-grand-hotel.json) |
