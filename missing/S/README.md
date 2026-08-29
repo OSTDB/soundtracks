@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank n' Bake | 44171 | [44171-shank-n-bake.json](./44171-shank-n-bake.json) |
 | Shantae Advance: Risky Revolution Deluxe Edition | 360957 | [360957-shantae-advance-risky-revolution-deluxe-edition.json](./360957-shantae-advance-risky-revolution-deluxe-edition.json) |
 | Shaolin Mystery: Tale of the Jade Dragon Staff | 383239 | [383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json](./383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json) |
+| Shape Blast | 347526 | [347526-shape-blast.json](./347526-shape-blast.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
 | Shapeless | 384983 | [384983-shapeless.json](./384983-shapeless.json) |
@@ -250,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
+| Shovel Lands | 347516 | [347516-shovel-lands.json](./347516-shovel-lands.json) |
 | Showdown Next Week! | 376288 | [376288-showdown-next-week.json](./376288-showdown-next-week.json) |
 | Shrooms! Tower Defence | 348079 | [348079-shrooms-tower-defence.json](./348079-shrooms-tower-defence.json) |
 | Shroomwood | 378644 | [378644-shroomwood.json](./378644-shroomwood.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacklands | 196230 | [196230-stacklands.json](./196230-stacklands.json) |
 | Stacks TNT | 116192 | [116192-stacks-tnt.json](./116192-stacks-tnt.json) |
 | Stained Blade | 387868 | [387868-stained-blade.json](./387868-stained-blade.json) |
+| Stalhart | 347503 | [347503-stalhart.json](./347503-stalhart.json) |
 | Stall Tycoon | 407205 | [407205-stall-tycoon.json](./407205-stall-tycoon.json) |
 | Standoff 2 | 126055 | [126055-standoff-2.json](./126055-standoff-2.json) |
 | Star Advent | 89405 | [89405-star-advent.json](./89405-star-advent.json) |
@@ -811,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburbadrome | 351453 | [351453-suburbadrome.json](./351453-suburbadrome.json) |
 | Subway Simulator: Underground Train - Remaster | 402198 | [402198-subway-simulator-underground-train-remaster.json](./402198-subway-simulator-underground-train-remaster.json) |
 | Subzero Stealth | 370547 | [370547-subzero-stealth.json](./370547-subzero-stealth.json) |
+| Succubus Roulette | 347510 | [347510-succubus-roulette.json](./347510-succubus-roulette.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
