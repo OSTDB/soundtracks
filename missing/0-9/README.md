@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100ft Robot Golf | 23168 | [23168-100ft-robot-golf.json](./23168-100ft-robot-golf.json) |
 | 101 Cats in Beijing | 376897 | [376897-101-cats-in-beijing.json](./376897-101-cats-in-beijing.json) |
 | 101 Cats in Vietnam | 372338 | [372338-101-cats-in-vietnam.json](./372338-101-cats-in-vietnam.json) |
+| 101 Dogs Hidden | 355920 | [355920-101-dogs-hidden.json](./355920-101-dogs-hidden.json) |
 | 101 Dogs Hidden in Dubai | 356471 | [356471-101-dogs-hidden-in-dubai.json](./356471-101-dogs-hidden-in-dubai.json) |
 | 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 11th Hour Hero | 376912 | [376912-11th-hour-hero.json](./376912-11th-hour-hero.json) |
@@ -106,7 +107,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 39 Random Achievements | 376918 | [376918-39-random-achievements.json](./376918-39-random-achievements.json) |
 | 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
 | 3D Life | 376946 | [376946-3d-life.json](./376946-3d-life.json) |
+| 3D Mahjong Worlds | 355939 | [355939-3d-mahjong-worlds.json](./355939-3d-mahjong-worlds.json) |
 | 3D Maze | 376945 | [376945-3d-maze.json](./376945-3d-maze.json) |
+| 3D Peg Solitaire | 355940 | [355940-3d-peg-solitaire.json](./355940-3d-peg-solitaire.json) |
 | 3D Sonic the Hedgehog 2 | 84657 | [84657-3d-sonic-the-hedgehog-2.json](./84657-3d-sonic-the-hedgehog-2.json) |
 | 3D Whac-A-Mole | 367771 | [367771-3d-whac-a-mole.json](./367771-3d-whac-a-mole.json) |
 | 3DMurderMystery TheAshenYou | 409444 | [409444-3dmurdermystery-theashenyou.json](./409444-3dmurdermystery-theashenyou.json) |
@@ -115,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 in 1 Sports Bundle | 380847 | [380847-4-in-1-sports-bundle.json](./380847-4-in-1-sports-bundle.json) |
 | 4K Bricks Breaker Plus | 367774 | [367774-4k-bricks-breaker-plus.json](./367774-4k-bricks-breaker-plus.json) |
 | 5 Crowns | 367777 | [367777-5-crowns.json](./367777-5-crowns.json) |
+| 5.x Rock Climbing | 355941 | [355941-5-x-rock-climbing.json](./355941-5-x-rock-climbing.json) |
 | 5318008 | 412168 | [412168-5318008.json](./412168-5318008.json) |
 | 6 Floors | 397549 | [397549-6-floors.json](./397549-6-floors.json) |
 | 6 in 1 Power Bundle Vol. 2 | 380848 | [380848-6-in-1-power-bundle-vol-2.json](./380848-6-in-1-power-bundle-vol-2.json) |
