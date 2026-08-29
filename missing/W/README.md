@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | W.E.L.D.E.R. | 64546 | [64546-w-e-l-d-e-r.json](./64546-w-e-l-d-e-r.json) |
+| W3dge | 355912 | [355912-w3dge.json](./355912-w3dge.json) |
 | Wabisabi SushiDerby | 379249 | [379249-wabisabi-sushiderby.json](./379249-wabisabi-sushiderby.json) |
 | Wacky! Deer & Munk Adventure | 409496 | [409496-wacky-deer-and-munk-adventure.json](./409496-wacky-deer-and-munk-adventure.json) |
 | Waffle Games: A Lethal Room Experience | 360379 | [360379-waffle-games-a-lethal-room-experience.json](./360379-waffle-games-a-lethal-room-experience.json) |
