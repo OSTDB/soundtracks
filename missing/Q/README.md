@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quack!!! on Ice | 364287 | [364287-quack-on-ice.json](./364287-quack-on-ice.json) |
 | Quackoban | 394024 | [394024-quackoban.json](./394024-quackoban.json) |
 | QuackSquad | 350812 | [350812-quacksquad.json](./350812-quacksquad.json) |
+| Quadphos | 349662 | [349662-quadphos.json](./349662-quadphos.json) |
 | Quake 30th Anniversary Jam | 402810 | [402810-quake-30th-anniversary-jam.json](./402810-quake-30th-anniversary-jam.json) |
 | Quake III: Team Arena | 6634 | [6634-quake-iii-team-arena.json](./6634-quake-iii-team-arena.json) |
 | Quantic Pinball | 29831 | [29831-quantic-pinball.json](./29831-quantic-pinball.json) |
