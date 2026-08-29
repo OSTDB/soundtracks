@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 3: Wetlands | 396074 | [396074-jurassic-world-evolution-3-wetlands.json](./396074-jurassic-world-evolution-3-wetlands.json) |
 | Just a Die | 348643 | [348643-just-a-die.json](./348643-just-a-die.json) |
 | Just Chess | 388586 | [388586-just-chess.json](./388586-just-chess.json) |
+| Just Cube | 345320 | [345320-just-cube.json](./345320-just-cube.json) |
 | Just Dance 2023 Edition | 216318 | [216318-just-dance-2023-edition.json](./216318-just-dance-2023-edition.json) |
 | Just Dance Now | 86997 | [86997-just-dance-now.json](./86997-just-dance-now.json) |
 | Justice League Task Force | 455 | [455-justice-league-task-force.json](./455-justice-league-task-force.json) |
