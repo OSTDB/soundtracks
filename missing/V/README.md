@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R.E.V.O. World Stage: Yakuza Series Collaboration Pack | 390928 | [390928-virtua-fighter-5-r-e-v-o-world-stage-yakuza-series-collaboration-pack.json](./390928-virtua-fighter-5-r-e-v-o-world-stage-yakuza-series-collaboration-pack.json) |
 | Virtua Tennis | 6291 | [6291-virtua-tennis.json](./6291-virtua-tennis.json) |
 | Virtual Battlegrounds | 115669 | [115669-virtual-battlegrounds.json](./115669-virtual-battlegrounds.json) |
+| Virtual Boxing | 358713 | [358713-virtual-boxing.json](./358713-virtual-boxing.json) |
 | Virtual Escape: The Play Room | 31477 | [31477-virtual-escape-the-play-room.json](./31477-virtual-escape-the-play-room.json) |
 | Virtual Mother Game: Family Mom Simulator | 95738 | [95738-virtual-mother-game-family-mom-simulator.json](./95738-virtual-mother-game-family-mom-simulator.json) |
 | Virtual Rides 3 | 31666 | [31666-virtual-rides-3.json](./31666-virtual-rides-3.json) |
