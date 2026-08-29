@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Cigkofte | 360441 | [360441-master-of-cigkofte.json](./360441-master-of-cigkofte.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match Point Tennis | 354296 | [354296-match-point-tennis.json](./354296-match-point-tennis.json) |
+| Match-3 Adventure Bundle | 350842 | [350842-match-3-adventure-bundle.json](./350842-match-3-adventure-bundle.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Matikka on Jees! | 370519 | [370519-matikka-on-jees.json](./370519-matikka-on-jees.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Rising Sun | 1316 | [1316-medal-of-honor-rising-sun.json](./1316-medal-of-honor-rising-sun.json) |
 | Meddl Dash | 368323 | [368323-meddl-dash.json](./368323-meddl-dash.json) |
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
+| Medieval Escape | 350832 | [350832-medieval-escape.json](./350832-medieval-escape.json) |
 | Medieval Juice Crafter | 400157 | [400157-medieval-juice-crafter.json](./400157-medieval-juice-crafter.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
 | Medieval Lord Tycoon | 384401 | [384401-medieval-lord-tycoon.json](./384401-medieval-lord-tycoon.json) |
@@ -456,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millipede | 4604 | [4604-millipede.json](./4604-millipede.json) |
 | Milton Bradley Tonka Construction Rig | 355949 | [355949-milton-bradley-tonka-construction-rig.json](./355949-milton-bradley-tonka-construction-rig.json) |
 | Mimosa | 398866 | [398866-mimosa.json](./398866-mimosa.json) |
+| Mind & Sight Spot the Difference Workout | 350838 | [350838-mind-and-sight-spot-the-difference-workout.json](./350838-mind-and-sight-spot-the-difference-workout.json) |
 | Mind: Path to Thalamus E.Edition | 36328 | [36328-mind-path-to-thalamus-e-edition.json](./36328-mind-path-to-thalamus-e-edition.json) |
 | MindFall: Cedar Grove | 402780 | [402780-mindfall-cedar-grove.json](./402780-mindfall-cedar-grove.json) |
 | Minds Eyes | 31523 | [31523-minds-eyes.json](./31523-minds-eyes.json) |
@@ -664,6 +667,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Body Coach 3 | 64273 | [64273-my-body-coach-3.json](./64273-my-body-coach-3.json) |
 | My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
 | My Cold Girlfriend | 374467 | [374467-my-cold-girlfriend.json](./374467-my-cold-girlfriend.json) |
+| My Cozy Room All in one | 350859 | [350859-my-cozy-room-all-in-one.json](./350859-my-cozy-room-all-in-one.json) |
+| My Cozy Room Season Collection | 350860 | [350860-my-cozy-room-season-collection.json](./350860-my-cozy-room-season-collection.json) |
+| My Cozy Room: Mediterranean | 350858 | [350858-my-cozy-room-mediterranean.json](./350858-my-cozy-room-mediterranean.json) |
 | My Dear Emma | 360945 | [360945-my-dear-emma.json](./360945-my-dear-emma.json) |
 | My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
 | My Farm Is Running! | 354248 | [354248-my-farm-is-running.json](./354248-my-farm-is-running.json) |
