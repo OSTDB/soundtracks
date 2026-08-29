@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert | 370499 | [370499-invert.json](./370499-invert.json) |
 | Inverta | 347530 | [347530-inverta.json](./347530-inverta.json) |
 | Investormania | 357661 | [357661-investormania.json](./357661-investormania.json) |
+| Invincible | 343108 | [343108-invincible.json](./343108-invincible.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
 | Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
 | Invincible Vs.: Conquest - Breakout Skin | 400150 | [400150-invincible-vs-conquest-breakout-skin.json](./400150-invincible-vs-conquest-breakout-skin.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
+| It Has My Face | 343096 | [343096-it-has-my-face.json](./343096-it-has-my-face.json) |
 | It Starts with a Summon | 390399 | [390399-it-starts-with-a-summon.json](./390399-it-starts-with-a-summon.json) |
 | It's Always Happy at Chubby's | 375659 | [375659-its-always-happy-at-chubbys.json](./375659-its-always-happy-at-chubbys.json) |
 | It's Hard To Be A Support | 366666 | [366666-its-hard-to-be-a-support.json](./366666-its-hard-to-be-a-support.json) |
