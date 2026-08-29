@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card of Arcana | 413564 | [413564-card-of-arcana.json](./413564-card-of-arcana.json) |
 | Card Revolution Soccer | 414977 | [414977-card-revolution-soccer.json](./414977-card-revolution-soccer.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
+| Carefully Stamped | 348637 | [348637-carefully-stamped.json](./348637-carefully-stamped.json) |
 | Cargo Commander | 7880 | [7880-cargo-commander.json](./7880-cargo-commander.json) |
 | Cargo! The Quest for Gravity | 9792 | [9792-cargo-the-quest-for-gravity.json](./9792-cargo-the-quest-for-gravity.json) |
 | Caribbean Frontier | 404143 | [404143-caribbean-frontier.json](./404143-caribbean-frontier.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: MagMax | 400783 | [400783-console-archives-magmax.json](./400783-console-archives-magmax.json) |
 | Console Archives: Seicross | 398195 | [398195-console-archives-seicross.json](./398195-console-archives-seicross.json) |
 | Console Archives: Terra Cresta | 396096 | [396096-console-archives-terra-cresta.json](./396096-console-archives-terra-cresta.json) |
+| Console Shop Simulator | 348631 | [348631-console-shop-simulator.json](./348631-console-shop-simulator.json) |
 | Constant C | 16670 | [16670-constant-c.json](./16670-constant-c.json) |
 | Constellations | 367266 | [367266-constellations.json](./367266-constellations.json) |
 | Construction Sim: City and Road Builder | 359810 | [359810-construction-sim-city-and-road-builder.json](./359810-construction-sim-city-and-road-builder.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoteer: Starship Architect & Commander | 54687 | [54687-cosmoteer-starship-architect-and-commander.json](./54687-cosmoteer-starship-architect-and-commander.json) |
 | Cosplay Maker | 15173 | [15173-cosplay-maker.json](./15173-cosplay-maker.json) |
 | Cossacks II: Battle for Europe | 13214 | [13214-cossacks-ii-battle-for-europe.json](./13214-cossacks-ii-battle-for-europe.json) |
+| Cotard | 348616 | [348616-cotard.json](./348616-cotard.json) |
 | Cottage Witch | 402149 | [402149-cottage-witch.json](./402149-cottage-witch.json) |
 | Couch Planes | 362087 | [362087-couch-planes.json](./362087-couch-planes.json) |
 | Count | 372292 | [372292-count.json](./372292-count.json) |
@@ -489,6 +492,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crime Boss: Rockay City - Heavy Hitters Pack | 348634 | [348634-crime-boss-rockay-city-heavy-hitters-pack.json](./348634-crime-boss-rockay-city-heavy-hitters-pack.json) |
+| Crime Boss: Rockay City - Hielo Character Pack | 348635 | [348635-crime-boss-rockay-city-hielo-character-pack.json](./348635-crime-boss-rockay-city-hielo-character-pack.json) |
 | Crime Boss: Rockay City - Wiz Character Pack | 357055 | [357055-crime-boss-rockay-city-wiz-character-pack.json](./357055-crime-boss-rockay-city-wiz-character-pack.json) |
 | Crime Scene Clean: Paranormal | 374999 | [374999-crime-scene-clean-paranormal.json](./374999-crime-scene-clean-paranormal.json) |
 | Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
