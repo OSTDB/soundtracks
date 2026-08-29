@@ -232,6 +232,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Turrican Director's Cut | 395455 | [395455-mega-turrican-directors-cut.json](./395455-mega-turrican-directors-cut.json) |
 | Megabait | 408676 | [408676-megabait.json](./408676-megabait.json) |
 | Megacity Builder | 44164 | [44164-megacity-builder.json](./44164-megacity-builder.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - AntiFire | 353104 | [353104-megaman-nt-warrior-advanced-pet-battle-chip-antifire.json](./353104-megaman-nt-warrior-advanced-pet-battle-chip-antifire.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - AntiNavi | 353105 | [353105-megaman-nt-warrior-advanced-pet-battle-chip-antinavi.json](./353105-megaman-nt-warrior-advanced-pet-battle-chip-antinavi.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - BigHammer1 | 353098 | [353098-megaman-nt-warrior-advanced-pet-battle-chip-bighammer1.json](./353098-megaman-nt-warrior-advanced-pet-battle-chip-bighammer1.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Blinder | 353102 | [353102-megaman-nt-warrior-advanced-pet-battle-chip-blinder.json](./353102-megaman-nt-warrior-advanced-pet-battle-chip-blinder.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Discord | 353097 | [353097-megaman-nt-warrior-advanced-pet-battle-chip-discord.json](./353097-megaman-nt-warrior-advanced-pet-battle-chip-discord.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Geddon1 | 353099 | [353099-megaman-nt-warrior-advanced-pet-battle-chip-geddon1.json](./353099-megaman-nt-warrior-advanced-pet-battle-chip-geddon1.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Geddon2 | 353100 | [353100-megaman-nt-warrior-advanced-pet-battle-chip-geddon2.json](./353100-megaman-nt-warrior-advanced-pet-battle-chip-geddon2.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Geddon3 | 353101 | [353101-megaman-nt-warrior-advanced-pet-battle-chip-geddon3.json](./353101-megaman-nt-warrior-advanced-pet-battle-chip-geddon3.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Guardian | 353110 | [353110-megaman-nt-warrior-advanced-pet-battle-chip-guardian.json](./353110-megaman-nt-warrior-advanced-pet-battle-chip-guardian.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - LifeAura | 353108 | [353108-megaman-nt-warrior-advanced-pet-battle-chip-lifeaura.json](./353108-megaman-nt-warrior-advanced-pet-battle-chip-lifeaura.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Lightning1 | 353107 | [353107-megaman-nt-warrior-advanced-pet-battle-chip-lightning1.json](./353107-megaman-nt-warrior-advanced-pet-battle-chip-lightning1.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Meteors1 | 353106 | [353106-megaman-nt-warrior-advanced-pet-battle-chip-meteors1.json](./353106-megaman-nt-warrior-advanced-pet-battle-chip-meteors1.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - Muramasa | 353109 | [353109-megaman-nt-warrior-advanced-pet-battle-chip-muramasa.json](./353109-megaman-nt-warrior-advanced-pet-battle-chip-muramasa.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - PopUp | 353103 | [353103-megaman-nt-warrior-advanced-pet-battle-chip-popup.json](./353103-megaman-nt-warrior-advanced-pet-battle-chip-popup.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - ProtoMan | 353111 | [353111-megaman-nt-warrior-advanced-pet-battle-chip-protoman.json](./353111-megaman-nt-warrior-advanced-pet-battle-chip-protoman.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - StealthMine | 353096 | [353096-megaman-nt-warrior-advanced-pet-battle-chip-stealthmine.json](./353096-megaman-nt-warrior-advanced-pet-battle-chip-stealthmine.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - White Web 1 | 353116 | [353116-megaman-nt-warrior-advanced-pet-battle-chip-white-web-1.json](./353116-megaman-nt-warrior-advanced-pet-battle-chip-white-web-1.json) |
 | Megaman Zero: VS The Universe | 369960 | [369960-megaman-zero-vs-the-universe.json](./369960-megaman-zero-vs-the-universe.json) |
 | Megamind: Ultimate Showdown | 5002 | [5002-megamind-ultimate-showdown.json](./5002-megamind-ultimate-showdown.json) |
 | Megaquarium: Architect's Collection | 182240 | [182240-megaquarium-architects-collection.json](./182240-megaquarium-architects-collection.json) |
