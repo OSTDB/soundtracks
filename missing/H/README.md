@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dice Sudoku | 382033 | [382033-hentai-dice-sudoku.json](./382033-hentai-dice-sudoku.json) |
 | Hentai Elarin | 382022 | [382022-hentai-elarin.json](./382022-hentai-elarin.json) |
 | Hentai Gallery: Sweet Dreams | 379770 | [379770-hentai-gallery-sweet-dreams.json](./379770-hentai-gallery-sweet-dreams.json) |
+| Hentai Games Collection Vol. 1 | 350284 | [350284-hentai-games-collection-vol-1.json](./350284-hentai-games-collection-vol-1.json) |
 | Hentai Girls: Charming Chef | 350845 | [350845-hentai-girls-charming-chef.json](./350845-hentai-girls-charming-chef.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
@@ -200,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
 | Hidden Sin 8 | 367806 | [367806-hidden-sin-8.json](./367806-hidden-sin-8.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
+| Hide From Papaku | 350256 | [350256-hide-from-papaku.json](./350256-hide-from-papaku.json) |
 | Hiding Spot | 110651 | [110651-hiding-spot.json](./110651-hiding-spot.json) |
 | High on Life VR | 413521 | [413521-high-on-life-vr.json](./413521-high-on-life-vr.json) |
 | High Stakes: Hot Nights | 375045 | [375045-high-stakes-hot-nights.json](./375045-high-stakes-hot-nights.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Hungry Hippos: Move N’ Munch | 382611 | [382611-hungry-hungry-hippos-move-n-munch.json](./382611-hungry-hungry-hippos-move-n-munch.json) |
 | Hungry Pac II | 385487 | [385487-hungry-pac-ii.json](./385487-hungry-pac-ii.json) |
 | Hunt Skeletons Together | 410144 | [410144-hunt-skeletons-together.json](./410144-hunt-skeletons-together.json) |
+| Hunted | 350265 | [350265-hunted.json](./350265-hunted.json) |
 | Hunter: Space Pirates | 369401 | [369401-hunter-space-pirates.json](./369401-hunter-space-pirates.json) |
 | Hunter's Grimm | 29836 | [29836-hunters-grimm.json](./29836-hunters-grimm.json) |
 | Huntin' Buddies | 397532 | [397532-huntin-buddies.json](./397532-huntin-buddies.json) |
