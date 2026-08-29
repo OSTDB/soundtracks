@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With: Laura | 382034 | [382034-a-sexy-tour-with-laura.json](./382034-a-sexy-tour-with-laura.json) |
 | A Sexy Tour With: Xiang | 382059 | [382059-a-sexy-tour-with-xiang.json](./382059-a-sexy-tour-with-xiang.json) |
 | A Short Quest | 393332 | [393332-a-short-quest.json](./393332-a-short-quest.json) |
+| A Snail's Tale | 349661 | [349661-a-snails-tale.json](./349661-a-snails-tale.json) |
 | A Spark in the Forest | 382020 | [382020-a-spark-in-the-forest.json](./382020-a-spark-in-the-forest.json) |
 | A Storm of Snails | 408635 | [408635-a-storm-of-snails.json](./408635-a-storm-of-snails.json) |
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Bunny | 389326 | [389326-acid-bunny.json](./389326-acid-bunny.json) |
 | Acornia: Mirror Worlds | 414957 | [414957-acornia-mirror-worlds.json](./414957-acornia-mirror-worlds.json) |
 | Acrogorpon | 377478 | [377478-acrogorpon.json](./377478-acrogorpon.json) |
+| Acropalypse | 349705 | [349705-acropalypse.json](./349705-acropalypse.json) |
 | Across the Gap | 377477 | [377477-across-the-gap.json](./377477-across-the-gap.json) |
 | Across Unbeaten Paths | 377479 | [377479-across-unbeaten-paths.json](./377479-across-unbeaten-paths.json) |
 | Act of War: Direct Action | 587 | [587-act-of-war-direct-action.json](./587-act-of-war-direct-action.json) |
@@ -159,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
 | Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
 | Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
+| Aeon Attack | 349687 | [349687-aeon-attack.json](./349687-aeon-attack.json) |
 | Aerial Assault GG2SMS | 369433 | [369433-aerial-assault-gg2sms.json](./369433-aerial-assault-gg2sms.json) |
 | Aerialia: Wings of Delivery | 413551 | [413551-aerialia-wings-of-delivery.json](./413551-aerialia-wings-of-delivery.json) |
 | Aero the Acro-Bat | 5348 | [5348-aero-the-acro-bat.json](./5348-aero-the-acro-bat.json) |
@@ -265,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt-Play: Jason Rohrer Anthology | 63355 | [63355-alt-play-jason-rohrer-anthology.json](./63355-alt-play-jason-rohrer-anthology.json) |
 | Alter Ego | 2303 | [2303-alter-ego.json](./2303-alter-ego.json) |
 | Alter Ego | 363225 | [363225-alter-ego.json](./363225-alter-ego.json) |
+| Alterchase | 349704 | [349704-alterchase.json](./349704-alterchase.json) |
 | Altered Space | 7752 | [7752-altered-space.json](./7752-altered-space.json) |
 | Altus Chess: Archaic Beginnings | 412854 | [412854-altus-chess-archaic-beginnings.json](./412854-altus-chess-archaic-beginnings.json) |
 | Alvin and the Chipmunks: Chipwrecked | 4670 | [4670-alvin-and-the-chipmunks-chipwrecked.json](./4670-alvin-and-the-chipmunks-chipwrecked.json) |
@@ -455,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
 | Ascension of the Dead | 350243 | [350243-ascension-of-the-dead.json](./350243-ascension-of-the-dead.json) |
+| Ash and Flame | 349664 | [349664-ash-and-flame.json](./349664-ash-and-flame.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
 | Ashes & Blood | 369970 | [369970-ashes-and-blood.json](./369970-ashes-and-blood.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
@@ -462,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Riddles | 87625 | [87625-asian-riddles.json](./87625-asian-riddles.json) |
 | Asian Riddles 3 | 89361 | [89361-asian-riddles-3.json](./89361-asian-riddles-3.json) |
 | Asobutsuri | 410814 | [410814-asobutsuri.json](./410814-asobutsuri.json) |
+| Asonde Chess ga Tsuyoku Naru! Ginsei Chess DX | 349685 | [349685-asonde-chess-ga-tsuyoku-naru-ginsei-chess-dx.json](./349685-asonde-chess-ga-tsuyoku-naru-ginsei-chess-dx.json) |
 | Asphalt 8: Airborne | 23306 | [23306-asphalt-8-airborne.json](./23306-asphalt-8-airborne.json) |
 | Asphalt Racing Bundle 3 in 1 | 392614 | [392614-asphalt-racing-bundle-3-in-1.json](./392614-asphalt-racing-bundle-3-in-1.json) |
 | Asphalt Racing Bundle Grand Prix & Hypercar | 392613 | [392613-asphalt-racing-bundle-grand-prix-and-hypercar.json](./392613-asphalt-racing-bundle-grand-prix-and-hypercar.json) |
