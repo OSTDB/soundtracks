@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush: A Disney Pixar Adventure | 55072 | [55072-rush-a-disney-pixar-adventure.json](./55072-rush-a-disney-pixar-adventure.json) |
 | Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rushy Road | 382653 | [382653-rushy-road.json](./382653-rushy-road.json) |
+| Russian Parkour Simulator | 354249 | [354249-russian-parkour-simulator.json](./354249-russian-parkour-simulator.json) |
 | Russian Village Business | 397566 | [397566-russian-village-business.json](./397566-russian-village-business.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | Rustmire | 374499 | [374499-rustmire.json](./374499-rustmire.json) |
