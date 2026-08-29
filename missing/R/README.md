@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple Island: Kyle and Cal’s Restaurant | 367815 | [367815-ripple-island-kyle-and-cal-s-restaurant.json](./367815-ripple-island-kyle-and-cal-s-restaurant.json) |
 | Rise From Ruin | 368300 | [368300-rise-from-ruin.json](./368300-rise-from-ruin.json) |
 | Rise of Industry | 51577 | [51577-rise-of-industry.json](./51577-rise-of-industry.json) |
+| Rise of Shrooms | 348080 | [348080-rise-of-shrooms.json](./348080-rise-of-shrooms.json) |
 | Rise of Sorcery | 400151 | [400151-rise-of-sorcery.json](./400151-rise-of-sorcery.json) |
 | Rise of the Robots | 4259 | [4259-rise-of-the-robots.json](./4259-rise-of-the-robots.json) |
 | Rise to King Ortler | 366085 | [366085-rise-to-king-ortler.json](./366085-rise-to-king-ortler.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Timberworks Pack | 386588 | [386588-roadcraft-timberworks-pack.json](./386588-roadcraft-timberworks-pack.json) |
 | Roadhouse Simulator | 388617 | [388617-roadhouse-simulator.json](./388617-roadhouse-simulator.json) |
 | Roadside Reseal | 386038 | [386038-roadside-reseal.json](./386038-roadside-reseal.json) |
+| Roam0120 | 348085 | [348085-roam0120.json](./348085-roam0120.json) |
 | Rob Your Friends or Die | 349129 | [349129-rob-your-friends-or-die.json](./349129-rob-your-friends-or-die.json) |
 | Robber | 408667 | [408667-robber.json](./408667-robber.json) |
 | Roblox: Zorzax | 409437 | [409437-roblox-zorzax.json](./409437-roblox-zorzax.json) |
@@ -376,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushy Road | 382653 | [382653-rushy-road.json](./382653-rushy-road.json) |
 | Russian Parkour Simulator | 354249 | [354249-russian-parkour-simulator.json](./354249-russian-parkour-simulator.json) |
 | Russian Village Business | 397566 | [397566-russian-village-business.json](./397566-russian-village-business.json) |
+| Rust and Patina | 348090 | [348090-rust-and-patina.json](./348090-rust-and-patina.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | Rustmire | 374499 | [374499-rustmire.json](./374499-rustmire.json) |
 | Rusty Heights | 350822 | [350822-rusty-heights.json](./350822-rusty-heights.json) |
