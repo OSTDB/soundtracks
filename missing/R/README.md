@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Time Chess Roguelike | 392028 | [392028-real-time-chess-roguelike.json](./392028-real-time-chess-roguelike.json) |
 | Real-time Shogi | 364920 | [364920-real-time-shogi.json](./364920-real-time-shogi.json) |
+| Reality | 350270 | [350270-reality.json](./350270-reality.json) |
 | Realm of Fame | 360417 | [360417-realm-of-fame.json](./360417-realm-of-fame.json) |
 | Realmlords | 404746 | [404746-realmlords.json](./404746-realmlords.json) |
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
