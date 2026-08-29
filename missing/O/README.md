@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Otter Swim | 388622 | [388622-ocean-otter-swim.json](./388622-ocean-otter-swim.json) |
 | Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Ocean::Ephemera | 387853 | [387853-ocean-ephemera.json](./387853-ocean-ephemera.json) |
+| Ocean's Delight | 348601 | [348601-oceans-delight.json](./348601-oceans-delight.json) |
 | Octahedron: Transfixed Edition | 113485 | [113485-octahedron-transfixed-edition.json](./113485-octahedron-transfixed-edition.json) |
 | Octomania | 5083 | [5083-octomania.json](./5083-octomania.json) |
 | Octopticom | 110147 | [110147-octopticom.json](./110147-octopticom.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other worlds India | 29884 | [29884-other-worlds-india.json](./29884-other-worlds-india.json) |
 | Otherside: Untamed Words | 357063 | [357063-otherside-untamed-words.json](./357063-otherside-untamed-words.json) |
 | Otpisani: Nightingale | 400808 | [400808-otpisani-nightingale.json](./400808-otpisani-nightingale.json) |
+| Otters and Stones | 348647 | [348647-otters-and-stones.json](./348647-otters-and-stones.json) |
 | OTXO | 199736 | [199736-otxo.json](./199736-otxo.json) |
 | Our Brief Eternity | 390400 | [390400-our-brief-eternity.json](./390400-our-brief-eternity.json) |
 | Our World is Ended | 31553 | [31553-our-world-is-ended.json](./31553-our-world-is-ended.json) |
