@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Jump & Giggle | 382610 | [382610-peppa-pig-jump-and-giggle.json](./382610-peppa-pig-jump-and-giggle.json) |
 | Perfect Diamond | 357080 | [357080-perfect-diamond.json](./357080-perfect-diamond.json) |
 | Perfect Game | 411462 | [411462-perfect-game.json](./411462-perfect-game.json) |
+| Perfect Mah-jongg | 345905 | [345905-perfect-mah-jongg.json](./345905-perfect-mah-jongg.json) |
 | PerformVR | 412834 | [412834-performvr.json](./412834-performvr.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Tycoon | 396799 | [396799-pilot-tycoon.json](./396799-pilot-tycoon.json) |
 | Pimp My Ride Street Racing | 20904 | [20904-pimp-my-ride-street-racing.json](./20904-pimp-my-ride-street-racing.json) |
 | Pin Money | 406020 | [406020-pin-money.json](./406020-pin-money.json) |
+| Pinball | 345873 | [345873-pinball.json](./345873-pinball.json) |
 | Pinball Arcade: Attack from Mars | 353688 | [353688-pinball-arcade-attack-from-mars.json](./353688-pinball-arcade-attack-from-mars.json) |
 | Pinball Arcade: Big Shot | 353687 | [353687-pinball-arcade-big-shot.json](./353687-pinball-arcade-big-shot.json) |
 | Pinball Arcade: Black Knight | 353685 | [353685-pinball-arcade-black-knight.json](./353685-pinball-arcade-black-knight.json) |
@@ -305,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Space Jigsaws | 401425 | [401425-pixel-puzzles-space-jigsaws.json](./401425-pixel-puzzles-space-jigsaws.json) |
 | Pixel Puzzles: Japan | 10702 | [10702-pixel-puzzles-japan.json](./10702-pixel-puzzles-japan.json) |
 | Pixel Shopkeeper | 44518 | [44518-pixel-shopkeeper.json](./44518-pixel-shopkeeper.json) |
+| Pixelands | 345864 | [345864-pixelands.json](./345864-pixelands.json) |
 | PixelJunk Monsters | 5444 | [5444-pixeljunk-monsters.json](./5444-pixeljunk-monsters.json) |
 | PixelJunk Monsters Ultimate HD | 20856 | [20856-pixeljunk-monsters-ultimate-hd.json](./20856-pixeljunk-monsters-ultimate-hd.json) |
 | Pixelwave Off | 406001 | [406001-pixelwave-off.json](./406001-pixelwave-off.json) |
@@ -456,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerfall | 347513 | [347513-powerfall.json](./347513-powerfall.json) |
 | Powerfuel | 392633 | [392633-powerfuel.json](./392633-powerfuel.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
+| PowerWash Simulator: Muckingham Files - Part 6 | 345856 | [345856-powerwash-simulator-muckingham-files-part-6.json](./345856-powerwash-simulator-muckingham-files-part-6.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Practisim Designer | 388591 | [388591-practisim-designer.json](./388591-practisim-designer.json) |
 | Predator | 358696 | [358696-predator.json](./358696-predator.json) |
@@ -475,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism of You | 371716 | [371716-prism-of-you.json](./371716-prism-of-you.json) |
 | Prism Song | 362657 | [362657-prism-song.json](./362657-prism-song.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
+| Prison Escape Simulator: Dig Out | 345882 | [345882-prison-escape-simulator-dig-out.json](./345882-prison-escape-simulator-dig-out.json) |
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
 | Pro Basketball Manager 2016 | 35797 | [35797-pro-basketball-manager-2016.json](./35797-pro-basketball-manager-2016.json) |
@@ -526,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress PET: Navi Chip - 863: Tomahawkman | 355400 | [355400-progress-pet-navi-chip-863-tomahawkman.json](./355400-progress-pet-navi-chip-863-tomahawkman.json) |
 | Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
 | Project Agent | 362631 | [362631-project-agent.json](./362631-project-agent.json) |
+| Project BS | 345907 | [345907-project-bs.json](./345907-project-bs.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
 | Project Capture | 363232 | [363232-project-capture.json](./363232-project-capture.json) |
 | Project CARS: Game of the Year Edition | 47484 | [47484-project-cars-game-of-the-year-edition.json](./47484-project-cars-game-of-the-year-edition.json) |
