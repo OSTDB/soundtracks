@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Hunting Expeditions | 7808 | [7808-cabelas-hunting-expeditions.json](./7808-cabelas-hunting-expeditions.json) |
 | Cable Arrange | 414981 | [414981-cable-arrange.json](./414981-cable-arrange.json) |
 | Cactus McCoy and the Curse of Thorns | 179380 | [179380-cactus-mccoy-and-the-curse-of-thorns.json](./179380-cactus-mccoy-and-the-curse-of-thorns.json) |
+| Cadence Point | 355918 | [355918-cadence-point.json](./355918-cadence-point.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Condo 2 | 364312 | [364312-cat-condo-2.json](./364312-cat-condo-2.json) |
 | Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Physics | 90671 | [90671-cat-physics.json](./90671-cat-physics.json) |
+| Cat Runner | 355910 | [355910-cat-runner.json](./355910-cat-runner.json) |
 | Cat's Holidays | 378629 | [378629-cats-holidays.json](./378629-cats-holidays.json) |
 | Catapult King | 63038 | [63038-catapult-king.json](./63038-catapult-king.json) |
 | Catch Me | 23724 | [23724-catch-me.json](./23724-catch-me.json) |
