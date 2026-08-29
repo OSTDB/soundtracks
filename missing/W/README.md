@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 2 | 947 | [947-worms-2.json](./947-worms-2.json) |
 | Worms 4: Mayhem | 6244 | [6244-worms-4-mayhem.json](./6244-worms-4-mayhem.json) |
 | Worms Collection | 7249 | [7249-worms-collection.json](./7249-worms-collection.json) |
+| Worms World Party | 350836 | [350836-worms-world-party.json](./350836-worms-world-party.json) |
 | Worse Than Death | 115447 | [115447-worse-than-death.json](./115447-worse-than-death.json) |
 | Worship Demon | 386576 | [386576-worship-demon.json](./386576-worship-demon.json) |
 | Wraith of the Cards | 411433 | [411433-wraith-of-the-cards.json](./411433-wraith-of-the-cards.json) |
