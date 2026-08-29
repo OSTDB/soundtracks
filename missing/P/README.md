@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: The Champion Pub | 353696 | [353696-pinball-arcade-the-champion-pub.json](./353696-pinball-arcade-the-champion-pub.json) |
 | Pinball Arcade: The Machine - Bride of Pin-Bot️ | 353683 | [353683-pinball-arcade-the-machine-bride-of-pin-bot.json](./353683-pinball-arcade-the-machine-bride-of-pin-bot.json) |
 | Pinball Arcade: The Party Zone | 353706 | [353706-pinball-arcade-the-party-zone.json](./353706-pinball-arcade-the-party-zone.json) |
+| Pinball FX: Star Wars Pinball - Solo Pack | 344750 | [344750-pinball-fx-star-wars-pinball-solo-pack.json](./344750-pinball-fx-star-wars-pinball-solo-pack.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball Garden | 389888 | [389888-pinball-garden.json](./389888-pinball-garden.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal Expedition | 410102 | [410102-postal-expedition.json](./410102-postal-expedition.json) |
 | Posterior | 389878 | [389878-posterior.json](./389878-posterior.json) |
 | Postin Paradise | 406022 | [406022-postin-paradise.json](./406022-postin-paradise.json) |
+| Potato | 344748 | [344748-potato.json](./344748-potato.json) |
 | Potato Game. Trilogy | 369389 | [369389-potato-game-trilogy.json](./369389-potato-game-trilogy.json) |
 | Potion Paws | 125751 | [125751-potion-paws.json](./125751-potion-paws.json) |
 | Potted Pets | 396093 | [396093-potted-pets.json](./396093-potted-pets.json) |
