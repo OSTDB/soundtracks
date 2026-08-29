@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
 | Shmandala | 384384 | [384384-shmandala.json](./384384-shmandala.json) |
 | Shoot! Is done | 393370 | [393370-shoot-is-done.json](./393370-shoot-is-done.json) |
+| Shooter and Simulator Bundle | 350857 | [350857-shooter-and-simulator-bundle.json](./350857-shooter-and-simulator-bundle.json) |
 | Shooterhouse | 383806 | [383806-shooterhouse.json](./383806-shooterhouse.json) |
 | Shop Heroes | 31969 | [31969-shop-heroes.json](./31969-shop-heroes.json) |
 | Shop Simulator Collection Bundle: Trading Card & Collectible Cars & Retro Geek | 394742 | [394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json](./394742-shop-simulator-collection-bundle-trading-card-and-collectible-cars-and-retro-geek.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrop | 398880 | [398880-snowdrop.json](./398880-snowdrop.json) |
 | Snowdrop | 398879 | [398879-snowdrop.json](./398879-snowdrop.json) |
 | Snowed Under | 411464 | [411464-snowed-under.json](./411464-snowed-under.json) |
+| Snug Finder: Deluxe Edition | 350851 | [350851-snug-finder-deluxe-edition.json](./350851-snug-finder-deluxe-edition.json) |
 | So Many Me | 9478 | [9478-so-many-me.json](./9478-so-many-me.json) |
 | So Perfect I Could Eat You Up | 411443 | [411443-so-perfect-i-could-eat-you-up.json](./411443-so-perfect-i-could-eat-you-up.json) |
 | Soccerlypse | 368877 | [368877-soccerlypse.json](./368877-soccerlypse.json) |
@@ -513,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Channel 5 | 6602 | [6602-space-channel-5.json](./6602-space-channel-5.json) |
 | Space Channel 5: Part 2 | 6603 | [6603-space-channel-5-part-2.json](./6603-space-channel-5-part-2.json) |
 | Space Colony | 22248 | [22248-space-colony.json](./22248-space-colony.json) |
+| Space Domination | 350818 | [350818-space-domination.json](./350818-space-domination.json) |
 | Space Explorers | 61877 | [61877-space-explorers.json](./61877-space-explorers.json) |
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Harrier | 364893 | [364893-space-harrier.json](./364893-space-harrier.json) |
@@ -705,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigmat | 34442 | [34442-stigmat.json](./34442-stigmat.json) |
 | Stika | 394006 | [394006-stika.json](./394006-stika.json) |
 | Still Maze: Stab Eyes | 404130 | [404130-still-maze-stab-eyes.json](./404130-still-maze-stab-eyes.json) |
+| Still Space | 350815 | [350815-still-space.json](./350815-still-space.json) |
 | Stillsun Ark | 412863 | [412863-stillsun-ark.json](./412863-stillsun-ark.json) |
 | Stinger | 52195 | [52195-stinger.json](./52195-stinger.json) |
 | Stinky Cat | 384937 | [384937-stinky-cat.json](./384937-stinky-cat.json) |
@@ -729,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 14178 | [14178-stranded.json](./14178-stranded.json) |
 | Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Strange Brew | 369930 | [369930-strange-brew.json](./369930-strange-brew.json) |
+| Stranger Saga: Stranger Bach and Iskiyeld's Ambition | 350814 | [350814-stranger-saga-stranger-bach-and-iskiyelds-ambition.json](./350814-stranger-saga-stranger-bach-and-iskiyelds-ambition.json) |
 | Stranglehold of the Elite | 369979 | [369979-stranglehold-of-the-elite.json](./369979-stranglehold-of-the-elite.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Strato Freaks DX | 368317 | [368317-strato-freaks-dx.json](./368317-strato-freaks-dx.json) |
@@ -770,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II | 10929 | [10929-stronghold-crusader-ii.json](./10929-stronghold-crusader-ii.json) |
 | Strozowka | 404151 | [404151-strozowka.json](./404151-strozowka.json) |
 | Stuck Together | 360995 | [360995-stuck-together.json](./360995-stuck-together.json) |
+| Stuff it! | 350846 | [350846-stuff-it.json](./350846-stuff-it.json) |
 | Stumble Guys | 142391 | [142391-stumble-guys.json](./142391-stumble-guys.json) |
 | Stunt Car Extreme Simulator | 392621 | [392621-stunt-car-extreme-simulator.json](./392621-stunt-car-extreme-simulator.json) |
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
@@ -902,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superlite 2000: Table Game - Uno | 407255 | [407255-superlite-2000-table-game-uno.json](./407255-superlite-2000-table-game-uno.json) |
 | Superman | 81522 | [81522-superman.json](./81522-superman.json) |
 | Superman: The Game | 26271 | [26271-superman-the-game.json](./26271-superman-the-game.json) |
+| Supermarket Manager 2025 | 350834 | [350834-supermarket-manager-2025.json](./350834-supermarket-manager-2025.json) |
 | SuperStar: The Boyz | 388578 | [388578-superstar-the-boyz.json](./388578-superstar-the-boyz.json) |
 | Superstars V8 Racing | 7199 | [7199-superstars-v8-racing.json](./7199-superstars-v8-racing.json) |
 | Superstars V8 Racing: Next Challenge | 47462 | [47462-superstars-v8-racing-next-challenge.json](./47462-superstars-v8-racing-next-challenge.json) |
@@ -919,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival Vacancy | 126356 | [126356-survival-vacancy.json](./126356-survival-vacancy.json) |
 | SurvivalZ | 86575 | [86575-survivalz.json](./86575-survivalz.json) |
+| Survive A Mile | 350835 | [350835-survive-a-mile.json](./350835-survive-a-mile.json) |
 | Surviving Mars: Relaunched | 362081 | [362081-surviving-mars-relaunched.json](./362081-surviving-mars-relaunched.json) |
 | Survivor Royale | 87581 | [87581-survivor-royale.json](./87581-survivor-royale.json) |
 | Sushi Attack | 359803 | [359803-sushi-attack.json](./359803-sushi-attack.json) |
