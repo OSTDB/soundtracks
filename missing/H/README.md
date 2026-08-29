@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer | 406605 | [406605-healer.json](./406605-healer.json) |
 | Heart Drive | 383219 | [383219-heart-drive.json](./383219-heart-drive.json) |
 | Heart of Crown PC | 76860 | [76860-heart-of-crown-pc.json](./76860-heart-of-crown-pc.json) |
+| Heart of Gaia | 355397 | [355397-heart-of-gaia.json](./355397-heart-of-gaia.json) |
 | Heart of the Forest | 371106 | [371106-heart-of-the-forest.json](./371106-heart-of-the-forest.json) |
 | Heart of Vinterium | 383221 | [383221-heart-of-vinterium.json](./383221-heart-of-vinterium.json) |
 | Heart Sequence | 384939 | [384939-heart-sequence.json](./384939-heart-sequence.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydra Heli | 366074 | [366074-hydra-heli.json](./366074-hydra-heli.json) |
 | Hydro Thunder Hurricane | 3704 | [3704-hydro-thunder-hurricane.json](./3704-hydro-thunder-hurricane.json) |
 | Hygrim | 392654 | [392654-hygrim.json](./392654-hygrim.json) |
+| Hymnlight: Bazaar Ladder | 355402 | [355402-hymnlight-bazaar-ladder.json](./355402-hymnlight-bazaar-ladder.json) |
 | Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
