@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
 | DinerTown Detective Agency | 15001 | [15001-dinertown-detective-agency.json](./15001-dinertown-detective-agency.json) |
 | Dino Jump Deluxe | 411491 | [411491-dino-jump-deluxe.json](./411491-dino-jump-deluxe.json) |
+| Dino Quake | 348064 | [348064-dino-quake.json](./348064-dino-quake.json) |
 | Dino Quest VR | 408648 | [408648-dino-quest-vr.json](./408648-dino-quest-vr.json) |
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
 | Dino Sort | 350817 | [350817-dino-sort.json](./350817-dino-sort.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of a Ghost | 360953 | [360953-dreams-of-a-ghost.json](./360953-dreams-of-a-ghost.json) |
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dreams of Saturn 3.0 | 382012 | [382012-dreams-of-saturn-3-0.json](./382012-dreams-of-saturn-3-0.json) |
+| Dreamship Sugarcube | 348049 | [348049-dreamship-sugarcube.json](./348049-dreamship-sugarcube.json) |
 | Dreamy Golden Snow | 391509 | [391509-dreamy-golden-snow.json](./391509-dreamy-golden-snow.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
@@ -607,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Tuner 2019 | 86542 | [86542-drift-tuner-2019.json](./86542-drift-tuner-2019.json) |
 | Drifted | 380274 | [380274-drifted.json](./380274-drifted.json) |
 | Drifters: Blackout Crew | 413536 | [413536-drifters-blackout-crew.json](./413536-drifters-blackout-crew.json) |
+| Drill Beat | 348073 | [348073-drill-beat.json](./348073-drill-beat.json) |
 | Drive | 380273 | [380273-drive.json](./380273-drive.json) |
 | Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive Fast - 2d Retro Racing | 95680 | [95680-drive-fast-2d-retro-racing.json](./95680-drive-fast-2d-retro-racing.json) |
@@ -635,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | DS Doom | 378659 | [378659-ds-doom.json](./378659-ds-doom.json) |
+| DSS 2: War Industry | 348055 | [348055-dss-2-war-industry.json](./348055-dss-2-war-industry.json) |
 | Duck Blitz | 351450 | [351450-duck-blitz.json](./351450-duck-blitz.json) |
 | Duck Block | 379213 | [379213-duck-block.json](./379213-duck-block.json) |
 | Duck Hunt | 358712 | [358712-duck-hunt.json](./358712-duck-hunt.json) |
@@ -711,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dworf's Forbidden Gold | 373365 | [373365-dworfs-forbidden-gold.json](./373365-dworfs-forbidden-gold.json) |
 | DWVR | 31502 | [31502-dwvr.json](./31502-dwvr.json) |
 | Dye Hard | 387869 | [387869-dye-hard.json](./387869-dye-hard.json) |
+| Dying with Thyself | 348095 | [348095-dying-with-thyself.json](./348095-dying-with-thyself.json) |
 | Dynamite Jack | 15161 | [15161-dynamite-jack.json](./15161-dynamite-jack.json) |
 | Dynamo Dice | 400765 | [400765-dynamo-dice.json](./400765-dynamo-dice.json) |
 | Dynasty Protocol | 375000 | [375000-dynasty-protocol.json](./375000-dynasty-protocol.json) |
