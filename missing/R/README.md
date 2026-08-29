@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics 3: Ashes for Gold | 389319 | [389319-relics-3-ashes-for-gold.json](./389319-relics-3-ashes-for-gold.json) |
 | Remains | 364924 | [364924-remains.json](./364924-remains.json) |
 | Remedy for Personality | 379776 | [379776-remedy-for-personality.json](./379776-remedy-for-personality.json) |
+| RememPair: Animals | 350849 | [350849-remempair-animals.json](./350849-remempair-animals.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Remnants of War | 360442 | [360442-remnants-of-war.json](./360442-remnants-of-war.json) |
 | Rent A Car Together | 410753 | [410753-rent-a-car-together.json](./410753-rent-a-car-together.json) |
@@ -368,5 +369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Village Business | 397566 | [397566-russian-village-business.json](./397566-russian-village-business.json) |
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | Rustmire | 374499 | [374499-rustmire.json](./374499-rustmire.json) |
+| Rusty Heights | 350822 | [350822-rusty-heights.json](./350822-rusty-heights.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
 | Ryzom | 6742 | [6742-ryzom.json](./6742-ryzom.json) |
