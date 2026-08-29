@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator Simulator: Arena of Freedom | 356496 | [356496-gladiator-simulator-arena-of-freedom.json](./356496-gladiator-simulator-arena-of-freedom.json) |
 | Gladiatorum: Sacramentum | 364317 | [364317-gladiatorum-sacramentum.json](./364317-gladiatorum-sacramentum.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
+| GleanBound | 351473 | [351473-gleanbound.json](./351473-gleanbound.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glide | 379224 | [379224-glide.json](./379224-glide.json) |
 | Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
