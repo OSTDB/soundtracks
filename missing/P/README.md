@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiMelt | 87568 | [87568-papimelt.json](./87568-papimelt.json) |
 | PapiPlane | 87610 | [87610-papiplane.json](./87610-papiplane.json) |
 | PapiTrio | 87566 | [87566-papitrio.json](./87566-papitrio.json) |
+| Parabellum: Siege of Legends | 343657 | [343657-parabellum-siege-of-legends.json](./343657-parabellum-siege-of-legends.json) |
 | Parallax | 13545 | [13545-parallax.json](./13545-parallax.json) |
 | Parallel | 350242 | [350242-parallel.json](./350242-parallel.json) |
 | Parallel Convergence | 353677 | [353677-parallel-convergence.json](./353677-parallel-convergence.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peak The Adventure Begins | 373389 | [373389-peak-the-adventure-begins.json](./373389-peak-the-adventure-begins.json) |
 | Pecado: SD Card | 389289 | [389289-pecado-sd-card.json](./389289-pecado-sd-card.json) |
+| Pee Pee Boy | 343645 | [343645-pee-pee-boy.json](./343645-pee-pee-boy.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
 | Peeps! | 400766 | [400766-peeps.json](./400766-peeps.json) |
 | Peggle Nights: Art Contest Pack | 358683 | [358683-peggle-nights-art-contest-pack.json](./358683-peggle-nights-art-contest-pack.json) |
@@ -270,6 +272,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: The Champion Pub | 353696 | [353696-pinball-arcade-the-champion-pub.json](./353696-pinball-arcade-the-champion-pub.json) |
 | Pinball Arcade: The Machine - Bride of Pin-Bot️ | 353683 | [353683-pinball-arcade-the-machine-bride-of-pin-bot.json](./353683-pinball-arcade-the-machine-bride-of-pin-bot.json) |
 | Pinball Arcade: The Party Zone | 353706 | [353706-pinball-arcade-the-party-zone.json](./353706-pinball-arcade-the-party-zone.json) |
+| Pinball FX VR: Williams Pinball - Volume 1 | 343629 | [343629-pinball-fx-vr-williams-pinball-volume-1.json](./343629-pinball-fx-vr-williams-pinball-volume-1.json) |
+| Pinball FX VR: Williams Pinball - Volume 2 | 343630 | [343630-pinball-fx-vr-williams-pinball-volume-2.json](./343630-pinball-fx-vr-williams-pinball-volume-2.json) |
+| Pinball FX VR: Williams Pinball - Volume 3 | 343631 | [343631-pinball-fx-vr-williams-pinball-volume-3.json](./343631-pinball-fx-vr-williams-pinball-volume-3.json) |
 | Pinball FX: Star Wars Pinball - Solo Pack | 344750 | [344750-pinball-fx-star-wars-pinball-solo-pack.json](./344750-pinball-fx-star-wars-pinball-solo-pack.json) |
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
