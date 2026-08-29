@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire: Night One | 387912 | [387912-campfire-night-one.json](./387912-campfire-night-one.json) |
 | Campus Legends College Basketball | 368310 | [368310-campus-legends-college-basketball.json](./368310-campus-legends-college-basketball.json) |
 | Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
+| Can Knockdown | 343637 | [343637-can-knockdown.json](./343637-can-knockdown.json) |
 | Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue: Winter Crime Scene | 386569 | [386569-clue-winter-crime-scene.json](./386569-clue-winter-crime-scene.json) |
 | Clunky Hero | 163820 | [163820-clunky-hero.json](./163820-clunky-hero.json) |
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
+| Coagulation Station: Fleshfall | 343648 | [343648-coagulation-station-fleshfall.json](./343648-coagulation-station-fleshfall.json) |
 | Cobalt Core | 232416 | [232416-cobalt-core.json](./232416-cobalt-core.json) |
 | Code Lyoko: Quest for Infinity | 4768 | [4768-code-lyoko-quest-for-infinity.json](./4768-code-lyoko-quest-for-infinity.json) |
 | Code of Shadows | 392037 | [392037-code-of-shadows.json](./392037-code-of-shadows.json) |
@@ -322,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 350272 | [350272-coin-hunter.json](./350272-coin-hunter.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | Coin Push RPG: Cat Meme DLC | 371103 | [371103-coin-push-rpg-cat-meme-dlc.json](./371103-coin-push-rpg-cat-meme-dlc.json) |
+| Coin Pusher Mafia | 343640 | [343640-coin-pusher-mafia.json](./343640-coin-pusher-mafia.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Meat | 375636 | [375636-cold-meat.json](./375636-cold-meat.json) |
 | Cold VR: Sub-Zero Edition | 354278 | [354278-cold-vr-sub-zero-edition.json](./354278-cold-vr-sub-zero-edition.json) |
@@ -598,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Castilla EX | 25253 | [25253-cursed-castilla-ex.json](./25253-cursed-castilla-ex.json) |
 | Cursed District: Horror | 413566 | [413566-cursed-district-horror.json](./413566-cursed-district-horror.json) |
 | Curstris | 362654 | [362654-curstris.json](./362654-curstris.json) |
+| Cut Fingers | 343649 | [343649-cut-fingers.json](./343649-cut-fingers.json) |
 | Cut the Grass: Farm Defense Survival | 373912 | [373912-cut-the-grass-farm-defense-survival.json](./373912-cut-the-grass-farm-defense-survival.json) |
 | Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
