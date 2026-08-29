@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
 | Tank 90 | 95626 | [95626-tank-90.json](./95626-tank-90.json) |
+| Tank Ball | 344749 | [344749-tank-ball.json](./344749-tank-ball.json) |
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tank Blast | 33010 | [33010-tank-blast.json](./33010-tank-blast.json) |
 | Tank Combat Radica | 375653 | [375653-tank-combat-radica.json](./375653-tank-combat-radica.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Terminator: Dark Fate - Defiance: Uprising | 359789 | [359789-terminator-dark-fate-defiance-uprising.json](./359789-terminator-dark-fate-defiance-uprising.json) |
 | Terra Taker | 389329 | [389329-terra-taker.json](./389329-terra-taker.json) |
+| Terra-7 | 344766 | [344766-terra-7.json](./344766-terra-7.json) |
 | Terraform | 35816 | [35816-terraform.json](./35816-terraform.json) |
 | Terram Reduc Protocol | 376297 | [376297-terram-reduc-protocol.json](./376297-terram-reduc-protocol.json) |
 | Terranigma | 414224 | [414224-terranigma.json](./414224-terranigma.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alius | 364293 | [364293-the-alius.json](./364293-the-alius.json) |
 | The Alley | 380869 | [380869-the-alley.json](./380869-the-alley.json) |
 | The Amazing Digital Dating Sim | 399673 | [399673-the-amazing-digital-dating-sim.json](./399673-the-amazing-digital-dating-sim.json) |
+| The Apocalypse | 344765 | [344765-the-apocalypse.json](./344765-the-apocalypse.json) |
 | The Archives of Trevosa | 400144 | [400144-the-archives-of-trevosa.json](./400144-the-archives-of-trevosa.json) |
 | The Ascent: Complete Edition | 366692 | [366692-the-ascent-complete-edition.json](./366692-the-ascent-complete-edition.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
@@ -348,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Day Defense | 95637 | [95637-the-last-day-defense.json](./95637-the-last-day-defense.json) |
 | The Last Days | 380894 | [380894-the-last-days.json](./380894-the-last-days.json) |
 | The Last Door: Season 2 | 24537 | [24537-the-last-door-season-2.json](./24537-the-last-door-season-2.json) |
+| The Last Escape | 344759 | [344759-the-last-escape.json](./344759-the-last-escape.json) |
 | The Last Friend | 93662 | [93662-the-last-friend.json](./93662-the-last-friend.json) |
 | The Last Hand | 396792 | [396792-the-last-hand.json](./396792-the-last-hand.json) |
 | The Last Hope Trump vs. Mafia | 29759 | [29759-the-last-hope-trump-vs-mafia.json](./29759-the-last-hope-trump-vs-mafia.json) |
