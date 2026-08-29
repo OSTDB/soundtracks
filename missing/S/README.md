@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
+| Saint Seiya: Mezame yo! Seven Senses | 345878 | [345878-saint-seiya-mezame-yo-seven-senses.json](./345878-saint-seiya-mezame-yo-seven-senses.json) |
 | Saints of the Fallen Cross | 346430 | [346430-saints-of-the-fallen-cross.json](./346430-saints-of-the-fallen-cross.json) |
 | Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | SakaTsuku DS: Touch and Direct | 406627 | [406627-sakatsuku-ds-touch-and-direct.json](./406627-sakatsuku-ds-touch-and-direct.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop 'n Shoot | 410148 | [410148-scoop-n-shoot.json](./410148-scoop-n-shoot.json) |
 | Scoop it! Crane Game | 373385 | [373385-scoop-it-crane-game.json](./373385-scoop-it-crane-game.json) |
 | SCP Extraction Protocol | 396115 | [396115-scp-extraction-protocol.json](./396115-scp-extraction-protocol.json) |
+| SCP: Control Error | 345902 | [345902-scp-control-error.json](./345902-scp-control-error.json) |
 | SCP: Darkwater | 414187 | [414187-scp-darkwater.json](./414187-scp-darkwater.json) |
 | SCP: Mr. Jupiter | 407919 | [407919-scp-mr-jupiter.json](./407919-scp-mr-jupiter.json) |
 | Scrabble | 91261 | [91261-scrabble.json](./91261-scrabble.json) |
@@ -251,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkins: Shoppie Dash! | 87621 | [87621-shopkins-shoppie-dash.json](./87621-shopkins-shoppie-dash.json) |
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | ShoreTiles | 405996 | [405996-shoretiles.json](./405996-shoretiles.json) |
+| Shot! Shot! SPY | 345857 | [345857-shot-shot-spy.json](./345857-shot-shot-spy.json) |
 | Shotgun FunFun HD | 87572 | [87572-shotgun-funfun-hd.json](./87572-shotgun-funfun-hd.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
@@ -543,6 +546,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Harrier | 364893 | [364893-space-harrier.json](./364893-space-harrier.json) |
 | Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
+| Space Invader | 345869 | [345869-space-invader.json](./345869-space-invader.json) |
+| Space Invader2 | 345870 | [345870-space-invader2.json](./345870-space-invader2.json) |
 | Space Invaders / Block Buster | 346974 | [346974-space-invaders-block-buster.json](./346974-space-invaders-block-buster.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
@@ -770,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranglehold of the Elite | 369979 | [369979-stranglehold-of-the-elite.json](./369979-stranglehold-of-the-elite.json) |
 | Stratego | 22893 | [22893-stratego.json](./22893-stratego.json) |
 | Strato Freaks DX | 368317 | [368317-strato-freaks-dx.json](./368317-strato-freaks-dx.json) |
+| Strawberry Smoothie | 345861 | [345861-strawberry-smoothie.json](./345861-strawberry-smoothie.json) |
 | Streamer Simulator | 31526 | [31526-streamer-simulator.json](./31526-streamer-simulator.json) |
 | Streamer Simulator 2026 | 388616 | [388616-streamer-simulator-2026.json](./388616-streamer-simulator-2026.json) |
 | Streaming On! VTuber Training | 382024 | [382024-streaming-on-vtuber-training.json](./382024-streaming-on-vtuber-training.json) |
