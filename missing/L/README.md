@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letris 2: Word puzzle game | 89512 | [89512-letris-2-word-puzzle-game.json](./89512-letris-2-word-puzzle-game.json) |
 | Letter Quest Remastered: Grimm's Journey | 24362 | [24362-letter-quest-remastered-grimms-journey.json](./24362-letter-quest-remastered-grimms-journey.json) |
 | Letter Snap: Word Puzzle | 401408 | [401408-letter-snap-word-puzzle.json](./401408-letter-snap-word-puzzle.json) |
+| Letters of War | 357068 | [357068-letters-of-war.json](./357068-letters-of-war.json) |
 | Level Up, Tiny King! | 406585 | [406585-level-up-tiny-king.json](./406585-level-up-tiny-king.json) |
 | Leviathan: The Last Day of the Decade | 17935 | [17935-leviathan-the-last-day-of-the-decade.json](./17935-leviathan-the-last-day-of-the-decade.json) |
 | Lexomancer | 400135 | [400135-lexomancer.json](./400135-lexomancer.json) |
