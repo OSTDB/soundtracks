@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable: The Journey | 1592 | [1592-fable-the-journey.json](./1592-fable-the-journey.json) |
 | Fabric | 22722 | [22722-fabric.json](./22722-fabric.json) |
 | Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
+| Facility 37 | 354858 | [354858-facility-37.json](./354858-facility-37.json) |
 | Faded Memories: Video Game Edition | 393365 | [393365-faded-memories-video-game-edition.json](./393365-faded-memories-video-game-edition.json) |
 | Fading Light | 400779 | [400779-fading-light.json](./400779-fading-light.json) |
 | Fae Tactics | 26268 | [26268-fae-tactics.json](./26268-fae-tactics.json) |
@@ -286,6 +287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Delicious Bundle | 358677 | [358677-forever-delicious-bundle.json](./358677-forever-delicious-bundle.json) |
 | Forgedale | 369975 | [369975-forgedale.json](./369975-forgedale.json) |
 | Forgive for Ever | 371717 | [371717-forgive-for-ever.json](./371717-forgive-for-ever.json) |
+| Formula 1 Game & Watch | 354876 | [354876-formula-1-game-and-watch.json](./354876-formula-1-game-and-watch.json) |
+| Formula 1 Game & Watch: WASM-4 Version | 354875 | [354875-formula-1-game-and-watch-wasm-4-version.json](./354875-formula-1-game-and-watch-wasm-4-version.json) |
 | Formula One 2000 | 8298 | [8298-formula-one-2000.json](./8298-formula-one-2000.json) |
 | Formula One 99 | 8297 | [8297-formula-one-99.json](./8297-formula-one-99.json) |
 | Formula Racing Pro 2026: Definitive Edition | 402171 | [402171-formula-racing-pro-2026-definitive-edition.json](./402171-formula-racing-pro-2026-definitive-edition.json) |
