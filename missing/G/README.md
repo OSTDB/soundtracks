@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost In The Grid | 348618 | [348618-ghost-in-the-grid.json](./348618-ghost-in-the-grid.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
+| Ghost Kiosk | 344741 | [344741-ghost-kiosk.json](./344741-ghost-kiosk.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | Ghost Shooter | 358711 | [358711-ghost-shooter.json](./358711-ghost-shooter.json) |
 | Ghost Village Girl: The Village in a Cage | 410134 | [410134-ghost-village-girl-the-village-in-a-cage.json](./410134-ghost-village-girl-the-village-in-a-cage.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glide | 379224 | [379224-glide.json](./379224-glide.json) |
 | Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
+| Glimpse | 344751 | [344751-glimpse.json](./344751-glimpse.json) |
 | Glimvale: My Mini Overworld | 346994 | [346994-glimvale-my-mini-overworld.json](./346994-glimvale-my-mini-overworld.json) |
 | Glitch & Glory: Tales of Honeywood | 364941 | [364941-glitch-and-glory-tales-of-honeywood.json](./364941-glitch-and-glory-tales-of-honeywood.json) |
 | Glitch Core | 369426 | [369426-glitch-core.json](./369426-glitch-core.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobber Delight | 348598 | [348598-gobber-delight.json](./348598-gobber-delight.json) |
 | Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
+| Goblin Gnome Horn | 344743 | [344743-goblin-gnome-horn.json](./344743-goblin-gnome-horn.json) |
 | Goblin vs. Princess | 349145 | [349145-goblin-vs-princess.json](./349145-goblin-vs-princess.json) |
 | Goblins & Gun Runnin’ | 368306 | [368306-goblins-and-gun-runnin.json](./368306-goblins-and-gun-runnin.json) |
 | Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
@@ -228,9 +231,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic II: The Black Heart | 398878 | [398878-gothic-ii-the-black-heart.json](./398878-gothic-ii-the-black-heart.json) |
 | Governor of Poker 2 | 9838 | [9838-governor-of-poker-2.json](./9838-governor-of-poker-2.json) |
 | Governor of Poker 2: Premium Edition | 30146 | [30146-governor-of-poker-2-premium-edition.json](./30146-governor-of-poker-2-premium-edition.json) |
+| Gra Elektroniczna Zabawka Zręcznościowa dla Dzieci Konsola Tetris | 344776 | [344776-gra-elektroniczna-zabawka-zrecznosciowa-dla-dzieci-konsola-tetris.json](./344776-gra-elektroniczna-zabawka-zrecznosciowa-dla-dzieci-konsola-tetris.json) |
 | Grablings: Paint 'n Seek | 413533 | [413533-grablings-paint-n-seek.json](./413533-grablings-paint-n-seek.json) |
 | Gradius Collection | 18192 | [18192-gradius-collection.json](./18192-gradius-collection.json) |
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
+| Graffiti | 344783 | [344783-graffiti.json](./344783-graffiti.json) |
 | Gran Turismo 2 A-Spec | 356458 | [356458-gran-turismo-2-a-spec.json](./356458-gran-turismo-2-a-spec.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
