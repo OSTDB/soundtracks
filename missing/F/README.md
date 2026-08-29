@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
 | Flying Courier | 364923 | [364923-flying-courier.json](./364923-flying-courier.json) |
 | FNaF World | 47068 | [47068-fnaf-world.json](./47068-fnaf-world.json) |
+| Fofumia | 347524 | [347524-fofumia.json](./347524-fofumia.json) |
 | Fog | 397571 | [397571-fog.json](./397571-fog.json) |
 | Fog'n'Silence | 409433 | [409433-fognsilence.json](./409433-fognsilence.json) |
 | Folk Trails | 375671 | [375671-folk-trails.json](./375671-folk-trails.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Hunter: Erza's Wheel of Fortune - Mother's Trial | 368871 | [368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json](./368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
+| Frontline Command | 347519 | [347519-frontline-command.json](./347519-frontline-command.json) |
 | Frost | 356469 | [356469-frost.json](./356469-frost.json) |
 | Frost and Glory | 374462 | [374462-frost-and-glory.json](./374462-frost-and-glory.json) |
 | Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
