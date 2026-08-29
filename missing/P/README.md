@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Pao Lee Ming Kanshuu: Feng Shui Nyuumon | 383234 | [383234-pao-lee-ming-kanshuu-feng-shui-nyuumon.json](./383234-pao-lee-ming-kanshuu-feng-shui-nyuumon.json) |
 | Papa's Freezeria Deluxe | 238347 | [238347-papas-freezeria-deluxe.json](./238347-papas-freezeria-deluxe.json) |
+| Paper Cut | 357660 | [357660-paper-cut.json](./357660-paper-cut.json) |
 | Paper io 2: Platinum Edition | 402180 | [402180-paper-io-2-platinum-edition.json](./402180-paper-io-2-platinum-edition.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
@@ -506,3 +507,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Py-oneers | 371656 | [371656-py-oneers.json](./371656-py-oneers.json) |
 | Pyramid Quest 2 | 376307 | [376307-pyramid-quest-2.json](./376307-pyramid-quest-2.json) |
 | Pyramids | 65287 | [65287-pyramids.json](./65287-pyramids.json) |
+| Pyrite Tycoon | 357654 | [357654-pyrite-tycoon.json](./357654-pyrite-tycoon.json) |
