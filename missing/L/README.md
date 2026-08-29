@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239309 | [239309-lemmings.json](./239309-lemmings.json) |
 | Lemmings Revolution | 10127 | [10127-lemmings-revolution.json](./10127-lemmings-revolution.json) |
 | Lemony Snicket's A Series of Unfortunate Events | 3977 | [3977-lemony-snickets-a-series-of-unfortunate-events.json](./3977-lemony-snickets-a-series-of-unfortunate-events.json) |
+| Léo e Maya | 356449 | [356449-leo-e-maya.json](./356449-leo-e-maya.json) |
 | Lesotho Rooftop Conversation | 381442 | [381442-lesotho-rooftop-conversation.json](./381442-lesotho-rooftop-conversation.json) |
 | Let's Golf 3D | 47667 | [47667-lets-golf-3d.json](./47667-lets-golf-3d.json) |
 | Let's Yoga | 47857 | [47857-lets-yoga.json](./47857-lets-yoga.json) |
@@ -215,10 +216,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the World of Succubi | 366087 | [366087-lost-in-the-world-of-succubi.json](./366087-lost-in-the-world-of-succubi.json) |
 | Lost in Your Eyes | 390975 | [390975-lost-in-your-eyes.json](./390975-lost-in-your-eyes.json) |
 | Lost Inside | 385470 | [385470-lost-inside.json](./385470-lost-inside.json) |
+| Lost Luminosity | 356451 | [356451-lost-luminosity.json](./356451-lost-luminosity.json) |
 | Lost Nova | 153416 | [153416-lost-nova.json](./153416-lost-nova.json) |
 | Lost Patient | 375014 | [375014-lost-patient.json](./375014-lost-patient.json) |
 | Lost Sanity: Cthulhu | 375002 | [375002-lost-sanity-cthulhu.json](./375002-lost-sanity-cthulhu.json) |
 | Lost Stories | 405987 | [405987-lost-stories.json](./405987-lost-stories.json) |
+| LostBound | 356452 | [356452-lostbound.json](./356452-lostbound.json) |
 | Lostboy 2 | 365499 | [365499-lostboy-2.json](./365499-lostboy-2.json) |
 | LouveSystems' Realms | 393995 | [393995-louvesystems-realms.json](./393995-louvesystems-realms.json) |
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
