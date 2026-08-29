@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
 | Solitaire Zero 21 | 364907 | [364907-solitaire-zero-21.json](./364907-solitaire-zero-21.json) |
+| Solkatt_ | 357644 | [357644-solkatt.json](./357644-solkatt.json) |
 | Solomon's Keep: Dreadful Retro Edition | 377453 | [377453-solomons-keep-dreadful-retro-edition.json](./377453-solomons-keep-dreadful-retro-edition.json) |
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soluna's Mood | 368299 | [368299-solunas-mood.json](./368299-solunas-mood.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject55 | 400154 | [400154-subject55.json](./400154-subject55.json) |
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
+| Subs | 357648 | [357648-subs.json](./357648-subs.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
 | Subway Simulator: Underground Train - Remaster | 402198 | [402198-subway-simulator-underground-train-remaster.json](./402198-subway-simulator-underground-train-remaster.json) |
 | Subzero Stealth | 370547 | [370547-subzero-stealth.json](./370547-subzero-stealth.json) |
