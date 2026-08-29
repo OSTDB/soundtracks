@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
 | Master Knight | 369424 | [369424-master-knight.json](./369424-master-knight.json) |
+| Master of Balance | 348075 | [348075-master-of-balance.json](./348075-master-of-balance.json) |
 | Master of Cigkofte | 360441 | [360441-master-of-cigkofte.json](./360441-master-of-cigkofte.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match Point Tennis | 354296 | [354296-match-point-tennis.json](./354296-match-point-tennis.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Matter of Factory | 349711 | [349711-matter-of-factory.json](./349711-matter-of-factory.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
+| Mau Squared | 348093 | [348093-mau-squared.json](./348093-mau-squared.json) |
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
 | Mavis Beacon Teaches Typing 2020 | 372329 | [372329-mavis-beacon-teaches-typing-2020.json](./372329-mavis-beacon-teaches-typing-2020.json) |
@@ -444,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic IV: Clouds of Xeen | 7736 | [7736-might-and-magic-iv-clouds-of-xeen.json](./7736-might-and-magic-iv-clouds-of-xeen.json) |
 | Might and Magic Trilogy | 382614 | [382614-might-and-magic-trilogy.json](./382614-might-and-magic-trilogy.json) |
 | Might and Magic V: Darkside of Xeen | 7737 | [7737-might-and-magic-v-darkside-of-xeen.json](./7737-might-and-magic-v-darkside-of-xeen.json) |
+| Mighty 1990 | 348072 | [348072-mighty-1990.json](./348072-mighty-1990.json) |
 | Mighty Dungeons | 35765 | [35765-mighty-dungeons.json](./35765-mighty-dungeons.json) |
 | Mighty Milky Way | 80560 | [80560-mighty-milky-way.json](./80560-mighty-milky-way.json) |
 | Mighty Morphin Power Rangers: Power Nexus | 369964 | [369964-mighty-morphin-power-rangers-power-nexus.json](./369964-mighty-morphin-power-rangers-power-nexus.json) |
@@ -589,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
 | Moonlight Chess | 372284 | [372284-moonlight-chess.json](./372284-moonlight-chess.json) |
+| Moonlight Traveler | 348057 | [348057-moonlight-traveler.json](./348057-moonlight-traveler.json) |
 | Moonman: The Game | 359244 | [359244-moonman-the-game.json](./359244-moonman-the-game.json) |
 | MoonMiners | 348627 | [348627-moonminers.json](./348627-moonminers.json) |
 | Moonsteel | 360424 | [360424-moonsteel.json](./360424-moonsteel.json) |
@@ -718,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyMemory | 397562 | [397562-mymemory.json](./397562-mymemory.json) |
 | MyNewSMBW Traditional Mod | 394014 | [394014-mynewsmbw-traditional-mod.json](./394014-mynewsmbw-traditional-mod.json) |
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
+| Mysteries of FangClaw | 348096 | [348096-mysteries-of-fangclaw.json](./348096-mysteries-of-fangclaw.json) |
 | Mysteries of the Undead: The Cursed Island | 116331 | [116331-mysteries-of-the-undead-the-cursed-island.json](./116331-mysteries-of-the-undead-the-cursed-island.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
