@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Captive Curse | 10584 | [10584-nancy-drew-the-captive-curse.json](./10584-nancy-drew-the-captive-curse.json) |
 | Nancy Drew: The Deadly Device | 28222 | [28222-nancy-drew-the-deadly-device.json](./28222-nancy-drew-the-deadly-device.json) |
 | Nanima | 392058 | [392058-nanima.json](./392058-nanima.json) |
+| Nanostorm | 342438 | [342438-nanostorm.json](./342438-nanostorm.json) |
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
 | Napuland | 344773 | [344773-napuland.json](./344773-napuland.json) |
@@ -60,7 +61,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefarious | 26864 | [26864-nefarious.json](./26864-nefarious.json) |
 | Neighbours from Hell 2: On Vacation | 10592 | [10592-neighbours-from-hell-2-on-vacation.json](./10592-neighbours-from-hell-2-on-vacation.json) |
 | Neko Arena | 125714 | [125714-neko-arena.json](./125714-neko-arena.json) |
+| Neko Bakery | 342436 | [342436-neko-bakery.json](./342436-neko-bakery.json) |
 | Neko-Nin ExHeart 2 | 96116 | [96116-neko-nin-exheart-2.json](./96116-neko-nin-exheart-2.json) |
+| NekoNeko Girls | 342439 | [342439-nekoneko-girls.json](./342439-nekoneko-girls.json) |
 | Nekopara Love Project Vol. 2 | 375035 | [375035-nekopara-love-project-vol-2.json](./375035-nekopara-love-project-vol-2.json) |
 | Nekopara Love Project Vol. 3 | 375036 | [375036-nekopara-love-project-vol-3.json](./375036-nekopara-love-project-vol-3.json) |
 | Nekotype Keyboard Cat Simulator | 386020 | [386020-nekotype-keyboard-cat-simulator.json](./386020-nekotype-keyboard-cat-simulator.json) |
@@ -128,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Stars Tennis | 364935 | [364935-nickelodeon-all-stars-tennis.json](./364935-nickelodeon-all-stars-tennis.json) |
 | Nickelodeon Dance 2 | 47420 | [47420-nickelodeon-dance-2.json](./47420-nickelodeon-dance-2.json) |
 | Nicktoons Unite! | 2769 | [2769-nicktoons-unite.json](./2769-nicktoons-unite.json) |
+| Nico Saves The State | 342437 | [342437-nico-saves-the-state.json](./342437-nico-saves-the-state.json) |
 | Nidos | 381459 | [381459-nidos.json](./381459-nidos.json) |
 | NieR | 7120 | [7120-nier.json](./7120-nier.json) |
 | Nier Replicant | 80468 | [80468-nier-replicant.json](./80468-nier-replicant.json) |
