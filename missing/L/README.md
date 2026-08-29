@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Zombie Terrors | 405374 | [405374-legion-of-zombie-terrors.json](./405374-legion-of-zombie-terrors.json) |
 | Legion: Arcane Origins | 372867 | [372867-legion-arcane-origins.json](./372867-legion-arcane-origins.json) |
 | LEGO 2K Drive | 242493 | [242493-lego-2k-drive.json](./242493-lego-2k-drive.json) |
+| LEGO Batman 3: Beyond Gotham | 346951 | [346951-lego-batman-3-beyond-gotham.json](./346951-lego-batman-3-beyond-gotham.json) |
 | LEGO Harry Potter Collection: Years 1-4 | 228268 | [228268-lego-harry-potter-collection-years-1-4.json](./228268-lego-harry-potter-collection-years-1-4.json) |
 | LEGO Mindstorms Fix the Factory | 362099 | [362099-lego-mindstorms-fix-the-factory.json](./362099-lego-mindstorms-fix-the-factory.json) |
 | LEGO Rock Raiders | 167708 | [167708-lego-rock-raiders.json](./167708-lego-rock-raiders.json) |
