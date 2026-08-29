@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie | 201644 | [201644-banjo-kazooie.json](./201644-banjo-kazooie.json) |
 | Banjo-Kazooie: Grunty's Revenge | 6318 | [6318-banjo-kazooie-gruntys-revenge.json](./6318-banjo-kazooie-gruntys-revenge.json) |
 | Bannermen | 30229 | [30229-bannermen.json](./30229-bannermen.json) |
+| Banners & Bastions | 354275 | [354275-banners-and-bastions.json](./354275-banners-and-bastions.json) |
 | Banshee Bash | 392059 | [392059-banshee-bash.json](./392059-banshee-bash.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benjumpin Hopkins | 375025 | [375025-benjumpin-hopkins.json](./375025-benjumpin-hopkins.json) |
 | Beowulf: The Game | 6912 | [6912-beowulf-the-game.json](./6912-beowulf-the-game.json) |
 | Berry Bury Berry | 381578 | [381578-berry-bury-berry.json](./381578-berry-bury-berry.json) |
+| Besiege VR | 354277 | [354277-besiege-vr.json](./354277-besiege-vr.json) |
 | Besieger | 23753 | [23753-besieger.json](./23753-besieger.json) |
 | Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
 | Beta Kafe: Write Your Love Story | 391496 | [391496-beta-kafe-write-your-love-story.json](./391496-beta-kafe-write-your-love-story.json) |
@@ -349,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black & White 2: Battle of the Gods | 1923 | [1923-black-and-white-2-battle-of-the-gods.json](./1923-black-and-white-2-battle-of-the-gods.json) |
 | Black Border 3 | 390403 | [390403-black-border-3.json](./390403-black-border-3.json) |
 | Black College Football: BCFX - The Xperience | 6916 | [6916-black-college-football-bcfx-the-xperience.json](./6916-black-college-football-bcfx-the-xperience.json) |
+| Black Desert Online: Land of the Morning Light Edition | 354252 | [354252-black-desert-online-land-of-the-morning-light-edition.json](./354252-black-desert-online-land-of-the-morning-light-edition.json) |
 | Black Mirror II: Reigning Evil | 11351 | [11351-black-mirror-ii-reigning-evil.json](./11351-black-mirror-ii-reigning-evil.json) |
 | Black Squad | 28751 | [28751-black-squad.json](./28751-black-squad.json) |
 | Black Veil | 410778 | [410778-black-veil.json](./410778-black-veil.json) |
@@ -403,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Line: A Rebel Moon Game | 355906 | [355906-blood-line-a-rebel-moon-game.json](./355906-blood-line-a-rebel-moon-game.json) |
 | Blood of the Future | 391500 | [391500-blood-of-the-future.json](./391500-blood-of-the-future.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
+| Blood Vow: Survive the Night | 354246 | [354246-blood-vow-survive-the-night.json](./354246-blood-vow-survive-the-night.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
 | BloodGate | 32955 | [32955-bloodgate.json](./32955-bloodgate.json) |
 | BloodJack | 409451 | [409451-bloodjack.json](./409451-bloodjack.json) |
