@@ -255,9 +255,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Genie | 353689 | [353689-pinball-arcade-genie.json](./353689-pinball-arcade-genie.json) |
 | Pinball Arcade: Haunted House | 353700 | [353700-pinball-arcade-haunted-house.json](./353700-pinball-arcade-haunted-house.json) |
 | Pinball Arcade: Jack-Bot | 353709 | [353709-pinball-arcade-jack-bot.json](./353709-pinball-arcade-jack-bot.json) |
+| Pinball Arcade: Last Action Hero | 353145 | [353145-pinball-arcade-last-action-hero.json](./353145-pinball-arcade-last-action-hero.json) |
 | Pinball Arcade: Lights Camera Action! | 353705 | [353705-pinball-arcade-lights-camera-action.json](./353705-pinball-arcade-lights-camera-action.json) |
 | Pinball Arcade: Medieval Madness | 353682 | [353682-pinball-arcade-medieval-madness.json](./353682-pinball-arcade-medieval-madness.json) |
+| Pinball Arcade: Phantom of the Opera | 353147 | [353147-pinball-arcade-phantom-of-the-opera.json](./353147-pinball-arcade-phantom-of-the-opera.json) |
 | Pinball Arcade: Pin-Bot | 353695 | [353695-pinball-arcade-pin-bot.json](./353695-pinball-arcade-pin-bot.json) |
+| Pinball Arcade: Starship Troopers | 353146 | [353146-pinball-arcade-starship-troopers.json](./353146-pinball-arcade-starship-troopers.json) |
 | Pinball Arcade: The Champion Pub | 353696 | [353696-pinball-arcade-the-champion-pub.json](./353696-pinball-arcade-the-champion-pub.json) |
 | Pinball Arcade: The Machine - Bride of Pin-Bot️ | 353683 | [353683-pinball-arcade-the-machine-bride-of-pin-bot.json](./353683-pinball-arcade-the-machine-bride-of-pin-bot.json) |
 | Pinball Arcade: The Party Zone | 353706 | [353706-pinball-arcade-the-party-zone.json](./353706-pinball-arcade-the-party-zone.json) |
