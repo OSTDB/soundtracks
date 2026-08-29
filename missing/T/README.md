@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takelings House Party | 102220 | [102220-takelings-house-party.json](./102220-takelings-house-party.json) |
 | Talentos Indie ZNT | 375012 | [375012-talentos-indie-znt.json](./375012-talentos-indie-znt.json) |
 | Tales Across Time | 33009 | [33009-tales-across-time.json](./33009-tales-across-time.json) |
+| Tales Beyond the Tomb: White Silence | 343112 | [343112-tales-beyond-the-tomb-white-silence.json](./343112-tales-beyond-the-tomb-white-silence.json) |
 | Tales From the Other Side: Beneath the Roots | 409455 | [409455-tales-from-the-other-side-beneath-the-roots.json](./409455-tales-from-the-other-side-beneath-the-roots.json) |
 | Tales From The Under-Realm: Lilith | 360384 | [360384-tales-from-the-under-realm-lilith.json](./360384-tales-from-the-under-realm-lilith.json) |
 | Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
@@ -49,8 +50,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battalion | 39404 | [39404-tank-battalion.json](./39404-tank-battalion.json) |
 | Tank Blast | 33010 | [33010-tank-blast.json](./33010-tank-blast.json) |
 | Tank Combat Radica | 375653 | [375653-tank-combat-radica.json](./375653-tank-combat-radica.json) |
+| Tank Mission | 343062 | [343062-tank-mission.json](./343062-tank-mission.json) |
 | Tank Operations: European Campaign | 16740 | [16740-tank-operations-european-campaign.json](./16740-tank-operations-european-campaign.json) |
 | Tank Royale | 115931 | [115931-tank-royale.json](./115931-tank-royale.json) |
+| Tank Top Nitori | 343087 | [343087-tank-top-nitori.json](./343087-tank-top-nitori.json) |
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
 | Tank vs Big Alien Girl | 391474 | [391474-tank-vs-big-alien-girl.json](./391474-tank-vs-big-alien-girl.json) |
 | Tankazooka | 367252 | [367252-tankazooka.json](./367252-tankazooka.json) |
@@ -179,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
 | The Binding of Isaac: Most Unholy Edition | 382616 | [382616-the-binding-of-isaac-most-unholy-edition.json](./382616-the-binding-of-isaac-most-unholy-edition.json) |
 | The Binding of Isaac: Repentance+ | 321536 | [321536-the-binding-of-isaac-repentance.json](./321536-the-binding-of-isaac-repentance.json) |
+| The Binding of Steve: Minecraft Crossover | 343107 | [343107-the-binding-of-steve-minecraft-crossover.json](./343107-the-binding-of-steve-minecraft-crossover.json) |
 | The Birthday Boys | 375032 | [375032-the-birthday-boys.json](./375032-the-birthday-boys.json) |
 | The Black Pyramid | 378635 | [378635-the-black-pyramid.json](./378635-the-black-pyramid.json) |
 | The Black Route | 384930 | [384930-the-black-route.json](./384930-the-black-route.json) |
@@ -401,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
 | The Lone Sword | 390958 | [390958-the-lone-sword.json](./390958-the-lone-sword.json) |
 | The Long Dark: Wintermute | 231021 | [231021-the-long-dark-wintermute.json](./231021-the-long-dark-wintermute.json) |
+| The Long Fall Home | 343089 | [343089-the-long-fall-home.json](./343089-the-long-fall-home.json) |
 | The Looking Game | 366679 | [366679-the-looking-game.json](./366679-the-looking-game.json) |
 | The Loop Below | 366069 | [366069-the-loop-below.json](./366069-the-loop-below.json) |
 | The Lord of Novels | 397523 | [397523-the-lord-of-novels.json](./397523-the-lord-of-novels.json) |
@@ -415,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magician's Hand | 403499 | [403499-the-magicians-hand.json](./403499-the-magicians-hand.json) |
 | The Man Behind the Trigger | 406041 | [406041-the-man-behind-the-trigger.json](./406041-the-man-behind-the-trigger.json) |
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
+| The Masochistic Ball | 343082 | [343082-the-masochistic-ball.json](./343082-the-masochistic-ball.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
 | The Mines | 357664 | [357664-the-mines.json](./357664-the-mines.json) |
@@ -507,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims FreePlay | 13151 | [13151-the-sims-freeplay.json](./13151-the-sims-freeplay.json) |
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
+| The Singing Scar | 343110 | [343110-the-singing-scar.json](./343110-the-singing-scar.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
 | The Sith Lords Restored Content Modification | 356467 | [356467-the-sith-lords-restored-content-modification.json](./356467-the-sith-lords-restored-content-modification.json) |
 | The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
@@ -622,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles of Grimmwoods | 383212 | [383212-tiles-of-grimmwoods.json](./383212-tiles-of-grimmwoods.json) |
 | Till and Hat | 396818 | [396818-till-and-hat.json](./396818-till-and-hat.json) |
 | Timberman | 13103 | [13103-timberman.json](./13103-timberman.json) |
+| Time Cowboy | 343090 | [343090-time-cowboy.json](./343090-time-cowboy.json) |
 | Time Crisis II | 13893 | [13893-time-crisis-ii.json](./13893-time-crisis-ii.json) |
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
 | Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
