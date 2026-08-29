@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Glide | 379224 | [379224-glide.json](./379224-glide.json) |
 | Glimmer | 386578 | [386578-glimmer.json](./386578-glimmer.json) |
+| Glimvale: My Mini Overworld | 346994 | [346994-glimvale-my-mini-overworld.json](./346994-glimvale-my-mini-overworld.json) |
 | Glitch & Glory: Tales of Honeywood | 364941 | [364941-glitch-and-glory-tales-of-honeywood.json](./364941-glitch-and-glory-tales-of-honeywood.json) |
 | Glitch Core | 369426 | [369426-glitch-core.json](./369426-glitch-core.json) |
 | Glittermitten Grove | 26628 | [26628-glittermitten-grove.json](./26628-glittermitten-grove.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | God Sacrifice | 375657 | [375657-god-sacrifice.json](./375657-god-sacrifice.json) |
 | God Syndrome | 350238 | [350238-god-syndrome.json](./350238-god-syndrome.json) |
+| God's Call | 346939 | [346939-gods-call.json](./346939-gods-call.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
 | Godforge | 354865 | [354865-godforge.json](./354865-godforge.json) |
 | Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
