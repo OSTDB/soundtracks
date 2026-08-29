@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
 | Capcom vs. SNK 2 EO | 86343 | [86343-capcom-vs-snk-2-eo.json](./86343-capcom-vs-snk-2-eo.json) |
 | Capital City | 415007 | [415007-capital-city.json](./415007-capital-city.json) |
+| Capsule Guy | 354836 | [354836-capsule-guy.json](./354836-capsule-guy.json) |
 | Captain America: The Winter Soldier | 23807 | [23807-captain-america-the-winter-soldier.json](./23807-captain-america-the-winter-soldier.json) |
 | Captain Silver | 39640 | [39640-captain-silver.json](./39640-captain-silver.json) |
 | Captain Toad: Treasure Tracker | 243899 | [243899-captain-toad-treasure-tracker.json](./243899-captain-toad-treasure-tracker.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak? | 374489 | [374489-croak.json](./374489-croak.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Crom | 408618 | [408618-crom.json](./408618-crom.json) |
+| Cropdeck | 354857 | [354857-cropdeck.json](./354857-cropdeck.json) |
 | Croqueta Clicker | 398255 | [398255-croqueta-clicker.json](./398255-croqueta-clicker.json) |
 | Cross Edge | 6948 | [6948-cross-edge.json](./6948-cross-edge.json) |
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
