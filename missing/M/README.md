@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
+| Minigame Mayhem | 353691 | [353691-minigame-mayhem.json](./353691-minigame-mayhem.json) |
 | Minigames Master | 389277 | [389277-minigames-master.json](./389277-minigames-master.json) |
 | Minigolf Family Party | 394714 | [394714-minigolf-family-party.json](./394714-minigolf-family-party.json) |
 | MiniGolf Maker | 115796 | [115796-minigolf-maker.json](./115796-minigolf-maker.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
 | Momoka (wo) Wasshoi | 367224 | [367224-momoka-wo-wasshoi.json](./367224-momoka-wo-wasshoi.json) |
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
+| Monarch | 353672 | [353672-monarch.json](./353672-monarch.json) |
 | Money Makes Money | 116118 | [116118-money-makes-money.json](./116118-money-makes-money.json) |
 | MoneyClicker | 410767 | [410767-moneyclicker.json](./410767-moneyclicker.json) |
 | MoneyFalls: Coin Pusher Simulator | 386608 | [386608-moneyfalls-coin-pusher-simulator.json](./386608-moneyfalls-coin-pusher-simulator.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Killer | 125113 | [125113-music-killer.json](./125113-music-killer.json) |
 | Mutant Mudds Deluxe | 8959 | [8959-mutant-mudds-deluxe.json](./8959-mutant-mudds-deluxe.json) |
 | Mutation Overload | 379195 | [379195-mutation-overload.json](./379195-mutation-overload.json) |
+| Muteki-Oh Tri-Zenon | 353666 | [353666-muteki-oh-tri-zenon.json](./353666-muteki-oh-tri-zenon.json) |
 | MuTris | 373934 | [373934-mutris.json](./373934-mutris.json) |
 | Mutropolis | 115821 | [115821-mutropolis.json](./115821-mutropolis.json) |
 | MX vs. ATV: Legends - 2025 AMA Pro Motocross Championship | 359806 | [359806-mx-vs-atv-legends-2025-ama-pro-motocross-championship.json](./359806-mx-vs-atv-legends-2025-ama-pro-motocross-championship.json) |
