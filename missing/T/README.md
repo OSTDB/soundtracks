@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Universal 2 | 31433 | [31433-tank-universal-2.json](./31433-tank-universal-2.json) |
 | Tank vs Big Alien Girl | 391474 | [391474-tank-vs-big-alien-girl.json](./391474-tank-vs-big-alien-girl.json) |
 | Tankazooka | 367252 | [367252-tankazooka.json](./367252-tankazooka.json) |
+| Tankenstein | 357077 | [357077-tankenstein.json](./357077-tankenstein.json) |
 | Tanks: Total Destruction | 385474 | [385474-tanks-total-destruction.json](./385474-tanks-total-destruction.json) |
 | Tantan's Hangout | 393362 | [393362-tantans-hangout.json](./393362-tantans-hangout.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasogare no Shape Shifter | 382038 | [382038-tasogare-no-shape-shifter.json](./382038-tasogare-no-shape-shifter.json) |
 | Tasty Blue | 9081 | [9081-tasty-blue.json](./9081-tasty-blue.json) |
 | Tattered Banners | 387214 | [387214-tattered-banners.json](./387214-tattered-banners.json) |
+| Tavern Maid's Daily Life | 357090 | [357090-tavern-maids-daily-life.json](./357090-tavern-maids-daily-life.json) |
 | Tawa: Lost in Time | 359224 | [359224-tawa-lost-in-time.json](./359224-tawa-lost-in-time.json) |
 | Taxi Game | 95974 | [95974-taxi-game.json](./95974-taxi-game.json) |
 | Taxi Hyperdrive | 394739 | [394739-taxi-hyperdrive.json](./394739-taxi-hyperdrive.json) |
@@ -178,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Celestial Seeker | 380271 | [380271-the-celestial-seeker.json](./380271-the-celestial-seeker.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Cheated Man's Revenge: Triple the Payback | 359255 | [359255-the-cheated-mans-revenge-triple-the-payback.json](./359255-the-cheated-mans-revenge-triple-the-payback.json) |
+| The Child Of Hagar | 357048 | [357048-the-child-of-hagar.json](./357048-the-child-of-hagar.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clockwork Man | 15147 | [15147-the-clockwork-man.json](./15147-the-clockwork-man.json) |
@@ -279,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The happiness of maggots | 386007 | [386007-the-happiness-of-maggots.json](./386007-the-happiness-of-maggots.json) |
 | The Hat Man | 406000 | [406000-the-hat-man.json](./406000-the-hat-man.json) |
 | The Headliners | 324811 | [324811-the-headliners.json](./324811-the-headliners.json) |
+| The Heart of Anathema | 357078 | [357078-the-heart-of-anathema.json](./357078-the-heart-of-anathema.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The Hidden Library | 403452 | [403452-the-hidden-library.json](./403452-the-hidden-library.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
@@ -328,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
 | The Late Arrival | 380891 | [380891-the-late-arrival.json](./380891-the-late-arrival.json) |
+| The Legend of Dark Witch Episode 4: Echoes from Episode 3 | 357086 | [357086-the-legend-of-dark-witch-episode-4-echoes-from-episode-3.json](./357086-the-legend-of-dark-witch-episode-4-echoes-from-episode-3.json) |
 | The Legend of Dragoon | 3140 | [3140-the-legend-of-dragoon.json](./3140-the-legend-of-dragoon.json) |
 | The Legend of Heroes: Trails from Zero | 23322 | [23322-the-legend-of-heroes-trails-from-zero.json](./23322-the-legend-of-heroes-trails-from-zero.json) |
 | The Legend of Heroes: Trails in the Sky | 379767 | [379767-the-legend-of-heroes-trails-in-the-sky.json](./379767-the-legend-of-heroes-trails-in-the-sky.json) |
