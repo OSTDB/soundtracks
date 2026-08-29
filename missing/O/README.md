@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniro | 400109 | [400109-oniro.json](./400109-oniro.json) |
 | Only Up: Brainrot Together | 364915 | [364915-only-up-brainrot-together.json](./364915-only-up-brainrot-together.json) |
 | Only Up! | 247935 | [247935-only-up.json](./247935-only-up.json) |
+| Only Up! Cars | 342440 | [342440-only-up-cars.json](./342440-only-up-cars.json) |
 | Only You | 86539 | [86539-only-you.json](./86539-only-you.json) |
 | OnlyGame | 359269 | [359269-onlygame.json](./359269-onlygame.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
