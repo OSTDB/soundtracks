@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobidasu! Camazotz no Sekai 3D | 394730 | [394730-tobidasu-camazotz-no-sekai-3d.json](./394730-tobidasu-camazotz-no-sekai-3d.json) |
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
+| Toey Weedz Forreal | 348632 | [348632-toey-weedz-forreal.json](./348632-toey-weedz-forreal.json) |
 | ToGather:Island | 126658 | [126658-togather-island.json](./126658-togather-island.json) |
 | Together Again | 381453 | [381453-together-again.json](./381453-together-again.json) |
 | Together Synergy | 389296 | [389296-together-synergy.json](./389296-together-synergy.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Castle | 380861 | [380861-tricky-castle.json](./380861-tricky-castle.json) |
 | Tricky Cat | 115824 | [115824-tricky-cat.json](./115824-tricky-cat.json) |
 | Trifox | 107180 | [107180-trifox.json](./107180-trifox.json) |
+| Trigger of Time | 348624 | [348624-trigger-of-time.json](./348624-trigger-of-time.json) |
 | Trine 6: Together in Time | 404741 | [404741-trine-6-together-in-time.json](./404741-trine-6-together-in-time.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
 | Triple Swap Tower | 373948 | [373948-triple-swap-tower.json](./373948-triple-swap-tower.json) |
