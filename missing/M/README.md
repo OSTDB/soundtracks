@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mahjong Uranai Fortuna: Tsuki no Megami-tachi | 383242 | [383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json](./383242-mahjong-uranai-fortuna-tsuki-no-megami-tachi.json) |
 | Mahjongg Investigations: Under Suspicion | 15787 | [15787-mahjongg-investigations-under-suspicion.json](./15787-mahjongg-investigations-under-suspicion.json) |
+| Mai: Child of Ages | 355407 | [355407-mai-child-of-ages.json](./355407-mai-child-of-ages.json) |
 | Mai: Child of Ages - Storms of Time | 411446 | [411446-mai-child-of-ages-storms-of-time.json](./411446-mai-child-of-ages-storms-of-time.json) |
 | Maia | 16679 | [16679-maia.json](./16679-maia.json) |
 | Maid Cafe Simulator | 390979 | [390979-maid-cafe-simulator.json](./390979-maid-cafe-simulator.json) |
