@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communist Clicker | 378024 | [378024-communist-clicker.json](./378024-communist-clicker.json) |
 | Company of Heroes: Opposing Fronts | 1370 | [1370-company-of-heroes-opposing-fronts.json](./1370-company-of-heroes-opposing-fronts.json) |
 | Competitive TicTacToe | 404108 | [404108-competitive-tictactoe.json](./404108-competitive-tictactoe.json) |
+| Complex 629 | 348078 | [348078-complex-629.json](./348078-complex-629.json) |
 | Compound Word Puzzles 3 | 401394 | [401394-compound-word-puzzles-3.json](./401394-compound-word-puzzles-3.json) |
 | Conan Exiles: Barbarian Edition | 15679 | [15679-conan-exiles-barbarian-edition.json](./15679-conan-exiles-barbarian-edition.json) |
 | Concepts | 403460 | [403460-concepts.json](./403460-concepts.json) |
