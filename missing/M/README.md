@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive | 33043 | [33043-massive.json](./33043-massive.json) |
 | Massive Cleavage vs Zombies: Awesome Edition | 34499 | [34499-massive-cleavage-vs-zombies-awesome-edition.json](./34499-massive-cleavage-vs-zombies-awesome-edition.json) |
 | Master Detective: Logic & Mystery Puzzles | 394713 | [394713-master-detective-logic-and-mystery-puzzles.json](./394713-master-detective-logic-and-mystery-puzzles.json) |
+| Master Hanzi | 343641 | [343641-master-hanzi.json](./343641-master-hanzi.json) |
 | Master Knight | 369424 | [369424-master-knight.json](./369424-master-knight.json) |
 | Master of Balance | 348075 | [348075-master-of-balance.json](./348075-master-of-balance.json) |
 | Master of Cigkofte | 360441 | [360441-master-of-cigkofte.json](./360441-master-of-cigkofte.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
 | Meteor Break Mission | 359788 | [359788-meteor-break-mission.json](./359788-meteor-break-mission.json) |
 | Meteora | 345885 | [345885-meteora.json](./345885-meteora.json) |
+| Meth Make Simulator | 343655 | [343655-meth-make-simulator.json](./343655-meth-make-simulator.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
@@ -558,12 +560,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Slap | 86404 | [86404-monkey-slap.json](./86404-monkey-slap.json) |
 | Monmusu Paradise | 360954 | [360954-monmusu-paradise.json](./360954-monmusu-paradise.json) |
 | Monobeno | 61910 | [61910-monobeno.json](./61910-monobeno.json) |
+| Monochrome Serenade | 343650 | [343650-monochrome-serenade.json](./343650-monochrome-serenade.json) |
 | Monopoly Go! | 243278 | [243278-monopoly-go.json](./243278-monopoly-go.json) |
 | Monster 4x4: World Circuit | 5014 | [5014-monster-4x4-world-circuit.json](./5014-monster-4x4-world-circuit.json) |
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
 | Monster Castle | 24606 | [24606-monster-castle.json](./24606-monster-castle.json) |
 | Monster Chase | 346980 | [346980-monster-chase.json](./346980-monster-chase.json) |
+| Monster City | 343620 | [343620-monster-city.json](./343620-monster-city.json) |
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Gals!! | 384966 | [384966-monster-gals.json](./384966-monster-gals.json) |
 | Monster Girl Descent | 384968 | [384968-monster-girl-descent.json](./384968-monster-girl-descent.json) |
@@ -665,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mrs Snake | 89372 | [89372-mrs-snake.json](./89372-mrs-snake.json) |
 | Ms. Pac-Man | 7452 | [7452-ms-pac-man.json](./7452-ms-pac-man.json) |
 | MTB Bike Simulator | 401414 | [401414-mtb-bike-simulator.json](./401414-mtb-bike-simulator.json) |
+| MTB Mavrix | 343634 | [343634-mtb-mavrix.json](./343634-mtb-mavrix.json) |
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Mugging It Up | 360928 | [360928-mugging-it-up.json](./360928-mugging-it-up.json) |
 | Mullet Cop the Game | 396821 | [396821-mullet-cop-the-game.json](./396821-mullet-cop-the-game.json) |
