@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playback | 407974 | [407974-playback.json](./407974-playback.json) |
 | Playful Pursuit | 404120 | [404120-playful-pursuit.json](./404120-playful-pursuit.json) |
 | Plazma Being | 35832 | [35832-plazma-being.json](./35832-plazma-being.json) |
+| Please Claim Your Social Security Card | 349135 | [349135-please-claim-your-social-security-card.json](./349135-please-claim-your-social-security-card.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
 | Pleasure Puzzle | 110112 | [110112-pleasure-puzzle.json](./110112-pleasure-puzzle.json) |
 | Pleasure Puzzle:Workshop | 109644 | [109644-pleasure-puzzle-workshop.json](./109644-pleasure-puzzle-workshop.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Puck'n Monster | 385489 | [385489-puckn-monster.json](./385489-puckn-monster.json) |
 | Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
+| Pulmo | 349174 | [349174-pulmo.json](./349174-pulmo.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
 | Pumpkin Hop | 368875 | [368875-pumpkin-hop.json](./368875-pumpkin-hop.json) |
