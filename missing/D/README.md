@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosis Survival | 44159 | [44159-dinosis-survival.json](./44159-dinosis-survival.json) |
 | Directors Cut: Train | 406017 | [406017-directors-cut-train.json](./406017-directors-cut-train.json) |
 | Dirt Racers | 400771 | [400771-dirt-racers.json](./400771-dirt-racers.json) |
+| Dirt Stooge | 345866 | [345866-dirt-stooge.json](./345866-dirt-stooge.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirtlight | 400138 | [400138-dirtlight.json](./400138-dirtlight.json) |
 | Dirtnap | 411466 | [411466-dirtnap.json](./411466-dirtnap.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald in Maui Mallard | 371101 | [371101-donald-in-maui-mallard.json](./371101-donald-in-maui-mallard.json) |
 | Dong Wu: Odyssey | 398868 | [398868-dong-wu-odyssey.json](./398868-dong-wu-odyssey.json) |
 | Dòngwù Sēnlín | 359837 | [359837-dongwu-senlin.json](./359837-dongwu-senlin.json) |
+| Donjara | 345897 | [345897-donjara.json](./345897-donjara.json) |
 | Donkey Kong | 171951 | [171951-donkey-kong.json](./171951-donkey-kong.json) |
 | Donkey Kong Country | 152752 | [152752-donkey-kong-country.json](./152752-donkey-kong-country.json) |
 | Donkey Kong Country 4: The Kongs Return | 381457 | [381457-donkey-kong-country-4-the-kongs-return.json](./381457-donkey-kong-country-4-the-kongs-return.json) |
@@ -594,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Of | 357092 | [357092-dream-of.json](./357092-dream-of.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
+| Dream Spectra | 345858 | [345858-dream-spectra.json](./345858-dream-spectra.json) |
 | Dream Strikers | 364888 | [364888-dream-strikers.json](./364888-dream-strikers.json) |
 | Dream Team | 380291 | [380291-dream-team.json](./380291-dream-team.json) |
 | Dreamcore | 348602 | [348602-dreamcore.json](./348602-dreamcore.json) |
