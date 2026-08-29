@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maktala: Slime Lootfest | 373366 | [373366-maktala-slime-lootfest.json](./373366-maktala-slime-lootfest.json) |
 | Malaysian Dominatrixes Are the Best | 389308 | [389308-malaysian-dominatrixes-are-the-best.json](./389308-malaysian-dominatrixes-are-the-best.json) |
 | Malfosse, l’Affaire 2019 | 395442 | [395442-malfosse-l-affaire-2019.json](./395442-malfosse-l-affaire-2019.json) |
+| Malgwa Naui Iyagi, Alicia | 357091 | [357091-malgwa-naui-iyagi-alicia.json](./357091-malgwa-naui-iyagi-alicia.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
 | Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars I.D.L.E. | 408669 | [408669-mars-i-d-l-e.json](./408669-mars-i-d-l-e.json) |
 | Mars Kitchen | 360996 | [360996-mars-kitchen.json](./360996-mars-kitchen.json) |
 | Marshallese Dominatrixes Are the Best | 389304 | [389304-marshallese-dominatrixes-are-the-best.json](./389304-marshallese-dominatrixes-are-the-best.json) |
+| Marshals of Yore | 357088 | [357088-marshals-of-yore.json](./357088-marshals-of-yore.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
 | Marvel Rivals: Season 8 - Sins of Alchemax | 402159 | [402159-marvel-rivals-season-8-sins-of-alchemax.json](./402159-marvel-rivals-season-8-sins-of-alchemax.json) |
