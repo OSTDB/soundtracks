@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover Missions: Operation Kursk K-141 | 34437 | [34437-undercover-missions-operation-kursk-k-141.json](./34437-undercover-missions-operation-kursk-k-141.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
+| Undertale: The Story of Kindness | 356492 | [356492-undertale-the-story-of-kindness.json](./356492-undertale-the-story-of-kindness.json) |
 | Unearthed: Trail of Ibn Battuta | 20852 | [20852-unearthed-trail-of-ibn-battuta.json](./20852-unearthed-trail-of-ibn-battuta.json) |
 | Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
 | Unemployed Nightmare Together | 410138 | [410138-unemployed-nightmare-together.json](./410138-unemployed-nightmare-together.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United We Forge | 379762 | [379762-united-we-forge.json](./379762-united-we-forge.json) |
 | Universal Combat CE | 35851 | [35851-universal-combat-ce.json](./35851-universal-combat-ce.json) |
 | Universal Paperclips | 74837 | [74837-universal-paperclips.json](./74837-universal-paperclips.json) |
+| Universal Wardrobe | 356447 | [356447-universal-wardrobe.json](./356447-universal-wardrobe.json) |
 | Universe for Sale | 151593 | [151593-universe-for-sale.json](./151593-universe-for-sale.json) |
 | University Tycoon: 2019 | 102294 | [102294-university-tycoon-2019.json](./102294-university-tycoon-2019.json) |
 | Unknown Fate | 31866 | [31866-unknown-fate.json](./31866-unknown-fate.json) |
