@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read Clock Time | 368329 | [368329-read-clock-time.json](./368329-read-clock-time.json) |
 | Reader Rabbit's Interactive Reading Journey | 355948 | [355948-reader-rabbits-interactive-reading-journey.json](./355948-reader-rabbits-interactive-reading-journey.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
+| Ready, Set, Block! | 347502 | [347502-ready-set-block.json](./347502-ready-set-block.json) |
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
 | Real Bout Fatal Fury Special | 39521 | [39521-real-bout-fatal-fury-special.json](./39521-real-bout-fatal-fury-special.json) |
