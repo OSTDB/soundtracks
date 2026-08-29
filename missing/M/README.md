@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
 | Match Point Tennis | 354296 | [354296-match-point-tennis.json](./354296-match-point-tennis.json) |
 | Match-3 Adventure Bundle | 350842 | [350842-match-3-adventure-bundle.json](./350842-match-3-adventure-bundle.json) |
+| Match-3 Juice Bar | 346420 | [346420-match-3-juice-bar.json](./346420-match-3-juice-bar.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Matching Appli de Deaichuu Shitemita | 346981 | [346981-matching-appli-de-deaichuu-shitemita.json](./346981-matching-appli-de-deaichuu-shitemita.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
@@ -386,11 +387,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Haze | 411441 | [411441-mental-haze.json](./411441-mental-haze.json) |
 | Meow Box City | 406595 | [406595-meow-box-city.json](./406595-meow-box-city.json) |
 | MeowGems | 401410 | [401410-meowgems.json](./401410-meowgems.json) |
+| Meowventure | 346415 | [346415-meowventure.json](./346415-meowventure.json) |
 | Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merchant Guilds | 386008 | [386008-merchant-guilds.json](./386008-merchant-guilds.json) |
 | Merchant Heroes | 386006 | [386006-merchant-heroes.json](./386006-merchant-heroes.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
+| Merge Maestro | 346409 | [346409-merge-maestro.json](./346409-merge-maestro.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
 | Mesozoic Dawn | 407941 | [407941-mesozoic-dawn.json](./407941-mesozoic-dawn.json) |
 | Mesuneko Hishoshitsu | 368843 | [368843-mesuneko-hishoshitsu.json](./368843-mesuneko-hishoshitsu.json) |
@@ -656,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu Cartographer | 31780 | [31780-mu-cartographer.json](./31780-mu-cartographer.json) |
 | Mugging It Up | 360928 | [360928-mugging-it-up.json](./360928-mugging-it-up.json) |
 | Mullet Cop the Game | 396821 | [396821-mullet-cop-the-game.json](./396821-mullet-cop-the-game.json) |
+| Mumagi: Stellar Saviors | 346426 | [346426-mumagi-stellar-saviors.json](./346426-mumagi-stellar-saviors.json) |
 | Muppet Kids: Letters - Capital & Small | 386603 | [386603-muppet-kids-letters-capital-and-small.json](./386603-muppet-kids-letters-capital-and-small.json) |
 | Murals | 414959 | [414959-murals.json](./414959-murals.json) |
 | Muramasa Rebirth | 20008 | [20008-muramasa-rebirth.json](./20008-muramasa-rebirth.json) |
