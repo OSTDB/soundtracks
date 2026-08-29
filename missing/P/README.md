@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Maker + House Painting | 366654 | [366654-pizza-maker-house-painting.json](./366654-pizza-maker-house-painting.json) |
 | Pizza Restaurant Together | 373941 | [373941-pizza-restaurant-together.json](./373941-pizza-restaurant-together.json) |
 | Pizza Tower: Collector's Edition | 399492 | [399492-pizza-tower-collectors-edition.json](./399492-pizza-tower-collectors-edition.json) |
+| Place | 354871 | [354871-place.json](./354871-place.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
 | Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
 | Platera | 389327 | [389327-platera.json](./389327-platera.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
+| Platonica Space | 354850 | [354850-platonica-space.json](./354850-platonica-space.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Playback | 407974 | [407974-playback.json](./407974-playback.json) |
 | Playful Pursuit | 404120 | [404120-playful-pursuit.json](./404120-playful-pursuit.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 08-A007 - Lady Sophie | 355417 | [355417-pokemon-battle-e-08-a007-lady-sophie.json](./355417-pokemon-battle-e-08-a007-lady-sophie.json) |
 | Pokémon Battle e: 08-A008 - Beauty Fay | 355418 | [355418-pokemon-battle-e-08-a008-beauty-fay.json](./355418-pokemon-battle-e-08-a008-beauty-fay.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
+| Pokémon Delta Emerald | 354870 | [354870-pokemon-delta-emerald.json](./354870-pokemon-delta-emerald.json) |
 | Pokémon Dreamstone Mysteries | 355409 | [355409-pokemon-dreamstone-mysteries.json](./355409-pokemon-dreamstone-mysteries.json) |
 | Pokémon Legends: Z-A | 288327 | [288327-pokemon-legends-z-a.json](./288327-pokemon-legends-z-a.json) |
 | Pokémon Quetzal | 357054 | [357054-pokemon-quetzal.json](./357054-pokemon-quetzal.json) |
@@ -428,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priston Tale | 50856 | [50856-priston-tale.json](./50856-priston-tale.json) |
 | Private Psychic | 413538 | [413538-private-psychic.json](./413538-private-psychic.json) |
 | Pro Basketball Manager 2016 | 35797 | [35797-pro-basketball-manager-2016.json](./35797-pro-basketball-manager-2016.json) |
+| Pro Craps | 354842 | [354842-pro-craps.json](./354842-pro-craps.json) |
 | Pro Evolution Soccer 2013 | 2941 | [2941-pro-evolution-soccer-2013.json](./2941-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer Management | 4646 | [4646-pro-evolution-soccer-management.json](./4646-pro-evolution-soccer-management.json) |
 | Pro Pinball: Big Race USA | 838 | [838-pro-pinball-big-race-usa.json](./838-pro-pinball-big-race-usa.json) |
