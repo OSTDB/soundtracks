@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
 | "Suizokukan Kochira" | 395429 | [395429-suizokukan-kochira.json](./395429-suizokukan-kochira.json) |
 | (Soul) Survivor. | 386045 | [386045-soul-survivor.json](./386045-soul-survivor.json) |
+| @Paramo.Yermo | 345295 | [345295-paramo-yermo.json](./345295-paramo-yermo.json) |
 | #Breakforcist Battle | 96199 | [96199-breakforcist-battle.json](./96199-breakforcist-battle.json) |
 | #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #WarGames | 76767 | [76767-wargames.json](./76767-wargames.json) |
