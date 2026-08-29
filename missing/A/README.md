@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stroke of Fate: Operation Valkyrie | 15768 | [15768-a-stroke-of-fate-operation-valkyrie.json](./15768-a-stroke-of-fate-operation-valkyrie.json) |
 | A Thousand Bees | 389891 | [389891-a-thousand-bees.json](./389891-a-thousand-bees.json) |
 | A Timely Intervention | 33037 | [33037-a-timely-intervention.json](./33037-a-timely-intervention.json) |
+| A Tragedy in Elvish | 354247 | [354247-a-tragedy-in-elvish.json](./354247-a-tragedy-in-elvish.json) |
 | A Witch's Tale | 24264 | [24264-a-witchs-tale.json](./24264-a-witchs-tale.json) |
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
 | A World To Come | 413563 | [413563-a-world-to-come.json](./413563-a-world-to-come.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Rebirth | 377473 | [377473-abyss-rebirth.json](./377473-abyss-rebirth.json) |
 | Abyss Runner | 402837 | [402837-abyss-runner.json](./402837-abyss-runner.json) |
 | Abyss Unleashed | 377472 | [377472-abyss-unleashed.json](./377472-abyss-unleashed.json) |
+| Abyss Veil | 354267 | [354267-abyss-veil.json](./354267-abyss-veil.json) |
 | Abyssal Echo | 377470 | [377470-abyssal-echo.json](./377470-abyssal-echo.json) |
 | Abyssal Swarm | 377471 | [377471-abyssal-swarm.json](./377471-abyssal-swarm.json) |
 | Abyssal Tides | 377466 | [377466-abyssal-tides.json](./377466-abyssal-tides.json) |
