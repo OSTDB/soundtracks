@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
 | Bulletploop | 355937 | [355937-bulletploop.json](./355937-bulletploop.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
+| Bullpen | 343677 | [343677-bullpen.json](./343677-bullpen.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
 | Bumblebee: Spooky Nights | 373383 | [373383-bumblebee-spooky-nights.json](./373383-bumblebee-spooky-nights.json) |
