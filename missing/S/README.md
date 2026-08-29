@@ -156,10 +156,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senior Survival Club | 400792 | [400792-senior-survival-club.json](./400792-senior-survival-club.json) |
 | Senran Kagura 2: Deep Crimson | 11079 | [11079-senran-kagura-2-deep-crimson.json](./11079-senran-kagura-2-deep-crimson.json) |
 | Senran Kagura Burst Re:Newal | 53656 | [53656-senran-kagura-burst-re-newal.json](./53656-senran-kagura-burst-re-newal.json) |
+| Sense Cook | 348106 | [348106-sense-cook.json](./348106-sense-cook.json) |
 | Sensual Adventures: Treasure Island | 367218 | [367218-sensual-adventures-treasure-island.json](./367218-sensual-adventures-treasure-island.json) |
 | Sentinel | 360964 | [360964-sentinel.json](./360964-sentinel.json) |
 | Sentinel 3: Homeworld | 17041 | [17041-sentinel-3-homeworld.json](./17041-sentinel-3-homeworld.json) |
 | Sepia Tears | 15904 | [15904-sepia-tears.json](./15904-sepia-tears.json) |
+| Sery: Into the World of Myths | 348103 | [348103-sery-into-the-world-of-myths.json](./348103-sery-into-the-world-of-myths.json) |
 | Sesame Street Art Maker | 89493 | [89493-sesame-street-art-maker.json](./89493-sesame-street-art-maker.json) |
 | Session: Skate Sim - Supporter Pack | 360383 | [360383-session-skate-sim-supporter-pack.json](./360383-session-skate-sim-supporter-pack.json) |
 | Session: Skate Sim - Throwdowns Update | 400794 | [400794-session-skate-sim-throwdowns-update.json](./400794-session-skate-sim-throwdowns-update.json) |
@@ -231,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipolis | 402838 | [402838-shipolis.json](./402838-shipolis.json) |
 | Shipping Store Simulator 2037 | 396796 | [396796-shipping-store-simulator-2037.json](./396796-shipping-store-simulator-2037.json) |
 | ShipShaper | 412138 | [412138-shipshaper.json](./412138-shipshaper.json) |
+| Shirohebi and the Tower of Mercy | 348077 | [348077-shirohebi-and-the-tower-of-mercy.json](./348077-shirohebi-and-the-tower-of-mercy.json) |
 | Shiroi Hana ha Boku ni '' " wo Tsugete Iru | 370544 | [370544-shiroi-hana-ha-boku-ni-wo-tsugete-iru.json](./370544-shiroi-hana-ha-boku-ni-wo-tsugete-iru.json) |
 | Shiroi Kizuna | 386024 | [386024-shiroi-kizuna.json](./386024-shiroi-kizuna.json) |
 | Shisya Zero | 412864 | [412864-shisya-zero.json](./412864-shisya-zero.json) |
@@ -248,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shoulders of Giants | 204461 | [204461-shoulders-of-giants.json](./204461-shoulders-of-giants.json) |
 | Showdown Next Week! | 376288 | [376288-showdown-next-week.json](./376288-showdown-next-week.json) |
+| Shrooms! Tower Defence | 348079 | [348079-shrooms-tower-defence.json](./348079-shrooms-tower-defence.json) |
 | Shroomwood | 378644 | [378644-shroomwood.json](./378644-shroomwood.json) |
 | Shrug Tides | 386011 | [386011-shrug-tides.json](./386011-shrug-tides.json) |
 | Shu's Garden | 15558 | [15558-shus-garden.json](./15558-shus-garden.json) |
@@ -259,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization | 902 | [902-sid-meiers-civilization.json](./902-sid-meiers-civilization.json) |
 | Sid Meier's Civilization III: Complete | 27820 | [27820-sid-meiers-civilization-iii-complete.json](./27820-sid-meiers-civilization-iii-complete.json) |
 | Sid Meier's Civilization IV: Colonization | 4228 | [4228-sid-meiers-civilization-iv-colonization.json](./4228-sid-meiers-civilization-iv-colonization.json) |
+| Sid Meier's Civilization V: Civ and Scenario Pack - Mongols (Genghis Khan) | 348054 | [348054-sid-meiers-civilization-v-civ-and-scenario-pack-mongols-genghis-khan.json](./348054-sid-meiers-civilization-v-civ-and-scenario-pack-mongols-genghis-khan.json) |
 | Sid Meier's Civilization V: Enlightenment Era | 371681 | [371681-sid-meiers-civilization-v-enlightenment-era.json](./371681-sid-meiers-civilization-v-enlightenment-era.json) |
 | Sid Meier's Civilization V: Future Worlds | 371708 | [371708-sid-meiers-civilization-v-future-worlds.json](./371708-sid-meiers-civilization-v-future-worlds.json) |
 | Sid Meier's Civilization V: The Complete Edition | 53610 | [53610-sid-meiers-civilization-v-the-complete-edition.json](./53610-sid-meiers-civilization-v-the-complete-edition.json) |
@@ -780,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Miami VR | 406609 | [406609-streets-of-miami-vr.json](./406609-streets-of-miami-vr.json) |
 | Streets of Red: Devil's Dare Deluxe | 86452 | [86452-streets-of-red-devils-dare-deluxe.json](./86452-streets-of-red-devils-dare-deluxe.json) |
 | Strength of the Sword: Ultimate | 22737 | [22737-strength-of-the-sword-ultimate.json](./22737-strength-of-the-sword-ultimate.json) |
+| Strife Lords | 348099 | [348099-strife-lords.json](./348099-strife-lords.json) |
 | Strife: Quest for the Sigil | 7314 | [7314-strife-quest-for-the-sigil.json](./7314-strife-quest-for-the-sigil.json) |
 | Strike Commander | 50188 | [50188-strike-commander.json](./50188-strike-commander.json) |
 | Striker '96 | 22675 | [22675-striker-96.json](./22675-striker-96.json) |
@@ -809,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 2 Gold | 36705 | [36705-sudden-strike-2-gold.json](./36705-sudden-strike-2-gold.json) |
 | Sudden Strike 4 | 22399 | [22399-sudden-strike-4.json](./22399-sudden-strike-4.json) |
 | Sudoku Bactron | 404733 | [404733-sudoku-bactron.json](./404733-sudoku-bactron.json) |
+| Sudopix | 348074 | [348074-sudopix.json](./348074-sudopix.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
 | Sugary Super Mario Bros. Wii | 394011 | [394011-sugary-super-mario-bros-wii.json](./394011-sugary-super-mario-bros-wii.json) |
 | Sugoi Girls: Wolf Romance | 373387 | [373387-sugoi-girls-wolf-romance.json](./373387-sugoi-girls-wolf-romance.json) |
