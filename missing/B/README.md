@@ -17,6 +17,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
 | Backmooms | 356459 | [356459-backmooms.json](./356459-backmooms.json) |
+| Backrooms Bodycam | 348622 | [348622-backrooms-bodycam.json](./348622-backrooms-bodycam.json) |
+| Backrooms Bodycam 2 | 348623 | [348623-backrooms-bodycam-2.json](./348623-backrooms-bodycam-2.json) |
 | Backrooms Lost Unit | 389906 | [389906-backrooms-lost-unit.json](./389906-backrooms-lost-unit.json) |
 | Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
 | Backrooms: No Level | 364933 | [364933-backrooms-no-level.json](./364933-backrooms-no-level.json) |
@@ -511,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Dead 13 | 9258 | [9258-brain-dead-13.json](./9258-brain-dead-13.json) |
 | Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brainpipe: A Plunge to Unhumanity | 29203 | [29203-brainpipe-a-plunge-to-unhumanity.json](./29203-brainpipe-a-plunge-to-unhumanity.json) |
+| BrainRooms: Brainrot Backrooms | 348626 | [348626-brainrooms-brainrot-backrooms.json](./348626-brainrooms-brainrot-backrooms.json) |
 | Brainrot Autobattler | 410113 | [410113-brainrot-autobattler.json](./410113-brainrot-autobattler.json) |
 | Brainrot Card Market Simulator | 409490 | [409490-brainrot-card-market-simulator.json](./409490-brainrot-card-market-simulator.json) |
 | Brainrot Royale | 351476 | [351476-brainrot-royale.json](./351476-brainrot-royale.json) |
