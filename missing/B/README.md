@@ -138,8 +138,75 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beasts That Swim | 370543 | [370543-beasts-that-swim.json](./370543-beasts-that-swim.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
+| Beat Saber: Billie Eilish - "All the Good Girls Go to Hell" | 358122 | [358122-beat-saber-billie-eilish-all-the-good-girls-go-to-hell.json](./358122-beat-saber-billie-eilish-all-the-good-girls-go-to-hell.json) |
+| Beat Saber: Billie Eilish - "Bad Guy" | 358142 | [358142-beat-saber-billie-eilish-bad-guy.json](./358142-beat-saber-billie-eilish-bad-guy.json) |
+| Beat Saber: Billie Eilish - "Bellyache" | 358136 | [358136-beat-saber-billie-eilish-bellyache.json](./358136-beat-saber-billie-eilish-bellyache.json) |
+| Beat Saber: Billie Eilish - "Bury a Friend" | 358144 | [358144-beat-saber-billie-eilish-bury-a-friend.json](./358144-beat-saber-billie-eilish-bury-a-friend.json) |
+| Beat Saber: Billie Eilish - "Happier Than Ever" | 358125 | [358125-beat-saber-billie-eilish-happier-than-ever.json](./358125-beat-saber-billie-eilish-happier-than-ever.json) |
+| Beat Saber: Billie Eilish - "I Didn't Change My Number" | 358141 | [358141-beat-saber-billie-eilish-i-didnt-change-my-number.json](./358141-beat-saber-billie-eilish-i-didnt-change-my-number.json) |
+| Beat Saber: Billie Eilish - "NDA" | 358128 | [358128-beat-saber-billie-eilish-nda.json](./358128-beat-saber-billie-eilish-nda.json) |
+| Beat Saber: Billie Eilish - "Oxytocin" | 358137 | [358137-beat-saber-billie-eilish-oxytocin.json](./358137-beat-saber-billie-eilish-oxytocin.json) |
+| Beat Saber: Billie Eilish - "Therefore I Am" | 358130 | [358130-beat-saber-billie-eilish-therefore-i-am.json](./358130-beat-saber-billie-eilish-therefore-i-am.json) |
+| Beat Saber: Billie Eilish - "You Should See Me in a Crown" | 358121 | [358121-beat-saber-billie-eilish-you-should-see-me-in-a-crown.json](./358121-beat-saber-billie-eilish-you-should-see-me-in-a-crown.json) |
+| Beat Saber: Bomfunk MC's - "Freestyler" | 358106 | [358106-beat-saber-bomfunk-mcs-freestyler.json](./358106-beat-saber-bomfunk-mcs-freestyler.json) |
+| Beat Saber: Bruno Martini & Timbaland - "Famous ft. Jake Davis" | 358165 | [358165-beat-saber-bruno-martini-and-timbaland-famous-ft-jake-davis.json](./358165-beat-saber-bruno-martini-and-timbaland-famous-ft-jake-davis.json) |
+| Beat Saber: BTS - "Blood Sweat & Tears" | 358169 | [358169-beat-saber-bts-blood-sweat-and-tears.json](./358169-beat-saber-bts-blood-sweat-and-tears.json) |
+| Beat Saber: BTS - "Boy With Luv (feat. Halsey)" | 358154 | [358154-beat-saber-bts-boy-with-luv-feat-halsey.json](./358154-beat-saber-bts-boy-with-luv-feat-halsey.json) |
+| Beat Saber: BTS - "Burning Up (Fire)" | 358166 | [358166-beat-saber-bts-burning-up-fire.json](./358166-beat-saber-bts-burning-up-fire.json) |
+| Beat Saber: BTS - "Dynamite" | 358163 | [358163-beat-saber-bts-dynamite.json](./358163-beat-saber-bts-dynamite.json) |
+| Beat Saber: BTS - "Mic Drop (Steve Aoki Remix)" | 358167 | [358167-beat-saber-bts-mic-drop-steve-aoki-remix.json](./358167-beat-saber-bts-mic-drop-steve-aoki-remix.json) |
+| Beat Saber: Fall Out Boy - "Centuries" | 358111 | [358111-beat-saber-fall-out-boy-centuries.json](./358111-beat-saber-fall-out-boy-centuries.json) |
+| Beat Saber: Fall Out Boy - "Dance, Dance" | 358112 | [358112-beat-saber-fall-out-boy-dance-dance.json](./358112-beat-saber-fall-out-boy-dance-dance.json) |
+| Beat Saber: Fall Out Boy - "I Don’t Care" | 358113 | [358113-beat-saber-fall-out-boy-i-don-t-care.json](./358113-beat-saber-fall-out-boy-i-don-t-care.json) |
+| Beat Saber: Fall Out Boy - "Immortals" | 358118 | [358118-beat-saber-fall-out-boy-immortals.json](./358118-beat-saber-fall-out-boy-immortals.json) |
+| Beat Saber: Fall Out Boy - "Irresistible" | 358114 | [358114-beat-saber-fall-out-boy-irresistible.json](./358114-beat-saber-fall-out-boy-irresistible.json) |
+| Beat Saber: Fall Out Boy - "My Songs Know What You Did in the Dark (Light Em Up)" | 358115 | [358115-beat-saber-fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up.json](./358115-beat-saber-fall-out-boy-my-songs-know-what-you-did-in-the-dark-light-em-up.json) |
+| Beat Saber: Fall Out Boy - "This Ain’t a Scene, It’s an Arms Race" | 358116 | [358116-beat-saber-fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race.json](./358116-beat-saber-fall-out-boy-this-ain-t-a-scene-it-s-an-arms-race.json) |
+| Beat Saber: Fall Out Boy - "Thnks fr th Mmrs" | 358117 | [358117-beat-saber-fall-out-boy-thnks-fr-th-mmrs.json](./358117-beat-saber-fall-out-boy-thnks-fr-th-mmrs.json) |
+| Beat Saber: Feint - "We Won't Be Alone (feat. Laura Brehm)" | 358159 | [358159-beat-saber-feint-we-wont-be-alone-feat-laura-brehm.json](./358159-beat-saber-feint-we-wont-be-alone-feat-laura-brehm.json) |
+| Beat Saber: Gwen Stefani - "The Sweet Escape ft. Akon" | 358150 | [358150-beat-saber-gwen-stefani-the-sweet-escape-ft-akon.json](./358150-beat-saber-gwen-stefani-the-sweet-escape-ft-akon.json) |
+| Beat Saber: Imagine Dragons - "Bones" | 358104 | [358104-beat-saber-imagine-dragons-bones.json](./358104-beat-saber-imagine-dragons-bones.json) |
+| Beat Saber: Imagine Dragons - "It's Time" | 358156 | [358156-beat-saber-imagine-dragons-its-time.json](./358156-beat-saber-imagine-dragons-its-time.json) |
+| Beat Saber: Imagine Dragons x J.I.D - "Enemy (from the series Arcane League of Legends)" | 358105 | [358105-beat-saber-imagine-dragons-x-j-i-d-enemy-from-the-series-arcane-league-of-legends.json](./358105-beat-saber-imagine-dragons-x-j-i-d-enemy-from-the-series-arcane-league-of-legends.json) |
+| Beat Saber: Kaydence & Timbaland - "Dumb Thingz" | 358152 | [358152-beat-saber-kaydence-and-timbaland-dumb-thingz.json](./358152-beat-saber-kaydence-and-timbaland-dumb-thingz.json) |
+| Beat Saber: Kayzo - "This Time" | 358162 | [358162-beat-saber-kayzo-this-time.json](./358162-beat-saber-kayzo-this-time.json) |
+| Beat Saber: Kendrick Lamar - "DNA." | 358147 | [358147-beat-saber-kendrick-lamar-dna.json](./358147-beat-saber-kendrick-lamar-dna.json) |
+| Beat Saber: Lady Gaga - "Bad Romance" | 358127 | [358127-beat-saber-lady-gaga-bad-romance.json](./358127-beat-saber-lady-gaga-bad-romance.json) |
+| Beat Saber: Lady Gaga - "Born This Way" | 358123 | [358123-beat-saber-lady-gaga-born-this-way.json](./358123-beat-saber-lady-gaga-born-this-way.json) |
+| Beat Saber: Lady Gaga - "Paparazzi" | 358131 | [358131-beat-saber-lady-gaga-paparazzi.json](./358131-beat-saber-lady-gaga-paparazzi.json) |
+| Beat Saber: Lady Gaga - "Stupid Love" | 358135 | [358135-beat-saber-lady-gaga-stupid-love.json](./358135-beat-saber-lady-gaga-stupid-love.json) |
+| Beat Saber: Lady Gaga - "The Edge Of Glory" | 358124 | [358124-beat-saber-lady-gaga-the-edge-of-glory.json](./358124-beat-saber-lady-gaga-the-edge-of-glory.json) |
+| Beat Saber: Lady Gaga, Ariana Grande - "Rain on Me (with Ariana Grande)" | 358129 | [358129-beat-saber-lady-gaga-ariana-grande-rain-on-me-with-ariana-grande.json](./358129-beat-saber-lady-gaga-ariana-grande-rain-on-me-with-ariana-grande.json) |
+| Beat Saber: Lady Gaga, Beyoncé - "Telephone (feat. Beyoncé)" | 358132 | [358132-beat-saber-lady-gaga-beyonce-telephone-feat-beyonce.json](./358132-beat-saber-lady-gaga-beyonce-telephone-feat-beyonce.json) |
+| Beat Saber: Lady Gaga, Colby O’Donis - "Just Dance (feat. Colby O’Donis)" | 358126 | [358126-beat-saber-lady-gaga-colby-o-donis-just-dance-feat-colby-o-donis.json](./358126-beat-saber-lady-gaga-colby-o-donis-just-dance-feat-colby-o-donis.json) |
+| Beat Saber: Limp Bizkit - "Rollin’ (Air Raid Vehicle)" | 358151 | [358151-beat-saber-limp-bizkit-rollin-air-raid-vehicle.json](./358151-beat-saber-limp-bizkit-rollin-air-raid-vehicle.json) |
+| Beat Saber: Linkin Park - "Faint" | 358160 | [358160-beat-saber-linkin-park-faint.json](./358160-beat-saber-linkin-park-faint.json) |
+| Beat Saber: Linkin Park - "Papercut" | 358161 | [358161-beat-saber-linkin-park-papercut.json](./358161-beat-saber-linkin-park-papercut.json) |
+| Beat Saber: LMFAO ft. Lauren Bennett, GoonRock - "Party Rock Anthem" | 358145 | [358145-beat-saber-lmfao-ft-lauren-bennett-goonrock-party-rock-anthem.json](./358145-beat-saber-lmfao-ft-lauren-bennett-goonrock-party-rock-anthem.json) |
+| Beat Saber: Madeon - "Icarus" | 358107 | [358107-beat-saber-madeon-icarus.json](./358107-beat-saber-madeon-icarus.json) |
+| Beat Saber: Maroon 5 - "Sugar" | 358148 | [358148-beat-saber-maroon-5-sugar.json](./358148-beat-saber-maroon-5-sugar.json) |
+| Beat Saber: Marshmello - "Alone" | 358110 | [358110-beat-saber-marshmello-alone.json](./358110-beat-saber-marshmello-alone.json) |
 | Beat Saber: Metallica Music Pack | 363203 | [363203-beat-saber-metallica-music-pack.json](./363203-beat-saber-metallica-music-pack.json) |
 | Beat Saber: Monstercat Mixtape 2 | 363202 | [363202-beat-saber-monstercat-mixtape-2.json](./363202-beat-saber-monstercat-mixtape-2.json) |
+| Beat Saber: Muzzy - "Feeling Stronger (feat. Charlotte Colley)" | 358158 | [358158-beat-saber-muzzy-feeling-stronger-feat-charlotte-colley.json](./358158-beat-saber-muzzy-feeling-stronger-feat-charlotte-colley.json) |
+| Beat Saber: OneRepublic - "Counting Stars" | 358149 | [358149-beat-saber-onerepublic-counting-stars.json](./358149-beat-saber-onerepublic-counting-stars.json) |
+| Beat Saber: Panic! At The Disco - "Crazy = Genius" | 358103 | [358103-beat-saber-panic-at-the-disco-crazy-genius.json](./358103-beat-saber-panic-at-the-disco-crazy-genius.json) |
+| Beat Saber: Panic! At The Disco - "Dancing's Not A Crime" | 358102 | [358102-beat-saber-panic-at-the-disco-dancings-not-a-crime.json](./358102-beat-saber-panic-at-the-disco-dancings-not-a-crime.json) |
+| Beat Saber: Panic! At The Disco - "Hey Look Ma, I Made It" | 358101 | [358101-beat-saber-panic-at-the-disco-hey-look-ma-i-made-it.json](./358101-beat-saber-panic-at-the-disco-hey-look-ma-i-made-it.json) |
+| Beat Saber: Panic! At The Disco - "Say Amen (Saturday Night)" | 358100 | [358100-beat-saber-panic-at-the-disco-say-amen-saturday-night.json](./358100-beat-saber-panic-at-the-disco-say-amen-saturday-night.json) |
+| Beat Saber: Panic! At The Disco - "Sugar Soaker" | 358099 | [358099-beat-saber-panic-at-the-disco-sugar-soaker.json](./358099-beat-saber-panic-at-the-disco-sugar-soaker.json) |
+| Beat Saber: Panic! at the Disco - "The Greatest Show" | 358164 | [358164-beat-saber-panic-at-the-disco-the-greatest-show.json](./358164-beat-saber-panic-at-the-disco-the-greatest-show.json) |
+| Beat Saber: Panic! at the Disco - "Victorious" | 358155 | [358155-beat-saber-panic-at-the-disco-victorious.json](./358155-beat-saber-panic-at-the-disco-victorious.json) |
+| Beat Saber: Rogue - "Rattlesnake" | 358153 | [358153-beat-saber-rogue-rattlesnake.json](./358153-beat-saber-rogue-rattlesnake.json) |
+| Beat Saber: Rudimental - "Waiting All Night (feat. Ella Eyre)" | 358108 | [358108-beat-saber-rudimental-waiting-all-night-feat-ella-eyre.json](./358108-beat-saber-rudimental-waiting-all-night-feat-ella-eyre.json) |
+| Beat Saber: Skrillex - "First of the Year (Equinox)" | 358133 | [358133-beat-saber-skrillex-first-of-the-year-equinox.json](./358133-beat-saber-skrillex-first-of-the-year-equinox.json) |
+| Beat Saber: Skrillex - "Ragga Bomb (feat. Ragga Twins)" | 358138 | [358138-beat-saber-skrillex-ragga-bomb-feat-ragga-twins.json](./358138-beat-saber-skrillex-ragga-bomb-feat-ragga-twins.json) |
+| Beat Saber: Skrillex - "Rock ‘n’ Roll (Will Take You to the Mountain)" | 358143 | [358143-beat-saber-skrillex-rock-n-roll-will-take-you-to-the-mountain.json](./358143-beat-saber-skrillex-rock-n-roll-will-take-you-to-the-mountain.json) |
+| Beat Saber: Skrillex, Justin Bieber & Don Toliver - "Don’t Go" | 358139 | [358139-beat-saber-skrillex-justin-bieber-and-don-toliver-don-t-go.json](./358139-beat-saber-skrillex-justin-bieber-and-don-toliver-don-t-go.json) |
+| Beat Saber: Skrillex, Starrah & Four Tet - "Butterflies" | 358140 | [358140-beat-saber-skrillex-starrah-and-four-tet-butterflies.json](./358140-beat-saber-skrillex-starrah-and-four-tet-butterflies.json) |
+| Beat Saber: Stephen Walking - "Glide" | 358168 | [358168-beat-saber-stephen-walking-glide.json](./358168-beat-saber-stephen-walking-glide.json) |
+| Beat Saber: Stonebank - "Stronger (feat. Emel)" | 358157 | [358157-beat-saber-stonebank-stronger-feat-emel.json](./358157-beat-saber-stonebank-stronger-feat-emel.json) |
+| Beat Saber: The Pussycat Dolls - "Don't Cha" | 358146 | [358146-beat-saber-the-pussycat-dolls-dont-cha.json](./358146-beat-saber-the-pussycat-dolls-dont-cha.json) |
 | Beat Saber: The Rolling Stones Music Pack | 363201 | [363201-beat-saber-the-rolling-stones-music-pack.json](./363201-beat-saber-the-rolling-stones-music-pack.json) |
 | Beat:Keeper | 387199 | [387199-beat-keeper.json](./387199-beat-keeper.json) |
 | Beatbuddy: Tale of the Guardians | 7087 | [7087-beatbuddy-tale-of-the-guardians.json](./7087-beatbuddy-tale-of-the-guardians.json) |
