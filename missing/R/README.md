@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactonix Sandbox | 392035 | [392035-reactonix-sandbox.json](./392035-reactonix-sandbox.json) |
 | Reactor | 392047 | [392047-reactor.json](./392047-reactor.json) |
 | Read Clock Time | 368329 | [368329-read-clock-time.json](./368329-read-clock-time.json) |
+| Reader Rabbit's Interactive Reading Journey | 355948 | [355948-reader-rabbits-interactive-reading-journey.json](./355948-reader-rabbits-interactive-reading-journey.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Real 1942 | 65807 | [65807-real-1942.json](./65807-real-1942.json) |
 | Real Bout Fatal Fury | 39520 | [39520-real-bout-fatal-fury.json](./39520-real-bout-fatal-fury.json) |
