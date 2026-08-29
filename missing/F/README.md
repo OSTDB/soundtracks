@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fotonica | 16692 | [16692-fotonica.json](./16692-fotonica.json) |
 | Four Corners: Square Off | 381452 | [381452-four-corners-square-off.json](./381452-four-corners-square-off.json) |
 | Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
+| Fowl Legacy | 353665 | [353665-fowl-legacy.json](./353665-fowl-legacy.json) |
 | Fox Jam | 405395 | [405395-fox-jam.json](./405395-fox-jam.json) |
 | Fox's Zen House | 372285 | [372285-foxs-zen-house.json](./372285-foxs-zen-house.json) |
 | FoxTail | 86383 | [86383-foxtail.json](./86383-foxtail.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggotten Recipes | 381451 | [381451-froggotten-recipes.json](./381451-froggotten-recipes.json) |
 | Froggy Hates Snow | 369944 | [369944-froggy-hates-snow.json](./369944-froggy-hates-snow.json) |
 | Frogs Aren't Fresh | 412868 | [412868-frogs-arent-fresh.json](./412868-frogs-arent-fresh.json) |
+| Frogs Kitchen | 353676 | [353676-frogs-kitchen.json](./353676-frogs-kitchen.json) |
 | From Devil's Womb | 389880 | [389880-from-devils-womb.json](./389880-from-devils-womb.json) |
 | From Dusk To Dawn | 369402 | [369402-from-dusk-to-dawn.json](./369402-from-dusk-to-dawn.json) |
 | From Space | 157916 | [157916-from-space.json](./157916-from-space.json) |
