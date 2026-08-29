@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig in Hell | 393307 | [393307-pig-in-hell.json](./393307-pig-in-hell.json) |
 | Pigeon's Untitled Screenplay | 403453 | [403453-pigeons-untitled-screenplay.json](./403453-pigeons-untitled-screenplay.json) |
 | Pigharvest5 | 399541 | [399541-pigharvest5.json](./399541-pigharvest5.json) |
+| Pigkaboo | 348097 | [348097-pigkaboo.json](./348097-pigkaboo.json) |
 | Pigs and Wolf | 389866 | [389866-pigs-and-wolf.json](./389866-pigs-and-wolf.json) |
 | Pikmin Puzzle Card e+: No.016 - Tsunagete Pikmin: Mizu Buta | 363750 | [363750-pikmin-puzzle-card-e-no-016-tsunagete-pikmin-mizu-buta.json](./363750-pikmin-puzzle-card-e-no-016-tsunagete-pikmin-mizu-buta.json) |
 | Pikmin Puzzle Card e+: No.017 - Teku-teku Pikmin: Futa-kuchi Dokkuri | 363751 | [363751-pikmin-puzzle-card-e-no-017-teku-teku-pikmin-futa-kuchi-dokkuri.json](./363751-pikmin-puzzle-card-e-no-017-teku-teku-pikmin-futa-kuchi-dokkuri.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Tower: Collector's Edition | 399492 | [399492-pizza-tower-collectors-edition.json](./399492-pizza-tower-collectors-edition.json) |
 | Place | 354871 | [354871-place.json](./354871-place.json) |
 | Placid Plastic Duck Simulator | 204122 | [204122-placid-plastic-duck-simulator.json](./204122-placid-plastic-duck-simulator.json) |
+| Plague Genesis | 348094 | [348094-plague-genesis.json](./348094-plague-genesis.json) |
 | Plague Inc. | 2065 | [2065-plague-inc.json](./2065-plague-inc.json) |
 | Plague Road | 36644 | [36644-plague-road.json](./36644-plague-road.json) |
 | Plagun: The Plague Goes On | 359782 | [359782-plagun-the-plague-goes-on.json](./359782-plagun-the-plague-goes-on.json) |
@@ -340,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
 | Playback | 407974 | [407974-playback.json](./407974-playback.json) |
 | Playful Pursuit | 404120 | [404120-playful-pursuit.json](./404120-playful-pursuit.json) |
+| Playomoji | 348050 | [348050-playomoji.json](./348050-playomoji.json) |
 | Plazma Being | 35832 | [35832-plazma-being.json](./35832-plazma-being.json) |
 | Please Claim Your Social Security Card | 349135 | [349135-please-claim-your-social-security-card.json](./349135-please-claim-your-social-security-card.json) |
 | Please, Touch The Artwork 2 | 275072 | [275072-please-touch-the-artwork-2.json](./275072-please-touch-the-artwork-2.json) |
@@ -419,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | Pop, Fizz, Cheers! | 383822 | [383822-pop-fizz-cheers.json](./383822-pop-fizz-cheers.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
+| Popit Game | 348052 | [348052-popit-game.json](./348052-popit-game.json) |
 | PoPoLoCrois | 23140 | [23140-popolocrois.json](./23140-popolocrois.json) |
 | Poppidemic | 371095 | [371095-poppidemic.json](./371095-poppidemic.json) |
 | Pops | 414962 | [414962-pops.json](./414962-pops.json) |
