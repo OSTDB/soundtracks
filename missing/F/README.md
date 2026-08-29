@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Hunters | 402758 | [402758-fleet-hunters.json](./402758-fleet-hunters.json) |
 | Flesh Reactor | 372859 | [372859-flesh-reactor.json](./372859-flesh-reactor.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
+| Flic and Flac | 344186 | [344186-flic-and-flac.json](./344186-flic-and-flac.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
 | Flight Attendant & Ultimate Rock & Space Cleaner & Cash Guardian Simulator & Bundle | 350856 | [350856-flight-attendant-and-ultimate-rock-and-space-cleaner-and-cash-guardian-simulator-and-bundle.json](./350856-flight-attendant-and-ultimate-rock-and-space-cleaner-and-cash-guardian-simulator-and-bundle.json) |
 | Fling Up Together | 397533 | [397533-fling-up-together.json](./397533-fling-up-together.json) |
