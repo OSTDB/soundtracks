@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keykruncher | 408685 | [408685-keykruncher.json](./408685-keykruncher.json) |
 | KGB v smokinge | 375669 | [375669-kgb-v-smokinge.json](./375669-kgb-v-smokinge.json) |
 | Kiaris | 399517 | [399517-kiaris.json](./399517-kiaris.json) |
+| Kick | 354269 | [354269-kick.json](./354269-kick.json) |
 | Kick BuddyMan 2 | 102110 | [102110-kick-buddyman-2.json](./102110-kick-buddyman-2.json) |
 | Kick Master | 48116 | [48116-kick-master.json](./48116-kick-master.json) |
 | KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
