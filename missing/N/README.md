@@ -34,7 +34,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K15 | 7614 | [7614-nba-2k15.json](./7614-nba-2k15.json) |
 | NBA 2K18: The Prelude | 83762 | [83762-nba-2k18-the-prelude.json](./83762-nba-2k18-the-prelude.json) |
 | NBA 2K21 | 134599 | [134599-nba-2k21.json](./134599-nba-2k21.json) |
+| NBA 2K23: Arcade Edition | 355935 | [355935-nba-2k23-arcade-edition.json](./355935-nba-2k23-arcade-edition.json) |
 | NBA 2K24 | 255788 | [255788-nba-2k24.json](./255788-nba-2k24.json) |
+| NBA 2K24: Arcade Edition | 355934 | [355934-nba-2k24-arcade-edition.json](./355934-nba-2k24-arcade-edition.json) |
+| NBA 2K25: Arcade Edition | 355932 | [355932-nba-2k25-arcade-edition.json](./355932-nba-2k25-arcade-edition.json) |
 | NBA Live 08 | 5061 | [5061-nba-live-08.json](./5061-nba-live-08.json) |
 | NBA Live 16 | 11074 | [11074-nba-live-16.json](./11074-nba-live-16.json) |
 | NBA Live 2004 | 4032 | [4032-nba-live-2004.json](./4032-nba-live-2004.json) |
