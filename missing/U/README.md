@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimatum: The Slaughter of Amaranth | 399521 | [399521-ultimatum-the-slaughter-of-amaranth.json](./399521-ultimatum-the-slaughter-of-amaranth.json) |
 | Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
 | Ultra Core Dive | 347514 | [347514-ultra-core-dive.json](./347514-ultra-core-dive.json) |
+| Ultra Maze | 346417 | [346417-ultra-maze.json](./346417-ultra-maze.json) |
 | Ultra Pixel Survive 2 | 409495 | [409495-ultra-pixel-survive-2.json](./409495-ultra-pixel-survive-2.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
