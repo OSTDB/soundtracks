@@ -448,6 +448,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Tiny Home | 376351 | [376351-cozy-tiny-home.json](./376351-cozy-tiny-home.json) |
 | Cozy Valley Life | 401389 | [401389-cozy-valley-life.json](./401389-cozy-valley-life.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
+| Crackdown: Four-Play Pack | 349695 | [349695-crackdown-four-play-pack.json](./349695-crackdown-four-play-pack.json) |
+| Crackdown: Free-For-All Pack | 349696 | [349696-crackdown-free-for-all-pack.json](./349696-crackdown-free-for-all-pack.json) |
+| Crackdown: Getting Busy Bonus Pack | 349697 | [349697-crackdown-getting-busy-bonus-pack.json](./349697-crackdown-getting-busy-bonus-pack.json) |
 | Cracked | 358688 | [358688-cracked.json](./358688-cracked.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
@@ -466,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Jungle | 407265 | [407265-crayon-jungle.json](./407265-crayon-jungle.json) |
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Cats Survivors | 387201 | [387201-crazy-cats-survivors.json](./387201-crazy-cats-survivors.json) |
+| Crazy Caves | 349671 | [349671-crazy-caves.json](./349671-crazy-caves.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Islands | 352562 | [352562-crazy-islands.json](./352562-crazy-islands.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
