@@ -13,6 +13,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Daedalic Multiplayer Bundle | 366657 | [366657-daedalic-multiplayer-bundle.json](./366657-daedalic-multiplayer-bundle.json) |
 | Dahlia View | 152287 | [152287-dahlia-view.json](./152287-dahlia-view.json) |
+| Dai-2-dan: Pokémon Battle Card e+ - Gyakuten no Ichigeki | 355953 | [355953-dai-2-dan-pokemon-battle-card-e-gyakuten-no-ichigeki.json](./355953-dai-2-dan-pokemon-battle-card-e-gyakuten-no-ichigeki.json) |
+| Dai-2-dan: Pokémon Battle Card e+ - Kuzusenu Jishin | 355955 | [355955-dai-2-dan-pokemon-battle-card-e-kuzusenu-jishin.json](./355955-dai-2-dan-pokemon-battle-card-e-kuzusenu-jishin.json) |
+| Dai-2-dan: Pokémon Battle Card e+ - Norowareta Taiketsu | 355946 | [355946-dai-2-dan-pokemon-battle-card-e-norowareta-taiketsu.json](./355946-dai-2-dan-pokemon-battle-card-e-norowareta-taiketsu.json) |
+| Dai-2-dan: Pokémon Battle Card e+ - Owari Naki Tatakai | 355956 | [355956-dai-2-dan-pokemon-battle-card-e-owari-naki-tatakai.json](./355956-dai-2-dan-pokemon-battle-card-e-owari-naki-tatakai.json) |
+| Dai-2-dan: Pokémon Battle Card e+ - Surudoi Tsume | 355926 | [355926-dai-2-dan-pokemon-battle-card-e-surudoi-tsume.json](./355926-dai-2-dan-pokemon-battle-card-e-surudoi-tsume.json) |
 | Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Daimon Blades | 362092 | [362092-daimon-blades.json](./362092-daimon-blades.json) |
 | Daisy Goes to Slime Castle for Tea | 387203 | [387203-daisy-goes-to-slime-castle-for-tea.json](./387203-daisy-goes-to-slime-castle-for-tea.json) |
@@ -153,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Salvage | 366663 | [366663-decaying-salvage.json](./366663-decaying-salvage.json) |
 | Deceive Inc. | 123192 | [123192-deceive-inc.json](./123192-deceive-inc.json) |
 | Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
+| Deck of Anubis | 355919 | [355919-deck-of-anubis.json](./355919-deck-of-anubis.json) |
 | Deck of Harvest | 379222 | [379222-deck-of-harvest.json](./379222-deck-of-harvest.json) |
 | Decker | 367237 | [367237-decker.json](./367237-decker.json) |
 | DeckWrecking Pirates | 379236 | [379236-deckwrecking-pirates.json](./379236-deckwrecking-pirates.json) |
@@ -193,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliria | 380253 | [380253-deliria.json](./380253-deliria.json) |
 | Delive' R Us | 366089 | [366089-delive-r-us.json](./366089-delive-r-us.json) |
 | Deliver Us the Moon | 20326 | [20326-deliver-us-the-moon.json](./20326-deliver-us-the-moon.json) |
+| Deliverance | 355954 | [355954-deliverance.json](./355954-deliverance.json) |
 | Delivery Point Simulator | 380257 | [380257-delivery-point-simulator.json](./380257-delivery-point-simulator.json) |
 | Delivery Simulator | 380258 | [380258-delivery-simulator.json](./380258-delivery-simulator.json) |
 | Delta | 375042 | [375042-delta.json](./375042-delta.json) |
