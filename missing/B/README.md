@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
 | Beak the Hunter | 376327 | [376327-beak-the-hunter.json](./376327-beak-the-hunter.json) |
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
+| Bearly Brave | 355406 | [355406-bearly-brave.json](./355406-bearly-brave.json) |
 | Bearly Flying | 379747 | [379747-bearly-flying.json](./379747-bearly-flying.json) |
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
