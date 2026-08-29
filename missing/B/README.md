@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bop It! | 352569 | [352569-bop-it.json](./352569-bop-it.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
+| Border Rush Jump Challenge | 350825 | [350825-border-rush-jump-challenge.json](./350825-border-rush-jump-challenge.json) |
 | Borderlands 4: Deluxe Edition | 358672 | [358672-borderlands-4-deluxe-edition.json](./358672-borderlands-4-deluxe-edition.json) |
 | Borderlands 4: Story Pack 1 - Mad Ellie and the Vault of the Damned | 396087 | [396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json](./396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json) |
 | Borderlands 4: Super Deluxe Edition | 358671 | [358671-borderlands-4-super-deluxe-edition.json](./358671-borderlands-4-super-deluxe-edition.json) |
