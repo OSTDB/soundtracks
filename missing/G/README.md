@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Deponia | 5064 | [5064-goodbye-deponia.json](./5064-goodbye-deponia.json) |
 | Goodbye Great Justice | 394729 | [394729-goodbye-great-justice.json](./394729-goodbye-great-justice.json) |
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
+| GoodMan | 349666 | [349666-goodman.json](./349666-goodman.json) |
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | Goofy Golf Remastered | 368848 | [368848-goofy-golf-remastered.json](./368848-goofy-golf-remastered.json) |
 | Goosebumps: Terror in Little Creek - Fright Pack | 358678 | [358678-goosebumps-terror-in-little-creek-fright-pack.json](./358678-goosebumps-terror-in-little-creek-fright-pack.json) |
