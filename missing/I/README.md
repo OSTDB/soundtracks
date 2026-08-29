@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Individual Investor Tycoon | 86580 | [86580-individual-investor-tycoon.json](./86580-individual-investor-tycoon.json) |
 | Industria | 128948 | [128948-industria.json](./128948-industria.json) |
 | Infantry Attack: Airstrike Edition | 350852 | [350852-infantry-attack-airstrike-edition.json](./350852-infantry-attack-airstrike-edition.json) |
+| Infected | 343642 | [343642-infected.json](./343642-infected.json) |
 | Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Inferno Pool | 24332 | [24332-inferno-pool.json](./24332-inferno-pool.json) |
 | Infestation: The New Z | 30537 | [30537-infestation-the-new-z.json](./30537-infestation-the-new-z.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
 | Isles of Sea and Sky: Mysterious Update | 345855 | [345855-isles-of-sea-and-sky-mysterious-update.json](./345855-isles-of-sea-and-sky-mysterious-update.json) |
 | Isoforge | 346451 | [346451-isoforge.json](./346451-isoforge.json) |
+| Isomerica | 343653 | [343653-isomerica.json](./343653-isomerica.json) |
 | Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
