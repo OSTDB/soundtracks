@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
+| Backgammon Galaxy | 346989 | [346989-backgammon-galaxy.json](./346989-backgammon-galaxy.json) |
 | Backmooms | 356459 | [356459-backmooms.json](./356459-backmooms.json) |
 | Backrooms Bodycam | 348622 | [348622-backrooms-bodycam.json](./348622-backrooms-bodycam.json) |
 | Backrooms Bodycam 2 | 348623 | [348623-backrooms-bodycam-2.json](./348623-backrooms-bodycam-2.json) |
@@ -41,10 +42,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Magnate: Online | 378023 | [378023-bakery-magnate-online.json](./378023-bakery-magnate-online.json) |
 | Baku | 363231 | [363231-baku.json](./363231-baku.json) |
 | Bakudan Man | 385501 | [385501-bakudan-man.json](./385501-bakudan-man.json) |
+| Bakudo | 346968 | [346968-bakudo.json](./346968-bakudo.json) |
 | Bakugan Battle Brawlers | 4703 | [4703-bakugan-battle-brawlers.json](./4703-bakugan-battle-brawlers.json) |
 | Bakuhatsu Dynaman | 385494 | [385494-bakuhatsu-dynaman.json](./385494-bakuhatsu-dynaman.json) |
 | Bakuretsu Muteki Bangai-O | 84780 | [84780-bakuretsu-muteki-bangai-o.json](./84780-bakuretsu-muteki-bangai-o.json) |
 | Balancelot | 115906 | [115906-balancelot.json](./115906-balancelot.json) |
+| Ball Jump | 346988 | [346988-ball-jump.json](./346988-ball-jump.json) |
 | Ballad of the Midnight Man | 381446 | [381446-ballad-of-the-midnight-man.json](./381446-ballad-of-the-midnight-man.json) |
 | Ballistic Attack | 44144 | [44144-ballistic-attack.json](./44144-ballistic-attack.json) |
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
@@ -145,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beastopia | 347534 | [347534-beastopia.json](./347534-beastopia.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
+| Beasts Planet | 346976 | [346976-beasts-planet.json](./346976-beasts-planet.json) |
 | Beasts That Swim | 370543 | [370543-beasts-that-swim.json](./370543-beasts-that-swim.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
 | Beat Bugs: Sing-Along | 95829 | [95829-beat-bugs-sing-along.json](./95829-beat-bugs-sing-along.json) |
@@ -373,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackwood's Dilemma | 366037 | [366037-blackwoods-dilemma.json](./366037-blackwoods-dilemma.json) |
 | Blade Arcus From Shining: Battle Arena | 23185 | [23185-blade-arcus-from-shining-battle-arena.json](./23185-blade-arcus-from-shining-battle-arena.json) |
 | Blade Chimera | 276508 | [276508-blade-chimera.json](./276508-blade-chimera.json) |
+| Blades of Jianghu: Ballad of Wind and Dust | 346992 | [346992-blades-of-jianghu-ballad-of-wind-and-dust.json](./346992-blades-of-jianghu-ballad-of-wind-and-dust.json) |
 | Blaite | 33011 | [33011-blaite.json](./33011-blaite.json) |
 | BlamBox | 109670 | [109670-blambox.json](./109670-blambox.json) |
 | Blanky | 366054 | [366054-blanky.json](./366054-blanky.json) |
@@ -546,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
+| Bridge to eQualia | 346950 | [346950-bridge-to-equalia.json](./346950-bridge-to-equalia.json) |
 | Brigandine Grand Edition: Cross Mod | 356464 | [356464-brigandine-grand-edition-cross-mod.json](./356464-brigandine-grand-edition-cross-mod.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
@@ -612,10 +618,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BunnyBakery | 407932 | [407932-bunnybakery.json](./407932-bunnybakery.json) |
 | Burakku Jakku Samurai | 378621 | [378621-burakku-jakku-samurai.json](./378621-burakku-jakku-samurai.json) |
 | Burgie's Cozy Kitchen: Halloween Cosmetics Pack | 407210 | [407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json](./407210-burgies-cozy-kitchen-halloween-cosmetics-pack.json) |
+| Burglar Alarm | 346963 | [346963-burglar-alarm.json](./346963-burglar-alarm.json) |
 | Burnable Hearts! | 410117 | [410117-burnable-hearts.json](./410117-burnable-hearts.json) |
 | Burnhouse Lane | 192731 | [192731-burnhouse-lane.json](./192731-burnhouse-lane.json) |
 | Burst Fighter | 44136 | [44136-burst-fighter.json](./44136-burst-fighter.json) |
 | Burstfire | 35766 | [35766-burstfire.json](./35766-burstfire.json) |
+| Bury The Monsters | 346975 | [346975-bury-the-monsters.json](./346975-bury-the-monsters.json) |
 | Bus Simulator: World Tour | 388620 | [388620-bus-simulator-world-tour.json](./388620-bus-simulator-world-tour.json) |
 | Bush Dog | 373953 | [373953-bush-dog.json](./373953-bush-dog.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
