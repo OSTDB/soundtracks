@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Ball Adventures | 44172 | [44172-crazy-ball-adventures.json](./44172-crazy-ball-adventures.json) |
 | Crazy Cats Survivors | 387201 | [387201-crazy-cats-survivors.json](./387201-crazy-cats-survivors.json) |
 | Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
+| Crazy Islands | 352562 | [352562-crazy-islands.json](./352562-crazy-islands.json) |
 | Crazy Kangaroo | 64557 | [64557-crazy-kangaroo.json](./64557-crazy-kangaroo.json) |
 | Crazy Machines Elements | 15285 | [15285-crazy-machines-elements.json](./15285-crazy-machines-elements.json) |
 | Crazy Taxy 2D | 396805 | [396805-crazy-taxy-2d.json](./396805-crazy-taxy-2d.json) |
