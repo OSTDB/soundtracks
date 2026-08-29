@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar's Day Off | 351447 | [351447-caesars-day-off.json](./351447-caesars-day-off.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cafe 0: The Sleeping Beast | 33015 | [33015-cafe-0-the-sleeping-beast.json](./33015-cafe-0-the-sleeping-beast.json) |
+| Cage Girl | 345304 | [345304-cage-girl.json](./345304-cage-girl.json) |
 | Cageling | 357650 | [357650-cageling.json](./357650-cageling.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Cake Mania: Main Street | 14996 | [14996-cake-mania-main-street.json](./14996-cake-mania-main-street.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronigma | 371092 | [371092-chronigma.json](./371092-chronigma.json) |
 | Chrono Cross: The Radical Dreamers Edition | 191404 | [191404-chrono-cross-the-radical-dreamers-edition.json](./191404-chrono-cross-the-radical-dreamers-edition.json) |
 | Chrono Flux | 365475 | [365475-chrono-flux.json](./365475-chrono-flux.json) |
+| Chronos Time 2 | 345340 | [345340-chronos-time-2.json](./345340-chronos-time-2.json) |
 | Chud Logic's: Gockbound | 359828 | [359828-chud-logics-gockbound.json](./359828-chud-logics-gockbound.json) |
 | Chunithm Mate | 408671 | [408671-chunithm-mate.json](./408671-chunithm-mate.json) |
 | Cicada | 370533 | [370533-cicada.json](./370533-cicada.json) |
@@ -262,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Hunger | 384957 | [384957-city-of-hunger.json](./384957-city-of-hunger.json) |
 | Citystate Metropolis | 371080 | [371080-citystate-metropolis.json](./371080-citystate-metropolis.json) |
 | Civitatem | 76694 | [76694-civitatem.json](./76694-civitatem.json) |
+| CivMiner | 345331 | [345331-civminer.json](./345331-civminer.json) |
 | Claim the Forest: Shape of Wolves | 394718 | [394718-claim-the-forest-shape-of-wolves.json](./394718-claim-the-forest-shape-of-wolves.json) |
 | Claire: Extended Cut | 23508 | [23508-claire-extended-cut.json](./23508-claire-extended-cut.json) |
 | Clash of Armadas: Koxinga | 406586 | [406586-clash-of-armadas-koxinga.json](./406586-clash-of-armadas-koxinga.json) |
