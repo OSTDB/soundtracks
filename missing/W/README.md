@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Welcome to the Guild Explorers | 388599 | [388599-welcome-to-the-guild-explorers.json](./388599-welcome-to-the-guild-explorers.json) |
 | Welcome, Dear Human | 393347 | [393347-welcome-dear-human.json](./393347-welcome-dear-human.json) |
+| Wénzì Dà Wánjiā | 348062 | [348062-wenzi-da-wanjia.json](./348062-wenzi-da-wanjia.json) |
 | Werewolf: The Apocalypse - Rageborn | 400797 | [400797-werewolf-the-apocalypse-rageborn.json](./400797-werewolf-the-apocalypse-rageborn.json) |
 | Werewolf: The Last Warrior | 48259 | [48259-werewolf-the-last-warrior.json](./48259-werewolf-the-last-warrior.json) |
 | West Escape: Gambler & Adventurer Edition | 373404 | [373404-west-escape-gambler-and-adventurer-edition.json](./373404-west-escape-gambler-and-adventurer-edition.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordRaid | 407227 | [407227-wordraid.json](./407227-wordraid.json) |
 | Wordscoop with Gelato the Otter | 360411 | [360411-wordscoop-with-gelato-the-otter.json](./360411-wordscoop-with-gelato-the-otter.json) |
 | WordWar | 368328 | [368328-wordwar.json](./368328-wordwar.json) |
+| Worker: 7549 | 348071 | [348071-worker-7549.json](./348071-worker-7549.json) |
 | Workshop Works | 367256 | [367256-workshop-works.json](./367256-workshop-works.json) |
 | World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Cup 98 | 3641 | [3641-world-cup-98.json](./3641-world-cup-98.json) |
