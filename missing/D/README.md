@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Delivery | 359263 | [359263-deadline-delivery.json](./359263-deadline-delivery.json) |
 | Deadline: Afterlife Processing | 414964 | [414964-deadline-afterlife-processing.json](./414964-deadline-afterlife-processing.json) |
 | Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
+| Deadlock: Online | 343667 | [343667-deadlock-online.json](./343667-deadlock-online.json) |
 | Deadly Combat | 373371 | [373371-deadly-combat.json](./373371-deadly-combat.json) |
 | Deadly Days | 75192 | [75192-deadly-days.json](./75192-deadly-days.json) |
 | Deadly Dealings | 404136 | [404136-deadly-dealings.json](./404136-deadly-dealings.json) |
@@ -477,7 +478,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DonPachi | 1665 | [1665-donpachi.json](./1665-donpachi.json) |
 | Donut Dodo | 188771 | [188771-donut-dodo.json](./188771-donut-dodo.json) |
 | Donuts for Rollio | 413518 | [413518-donuts-for-rollio.json](./413518-donuts-for-rollio.json) |
+| Doodle Grub | 343623 | [343623-doodle-grub.json](./343623-doodle-grub.json) |
 | Doodle Heads | 382615 | [382615-doodle-heads.json](./382615-doodle-heads.json) |
+| Doodle Jump: Hop the Movie | 343664 | [343664-doodle-jump-hop-the-movie.json](./343664-doodle-jump-hop-the-movie.json) |
 | Doodle Mafia | 29367 | [29367-doodle-mafia.json](./29367-doodle-mafia.json) |
 | Doom | 259939 | [259939-doom.json](./259939-doom.json) |
 | Doom | 260019 | [260019-doom.json](./260019-doom.json) |
@@ -603,9 +606,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Of | 357092 | [357092-dream-of.json](./357092-dream-of.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
 | Dream of Remains | 404128 | [404128-dream-of-remains.json](./404128-dream-of-remains.json) |
+| Dream PetHouse | 343659 | [343659-dream-pethouse.json](./343659-dream-pethouse.json) |
 | Dream Spectra | 345858 | [345858-dream-spectra.json](./345858-dream-spectra.json) |
 | Dream Strikers | 364888 | [364888-dream-strikers.json](./364888-dream-strikers.json) |
 | Dream Team | 380291 | [380291-dream-team.json](./380291-dream-team.json) |
+| Dream Zoo | 343639 | [343639-dream-zoo.json](./343639-dream-zoo.json) |
 | Dreamcore | 348602 | [348602-dreamcore.json](./348602-dreamcore.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
 | Dreamrealms Resurgence | 351469 | [351469-dreamrealms-resurgence.json](./351469-dreamrealms-resurgence.json) |
