@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins & Gun Runnin’ | 368306 | [368306-goblins-and-gun-runnin.json](./368306-goblins-and-gun-runnin.json) |
 | Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
+| God of Fight | 343624 | [343624-god-of-fight.json](./343624-god-of-fight.json) |
 | God of Gamblers | 371677 | [371677-god-of-gamblers.json](./371677-god-of-gamblers.json) |
 | God of War Saga | 23827 | [23827-god-of-war-saga.json](./23827-god-of-war-saga.json) |
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
