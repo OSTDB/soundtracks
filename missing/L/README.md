@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | L.A.T.H.E | 387227 | [387227-l-a-t-h-e.json](./387227-l-a-t-h-e.json) |
 | L'Agence: The Hearts of Paris | 384974 | [384974-lagence-the-hearts-of-paris.json](./384974-lagence-the-hearts-of-paris.json) |
+| L8r Sk8r | 343100 | [343100-l8r-sk8r.json](./343100-l8r-sk8r.json) |
 | La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | Lab Loonies | 405995 | [405995-lab-loonies.json](./405995-lab-loonies.json) |
 | Labirinto | 76922 | [76922-labirinto.json](./76922-labirinto.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Coin Pusher | 379227 | [379227-lucky-coin-pusher.json](./379227-lucky-coin-pusher.json) |
 | Lucky Pikinini: IMS Intelligence Corp | 387208 | [387208-lucky-pikinini-ims-intelligence-corp.json](./387208-lucky-pikinini-ims-intelligence-corp.json) |
 | Lucky Rabbit Reflex! | 34402 | [34402-lucky-rabbit-reflex.json](./34402-lucky-rabbit-reflex.json) |
+| Lucky Sky Diamond | 343105 | [343105-lucky-sky-diamond.json](./343105-lucky-sky-diamond.json) |
 | Lucky's Tale | 9617 | [9617-luckys-tale.json](./9617-luckys-tale.json) |
 | Ludominar | 373917 | [373917-ludominar.json](./373917-ludominar.json) |
 | Lufia & the Fortress of Doom | 1177 | [1177-lufia-and-the-fortress-of-doom.json](./1177-lufia-and-the-fortress-of-doom.json) |
@@ -291,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Strike | 362102 | [362102-lunar-strike.json](./362102-lunar-strike.json) |
 | Lunar Tide | 384934 | [384934-lunar-tide.json](./384934-lunar-tide.json) |
 | Lunaris | 403476 | [403476-lunaris.json](./403476-lunaris.json) |
+| Lunatika | 343111 | [343111-lunatika.json](./343111-lunatika.json) |
 | Lunatix | 347540 | [347540-lunatix.json](./347540-lunatix.json) |
 | Lupicraft | 414203 | [414203-lupicraft.json](./414203-lupicraft.json) |
 | Lure Of Passion | 383798 | [383798-lure-of-passion.json](./383798-lure-of-passion.json) |
