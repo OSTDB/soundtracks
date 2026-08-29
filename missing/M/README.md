@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malgwa Naui Iyagi, Alicia | 357091 | [357091-malgwa-naui-iyagi-alicia.json](./357091-malgwa-naui-iyagi-alicia.json) |
 | Malware City | 392641 | [392641-malware-city.json](./392641-malware-city.json) |
 | Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
+| Mameshiba: Puzzle Festival | 349681 | [349681-mameshiba-puzzle-festival.json](./349681-mameshiba-puzzle-festival.json) |
 | Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
 | Man Simulator 2025 | 373911 | [373911-man-simulator-2025.json](./373911-man-simulator-2025.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
@@ -169,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matikka on Jees! | 370519 | [370519-matikka-on-jees.json](./370519-matikka-on-jees.json) |
 | Mato Fragments | 354244 | [354244-mato-fragments.json](./354244-mato-fragments.json) |
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
+| Matter of Factory | 349711 | [349711-matter-of-factory.json](./349711-matter-of-factory.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
 | Maveus | 404135 | [404135-maveus.json](./404135-maveus.json) |
@@ -645,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Murderplanet | 395421 | [395421-murderplanet.json](./395421-murderplanet.json) |
 | Murino: The Fog Is Coming | 396826 | [396826-murino-the-fog-is-coming.json](./396826-murino-the-fog-is-coming.json) |
+| Murkid | 349673 | [349673-murkid.json](./349673-murkid.json) |
 | Murky | 381462 | [381462-murky.json](./381462-murky.json) |
 | Muscle Run | 20929 | [20929-muscle-run.json](./20929-muscle-run.json) |
 | Musclecar Online | 35828 | [35828-musclecar-online.json](./35828-musclecar-online.json) |
