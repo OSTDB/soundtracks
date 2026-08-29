@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance 2: Gold Pack | 29194 | [29194-jagged-alliance-2-gold-pack.json](./29194-jagged-alliance-2-gold-pack.json) |
 | Jagged Alliance: Flashback | 10470 | [10470-jagged-alliance-flashback.json](./10470-jagged-alliance-flashback.json) |
 | Jagged Alliance: Gold Edition | 14793 | [14793-jagged-alliance-gold-edition.json](./14793-jagged-alliance-gold-edition.json) |
+| Jailbreaker | 343621 | [343621-jailbreaker.json](./343621-jailbreaker.json) |
 | Jajo | 396827 | [396827-jajo.json](./396827-jajo.json) |
 | Jaleco Sports: Bases Loaded II | 396788 | [396788-jaleco-sports-bases-loaded-ii.json](./396788-jaleco-sports-bases-loaded-ii.json) |
 | Jaleco Sports: Goal! 2 | 396786 | [396786-jaleco-sports-goal-2.json](./396786-jaleco-sports-goal-2.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeffy's Infinite Irida | 371726 | [371726-jeffys-infinite-irida.json](./371726-jeffys-infinite-irida.json) |
 | Jelly Float | 412877 | [412877-jelly-float.json](./412877-jelly-float.json) |
 | Jelly Math | 401405 | [401405-jelly-math.json](./401405-jelly-math.json) |
+| Jenga | 343665 | [343665-jenga.json](./343665-jenga.json) |
 | Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jesus: The Journey | 401406 | [401406-jesus-the-journey.json](./401406-jesus-the-journey.json) |
 | Jet Car Stunts | 10472 | [10472-jet-car-stunts.json](./10472-jet-car-stunts.json) |
