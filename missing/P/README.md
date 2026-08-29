@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Rim: Breach Wars - Robot Puzzle Action RPG | 96016 | [96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json](./96016-pacific-rim-breach-wars-robot-puzzle-action-rpg.json) |
 | Pack'N Maze | 385488 | [385488-packn-maze.json](./385488-packn-maze.json) |
 | Package Pirates | 381426 | [381426-package-pirates.json](./381426-package-pirates.json) |
+| Packet Loss | 355909 | [355909-packet-loss.json](./355909-packet-loss.json) |
 | Pact, Passion, Puchimon! | 368832 | [368832-pact-passion-puchimon.json](./368832-pact-passion-puchimon.json) |
 | Paddle Pop The Pyrata | 360991 | [360991-paddle-pop-the-pyrata.json](./360991-paddle-pop-the-pyrata.json) |
 | Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
@@ -172,11 +173,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K25: Clubhouse Pass Premium Season 6 | 390935 | [390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json](./390935-pga-tour-2k25-clubhouse-pass-premium-season-6.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 7 | 390936 | [390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json](./390936-pga-tour-2k25-clubhouse-pass-premium-season-7.json) |
 | PGA Tour 2K25: Clubhouse Pass Premium Season 8 | 390937 | [390937-pga-tour-2k25-clubhouse-pass-premium-season-8.json](./390937-pga-tour-2k25-clubhouse-pass-premium-season-8.json) |
+| PGA Tour Pro Golf | 355928 | [355928-pga-tour-pro-golf.json](./355928-pga-tour-pro-golf.json) |
 | Phageborn Online Card Game | 115897 | [115897-phageborn-online-card-game.json](./115897-phageborn-online-card-game.json) |
 | Phantacall Realm | 406613 | [406613-phantacall-realm.json](./406613-phantacall-realm.json) |
 | Phantasy Star | 1233 | [1233-phantasy-star.json](./1233-phantasy-star.json) |
 | Phantom | 29818 | [29818-phantom.json](./29818-phantom.json) |
 | Phantom Doctrine | 55121 | [55121-phantom-doctrine.json](./55121-phantom-doctrine.json) |
+| Phantom Feline | 355913 | [355913-phantom-feline.json](./355913-phantom-feline.json) |
 | Phantom Of The Lily | 393326 | [393326-phantom-of-the-lily.json](./393326-phantom-of-the-lily.json) |
 | Phantom of Time | 384407 | [384407-phantom-of-time.json](./384407-phantom-of-time.json) |
 | Phantomgate | 110041 | [110041-phantomgate.json](./110041-phantomgate.json) |
