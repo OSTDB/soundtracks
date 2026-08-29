@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
 | Ultra_Hardcore | 86597 | [86597-ultra-hardcore.json](./86597-ultra-hardcore.json) |
+| Ultraleak | 344213 | [344213-ultraleak.json](./344213-ultraleak.json) |
 | Ultrashot: Kill Protocol | 359796 | [359796-ultrashot-kill-protocol.json](./359796-ultrashot-kill-protocol.json) |
 | Ultros | 250626 | [250626-ultros.json](./250626-ultros.json) |
 | Ulysses and the Golden Fleece | 7657 | [7657-ulysses-and-the-golden-fleece.json](./7657-ulysses-and-the-golden-fleece.json) |
