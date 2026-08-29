@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Breach | 395448 | [395448-void-breach.json](./395448-void-breach.json) |
 | Void Destroyer | 16776 | [16776-void-destroyer.json](./16776-void-destroyer.json) |
 | Void Diver: Escape From the Abyss | 389278 | [389278-void-diver-escape-from-the-abyss.json](./389278-void-diver-escape-from-the-abyss.json) |
+| Void Resurgence | 345346 | [345346-void-resurgence.json](./345346-void-resurgence.json) |
 | Void Stalkers | 348615 | [348615-void-stalkers.json](./348615-void-stalkers.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
 | Voidhold | 414983 | [414983-voidhold.json](./414983-voidhold.json) |
