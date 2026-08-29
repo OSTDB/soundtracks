@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JSON: VR Sandbox | 394706 | [394706-json-vr-sandbox.json](./394706-json-vr-sandbox.json) |
 | Juiced: Eliminator | 18262 | [18262-juiced-eliminator.json](./18262-juiced-eliminator.json) |
 | Jujump | 390966 | [390966-jujump.json](./390966-jujump.json) |
+| Julio's Adventure 3 | 349151 | [349151-julios-adventure-3.json](./349151-julios-adventure-3.json) |
 | Jump Force | 103288 | [103288-jump-force.json](./103288-jump-force.json) |
 | Jump Fucker | 359848 | [359848-jump-fucker.json](./359848-jump-fucker.json) |
 | Jump Like A Pirate | 29760 | [29760-jump-like-a-pirate.json](./29760-jump-like-a-pirate.json) |
