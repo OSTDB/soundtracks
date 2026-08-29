@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Puck'n Monster | 385489 | [385489-puckn-monster.json](./385489-puckn-monster.json) |
+| Puffer Bounce | 348645 | [348645-puffer-bounce.json](./348645-puffer-bounce.json) |
 | Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
 | Pulmo | 349174 | [349174-pulmo.json](./349174-pulmo.json) |
 | Pulstario | 126731 | [126731-pulstario.json](./126731-pulstario.json) |
