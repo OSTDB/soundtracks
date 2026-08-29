@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Runners | 22417 | [22417-ragdoll-runners.json](./22417-ragdoll-runners.json) |
 | Rage In Peace | 86617 | [86617-rage-in-peace.json](./86617-rage-in-peace.json) |
 | Rage of the Dragons | 39589 | [39589-rage-of-the-dragons.json](./39589-rage-of-the-dragons.json) |
+| Rage Room: Catharsis | 351460 | [351460-rage-room-catharsis.json](./351460-rage-room-catharsis.json) |
 | Raid: Shadow Legends | 109029 | [109029-raid-shadow-legends.json](./109029-raid-shadow-legends.json) |
 | Raiding Party | 384980 | [384980-raiding-party.json](./384980-raiding-party.json) |
 | Rail of War | 383251 | [383251-rail-of-war.json](./383251-rail-of-war.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket!! | 369398 | [369398-rocket.json](./369398-rocket.json) |
 | Rockman | 398846 | [398846-rockman.json](./398846-rockman.json) |
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
+| Rockoon | 351482 | [351482-rockoon.json](./351482-rockoon.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
 | Rogue AI: Idle Domination | 373938 | [373938-rogue-ai-idle-domination.json](./373938-rogue-ai-idle-domination.json) |
 | Rogue Melee | 374447 | [374447-rogue-melee.json](./374447-rogue-melee.json) |
