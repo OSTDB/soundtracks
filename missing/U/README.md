@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U Tsu Tsu Tsu | 406590 | [406590-u-tsu-tsu-tsu.json](./406590-u-tsu-tsu-tsu.json) |
 | U-Boats | 34376 | [34376-u-boats.json](./34376-u-boats.json) |
 | U.N. Owen Was Her? | 388594 | [388594-u-n-owen-was-her.json](./388594-u-n-owen-was-her.json) |
+| U4iA: Season 1 | 348086 | [348086-u4ia-season-1.json](./348086-u4ia-season-1.json) |
 | UAZ Racing 4x4 | 27639 | [27639-uaz-racing-4x4.json](./27639-uaz-racing-4x4.json) |
 | Ubai Again | 400128 | [400128-ubai-again.json](./400128-ubai-again.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unconscious | 405416 | [405416-unconscious.json](./405416-unconscious.json) |
 | Uncover the Smoking Gun | 274275 | [274275-uncover-the-smoking-gun.json](./274275-uncover-the-smoking-gun.json) |
 | Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
+| Undead Fortress | 348102 | [348102-undead-fortress.json](./348102-undead-fortress.json) |
 | Undead Hunter Part I | 365516 | [365516-undead-hunter-part-i.json](./365516-undead-hunter-part-i.json) |
 | Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
 | Under the Eye | 402820 | [402820-under-the-eye.json](./402820-under-the-eye.json) |
