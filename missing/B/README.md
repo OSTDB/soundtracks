@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Quest | 357663 | [357663-barn-quest.json](./357663-barn-quest.json) |
 | Baroque Syndrome | 380272 | [380272-baroque-syndrome.json](./380272-baroque-syndrome.json) |
 | Barrage | 15662 | [15662-barrage.json](./15662-barrage.json) |
+| Barrage | 345876 | [345876-barrage.json](./345876-barrage.json) |
 | Barry Woods | 20931 | [20931-barry-woods.json](./20931-barry-woods.json) |
 | Baseball | 385503 | [385503-baseball.json](./385503-baseball.json) |
 | Baseball Simulator 1.000 | 9897 | [9897-baseball-simulator-1-000.json](./9897-baseball-simulator-1-000.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BaseStar | 390427 | [390427-basestar.json](./390427-basestar.json) |
 | Basketball Knockout | 382608 | [382608-basketball-knockout.json](./382608-basketball-knockout.json) |
 | Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
+| Basketball3 | 345871 | [345871-basketball3.json](./345871-basketball3.json) |
 | Bass Blocks | 34474 | [34474-bass-blocks.json](./34474-bass-blocks.json) |
 | Batman Begins | 3063 | [3063-batman-begins.json](./3063-batman-begins.json) |
 | Batman Returns | 14289 | [14289-batman-returns.json](./14289-batman-returns.json) |
@@ -129,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
 | BattleLore: Command | 35779 | [35779-battlelore-command.json](./35779-battlelore-command.json) |
+| Battleship | 345874 | [345874-battleship.json](./345874-battleship.json) |
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
 | Battlot | 404708 | [404708-battlot.json](./404708-battlot.json) |
 | Bayonetta | 238884 | [238884-bayonetta.json](./238884-bayonetta.json) |
@@ -298,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Us | 32953 | [32953-best-of-us.json](./32953-best-of-us.json) |
 | Beta Kafe: Write Your Love Story | 391496 | [391496-beta-kafe-write-your-love-story.json](./391496-beta-kafe-write-your-love-story.json) |
 | Betra Endemic | 379206 | [379206-betra-endemic.json](./379206-betra-endemic.json) |
+| Between | 345868 | [345868-between.json](./345868-between.json) |
 | Between the Stars | 74614 | [74614-between-the-stars.json](./74614-between-the-stars.json) |
 | Between Worlds | 371720 | [371720-between-worlds.json](./371720-between-worlds.json) |
 | Beware of the Cartographer! | 392666 | [392666-beware-of-the-cartographer.json](./392666-beware-of-the-cartographer.json) |
@@ -443,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blot | 95629 | [95629-blot.json](./95629-blot.json) |
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
+| Blue Bell | 345881 | [345881-blue-bell.json](./345881-blue-bell.json) |
 | Blue Protocol: Star Resonance | 341687 | [341687-blue-protocol-star-resonance.json](./341687-blue-protocol-star-resonance.json) |
 | Blue Sphere | 163458 | [163458-blue-sphere.json](./163458-blue-sphere.json) |
 | Blue Torch | 389316 | [389316-blue-torch.json](./389316-blue-torch.json) |
@@ -532,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Fighting | 349674 | [349674-brainrot-fighting.json](./349674-brainrot-fighting.json) |
 | Brakes? No, Thanks! | 390411 | [390411-brakes-no-thanks.json](./390411-brakes-no-thanks.json) |
 | Bramblefort | 360962 | [360962-bramblefort.json](./360962-bramblefort.json) |
+| Bratz: Rock Angelz | 345880 | [345880-bratz-rock-angelz.json](./345880-bratz-rock-angelz.json) |
 | Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Brave x Junction | 373370 | [373370-brave-x-junction.json](./373370-brave-x-junction.json) |
 | Brazilian Drug Dealer Before 4: Demons From the Portal to Hell I Opened Are Still in the Favela and Now I Have to Save Mamadas From Ronaldo | 387850 | [387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json](./387850-brazilian-drug-dealer-before-4-demons-from-the-portal-to-hell-i-opened-are-still-in-the-favela-and-now-i-have-to-save-mamadas-from-ronaldo.json) |
