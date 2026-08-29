@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
+| One Day at a Time | 350276 | [350276-one-day-at-a-time.json](./350276-one-day-at-a-time.json) |
 | One Day of Romance | 366083 | [366083-one-day-of-romance.json](./366083-one-day-of-romance.json) |
 | One Eyed Kutkh | 29087 | [29087-one-eyed-kutkh.json](./29087-one-eyed-kutkh.json) |
 | One Finger Death Punch 2 | 90011 | [90011-one-finger-death-punch-2.json](./90011-one-finger-death-punch-2.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyGame | 359269 | [359269-onlygame.json](./359269-onlygame.json) |
 | Onrush | 75244 | [75244-onrush.json](./75244-onrush.json) |
 | Onward | 27575 | [27575-onward.json](./27575-onward.json) |
+| OopsFixers Company | 350278 | [350278-oopsfixers-company.json](./350278-oopsfixers-company.json) |
 | Open Training | 358702 | [358702-open-training.json](./358702-open-training.json) |
 | OpenJK | 357052 | [357052-openjk.json](./357052-openjk.json) |
 | OpenPete | 413542 | [413542-openpete.json](./413542-openpete.json) |
@@ -123,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
 | Order of War | 10644 | [10644-order-of-war.json](./10644-order-of-war.json) |
+| Order: The New Dawn | 350244 | [350244-order-the-new-dawn.json](./350244-order-the-new-dawn.json) |
 | Ore | 86465 | [86465-ore.json](./86465-ore.json) |
 | Ori and the Blind Forest: Definitive Edition | 19456 | [19456-ori-and-the-blind-forest-definitive-edition.json](./19456-ori-and-the-blind-forest-definitive-edition.json) |
 | Orion: Prelude | 25647 | [25647-orion-prelude.json](./25647-orion-prelude.json) |
