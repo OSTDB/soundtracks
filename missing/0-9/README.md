@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 28 Days Train Wreck Survivor | 385472 | [385472-28-days-train-wreck-survivor.json](./385472-28-days-train-wreck-survivor.json) |
 | 28 Leicester Square | 412881 | [412881-28-leicester-square.json](./412881-28-leicester-square.json) |
 | 2TAP | 395416 | [395416-2tap.json](./395416-2tap.json) |
+| 3 Card Poker | 350841 | [350841-3-card-poker.json](./350841-3-card-poker.json) |
 | 3 Pandas | 351431 | [351431-3-pandas.json](./351431-3-pandas.json) |
 | 3 Pandas 2 Night | 351436 | [351436-3-pandas-2-night.json](./351436-3-pandas-2-night.json) |
 | 3 Pandas in Brazil | 351438 | [351438-3-pandas-in-brazil.json](./351438-3-pandas-in-brazil.json) |
