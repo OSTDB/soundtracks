@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
+| Backmooms | 356459 | [356459-backmooms.json](./356459-backmooms.json) |
 | Backrooms Lost Unit | 389906 | [389906-backrooms-lost-unit.json](./389906-backrooms-lost-unit.json) |
 | Backrooms: Collision Not Found | 396056 | [396056-backrooms-collision-not-found.json](./396056-backrooms-collision-not-found.json) |
 | Backrooms: No Level | 364933 | [364933-backrooms-no-level.json](./364933-backrooms-no-level.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Mania | 370497 | [370497-beer-mania.json](./370497-beer-mania.json) |
 | Beer Runner | 357647 | [357647-beer-runner.json](./357647-beer-runner.json) |
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
+| Bees Reborn | 356450 | [356450-bees-reborn.json](./356450-bees-reborn.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
 | Before They Wake | 402808 | [402808-before-they-wake.json](./402808-before-they-wake.json) |
@@ -428,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bocchle: Audio Edition | 384961 | [384961-bocchle-audio-edition.json](./384961-bocchle-audio-edition.json) |
 | Bodacious Babes: Fantasy | 382060 | [382060-bodacious-babes-fantasy.json](./382060-bodacious-babes-fantasy.json) |
 | Bodycam Record Shooter | 366660 | [366660-bodycam-record-shooter.json](./366660-bodycam-record-shooter.json) |
+| BodyCam: Tactical Freelancer | 356500 | [356500-bodycam-tactical-freelancer.json](./356500-bodycam-tactical-freelancer.json) |
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
@@ -516,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricasso | 89302 | [89302-bricasso.json](./89302-bricasso.json) |
 | Brick Blast | 384976 | [384976-brick-blast.json](./384976-brick-blast.json) |
 | Bridge Constructor Portal | 76770 | [76770-bridge-constructor-portal.json](./76770-bridge-constructor-portal.json) |
+| Brigandine Grand Edition: Cross Mod | 356464 | [356464-brigandine-grand-edition-cross-mod.json](./356464-brigandine-grand-edition-cross-mod.json) |
 | Bright Memory | 134072 | [134072-bright-memory.json](./134072-bright-memory.json) |
 | Brightstone Mysteries: Paranormal Hotel | 87596 | [87596-brightstone-mysteries-paranormal-hotel.json](./87596-brightstone-mysteries-paranormal-hotel.json) |
 | Brine | 379748 | [379748-brine.json](./379748-brine.json) |
