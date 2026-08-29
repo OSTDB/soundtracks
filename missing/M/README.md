@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Scientist Simulator – Society of World Destruction | 392637 | [392637-mad-scientist-simulator-society-of-world-destruction.json](./392637-mad-scientist-simulator-society-of-world-destruction.json) |
 | Mad Tilly's: Magical Amulets | 385473 | [385473-mad-tillys-magical-amulets.json](./385473-mad-tillys-magical-amulets.json) |
 | Mad Tracks | 4982 | [4982-mad-tracks.json](./4982-mad-tracks.json) |
+| Madame Ro's Curiosity Quiz | 345311 | [345311-madame-ros-curiosity-quiz.json](./345311-madame-ros-curiosity-quiz.json) |
 | Madden NFL 07 | 243012 | [243012-madden-nfl-07.json](./243012-madden-nfl-07.json) |
 | Madden NFL 08 | 2746 | [2746-madden-nfl-08.json](./2746-madden-nfl-08.json) |
 | Madden NFL 17 | 19463 | [19463-madden-nfl-17.json](./19463-madden-nfl-17.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Mayhem | 34472 | [34472-miner-mayhem.json](./34472-miner-mayhem.json) |
 | Miner Ultra Adventures | 29642 | [29642-miner-ultra-adventures.json](./29642-miner-ultra-adventures.json) |
 | Minesweeper Classic | 384945 | [384945-minesweeper-classic.json](./384945-minesweeper-classic.json) |
+| Minesweeper Together | 345315 | [345315-minesweeper-together.json](./345315-minesweeper-together.json) |
 | MineX (Minesweeper) | 89362 | [89362-minex-minesweeper.json](./89362-minex-minesweeper.json) |
 | Miney Golf | 382604 | [382604-miney-golf.json](./382604-miney-golf.json) |
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
@@ -511,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
+| Mission in Space: The Lost Colony | 345308 | [345308-mission-in-space-the-lost-colony.json](./345308-mission-in-space-the-lost-colony.json) |
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Misty Land | 389902 | [389902-misty-land.json](./389902-misty-land.json) |
 | Misty Valley: A Cozy Fishing Tale | 349134 | [349134-misty-valley-a-cozy-fishing-tale.json](./349134-misty-valley-a-cozy-fishing-tale.json) |
@@ -645,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
 | Mouse simulator | 359798 | [359798-mouse-simulator.json](./359798-mouse-simulator.json) |
+| Move the Walls | 345303 | [345303-move-the-walls.json](./345303-move-the-walls.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mowing Simulator | 368851 | [368851-mowing-simulator.json](./368851-mowing-simulator.json) |
