@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Eyes | 382639 | [382639-ice-eyes.json](./382639-ice-eyes.json) |
 | Ice Hockey | 18532 | [18532-ice-hockey.json](./18532-ice-hockey.json) |
+| Ice Scream Tycoon | 356476 | [356476-ice-scream-tycoon.json](./356476-ice-scream-tycoon.json) |
 | Ice Throw | 396053 | [396053-ice-throw.json](./396053-ice-throw.json) |
 | Iced | 29854 | [29854-iced.json](./29854-iced.json) |
 | Ichi | 8953 | [8953-ichi.json](./8953-ichi.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclad | 372850 | [372850-ironclad.json](./372850-ironclad.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
 | Ironforged | 391518 | [391518-ironforged.json](./391518-ironforged.json) |
+| Ironwing Valiant: Record of Astera | 356479 | [356479-ironwing-valiant-record-of-astera.json](./356479-ironwing-valiant-record-of-astera.json) |
 | Is Zombody Home? | 390392 | [390392-is-zombody-home.json](./390392-is-zombody-home.json) |
 | Isekai Bistro | 406622 | [406622-isekai-bistro.json](./406622-isekai-bistro.json) |
 | Isekai Wet Dream | 382014 | [382014-isekai-wet-dream.json](./382014-isekai-wet-dream.json) |
