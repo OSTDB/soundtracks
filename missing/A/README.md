@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern 2 | 403475 | [403475-aker-fern-2.json](./403475-aker-fern-2.json) |
 | Aki no Yuugure ha Boku no Kokoro wo Terashiteita. | 370546 | [370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json](./370546-aki-no-yuugure-ha-boku-no-kokoro-wo-terashiteita.json) |
 | Aku: Rebirth of Shadows | 347508 | [347508-aku-rebirth-of-shadows.json](./347508-aku-rebirth-of-shadows.json) |
+| Akuma's Bloodrain | 345886 | [345886-akumas-bloodrain.json](./345886-akumas-bloodrain.json) |
 | Alan Wake Collector's Edition | 410795 | [410795-alan-wake-collectors-edition.json](./410795-alan-wake-collectors-edition.json) |
 | Alan Wake Collector's Edition Extras | 410793 | [410793-alan-wake-collectors-edition-extras.json](./410793-alan-wake-collectors-edition-extras.json) |
 | Alan Wake II: Deluxe Edition | 250806 | [250806-alan-wake-ii-deluxe-edition.json](./250806-alan-wake-ii-deluxe-edition.json) |
