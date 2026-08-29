@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystopia: A Puzzle Journey | 126880 | [126880-krystopia-a-puzzle-journey.json](./126880-krystopia-a-puzzle-journey.json) |
 | Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
 | Kubz VR | 31532 | [31532-kubz-vr.json](./31532-kubz-vr.json) |
+| Kugayama Shiori's Death Diary | 343652 | [343652-kugayama-shioris-death-diary.json](./343652-kugayama-shioris-death-diary.json) |
 | Kuitaiyou | 398256 | [398256-kuitaiyou.json](./398256-kuitaiyou.json) |
 | Kukoos: Lost Pets | 165463 | [165463-kukoos-lost-pets.json](./165463-kukoos-lost-pets.json) |
 | Kultapossu ja Leo Leijona: Sateenkaarivarkaat | 370514 | [370514-kultapossu-ja-leo-leijona-sateenkaarivarkaat.json](./370514-kultapossu-ja-leo-leijona-sateenkaarivarkaat.json) |
