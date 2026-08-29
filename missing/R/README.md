@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealmWalker | 398892 | [398892-realmwalker.json](./398892-realmwalker.json) |
 | realMyst: Masterpiece Edition | 23294 | [23294-realmyst-masterpiece-edition.json](./23294-realmyst-masterpiece-edition.json) |
 | Reason with Gonzo | 391482 | [391482-reason-with-gonzo.json](./391482-reason-with-gonzo.json) |
+| Rebel Core: Awakens | 349694 | [349694-rebel-core-awakens.json](./349694-rebel-core-awakens.json) |
 | Rebirth Moon | 381450 | [381450-rebirth-moon.json](./381450-rebirth-moon.json) |
 | ReChan | 414194 | [414194-rechan.json](./414194-rechan.json) |
 | Reconfigure | 369974 | [369974-reconfigure.json](./369974-reconfigure.json) |
@@ -371,5 +372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusted Moss | 182283 | [182283-rusted-moss.json](./182283-rusted-moss.json) |
 | Rustmire | 374499 | [374499-rustmire.json](./374499-rustmire.json) |
 | Rusty Heights | 350822 | [350822-rusty-heights.json](./350822-rusty-heights.json) |
+| Ruya: Ascension | 349663 | [349663-ruya-ascension.json](./349663-ruya-ascension.json) |
 | RWBY: Grimm Eclipse | 14720 | [14720-rwby-grimm-eclipse.json](./14720-rwby-grimm-eclipse.json) |
 | Ryzom | 6742 | [6742-ryzom.json](./6742-ryzom.json) |
