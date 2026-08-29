@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistick | 31572 | [31572-ballistick.json](./31572-ballistick.json) |
 | Ballistics | 7495 | [7495-ballistics.json](./7495-ballistics.json) |
 | Balloon Popping Pigs | 29856 | [29856-balloon-popping-pigs.json](./29856-balloon-popping-pigs.json) |
+| Balloon Shoot | 358707 | [358707-balloon-shoot.json](./358707-balloon-shoot.json) |
 | Balls Race | 87654 | [87654-balls-race.json](./87654-balls-race.json) |
 | Ballway | 44137 | [44137-ballway.json](./44137-ballway.json) |
 | Ballz 3D | 42568 | [42568-ballz-3d.json](./42568-ballz-3d.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 8 | 371067 | [371067-bdsm-sex-episode-8.json](./371067-bdsm-sex-episode-8.json) |
 | BDSM Sex: Episode 9 | 371073 | [371073-bdsm-sex-episode-9.json](./371073-bdsm-sex-episode-9.json) |
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
+| Be Careful | 358700 | [358700-be-careful.json](./358700-be-careful.json) |
 | Be My Girlfriends | 367801 | [367801-be-my-girlfriends.json](./367801-be-my-girlfriends.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
@@ -280,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Strasse | 383843 | [383843-blitz-strasse.json](./383843-blitz-strasse.json) |
 | Blobby Volley | 71950 | [71950-blobby-volley.json](./71950-blobby-volley.json) |
 | Blobbymite: Hero of Power | 379734 | [379734-blobbymite-hero-of-power.json](./379734-blobbymite-hero-of-power.json) |
+| Block Jam: Fancy Edition | 358673 | [358673-block-jam-fancy-edition.json](./358673-block-jam-fancy-edition.json) |
 | Block Legend DX | 35852 | [35852-block-legend-dx.json](./35852-block-legend-dx.json) |
 | Block Path | 366653 | [366653-block-path.json](./366653-block-path.json) |
 | Block Puzzle Jewel Legend | 87612 | [87612-block-puzzle-jewel-legend.json](./87612-block-puzzle-jewel-legend.json) |
@@ -353,7 +356,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
+| Borderlands 4: Deluxe Edition | 358672 | [358672-borderlands-4-deluxe-edition.json](./358672-borderlands-4-deluxe-edition.json) |
 | Borderlands 4: Story Pack 1 - Mad Ellie and the Vault of the Damned | 396087 | [396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json](./396087-borderlands-4-story-pack-1-mad-ellie-and-the-vault-of-the-damned.json) |
+| Borderlands 4: Super Deluxe Edition | 358671 | [358671-borderlands-4-super-deluxe-edition.json](./358671-borderlands-4-super-deluxe-edition.json) |
 | Boring Man: Online Tactical Stickman Combat | 35862 | [35862-boring-man-online-tactical-stickman-combat.json](./35862-boring-man-online-tactical-stickman-combat.json) |
 | Born Again | 403461 | [403461-born-again.json](./403461-born-again.json) |
 | Born to Burn: Ash and Flesh - A Tale from Surrealidade | 360398 | [360398-born-to-burn-ash-and-flesh-a-tale-from-surrealidade.json](./360398-born-to-burn-ash-and-flesh-a-tale-from-surrealidade.json) |
