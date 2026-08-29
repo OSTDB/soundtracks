@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines | 365474 | [365474-the-coma-3-bloodlines.json](./365474-the-coma-3-bloodlines.json) |
 | The Coma: Cutting Class | 34470 | [34470-the-coma-cutting-class.json](./34470-the-coma-cutting-class.json) |
 | The Concrete Tower | 360420 | [360420-the-concrete-tower.json](./360420-the-concrete-tower.json) |
+| The Conquest | 349167 | [349167-the-conquest.json](./349167-the-conquest.json) |
 | The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crystal Bay | 412878 | [412878-the-crystal-bay.json](./412878-the-crystal-bay.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Bots | 400158 | [400158-the-electric-bots.json](./400158-the-electric-bots.json) |
 | The Elf on the Shelf: Christmas Heroes | 366655 | [366655-the-elf-on-the-shelf-christmas-heroes.json](./366655-the-elf-on-the-shelf-christmas-heroes.json) |
 | The Elomont Raider | 351467 | [351467-the-elomont-raider.json](./351467-the-elomont-raider.json) |
+| The End of Paradise | 349143 | [349143-the-end-of-paradise.json](./349143-the-end-of-paradise.json) |
 | The End of the Sun | 107429 | [107429-the-end-of-the-sun.json](./107429-the-end-of-the-sun.json) |
 | The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
@@ -364,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of One Dog | 110118 | [110118-the-life-of-one-dog.json](./110118-the-life-of-one-dog.json) |
 | The Life You Missed | 406018 | [406018-the-life-you-missed.json](./406018-the-life-you-missed.json) |
 | The Lift | 367776 | [367776-the-lift.json](./367776-the-lift.json) |
+| The Light Charmer | 349162 | [349162-the-light-charmer.json](./349162-the-light-charmer.json) |
 | The Lightkeeper | 359783 | [359783-the-lightkeeper.json](./359783-the-lightkeeper.json) |
 | The Line | 380889 | [380889-the-line.json](./380889-the-line.json) |
 | The logic of the miniature garden | 109804 | [109804-the-logic-of-the-miniature-garden.json](./109804-the-logic-of-the-miniature-garden.json) |
