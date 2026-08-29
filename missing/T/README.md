@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Divine Land -Majesty in Game- | 392052 | [392052-touhou-divine-land-majesty-in-game.json](./392052-touhou-divine-land-majesty-in-game.json) |
 | Touhou: Records of Wealth-Seeking | 410150 | [410150-touhou-records-of-wealth-seeking.json](./410150-touhou-records-of-wealth-seeking.json) |
 | Tourists Kidnapped a Little Bear | 29750 | [29750-tourists-kidnapped-a-little-bear.json](./29750-tourists-kidnapped-a-little-bear.json) |
+| Tournamentris | 355391 | [355391-tournamentris.json](./355391-tournamentris.json) |
 | Tourtour | 364305 | [364305-tourtour.json](./364305-tourtour.json) |
 | Tow the Line | 390414 | [390414-tow-the-line.json](./390414-tow-the-line.json) |
 | Tower Defense | 380868 | [380868-tower-defense.json](./380868-tower-defense.json) |
