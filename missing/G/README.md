@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Gang | 369940 | [369940-ghost-gang.json](./369940-ghost-gang.json) |
 | Ghost Hunter Simulator | 371082 | [371082-ghost-hunter-simulator.json](./371082-ghost-hunter-simulator.json) |
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
+| Ghost In The Grid | 348618 | [348618-ghost-in-the-grid.json](./348618-ghost-in-the-grid.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | Ghost Shooter | 358711 | [358711-ghost-shooter.json](./358711-ghost-shooter.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
 | Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
+| Gobber Delight | 348598 | [348598-gobber-delight.json](./348598-gobber-delight.json) |
 | Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
 | Goblin vs. Princess | 349145 | [349145-goblin-vs-princess.json](./349145-goblin-vs-princess.json) |
