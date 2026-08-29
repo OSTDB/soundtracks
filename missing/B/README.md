@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Sol | 35781 | [35781-beyond-sol.json](./35781-beyond-sol.json) |
 | Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Beyond the Mirror | 368297 | [368297-beyond-the-mirror.json](./368297-beyond-the-mirror.json) |
+| Beyond the Red Door | 348076 | [348076-beyond-the-red-door.json](./348076-beyond-the-red-door.json) |
 | Bezier | 22139 | [22139-bezier.json](./22139-bezier.json) |
 | BFDI Pop! | 402786 | [402786-bfdi-pop.json](./402786-bfdi-pop.json) |
 | Bias Quartet: Additional Content | 383261 | [383261-bias-quartet-additional-content.json](./383261-bias-quartet-additional-content.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Dog Vibe | 410771 | [410771-bread-dog-vibe.json](./410771-bread-dog-vibe.json) |
 | Break 10 | 397564 | [397564-break-10.json](./397564-break-10.json) |
 | Break Shoot | 390416 | [390416-break-shoot.json](./390416-break-shoot.json) |
+| Break Shot Hero | 348065 | [348065-break-shot-hero.json](./348065-break-shot-hero.json) |
 | Break the Cube | 35833 | [35833-break-the-cube.json](./35833-break-the-cube.json) |
 | Breaker | 375630 | [375630-breaker.json](./375630-breaker.json) |
 | Breaking Armor | 383248 | [383248-breaking-armor.json](./383248-breaking-armor.json) |
