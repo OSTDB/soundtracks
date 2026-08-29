@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Ankhutep | 368873 | [368873-harem-of-ankhutep.json](./368873-harem-of-ankhutep.json) |
 | Harem of Three Thousand | 351435 | [351435-harem-of-three-thousand.json](./351435-harem-of-three-thousand.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
+| Harmonic Reflections | 343646 | [343646-harmonic-reflections.json](./343646-harmonic-reflections.json) |
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
 | Harmony | 364887 | [364887-harmony.json](./364887-harmony.json) |
 | Harold Rabbit 3: The House of Mysteries | 406599 | [406599-harold-rabbit-3-the-house-of-mysteries.json](./406599-harold-rabbit-3-the-house-of-mysteries.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V | 370 | [370-heroes-of-might-and-magic-v.json](./370-heroes-of-might-and-magic-v.json) |
 | Heroes of Mount Dragon x G.I. Joe: Wrath of Cobra | 396118 | [396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json](./396118-heroes-of-mount-dragon-x-g-i-joe-wrath-of-cobra.json) |
 | Heroes Rise: HeroFall | 17605 | [17605-heroes-rise-herofall.json](./17605-heroes-rise-herofall.json) |
+| Heroes vs. Monsters | 343626 | [343626-heroes-vs-monsters.json](./343626-heroes-vs-monsters.json) |
 | Heroic Aegisio: Origins | 366036 | [366036-heroic-aegisio-origins.json](./366036-heroic-aegisio-origins.json) |
 | HeroInc | 386016 | [386016-heroinc.json](./386016-heroinc.json) |
 | Heroll | 382030 | [382030-heroll.json](./382030-heroll.json) |
@@ -200,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaloric | 386052 | [386052-hexaloric.json](./386052-hexaloric.json) |
 | Hexashell | 364314 | [364314-hexashell.json](./364314-hexashell.json) |
 | HexBreakerII | 392056 | [392056-hexbreakerii.json](./392056-hexbreakerii.json) |
+| Hexitten | 343668 | [343668-hexitten.json](./343668-hexitten.json) |
 | Hexoscope | 24033 | [24033-hexoscope.json](./24033-hexoscope.json) |
 | Hey Taxi | 347545 | [347545-hey-taxi.json](./347545-hey-taxi.json) |
 | HH Trap: Reality’s Glitch | 397585 | [397585-hh-trap-reality-s-glitch.json](./397585-hh-trap-reality-s-glitch.json) |
