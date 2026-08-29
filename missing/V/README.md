@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Oaths and Ashes | 400121 | [400121-vampire-the-masquerade-oaths-and-ashes.json](./400121-vampire-the-masquerade-oaths-and-ashes.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
 | Vampire's Best Friend | 348067 | [348067-vampires-best-friend.json](./348067-vampires-best-friend.json) |
+| Vaneti | 347525 | [347525-vaneti.json](./347525-vaneti.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vantage: Primitive Survival Game | 44302 | [44302-vantage-primitive-survival-game.json](./44302-vantage-primitive-survival-game.json) |
 | Vape Simulator | 384979 | [384979-vape-simulator.json](./384979-vape-simulator.json) |
@@ -35,7 +36,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Lab | 379771 | [379771-vector-lab.json](./379771-vector-lab.json) |
 | Vector Seven | 372846 | [372846-vector-seven.json](./372846-vector-seven.json) |
 | Vedmy Zov | 367213 | [367213-vedmy-zov.json](./367213-vedmy-zov.json) |
+| Vega Chronicle | 347520 | [347520-vega-chronicle.json](./347520-vega-chronicle.json) |
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
+| Vegetables of Mass Destruction | 347535 | [347535-vegetables-of-mass-destruction.json](./347535-vegetables-of-mass-destruction.json) |
 | Veggies Delight | 348611 | [348611-veggies-delight.json](./348611-veggies-delight.json) |
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
