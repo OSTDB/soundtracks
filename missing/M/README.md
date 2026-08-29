@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
 | MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
 | Meteor Break Mission | 359788 | [359788-meteor-break-mission.json](./359788-meteor-break-mission.json) |
+| Meteora | 345885 | [345885-meteora.json](./345885-meteora.json) |
 | Metrico+ | 22017 | [22017-metrico.json](./22017-metrico.json) |
 | Metro 2039 | 398225 | [398225-metro-2039.json](./398225-metro-2039.json) |
 | Metro Simulator 2019 | 110105 | [110105-metro-simulator-2019.json](./110105-metro-simulator-2019.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Droid Gumda | 392668 | [392668-mobile-droid-gumda.json](./392668-mobile-droid-gumda.json) |
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
+| Mobile Suit Gundam: Luna Two no Tatakai | 345904 | [345904-mobile-suit-gundam-luna-two-no-tatakai.json](./345904-mobile-suit-gundam-luna-two-no-tatakai.json) |
 | Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
 | Moebious: Endless Dream | 357652 | [357652-moebious-endless-dream.json](./357652-moebious-endless-dream.json) |
 | Moist Depot: Adult Store Simulator | 393369 | [393369-moist-depot-adult-store-simulator.json](./393369-moist-depot-adult-store-simulator.json) |
