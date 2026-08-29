@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence Point | 355918 | [355918-cadence-point.json](./355918-cadence-point.json) |
 | Cadillacs and Dinosaurs | 5368 | [5368-cadillacs-and-dinosaurs.json](./5368-cadillacs-and-dinosaurs.json) |
 | Caesar III | 6332 | [6332-caesar-iii.json](./6332-caesar-iii.json) |
+| Caesar's Day Off | 351447 | [351447-caesars-day-off.json](./351447-caesars-day-off.json) |
 | Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cafe 0: The Sleeping Beast | 33015 | [33015-cafe-0-the-sleeping-beast.json](./33015-cafe-0-the-sleeping-beast.json) |
 | Cageling | 357650 | [357650-cageling.json](./357650-cageling.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calmie Dots | 366634 | [366634-calmie-dots.json](./366634-calmie-dots.json) |
 | Calyssa | 365243 | [365243-calyssa.json](./365243-calyssa.json) |
 | Camazotz no Fuyuyasumi | 394728 | [394728-camazotz-no-fuyuyasumi.json](./394728-camazotz-no-fuyuyasumi.json) |
+| Camel Keeper | 351479 | [351479-camel-keeper.json](./351479-camel-keeper.json) |
 | Camilla | 369418 | [369418-camilla.json](./369418-camilla.json) |
 | Camper Van Beach Resort | 95640 | [95640-camper-van-beach-resort.json](./95640-camper-van-beach-resort.json) |
 | Campfire Stories: The Giant of Green Peaks | 411483 | [411483-campfire-stories-the-giant-of-green-peaks.json](./411483-campfire-stories-the-giant-of-green-peaks.json) |
@@ -198,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilla's Art: The Kidnap | 266006 | [266006-chillas-art-the-kidnap.json](./266006-chillas-art-the-kidnap.json) |
 | Chinbu's Adventure | 77160 | [77160-chinbus-adventure.json](./77160-chinbus-adventure.json) |
 | Chinese Chess Master | 89467 | [89467-chinese-chess-master.json](./89467-chinese-chess-master.json) |
+| Chinese Chess Way | 351463 | [351463-chinese-chess-way.json](./351463-chinese-chess-way.json) |
 | Chinese Strange Stories | 392067 | [392067-chinese-strange-stories.json](./392067-chinese-strange-stories.json) |
 | Chocobo's Dungeon 2 | 22894 | [22894-chocobos-dungeon-2.json](./22894-chocobos-dungeon-2.json) |
 | Chocolate makes you happy 2 | 76668 | [76668-chocolate-makes-you-happy-2.json](./76668-chocolate-makes-you-happy-2.json) |
@@ -465,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
 | Creep Tank | 408652 | [408652-creep-tank.json](./408652-creep-tank.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
+| Creeps: Halls of Insanity | 351472 | [351472-creeps-halls-of-insanity.json](./351472-creeps-halls-of-insanity.json) |
 | Creepy Shift: Uncle Joe’s Motel | 357060 | [357060-creepy-shift-uncle-joe-s-motel.json](./357060-creepy-shift-uncle-joe-s-motel.json) |
 | Cresata | 407972 | [407972-cresata.json](./407972-cresata.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
