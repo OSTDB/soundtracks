@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GamerGio's Very Cool Level Pack | 394019 | [394019-gamergios-very-cool-level-pack.json](./394019-gamergios-very-cool-level-pack.json) |
 | GameTwist | 360988 | [360988-gametwist.json](./360988-gametwist.json) |
 | Gang Wars | 6796 | [6796-gang-wars.json](./6796-gang-wars.json) |
+| Gangan! Junkland Dash | 343072 | [343072-gangan-junkland-dash.json](./343072-gangan-junkland-dash.json) |
 | Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes on the Roam | 385461 | [385461-gnomes-on-the-roam.json](./385461-gnomes-on-the-roam.json) |
 | Gnosia | 117988 | [117988-gnosia.json](./117988-gnosia.json) |
 | Go | 371662 | [371662-go.json](./371662-go.json) |
+| Go! Go! Beetle Roller! | 343114 | [343114-go-go-beetle-roller.json](./343114-go-go-beetle-roller.json) |
 | Goal Gang | 406029 | [406029-goal-gang.json](./406029-goal-gang.json) |
 | Goat Mode: Activated | 376298 | [376298-goat-mode-activated.json](./376298-goat-mode-activated.json) |
 | Goat Simulator Payday | 23192 | [23192-goat-simulator-payday.json](./23192-goat-simulator-payday.json) |
