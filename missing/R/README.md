@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redtail Relic Rush | 412837 | [412837-redtail-relic-rush.json](./412837-redtail-relic-rush.json) |
 | Reduce Yourself | 369967 | [369967-reduce-yourself.json](./369967-reduce-yourself.json) |
 | Reel Fishing Paradise 3D | 6868 | [6868-reel-fishing-paradise-3d.json](./6868-reel-fishing-paradise-3d.json) |
+| Reel it! Fishing | 342446 | [342446-reel-it-fishing.json](./342446-reel-it-fishing.json) |
 | Reflections of Life: In Screams and Sorrow | 359276 | [359276-reflections-of-life-in-screams-and-sorrow.json](./359276-reflections-of-life-in-screams-and-sorrow.json) |
 | Refraction | 344192 | [344192-refraction.json](./344192-refraction.json) |
 | Regotown | 389292 | [389292-regotown.json](./389292-regotown.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocko's Modern Life: Spunky's Dangerous Day | 7562 | [7562-rockos-modern-life-spunkys-dangerous-day.json](./7562-rockos-modern-life-spunkys-dangerous-day.json) |
 | Rockoon | 351482 | [351482-rockoon.json](./351482-rockoon.json) |
 | Rocky Climb | 95644 | [95644-rocky-climb.json](./95644-rocky-climb.json) |
+| Rocky the Brave Pup: Love, Friendship and a Midnight Mission | 342447 | [342447-rocky-the-brave-pup-love-friendship-and-a-midnight-mission.json](./342447-rocky-the-brave-pup-love-friendship-and-a-midnight-mission.json) |
 | Rogue AI: Idle Domination | 373938 | [373938-rogue-ai-idle-domination.json](./373938-rogue-ai-idle-domination.json) |
 | Rogue Melee | 374447 | [374447-rogue-melee.json](./374447-rogue-melee.json) |
 | Rogue Realm: Guardian Grids | 406011 | [406011-rogue-realm-guardian-grids.json](./406011-rogue-realm-guardian-grids.json) |
@@ -384,7 +386,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Eternal Depths | 370529 | [370529-run-eternal-depths.json](./370529-run-eternal-depths.json) |
 | Run Quad Run | 346993 | [346993-run-quad-run.json](./346993-run-quad-run.json) |
 | Rune Evolution | 163344 | [163344-rune-evolution.json](./163344-rune-evolution.json) |
+| Rune Factory 4: Hero Outfit Bundle | 342475 | [342475-rune-factory-4-hero-outfit-bundle.json](./342475-rune-factory-4-hero-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma | 250922 | [250922-rune-factory-guardians-of-azuma.json](./250922-rune-factory-guardians-of-azuma.json) |
+| Rune Factory: Guardians of Azuma - Digital Deluxe Edition | 342453 | [342453-rune-factory-guardians-of-azuma-digital-deluxe-edition.json](./342453-rune-factory-guardians-of-azuma-digital-deluxe-edition.json) |
+| Rune Factory: Guardians of Azuma - Super Digital Deluxe Edition | 342452 | [342452-rune-factory-guardians-of-azuma-super-digital-deluxe-edition.json](./342452-rune-factory-guardians-of-azuma-super-digital-deluxe-edition.json) |
 | Runeblight | 358687 | [358687-runeblight.json](./358687-runeblight.json) |
 | RuneScape: Idle Adventures | 78673 | [78673-runescape-idle-adventures.json](./78673-runescape-idle-adventures.json) |
 | Running Through Russia | 29239 | [29239-running-through-russia.json](./29239-running-through-russia.json) |
