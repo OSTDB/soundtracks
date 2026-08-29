@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rising | 400131 | [400131-red-rising.json](./400131-red-rising.json) |
 | Red Tears: Angola | 392062 | [392062-red-tears-angola.json](./392062-red-tears-angola.json) |
 | Red's Kingdom | 30968 | [30968-reds-kingdom.json](./30968-reds-kingdom.json) |
+| Redaktorka R.K. | 343081 | [343081-redaktorka-r-k.json](./343081-redaktorka-r-k.json) |
 | Redast | 389865 | [389865-redast.json](./389865-redast.json) |
 | RedCloak | 378055 | [378055-redcloak.json](./378055-redcloak.json) |
 | Redeemer | 27217 | [27217-redeemer.json](./27217-redeemer.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite: Oka-ken Katsudou Kiroku Gaiden | 370522 | [370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json](./370522-rewrite-oka-ken-katsudou-kiroku-gaiden.json) |
 | Rewritten | 399515 | [399515-rewritten.json](./399515-rewritten.json) |
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
+| Rhapsody: A Musical Adventure DS | 343074 | [343074-rhapsody-a-musical-adventure-ds.json](./343074-rhapsody-a-musical-adventure-ds.json) |
 | Rhizomatic Compound | 369962 | [369962-rhizomatic-compound.json](./369962-rhizomatic-compound.json) |
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
 | Rhythm Animal Café | 355403 | [355403-rhythm-animal-cafe.json](./355403-rhythm-animal-cafe.json) |
@@ -307,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-LE | 375005 | [375005-robot-le.json](./375005-robot-le.json) |
 | Robot-Mail Rush | 378047 | [378047-robot-mail-rush.json](./378047-robot-mail-rush.json) |
 | Robotron 64 | 79669 | [79669-robotron-64.json](./79669-robotron-64.json) |
+| Rock and Scroll | 343070 | [343070-rock-and-scroll.json](./343070-rock-and-scroll.json) |
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rock Paper Scissors Action! | 361504 | [361504-rock-paper-scissors-action.json](./361504-rock-paper-scissors-action.json) |
 | Rock Shot | 378061 | [378061-rock-shot.json](./378061-rock-shot.json) |
