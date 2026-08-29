@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 4 | 28213 | [28213-the-jackbox-party-pack-4.json](./28213-the-jackbox-party-pack-4.json) |
 | The Jester and the Madman | 360409 | [360409-the-jester-and-the-madman.json](./360409-the-jester-and-the-madman.json) |
 | The Juicer | 34486 | [34486-the-juicer.json](./34486-the-juicer.json) |
+| The Jumping Stars | 345333 | [345333-the-jumping-stars.json](./345333-the-jumping-stars.json) |
 | The Karters | 22749 | [22749-the-karters.json](./22749-the-karters.json) |
 | The Killing Stone | 362114 | [362114-the-killing-stone.json](./362114-the-killing-stone.json) |
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Shadow Wars | 1303 | [1303-tom-clancys-ghost-recon-shadow-wars.json](./1303-tom-clancys-ghost-recon-shadow-wars.json) |
 | Tom Clancy's Rainbow 6 Tactics | 414967 | [414967-tom-clancys-rainbow-6-tactics.json](./414967-tom-clancys-rainbow-6-tactics.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory | 194234 | [194234-tom-clancys-splinter-cell-chaos-theory.json](./194234-tom-clancys-splinter-cell-chaos-theory.json) |
+| Tom Clancy's The Division 2: Battle for Brooklyn | 345338 | [345338-tom-clancys-the-division-2-battle-for-brooklyn.json](./345338-tom-clancys-the-division-2-battle-for-brooklyn.json) |
 | Tom Clancy's The Division: Last Stand | 26852 | [26852-tom-clancys-the-division-last-stand.json](./26852-tom-clancys-the-division-last-stand.json) |
 | Tom vs. The Armies of Hell | 16827 | [16827-tom-vs-the-armies-of-hell.json](./16827-tom-vs-the-armies-of-hell.json) |
 | Tomak: Save the Earth Regeneration | 396785 | [396785-tomak-save-the-earth-regeneration.json](./396785-tomak-save-the-earth-regeneration.json) |
@@ -703,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torii: Beyond the Gates | 380871 | [380871-torii-beyond-the-gates.json](./380871-torii-beyond-the-gates.json) |
 | Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
 | Torovo | 411456 | [411456-torovo.json](./411456-torovo.json) |
+| Torrent Empire | 345312 | [345312-torrent-empire.json](./345312-torrent-empire.json) |
 | Torrente On-Line | 351995 | [351995-torrente-on-line.json](./351995-torrente-on-line.json) |
 | Total Lockdown | 123238 | [123238-total-lockdown.json](./123238-total-lockdown.json) |
 | Total RepeAt | 411480 | [411480-total-repeat.json](./411480-total-repeat.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger of Time | 348624 | [348624-trigger-of-time.json](./348624-trigger-of-time.json) |
 | Trine 6: Together in Time | 404741 | [404741-trine-6-together-in-time.json](./404741-trine-6-together-in-time.json) |
 | Trinity of Chaos | 116209 | [116209-trinity-of-chaos.json](./116209-trinity-of-chaos.json) |
+| Triple Jump | 345294 | [345294-triple-jump.json](./345294-triple-jump.json) |
 | Triple Swap Tower | 373948 | [373948-triple-swap-tower.json](./373948-triple-swap-tower.json) |
 | Tristia: Chronicles | 414242 | [414242-tristia-chronicles.json](./414242-tristia-chronicles.json) |
 | Triston | 407960 | [407960-triston.json](./407960-triston.json) |
