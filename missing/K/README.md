@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Brawler | 366077 | [366077-knight-brawler.json](./366077-knight-brawler.json) |
 | Knight Castle Defender | 387243 | [387243-knight-castle-defender.json](./387243-knight-castle-defender.json) |
 | Knight of Justice | 366086 | [366086-knight-of-justice.json](./366086-knight-of-justice.json) |
+| Knight Quest: Goblins Raid | 350831 | [350831-knight-quest-goblins-raid.json](./350831-knight-quest-goblins-raid.json) |
 | Knightoban | 371736 | [371736-knightoban.json](./371736-knightoban.json) |
 | Knights & Towers | 374465 | [374465-knights-and-towers.json](./374465-knights-and-towers.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
