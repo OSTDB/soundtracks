@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave Mirra Freestyle BMX | 372884 | [372884-dave-mirra-freestyle-bmx.json](./372884-dave-mirra-freestyle-bmx.json) |
 | Dave's Wrecking Yard 3D | 407234 | [407234-daves-wrecking-yard-3d.json](./407234-daves-wrecking-yard-3d.json) |
 | David | 35866 | [35866-david.json](./35866-david.json) |
+| Davy X Jones | 345297 | [345297-davy-x-jones.json](./345297-davy-x-jones.json) |
 | Dawn Awaits | 389291 | [389291-dawn-awaits.json](./389291-dawn-awaits.json) |
 | Dawn Break | 348630 | [348630-dawn-break.json](./348630-dawn-break.json) |
 | Dawn of the Dying | 390413 | [390413-dawn-of-the-dying.json](./390413-dawn-of-the-dying.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezatopia | 125617 | [125617-dezatopia.json](./125617-dezatopia.json) |
 | Diablo III: Rise of the Necromancer | 38659 | [38659-diablo-iii-rise-of-the-necromancer.json](./38659-diablo-iii-rise-of-the-necromancer.json) |
 | Diablo IV: Age of Hatred Collection | 386601 | [386601-diablo-iv-age-of-hatred-collection.json](./386601-diablo-iv-age-of-hatred-collection.json) |
+| Diablo IV: Belial's Return | 345323 | [345323-diablo-iv-belials-return.json](./345323-diablo-iv-belials-return.json) |
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diabolika | 380262 | [380262-diabolika.json](./380262-diabolika.json) |
@@ -510,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downbeat | 383805 | [383805-downbeat.json](./383805-downbeat.json) |
 | Downmouse | 349171 | [349171-downmouse.json](./349171-downmouse.json) |
 | Downward | 31942 | [31942-downward.json](./31942-downward.json) |
+| Downward | 345344 | [345344-downward.json](./345344-downward.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
 | Dr. Cares: Amy's Pet Clinic | 96078 | [96078-dr-cares-amys-pet-clinic.json](./96078-dr-cares-amys-pet-clinic.json) |
