@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness 2 | 397536 | [397536-happiness-2.json](./397536-happiness-2.json) |
 | Happiness Laboratory | 395402 | [395402-happiness-laboratory.json](./395402-happiness-laboratory.json) |
 | Happy Anime Puzzle | 368343 | [368343-happy-anime-puzzle.json](./368343-happy-anime-puzzle.json) |
+| Happy Darts | 358706 | [358706-happy-darts.json](./358706-happy-darts.json) |
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
 | Happy Pet | 368304 | [368304-happy-pet.json](./368304-happy-pet.json) |
 | Happy Piggy | 370506 | [370506-happy-piggy.json](./370506-happy-piggy.json) |
@@ -95,7 +96,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat | 107327 | [107327-heartbeat.json](./107327-heartbeat.json) |
 | Heartbound | 26974 | [26974-heartbound.json](./26974-heartbound.json) |
 | Hearth Storm | 369403 | [369403-hearth-storm.json](./369403-hearth-storm.json) |
+| Hearthstone: Battlegrounds | 358718 | [358718-hearthstone-battlegrounds.json](./358718-hearthstone-battlegrounds.json) |
 | Hearthstone: Blackrock Mountain | 21974 | [21974-hearthstone-blackrock-mountain.json](./21974-hearthstone-blackrock-mountain.json) |
+| Hearthstone: Book of Heroes | 358717 | [358717-hearthstone-book-of-heroes.json](./358717-hearthstone-book-of-heroes.json) |
+| Hearthstone: Book of Mercenaries | 358715 | [358715-hearthstone-book-of-mercenaries.json](./358715-hearthstone-book-of-mercenaries.json) |
 | Hearthstone: Escape from Violet Hold | 409429 | [409429-hearthstone-escape-from-violet-hold.json](./409429-hearthstone-escape-from-violet-hold.json) |
 | Hearts of Iron II | 2037 | [2037-hearts-of-iron-ii.json](./2037-hearts-of-iron-ii.json) |
 | Heatwave: Sam’s Stay | 405985 | [405985-heatwave-sam-s-stay.json](./405985-heatwave-sam-s-stay.json) |
@@ -279,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Renovator Simulator | 396106 | [396106-hotel-renovator-simulator.json](./396106-hotel-renovator-simulator.json) |
 | Hotwing Hellions | 379746 | [379746-hotwing-hellions.json](./379746-hotwing-hellions.json) |
 | House Flip with Chip and Jo | 87650 | [87650-house-flip-with-chip-and-jo.json](./87650-house-flip-with-chip-and-jo.json) |
+| House Flipper Remastered Collection | 358692 | [358692-house-flipper-remastered-collection.json](./358692-house-flipper-remastered-collection.json) |
 | House Haunters | 390964 | [390964-house-haunters.json](./390964-house-haunters.json) |
 | House of 1000 Doors: The Palm of Zoroaster - Collector's Edition | 36315 | [36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json](./36315-house-of-1000-doors-the-palm-of-zoroaster-collectors-edition.json) |
 | House of Tides | 408684 | [408684-house-of-tides.json](./408684-house-of-tides.json) |
