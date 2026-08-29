@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohen 1939 | 396079 | [396079-cohen-1939.json](./396079-cohen-1939.json) |
 | Coin Chase | 378025 | [378025-coin-chase.json](./378025-coin-chase.json) |
 | Coin Hoarder | 366072 | [366072-coin-hoarder.json](./366072-coin-hoarder.json) |
+| Coin Hunter | 350272 | [350272-coin-hunter.json](./350272-coin-hunter.json) |
 | Coin of Fate | 398897 | [398897-coin-of-fate.json](./398897-coin-of-fate.json) |
 | Coin Push RPG: Cat Meme DLC | 371103 | [371103-coin-push-rpg-cat-meme-dlc.json](./371103-coin-push-rpg-cat-meme-dlc.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
 | Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
+| Combo Overload | 350268 | [350268-combo-overload.json](./350268-combo-overload.json) |
 | Combolands | 398235 | [398235-combolands.json](./398235-combolands.json) |
 | Come Home | 234158 | [234158-come-home.json](./234158-come-home.json) |
 | Come Right Inn: Season 1 | 392663 | [392663-come-right-inn-season-1.json](./392663-come-right-inn-season-1.json) |
@@ -415,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire 3: New Horizons | 382627 | [382627-cosmo-solitaire-3-new-horizons.json](./382627-cosmo-solitaire-3-new-horizons.json) |
 | Cosmo Tank | 7826 | [7826-cosmo-tank.json](./7826-cosmo-tank.json) |
 | CosmoFab | 411460 | [411460-cosmofab.json](./411460-cosmofab.json) |
+| CosmoKnytes | 350254 | [350254-cosmoknytes.json](./350254-cosmoknytes.json) |
 | Cosmolon | 360947 | [360947-cosmolon.json](./360947-cosmolon.json) |
 | Cosmonautica | 11369 | [11369-cosmonautica.json](./11369-cosmonautica.json) |
 | Cosmos Point | 374493 | [374493-cosmos-point.json](./374493-cosmos-point.json) |
@@ -436,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Simulator | 401391 | [401391-cowboy-simulator.json](./401391-cowboy-simulator.json) |
 | Cozy Basket | 401390 | [401390-cozy-basket.json](./401390-cozy-basket.json) |
 | Cozy Battle Royale 2026 | 409484 | [409484-cozy-battle-royale-2026.json](./409484-cozy-battle-royale-2026.json) |
+| Cozy Cove | 350281 | [350281-cozy-cove.json](./350281-cozy-cove.json) |
 | Cozy Farm | 389879 | [389879-cozy-farm.json](./389879-cozy-farm.json) |
 | Cozy Game Restoration | 394023 | [394023-cozy-game-restoration.json](./394023-cozy-game-restoration.json) |
 | Cozy Pages: Comfy Coloring for All Ages - Paint, Draw & Relax | 413554 | [413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json](./413554-cozy-pages-comfy-coloring-for-all-ages-paint-draw-and-relax.json) |
