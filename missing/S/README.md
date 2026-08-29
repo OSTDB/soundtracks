@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 15362 | [15362-scrabble.json](./15362-scrabble.json) |
 | Scrabble | 407938 | [407938-scrabble.json](./407938-scrabble.json) |
 | Scrabble | 405420 | [405420-scrabble.json](./405420-scrabble.json) |
+| Scramble | 348599 | [348599-scramble.json](./348599-scramble.json) |
 | Scraper: Gauntlet | 126208 | [126208-scraper-gauntlet.json](./126208-scraper-gauntlet.json) |
 | Screamer 4x4 | 7143 | [7143-screamer-4x4.json](./7143-screamer-4x4.json) |
 | Screaming Halls: Horror | 414239 | [414239-screaming-halls-horror.json](./414239-screaming-halls-horror.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
+| Slime Delight | 348604 | [348604-slime-delight.json](./348604-slime-delight.json) |
 | Slime In Abysm | 356474 | [356474-slime-in-abysm.json](./356474-slime-in-abysm.json) |
 | Slime Lab | 359778 | [359778-slime-lab.json](./359778-slime-lab.json) |
 | Slime Shiyou | 366047 | [366047-slime-shiyou.json](./366047-slime-shiyou.json) |
@@ -462,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solstice: The Quest for the Staff of Demnos | 48244 | [48244-solstice-the-quest-for-the-staff-of-demnos.json](./48244-solstice-the-quest-for-the-staff-of-demnos.json) |
 | Soluna's Mood | 368299 | [368299-solunas-mood.json](./368299-solunas-mood.json) |
 | Soma Bringer | 21468 | [21468-soma-bringer.json](./21468-soma-bringer.json) |
+| Some Assembly Required | 348610 | [348610-some-assembly-required.json](./348610-some-assembly-required.json) |
 | Somnial Ouija | 391505 | [391505-somnial-ouija.json](./391505-somnial-ouija.json) |
 | Son of Scoregasm | 61689 | [61689-son-of-scoregasm.json](./61689-son-of-scoregasm.json) |
 | Son of Thanjai | 362117 | [362117-son-of-thanjai.json](./362117-son-of-thanjai.json) |
@@ -542,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacenap | 378049 | [378049-spacenap.json](./378049-spacenap.json) |
 | Spacescape | 96102 | [96102-spacescape.json](./96102-spacescape.json) |
 | Spacetime Shooter | 388619 | [388619-spacetime-shooter.json](./388619-spacetime-shooter.json) |
+| Spanish Delight | 348605 | [348605-spanish-delight.json](./348605-spanish-delight.json) |
 | Sparkfront: Online | 411484 | [411484-sparkfront-online.json](./411484-sparkfront-online.json) |
 | Spate | 16928 | [16928-spate.json](./16928-spate.json) |
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
@@ -642,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Goddess | 109807 | [109807-star-goddess.json](./109807-star-goddess.json) |
 | Star Ocean: The Last Hope - 4K & Full HD Remaster | 74384 | [74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json](./74384-star-ocean-the-last-hope-4k-and-full-hd-remaster.json) |
 | Star of Providence | 262420 | [262420-star-of-providence.json](./262420-star-of-providence.json) |
+| Star Razer | 348640 | [348640-star-razer.json](./348640-star-razer.json) |
 | Star Spark | 381469 | [381469-star-spark.json](./381469-star-spark.json) |
 | Star Striker | 381456 | [381456-star-striker.json](./381456-star-striker.json) |
 | Star Titans: War of the Galaxy | 373386 | [373386-star-titans-war-of-the-galaxy.json](./373386-star-titans-war-of-the-galaxy.json) |
@@ -970,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiotic Overload | 44251 | [44251-symbiotic-overload.json](./44251-symbiotic-overload.json) |
 | Symblyx | 383854 | [383854-symblyx.json](./383854-symblyx.json) |
 | Symphonic Rain | 36482 | [36482-symphonic-rain.json](./36482-symphonic-rain.json) |
+| Sync or Sink | 348641 | [348641-sync-or-sink.json](./348641-sync-or-sink.json) |
 | SynchroniZ | 396057 | [396057-synchroniz.json](./396057-synchroniz.json) |
 | SyncroChromia | 367240 | [367240-syncrochromia.json](./367240-syncrochromia.json) |
 | Syntax: Overload | 399478 | [399478-syntax-overload.json](./399478-syntax-overload.json) |
