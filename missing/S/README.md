@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunfall '80 | 412133 | [412133-sunfall-80.json](./412133-sunfall-80.json) |
 | Sunless Sea: Zubmariner | 22689 | [22689-sunless-sea-zubmariner.json](./22689-sunless-sea-zubmariner.json) |
 | Sunlit Journey | 397579 | [397579-sunlit-journey.json](./397579-sunlit-journey.json) |
+| Sunrider Legends Tactics | 353679 | [353679-sunrider-legends-tactics.json](./353679-sunrider-legends-tactics.json) |
 | Sunset | 14703 | [14703-sunset.json](./14703-sunset.json) |
 | Sunset Satellite | 364299 | [364299-sunset-satellite.json](./364299-sunset-satellite.json) |
 | Sunset Suckerpunch | 357079 | [357079-sunset-suckerpunch.json](./357079-sunset-suckerpunch.json) |
