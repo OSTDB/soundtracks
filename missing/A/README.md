@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Add Cross | 377481 | [377481-add-cross.json](./377481-add-cross.json) |
 | Adhain | 407966 | [407966-adhain.json](./407966-adhain.json) |
 | Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
+| Adrenalinkick | 343084 | [343084-adrenalinkick.json](./343084-adrenalinkick.json) |
 | ADT Pilot 01 | 367795 | [367795-adt-pilot-01.json](./367795-adt-pilot-01.json) |
 | Adult Education | 367261 | [367261-adult-education.json](./367261-adult-education.json) |
 | Advanced PET: Battle Chip - Barrier 200 | 353132 | [353132-advanced-pet-battle-chip-barrier-200.json](./353132-advanced-pet-battle-chip-barrier-200.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals in the Forest | 366661 | [366661-animals-in-the-forest.json](./366661-animals-in-the-forest.json) |
 | Animals Memory | 386028 | [386028-animals-memory.json](./386028-animals-memory.json) |
 | Animals Memory: Cats | 86550 | [86550-animals-memory-cats.json](./86550-animals-memory-cats.json) |
+| Anime Fidget Spinner Battle | 343088 | [343088-anime-fidget-spinner-battle.json](./343088-anime-fidget-spinner-battle.json) |
 | Anime Girls VR | 77169 | [77169-anime-girls-vr.json](./77169-anime-girls-vr.json) |
 | Anime Girls: Sakura Love | 396100 | [396100-anime-girls-sakura-love.json](./396100-anime-girls-sakura-love.json) |
 | Anime Hunter | 389862 | [389862-anime-hunter.json](./389862-anime-hunter.json) |
@@ -435,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
 | Arcadian Days | 346423 | [346423-arcadian-days.json](./346423-arcadian-days.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Arcane Dice Wars | 343117 | [343117-arcane-dice-wars.json](./343117-arcane-dice-wars.json) |
 | Arcane Dice Wars: Gacha Date | 353144 | [353144-arcane-dice-wars-gacha-date.json](./353144-arcane-dice-wars-gacha-date.json) |
 | Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
