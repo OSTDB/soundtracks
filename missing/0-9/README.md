@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 67: The 7 Pages | 375646 | [375646-67-the-7-pages.json](./375646-67-the-7-pages.json) |
 | 687 Days on Mars | 357085 | [357085-687-days-on-mars.json](./357085-687-days-on-mars.json) |
 | 7 Billion Humans | 83847 | [83847-7-billion-humans.json](./83847-7-billion-humans.json) |
+| 7 Days to Escape | 354250 | [354250-7-days-to-escape.json](./354250-7-days-to-escape.json) |
 | 7 Trials | 400791 | [400791-7-trials.json](./400791-7-trials.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
 | 7dfps 2020 game | 410783 | [410783-7dfps-2020-game.json](./410783-7dfps-2020-game.json) |
