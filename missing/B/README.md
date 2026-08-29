@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Waifu | 389859 | [389859-bdsm-waifu.json](./389859-bdsm-waifu.json) |
 | Be Careful | 358700 | [358700-be-careful.json](./358700-be-careful.json) |
 | Be My Girlfriends | 367801 | [367801-be-my-girlfriends.json](./367801-be-my-girlfriends.json) |
+| Beach Restaurant | 344747 | [344747-beach-restaurant.json](./344747-beach-restaurant.json) |
 | Beach Volleyball Girls: Hot Spike | 413571 | [413571-beach-volleyball-girls-hot-spike.json](./413571-beach-volleyball-girls-hot-spike.json) |
 | BeachHead Rogue | 371661 | [371661-beachhead-rogue.json](./371661-beachhead-rogue.json) |
 | Beak the Hunter | 376327 | [376327-beak-the-hunter.json](./376327-beak-the-hunter.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trouble | 350277 | [350277-bubble-trouble.json](./350277-bubble-trouble.json) |
 | Bubsy 4D + Bubsy in: The Purrfect Collection | 412121 | [412121-bubsy-4d-bubsy-in-the-purrfect-collection.json](./412121-bubsy-4d-bubsy-in-the-purrfect-collection.json) |
 | Bubsy in Claws Encounters of the Furred Kind | 7804 | [7804-bubsy-in-claws-encounters-of-the-furred-kind.json](./7804-bubsy-in-claws-encounters-of-the-furred-kind.json) |
+| Buckle Up | 344781 | [344781-buckle-up.json](./344781-buckle-up.json) |
 | Budgie's Bug Shop | 389905 | [389905-budgies-bug-shop.json](./389905-budgies-bug-shop.json) |
 | Budokan: The Martial Spirit | 4409 | [4409-budokan-the-martial-spirit.json](./4409-budokan-the-martial-spirit.json) |
 | Buffy the Vampire Slayer | 5760 | [5760-buffy-the-vampire-slayer.json](./5760-buffy-the-vampire-slayer.json) |
@@ -639,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury The Monsters | 346975 | [346975-bury-the-monsters.json](./346975-bury-the-monsters.json) |
 | Bus Simulator: World Tour | 388620 | [388620-bus-simulator-world-tour.json](./388620-bus-simulator-world-tour.json) |
 | Bush Dog | 373953 | [373953-bush-dog.json](./373953-bush-dog.json) |
+| Bushcraft Survival | 344763 | [344763-bushcraft-survival.json](./344763-bushcraft-survival.json) |
 | Bushido Blade | 1418 | [1418-bushido-blade.json](./1418-bushido-blade.json) |
 | Bushido Blade 2 | 1419 | [1419-bushido-blade-2.json](./1419-bushido-blade-2.json) |
 | Business Tour | 34549 | [34549-business-tour.json](./34549-business-tour.json) |
