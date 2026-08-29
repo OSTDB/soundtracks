@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper io 2: Platinum Edition | 402180 | [402180-paper-io-2-platinum-edition.json](./402180-paper-io-2-platinum-edition.json) |
 | Paper Mario: Color Splash | 18169 | [18169-paper-mario-color-splash.json](./18169-paper-mario-color-splash.json) |
 | Paper Monsters | 22881 | [22881-paper-monsters.json](./22881-paper-monsters.json) |
+| Paper Plane | 343077 | [343077-paper-plane.json](./343077-paper-plane.json) |
 | Paper Shredder | 410126 | [410126-paper-shredder.json](./410126-paper-shredder.json) |
 | Paper Strike | 405404 | [405404-paper-strike.json](./405404-paper-strike.json) |
 | Paperboy | 256083 | [256083-paperboy.json](./256083-paperboy.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Diamond | 357080 | [357080-perfect-diamond.json](./357080-perfect-diamond.json) |
 | Perfect Game | 411462 | [411462-perfect-game.json](./411462-perfect-game.json) |
 | Perfect Mah-jongg | 345905 | [345905-perfect-mah-jongg.json](./345905-perfect-mah-jongg.json) |
+| Perfect Pitch | 343092 | [343092-perfect-pitch.json](./343092-perfect-pitch.json) |
 | PerformVR | 412834 | [412834-performvr.json](./412834-performvr.json) |
 | PeriAreion | 35764 | [35764-periareion.json](./35764-periareion.json) |
 | Perimeter | 8964 | [8964-perimeter.json](./8964-perimeter.json) |
@@ -364,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinkidle | 364285 | [364285-plinkidle.json](./364285-plinkidle.json) |
 | Plok | 28389 | [28389-plok.json](./28389-plok.json) |
 | Plushes | 368838 | [368838-plushes.json](./368838-plushes.json) |
+| Pluto | 343101 | [343101-pluto.json](./343101-pluto.json) |
 | Pluto: Cave Mission Prologue | 364286 | [364286-pluto-cave-mission-prologue.json](./364286-pluto-cave-mission-prologue.json) |
 | Pocket Cars | 126605 | [126605-pocket-cars.json](./126605-pocket-cars.json) |
 | Pocket Dinos | 411465 | [411465-pocket-dinos.json](./411465-pocket-dinos.json) |
@@ -433,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
 | Poor Bird | 410763 | [410763-poor-bird.json](./410763-poor-bird.json) |
+| Pop Life | 343091 | [343091-pop-life.json](./343091-pop-life.json) |
 | Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | Pop, Fizz, Cheers! | 383822 | [383822-pop-fizz-cheers.json](./383822-pop-fizz-cheers.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
@@ -560,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Retrograde: The Becoming | 370498 | [370498-project-retrograde-the-becoming.json](./370498-project-retrograde-the-becoming.json) |
 | Project Rogue | 389284 | [389284-project-rogue.json](./389284-project-rogue.json) |
 | Project Tomorrow | 414215 | [414215-project-tomorrow.json](./414215-project-tomorrow.json) |
+| Project Verse | 343097 | [343097-project-verse.json](./343097-project-verse.json) |
 | Project W.E.T. | 410776 | [410776-project-w-e-t.json](./410776-project-w-e-t.json) |
 | Project Warfield Heroes | 356446 | [356446-project-warfield-heroes.json](./356446-project-warfield-heroes.json) |
 | Project XZ | 398251 | [398251-project-xz.json](./398251-project-xz.json) |
