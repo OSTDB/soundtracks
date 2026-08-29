@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
 | Penguin War | 358710 | [358710-penguin-war.json](./358710-penguin-war.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
+| Penny the Pumpkin: Director's Cut | 354270 | [354270-penny-the-pumpkin-directors-cut.json](./354270-penny-the-pumpkin-directors-cut.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
 | Peppa Pig: Jump & Giggle | 382610 | [382610-peppa-pig-jump-and-giggle.json](./382610-peppa-pig-jump-and-giggle.json) |
 | Perfect Diamond | 357080 | [357080-perfect-diamond.json](./357080-perfect-diamond.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Legends: Z-A | 288327 | [288327-pokemon-legends-z-a.json](./288327-pokemon-legends-z-a.json) |
 | Pokémon Quetzal | 357054 | [357054-pokemon-quetzal.json](./357054-pokemon-quetzal.json) |
 | Pokémon Relict | 382011 | [382011-pokemon-relict.json](./382011-pokemon-relict.json) |
+| Pokémon Ruby & Sapphire: Eon Ticket | 354266 | [354266-pokemon-ruby-and-sapphire-eon-ticket.json](./354266-pokemon-ruby-and-sapphire-eon-ticket.json) |
 | Pokémon Rumble | 4562 | [4562-pokemon-rumble.json](./4562-pokemon-rumble.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 1: The Teal Mask | 239931 | [239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json](./239931-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-1-the-teal-mask.json) |
 | Pokémon Snap | 2324 | [2324-pokemon-snap.json](./2324-pokemon-snap.json) |
