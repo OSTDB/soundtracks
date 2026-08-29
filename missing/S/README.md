@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon the Sorcerer Origins | 202463 | [202463-simon-the-sorcerer-origins.json](./202463-simon-the-sorcerer-origins.json) |
 | Simon the Sorcerer: 25th Anniversary Edition | 95120 | [95120-simon-the-sorcerer-25th-anniversary-edition.json](./95120-simon-the-sorcerer-25th-anniversary-edition.json) |
 | SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
+| Simpwalk | 350240 | [350240-simpwalk.json](./350240-simpwalk.json) |
 | Simsala Grimm: Het Dappere Snijdertje | 381443 | [381443-simsala-grimm-het-dappere-snijdertje.json](./381443-simsala-grimm-het-dappere-snijdertje.json) |
 | Simulation | 387193 | [387193-simulation.json](./387193-simulation.json) |
 | Simulators, Strategies and Pigeons | 359241 | [359241-simulators-strategies-and-pigeons.json](./359241-simulators-strategies-and-pigeons.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Affairs | 392034 | [392034-state-of-affairs.json](./392034-state-of-affairs.json) |
 | State of Decay 2: Juggernaut Edition | 131843 | [131843-state-of-decay-2-juggernaut-edition.json](./131843-state-of-decay-2-juggernaut-edition.json) |
 | Static Shift | 389864 | [389864-static-shift.json](./389864-static-shift.json) |
+| Station 0 | 350267 | [350267-station-0.json](./350267-station-0.json) |
 | Station to Station | 250155 | [250155-station-to-station.json](./250155-station-to-station.json) |
 | Stay | 83615 | [83615-stay.json](./83615-stay.json) |
 | Stay Alive for Me | 370500 | [370500-stay-alive-for-me.json](./370500-stay-alive-for-me.json) |
