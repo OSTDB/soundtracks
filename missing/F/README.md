@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fête De La Soupe | 408698 | [408698-fete-de-la-soupe.json](./408698-fete-de-la-soupe.json) |
 | Fibble | 20827 | [20827-fibble.json](./20827-fibble.json) |
 | Fields of Mistria | 226035 | [226035-fields-of-mistria.json](./226035-fields-of-mistria.json) |
+| Fiendish Quest | 349146 | [349146-fiendish-quest.json](./349146-fiendish-quest.json) |
 | FIFA 07 | 240290 | [240290-fifa-07.json](./240290-fifa-07.json) |
 | FIFA 18 | 240452 | [240452-fifa-18.json](./240452-fifa-18.json) |
 | FIFA International Soccer | 4345 | [4345-fifa-international-soccer.json](./4345-fifa-international-soccer.json) |
@@ -192,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
 | Firefly Haven | 356472 | [356472-firefly-haven.json](./356472-firefly-haven.json) |
 | Fireman Sam - Fire & Rescue | 89297 | [89297-fireman-sam-fire-and-rescue.json](./89297-fireman-sam-fire-and-rescue.json) |
+| Fireside Friends | 349140 | [349140-fireside-friends.json](./349140-fireside-friends.json) |
 | Fireside Journey: The Creative Path of Fireside Feelings | 389301 | [389301-fireside-journey-the-creative-path-of-fireside-feelings.json](./389301-fireside-journey-the-creative-path-of-fireside-feelings.json) |
 | Firestarters | 386589 | [386589-firestarters.json](./386589-firestarters.json) |
 | First Draft | 414989 | [414989-first-draft.json](./414989-first-draft.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish House Simulator | 398209 | [398209-fish-house-simulator.json](./398209-fish-house-simulator.json) |
 | Fish Out of Water! | 86863 | [86863-fish-out-of-water.json](./86863-fish-out-of-water.json) |
 | Fish'em All! | 20905 | [20905-fishem-all.json](./20905-fishem-all.json) |
+| Fish³ | 349136 | [349136-fish3.json](./349136-fish3.json) |
 | Fish3: First Catch | 373368 | [373368-fish3-first-catch.json](./373368-fish3-first-catch.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
@@ -407,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission | 1498 | [1498-front-mission.json](./1498-front-mission.json) |
 | Front Mission Evolved | 1508 | [1508-front-mission-evolved.json](./1508-front-mission-evolved.json) |
 | Front Office Football Seven | 35881 | [35881-front-office-football-seven.json](./35881-front-office-football-seven.json) |
+| Frontier Governor | 349127 | [349127-frontier-governor.json](./349127-frontier-governor.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion Package Final Season | 368872 | [368872-frontier-hunter-erzas-wheel-of-fortune-fashion-package-final-season.json](./368872-frontier-hunter-erzas-wheel-of-fortune-fashion-package-final-season.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Mother's Trial | 368871 | [368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json](./368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
