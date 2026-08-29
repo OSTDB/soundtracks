@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary Goat RPG! Legend of the Jewel Seeds | 383215 | [383215-gary-goat-rpg-legend-of-the-jewel-seeds.json](./383215-gary-goat-rpg-legend-of-the-jewel-seeds.json) |
 | Gates of Eden | 358719 | [358719-gates-of-eden.json](./358719-gates-of-eden.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
+| Gattai TD | 347536 | [347536-gattai-td.json](./347536-gattai-td.json) |
 | GBKiss Mini Games | 366690 | [366690-gbkiss-mini-games.json](./366690-gbkiss-mini-games.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V: Premium Online Edition & Whale Shark Card Bundle | 93901 | [93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json](./93901-grand-theft-auto-v-premium-online-edition-and-whale-shark-card-bundle.json) |
 | Grand Theft Auto: London 1969 | 8235 | [8235-grand-theft-auto-london-1969.json](./8235-grand-theft-auto-london-1969.json) |
 | Grand Theft Auto: San Andreas - The Nextgen Edition | 392022 | [392022-grand-theft-auto-san-andreas-the-nextgen-edition.json](./392022-grand-theft-auto-san-andreas-the-nextgen-edition.json) |
+| Grand Theft Auto: San Andreas Stories Los Santos | 347547 | [347547-grand-theft-auto-san-andreas-stories-los-santos.json](./347547-grand-theft-auto-san-andreas-stories-los-santos.json) |
 | Grand Theft Auto: Vice City Stories 20th Anniversary Edition | 392046 | [392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json](./392046-grand-theft-auto-vice-city-stories-20th-anniversary-edition.json) |
 | Grandma, Is That You? | 360426 | [360426-grandma-is-that-you.json](./360426-grandma-is-that-you.json) |
 | Grapples Galore | 235732 | [235732-grapples-galore.json](./235732-grapples-galore.json) |
@@ -259,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper: Game of Crone | 155076 | [155076-graveyard-keeper-game-of-crone.json](./155076-graveyard-keeper-game-of-crone.json) |
 | Gravhounds | 414958 | [414958-gravhounds.json](./414958-gravhounds.json) |
 | Gravitar: Recharged | 199520 | [199520-gravitar-recharged.json](./199520-gravitar-recharged.json) |
+| Gravitee | 347553 | [347553-gravitee.json](./347553-gravitee.json) |
 | Gravitten | 379775 | [379775-gravitten.json](./379775-gravitten.json) |
 | GravityMan | 366049 | [366049-gravityman.json](./366049-gravityman.json) |
 | Gravosphere | 368334 | [368334-gravosphere.json](./368334-gravosphere.json) |
