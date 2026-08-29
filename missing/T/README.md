@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.D.Z. 4: Chapter 1 - Arrival | 365511 | [365511-t-d-z-4-chapter-1-arrival.json](./365511-t-d-z-4-chapter-1-arrival.json) |
 | T7's Basics in Educational | 411476 | [411476-t7s-basics-in-educational.json](./411476-t7s-basics-in-educational.json) |
 | Table 9 | 405408 | [405408-table-9.json](./405408-table-9.json) |
+| Table for None | 355921 | [355921-table-for-none.json](./355921-table-for-none.json) |
 | Table Tactics | 359270 | [359270-table-tactics.json](./359270-table-tactics.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doors to Netherwhere | 379733 | [379733-the-doors-to-netherwhere.json](./379733-the-doors-to-netherwhere.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
 | The Dreaded Hut | 376324 | [376324-the-dreaded-hut.json](./376324-the-dreaded-hut.json) |
+| The Dream's Exit | 355900 | [355900-the-dreams-exit.json](./355900-the-dreams-exit.json) |
 | The Dreamcatcher | 359260 | [359260-the-dreamcatcher.json](./359260-the-dreamcatcher.json) |
 | The Dunkers | 395439 | [395439-the-dunkers.json](./395439-the-dunkers.json) |
 | The E-Collector | 359247 | [359247-the-e-collector.json](./359247-the-e-collector.json) |
@@ -442,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Shaved Ice Shop | 371083 | [371083-the-shaved-ice-shop.json](./371083-the-shaved-ice-shop.json) |
 | The Shovelling Hour | 385464 | [385464-the-shovelling-hour.json](./385464-the-shovelling-hour.json) |
+| The Showdown: Gorilla vs 100 | 355904 | [355904-the-showdown-gorilla-vs-100.json](./355904-the-showdown-gorilla-vs-100.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
 | The Sims 2: FreeTime | 5537 | [5537-the-sims-2-freetime.json](./5537-the-sims-2-freetime.json) |
 | The Sims 2: H&M Fashion Stuff | 13132 | [13132-the-sims-2-h-and-m-fashion-stuff.json](./13132-the-sims-2-h-and-m-fashion-stuff.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: Classic Edition | 10745 | [10745-ticket-to-ride-classic-edition.json](./10745-ticket-to-ride-classic-edition.json) |
 | Ticking Together | 374451 | [374451-ticking-together.json](./374451-ticking-together.json) |
 | Tickle Zooz | 89471 | [89471-tickle-zooz.json](./89471-tickle-zooz.json) |
+| TicTacBlow | 355898 | [355898-tictacblow.json](./355898-tictacblow.json) |
 | Tidy Up Together | 410788 | [410788-tidy-up-together.json](./410788-tidy-up-together.json) |
 | Tiger Knight: Empire War | 27536 | [27536-tiger-knight-empire-war.json](./27536-tiger-knight-empire-war.json) |
 | Tiger Simulator | 380874 | [380874-tiger-simulator.json](./380874-tiger-simulator.json) |
@@ -650,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Underground 2 Remix | 22311 | [22311-tony-hawks-underground-2-remix.json](./22311-tony-hawks-underground-2-remix.json) |
 | Too Many Balls | 404117 | [404117-too-many-balls.json](./404117-too-many-balls.json) |
 | Too Many Captains | 396081 | [396081-too-many-captains.json](./396081-too-many-captains.json) |
+| Too Many Gamedevs And Only One Game: A Continue-the-Bitsy Minijam | 355952 | [355952-too-many-gamedevs-and-only-one-game-a-continue-the-bitsy-minijam.json](./355952-too-many-gamedevs-and-only-one-game-a-continue-the-bitsy-minijam.json) |
 | Too Well Hidden | 396832 | [396832-too-well-hidden.json](./396832-too-well-hidden.json) |
 | Toon Ocean VR | 31524 | [31524-toon-ocean-vr.json](./31524-toon-ocean-vr.json) |
 | Top Drifters | 389310 | [389310-top-drifters.json](./389310-top-drifters.json) |
@@ -783,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
 | Triz \| Triangular Dreaming | 390394 | [390394-triz-triangular-dreaming.json](./390394-triz-triangular-dreaming.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
+| Trolling Football | 355924 | [355924-trolling-football.json](./355924-trolling-football.json) |
 | Trombone Champ Unflattened: Disney Movie Magic Vol. 1 | 413539 | [413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json](./413539-trombone-champ-unflattened-disney-movie-magic-vol-1.json) |
 | Trophy Phishing | 371730 | [371730-trophy-phishing.json](./371730-trophy-phishing.json) |
 | Tropico 4 | 2595 | [2595-tropico-4.json](./2595-tropico-4.json) |
