@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckWrecking Pirates | 379236 | [379236-deckwrecking-pirates.json](./379236-deckwrecking-pirates.json) |
 | Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Deco Online Origins | 384363 | [384363-deco-online-origins.json](./384363-deco-online-origins.json) |
+| Decorative Plants | 356448 | [356448-decorative-plants.json](./356448-decorative-plants.json) |
 | Decypher: Chapter 1 - Dream Intruder | 387909 | [387909-decypher-chapter-1-dream-intruder.json](./387909-decypher-chapter-1-dream-intruder.json) |
 | Deep Black | 1056 | [1056-deep-black.json](./1056-deep-black.json) |
 | Deep Dive | 380249 | [380249-deep-dive.json](./380249-deep-dive.json) |
@@ -291,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Out | 375011 | [375011-dig-out.json](./375011-dig-out.json) |
 | Dig Out of Prison | 409482 | [409482-dig-out-of-prison.json](./409482-dig-out-of-prison.json) |
 | Digger - Classic arcade game | 89446 | [89446-digger-classic-arcade-game.json](./89446-digger-classic-arcade-game.json) |
+| Digging Adventure Simulator 2025 | 356499 | [356499-digging-adventure-simulator-2025.json](./356499-digging-adventure-simulator-2025.json) |
 | Digimon Adventure | 64699 | [64699-digimon-adventure.json](./64699-digimon-adventure.json) |
 | Digimon Story: Time Stranger | 331188 | [331188-digimon-story-time-stranger.json](./331188-digimon-story-time-stranger.json) |
 | Digimon Story: Time Stranger - Additional Digimon & Episode Pack 3: Anti-ParadoX | 390929 | [390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json](./390929-digimon-story-time-stranger-additional-digimon-and-episode-pack-3-anti-paradox.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Behind You | 359232 | [359232-dont-look-behind-you.json](./359232-dont-look-behind-you.json) |
 | Don't Lose Aggro | 358694 | [358694-dont-lose-aggro.json](./358694-dont-lose-aggro.json) |
 | Don't Panik | 380278 | [380278-dont-panik.json](./380278-dont-panik.json) |
+| Don't Say Yes | 356482 | [356482-dont-say-yes.json](./356482-dont-say-yes.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
 | Don't Stay Awake | 382622 | [382622-dont-stay-awake.json](./382622-dont-stay-awake.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustland Delivery: Wildmax Edition | 386565 | [386565-dustland-delivery-wildmax-edition.json](./386565-dustland-delivery-wildmax-edition.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
+| Dusttale: Non est Deus | 356456 | [356456-dusttale-non-est-deus.json](./356456-dusttale-non-est-deus.json) |
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
 | Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
