@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D | 379243 | [379243-d.json](./379243-d.json) |
 | D-Fencer Vs The Orb | 395427 | [395427-d-fencer-vs-the-orb.json](./395427-d-fencer-vs-the-orb.json) |
 | D.C. II P.S.: Da Capo II Plus Situation | 369405 | [369405-d-c-ii-p-s-da-capo-ii-plus-situation.json](./369405-d-c-ii-p-s-da-capo-ii-plus-situation.json) |
+| D.O.T | 343104 | [343104-d-o-t.json](./343104-d-o-t.json) |
 | Dacha | 366055 | [366055-dacha.json](./366055-dacha.json) |
 | Daddy | 102201 | [102201-daddy.json](./102201-daddy.json) |
 | Daedalic Multiplayer Bundle | 366657 | [366657-daedalic-multiplayer-bundle.json](./366657-daedalic-multiplayer-bundle.json) |
