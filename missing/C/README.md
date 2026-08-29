@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Tiny Home | 376351 | [376351-cozy-tiny-home.json](./376351-cozy-tiny-home.json) |
 | Cozy Valley Life | 401389 | [401389-cozy-valley-life.json](./401389-cozy-valley-life.json) |
 | CQ: Calling Any Station | 414955 | [414955-cq-calling-any-station.json](./414955-cq-calling-any-station.json) |
+| Cracked | 358688 | [358688-cracked.json](./358688-cracked.json) |
 | Cradle of Rome | 15003 | [15003-cradle-of-rome.json](./15003-cradle-of-rome.json) |
 | Cranston Manor | 7656 | [7656-cranston-manor.json](./7656-cranston-manor.json) |
 | Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
@@ -495,6 +496,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysalis | 386029 | [386029-crysalis.json](./386029-crysalis.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
+| CSD 1/2 Forever Bundle | 358675 | [358675-csd-1-2-forever-bundle.json](./358675-csd-1-2-forever-bundle.json) |
+| CSD 3 Forever Bundle | 358676 | [358676-csd-3-forever-bundle.json](./358676-csd-3-forever-bundle.json) |
 | CSI: Crime Scene Investigation | 5795 | [5795-csi-crime-scene-investigation.json](./5795-csi-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - Dark Motives | 72166 | [72166-csi-crime-scene-investigation-dark-motives.json](./72166-csi-crime-scene-investigation-dark-motives.json) |
 | CTRacer | 364283 | [364283-ctracer.json](./364283-ctracer.json) |
