@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Peril | 11400 | [11400-depths-of-peril.json](./11400-depths-of-peril.json) |
 | Descent | 1872 | [1872-descent.json](./1872-descent.json) |
 | Descent: Freespace - The Great War | 669 | [669-descent-freespace-the-great-war.json](./669-descent-freespace-the-great-war.json) |
+| Descentarium | 354245 | [354245-descentarium.json](./354245-descentarium.json) |
 | Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Combat | 23773 | [23773-desert-combat.json](./23773-desert-combat.json) |
 | Desert Picaroon | 411425 | [411425-desert-picaroon.json](./411425-desert-picaroon.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Chronicle | 360428 | [360428-dragon-chronicle.json](./360428-dragon-chronicle.json) |
 | Dragon Cliff | 76408 | [76408-dragon-cliff.json](./76408-dragon-cliff.json) |
 | Dragon Climax | 76856 | [76856-dragon-climax.json](./76856-dragon-climax.json) |
+| Dragon Conqueror | 354251 | [354251-dragon-conqueror.json](./354251-dragon-conqueror.json) |
 | Dragon Defense | 380287 | [380287-dragon-defense.json](./380287-dragon-defense.json) |
 | Dragon Dinner | 381472 | [381472-dragon-dinner.json](./381472-dragon-dinner.json) |
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
