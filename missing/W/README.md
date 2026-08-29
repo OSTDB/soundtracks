@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace and Gromit in Project Zoo | 2728 | [2728-wallace-and-gromit-in-project-zoo.json](./2728-wallace-and-gromit-in-project-zoo.json) |
 | Wallflower | 398886 | [398886-wallflower.json](./398886-wallflower.json) |
 | Walt Disney's The Jungle Book Rhythm N' Groove | 43375 | [43375-walt-disneys-the-jungle-book-rhythm-n-groove.json](./43375-walt-disneys-the-jungle-book-rhythm-n-groove.json) |
+| Wandering Souls | 349141 | [349141-wandering-souls.json](./349141-wandering-souls.json) |
 | Wanderstate | 354256 | [354256-wanderstate.json](./354256-wanderstate.json) |
 | Wàng Wénài Shēng Yì | 372321 | [372321-wang-wenai-sheng-yi.json](./372321-wang-wenai-sheng-yi.json) |
 | Wànjié Bù Miè | 407977 | [407977-wanjie-bu-mie.json](./407977-wanjie-bu-mie.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's That Flying?! | 15055 | [15055-whos-that-flying.json](./15055-whos-that-flying.json) |
 | Whodunit Sudoku | 414249 | [414249-whodunit-sudoku.json](./414249-whodunit-sudoku.json) |
 | Whys & Wonders Secrets of the Universe | 409499 | [409499-whys-and-wonders-secrets-of-the-universe.json](./409499-whys-and-wonders-secrets-of-the-universe.json) |
+| Widget Warriors | 349159 | [349159-widget-warriors.json](./349159-widget-warriors.json) |
 | Wii Fit Plus | 2187 | [2187-wii-fit-plus.json](./2187-wii-fit-plus.json) |
 | Wikigacha | 394031 | [394031-wikigacha.json](./394031-wikigacha.json) |
 | Wild Animal Sports Day | 86346 | [86346-wild-animal-sports-day.json](./86346-wild-animal-sports-day.json) |
@@ -256,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Midnight | 275177 | [275177-world-of-warcraft-midnight.json](./275177-world-of-warcraft-midnight.json) |
 | World of Warcraft: The War Within | 275176 | [275176-world-of-warcraft-the-war-within.json](./275176-world-of-warcraft-the-war-within.json) |
 | World of Warships X Azur Lane: Quest for Al Avrora | 400105 | [400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json](./400105-world-of-warships-x-azur-lane-quest-for-al-avrora.json) |
+| World Pro Tennis '98 | 349168 | [349168-world-pro-tennis-98.json](./349168-world-pro-tennis-98.json) |
 | World Ship Simulator | 34401 | [34401-world-ship-simulator.json](./34401-world-ship-simulator.json) |
 | World War II: Panzer Claws | 16706 | [16706-world-war-ii-panzer-claws.json](./16706-world-war-ii-panzer-claws.json) |
 | World War Z x The Walking Dead | 387889 | [387889-world-war-z-x-the-walking-dead.json](./387889-world-war-z-x-the-walking-dead.json) |
