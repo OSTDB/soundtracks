@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Adventures | 14885 | [14885-bookworm-adventures.json](./14885-bookworm-adventures.json) |
 | Boot Hill Bounties | 76947 | [76947-boot-hill-bounties.json](./76947-boot-hill-bounties.json) |
 | Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
+| Bop It! | 352569 | [352569-bop-it.json](./352569-bop-it.json) |
 | Bopl Battle | 244167 | [244167-bopl-battle.json](./244167-bopl-battle.json) |
 | Bor | 87631 | [87631-bor.json](./87631-bor.json) |
 | Borderlands 4: Deluxe Edition | 358672 | [358672-borderlands-4-deluxe-edition.json](./358672-borderlands-4-deluxe-edition.json) |
