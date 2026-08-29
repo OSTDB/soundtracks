@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Bridge | 369415 | [369415-white-bridge.json](./369415-white-bridge.json) |
 | White Day: A Labyrinth Named School | 26914 | [26914-white-day-a-labyrinth-named-school.json](./26914-white-day-a-labyrinth-named-school.json) |
 | White Line Fever | 387913 | [387913-white-line-fever.json](./387913-white-line-fever.json) |
+| White Rats | 358721 | [358721-white-rats.json](./358721-white-rats.json) |
 | Who Do Voodoo | 374469 | [374469-who-do-voodoo.json](./374469-who-do-voodoo.json) |
 | Who is Here? | 394736 | [394736-who-is-here.json](./394736-who-is-here.json) |
 | Who the Hell Opened the Portal?! | 383837 | [383837-who-the-hell-opened-the-portal.json](./383837-who-the-hell-opened-the-portal.json) |
