@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave | 2471 | [2471-dangerous-dave.json](./2471-dangerous-dave.json) |
 | Dangerous Mountain Together | 374479 | [374479-dangerous-mountain-together.json](./374479-dangerous-mountain-together.json) |
 | Dangidice | 396035 | [396035-dangidice.json](./396035-dangidice.json) |
+| Daniel Linssen's Typing Challenge | 353708 | [353708-daniel-linssens-typing-challenge.json](./353708-daniel-linssens-typing-challenge.json) |
 | Danmo Three Kingdoms: Battle of Wits | 374481 | [374481-danmo-three-kingdoms-battle-of-wits.json](./374481-danmo-three-kingdoms-battle-of-wits.json) |
 | Dare to Dream 2 | 397567 | [397567-dare-to-dream-2.json](./397567-dare-to-dream-2.json) |
 | Dare to Dream 3 | 397568 | [397568-dare-to-dream-3.json](./397568-dare-to-dream-3.json) |
@@ -401,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Insanity Club! | 383817 | [383817-doki-doki-insanity-club.json](./383817-doki-doki-insanity-club.json) |
 | Doki-doki Majo Shinpan! | 47970 | [47970-doki-doki-majo-shinpan.json](./47970-doki-doki-majo-shinpan.json) |
 | DokiDoki Shutter Chance: Koi no Puzzle wo Kumitatete | 396773 | [396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json](./396773-dokidoki-shutter-chance-koi-no-puzzle-wo-kumitatete.json) |
+| Dokkalfar: The Ballads of Vivi the Dark Elf | 353674 | [353674-dokkalfar-the-ballads-of-vivi-the-dark-elf.json](./353674-dokkalfar-the-ballads-of-vivi-the-dark-elf.json) |
 | Doljnik | 359279 | [359279-doljnik.json](./359279-doljnik.json) |
 | Doll Is Back | 397555 | [397555-doll-is-back.json](./397555-doll-is-back.json) |
 | Domain of Hallucination | 371715 | [371715-domain-of-hallucination.json](./371715-domain-of-hallucination.json) |
@@ -552,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadveil | 377449 | [377449-dreadveil.json](./377449-dreadveil.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Chaser | 380288 | [380288-dream-chaser.json](./380288-dream-chaser.json) |
+| Dream Fallen | 353662 | [353662-dream-fallen.json](./353662-dream-fallen.json) |
 | Dream Forest | 358698 | [358698-dream-forest.json](./358698-dream-forest.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
@@ -587,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver | 22032 | [22032-driver.json](./22032-driver.json) |
 | Driver: Parallel Lines | 4824 | [4824-driver-parallel-lines.json](./4824-driver-parallel-lines.json) |
 | Driving Test Simulator | 398874 | [398874-driving-test-simulator.json](./398874-driving-test-simulator.json) |
+| Drizzle | 353678 | [353678-drizzle.json](./353678-drizzle.json) |
 | Drone District | 357084 | [357084-drone-district.json](./357084-drone-district.json) |
 | Drone Wars | 380292 | [380292-drone-wars.json](./380292-drone-wars.json) |
 | Drones Drop Bombs | 388634 | [388634-drones-drop-bombs.json](./388634-drones-drop-bombs.json) |
@@ -642,6 +646,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
 | Dungeonery | 400137 | [400137-dungeonery.json](./400137-dungeonery.json) |
 | Dungeons & Donuts | 412163 | [412163-dungeons-and-donuts.json](./412163-dungeons-and-donuts.json) |
+| Dungeons & Dragons Online: Dragonblood Prophecy | 353671 | [353671-dungeons-and-dragons-online-dragonblood-prophecy.json](./353671-dungeons-and-dragons-online-dragonblood-prophecy.json) |
+| Dungeons & Dragons Online: Heart of Madness | 353698 | [353698-dungeons-and-dragons-online-heart-of-madness.json](./353698-dungeons-and-dragons-online-heart-of-madness.json) |
+| Dungeons & Dragons Online: Hunter and Hunted | 353663 | [353663-dungeons-and-dragons-online-hunter-and-hunted.json](./353663-dungeons-and-dragons-online-hunter-and-hunted.json) |
+| Dungeons & Dragons Online: Ruins of Threnal | 353670 | [353670-dungeons-and-dragons-online-ruins-of-threnal.json](./353670-dungeons-and-dragons-online-ruins-of-threnal.json) |
+| Dungeons & Dragons Online: Sentinels of Stormreach | 353664 | [353664-dungeons-and-dragons-online-sentinels-of-stormreach.json](./353664-dungeons-and-dragons-online-sentinels-of-stormreach.json) |
+| Dungeons & Dragons Online: Sorrowdusk Isle | 353660 | [353660-dungeons-and-dragons-online-sorrowdusk-isle.json](./353660-dungeons-and-dragons-online-sorrowdusk-isle.json) |
+| Dungeons & Dragons Online: The High Road of Shadows | 353697 | [353697-dungeons-and-dragons-online-the-high-road-of-shadows.json](./353697-dungeons-and-dragons-online-the-high-road-of-shadows.json) |
+| Dungeons & Dragons Online: The Necropolis, Part 2 | 353669 | [353669-dungeons-and-dragons-online-the-necropolis-part-2.json](./353669-dungeons-and-dragons-online-the-necropolis-part-2.json) |
+| Dungeons & Dragons Online: The Path of Inspiration | 353675 | [353675-dungeons-and-dragons-online-the-path-of-inspiration.json](./353675-dungeons-and-dragons-online-the-path-of-inspiration.json) |
+| Dungeons & Dragons Online: The Restless Isles | 353673 | [353673-dungeons-and-dragons-online-the-restless-isles.json](./353673-dungeons-and-dragons-online-the-restless-isles.json) |
 | Dungeons & Dragons: Chronicles of Mystara | 21567 | [21567-dungeons-and-dragons-chronicles-of-mystara.json](./21567-dungeons-and-dragons-chronicles-of-mystara.json) |
 | Dungeons & Dragons: Dragonshard | 357070 | [357070-dungeons-and-dragons-dragonshard.json](./357070-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Robots | 18374 | [18374-dungeons-and-robots.json](./18374-dungeons-and-robots.json) |
