@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
+| Castlevania Harmony of Despair Unity | 354271 | [354271-castlevania-harmony-of-despair-unity.json](./354271-castlevania-harmony-of-despair-unity.json) |
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
@@ -164,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changgwi | 364928 | [364928-changgwi.json](./364928-changgwi.json) |
 | Chaos Code Nemesis Experiment | 402769 | [402769-chaos-code-nemesis-experiment.json](./402769-chaos-code-nemesis-experiment.json) |
 | Chaos Sector | 110150 | [110150-chaos-sector.json](./110150-chaos-sector.json) |
+| Chaos the Devil | 354255 | [354255-chaos-the-devil.json](./354255-chaos-the-devil.json) |
 | ChargeShot | 34454 | [34454-chargeshot.json](./34454-chargeshot.json) |
 | Chark | 369957 | [369957-chark.json](./369957-chark.json) |
 | Charlatan | 400770 | [400770-charlatan.json](./400770-charlatan.json) |
@@ -231,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuits | 395456 | [395456-circuits.json](./395456-circuits.json) |
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
+| Cite Alexandrie | 354276 | [354276-cite-alexandrie.json](./354276-cite-alexandrie.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
 | Cities: Skylines - Stadia Edition | 356489 | [356489-cities-skylines-stadia-edition.json](./356489-cities-skylines-stadia-edition.json) |
 | Cities: VR | 185895 | [185895-cities-vr.json](./185895-cities-vr.json) |
@@ -297,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Push RPG: Cat Meme DLC | 371103 | [371103-coin-push-rpg-cat-meme-dlc.json](./371103-coin-push-rpg-cat-meme-dlc.json) |
 | CoinPit | 389876 | [389876-coinpit.json](./389876-coinpit.json) |
 | Cold Meat | 375636 | [375636-cold-meat.json](./375636-cold-meat.json) |
+| Cold VR: Sub-Zero Edition | 354278 | [354278-cold-vr-sub-zero-edition.json](./354278-cold-vr-sub-zero-edition.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Colin Quest | 359228 | [359228-colin-quest.json](./359228-colin-quest.json) |
 | CollapsingWorldGuildmaster | 359227 | [359227-collapsingworldguildmaster.json](./359227-collapsingworldguildmaster.json) |
