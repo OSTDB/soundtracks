@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo World Cup | 10633 | [10633-nintendo-world-cup.json](./10633-nintendo-world-cup.json) |
 | Niph | 391467 | [391467-niph.json](./391467-niph.json) |
 | Nira: Across Skies | 384938 | [384938-nira-across-skies.json](./384938-nira-across-skies.json) |
+| Niskala: Sacred Knowledge of Leyak | 348107 | [348107-niskala-sacred-knowledge-of-leyak.json](./348107-niskala-sacred-knowledge-of-leyak.json) |
 | Nitrobike | 5078 | [5078-nitrobike.json](./5078-nitrobike.json) |
 | Nitroglycerine! | 373362 | [373362-nitroglycerine.json](./373362-nitroglycerine.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
