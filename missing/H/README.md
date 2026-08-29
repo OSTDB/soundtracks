@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Elarin | 382022 | [382022-hentai-elarin.json](./382022-hentai-elarin.json) |
 | Hentai Gallery: Sweet Dreams | 379770 | [379770-hentai-gallery-sweet-dreams.json](./379770-hentai-gallery-sweet-dreams.json) |
 | Hentai Games Collection Vol. 1 | 350284 | [350284-hentai-games-collection-vol-1.json](./350284-hentai-games-collection-vol-1.json) |
+| Hentai Girls Zombie Defense | 345337 | [345337-hentai-girls-zombie-defense.json](./345337-hentai-girls-zombie-defense.json) |
 | Hentai Girls: Charming Chef | 350845 | [350845-hentai-girls-charming-chef.json](./350845-hentai-girls-charming-chef.json) |
 | Hentai House: Lost Rooms | 392615 | [392615-hentai-house-lost-rooms.json](./392615-hentai-house-lost-rooms.json) |
 | Hentai Idol | 109895 | [109895-hentai-idol.json](./109895-hentai-idol.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden Expedition: The Lost Paradise | 360389 | [360389-hidden-expedition-the-lost-paradise.json](./360389-hidden-expedition-the-lost-paradise.json) |
 | Hidden Object Bundle 5 in 1 | 35864 | [35864-hidden-object-bundle-5-in-1.json](./35864-hidden-object-bundle-5-in-1.json) |
+| Hidden Post-Apocalyptic 3 Top-Down 3D | 345305 | [345305-hidden-post-apocalyptic-3-top-down-3d.json](./345305-hidden-post-apocalyptic-3-top-down-3d.json) |
 | Hidden Sin 8 | 367806 | [367806-hidden-sin-8.json](./367806-hidden-sin-8.json) |
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | Hide From Papaku | 350256 | [350256-hide-from-papaku.json](./350256-hide-from-papaku.json) |
@@ -230,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
 | Hockey Pong | 384382 | [384382-hockey-pong.json](./384382-hockey-pong.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
+| Hole Digging Simulator | 345300 | [345300-hole-digging-simulator.json](./345300-hole-digging-simulator.json) |
 | Hole io: Doomsday Edition | 350853 | [350853-hole-io-doomsday-edition.json](./350853-hole-io-doomsday-edition.json) |
 | Holface | 397574 | [397574-holface.json](./397574-holface.json) |
 | Hollow | 29525 | [29525-hollow.json](./29525-hollow.json) |
@@ -280,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Hop! | 412826 | [412826-horror-hop.json](./412826-horror-hop.json) |
 | Horror House | 346977 | [346977-horror-house.json](./346977-horror-house.json) |
 | Horror Prison: Escape | 413559 | [413559-horror-prison-escape.json](./413559-horror-prison-escape.json) |
+| Horrorillo Brainrotillo | 345325 | [345325-horrorillo-brainrotillo.json](./345325-horrorillo-brainrotillo.json) |
 | Horse Paradise: My Dream Ranch | 76693 | [76693-horse-paradise-my-dream-ranch.json](./76693-horse-paradise-my-dream-ranch.json) |
 | Horse Quest | 89359 | [89359-horse-quest.json](./89359-horse-quest.json) |
 | Horse Spirit Valley 2 | 413558 | [413558-horse-spirit-valley-2.json](./413558-horse-spirit-valley-2.json) |
@@ -311,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrror | 372852 | [372852-hrror.json](./372852-hrror.json) |
 | Huànxiǎng Chuánshuō | 396831 | [396831-huanxiang-chuanshuo.json](./396831-huanxiang-chuanshuo.json) |
 | Hudson's Adventure Island | 4594 | [4594-hudsons-adventure-island.json](./4594-hudsons-adventure-island.json) |
+| Hugo: Kampen om Krystalkortet | 345309 | [345309-hugo-kampen-om-krystalkortet.json](./345309-hugo-kampen-om-krystalkortet.json) |
 | Hula Hula Wee | 372290 | [372290-hula-hula-wee.json](./372290-hula-hula-wee.json) |
 | Hulkamania Wrestling | 396804 | [396804-hulkamania-wrestling.json](./396804-hulkamania-wrestling.json) |
 | Human Bowling: King Pin | 392617 | [392617-human-bowling-king-pin.json](./392617-human-bowling-king-pin.json) |
