@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pet | 368304 | [368304-happy-pet.json](./368304-happy-pet.json) |
 | Happy Piggy | 370506 | [370506-happy-piggy.json](./370506-happy-piggy.json) |
 | Happy Surprise Garden | 346436 | [346436-happy-surprise-garden.json](./346436-happy-surprise-garden.json) |
+| Happy Treasure King | 344194 | [344194-happy-treasure-king.json](./344194-happy-treasure-king.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
