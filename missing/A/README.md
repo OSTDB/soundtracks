@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
 | A Girl Adrift: Reunited Horizon | 400141 | [400141-a-girl-adrift-reunited-horizon.json](./400141-a-girl-adrift-reunited-horizon.json) |
 | A Highland Song | 191622 | [191622-a-highland-song.json](./191622-a-highland-song.json) |
+| A Home Below | 354882 | [354882-a-home-below.json](./354882-a-home-below.json) |
 | A House of Many Doors | 18302 | [18302-a-house-of-many-doors.json](./18302-a-house-of-many-doors.json) |
 | A Hummingbird Amongst the Odd Star | 412182 | [412182-a-hummingbird-amongst-the-odd-star.json](./412182-a-hummingbird-amongst-the-odd-star.json) |
 | A Little Horror Story | 409474 | [409474-a-little-horror-story.json](./409474-a-little-horror-story.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academic Quest: Legend I | 413550 | [413550-academic-quest-legend-i.json](./413550-academic-quest-legend-i.json) |
 | Academy of Champions: Soccer | 4657 | [4657-academy-of-champions-soccer.json](./4657-academy-of-champions-soccer.json) |
 | Accelerate | 383825 | [383825-accelerate.json](./383825-accelerate.json) |
+| Accordion Solitaire | 354847 | [354847-accordion-solitaire.json](./354847-accordion-solitaire.json) |
 | Accursed | 383828 | [383828-accursed.json](./383828-accursed.json) |
 | Accursed: Emma's Path | 379198 | [379198-accursed-emmas-path.json](./379198-accursed-emmas-path.json) |
 | Ace Combat 6: Recompiled | 412822 | [412822-ace-combat-6-recompiled.json](./412822-ace-combat-6-recompiled.json) |
@@ -280,6 +282,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Raccoon | 412118 | [412118-angry-raccoon.json](./412118-angry-raccoon.json) |
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
 | Animal Coloring Books for Kids & Toddlers: Dinosaurs | 394722 | [394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json](./394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json) |
+| Animal Crossing-e: D04 - Design Card: Pikmin Pattern | 354824 | [354824-animal-crossing-e-d04-design-card-pikmin-pattern.json](./354824-animal-crossing-e-d04-design-card-pikmin-pattern.json) |
+| Animal Crossing-e: D05 - Design Card: Star Fox Emblem | 354826 | [354826-animal-crossing-e-d05-design-card-star-fox-emblem.json](./354826-animal-crossing-e-d05-design-card-star-fox-emblem.json) |
+| Animal Crossing-e: D06 - Design Card: K.K. Tour Tee | 354827 | [354827-animal-crossing-e-d06-design-card-k-k-tour-tee.json](./354827-animal-crossing-e-d06-design-card-k-k-tour-tee.json) |
+| Animal Crossing-e: D07 - Design Card: Hero's Tunic | 354828 | [354828-animal-crossing-e-d07-design-card-heros-tunic.json](./354828-animal-crossing-e-d07-design-card-heros-tunic.json) |
+| Animal Crossing-e: D08 - Design Card: Triforce Tile | 354829 | [354829-animal-crossing-e-d08-design-card-triforce-tile.json](./354829-animal-crossing-e-d08-design-card-triforce-tile.json) |
+| Animal Crossing-e: D09 - Design Card: Kirby Wallpaper | 354830 | [354830-animal-crossing-e-d09-design-card-kirby-wallpaper.json](./354830-animal-crossing-e-d09-design-card-kirby-wallpaper.json) |
+| Animal Crossing-e: D10 - Design Card: Resetti's Wrath | 354831 | [354831-animal-crossing-e-d10-design-card-resettis-wrath.json](./354831-animal-crossing-e-d10-design-card-resettis-wrath.json) |
+| Animal Crossing-e: D11 - Design Card: Yoshi's Egg | 354832 | [354832-animal-crossing-e-d11-design-card-yoshis-egg.json](./354832-animal-crossing-e-d11-design-card-yoshis-egg.json) |
+| Animal Crossing-e: D12 - Design Card: Poké Ball | 354833 | [354833-animal-crossing-e-d12-design-card-poke-ball.json](./354833-animal-crossing-e-d12-design-card-poke-ball.json) |
+| Animal Crossing-e: D13 - Design Card: Li'l Miser Shirt | 354834 | [354834-animal-crossing-e-d13-design-card-lil-miser-shirt.json](./354834-animal-crossing-e-d13-design-card-lil-miser-shirt.json) |
+| Animal Crossing-e: D14 - Design Card: Kapp'n's Kisser | 354835 | [354835-animal-crossing-e-d14-design-card-kappns-kisser.json](./354835-animal-crossing-e-d14-design-card-kappns-kisser.json) |
 | Animal Crossing: City Folk | 2688 | [2688-animal-crossing-city-folk.json](./2688-animal-crossing-city-folk.json) |
 | Animal Fight Club | 116325 | [116325-animal-fight-club.json](./116325-animal-fight-club.json) |
 | Animals in the Forest | 366661 | [366661-animals-in-the-forest.json](./366661-animals-in-the-forest.json) |
@@ -376,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core | 4144 | [4144-armored-core.json](./4144-armored-core.json) |
 | Armored Fist 3 | 14962 | [14962-armored-fist-3.json](./14962-armored-fist-3.json) |
 | Armored Gear | 29761 | [29761-armored-gear.json](./29761-armored-gear.json) |
+| ArmourX | 354859 | [354859-armourx.json](./354859-armourx.json) |
 | Army Men: Sarge's War | 2702 | [2702-army-men-sarges-war.json](./2702-army-men-sarges-war.json) |
 | Army Men: Toys in Space | 27454 | [27454-army-men-toys-in-space.json](./27454-army-men-toys-in-space.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim | 18208 | [18208-army-of-tentacles-not-a-cthulhu-dating-sim.json](./18208-army-of-tentacles-not-a-cthulhu-dating-sim.json) |
