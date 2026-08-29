@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Olympic Games | 2706 | [2706-mario-and-sonic-at-the-olympic-games.json](./2706-mario-and-sonic-at-the-olympic-games.json) |
 | Mario & Sonic at the Olympic Games Tokyo 2020 | 116795 | [116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json](./116795-mario-and-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Mario and the Mysterious Meteorite | 359835 | [359835-mario-and-the-mysterious-meteorite.json](./359835-mario-and-the-mysterious-meteorite.json) |
+| Mario Breaks Every Bone in His Body | 356457 | [356457-mario-breaks-every-bone-in-his-body.json](./356457-mario-breaks-every-bone-in-his-body.json) |
 | Mario Golf: Advance Tour | 3404 | [3404-mario-golf-advance-tour.json](./3404-mario-golf-advance-tour.json) |
 | Mario Kart 8: Mercedez-Benz X Mario Kart 8 | 399503 | [399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json](./399503-mario-kart-8-mercedez-benz-x-mario-kart-8.json) |
 | Mario Kart 8: Update 4.0 | 399501 | [399501-mario-kart-8-update-4-0.json](./399501-mario-kart-8-update-4-0.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 7 | 1412 | [1412-metal-slug-7.json](./1412-metal-slug-7.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
+| Metamancer | 356470 | [356470-metamancer.json](./356470-metamancer.json) |
 | Metamorphosis | 367807 | [367807-metamorphosis.json](./367807-metamorphosis.json) |
 | Metaphor: ReFantazio Guidebook Edition | 384949 | [384949-metaphor-refantazio-guidebook-edition.json](./384949-metaphor-refantazio-guidebook-edition.json) |
 | MetaStrike | 371657 | [371657-metastrike.json](./371657-metastrike.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Deadly Alliance | 1612 | [1612-mortal-kombat-deadly-alliance.json](./1612-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Special Forces | 1623 | [1623-mortal-kombat-special-forces.json](./1623-mortal-kombat-special-forces.json) |
 | Mortal Kombat: Tournament Edition | 26635 | [26635-mortal-kombat-tournament-edition.json](./26635-mortal-kombat-tournament-edition.json) |
+| Mortar | 356493 | [356493-mortar.json](./356493-mortar.json) |
 | Mortifero Motus | 29731 | [29731-mortifero-motus.json](./29731-mortifero-motus.json) |
 | Mosaic Garden: The Flower Game | 406591 | [406591-mosaic-garden-the-flower-game.json](./406591-mosaic-garden-the-flower-game.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
