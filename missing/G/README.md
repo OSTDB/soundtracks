@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangland | 23811 | [23811-gangland.json](./23811-gangland.json) |
 | Gangs of Sherwood | 208399 | [208399-gangs-of-sherwood.json](./208399-gangs-of-sherwood.json) |
 | Gangsters: Organized Crime | 9230 | [9230-gangsters-organized-crime.json](./9230-gangsters-organized-crime.json) |
+| Ganja Cartel: Warfare Shooter Simulator | 342470 | [342470-ganja-cartel-warfare-shooter-simulator.json](./342470-ganja-cartel-warfare-shooter-simulator.json) |
 | Ganryu 2 | 191321 | [191321-ganryu-2.json](./191321-ganryu-2.json) |
 | Gape Kape Escape | 368883 | [368883-gape-kape-escape.json](./368883-gape-kape-escape.json) |
 | Garage Mechanic Simulator 2026 | 404729 | [404729-garage-mechanic-simulator-2026.json](./404729-garage-mechanic-simulator-2026.json) |
