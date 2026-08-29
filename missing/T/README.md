@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
+| Taiko no Tatsujin: Rhythm Festival - Timeless Hits Pack | 356475 | [356475-taiko-no-tatsujin-rhythm-festival-timeless-hits-pack.json](./356475-taiko-no-tatsujin-rhythm-festival-timeless-hits-pack.json) |
 | Taima Miko | 369413 | [369413-taima-miko.json](./369413-taima-miko.json) |
 | Tainted Grail: The Fall of Avalon - Challenge Mode DLC | 400118 | [400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json](./400118-tainted-grail-the-fall-of-avalon-challenge-mode-dlc.json) |
 | Tainted Grail: The Fall of Avalon - Merlin's Tomb | 396814 | [396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json](./396814-tainted-grail-the-fall-of-avalon-merlins-tomb.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Collector: Xmas Pack | 407216 | [407216-teddy-collector-xmas-pack.json](./407216-teddy-collector-xmas-pack.json) |
 | Teenage Mutant Ninja Turtles | 86386 | [86386-teenage-mutant-ninja-turtles.json](./86386-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed | 289562 | [289562-teenage-mutant-ninja-turtles-mutants-unleashed.json](./289562-teenage-mutant-ninja-turtles-mutants-unleashed.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - Fresh Meat Mission Pack | 356481 | [356481-teenage-mutant-ninja-turtles-mutants-unleashed-fresh-meat-mission-pack.json](./356481-teenage-mutant-ninja-turtles-mutants-unleashed-fresh-meat-mission-pack.json) |
 | Teenage Mutant Ninja Turtles: Out of the Shadows | 2598 | [2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json](./2598-teenage-mutant-ninja-turtles-out-of-the-shadows.json) |
 | Teenage Mutant Ninja Turtles: Rooftop Run | 63499 | [63499-teenage-mutant-ninja-turtles-rooftop-run.json](./63499-teenage-mutant-ninja-turtles-rooftop-run.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock | 252825 | [252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json](./252825-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temari Trials: Dojo's Test | 387859 | [387859-temari-trials-dojos-test.json](./387859-temari-trials-dojos-test.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
+| Ten Metre Tide | 356485 | [356485-ten-metre-tide.json](./356485-ten-metre-tide.json) |
 | Ten no Hikari ha Koi no Hoshi | 396807 | [396807-ten-no-hikari-ha-koi-no-hoshi.json](./396807-ten-no-hikari-ha-koi-no-hoshi.json) |
 | Tender Lovin' Cannibal | 400119 | [400119-tender-lovin-cannibal.json](./400119-tender-lovin-cannibal.json) |
 | Tender Loving Care | 29439 | [29439-tender-loving-care.json](./29439-tender-loving-care.json) |
@@ -182,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheated Man's Revenge: Triple the Payback | 359255 | [359255-the-cheated-mans-revenge-triple-the-payback.json](./359255-the-cheated-mans-revenge-triple-the-payback.json) |
 | The Child Of Hagar | 357048 | [357048-the-child-of-hagar.json](./357048-the-child-of-hagar.json) |
 | The Chronicles of Myrtana: Archolos | 218633 | [218633-the-chronicles-of-myrtana-archolos.json](./218633-the-chronicles-of-myrtana-archolos.json) |
+| The Cleanup Crew | 356477 | [356477-the-cleanup-crew.json](./356477-the-cleanup-crew.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Clockwork Man | 15147 | [15147-the-clockwork-man.json](./15147-the-clockwork-man.json) |
 | The Clockwork Man: The Hidden World | 15148 | [15148-the-clockwork-man-the-hidden-world.json](./15148-the-clockwork-man-the-hidden-world.json) |
@@ -373,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
 | The Mines | 357664 | [357664-the-mines.json](./357664-the-mines.json) |
 | The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
+| The Mirage Project | 356478 | [356478-the-mirage-project.json](./356478-the-mirage-project.json) |
 | The Miskatonic | 59833 | [59833-the-miskatonic.json](./59833-the-miskatonic.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
 | The Monster Pimp | 384964 | [384964-the-monster-pimp.json](./384964-the-monster-pimp.json) |
@@ -455,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Hot Date | 899 | [899-the-sims-hot-date.json](./899-the-sims-hot-date.json) |
 | The Sims: Vacation | 5530 | [5530-the-sims-vacation.json](./5530-the-sims-vacation.json) |
 | The Sirena Expedition | 177288 | [177288-the-sirena-expedition.json](./177288-the-sirena-expedition.json) |
+| The Sith Lords Restored Content Modification | 356467 | [356467-the-sith-lords-restored-content-modification.json](./356467-the-sith-lords-restored-content-modification.json) |
 | The Slimeking's Tower | 46460 | [46460-the-slimekings-tower.json](./46460-the-slimekings-tower.json) |
 | The Smoke | 365530 | [365530-the-smoke.json](./365530-the-smoke.json) |
 | The Snowdrop Diaries | 398876 | [398876-the-snowdrop-diaries.json](./398876-the-snowdrop-diaries.json) |
@@ -606,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadled | 31494 | [31494-toadled.json](./31494-toadled.json) |
 | Tobacco Market Simulator | 388606 | [388606-tobacco-market-simulator.json](./388606-tobacco-market-simulator.json) |
 | Tobal No. 1 | 1661 | [1661-tobal-no-1.json](./1661-tobal-no-1.json) |
+| Tobenai Koi ha Tada no Koi | 356463 | [356463-tobenai-koi-ha-tada-no-koi.json](./356463-tobenai-koi-ha-tada-no-koi.json) |
 | Tobidasu! Camazotz no Sekai 3D | 394730 | [394730-tobidasu-camazotz-no-sekai-3d.json](./394730-tobidasu-camazotz-no-sekai-3d.json) |
 | Toca Lab: Plants | 95741 | [95741-toca-lab-plants.json](./95741-toca-lab-plants.json) |
 | Toem: Basto Region | 218896 | [218896-toem-basto-region.json](./218896-toem-basto-region.json) |
