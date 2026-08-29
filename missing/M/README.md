@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
 | Man Simulator 2025 | 373911 | [373911-man-simulator-2025.json](./373911-man-simulator-2025.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
+| MandarinMastermind | 354867 | [354867-mandarinmastermind.json](./354867-mandarinmastermind.json) |
 | Mandy's Room | 109681 | [109681-mandys-room.json](./109681-mandys-room.json) |
 | Manhunter 2: San Francisco | 7697 | [7697-manhunter-2-san-francisco.json](./7697-manhunter-2-san-francisco.json) |
 | Maniac Mind | 366080 | [366080-maniac-mind.json](./366080-maniac-mind.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Builder 3D | 371691 | [371691-mech-builder-3d.json](./371691-mech-builder-3d.json) |
 | Mech Encounter: Rise of the Blade | 360965 | [360965-mech-encounter-rise-of-the-blade.json](./360965-mech-encounter-rise-of-the-blade.json) |
 | Mech Mayhem Manager | 360972 | [360972-mech-mayhem-manager.json](./360972-mech-mayhem-manager.json) |
+| Mech Robot: Mayhem Warrior Protocol | 354840 | [354840-mech-robot-mayhem-warrior-protocol.json](./354840-mech-robot-mayhem-warrior-protocol.json) |
 | Mechs V Kaijus | 89418 | [89418-mechs-v-kaijus.json](./89418-mechs-v-kaijus.json) |
 | MechsNBugs | 391503 | [391503-mechsnbugs.json](./391503-mechsnbugs.json) |
 | Medabots Card Robattle RB | 390961 | [390961-medabots-card-robattle-rb.json](./390961-medabots-card-robattle-rb.json) |
@@ -302,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Ants | 392624 | [392624-microsoft-ants.json](./392624-microsoft-ants.json) |
 | Microsoft Jewel | 400773 | [400773-microsoft-jewel.json](./400773-microsoft-jewel.json) |
 | Microsoft Train Simulator | 10736 | [10736-microsoft-train-simulator.json](./10736-microsoft-train-simulator.json) |
+| Midas Merge | 354845 | [354845-midas-merge.json](./354845-midas-merge.json) |
 | Midnight Anomaly Mystery | 414236 | [414236-midnight-anomaly-mystery.json](./414236-midnight-anomaly-mystery.json) |
 | Midnight at the Celestial Palace: Chapter I | 33056 | [33056-midnight-at-the-celestial-palace-chapter-i.json](./33056-midnight-at-the-celestial-palace-chapter-i.json) |
 | Midnight Billiards | 381445 | [381445-midnight-billiards.json](./381445-midnight-billiards.json) |
@@ -588,3 +591,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth Xaran | 384393 | [384393-myth-xaran.json](./384393-myth-xaran.json) |
 | Mythic Wonders: The Philosopher's Stone - Collector's Edition | 381420 | [381420-mythic-wonders-the-philosophers-stone-collectors-edition.json](./381420-mythic-wonders-the-philosophers-stone-collectors-edition.json) |
 | Mythos | 22635 | [22635-mythos.json](./22635-mythos.json) |
+| Mythswayer | 354866 | [354866-mythswayer.json](./354866-mythswayer.json) |
