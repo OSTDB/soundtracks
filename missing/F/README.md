@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallowind | 355901 | [355901-fallowind.json](./355901-fallowind.json) |
 | Family cobweb | 46488 | [46488-family-cobweb.json](./46488-family-cobweb.json) |
 | Family Feud: 2010 Edition | 6677 | [6677-family-feud-2010-edition.json](./6677-family-feud-2010-edition.json) |
+| Family Games Extra Pack: 15 in 1 | 350850 | [350850-family-games-extra-pack-15-in-1.json](./350850-family-games-extra-pack-15-in-1.json) |
 | Family Guy Video Game! | 2846 | [2846-family-guy-video-game.json](./2846-family-guy-video-game.json) |
 | Family Guy: Back to the Multiverse | 1834 | [1834-family-guy-back-to-the-multiverse.json](./1834-family-guy-back-to-the-multiverse.json) |
 | Fangstorm | 397520 | [397520-fangstorm.json](./397520-fangstorm.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food Master 2025 | 390968 | [390968-fast-food-master-2025.json](./390968-fast-food-master-2025.json) |
 | Fast Food Simulator | 309179 | [309179-fast-food-simulator.json](./309179-fast-food-simulator.json) |
 | Fast Racing League | 14890 | [14890-fast-racing-league.json](./14890-fast-racing-league.json) |
+| Fast Striker EX | 350840 | [350840-fast-striker-ex.json](./350840-fast-striker-ex.json) |
 | Fatal Frame: Maiden of Black Water | 51149 | [51149-fatal-frame-maiden-of-black-water.json](./51149-fatal-frame-maiden-of-black-water.json) |
 | Fatal Frame: Mask of the Lunar Eclipse | 217577 | [217577-fatal-frame-mask-of-the-lunar-eclipse.json](./217577-fatal-frame-mask-of-the-lunar-eclipse.json) |
 | Fatal Inertia | 6992 | [6992-fatal-inertia.json](./6992-fatal-inertia.json) |
@@ -239,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Reactor | 372859 | [372859-flesh-reactor.json](./372859-flesh-reactor.json) |
 | Flesh Water | 172972 | [172972-flesh-water.json](./172972-flesh-water.json) |
 | Flicky | 275674 | [275674-flicky.json](./275674-flicky.json) |
+| Flight Attendant & Ultimate Rock & Space Cleaner & Cash Guardian Simulator & Bundle | 350856 | [350856-flight-attendant-and-ultimate-rock-and-space-cleaner-and-cash-guardian-simulator-and-bundle.json](./350856-flight-attendant-and-ultimate-rock-and-space-cleaner-and-cash-guardian-simulator-and-bundle.json) |
 | Fling Up Together | 397533 | [397533-fling-up-together.json](./397533-fling-up-together.json) |
 | Flip the Gun - Simulator Game | 95526 | [95526-flip-the-gun-simulator-game.json](./95526-flip-the-gun-simulator-game.json) |
 | Flo | 87585 | [87585-flo.json](./87585-flo.json) |
