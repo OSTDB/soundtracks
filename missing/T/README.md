@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table 9 | 405408 | [405408-table-9.json](./405408-table-9.json) |
 | Table for None | 355921 | [355921-table-for-none.json](./355921-table-for-none.json) |
 | Table Tactics | 359270 | [359270-table-tactics.json](./359270-table-tactics.json) |
+| Tablecraft | 344177 | [344177-tablecraft.json](./344177-tablecraft.json) |
 | TableTop Cricket | 35763 | [35763-tabletop-cricket.json](./35763-tabletop-cricket.json) |
 | Tag Online | 389297 | [389297-tag-online.json](./389297-tag-online.json) |
 | Taiko no Tatsujin DS: Touch de Dokodon! | 9610 | [9610-taiko-no-tatsujin-ds-touch-de-dokodon.json](./9610-taiko-no-tatsujin-ds-touch-de-dokodon.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Jetski | 86827 | [86827-talking-tom-jetski.json](./86827-talking-tom-jetski.json) |
 | Tally Ho | 81695 | [81695-tally-ho.json](./81695-tally-ho.json) |
 | Tamagotchi Classic: Original | 86866 | [86866-tamagotchi-classic-original.json](./86866-tamagotchi-classic-original.json) |
+| Tammuz: Blood & Sand | 344175 | [344175-tammuz-blood-and-sand.json](./344175-tammuz-blood-and-sand.json) |
 | Tangle Tower | 123775 | [123775-tangle-tower.json](./123775-tangle-tower.json) |
 | Tank | 7428 | [7428-tank.json](./7428-tank.json) |
 | Tank 1990 | 48901 | [48901-tank-1990.json](./48901-tank-1990.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Calamity Trials | 388601 | [388601-the-calamity-trials.json](./388601-the-calamity-trials.json) |
 | The Callers | 364914 | [364914-the-callers.json](./364914-the-callers.json) |
 | The Case of the Cryosleep Killer | 402165 | [402165-the-case-of-the-cryosleep-killer.json](./402165-the-case-of-the-cryosleep-killer.json) |
+| The Cave Diver | 344206 | [344206-the-cave-diver.json](./344206-the-cave-diver.json) |
 | The Celestial Seeker | 380271 | [380271-the-celestial-seeker.json](./380271-the-celestial-seeker.json) |
 | The Centennial Case: A Shijima Story | 191420 | [191420-the-centennial-case-a-shijima-story.json](./191420-the-centennial-case-a-shijima-story.json) |
 | The Cheated Man's Revenge: Triple the Payback | 359255 | [359255-the-cheated-mans-revenge-triple-the-payback.json](./359255-the-cheated-mans-revenge-triple-the-payback.json) |
@@ -235,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Depths of Tolagal | 35971 | [35971-the-depths-of-tolagal.json](./35971-the-depths-of-tolagal.json) |
 | The Devil Card | 387251 | [387251-the-devil-card.json](./387251-the-devil-card.json) |
 | The Division 2: Rise Up | 396787 | [396787-the-division-2-rise-up.json](./396787-the-division-2-rise-up.json) |
+| The Doctor's Room | 344179 | [344179-the-doctors-room.json](./344179-the-doctors-room.json) |
 | The Dogs | 403486 | [403486-the-dogs.json](./403486-the-dogs.json) |
 | The Doors to Netherwhere | 379733 | [379733-the-doors-to-netherwhere.json](./379733-the-doors-to-netherwhere.json) |
 | The Dragon and the Sword | 397535 | [397535-the-dragon-and-the-sword.json](./397535-the-dragon-and-the-sword.json) |
@@ -297,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitch Prison Together | 381432 | [381432-the-glitch-prison-together.json](./381432-the-glitch-prison-together.json) |
 | The Glory Dungeon Raider | 396824 | [396824-the-glory-dungeon-raider.json](./396824-the-glory-dungeon-raider.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
+| The Golden Retreat | 344195 | [344195-the-golden-retreat.json](./344195-the-golden-retreat.json) |
 | The Golf Club | 16927 | [16927-the-golf-club.json](./16927-the-golf-club.json) |
 | The Golf Club: Collector's Edition | 20862 | [20862-the-golf-club-collectors-edition.json](./20862-the-golf-club-collectors-edition.json) |
 | The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
@@ -479,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Over Hawksmill | 404759 | [404759-the-shadow-over-hawksmill.json](./404759-the-shadow-over-hawksmill.json) |
 | The Shadow Over Route 80 | 226034 | [226034-the-shadow-over-route-80.json](./226034-the-shadow-over-route-80.json) |
 | The Shaved Ice Shop | 371083 | [371083-the-shaved-ice-shop.json](./371083-the-shaved-ice-shop.json) |
+| The Shift | 344231 | [344231-the-shift.json](./344231-the-shift.json) |
 | The Shovelling Hour | 385464 | [385464-the-shovelling-hour.json](./385464-the-shovelling-hour.json) |
 | The Showdown: Gorilla vs 100 | 355904 | [355904-the-showdown-gorilla-vs-100.json](./355904-the-showdown-gorilla-vs-100.json) |
 | The Simpsons Wrestling | 2841 | [2841-the-simpsons-wrestling.json](./2841-the-simpsons-wrestling.json) |
@@ -617,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Hollow | 21055 | [21055-time-hollow.json](./21055-time-hollow.json) |
 | Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
 | Time Rifters | 16931 | [16931-time-rifters.json](./16931-time-rifters.json) |
+| Time Space Rebuild | 344228 | [344228-time-space-rebuild.json](./344228-time-space-rebuild.json) |
 | Time Tenshi Paradox: Episode 1 | 76783 | [76783-time-tenshi-paradox-episode-1.json](./76783-time-tenshi-paradox-episode-1.json) |
 | Time Thief | 412172 | [412172-time-thief.json](./412172-time-thief.json) |
 | Timeframe | 27265 | [27265-timeframe.json](./27265-timeframe.json) |
@@ -633,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pasture: Azure Waters | 383246 | [383246-tiny-pasture-azure-waters.json](./383246-tiny-pasture-azure-waters.json) |
 | Tiny Paws | 374475 | [374475-tiny-paws.json](./374475-tiny-paws.json) |
 | Tiny Space Pirate | 372856 | [372856-tiny-space-pirate.json](./372856-tiny-space-pirate.json) |
+| Tiny Spy: Find Hidden Objects | 344215 | [344215-tiny-spy-find-hidden-objects.json](./344215-tiny-spy-find-hidden-objects.json) |
 | Tiny Terra Spaces | 388584 | [388584-tiny-terra-spaces.json](./388584-tiny-terra-spaces.json) |
 | Tiny Toon Adventures | 4555 | [4555-tiny-toon-adventures.json](./4555-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Montana's Movie Madness | 8048 | [8048-tiny-toon-adventures-2-montanas-movie-madness.json](./8048-tiny-toon-adventures-2-montanas-movie-madness.json) |
@@ -707,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Spin 4 | 5233 | [5233-top-spin-4.json](./5233-top-spin-4.json) |
 | Torchlight | 2480 | [2480-torchlight.json](./2480-torchlight.json) |
 | Torii: Beyond the Gates | 380871 | [380871-torii-beyond-the-gates.json](./380871-torii-beyond-the-gates.json) |
+| Tormenta: O Desafio dos Deuses | 344204 | [344204-tormenta-o-desafio-dos-deuses.json](./344204-tormenta-o-desafio-dos-deuses.json) |
 | Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
 | Torovo | 411456 | [411456-torovo.json](./411456-torovo.json) |
 | Torrent Empire | 345312 | [345312-torrent-empire.json](./345312-torrent-empire.json) |
@@ -840,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Technology Trivia Deluxe | 76923 | [76923-trivia-vault-technology-trivia-deluxe.json](./76923-trivia-vault-technology-trivia-deluxe.json) |
 | Trivial Pursuit Live! | 11290 | [11290-trivial-pursuit-live.json](./11290-trivial-pursuit-live.json) |
+| Trixibrix | 344221 | [344221-trixibrix.json](./344221-trixibrix.json) |
 | Triz \| Triangular Dreaming | 390394 | [390394-triz-triangular-dreaming.json](./390394-triz-triangular-dreaming.json) |
 | Troll and I | 26503 | [26503-troll-and-i.json](./26503-troll-and-i.json) |
 | Trolling Football | 355924 | [355924-trolling-football.json](./355924-trolling-football.json) |
@@ -867,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Hard Parking | 29846 | [29846-try-hard-parking.json](./29846-try-hard-parking.json) |
 | Tsumattemasu. | 350819 | [350819-tsumattemasu.json](./350819-tsumattemasu.json) |
 | Tube Slider | 4217 | [4217-tube-slider.json](./4217-tube-slider.json) |
+| Tube Time | 344183 | [344183-tube-time.json](./344183-tube-time.json) |
 | TUG | 17067 | [17067-tug.json](./17067-tug.json) |
 | Tuìhūn Hòu, Zōngzhǔ Mǎjiǎ Cáng Bùzhù | 407979 | [407979-tuihun-hou-zongzhu-majia-cang-buzhu.json](./407979-tuihun-hou-zongzhu-majia-cang-buzhu.json) |
 | Tumble in the Deep Noon | 412166 | [412166-tumble-in-the-deep-noon.json](./412166-tumble-in-the-deep-noon.json) |
