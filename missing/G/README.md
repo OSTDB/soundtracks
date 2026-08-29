@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaionin War Don't Combine | 379212 | [379212-gaionin-war-dont-combine.json](./379212-gaionin-war-dont-combine.json) |
 | Gakuen Tokusou Bakushion | 386048 | [386048-gakuen-tokusou-bakushion.json](./386048-gakuen-tokusou-bakushion.json) |
 | Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
+| Galactic Cat | 344174 | [344174-galactic-cat.json](./344174-galactic-cat.json) |
 | Galactic Civilizations II: Dark Avatar | 724 | [724-galactic-civilizations-ii-dark-avatar.json](./724-galactic-civilizations-ii-dark-avatar.json) |
 | Galactic Civilizations II: Dread Lords | 725 | [725-galactic-civilizations-ii-dread-lords.json](./725-galactic-civilizations-ii-dread-lords.json) |
 | Galactic Civilizations IV: Tales of the Terran Alliance | 379741 | [379741-galactic-civilizations-iv-tales-of-the-terran-alliance.json](./379741-galactic-civilizations-iv-tales-of-the-terran-alliance.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars: Galaxies | 4884 | [4884-geometry-wars-galaxies.json](./4884-geometry-wars-galaxies.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Gerphyon: The Ender's Mansion | 404147 | [404147-gerphyon-the-enders-mansion.json](./404147-gerphyon-the-enders-mansion.json) |
+| Get 0ut | 344201 | [344201-get-0ut.json](./344201-get-0ut.json) |
 | Get Fit: Beach Boys | 407262 | [407262-get-fit-beach-boys.json](./407262-get-fit-beach-boys.json) |
 | Get Fit: Men’s Fitness | 394719 | [394719-get-fit-men-s-fitness.json](./394719-get-fit-men-s-fitness.json) |
 | Get Off My Lawn! | 16796 | [16796-get-off-my-lawn.json](./16796-get-off-my-lawn.json) |
@@ -192,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla 2: War of the Monsters | 48160 | [48160-godzilla-2-war-of-the-monsters.json](./48160-godzilla-2-war-of-the-monsters.json) |
 | Godzilla: Unleashed | 4891 | [4891-godzilla-unleashed.json](./4891-godzilla-unleashed.json) |
 | Gogyō | 366665 | [366665-gogyo.json](./366665-gogyo.json) |
+| Going Loco | 344180 | [344180-going-loco.json](./344180-going-loco.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
 | Golden Axe: The Revenge Of Death Adder | 39285 | [39285-golden-axe-the-revenge-of-death-adder.json](./39285-golden-axe-the-revenge-of-death-adder.json) |
 | Golden Idol Investigations: The Age of Restraint | 354873 | [354873-golden-idol-investigations-the-age-of-restraint.json](./354873-golden-idol-investigations-the-age-of-restraint.json) |
