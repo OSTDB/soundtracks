@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cage1: Reincarnation For Salvation | 367241 | [367241-dark-cage1-reincarnation-for-salvation.json](./367241-dark-cage1-reincarnation-for-salvation.json) |
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
+| Dark Dolls | 350837 | [350837-dark-dolls.json](./350837-dark-dolls.json) |
 | Dark Echo | 14197 | [14197-dark-echo.json](./14197-dark-echo.json) |
 | Dark Hero Party | 115867 | [115867-dark-hero-party.json](./115867-dark-hero-party.json) |
 | Dark Horizons: Mechanized Corps | 16890 | [16890-dark-horizons-mechanized-corps.json](./16890-dark-horizons-mechanized-corps.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Wrath | 367783 | [367783-demons-wrath.json](./367783-demons-wrath.json) |
 | DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | Demonolition | 386001 | [386001-demonolition.json](./386001-demonolition.json) |
+| Dentist Bling: Science Edition | 350854 | [350854-dentist-bling-science-edition.json](./350854-dentist-bling-science-edition.json) |
 | Departure | 380259 | [380259-departure.json](./380259-departure.json) |
 | Depleted | 395449 | [395449-depleted.json](./395449-depleted.json) |
 | Deployed | 389869 | [389869-deployed.json](./389869-deployed.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Jump Deluxe | 411491 | [411491-dino-jump-deluxe.json](./411491-dino-jump-deluxe.json) |
 | Dino Quest VR | 408648 | [408648-dino-quest-vr.json](./408648-dino-quest-vr.json) |
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
+| Dino Sort | 350817 | [350817-dino-sort.json](./350817-dino-sort.json) |
 | Dino-Might | 396080 | [396080-dino-might.json](./396080-dino-might.json) |
 | Dinosaur | 380269 | [380269-dinosaur.json](./380269-dinosaur.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
@@ -465,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora-Con Cafe 2 | 398852 | [398852-dora-con-cafe-2.json](./398852-dora-con-cafe-2.json) |
 | Doritos VR Battle | 31441 | [31441-doritos-vr-battle.json](./31441-doritos-vr-battle.json) |
 | Dota Underlords | 119416 | [119416-dota-underlords.json](./119416-dota-underlords.json) |
+| DotLink | 350828 | [350828-dotlink.json](./350828-dotlink.json) |
 | Dots eXtreme | 31513 | [31513-dots-extreme.json](./31513-dots-extreme.json) |
 | Double Date Dilemma | 393319 | [393319-double-date-dilemma.json](./393319-double-date-dilemma.json) |
 | Double Dragon Gaiden: Rise of the Dragons | 248358 | [248358-double-dragon-gaiden-rise-of-the-dragons.json](./248358-double-dragon-gaiden-rise-of-the-dragons.json) |
@@ -608,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunken Masters | 387898 | [387898-drunken-masters.json](./387898-drunken-masters.json) |
 | Drunkn Bar Fight | 31302 | [31302-drunkn-bar-fight.json](./31302-drunkn-bar-fight.json) |
+| Drunkn Bar Fight 2 | 350829 | [350829-drunkn-bar-fight-2.json](./350829-drunkn-bar-fight-2.json) |
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | DS Doom | 378659 | [378659-ds-doom.json](./378659-ds-doom.json) |
