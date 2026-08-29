@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Choo Choo Survivor 2 | 365481 | [365481-choo-choo-survivor-2.json](./365481-choo-choo-survivor-2.json) |
 | Chopping Hour | 375658 | [375658-chopping-hour.json](./375658-chopping-hour.json) |
+| Chou Jikuu Yousai Macross: Another Dimension | 356466 | [356466-chou-jikuu-yousai-macross-another-dimension.json](./356466-chou-jikuu-yousai-macross-another-dimension.json) |
 | Choujin Sentai Jetman | 48661 | [48661-choujin-sentai-jetman.json](./48661-choujin-sentai-jetman.json) |
 | Christmas party | 76782 | [76782-christmas-party.json](./76782-christmas-party.json) |
 | Christmas Stories: A Christmas Carol - Collector's Edition | 76700 | [76700-christmas-stories-a-christmas-carol-collectors-edition.json](./76700-christmas-stories-a-christmas-carol-collectors-edition.json) |
@@ -228,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Atari | 5667 | [5667-circus-atari.json](./5667-circus-atari.json) |
 | Circus Electrique | 185757 | [185757-circus-electrique.json](./185757-circus-electrique.json) |
 | Cities in Motion 2 | 2931 | [2931-cities-in-motion-2.json](./2931-cities-in-motion-2.json) |
+| Cities: Skylines - Stadia Edition | 356489 | [356489-cities-skylines-stadia-edition.json](./356489-cities-skylines-stadia-edition.json) |
 | Cities: VR | 185895 | [185895-cities-vr.json](./185895-cities-vr.json) |
 | City Bomber 4k | 412866 | [412866-city-bomber-4k.json](./412866-city-bomber-4k.json) |
 | City Car Driving | 25714 | [25714-city-car-driving.json](./25714-city-car-driving.json) |
@@ -474,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis VRigade | 109894 | [109894-crisis-vrigade.json](./109894-crisis-vrigade.json) |
 | Critical | 378622 | [378622-critical.json](./378622-critical.json) |
 | Critical Mass | 371099 | [371099-critical-mass.json](./371099-critical-mass.json) |
+| Critical Strike Shooter VR: SWAT Rescue Missions | 356495 | [356495-critical-strike-shooter-vr-swat-rescue-missions.json](./356495-critical-strike-shooter-vr-swat-rescue-missions.json) |
 | Critter Drifters | 369934 | [369934-critter-drifters.json](./369934-critter-drifters.json) |
 | Croak? | 374489 | [374489-croak.json](./374489-croak.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
@@ -483,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross of the Dutchman | 7285 | [7285-cross-of-the-dutchman.json](./7285-cross-of-the-dutchman.json) |
 | Cross Reverie | 384953 | [384953-cross-reverie.json](./384953-cross-reverie.json) |
 | Crossniq+ | 109932 | [109932-crossniq.json](./109932-crossniq.json) |
+| Crossover Legends Tenkaichi | 356462 | [356462-crossover-legends-tenkaichi.json](./356462-crossover-legends-tenkaichi.json) |
 | CrossSide: The Prison | 102297 | [102297-crossside-the-prison.json](./102297-crossside-the-prison.json) |
 | Crow | 360418 | [360418-crow.json](./360418-crow.json) |
 | Crown Chaos | 403494 | [403494-crown-chaos.json](./403494-crown-chaos.json) |
