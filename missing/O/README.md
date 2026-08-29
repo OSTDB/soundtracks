@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Wild Futa Nightclub | 405986 | [405986-one-wild-futa-nightclub.json](./405986-one-wild-futa-nightclub.json) |
 | One-Armed Robber | 263205 | [263205-one-armed-robber.json](./263205-one-armed-robber.json) |
 | One-In | 351468 | [351468-one-in.json](./351468-one-in.json) |
+| One-liners | 343672 | [343672-one-liners.json](./343672-one-liners.json) |
 | OneShot | 225565 | [225565-oneshot.json](./225565-oneshot.json) |
 | Ongeki Re:Fresh Act.2 | 408700 | [408700-ongeki-re-fresh-act-2.json](./408700-ongeki-re-fresh-act-2.json) |
 | Oniria | 412882 | [412882-oniria.json](./412882-oniria.json) |
