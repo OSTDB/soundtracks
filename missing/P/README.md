@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Marvel's Avengers - Age of Ultron | 20948 | [20948-pinball-fx2-marvels-avengers-age-of-ultron.json](./20948-pinball-fx2-marvels-avengers-age-of-ultron.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball Garden | 389888 | [389888-pinball-garden.json](./389888-pinball-garden.json) |
+| Pincer Attack | 345341 | [345341-pincer-attack.json](./345341-pincer-attack.json) |
 | Pinfall | 391465 | [391465-pinfall.json](./391465-pinfall.json) |
 | Pink girl | 126571 | [126571-pink-girl.json](./126571-pink-girl.json) |
 | Pinko Ponko | 364284 | [364284-pinko-ponko.json](./364284-pinko-ponko.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella: The Rise Of An Heir | 91278 | [91278-princess-isabella-the-rise-of-an-heir.json](./91278-princess-isabella-the-rise-of-an-heir.json) |
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
+| Princess of the Water Lilies | 345317 | [345317-princess-of-the-water-lilies.json](./345317-princess-of-the-water-lilies.json) |
 | Prism of You | 371716 | [371716-prism-of-you.json](./371716-prism-of-you.json) |
 | Prism Song | 362657 | [362657-prism-song.json](./362657-prism-song.json) |
 | Prison Escape | 95816 | [95816-prison-escape.json](./95816-prison-escape.json) |
