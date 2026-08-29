@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Dash | 359250 | [359250-warp-dash.json](./359250-warp-dash.json) |
 | Warriors | 351465 | [351465-warriors.json](./351465-warriors.json) |
 | Warriors All-Stars | 26180 | [26180-warriors-all-stars.json](./26180-warriors-all-stars.json) |
+| Wars Across The World: Angola 1988 | 347548 | [347548-wars-across-the-world-angola-1988.json](./347548-wars-across-the-world-angola-1988.json) |
 | Warstone TD | 30332 | [30332-warstone-td.json](./30332-warstone-td.json) |
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Warzone | 354851 | [354851-warzone.json](./354851-warzone.json) |
