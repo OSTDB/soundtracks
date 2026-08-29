@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvan | 393328 | [393328-galvan.json](./393328-galvan.json) |
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
+| Game Centre Simulator | 349149 | [349149-game-centre-simulator.json](./349149-game-centre-simulator.json) |
 | Game Creator 2 | 353681 | [353681-game-creator-2.json](./353681-game-creator-2.json) |
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
 | Game of Fate 3 | 382645 | [382645-game-of-fate-3.json](./382645-game-of-fate-3.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space | 25302 | [25302-goat-simulator-waste-of-space.json](./25302-goat-simulator-waste-of-space.json) |
 | Gobbo Quest Idle | 410774 | [410774-gobbo-quest-idle.json](./410774-gobbo-quest-idle.json) |
 | Gobliiins | 1930 | [1930-gobliiins.json](./1930-gobliiins.json) |
+| Goblin vs. Princess | 349145 | [349145-goblin-vs-princess.json](./349145-goblin-vs-princess.json) |
 | Goblins & Gun Runnin’ | 368306 | [368306-goblins-and-gun-runnin.json](./368306-goblins-and-gun-runnin.json) |
 | Gobs & Gears | 406035 | [406035-gobs-and-gears.json](./406035-gobs-and-gears.json) |
 | God of Arrows VR | 31478 | [31478-god-of-arrows-vr.json](./31478-god-of-arrows-vr.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Hunt: North America | 86432 | [86432-great-hunt-north-america.json](./86432-great-hunt-north-america.json) |
 | GreedFall: The Dying World - Peren's Black Mass | 400800 | [400800-greedfall-the-dying-world-perens-black-mass.json](./400800-greedfall-the-dying-world-perens-black-mass.json) |
 | Green Army Men: Bug Soldiers | 87590 | [87590-green-army-men-bug-soldiers.json](./87590-green-army-men-bug-soldiers.json) |
+| Greensome | 349164 | [349164-greensome.json](./349164-greensome.json) |
 | Greg Hastings Paintball 2 | 24317 | [24317-greg-hastings-paintball-2.json](./24317-greg-hastings-paintball-2.json) |
 | Grid Legends | 159116 | [159116-grid-legends.json](./159116-grid-legends.json) |
 | Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
@@ -317,12 +320,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Branch | 84313 | [84313-ground-branch.json](./84313-ground-branch.json) |
 | Grounded | 125624 | [125624-grounded.json](./125624-grounded.json) |
 | Groundwork | 414970 | [414970-groundwork.json](./414970-groundwork.json) |
+| Grove | 349154 | [349154-grove.json](./349154-grove.json) |
 | Grove Keeper | 361506 | [361506-grove-keeper.json](./361506-grove-keeper.json) |
 | Grow Demon Slimes | 398883 | [398883-grow-demon-slimes.json](./398883-grow-demon-slimes.json) |
 | Growth | 238644 | [238644-growth.json](./238644-growth.json) |
 | GS Mikami: Joreishi ha Nice Body | 42373 | [42373-gs-mikami-joreishi-ha-nice-body.json](./42373-gs-mikami-joreishi-ha-nice-body.json) |
 | GT Legends | 736 | [736-gt-legends.json](./736-gt-legends.json) |
 | GTA Turk City | 277872 | [277872-gta-turk-city.json](./277872-gta-turk-city.json) |
+| GTL Schedule | 349123 | [349123-gtl-schedule.json](./349123-gtl-schedule.json) |
 | GTR: FIA GT Racing Game | 738 | [738-gtr-fia-gt-racing-game.json](./738-gtr-fia-gt-racing-game.json) |
 | GTR: Garage Town Racing | 367228 | [367228-gtr-garage-town-racing.json](./367228-gtr-garage-town-racing.json) |
 | Guacamelee! | 4838 | [4838-guacamelee.json](./4838-guacamelee.json) |
