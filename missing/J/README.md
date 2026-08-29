@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpman Junior | 12296 | [12296-jumpman-junior.json](./12296-jumpman-junior.json) |
 | Jumppit | 400780 | [400780-jumppit.json](./400780-jumppit.json) |
 | June's Journey | 86929 | [86929-junes-journey.json](./86929-junes-journey.json) |
+| Jungle Boy | 346978 | [346978-jungle-boy.json](./346978-jungle-boy.json) |
 | Jungle Clash | 394027 | [394027-jungle-clash.json](./394027-jungle-clash.json) |
 | Jungle Kartz | 20825 | [20825-jungle-kartz.json](./20825-jungle-kartz.json) |
 | Jungle Rumble | 24327 | [24327-jungle-rumble.json](./24327-jungle-rumble.json) |
