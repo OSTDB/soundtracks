@@ -109,7 +109,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecado: SD Card | 389289 | [389289-pecado-sd-card.json](./389289-pecado-sd-card.json) |
 | Peekaboo | 116302 | [116302-peekaboo.json](./116302-peekaboo.json) |
 | Peeps! | 400766 | [400766-peeps.json](./400766-peeps.json) |
+| Peggle Nights: Art Contest Pack | 358683 | [358683-peggle-nights-art-contest-pack.json](./358683-peggle-nights-art-contest-pack.json) |
+| Peggle Nights: Holiday Pack | 358681 | [358681-peggle-nights-holiday-pack.json](./358681-peggle-nights-holiday-pack.json) |
+| Peggle Nights: Spring Pack | 358682 | [358682-peggle-nights-spring-pack.json](./358682-peggle-nights-spring-pack.json) |
 | Pengo | 12316 | [12316-pengo.json](./12316-pengo.json) |
+| Penguin War | 358710 | [358710-penguin-war.json](./358710-penguin-war.json) |
 | Penny Arcade's On the Rain-Slick Precipice of Darkness 4 | 14981 | [14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json](./14981-penny-arcades-on-the-rain-slick-precipice-of-darkness-4.json) |
 | Penny's Big Breakaway | 254336 | [254336-pennys-big-breakaway.json](./254336-pennys-big-breakaway.json) |
 | Peppa Pig: Jump & Giggle | 382610 | [382610-peppa-pig-jump-and-giggle.json](./382610-peppa-pig-jump-and-giggle.json) |
@@ -387,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
 | Practisim Designer | 388591 | [388591-practisim-designer.json](./388591-practisim-designer.json) |
+| Predator | 358696 | [358696-predator.json](./358696-predator.json) |
 | Prehistorik 2 | 10718 | [10718-prehistorik-2.json](./10718-prehistorik-2.json) |
 | Premium Play Darkness | 22477 | [22477-premium-play-darkness.json](./22477-premium-play-darkness.json) |
 | Press: Authorized Disposal | 411489 | [411489-press-authorized-disposal.json](./411489-press-authorized-disposal.json) |
