@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock of Ages 2: Bigger & Boulder | 19407 | [19407-rock-of-ages-2-bigger-and-boulder.json](./19407-rock-of-ages-2-bigger-and-boulder.json) |
 | Rock Paper Scissors Action! | 361504 | [361504-rock-paper-scissors-action.json](./361504-rock-paper-scissors-action.json) |
 | Rock Shot | 378061 | [378061-rock-shot.json](./378061-rock-shot.json) |
+| Rocket League: Back to the Future Car Pack | 348652 | [348652-rocket-league-back-to-the-future-car-pack.json](./348652-rocket-league-back-to-the-future-car-pack.json) |
 | Rocket Man X | 406580 | [406580-rocket-man-x.json](./406580-rocket-man-x.json) |
 | Rocket Racing | 279690 | [279690-rocket-racing.json](./279690-rocket-racing.json) |
 | Rocket!! | 369398 | [369398-rocket.json](./369398-rocket.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotator | 102059 | [102059-rotator.json](./102059-rotator.json) |
 | Rotten Heart of Yours | 357058 | [357058-rotten-heart-of-yours.json](./357058-rotten-heart-of-yours.json) |
 | Rough Night at Home | 403508 | [403508-rough-night-at-home.json](./403508-rough-night-at-home.json) |
+| Rouletum | 348614 | [348614-rouletum.json](./348614-rouletum.json) |
 | Roundabout Solitaire | 407954 | [407954-roundabout-solitaire.json](./407954-roundabout-solitaire.json) |
 | Royal Battleships | 95606 | [95606-royal-battleships.json](./95606-royal-battleships.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
