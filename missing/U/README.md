@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Shadows | 35840 | [35840-undead-shadows.json](./35840-undead-shadows.json) |
 | Under the Eye | 402820 | [402820-under-the-eye.json](./402820-under-the-eye.json) |
 | Under the Lighthouse | 357057 | [357057-under-the-lighthouse.json](./357057-under-the-lighthouse.json) |
+| Under the Ruin | 348651 | [348651-under-the-ruin.json](./348651-under-the-ruin.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Undercover Missions: Operation Kursk K-141 | 34437 | [34437-undercover-missions-operation-kursk-k-141.json](./34437-undercover-missions-operation-kursk-k-141.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
