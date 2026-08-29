@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Full Edition | 394744 | [394744-bowling-fever-full-edition.json](./394744-bowling-fever-full-edition.json) |
 | Bowling Fever: Ultra Edition | 402175 | [402175-bowling-fever-ultra-edition.json](./402175-bowling-fever-ultra-edition.json) |
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
+| Box Building Planet Pack | 357094 | [357094-box-building-planet-pack.json](./357094-box-building-planet-pack.json) |
 | Box Game: Showdown | 402828 | [402828-box-game-showdown.json](./402828-box-game-showdown.json) |
 | Boxel 3D | 367802 | [367802-boxel-3d.json](./367802-boxel-3d.json) |
 | Boxwrecker Arena | 367239 | [367239-boxwrecker-arena.json](./367239-boxwrecker-arena.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros of Bench | 404150 | [404150-bros-of-bench.json](./404150-bros-of-bench.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
+| Bruma | 357062 | [357062-bruma.json](./357062-bruma.json) |
 | Bruneian Dominatrixes Are the Best | 389307 | [389307-bruneian-dominatrixes-are-the-best.json](./389307-bruneian-dominatrixes-are-the-best.json) |
 | Bub | 404731 | [404731-bub.json](./404731-bub.json) |
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
