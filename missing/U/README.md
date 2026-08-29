@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rock Crawler | 34488 | [34488-ultimate-rock-crawler.json](./34488-ultimate-rock-crawler.json) |
 | Ultimatum: The Slaughter of Amaranth | 399521 | [399521-ultimatum-the-slaughter-of-amaranth.json](./399521-ultimatum-the-slaughter-of-amaranth.json) |
 | Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
+| Ultra Core Dive | 347514 | [347514-ultra-core-dive.json](./347514-ultra-core-dive.json) |
 | Ultra Pixel Survive 2 | 409495 | [409495-ultra-pixel-survive-2.json](./409495-ultra-pixel-survive-2.json) |
 | Ultra Street Fighter II: The Final Challengers | 26773 | [26773-ultra-street-fighter-ii-the-final-challengers.json](./26773-ultra-street-fighter-ii-the-final-challengers.json) |
 | Ultra Street Fighter IV | 6656 | [6656-ultra-street-fighter-iv.json](./6656-ultra-street-fighter-iv.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Ruin | 348651 | [348651-under-the-ruin.json](./348651-under-the-ruin.json) |
 | Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Undercover Missions: Operation Kursk K-141 | 34437 | [34437-undercover-missions-operation-kursk-k-141.json](./34437-undercover-missions-operation-kursk-k-141.json) |
+| Underfishing | 347521 | [347521-underfishing.json](./347521-underfishing.json) |
 | Underground Bone Marrow | 102172 | [102172-underground-bone-marrow.json](./102172-underground-bone-marrow.json) |
 | Underhand | 83153 | [83153-underhand.json](./83153-underhand.json) |
 | Undertale: The Story of Kindness | 356492 | [356492-undertale-the-story-of-kindness.json](./356492-undertale-the-story-of-kindness.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsealed Pact | 372880 | [372880-unsealed-pact.json](./372880-unsealed-pact.json) |
 | Unsent | 410106 | [410106-unsent.json](./410106-unsent.json) |
 | Unshine Arcade | 369945 | [369945-unshine-arcade.json](./369945-unshine-arcade.json) |
+| Untamed Ehizia | 347532 | [347532-untamed-ehizia.json](./347532-untamed-ehizia.json) |
 | Untime | 364326 | [364326-untime.json](./364326-untime.json) |
 | Unusual Friends Bundle | 394725 | [394725-unusual-friends-bundle.json](./394725-unusual-friends-bundle.json) |
 | Unworthy | 25314 | [25314-unworthy.json](./25314-unworthy.json) |
