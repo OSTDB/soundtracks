@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Dragon Shooter | 87628 | [87628-bubble-dragon-shooter.json](./87628-bubble-dragon-shooter.json) |
 | Bubble Ghost | 83807 | [83807-bubble-ghost.json](./83807-bubble-ghost.json) |
 | Bubble Gun | 391513 | [391513-bubble-gun.json](./391513-bubble-gun.json) |
+| Bubble Mixy | 343094 | [343094-bubble-mixy.json](./343094-bubble-mixy.json) |
 | Bubble Shooter Piratery | 409489 | [409489-bubble-shooter-piratery.json](./409489-bubble-shooter-piratery.json) |
 | Bubble Shot | 392609 | [392609-bubble-shot.json](./392609-bubble-shot.json) |
 | Bubble Shot | 368878 | [368878-bubble-shot.json](./368878-bubble-shot.json) |
