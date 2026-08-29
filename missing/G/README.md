@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvan | 393328 | [393328-galvan.json](./393328-galvan.json) |
 | Game & Console Supermarket: Gold Edition | 402185 | [402185-game-and-console-supermarket-gold-edition.json](./402185-game-and-console-supermarket-gold-edition.json) |
 | Game & Watch Gallery 2 | 74423 | [74423-game-and-watch-gallery-2.json](./74423-game-and-watch-gallery-2.json) |
+| Game Creator 2 | 353681 | [353681-game-creator-2.json](./353681-game-creator-2.json) |
 | Game Dev Simulator | 397551 | [397551-game-dev-simulator.json](./397551-game-dev-simulator.json) |
 | Game of Fate 3 | 382645 | [382645-game-of-fate-3.json](./382645-game-of-fate-3.json) |
 | Game of the Year: 420BlazeIt | 8415 | [8415-game-of-the-year-420blazeit.json](./8415-game-of-the-year-420blazeit.json) |
