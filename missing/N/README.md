@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | N Plus Infinity Times Two | 404728 | [404728-n-plus-infinity-times-two.json](./404728-n-plus-infinity-times-two.json) |
 | Naboki | 125070 | [125070-naboki.json](./125070-naboki.json) |
+| Nakuma | 357046 | [357046-nakuma.json](./357046-nakuma.json) |
 | Nalogi | 89428 | [89428-nalogi.json](./89428-nalogi.json) |
 | Nanashi no Game: Me | 47873 | [47873-nanashi-no-game-me.json](./47873-nanashi-no-game-me.json) |
 | Nancy Drew Dossier: Lights, Camera, Curses! | 15999 | [15999-nancy-drew-dossier-lights-camera-curses.json](./15999-nancy-drew-dossier-lights-camera-curses.json) |
