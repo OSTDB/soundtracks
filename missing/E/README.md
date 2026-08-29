@@ -86,7 +86,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elroy and the Aliens | 164654 | [164654-elroy-and-the-aliens.json](./164654-elroy-and-the-aliens.json) |
 | Elton Manor: Requiem of the Cursed Roses | 392030 | [392030-elton-manor-requiem-of-the-cursed-roses.json](./392030-elton-manor-requiem-of-the-cursed-roses.json) |
 | Elven Love | 86474 | [86474-elven-love.json](./86474-elven-love.json) |
+| Elven Rivers 3: Sky Realm - Collector's Edition | 355916 | [355916-elven-rivers-3-sky-realm-collectors-edition.json](./355916-elven-rivers-3-sky-realm-collectors-edition.json) |
 | Elven Rivers V: The UnderSea | 357081 | [357081-elven-rivers-v-the-undersea.json](./357081-elven-rivers-v-the-undersea.json) |
+| Elysia: The Astral Fall | 355951 | [355951-elysia-the-astral-fall.json](./355951-elysia-the-astral-fall.json) |
 | Ember | 23941 | [23941-ember.json](./23941-ember.json) |
 | Ember Express | 406593 | [406593-ember-express.json](./406593-ember-express.json) |
 | Emergency 20 | 74639 | [74639-emergency-20.json](./74639-emergency-20.json) |
