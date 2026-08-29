@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Pop Fish | 374480 | [374480-paw-pop-fish.json](./374480-paw-pop-fish.json) |
 | Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawbay: Silly Hats | 402196 | [402196-pawbay-silly-hats.json](./402196-pawbay-silly-hats.json) |
+| Pawfect Pet Paradise | 342442 | [342442-pawfect-pet-paradise.json](./342442-pawfect-pet-paradise.json) |
 | PawnKingChess | 390401 | [390401-pawnkingchess.json](./390401-pawnkingchess.json) |
 | Pawtumn: The Parkside Purrsuit! | 364281 | [364281-pawtumn-the-parkside-purrsuit.json](./364281-pawtumn-the-parkside-purrsuit.json) |
 | Pax Dei | 240432 | [240432-pax-dei.json](./240432-pax-dei.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetSide: Core Combat | 23750 | [23750-planetside-core-combat.json](./23750-planetside-core-combat.json) |
 | PlataGO! Super Platform Game Maker | 95993 | [95993-platago-super-platform-game-maker.json](./95993-platago-super-platform-game-maker.json) |
 | Platera | 389327 | [389327-platera.json](./389327-platera.json) |
+| Platform5 Dungeons | 342441 | [342441-platform5-dungeons.json](./342441-platform5-dungeons.json) |
 | Platformines | 16862 | [16862-platformines.json](./16862-platformines.json) |
 | Platonica Space | 354850 | [354850-platonica-space.json](./354850-platonica-space.json) |
 | Platypus | 10704 | [10704-platypus.json](./10704-platypus.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Special Chapter | 376344 | [376344-pokemon-special-chapter.json](./376344-pokemon-special-chapter.json) |
 | Poker Battle | 378027 | [378027-poker-battle.json](./378027-poker-battle.json) |
 | Poker Fate | 392671 | [392671-poker-fate.json](./392671-poker-fate.json) |
+| Poker Solitaire | 342443 | [342443-poker-solitaire.json](./342443-poker-solitaire.json) |
 | Poker: Texas & Omaha Hold'em | 382633 | [382633-poker-texas-and-omaha-holdem.json](./382633-poker-texas-and-omaha-holdem.json) |
 | Pokergaga | 394020 | [394020-pokergaga.json](./394020-pokergaga.json) |
 | Polar Star | 346449 | [346449-polar-star.json](./346449-polar-star.json) |
@@ -432,8 +435,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong by Yesser Studios | 396823 | [396823-pong-by-yesser-studios.json](./396823-pong-by-yesser-studios.json) |
 | Pooka Party! | 361511 | [361511-pooka-party.json](./361511-pooka-party.json) |
 | Pool Fever: Platinium Edition | 394753 | [394753-pool-fever-platinium-edition.json](./394753-pool-fever-platinium-edition.json) |
+| Pool Hop | 342477 | [342477-pool-hop.json](./342477-pool-hop.json) |
 | Pool Hop 2 | 401428 | [401428-pool-hop-2.json](./401428-pool-hop-2.json) |
 | Pool Nation FX | 17645 | [17645-pool-nation-fx.json](./17645-pool-nation-fx.json) |
+| Pool With Me | 342444 | [342444-pool-with-me.json](./342444-pool-with-me.json) |
 | Poolrooms Museum | 411473 | [411473-poolrooms-museum.json](./411473-poolrooms-museum.json) |
 | Poor Bird | 410763 | [410763-poor-bird.json](./410763-poor-bird.json) |
 | Pop Life | 343091 | [343091-pop-life.json](./343091-pop-life.json) |
@@ -486,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia | 229862 | [229862-prince-of-persia.json](./229862-prince-of-persia.json) |
 | Prince of Persia: The Lost Crown | 341533 | [341533-prince-of-persia-the-lost-crown.json](./341533-prince-of-persia-the-lost-crown.json) |
 | Princess Connect! Re:Dive | 22791 | [22791-princess-connect-re-dive.json](./22791-princess-connect-re-dive.json) |
+| Princess Games Pack: 7 in 1! | 342474 | [342474-princess-games-pack-7-in-1.json](./342474-princess-games-pack-7-in-1.json) |
 | Princess Isabella: The Rise Of An Heir | 91278 | [91278-princess-isabella-the-rise-of-an-heir.json](./91278-princess-isabella-the-rise-of-an-heir.json) |
 | Princess Maker 2 | 4262 | [4262-princess-maker-2.json](./4262-princess-maker-2.json) |
 | Princess Maker 5 | 72590 | [72590-princess-maker-5.json](./72590-princess-maker-5.json) |
