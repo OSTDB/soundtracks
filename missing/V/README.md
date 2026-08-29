@@ -30,10 +30,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vasilisa and Baba Yaga | 240612 | [240612-vasilisa-and-baba-yaga.json](./240612-vasilisa-and-baba-yaga.json) |
 | Vastar | 384388 | [384388-vastar.json](./384388-vastar.json) |
 | Vault Survivors | 366053 | [366053-vault-survivors.json](./366053-vault-survivors.json) |
+| Vector Horizon | 348642 | [348642-vector-horizon.json](./348642-vector-horizon.json) |
 | Vector Lab | 379771 | [379771-vector-lab.json](./379771-vector-lab.json) |
 | Vector Seven | 372846 | [372846-vector-seven.json](./372846-vector-seven.json) |
 | Vedmy Zov | 367213 | [367213-vedmy-zov.json](./367213-vedmy-zov.json) |
 | Vegas Crime City | 95735 | [95735-vegas-crime-city.json](./95735-vegas-crime-city.json) |
+| Veggies Delight | 348611 | [348611-veggies-delight.json](./348611-veggies-delight.json) |
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
 | Veiled Shadows | 393309 | [393309-veiled-shadows.json](./393309-veiled-shadows.json) |
@@ -69,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village 51 | 404736 | [404736-village-51.json](./404736-village-51.json) |
 | Village Incremental | 414954 | [414954-village-incremental.json](./414954-village-incremental.json) |
 | Village of Souls | 47133 | [47133-village-of-souls.json](./47133-village-of-souls.json) |
+| Vintage Delight | 348606 | [348606-vintage-delight.json](./348606-vintage-delight.json) |
 | Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Violent Storm | 39400 | [39400-violent-storm.json](./39400-violent-storm.json) |
 | Violet Impetus | 385469 | [385469-violet-impetus.json](./385469-violet-impetus.json) |
@@ -95,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Breach | 395448 | [395448-void-breach.json](./395448-void-breach.json) |
 | Void Destroyer | 16776 | [16776-void-destroyer.json](./16776-void-destroyer.json) |
 | Void Diver: Escape From the Abyss | 389278 | [389278-void-diver-escape-from-the-abyss.json](./389278-void-diver-escape-from-the-abyss.json) |
+| Void Stalkers | 348615 | [348615-void-stalkers.json](./348615-void-stalkers.json) |
 | Void Terrarium 2 | 191965 | [191965-void-terrarium-2.json](./191965-void-terrarium-2.json) |
 | Voidhold | 414983 | [414983-voidhold.json](./414983-voidhold.json) |
 | Voidrun | 116267 | [116267-voidrun.json](./116267-voidrun.json) |
