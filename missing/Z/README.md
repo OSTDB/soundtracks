@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Solitaire 2 Chapter 3 | 86499 | [86499-zombie-solitaire-2-chapter-3.json](./86499-zombie-solitaire-2-chapter-3.json) |
 | Zombie Tycoon 2: Brainhov's Revenge | 9296 | [9296-zombie-tycoon-2-brainhovs-revenge.json](./9296-zombie-tycoon-2-brainhovs-revenge.json) |
 | Zombieville USA 2 | 86895 | [86895-zombieville-usa-2.json](./86895-zombieville-usa-2.json) |
+| Zombiez! | 343666 | [343666-zombiez.json](./343666-zombiez.json) |
 | Zombo Buster Rising | 24823 | [24823-zombo-buster-rising.json](./24823-zombo-buster-rising.json) |
 | Zombolion | 359240 | [359240-zombolion.json](./359240-zombolion.json) |
 | ZombVR | 31408 | [31408-zombvr.json](./31408-zombvr.json) |
