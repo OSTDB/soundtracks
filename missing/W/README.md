@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch the Cornline VR | 366048 | [366048-watch-the-cornline-vr.json](./366048-watch-the-cornline-vr.json) |
 | Watch Yo Plane | 409432 | [409432-watch-yo-plane.json](./409432-watch-yo-plane.json) |
 | Watcher's Eye | 371089 | [371089-watchers-eye.json](./371089-watchers-eye.json) |
+| Water Sort: Color Puzzle Game | 357072 | [357072-water-sort-color-puzzle-game.json](./357072-water-sort-color-puzzle-game.json) |
 | Wave Leads You... | 379214 | [379214-wave-leads-you.json](./379214-wave-leads-you.json) |
 | Wave Off Blue | 386031 | [386031-wave-off-blue.json](./386031-wave-off-blue.json) |
 | Wavekin | 360958 | [360958-wavekin.json](./360958-wavekin.json) |
@@ -109,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Boon Hill | 34362 | [34362-welcome-to-boon-hill.json](./34362-welcome-to-boon-hill.json) |
 | Welcome to Bummertown | 107827 | [107827-welcome-to-bummertown.json](./107827-welcome-to-bummertown.json) |
 | Welcome to Cafe Lumière!: A Dragon Girl Concept Cafe | 398851 | [398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json](./398851-welcome-to-cafe-lumiere-a-dragon-girl-concept-cafe.json) |
+| Welcome to Camp Blue Lake | 357067 | [357067-welcome-to-camp-blue-lake.json](./357067-welcome-to-camp-blue-lake.json) |
 | Welcome to Paradize | 276792 | [276792-welcome-to-paradize.json](./276792-welcome-to-paradize.json) |
 | Welcome to the Guild Explorers | 388599 | [388599-welcome-to-the-guild-explorers.json](./388599-welcome-to-the-guild-explorers.json) |
 | Welcome, Dear Human | 393347 | [393347-welcome-dear-human.json](./393347-welcome-dear-human.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Escape: Gambler & Adventurer Edition | 373404 | [373404-west-escape-gambler-and-adventurer-edition.json](./373404-west-escape-gambler-and-adventurer-edition.json) |
 | Wet | 3057 | [3057-wet.json](./3057-wet.json) |
 | What do you hear?? Yanny vs Laurel | 102221 | [102221-what-do-you-hear-yanny-vs-laurel.json](./102221-what-do-you-hear-yanny-vs-laurel.json) |
+| What Happened Here? | 357066 | [357066-what-happened-here.json](./357066-what-happened-here.json) |
 | What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
 | What the Bat? | 204348 | [204348-what-the-bat.json](./204348-what-the-bat.json) |
 | What the Dog Doing? | 410773 | [410773-what-the-dog-doing.json](./410773-what-the-dog-doing.json) |
@@ -262,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Black Manta | 10761 | [10761-wrath-of-the-black-manta.json](./10761-wrath-of-the-black-manta.json) |
 | Wrath of the Fire God | 22721 | [22721-wrath-of-the-fire-god.json](./22721-wrath-of-the-fire-god.json) |
 | WRC Generations | 201963 | [201963-wrc-generations.json](./201963-wrc-generations.json) |
+| Wrecked | 357053 | [357053-wrecked.json](./357053-wrecked.json) |
 | Wrecking Crew '98 | 42400 | [42400-wrecking-crew-98.json](./42400-wrecking-crew-98.json) |
 | Wreckreation 2 | 410777 | [410777-wreckreation-2.json](./410777-wreckreation-2.json) |
 | Wretch: Divine Ascent - Pirate Pack | 398870 | [398870-wretch-divine-ascent-pirate-pack.json](./398870-wretch-divine-ascent-pirate-pack.json) |
