@@ -32,11 +32,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Making a Monster | 378618 | [378618-im-making-a-monster.json](./378618-im-making-a-monster.json) |
 | I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
 | I'm not a Human: Horror Simulator | 373372 | [373372-im-not-a-human-horror-simulator.json](./373372-im-not-a-human-horror-simulator.json) |
+| I/O | 349668 | [349668-i-o.json](./349668-i-o.json) |
 | Ib | 195732 | [195732-ib.json](./195732-ib.json) |
 | Ib | 50467 | [50467-ib.json](./50467-ib.json) |
 | iBomber Defense Pacific | 9288 | [9288-ibomber-defense-pacific.json](./9288-ibomber-defense-pacific.json) |
 | Icarus: Dangerous Horizons | 410097 | [410097-icarus-dangerous-horizons.json](./410097-icarus-dangerous-horizons.json) |
 | Ice Age: Dawn of the Dinosaurs | 4923 | [4923-ice-age-dawn-of-the-dinosaurs.json](./4923-ice-age-dawn-of-the-dinosaurs.json) |
+| Ice Block Slide Rush | 349682 | [349682-ice-block-slide-rush.json](./349682-ice-block-slide-rush.json) |
 | Ice Cream Typer | 357646 | [357646-ice-cream-typer.json](./357646-ice-cream-typer.json) |
 | Ice Crush 2018 | 96050 | [96050-ice-crush-2018.json](./96050-ice-crush-2018.json) |
 | Ice Eyes | 382639 | [382639-ice-eyes.json](./382639-ice-eyes.json) |
