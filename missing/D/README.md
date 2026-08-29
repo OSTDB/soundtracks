@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Cash Slots | 360985 | [360985-diamond-cash-slots.json](./360985-diamond-cash-slots.json) |
 | Diana | 379760 | [379760-diana.json](./379760-diana.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
+| Diatribes | 349166 | [349166-diatribes.json](./349166-diatribes.json) |
 | Dice & Figurines: Business Life Simulator | 392019 | [392019-dice-and-figurines-business-life-simulator.json](./392019-dice-and-figurines-business-life-simulator.json) |
 | Dice Card Heroes | 367235 | [367235-dice-card-heroes.json](./367235-dice-card-heroes.json) |
 | Dice Crawler | 412174 | [412174-dice-crawler.json](./412174-dice-crawler.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Stairs: The Game | 409453 | [409453-down-the-stairs-the-game.json](./409453-down-the-stairs-the-game.json) |
 | Down to Hell | 110975 | [110975-down-to-hell.json](./110975-down-to-hell.json) |
 | Downbeat | 383805 | [383805-downbeat.json](./383805-downbeat.json) |
+| Downmouse | 349171 | [349171-downmouse.json](./349171-downmouse.json) |
 | Downward | 31942 | [31942-downward.json](./31942-downward.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downwell | 13677 | [13677-downwell.json](./13677-downwell.json) |
@@ -659,9 +661,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Doom | 380298 | [380298-dungeon-of-doom.json](./380298-dungeon-of-doom.json) |
 | Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
 | Dungeon Pets | 397538 | [397538-dungeon-pets.json](./397538-dungeon-pets.json) |
+| Dungeon Picnic | 349172 | [349172-dungeon-picnic.json](./349172-dungeon-picnic.json) |
 | Dungeon Rats | 25208 | [25208-dungeon-rats.json](./25208-dungeon-rats.json) |
 | Dungeon Siege | 329 | [329-dungeon-siege.json](./329-dungeon-siege.json) |
 | Dungeon Siege III | 5988 | [5988-dungeon-siege-iii.json](./5988-dungeon-siege-iii.json) |
+| Dungeon Sweeper | 349139 | [349139-dungeon-sweeper.json](./349139-dungeon-sweeper.json) |
 | Dungeonery | 400137 | [400137-dungeonery.json](./400137-dungeonery.json) |
 | Dungeons & Donuts | 412163 | [412163-dungeons-and-donuts.json](./412163-dungeons-and-donuts.json) |
 | Dungeons & Dragons Online: Dragonblood Prophecy | 353671 | [353671-dungeons-and-dragons-online-dragonblood-prophecy.json](./353671-dungeons-and-dragons-online-dragonblood-prophecy.json) |
@@ -688,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Busters | 383800 | [383800-dust-busters.json](./383800-dust-busters.json) |
 | Dust Origins | 414980 | [414980-dust-origins.json](./414980-dust-origins.json) |
 | Dustland Delivery: Wildmax Edition | 386565 | [386565-dustland-delivery-wildmax-edition.json](./386565-dustland-delivery-wildmax-edition.json) |
+| Dustless | 349144 | [349144-dustless.json](./349144-dustless.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dusttale: Non est Deus | 356456 | [356456-dusttale-non-est-deus.json](./356456-dusttale-non-est-deus.json) |
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
