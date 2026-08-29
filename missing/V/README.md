@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.Start | 371085 | [371085-v-start.json](./371085-v-start.json) |
 | Vacation Terminal | 370534 | [370534-vacation-terminal.json](./370534-vacation-terminal.json) |
 | Vacivus: Resurger | 391501 | [391501-vacivus-resurger.json](./391501-vacivus-resurger.json) |
+| Valis II | 355929 | [355929-valis-ii.json](./355929-valis-ii.json) |
 | Valkyria Revolution | 14673 | [14673-valkyria-revolution.json](./14673-valkyria-revolution.json) |
 | Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
 | Valnir Rok | 61887 | [61887-valnir-rok.json](./61887-valnir-rok.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Escape: The Play Room | 31477 | [31477-virtual-escape-the-play-room.json](./31477-virtual-escape-the-play-room.json) |
 | Virtual Mother Game: Family Mom Simulator | 95738 | [95738-virtual-mother-game-family-mom-simulator.json](./95738-virtual-mother-game-family-mom-simulator.json) |
 | Virtual Rides 3 | 31666 | [31666-virtual-rides-3.json](./31666-virtual-rides-3.json) |
+| Virtual Tank | 355925 | [355925-virtual-tank.json](./355925-virtual-tank.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
 | Visitors | 31537 | [31537-visitors.json](./31537-visitors.json) |
