@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scéal | 31951 | [31951-sceal.json](./31951-sceal.json) |
 | Scene No.0 | 397557 | [397557-scene-no-0.json](./397557-scene-no-0.json) |
 | Schedule: Rehab Business | 414978 | [414978-schedule-rehab-business.json](./414978-schedule-rehab-business.json) |
+| School Photo Transformer | 342448 | [342448-school-photo-transformer.json](./342448-school-photo-transformer.json) |
 | Schoolboy Runaway | 307783 | [307783-schoolboy-runaway.json](./307783-schoolboy-runaway.json) |
 | Schrödinger's Call | 276832 | [276832-schrodingers-call.json](./276832-schrodingers-call.json) |
 | Scooby-Doo Mystery | 2855 | [2855-scooby-doo-mystery.json](./2855-scooby-doo-mystery.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See the Sky | 414972 | [414972-see-the-sky.json](./414972-see-the-sky.json) |
 | Seed Adventure | 371675 | [371675-seed-adventure.json](./371675-seed-adventure.json) |
 | Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
+| Seedsow Lullaby | 342449 | [342449-seedsow-lullaby.json](./342449-seedsow-lullaby.json) |
 | Seedwyr | 408677 | [408677-seedwyr.json](./408677-seedwyr.json) |
 | Seek and Seduce: Naomie | 382044 | [382044-seek-and-seduce-naomie.json](./382044-seek-and-seduce-naomie.json) |
 | Sega Ages Alex Kidd in Miracle World | 109597 | [109597-sega-ages-alex-kidd-in-miracle-world.json](./109597-sega-ages-alex-kidd-in-miracle-world.json) |
@@ -189,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Corridor Zero | 414258 | [414258-shadow-corridor-zero.json](./414258-shadow-corridor-zero.json) |
 | Shadow Frog | 412818 | [412818-shadow-frog.json](./412818-shadow-frog.json) |
 | Shadow Generations | 320861 | [320861-shadow-generations.json](./320861-shadow-generations.json) |
+| Shadow Labyrinth: Deluxe Edition | 342450 | [342450-shadow-labyrinth-deluxe-edition.json](./342450-shadow-labyrinth-deluxe-edition.json) |
 | Shadow of Loot Box | 81705 | [81705-shadow-of-loot-box.json](./81705-shadow-of-loot-box.json) |
 | Shadow Rift: Feral Strike | 378040 | [378040-shadow-rift-feral-strike.json](./378040-shadow-rift-feral-strike.json) |
 | Shadow Saloon | 403481 | [403481-shadow-saloon.json](./403481-shadow-saloon.json) |
@@ -206,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae Advance: Risky Revolution Deluxe Edition | 360957 | [360957-shantae-advance-risky-revolution-deluxe-edition.json](./360957-shantae-advance-risky-revolution-deluxe-edition.json) |
 | Shaolin Mystery: Tale of the Jade Dragon Staff | 383239 | [383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json](./383239-shaolin-mystery-tale-of-the-jade-dragon-staff.json) |
 | Shape Blast | 347526 | [347526-shape-blast.json](./347526-shape-blast.json) |
+| Shape Drop | 342451 | [342451-shape-drop.json](./342451-shape-drop.json) |
 | Shape of America: Episode One | 76935 | [76935-shape-of-america-episode-one.json](./76935-shape-of-america-episode-one.json) |
 | Shape Sweeper | 385997 | [385997-shape-sweeper.json](./385997-shape-sweeper.json) |
 | Shapeless | 384983 | [384983-shapeless.json](./384983-shapeless.json) |
@@ -289,17 +293,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Wars | 35778 | [35778-siege-wars.json](./35778-siege-wars.json) |
 | Sign the Deal: Real Estate Simulator | 389875 | [389875-sign-the-deal-real-estate-simulator.json](./389875-sign-the-deal-real-estate-simulator.json) |
 | Signal Lost: The Ping | 389899 | [389899-signal-lost-the-ping.json](./389899-signal-lost-the-ping.json) |
+| Signed, Sealed & Delivered! | 342454 | [342454-signed-sealed-and-delivered.json](./342454-signed-sealed-and-delivered.json) |
 | Signs of Life | 16839 | [16839-signs-of-life.json](./16839-signs-of-life.json) |
 | Silent Hill 2 | 222485 | [222485-silent-hill-2.json](./222485-silent-hill-2.json) |
 | Silent Hill: Ascension | 274880 | [274880-silent-hill-ascension.json](./274880-silent-hill-ascension.json) |
 | Silent Hill: The Short Message | 218744 | [218744-silent-hill-the-short-message.json](./218744-silent-hill-the-short-message.json) |
 | Silent Hunter 4: Wolves of the Pacific | 993 | [993-silent-hunter-4-wolves-of-the-pacific.json](./993-silent-hunter-4-wolves-of-the-pacific.json) |
 | Silent Hunter II | 992 | [992-silent-hunter-ii.json](./992-silent-hunter-ii.json) |
+| Silent Mist | 342455 | [342455-silent-mist.json](./342455-silent-mist.json) |
 | Silent Raid | 405382 | [405382-silent-raid.json](./405382-silent-raid.json) |
 | Sillinder's Somewhat Uneventful Tuesday | 409467 | [409467-sillinders-somewhat-uneventful-tuesday.json](./409467-sillinders-somewhat-uneventful-tuesday.json) |
 | Silly Survivors | 376092 | [376092-silly-survivors.json](./376092-silly-survivors.json) |
 | Silver Grapple | 47164 | [47164-silver-grapple.json](./47164-silver-grapple.json) |
 | Silver Lines | 388592 | [388592-silver-lines.json](./388592-silver-lines.json) |
+| SiMarket Cloth Store Simulator | 342456 | [342456-simarket-cloth-store-simulator.json](./342456-simarket-cloth-store-simulator.json) |
 | SimCity 2000 | 365476 | [365476-simcity-2000.json](./365476-simcity-2000.json) |
 | SimCity 4: Deluxe Edition | 27891 | [27891-simcity-4-deluxe-edition.json](./27891-simcity-4-deluxe-edition.json) |
 | Similariddle | 392051 | [392051-similariddle.json](./392051-similariddle.json) |
@@ -337,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skam | 382605 | [382605-skam.json](./382605-skam.json) |
 | Skarven | 379750 | [379750-skarven.json](./379750-skarven.json) |
 | Skate Style | 379215 | [379215-skate-style.json](./379215-skate-style.json) |
+| Skating Rink Story | 342457 | [342457-skating-rink-story.json](./342457-skating-rink-story.json) |
 | Skating Warrior | 359278 | [359278-skating-warrior.json](./359278-skating-warrior.json) |
 | Skatr | 388625 | [388625-skatr.json](./388625-skatr.json) |
 | Sker Ritual | 182116 | [182116-sker-ritual.json](./182116-sker-ritual.json) |
@@ -586,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatial | 298274 | [298274-spatial.json](./298274-spatial.json) |
 | Spear of the Sky | 406012 | [406012-spear-of-the-sky.json](./406012-spear-of-the-sky.json) |
 | Special Order | 386570 | [386570-special-order.json](./386570-special-order.json) |
+| Special Warfare | 342458 | [342458-special-warfare.json](./342458-special-warfare.json) |
 | Specter: The Battle of the Mind | 384365 | [384365-specter-the-battle-of-the-mind.json](./384365-specter-the-battle-of-the-mind.json) |
 | Spectraball | 14918 | [14918-spectraball.json](./14918-spectraball.json) |
 | Speed Boom: Last Delivery | 394740 | [394740-speed-boom-last-delivery.json](./394740-speed-boom-last-delivery.json) |
@@ -626,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Walkers: Curse of the Cypress Witch | 87595 | [87595-spirit-walkers-curse-of-the-cypress-witch.json](./87595-spirit-walkers-curse-of-the-cypress-witch.json) |
 | Spirit-- | 360955 | [360955-spirit.json](./360955-spirit.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
+| Splatter Blocks | 342459 | [342459-splatter-blocks.json](./342459-splatter-blocks.json) |
 | Splish Splash Pong | 345329 | [345329-splish-splash-pong.json](./345329-splish-splash-pong.json) |
 | Sponge Break | 408625 | [408625-sponge-break.json](./408625-sponge-break.json) |
 | SpongeBob SquarePants featuring Nicktoons: Globs of Doom | 2776 | [2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json](./2776-spongebob-squarepants-featuring-nicktoons-globs-of-doom.json) |
@@ -640,10 +650,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spooky Spins Deluxe | 368849 | [368849-spooky-spins-deluxe.json](./368849-spooky-spins-deluxe.json) |
 | Sport Animals | 365522 | [365522-sport-animals.json](./365522-sport-animals.json) |
+| Spot It Fast! Kids' Difference Hunt | 342460 | [342460-spot-it-fast-kids-difference-hunt.json](./342460-spot-it-fast-kids-difference-hunt.json) |
+| Spot the Difference Detective | 342461 | [342461-spot-the-difference-detective.json](./342461-spot-the-difference-detective.json) |
+| Spot the Difference with Masterpieces | 342462 | [342462-spot-the-difference-with-masterpieces.json](./342462-spot-the-difference-with-masterpieces.json) |
 | Spot's Busy Day | 378662 | [378662-spots-busy-day.json](./378662-spots-busy-day.json) |
 | SpotCat vs. The Cheddar Mafia In Space | 379234 | [379234-spotcat-vs-the-cheddar-mafia-in-space.json](./379234-spotcat-vs-the-cheddar-mafia-in-space.json) |
 | Spring and Autumn Chronicles | 371113 | [371113-spring-and-autumn-chronicles.json](./371113-spring-and-autumn-chronicles.json) |
 | Spring Ball | 396803 | [396803-spring-ball.json](./396803-spring-ball.json) |
+| Spy Guy Greece | 342465 | [342465-spy-guy-greece.json](./342465-spy-guy-greece.json) |
+| Spy Guy Jigsaw Fun | 342464 | [342464-spy-guy-jigsaw-fun.json](./342464-spy-guy-jigsaw-fun.json) |
+| Spy Guy Legends of Greece | 342463 | [342463-spy-guy-legends-of-greece.json](./342463-spy-guy-legends-of-greece.json) |
 | Spyder: Agent 8 | 405412 | [405412-spyder-agent-8.json](./405412-spyder-agent-8.json) |
 | SQL Island | 359779 | [359779-sql-island.json](./359779-sql-island.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
@@ -785,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbound | 413535 | [413535-stormbound.json](./413535-stormbound.json) |
 | Stormy Space | 381463 | [381463-stormy-space.json](./381463-stormy-space.json) |
 | Story of My Life | 399461 | [399461-story-of-my-life.json](./399461-story-of-my-life.json) |
+| Story of Seasons: Grand Bazaar - Trunk of Transformation | 342468 | [342468-story-of-seasons-grand-bazaar-trunk-of-transformation.json](./342468-story-of-seasons-grand-bazaar-trunk-of-transformation.json) |
 | Story: Heaven & Hell | 102149 | [102149-story-heaven-and-hell.json](./102149-story-heaven-and-hell.json) |
 | Storytime Cats: A Day at the Park | 406603 | [406603-storytime-cats-a-day-at-the-park.json](./406603-storytime-cats-a-day-at-the-park.json) |
 | Storytime Cats: A Twilight Tale | 392029 | [392029-storytime-cats-a-twilight-tale.json](./392029-storytime-cats-a-twilight-tale.json) |
@@ -865,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudopix | 348074 | [348074-sudopix.json](./348074-sudopix.json) |
 | Sugar Cube: Bittersweet Factory | 15304 | [15304-sugar-cube-bittersweet-factory.json](./15304-sugar-cube-bittersweet-factory.json) |
 | Sugary Super Mario Bros. Wii | 394011 | [394011-sugary-super-mario-bros-wii.json](./394011-sugary-super-mario-bros-wii.json) |
+| Sugoi Girls: Delhi Darling | 342466 | [342466-sugoi-girls-delhi-darling.json](./342466-sugoi-girls-delhi-darling.json) |
 | Sugoi Girls: Wolf Romance | 373387 | [373387-sugoi-girls-wolf-romance.json](./373387-sugoi-girls-wolf-romance.json) |
 | Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
