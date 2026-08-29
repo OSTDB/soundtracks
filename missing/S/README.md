@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Superstars Tennis | 47367 | [47367-sega-superstars-tennis.json](./47367-sega-superstars-tennis.json) |
 | SegaSonic the Hedgehog | 52140 | [52140-segasonic-the-hedgehog.json](./52140-segasonic-the-hedgehog.json) |
 | Seifuku Kanojo 3: Dekiai Box | 402216 | [402216-seifuku-kanojo-3-dekiai-box.json](./402216-seifuku-kanojo-3-dekiai-box.json) |
+| Seiken Densetsu: The Emergence of Excalibur | 355905 | [355905-seiken-densetsu-the-emergence-of-excalibur.json](./355905-seiken-densetsu-the-emergence-of-excalibur.json) |
 | Seleka-san Who Exposes Unnoticed With Naked Coat | 411470 | [411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json](./411470-seleka-san-who-exposes-unnoticed-with-naked-coat.json) |
 | Sellswords : Ashen Company | 115890 | [115890-sellswords-ashen-company.json](./115890-sellswords-ashen-company.json) |
 | Sempai no Namida | 365517 | [365517-sempai-no-namida.json](./365517-sempai-no-namida.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace Crafting | 46487 | [46487-solace-crafting.json](./46487-solace-crafting.json) |
 | Solar Settlers | 44139 | [44139-solar-settlers.json](./44139-solar-settlers.json) |
 | Solbrand | 364319 | [364319-solbrand.json](./364319-solbrand.json) |
+| Soldam | 355899 | [355899-soldam.json](./355899-soldam.json) |
 | Soldier Blade | 15841 | [15841-soldier-blade.json](./15841-soldier-blade.json) |
 | Solemnfable | 413517 | [413517-solemnfable.json](./413517-solemnfable.json) |
 | Solheart: The Hollow Sun | 386005 | [386005-solheart-the-hollow-sun.json](./386005-solheart-the-hollow-sun.json) |
@@ -764,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Invaders | 8078 | [8078-stupid-invaders.json](./8078-stupid-invaders.json) |
 | Style Savvy | 85398 | [85398-style-savvy.json](./85398-style-savvy.json) |
 | Style Savvy: Styling Star | 67202 | [67202-style-savvy-styling-star.json](./67202-style-savvy-styling-star.json) |
+| Subarashii | 355947 | [355947-subarashii.json](./355947-subarashii.json) |
 | Subdivision Infinity | 87618 | [87618-subdivision-infinity.json](./87618-subdivision-infinity.json) |
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
 | Subject55 | 400154 | [400154-subject55.json](./400154-subject55.json) |
