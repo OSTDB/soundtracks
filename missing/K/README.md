@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
 | Keep Digging: Version 2.0 | 379247 | [379247-keep-digging-version-2-0.json](./379247-keep-digging-version-2-0.json) |
 | Keep it up! | 101661 | [101661-keep-it-up.json](./101661-keep-it-up.json) |
+| Keine's Terakoya: A Schoolhouse in Gensokyo | 349138 | [349138-keines-terakoya-a-schoolhouse-in-gensokyo.json](./349138-keines-terakoya-a-schoolhouse-in-gensokyo.json) |
 | Keks Slot Machines | 389275 | [389275-keks-slot-machines.json](./389275-keks-slot-machines.json) |
 | KemonoMix Re | 396793 | [396793-kemonomix-re.json](./396793-kemonomix-re.json) |
 | Kemuri Neko | 398218 | [398218-kemuri-neko.json](./398218-kemuri-neko.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda: Train Like a Master | 382618 | [382618-kung-fu-panda-train-like-a-master.json](./382618-kung-fu-panda-train-like-a-master.json) |
 | Kung Fu Rabbit | 23584 | [23584-kung-fu-rabbit.json](./23584-kung-fu-rabbit.json) |
 | Kung Fu Strike: The Warrior's Rise | 9384 | [9384-kung-fu-strike-the-warriors-rise.json](./9384-kung-fu-strike-the-warriors-rise.json) |
+| Kungfu Card | 349161 | [349161-kungfu-card.json](./349161-kungfu-card.json) |
 | Kunoichi Tsubaki | 109786 | [109786-kunoichi-tsubaki.json](./109786-kunoichi-tsubaki.json) |
 | Kupar: Horror Mystery | 414235 | [414235-kupar-horror-mystery.json](./414235-kupar-horror-mystery.json) |
 | Kurage no Gakkou | 393338 | [393338-kurage-no-gakkou.json](./393338-kurage-no-gakkou.json) |
