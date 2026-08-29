@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCraps | 87639 | [87639-icraps.json](./87639-icraps.json) |
 | Icy | 24589 | [24589-icy.json](./24589-icy.json) |
 | Icy Gifts 2 | 401403 | [401403-icy-gifts-2.json](./401403-icy-gifts-2.json) |
+| Idle Champions of the Forgotten Realms: Light of Xaryxis | 357096 | [357096-idle-champions-of-the-forgotten-realms-light-of-xaryxis.json](./357096-idle-champions-of-the-forgotten-realms-light-of-xaryxis.json) |
 | Idle Commonwealth | 370504 | [370504-idle-commonwealth.json](./370504-idle-commonwealth.json) |
 | Idle Dragon Tycoon | 406032 | [406032-idle-dragon-tycoon.json](./406032-idle-dragon-tycoon.json) |
 | Idle Earth | 101700 | [101700-idle-earth.json](./101700-idle-earth.json) |
