@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Clinic | 382051 | [382051-waifu-clinic.json](./382051-waifu-clinic.json) |
 | Waifu Lust | 389861 | [389861-waifu-lust.json](./389861-waifu-lust.json) |
 | Waifu Quest | 404758 | [404758-waifu-quest.json](./404758-waifu-quest.json) |
+| Waiting for Reply | 342476 | [342476-waiting-for-reply.json](./342476-waiting-for-reply.json) |
 | Wake the Beacon | 406010 | [406010-wake-the-beacon.json](./406010-wake-the-beacon.json) |
 | Wake Up | 384353 | [384353-wake-up.json](./384353-wake-up.json) |
 | Wakfu | 9280 | [9280-wakfu.json](./9280-wakfu.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurm Online | 22677 | [22677-wurm-online.json](./22677-wurm-online.json) |
 | Wushu Chronicles | 107801 | [107801-wushu-chronicles.json](./107801-wushu-chronicles.json) |
 | Wuthering Waves: The Dream Not Dreamed | 405403 | [405403-wuthering-waves-the-dream-not-dreamed.json](./405403-wuthering-waves-the-dream-not-dreamed.json) |
+| WW2 Soldiers of Honor: Warzone Assault | 342467 | [342467-ww2-soldiers-of-honor-warzone-assault.json](./342467-ww2-soldiers-of-honor-warzone-assault.json) |
 | WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K14 | 5297 | [5297-wwe-2k14.json](./5297-wwe-2k14.json) |
 | WWE 2K26: Attitude Era Edition | 390952 | [390952-wwe-2k26-attitude-era-edition.json](./390952-wwe-2k26-attitude-era-edition.json) |
