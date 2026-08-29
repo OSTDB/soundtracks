@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's New Island Match-Up | 360931 | [360931-yoshis-new-island-match-up.json](./360931-yoshis-new-island-match-up.json) |
 | You and Choice | 392667 | [392667-you-and-choice.json](./392667-you-and-choice.json) |
 | You Are Disabled | 14739 | [14739-you-are-disabled.json](./14739-you-are-disabled.json) |
+| You Are Ghost | 346944 | [346944-you-are-ghost.json](./346944-you-are-ghost.json) |
 | You Don't Know Jack Headrush | 16788 | [16788-you-dont-know-jack-headrush.json](./16788-you-dont-know-jack-headrush.json) |
 | You Don't Know Jack Vol. 1 XL | 30236 | [30236-you-dont-know-jack-vol-1-xl.json](./30236-you-dont-know-jack-vol-1-xl.json) |
 | You Don't Know Jack Vol. 3 | 16783 | [16783-you-dont-know-jack-vol-3.json](./16783-you-dont-know-jack-vol-3.json) |
