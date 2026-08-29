@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 1% Club World Challenge | 396117 | [396117-the-1-club-world-challenge.json](./396117-the-1-club-world-challenge.json) |
 | The 1500 Year Old Forest Elf and My Anti-materiel Sniper Rifle | 359266 | [359266-the-1500-year-old-forest-elf-and-my-anti-materiel-sniper-rifle.json](./359266-the-1500-year-old-forest-elf-and-my-anti-materiel-sniper-rifle.json) |
 | The 4 Masked | 407247 | [407247-the-4-masked.json](./407247-the-4-masked.json) |
+| The 5th Door | 343660 | [343660-the-5th-door.json](./343660-the-5th-door.json) |
 | The Addams Family | 14209 | [14209-the-addams-family.json](./14209-the-addams-family.json) |
 | The Adventures of Batman & Robin | 234834 | [234834-the-adventures-of-batman-and-robin.json](./234834-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin | 5346 | [5346-the-adventures-of-batman-and-robin.json](./5346-the-adventures-of-batman-and-robin.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls IV: Oblivion 5th Anniversary Edition | 53731 | [53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json](./53731-the-elder-scrolls-iv-oblivion-5th-anniversary-edition.json) |
 | The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
 | The Elder Scrolls Online: Season Zero Dawn and Dusk | 396781 | [396781-the-elder-scrolls-online-season-zero-dawn-and-dusk.json](./396781-the-elder-scrolls-online-season-zero-dawn-and-dusk.json) |
+| The Elder Scrolls Online: Seasons of the Worm Cult | 343636 | [343636-the-elder-scrolls-online-seasons-of-the-worm-cult.json](./343636-the-elder-scrolls-online-seasons-of-the-worm-cult.json) |
 | The Elder Scrolls V: Skyrim - Hearthfire | 6068 | [6068-the-elder-scrolls-v-skyrim-hearthfire.json](./6068-the-elder-scrolls-v-skyrim-hearthfire.json) |
 | The Elder Scrolls V: Skyrim Collector's Edition | 41597 | [41597-the-elder-scrolls-v-skyrim-collectors-edition.json](./41597-the-elder-scrolls-v-skyrim-collectors-edition.json) |
 | The Elder Scrolls: Arena | 52 | [52-the-elder-scrolls-arena.json](./52-the-elder-scrolls-arena.json) |
@@ -317,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Anathema | 357078 | [357078-the-heart-of-anathema.json](./357078-the-heart-of-anathema.json) |
 | The Hex | 31819 | [31819-the-hex.json](./31819-the-hex.json) |
 | The Hidden Library | 403452 | [403452-the-hidden-library.json](./403452-the-hidden-library.json) |
+| The Hiking Hawk | 343622 | [343622-the-hiking-hawk.json](./343622-the-hiking-hawk.json) |
 | The History Channel: Great Battles Medieval | 7811 | [7811-the-history-channel-great-battles-medieval.json](./7811-the-history-channel-great-battles-medieval.json) |
 | The Holdouts | 360930 | [360930-the-holdouts.json](./360930-the-holdouts.json) |
 | The Hollow Path | 354274 | [354274-the-hollow-path.json](./354274-the-hollow-path.json) |
@@ -727,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Legit Wheeler Seller | 371108 | [371108-totally-legit-wheeler-seller.json](./371108-totally-legit-wheeler-seller.json) |
 | Totally Rad | 48118 | [48118-totally-rad.json](./48118-totally-rad.json) |
 | Tottado! Yoiko no Mujintou Seikatsu | 372332 | [372332-tottado-yoiko-no-mujintou-seikatsu.json](./372332-tottado-yoiko-no-mujintou-seikatsu.json) |
+| Touch Hockey 2 | 343638 | [343638-touch-hockey-2.json](./343638-touch-hockey-2.json) |
 | Touch Typing Home Row Speed Grinder | 368320 | [368320-touch-typing-home-row-speed-grinder.json](./368320-touch-typing-home-row-speed-grinder.json) |
 | Touchgrind Skate 2 | 41517 | [41517-touchgrind-skate-2.json](./41517-touchgrind-skate-2.json) |
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
