@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | Once Glorious Artahk | 381468 | [381468-once-glorious-artahk.json](./381468-once-glorious-artahk.json) |
 | Once Upon a Throne of Thorns | 411487 | [411487-once-upon-a-throne-of-thorns.json](./411487-once-upon-a-throne-of-thorns.json) |
+| One & Done | 348104 | [348104-one-and-done.json](./348104-one-and-done.json) |
 | One Btn Bosses | 197067 | [197067-one-btn-bosses.json](./197067-one-btn-bosses.json) |
 | One Button Games 5-in-1 Vol. 5 | 396036 | [396036-one-button-games-5-in-1-vol-5.json](./396036-one-button-games-5-in-1-vol-5.json) |
 | One Day at a Time | 350276 | [350276-one-day-at-a-time.json](./350276-one-day-at-a-time.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital | 22870 | [22870-orbital.json](./22870-orbital.json) |
 | Orbital | 386583 | [386583-orbital.json](./386583-orbital.json) |
 | Orbital Challenge | 351456 | [351456-orbital-challenge.json](./351456-orbital-challenge.json) |
+| Orbital Mechanic | 348092 | [348092-orbital-mechanic.json](./348092-orbital-mechanic.json) |
 | Orbital Purge | 366057 | [366057-orbital-purge.json](./366057-orbital-purge.json) |
 | Orcs Must Die! Deathtrap | 308697 | [308697-orcs-must-die-deathtrap.json](./308697-orcs-must-die-deathtrap.json) |
 | Ordeal of Princess Eris | 116310 | [116310-ordeal-of-princess-eris.json](./116310-ordeal-of-princess-eris.json) |
