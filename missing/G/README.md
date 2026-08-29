@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GBKiss Mini Games | 366690 | [366690-gbkiss-mini-games.json](./366690-gbkiss-mini-games.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
+| Gears & Goo | 355930 | [355930-gears-and-goo.json](./355930-gears-and-goo.json) |
 | GearShift | 413520 | [413520-gearshift.json](./413520-gearshift.json) |
 | Geeksos | 116258 | [116258-geeksos.json](./116258-geeksos.json) |
 | Geist | 3928 | [3928-geist.json](./3928-geist.json) |
