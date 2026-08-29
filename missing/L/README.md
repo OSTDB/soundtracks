@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
 | Lazy Angel Mika | 359257 | [359257-lazy-angel-mika.json](./359257-lazy-angel-mika.json) |
 | Lazy River | 404732 | [404732-lazy-river.json](./404732-lazy-river.json) |
+| Le3ch | 355914 | [355914-le3ch.json](./355914-le3ch.json) |
 | Lead to Gold | 373936 | [373936-lead-to-gold.json](./373936-lead-to-gold.json) |
 | Leafborn | 400126 | [400126-leafborn.json](./400126-leafborn.json) |
 | Leapin Lads | 407256 | [407256-leapin-lads.json](./407256-leapin-lads.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 2: Kuso | 29777 | [29777-love-2-kuso.json](./29777-love-2-kuso.json) |
 | Love Esquire | 78752 | [78752-love-esquire.json](./78752-love-esquire.json) |
 | Love Limit | 380870 | [380870-love-limit.json](./380870-love-limit.json) |
+| Love Quest | 355907 | [355907-love-quest.json](./355907-love-quest.json) |
 | Love You | 408673 | [408673-love-you.json](./408673-love-you.json) |
 | Love You As I Am | 398894 | [398894-love-you-as-i-am.json](./398894-love-you-as-i-am.json) |
 | Love You to Bits | 68476 | [68476-love-you-to-bits.json](./68476-love-you-to-bits.json) |
@@ -253,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lullaby | 387891 | [387891-lullaby.json](./387891-lullaby.json) |
 | LumenKnight | 390969 | [390969-lumenknight.json](./390969-lumenknight.json) |
 | Lumina: Resenting Shadow | 384931 | [384931-lumina-resenting-shadow.json](./384931-lumina-resenting-shadow.json) |
+| Lumina's Brew | 355915 | [355915-luminas-brew.json](./355915-luminas-brew.json) |
 | Lumines Electronic Symphony | 4693 | [4693-lumines-electronic-symphony.json](./4693-lumines-electronic-symphony.json) |
 | Lumines Remastered | 94970 | [94970-lumines-remastered.json](./94970-lumines-remastered.json) |
 | Luminos | 115944 | [115944-luminos.json](./115944-luminos.json) |
