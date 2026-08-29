@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins Resurrection | 141545 | [141545-ghosts-n-goblins-resurrection.json](./141545-ghosts-n-goblins-resurrection.json) |
 | Ghostship Aftermath | 17114 | [17114-ghostship-aftermath.json](./17114-ghostship-aftermath.json) |
 | Giana Sisters DS | 80236 | [80236-giana-sisters-ds.json](./80236-giana-sisters-ds.json) |
+| Giant Flee | 350830 | [350830-giant-flee.json](./350830-giant-flee.json) |
 | Gibber Babel | 403464 | [403464-gibber-babel.json](./403464-gibber-babel.json) |
 | Giga Lich | 400136 | [400136-giga-lich.json](./400136-giga-lich.json) |
 | Giga Wing | 9162 | [9162-giga-wing.json](./9162-giga-wing.json) |
