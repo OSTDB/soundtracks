@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Chains of Olympus | 224439 | [224439-god-of-war-chains-of-olympus.json](./224439-god-of-war-chains-of-olympus.json) |
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | God Sacrifice | 375657 | [375657-god-sacrifice.json](./375657-god-sacrifice.json) |
+| God Syndrome | 350238 | [350238-god-syndrome.json](./350238-god-syndrome.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
 | Godforge | 354865 | [354865-godforge.json](./354865-godforge.json) |
 | Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Nac | 48935 | [48935-gun-nac.json](./48935-gun-nac.json) |
 | Gun Wings | 35774 | [35774-gun-wings.json](./35774-gun-wings.json) |
 | Gunboat Willie | 412879 | [412879-gunboat-willie.json](./412879-gunboat-willie.json) |
+| Gunjou no Sora wo Koete | 350250 | [350250-gunjou-no-sora-wo-koete.json](./350250-gunjou-no-sora-wo-koete.json) |
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunpey DS | 47805 | [47805-gunpey-ds.json](./47805-gunpey-ds.json) |
 | Guns of Salvation | 371727 | [371727-guns-of-salvation.json](./371727-guns-of-salvation.json) |
