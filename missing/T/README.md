@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
 | The Garden of Garden Gnome | 391495 | [391495-the-garden-of-garden-gnome.json](./391495-the-garden-of-garden-gnome.json) |
 | The Gigglebone Gang: World Tour | 395389 | [395389-the-gigglebone-gang-world-tour.json](./395389-the-gigglebone-gang-world-tour.json) |
+| The Girl in the Clouds | 357665 | [357665-the-girl-in-the-clouds.json](./357665-the-girl-in-the-clouds.json) |
 | The Glitch Prison Together | 381432 | [381432-the-glitch-prison-together.json](./381432-the-glitch-prison-together.json) |
 | The Glory Dungeon Raider | 396824 | [396824-the-glory-dungeon-raider.json](./396824-the-glory-dungeon-raider.json) |
 | The Gnorp Apologue | 274543 | [274543-the-gnorp-apologue.json](./274543-the-gnorp-apologue.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manhole | 15066 | [15066-the-manhole.json](./15066-the-manhole.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
+| The Mines | 357664 | [357664-the-mines.json](./357664-the-mines.json) |
 | The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Miskatonic | 59833 | [59833-the-miskatonic.json](./59833-the-miskatonic.json) |
 | The Monster Inside | 50521 | [50521-the-monster-inside.json](./50521-the-monster-inside.json) |
@@ -815,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinvader III | 385490 | [385490-twinvader-iii.json](./385490-twinvader-iii.json) |
 | Twist Pilot | 21003 | [21003-twist-pilot.json](./21003-twist-pilot.json) |
 | Twisted Fusion | 61926 | [61926-twisted-fusion.json](./61926-twisted-fusion.json) |
+| Twisted Gallery | 357614 | [357614-twisted-gallery.json](./357614-twisted-gallery.json) |
 | Twisted Metal 4 | 4698 | [4698-twisted-metal-4.json](./4698-twisted-metal-4.json) |
 | Twisted Metal III | 4697 | [4697-twisted-metal-iii.json](./4697-twisted-metal-iii.json) |
 | Two Worlds | 7222 | [7222-two-worlds.json](./7222-two-worlds.json) |
