@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Golf 3D | 47667 | [47667-lets-golf-3d.json](./47667-lets-golf-3d.json) |
 | Let's Yoga | 47857 | [47857-lets-yoga.json](./47857-lets-yoga.json) |
 | Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
+| Lethal Cosmic Hunt | 354841 | [354841-lethal-cosmic-hunt.json](./354841-lethal-cosmic-hunt.json) |
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
 | Lethal Women: Valerie's Game | 414217 | [414217-lethal-women-valeries-game.json](./414217-lethal-women-valeries-game.json) |
 | Lethal: Last Turn | 389887 | [389887-lethal-last-turn.json](./389887-lethal-last-turn.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Game | 109820 | [109820-life-game.json](./109820-life-game.json) |
 | Lift It | 34464 | [34464-lift-it.json](./34464-lift-it.json) |
+| Light Fall | 354854 | [354854-light-fall.json](./354854-light-fall.json) |
 | Lightfold | 400134 | [400134-lightfold.json](./400134-lightfold.json) |
 | Lightning Fighter 2 | 20928 | [20928-lightning-fighter-2.json](./20928-lightning-fighter-2.json) |
 | Like or Die | 415004 | [415004-like-or-die.json](./415004-like-or-die.json) |
