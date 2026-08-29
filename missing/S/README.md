@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Masters | 369943 | [369943-skyward-masters.json](./369943-skyward-masters.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
 | Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
+| Slap Fighter | 354287 | [354287-slap-fighter.json](./354287-slap-fighter.json) |
 | Slap Out of It! | 404739 | [404739-slap-out-of-it.json](./404739-slap-out-of-it.json) |
 | Slap Your Homies | 392639 | [392639-slap-your-homies.json](./392639-slap-your-homies.json) |
 | SlapCats | 373920 | [373920-slapcats.json](./373920-slapcats.json) |
@@ -552,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
 | Sperm Runner | 405422 | [405422-sperm-runner.json](./405422-sperm-runner.json) |
 | Sphinx and the Cursed Mummy | 4164 | [4164-sphinx-and-the-cursed-mummy.json](./4164-sphinx-and-the-cursed-mummy.json) |
+| Spider Dynasty | 354254 | [354254-spider-dynasty.json](./354254-spider-dynasty.json) |
 | Spider-Man | 3325 | [3325-spider-man.json](./3325-spider-man.json) |
 | Spider-Man | 375632 | [375632-spider-man.json](./375632-spider-man.json) |
 | Spider-Man 3 | 252202 | [252202-spider-man-3.json](./252202-spider-man-3.json) |
