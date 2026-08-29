@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinko Ponko | 364284 | [364284-pinko-ponko.json](./364284-pinko-ponko.json) |
 | Pǐnuòcáo de Fùsū | 379763 | [379763-pinuocao-de-fusu.json](./379763-pinuocao-de-fusu.json) |
 | Pionero Capital | 365498 | [365498-pionero-capital.json](./365498-pionero-capital.json) |
+| Pipe Craft | 344187 | [344187-pipe-craft.json](./344187-pipe-craft.json) |
 | PipeFlow | 399475 | [399475-pipeflow.json](./399475-pipeflow.json) |
 | Pipeworks Puzzle | 350288 | [350288-pipeworks-puzzle.json](./350288-pipeworks-puzzle.json) |
 | Pippin Please | 398245 | [398245-pippin-please.json](./398245-pippin-please.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puma: After Hours Athletes | 20831 | [20831-puma-after-hours-athletes.json](./20831-puma-after-hours-athletes.json) |
 | Pumpkin Hop | 368875 | [368875-pumpkin-hop.json](./368875-pumpkin-hop.json) |
 | Punch Monkey Revenge | 405379 | [405379-punch-monkey-revenge.json](./405379-punch-monkey-revenge.json) |
+| Puppet Soccer 2014 | 344226 | [344226-puppet-soccer-2014.json](./344226-puppet-soccer-2014.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
 | PuppetShow: Lost Town | 347531 | [347531-puppetshow-lost-town.json](./347531-puppetshow-lost-town.json) |
 | Puppy Fetch! | 387212 | [387212-puppy-fetch.json](./387212-puppy-fetch.json) |
