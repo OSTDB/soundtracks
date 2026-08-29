@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper | 23048 | [23048-tapper.json](./23048-tapper.json) |
 | Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Tarae The Unbound | 415003 | [415003-tarae-the-unbound.json](./415003-tarae-the-unbound.json) |
+| Tarot Awakening | 346429 | [346429-tarot-awakening.json](./346429-tarot-awakening.json) |
 | Tartarus: Dice & Blades | 404737 | [404737-tartarus-dice-and-blades.json](./404737-tartarus-dice-and-blades.json) |
 | Task Time | 370521 | [370521-task-time.json](./370521-task-time.json) |
 | Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tellyport | 371704 | [371704-tellyport.json](./371704-tellyport.json) |
 | Temari Trials: Dojo's Test | 387859 | [387859-temari-trials-dojos-test.json](./387859-temari-trials-dojos-test.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
+| Tempoverdose | 346450 | [346450-tempoverdose.json](./346450-tempoverdose.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
 | Ten Metre Tide | 356485 | [356485-ten-metre-tide.json](./356485-ten-metre-tide.json) |
 | Ten no Hikari ha Koi no Hoshi | 396807 | [396807-ten-no-hikari-ha-koi-no-hoshi.json](./396807-ten-no-hikari-ha-koi-no-hoshi.json) |
@@ -211,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyber Shinobi | 10218 | [10218-the-cyber-shinobi.json](./10218-the-cyber-shinobi.json) |
 | The Da Vinci Code | 5797 | [5797-the-da-vinci-code.json](./5797-the-da-vinci-code.json) |
 | The Dame | 390425 | [390425-the-dame.json](./390425-the-dame.json) |
+| The Dark Between | 346443 | [346443-the-dark-between.json](./346443-the-dark-between.json) |
 | The Dark Occult | 26658 | [26658-the-dark-occult.json](./26658-the-dark-occult.json) |
 | The Dark Pictures Anthology: The Devil in Me | 178361 | [178361-the-dark-pictures-anthology-the-devil-in-me.json](./178361-the-dark-pictures-anthology-the-devil-in-me.json) |
 | The Dark Room | 109841 | [109841-the-dark-room.json](./109841-the-dark-room.json) |
@@ -328,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '94 Re-bout | 80568 | [80568-the-king-of-fighters-94-re-bout.json](./80568-the-king-of-fighters-94-re-bout.json) |
 | The King of Fighters '97 Global Match | 83931 | [83931-the-king-of-fighters-97-global-match.json](./83931-the-king-of-fighters-97-global-match.json) |
 | The King of Fighters XV: Team Pass 2 | 407254 | [407254-the-king-of-fighters-xv-team-pass-2.json](./407254-the-king-of-fighters-xv-team-pass-2.json) |
+| The King of Truancy | 346437 | [346437-the-king-of-truancy.json](./346437-the-king-of-truancy.json) |
 | The King's Heroes | 33038 | [33038-the-kings-heroes.json](./33038-the-kings-heroes.json) |
 | The Lab | 33308 | [33308-the-lab.json](./33308-the-lab.json) |
 | The Last Call | 385998 | [385998-the-last-call.json](./385998-the-last-call.json) |
@@ -348,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Operator | 89395 | [89395-the-last-operator.json](./89395-the-last-operator.json) |
 | The Last Pawn | 367259 | [367259-the-last-pawn.json](./367259-the-last-pawn.json) |
 | The Last Prisoner | 364927 | [364927-the-last-prisoner.json](./364927-the-last-prisoner.json) |
+| The Last Sanctum | 346446 | [346446-the-last-sanctum.json](./346446-the-last-sanctum.json) |
 | The Last Shores | 354878 | [354878-the-last-shores.json](./354878-the-last-shores.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
