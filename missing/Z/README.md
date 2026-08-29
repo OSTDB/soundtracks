@@ -13,6 +13,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed Survival | 86598 | [86598-zed-survival.json](./86598-zed-survival.json) |
 | Zeit 2 | 14965 | [14965-zeit-2.json](./14965-zeit-2.json) |
 | Zen Classics | 20842 | [20842-zen-classics.json](./20842-zen-classics.json) |
+| Zen Pinball: Adventure Land | 354279 | [354279-zen-pinball-adventure-land.json](./354279-zen-pinball-adventure-land.json) |
+| Zen Pinball: Biolab | 354291 | [354291-zen-pinball-biolab.json](./354291-zen-pinball-biolab.json) |
+| Zen Pinball: Castlestorm | 354288 | [354288-zen-pinball-castlestorm.json](./354288-zen-pinball-castlestorm.json) |
+| Zen Pinball: Earth Defense | 354283 | [354283-zen-pinball-earth-defense.json](./354283-zen-pinball-earth-defense.json) |
+| Zen Pinball: El Dorado | 354281 | [354281-zen-pinball-el-dorado.json](./354281-zen-pinball-el-dorado.json) |
+| Zen Pinball: Mars | 354285 | [354285-zen-pinball-mars.json](./354285-zen-pinball-mars.json) |
+| Zen Pinball: Paranormal | 354295 | [354295-zen-pinball-paranormal.json](./354295-zen-pinball-paranormal.json) |
+| Zen Pinball: Pasha | 354293 | [354293-zen-pinball-pasha.json](./354293-zen-pinball-pasha.json) |
+| Zen Pinball: Rome | 354292 | [354292-zen-pinball-rome.json](./354292-zen-pinball-rome.json) |
+| Zen Pinball: Secrets of the Deep | 354290 | [354290-zen-pinball-secrets-of-the-deep.json](./354290-zen-pinball-secrets-of-the-deep.json) |
+| Zen Pinball: Shaman | 354294 | [354294-zen-pinball-shaman.json](./354294-zen-pinball-shaman.json) |
+| Zen Pinball: Son of Zeus | 354280 | [354280-zen-pinball-son-of-zeus.json](./354280-zen-pinball-son-of-zeus.json) |
+| Zen Pinball: Tesla | 354297 | [354297-zen-pinball-tesla.json](./354297-zen-pinball-tesla.json) |
+| Zen Pinball: V12 | 354284 | [354284-zen-pinball-v12.json](./354284-zen-pinball-v12.json) |
+| Zen Pinball: Wild West Rampage | 354286 | [354286-zen-pinball-wild-west-rampage.json](./354286-zen-pinball-wild-west-rampage.json) |
 | Zenless Zone Zero: Update 2.2 - Do Not Go Gentle Into That Good Night | 362656 | [362656-zenless-zone-zero-update-2-2-do-not-go-gentle-into-that-good-night.json](./362656-zenless-zone-zero-update-2-2-do-not-go-gentle-into-that-good-night.json) |
 | Zenohell | 34456 | [34456-zenohell.json](./34456-zenohell.json) |
 | Zero Gear | 14920 | [14920-zero-gear.json](./14920-zero-gear.json) |
