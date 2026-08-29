@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
 | Past Easter | 349680 | [349680-past-easter.json](./349680-past-easter.json) |
+| Past Invasions | 346964 | [346964-past-invasions.json](./346964-past-invasions.json) |
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
 | Path of Exile: Mercenaries of Trarthus | 370542 | [370542-path-of-exile-mercenaries-of-trarthus.json](./370542-path-of-exile-mercenaries-of-trarthus.json) |
 | Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PT Boats: Knights of the Sea | 15769 | [15769-pt-boats-knights-of-the-sea.json](./15769-pt-boats-knights-of-the-sea.json) |
 | Pu Li Ru La | 39571 | [39571-pu-li-ru-la.json](./39571-pu-li-ru-la.json) |
 | Puck'n Monster | 385489 | [385489-puckn-monster.json](./385489-puckn-monster.json) |
+| Pucki & Monsters | 346987 | [346987-pucki-and-monsters.json](./346987-pucki-and-monsters.json) |
 | Puffer Bounce | 348645 | [348645-puffer-bounce.json](./348645-puffer-bounce.json) |
 | Pulinho | 395391 | [395391-pulinho.json](./395391-pulinho.json) |
 | Pulmo | 349174 | [349174-pulmo.json](./349174-pulmo.json) |
