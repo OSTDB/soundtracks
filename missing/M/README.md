@@ -590,10 +590,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
 | Moonlight Chess | 372284 | [372284-moonlight-chess.json](./372284-moonlight-chess.json) |
 | Moonman: The Game | 359244 | [359244-moonman-the-game.json](./359244-moonman-the-game.json) |
+| MoonMiners | 348627 | [348627-moonminers.json](./348627-moonminers.json) |
 | Moonsteel | 360424 | [360424-moonsteel.json](./360424-moonsteel.json) |
 | Moonstone Island | 196769 | [196769-moonstone-island.json](./196769-moonstone-island.json) |
 | Moonstone Tavern | 33014 | [33014-moonstone-tavern.json](./33014-moonstone-tavern.json) |
 | Moraff's Pinball | 372334 | [372334-moraffs-pinball.json](./372334-moraffs-pinball.json) |
+| More Delight | 348612 | [348612-more-delight.json](./348612-more-delight.json) |
 | More me | 410808 | [410808-more-me.json](./410808-more-me.json) |
 | Morning Never Comes | 95613 | [95613-morning-never-comes.json](./95613-morning-never-comes.json) |
 | MorphX | 7077 | [7077-morphx.json](./7077-morphx.json) |
@@ -704,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My New Paranormal Life | 386053 | [386053-my-new-paranormal-life.json](./386053-my-new-paranormal-life.json) |
 | My Riding Stables: Life with Horses | 17046 | [17046-my-riding-stables-life-with-horses.json](./17046-my-riding-stables-life-with-horses.json) |
 | My Sadistic Girlfriends | 382041 | [382041-my-sadistic-girlfriends.json](./382041-my-sadistic-girlfriends.json) |
+| My Sleeping Girlfriend | 348650 | [348650-my-sleeping-girlfriend.json](./348650-my-sleeping-girlfriend.json) |
 | My Stunt Life | 116185 | [116185-my-stunt-life.json](./116185-my-stunt-life.json) |
 | My Super Tower 2 | 29847 | [29847-my-super-tower-2.json](./29847-my-super-tower-2.json) |
 | My Tower, My Home | 18369 | [18369-my-tower-my-home.json](./18369-my-tower-my-home.json) |
