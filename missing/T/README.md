@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportal | 380850 | [380850-teleportal.json](./380850-teleportal.json) |
 | Tellyport | 371704 | [371704-tellyport.json](./371704-tellyport.json) |
 | Temari Trials: Dojo's Test | 387859 | [387859-temari-trials-dojos-test.json](./387859-temari-trials-dojos-test.json) |
+| Temne | 345890 | [345890-temne.json](./345890-temne.json) |
 | Temple of Illumination | 412856 | [412856-temple-of-illumination.json](./412856-temple-of-illumination.json) |
 | Tempoverdose | 346450 | [346450-tempoverdose.json](./346450-tempoverdose.json) |
 | Temtem | 100357 | [100357-temtem.json](./100357-temtem.json) |
@@ -159,11 +160,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archives of Trevosa | 400144 | [400144-the-archives-of-trevosa.json](./400144-the-archives-of-trevosa.json) |
 | The Ascent: Complete Edition | 366692 | [366692-the-ascent-complete-edition.json](./366692-the-ascent-complete-edition.json) |
 | The Baby In Yellow | 177167 | [177167-the-baby-in-yellow.json](./177167-the-baby-in-yellow.json) |
+| The Bagman | 345888 | [345888-the-bagman.json](./345888-the-bagman.json) |
 | The Banner Saga 2 | 8288 | [8288-the-banner-saga-2.json](./8288-the-banner-saga-2.json) |
 | The Barber Shop | 366090 | [366090-the-barber-shop.json](./366090-the-barber-shop.json) |
 | The Bard's Tale III: Thief of Fate | 2431 | [2431-the-bards-tale-iii-thief-of-fate.json](./2431-the-bards-tale-iii-thief-of-fate.json) |
 | The Bard's Tale: Remastered and Resnarkled | 54782 | [54782-the-bards-tale-remastered-and-resnarkled.json](./54782-the-bards-tale-remastered-and-resnarkled.json) |
 | The Baseball: Go-taimen Stadium | 385502 | [385502-the-baseball-go-taimen-stadium.json](./385502-the-baseball-go-taimen-stadium.json) |
+| The Battle of Polytopia: Vengir | 345859 | [345859-the-battle-of-polytopia-vengir.json](./345859-the-battle-of-polytopia-vengir.json) |
+| The Battle of Polytopia: Zebasi | 345863 | [345863-the-battle-of-polytopia-zebasi.json](./345863-the-battle-of-polytopia-zebasi.json) |
 | The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Bell Chimes for Gold | 96147 | [96147-the-bell-chimes-for-gold.json](./96147-the-bell-chimes-for-gold.json) |
 | The Bicycle Couriers | 410152 | [410152-the-bicycle-couriers.json](./410152-the-bicycle-couriers.json) |
@@ -313,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
 | The Hull | 371071 | [371071-the-hull.json](./371071-the-hull.json) |
+| The Humans: Insult to Injury | 345862 | [345862-the-humans-insult-to-injury.json](./345862-the-humans-insult-to-injury.json) |
 | The Hunt for the Lost Treasure | 87589 | [87589-the-hunt-for-the-lost-treasure.json](./87589-the-hunt-for-the-lost-treasure.json) |
 | The Hunter's Journals: Rogues Gallery | 371086 | [371086-the-hunters-journals-rogues-gallery.json](./371086-the-hunters-journals-rogues-gallery.json) |
 | The Huntter | 380896 | [380896-the-huntter.json](./380896-the-huntter.json) |
@@ -439,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Princess Factory | 385452 | [385452-the-princess-factory.json](./385452-the-princess-factory.json) |
 | The Princess, the Stray Cat, and Matters of the Heart 2 | 126340 | [126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json](./126340-the-princess-the-stray-cat-and-matters-of-the-heart-2.json) |
+| The Pro-Wrestling | 345906 | [345906-the-pro-wrestling.json](./345906-the-pro-wrestling.json) |
 | The Queen's Quest | 380884 | [380884-the-queens-quest.json](./380884-the-queens-quest.json) |
 | The Quest - Celtic Queen | 101688 | [101688-the-quest-celtic-queen.json](./101688-the-quest-celtic-queen.json) |
 | The Quinfall | 238564 | [238564-the-quinfall.json](./238564-the-quinfall.json) |
@@ -868,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbocide | 373914 | [373914-turbocide.json](./373914-turbocide.json) |
 | Turn It Around | 380857 | [380857-turn-it-around.json](./380857-turn-it-around.json) |
 | Turnip Rush | 371093 | [371093-turnip-rush.json](./371093-turnip-rush.json) |
+| Turtles | 345875 | [345875-turtles.json](./345875-turtles.json) |
 | Tux Fishing | 382651 | [382651-tux-fishing.json](./382651-tux-fishing.json) |
 | Twiggle's Grove | 390976 | [390976-twiggles-grove.json](./390976-twiggles-grove.json) |
 | Twilight Dungeons | 369986 | [369986-twilight-dungeons.json](./369986-twilight-dungeons.json) |
