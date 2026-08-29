@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish3: First Catch | 373368 | [373368-fish3-first-catch.json](./373368-fish3-first-catch.json) |
 | Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fishery | 102305 | [102305-fishery.json](./102305-fishery.json) |
+| Fishing Friends 3D | 357649 | [357649-fishing-friends-3d.json](./357649-fishing-friends-3d.json) |
 | Fishing Master | 400772 | [400772-fishing-master.json](./400772-fishing-master.json) |
 | Fishing Planet: Bottom Power Pack | 376290 | [376290-fishing-planet-bottom-power-pack.json](./376290-fishing-planet-bottom-power-pack.json) |
 | Fishing Planet: Club Enthusiast Pack | 376292 | [376292-fishing-planet-club-enthusiast-pack.json](./376292-fishing-planet-club-enthusiast-pack.json) |
