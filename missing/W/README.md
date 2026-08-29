@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip Wreck | 389895 | [389895-whip-wreck.json](./389895-whip-wreck.json) |
 | Whisker Wanderlust: The Mosaic of Souls | 383247 | [383247-whisker-wanderlust-the-mosaic-of-souls.json](./383247-whisker-wanderlust-the-mosaic-of-souls.json) |
 | Whiskers In The Sand | 410135 | [410135-whiskers-in-the-sand.json](./410135-whiskers-in-the-sand.json) |
+| Whispers from the Star | 353667 | [353667-whispers-from-the-star.json](./353667-whispers-from-the-star.json) |
 | Whispers of a Machine | 27278 | [27278-whispers-of-a-machine.json](./27278-whispers-of-a-machine.json) |
 | Whispers of Winter Blossom | 387242 | [387242-whispers-of-winter-blossom.json](./387242-whispers-of-winter-blossom.json) |
 | Whistling at Night | 407253 | [407253-whistling-at-night.json](./407253-whistling-at-night.json) |
