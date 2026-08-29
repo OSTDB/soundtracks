@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Returns | 3020 | [3020-shadowrun-returns.json](./3020-shadowrun-returns.json) |
 | Shadows of Eldemir | 407235 | [407235-shadows-of-eldemir.json](./407235-shadows-of-eldemir.json) |
 | Shadows Of Lir'Ah | 378057 | [378057-shadows-of-lirah.json](./378057-shadows-of-lirah.json) |
+| Shadows of the Blade | 351439 | [351439-shadows-of-the-blade.json](./351439-shadows-of-the-blade.json) |
 | Shadowverse: Worlds Beyond - Skybound Dragons | 376300 | [376300-shadowverse-worlds-beyond-skybound-dragons.json](./376300-shadowverse-worlds-beyond-skybound-dragons.json) |
 | Shai’s Gambit | 391491 | [391491-shai-s-gambit.json](./391491-shai-s-gambit.json) |
 | Shakedown: Hawaii | 14694 | [14694-shakedown-hawaii.json](./14694-shakedown-hawaii.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
 | SkyRen | 390386 | [390386-skyren.json](./390386-skyren.json) |
 | SkyScrappers | 18092 | [18092-skyscrappers.json](./18092-skyscrappers.json) |
+| SkyTaxi | 351452 | [351452-skytaxi.json](./351452-skytaxi.json) |
 | SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skyward Masters | 369943 | [369943-skyward-masters.json](./369943-skyward-masters.json) |
 | Skyworld: Kingdom Brawl | 116016 | [116016-skyworld-kingdom-brawl.json](./116016-skyworld-kingdom-brawl.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest Collection | 29112 | [29112-space-quest-collection.json](./29112-space-quest-collection.json) |
 | Space Sex Lab | 382027 | [382027-space-sex-lab.json](./382027-space-sex-lab.json) |
 | Space Slice | 62107 | [62107-space-slice.json](./62107-space-slice.json) |
+| Space Station: Beyond | 351480 | [351480-space-station-beyond.json](./351480-space-station-beyond.json) |
 | Space Sweeper | 364291 | [364291-space-sweeper.json](./364291-space-sweeper.json) |
 | Space Travel: Chronicles | 359229 | [359229-space-travel-chronicles.json](./359229-space-travel-chronicles.json) |
 | Space Wars: Darth Star | 76665 | [76665-space-wars-darth-star.json](./76665-space-wars-darth-star.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinbot | 395441 | [395441-spinbot.json](./395441-spinbot.json) |
 | Spinch | 87679 | [87679-spinch.json](./87679-spinch.json) |
 | Spindizzy | 26459 | [26459-spindizzy.json](./26459-spindizzy.json) |
+| Spintronics | 351446 | [351446-spintronics.json](./351446-spintronics.json) |
 | Spire of Chaos: Arcana Unleashed | 396085 | [396085-spire-of-chaos-arcana-unleashed.json](./396085-spire-of-chaos-arcana-unleashed.json) |
 | Spiredelve | 387887 | [387887-spiredelve.json](./387887-spiredelve.json) |
 | Spirit Animal Survival | 76937 | [76937-spirit-animal-survival.json](./76937-spirit-animal-survival.json) |
@@ -581,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: SuperSponge | 2761 | [2761-spongebob-squarepants-supersponge.json](./2761-spongebob-squarepants-supersponge.json) |
 | SpongeBob vs. The Big One: Beach Party Cook-Off | 7993 | [7993-spongebob-vs-the-big-one-beach-party-cook-off.json](./7993-spongebob-vs-the-big-one-beach-party-cook-off.json) |
 | Spookware @ The Video Store | 392050 | [392050-spookware-the-video-store.json](./392050-spookware-the-video-store.json) |
+| Spooky Driving | 351471 | [351471-spooky-driving.json](./351471-spooky-driving.json) |
 | Spooky Market | 404139 | [404139-spooky-market.json](./404139-spooky-market.json) |
 | Spooky Spins Deluxe | 368849 | [368849-spooky-spins-deluxe.json](./368849-spooky-spins-deluxe.json) |
 | Sport Animals | 365522 | [365522-sport-animals.json](./365522-sport-animals.json) |
@@ -592,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SQL Island | 359779 | [359779-sql-island.json](./359779-sql-island.json) |
 | Sqr 2 | 405415 | [405415-sqr-2.json](./405415-sqr-2.json) |
 | Squad Busters | 234344 | [234344-squad-busters.json](./234344-squad-busters.json) |
+| Square Brothers | 351459 | [351459-square-brothers.json](./351459-square-brothers.json) |
 | Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Square Space | 413524 | [413524-square-space.json](./413524-square-space.json) |
 | Squarsenal | 399494 | [399494-squarsenal.json](./399494-squarsenal.json) |
@@ -777,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Subs | 357648 | [357648-subs.json](./357648-subs.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
+| Suburbadrome | 351453 | [351453-suburbadrome.json](./351453-suburbadrome.json) |
 | Subway Simulator: Underground Train - Remaster | 402198 | [402198-subway-simulator-underground-train-remaster.json](./402198-subway-simulator-underground-train-remaster.json) |
 | Subzero Stealth | 370547 | [370547-subzero-stealth.json](./370547-subzero-stealth.json) |
 | Succubus: Hunt For Meal | 154427 | [154427-succubus-hunt-for-meal.json](./154427-succubus-hunt-for-meal.json) |
@@ -905,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Survarium | 2976 | [2976-survarium.json](./2976-survarium.json) |
 | Survival Games | 77053 | [77053-survival-games.json](./77053-survival-games.json) |
+| Survival in Space Is Not Guaranteed | 351443 | [351443-survival-in-space-is-not-guaranteed.json](./351443-survival-in-space-is-not-guaranteed.json) |
 | Survival Is Not Enough | 34367 | [34367-survival-is-not-enough.json](./34367-survival-is-not-enough.json) |
 | Survival Kids | 25968 | [25968-survival-kids.json](./25968-survival-kids.json) |
 | Survival Log | 390415 | [390415-survival-log.json](./390415-survival-log.json) |
@@ -920,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapdoodle | 36783 | [36783-swapdoodle.json](./36783-swapdoodle.json) |
 | Swarm Simulator | 96062 | [96062-swarm-simulator.json](./96062-swarm-simulator.json) |
 | Swarmdle | 414250 | [414250-swarmdle.json](./414250-swarmdle.json) |
+| Sweatshop Simulator | 351434 | [351434-sweatshop-simulator.json](./351434-sweatshop-simulator.json) |
 | Sweet Bathhouse | 382058 | [382058-sweet-bathhouse.json](./382058-sweet-bathhouse.json) |
 | Sweet Diving | 382056 | [382056-sweet-diving.json](./382056-sweet-diving.json) |
 | Sweet Elf | 393363 | [393363-sweet-elf.json](./393363-sweet-elf.json) |
