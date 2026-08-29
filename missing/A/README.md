@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Story | 364909 | [364909-a-dog-story.json](./364909-a-dog-story.json) |
 | A Drop of Color | 378028 | [378028-a-drop-of-color.json](./378028-a-drop-of-color.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
+| A Flame in the Dark | 349150 | [349150-a-flame-in-the-dark.json](./349150-a-flame-in-the-dark.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
 | A Game About Making A Planet | 386609 | [386609-a-game-about-making-a-planet.json](./386609-a-game-about-making-a-planet.json) |
 | A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension of the Dead | 350243 | [350243-ascension-of-the-dead.json](./350243-ascension-of-the-dead.json) |
 | Ash and Flame | 349664 | [349664-ash-and-flame.json](./349664-ash-and-flame.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
+| Ashen Reverie | 349131 | [349131-ashen-reverie.json](./349131-ashen-reverie.json) |
 | Ashes & Blood | 369970 | [369970-ashes-and-blood.json](./369970-ashes-and-blood.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
 | Ashes: Undertow | 382640 | [382640-ashes-undertow.json](./382640-ashes-undertow.json) |
