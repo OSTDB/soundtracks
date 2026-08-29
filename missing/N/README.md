@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitroglycerine! | 373362 | [373362-nitroglycerine.json](./373362-nitroglycerine.json) |
 | Nitronic Rush | 51253 | [51253-nitronic-rush.json](./51253-nitronic-rush.json) |
 | Nitrous Fury: Complete Edition | 394751 | [394751-nitrous-fury-complete-edition.json](./394751-nitrous-fury-complete-edition.json) |
+| No Alibi | 343086 | [343086-no-alibi.json](./343086-no-alibi.json) |
 | No Case Should Remain Unsolved | 275392 | [275392-no-case-should-remain-unsolved.json](./275392-no-case-should-remain-unsolved.json) |
 | No Customers Left | 348629 | [348629-no-customers-left.json](./348629-no-customers-left.json) |
 | No Elevator | 410780 | [410780-no-elevator.json](./410780-no-elevator.json) |
