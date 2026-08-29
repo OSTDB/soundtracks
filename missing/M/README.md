@@ -226,6 +226,53 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Regenesis | 410146 | [410146-mega-man-x-regenesis.json](./410146-mega-man-x-regenesis.json) |
 | Mega Man X3 | 1743 | [1743-mega-man-x3.json](./1743-mega-man-x3.json) |
 | Mega Man Xtreme | 1749 | [1749-mega-man-xtreme.json](./1749-mega-man-xtreme.json) |
+| Mega Man Zero 3: Modification Card - Andrew | 352574 | [352574-mega-man-zero-3-modification-card-andrew.json](./352574-mega-man-zero-3-modification-card-andrew.json) |
+| Mega Man Zero 3: Modification Card - Blazin' Flizard | 352593 | [352593-mega-man-zero-3-modification-card-blazin-flizard.json](./352593-mega-man-zero-3-modification-card-blazin-flizard.json) |
+| Mega Man Zero 3: Modification Card - Burble Hekelot | 352590 | [352590-mega-man-zero-3-modification-card-burble-hekelot.json](./352590-mega-man-zero-3-modification-card-burble-hekelot.json) |
+| Mega Man Zero 3: Modification Card - Childre Inarabitta | 352591 | [352591-mega-man-zero-3-modification-card-childre-inarabitta.json](./352591-mega-man-zero-3-modification-card-childre-inarabitta.json) |
+| Mega Man Zero 3: Modification Card - Ciel (042) | 352572 | [352572-mega-man-zero-3-modification-card-ciel-042.json](./352572-mega-man-zero-3-modification-card-ciel-042.json) |
+| Mega Man Zero 3: Modification Card - Ciel (057) | 352587 | [352587-mega-man-zero-3-modification-card-ciel-057.json](./352587-mega-man-zero-3-modification-card-ciel-057.json) |
+| Mega Man Zero 3: Modification Card - Crea and Prea | 352595 | [352595-mega-man-zero-3-modification-card-crea-and-prea.json](./352595-mega-man-zero-3-modification-card-crea-and-prea.json) |
+| Mega Man Zero 3: Modification Card - Cubit Foxtar | 352600 | [352600-mega-man-zero-3-modification-card-cubit-foxtar.json](./352600-mega-man-zero-3-modification-card-cubit-foxtar.json) |
+| Mega Man Zero 3: Modification Card - Dable (Hacker Elf) | 352582 | [352582-mega-man-zero-3-modification-card-dable-hacker-elf.json](./352582-mega-man-zero-3-modification-card-dable-hacker-elf.json) |
+| Mega Man Zero 3: Modification Card - Dark Elf | 352578 | [352578-mega-man-zero-3-modification-card-dark-elf.json](./352578-mega-man-zero-3-modification-card-dark-elf.json) |
+| Mega Man Zero 3: Modification Card - Deathtanz Mantisk | 352577 | [352577-mega-man-zero-3-modification-card-deathtanz-mantisk.json](./352577-mega-man-zero-3-modification-card-deathtanz-mantisk.json) |
+| Mega Man Zero 3: Modification Card - Doigt | 352568 | [352568-mega-man-zero-3-modification-card-doigt.json](./352568-mega-man-zero-3-modification-card-doigt.json) |
+| Mega Man Zero 3: Modification Card - Elpizo (2nd Form) | 352585 | [352585-mega-man-zero-3-modification-card-elpizo-2nd-form.json](./352585-mega-man-zero-3-modification-card-elpizo-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Elpizo (Combat Body) | 352584 | [352584-mega-man-zero-3-modification-card-elpizo-combat-body.json](./352584-mega-man-zero-3-modification-card-elpizo-combat-body.json) |
+| Mega Man Zero 3: Modification Card - Estan (Nurse Elf) | 352559 | [352559-mega-man-zero-3-modification-card-estan-nurse-elf.json](./352559-mega-man-zero-3-modification-card-estan-nurse-elf.json) |
+| Mega Man Zero 3: Modification Card - Ethos and Pathos | 352567 | [352567-mega-man-zero-3-modification-card-ethos-and-pathos.json](./352567-mega-man-zero-3-modification-card-ethos-and-pathos.json) |
+| Mega Man Zero 3: Modification Card - Fefnir (2nd Form) | 352581 | [352581-mega-man-zero-3-modification-card-fefnir-2nd-form.json](./352581-mega-man-zero-3-modification-card-fefnir-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Glacier Le Cactank | 352599 | [352599-mega-man-zero-3-modification-card-glacier-le-cactank.json](./352599-mega-man-zero-3-modification-card-glacier-le-cactank.json) |
+| Mega Man Zero 3: Modification Card - Golem Type E/F/I | 352580 | [352580-mega-man-zero-3-modification-card-golem-type-e-f-i.json](./352580-mega-man-zero-3-modification-card-golem-type-e-f-i.json) |
+| Mega Man Zero 3: Modification Card - Hanmarga (Hacker Elf) | 352596 | [352596-mega-man-zero-3-modification-card-hanmarga-hacker-elf.json](./352596-mega-man-zero-3-modification-card-hanmarga-hacker-elf.json) |
+| Mega Man Zero 3: Modification Card - Harpuia (2nd Form) | 352565 | [352565-mega-man-zero-3-modification-card-harpuia-2nd-form.json](./352565-mega-man-zero-3-modification-card-harpuia-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Hellbat Schilt | 352594 | [352594-mega-man-zero-3-modification-card-hellbat-schilt.json](./352594-mega-man-zero-3-modification-card-hellbat-schilt.json) |
+| Mega Man Zero 3: Modification Card - Hirondelle | 352604 | [352604-mega-man-zero-3-modification-card-hirondelle.json](./352604-mega-man-zero-3-modification-card-hirondelle.json) |
+| Mega Man Zero 3: Modification Card - Hyleg Ourobockle | 352557 | [352557-mega-man-zero-3-modification-card-hyleg-ourobockle.json](./352557-mega-man-zero-3-modification-card-hyleg-ourobockle.json) |
+| Mega Man Zero 3: Modification Card - Kuwagust Anchus | 352583 | [352583-mega-man-zero-3-modification-card-kuwagust-anchus.json](./352583-mega-man-zero-3-modification-card-kuwagust-anchus.json) |
+| Mega Man Zero 3: Modification Card - Leviathan (2nd Form) | 352564 | [352564-mega-man-zero-3-modification-card-leviathan-2nd-form.json](./352564-mega-man-zero-3-modification-card-leviathan-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Maha Ganeshariff | 352560 | [352560-mega-man-zero-3-modification-card-maha-ganeshariff.json](./352560-mega-man-zero-3-modification-card-maha-ganeshariff.json) |
+| Mega Man Zero 3: Modification Card - Menart | 352561 | [352561-mega-man-zero-3-modification-card-menart.json](./352561-mega-man-zero-3-modification-card-menart.json) |
+| Mega Man Zero 3: Modification Card - Omega | 352589 | [352589-mega-man-zero-3-modification-card-omega.json](./352589-mega-man-zero-3-modification-card-omega.json) |
+| Mega Man Zero 3: Modification Card - Panter Flauclaws | 352576 | [352576-mega-man-zero-3-modification-card-panter-flauclaws.json](./352576-mega-man-zero-3-modification-card-panter-flauclaws.json) |
+| Mega Man Zero 3: Modification Card - Perroquiet | 352566 | [352566-mega-man-zero-3-modification-card-perroquiet.json](./352566-mega-man-zero-3-modification-card-perroquiet.json) |
+| Mega Man Zero 3: Modification Card - Phoenix Magniom | 352575 | [352575-mega-man-zero-3-modification-card-phoenix-magniom.json](./352575-mega-man-zero-3-modification-card-phoenix-magniom.json) |
+| Mega Man Zero 3: Modification Card - Pic | 352605 | [352605-mega-man-zero-3-modification-card-pic.json](./352605-mega-man-zero-3-modification-card-pic.json) |
+| Mega Man Zero 3: Modification Card - Poler Kamrous | 352558 | [352558-mega-man-zero-3-modification-card-poler-kamrous.json](./352558-mega-man-zero-3-modification-card-poler-kamrous.json) |
+| Mega Man Zero 3: Modification Card - Putick (Animal Elf) | 352573 | [352573-mega-man-zero-3-modification-card-putick-animal-elf.json](./352573-mega-man-zero-3-modification-card-putick-animal-elf.json) |
+| Mega Man Zero 3: Modification Card - Rocinolle | 352603 | [352603-mega-man-zero-3-modification-card-rocinolle.json](./352603-mega-man-zero-3-modification-card-rocinolle.json) |
+| Mega Man Zero 3: Modification Card - Rouge and Jaune | 352606 | [352606-mega-man-zero-3-modification-card-rouge-and-jaune.json](./352606-mega-man-zero-3-modification-card-rouge-and-jaune.json) |
+| Mega Man Zero 3: Modification Card - Sage Harpuia | 352570 | [352570-mega-man-zero-3-modification-card-sage-harpuia.json](./352570-mega-man-zero-3-modification-card-sage-harpuia.json) |
+| Mega Man Zero 3: Modification Card - Shelter (Animal Elf) | 352571 | [352571-mega-man-zero-3-modification-card-shelter-animal-elf.json](./352571-mega-man-zero-3-modification-card-shelter-animal-elf.json) |
+| Mega Man Zero 3: Modification Card - Surnite (Hacker Elf) | 352592 | [352592-mega-man-zero-3-modification-card-surnite-hacker-elf.json](./352592-mega-man-zero-3-modification-card-surnite-hacker-elf.json) |
+| Mega Man Zero 3: Modification Card - Tretista Kelverian | 352598 | [352598-mega-man-zero-3-modification-card-tretista-kelverian.json](./352598-mega-man-zero-3-modification-card-tretista-kelverian.json) |
+| Mega Man Zero 3: Modification Card - Volteel Biblio | 352601 | [352601-mega-man-zero-3-modification-card-volteel-biblio.json](./352601-mega-man-zero-3-modification-card-volteel-biblio.json) |
+| Mega Man Zero 3: Modification Card - Weil | 352588 | [352588-mega-man-zero-3-modification-card-weil.json](./352588-mega-man-zero-3-modification-card-weil.json) |
+| Mega Man Zero 3: Modification Card - Zero (Buster Shot) | 352579 | [352579-mega-man-zero-3-modification-card-zero-buster-shot.json](./352579-mega-man-zero-3-modification-card-zero-buster-shot.json) |
+| Mega Man Zero 3: Modification Card - Zero (Chain Rod) | 352563 | [352563-mega-man-zero-3-modification-card-zero-chain-rod.json](./352563-mega-man-zero-3-modification-card-zero-chain-rod.json) |
+| Mega Man Zero 3: Modification Card - Zero (Recoil Rod) | 352602 | [352602-mega-man-zero-3-modification-card-zero-recoil-rod.json](./352602-mega-man-zero-3-modification-card-zero-recoil-rod.json) |
+| Mega Man Zero 3: Modification Card - Zero (Shield Boomerang) | 352586 | [352586-mega-man-zero-3-modification-card-zero-shield-boomerang.json](./352586-mega-man-zero-3-modification-card-zero-shield-boomerang.json) |
 | Mega Man: Starburst | 376350 | [376350-mega-man-starburst.json](./376350-mega-man-starburst.json) |
 | Mega Pirate Pandemonium | 367789 | [367789-mega-pirate-pandemonium.json](./367789-mega-pirate-pandemonium.json) |
 | Mega Simulator Bundle | 376355 | [376355-mega-simulator-bundle.json](./376355-mega-simulator-bundle.json) |
