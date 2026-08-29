@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wolf in Autumn | 26530 | [26530-a-wolf-in-autumn.json](./26530-a-wolf-in-autumn.json) |
 | A World To Come | 413563 | [413563-a-world-to-come.json](./413563-a-world-to-come.json) |
 | A Year of Rain | 116212 | [116212-a-year-of-rain.json](./116212-a-year-of-rain.json) |
+| A-kun to Matsuri no Mukou | 350248 | [350248-a-kun-to-matsuri-no-mukou.json](./350248-a-kun-to-matsuri-no-mukou.json) |
 | A.I.L.A | 252873 | [252873-a-i-l-a.json](./252873-a-i-l-a.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: For the Awesome | 3240 | [3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json](./3240-aaaaaaaaaaaaaaaaaaaaaaaaa-for-the-awesome.json) |
 | Aah Harimanada GG2SMS | 369432 | [369432-aah-harimanada-gg2sms.json](./369432-aah-harimanada-gg2sms.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent1218 | 387215 | [387215-agent1218.json](./387215-agent1218.json) |
 | Aggression: Europe Under Fire | 36341 | [36341-aggression-europe-under-fire.json](./36341-aggression-europe-under-fire.json) |
 | Aggressors: Ancient Rome | 46076 | [46076-aggressors-ancient-rome.json](./46076-aggressors-ancient-rome.json) |
+| Agnostiko VS | 350279 | [350279-agnostiko-vs.json](./350279-agnostiko-vs.json) |
 | Agreeee | 369077 | [369077-agreeee.json](./369077-agreeee.json) |
 | Agricultural Simulator 2013: Steam Edition | 90548 | [90548-agricultural-simulator-2013-steam-edition.json](./90548-agricultural-simulator-2013-steam-edition.json) |
 | Agro Tycoon | 411442 | [411442-agro-tycoon.json](./411442-agro-tycoon.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archimedes: Eureka! - Collector's Edition | 363215 | [363215-archimedes-eureka-collectors-edition.json](./363215-archimedes-eureka-collectors-edition.json) |
 | Archipelago | 22720 | [22720-archipelago.json](./22720-archipelago.json) |
 | Archival Anemoia | 388605 | [388605-archival-anemoia.json](./388605-archival-anemoia.json) |
+| Archon Soul | 350236 | [350236-archon-soul.json](./350236-archon-soul.json) |
 | Area 51 | 386002 | [386002-area-51.json](./386002-area-51.json) |
 | Arena Hero | 29893 | [29893-arena-hero.json](./29893-arena-hero.json) |
 | Ariel Academy's Secret School Festival | 379203 | [379203-ariel-academys-secret-school-festival.json](./379203-ariel-academys-secret-school-festival.json) |
@@ -451,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Expected of the Demon Lord | 363233 | [363233-as-expected-of-the-demon-lord.json](./363233-as-expected-of-the-demon-lord.json) |
 | Ascend: Hand of Kul | 10231 | [10231-ascend-hand-of-kul.json](./10231-ascend-hand-of-kul.json) |
 | Ascenders: Beyond the Peak | 396808 | [396808-ascenders-beyond-the-peak.json](./396808-ascenders-beyond-the-peak.json) |
+| Ascension of the Dead | 350243 | [350243-ascension-of-the-dead.json](./350243-ascension-of-the-dead.json) |
 | ASH: Archaic Sealed Heat | 44072 | [44072-ash-archaic-sealed-heat.json](./44072-ash-archaic-sealed-heat.json) |
 | Ashes & Blood | 369970 | [369970-ashes-and-blood.json](./369970-ashes-and-blood.json) |
 | Ashes Cricket 2009 | 4680 | [4680-ashes-cricket-2009.json](./4680-ashes-cricket-2009.json) |
@@ -505,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica | 115285 | [115285-audica.json](./115285-audica.json) |
 | Audica: DLC Pack 03 | 360371 | [360371-audica-dlc-pack-03.json](./360371-audica-dlc-pack-03.json) |
 | Audica: DLC Pack 04 | 360372 | [360372-audica-dlc-pack-04.json](./360372-audica-dlc-pack-04.json) |
+| August Night | 350237 | [350237-august-night.json](./350237-august-night.json) |
 | Aura Farming | 408632 | [408632-aura-farming.json](./408632-aura-farming.json) |
 | Austin Cooper S Racing | 395428 | [395428-austin-cooper-s-racing.json](./395428-austin-cooper-s-racing.json) |
 | AutoMaker | 379228 | [379228-automaker.json](./379228-automaker.json) |
@@ -527,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ax:El - Air XenoDawn | 17772 | [17772-ax-el-air-xenodawn.json](./17772-ax-el-air-xenodawn.json) |
 | Axe or Bone | 359226 | [359226-axe-or-bone.json](./359226-axe-or-bone.json) |
 | Axeras | 369949 | [369949-axeras.json](./369949-axeras.json) |
+| Ayala: Forgotten Realms | 350280 | [350280-ayala-forgotten-realms.json](./350280-ayala-forgotten-realms.json) |
 | Ayrton Idle | 374468 | [374468-ayrton-idle.json](./374468-ayrton-idle.json) |
 | Azasumi: Azatokute Sumi ni Okenai Kanojo | 398857 | [398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json](./398857-azasumi-azatokute-sumi-ni-okenai-kanojo.json) |
 | Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
