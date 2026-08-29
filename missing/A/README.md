@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drop of Color | 378028 | [378028-a-drop-of-color.json](./378028-a-drop-of-color.json) |
 | A Fistful of Gun | 14396 | [14396-a-fistful-of-gun.json](./14396-a-fistful-of-gun.json) |
 | A Flame in the Dark | 349150 | [349150-a-flame-in-the-dark.json](./349150-a-flame-in-the-dark.json) |
+| A Friend in Need | 344189 | [344189-a-friend-in-need.json](./344189-a-friend-in-need.json) |
 | A Game About Boxes | 387876 | [387876-a-game-about-boxes.json](./387876-a-game-about-boxes.json) |
 | A Game About Making A Planet | 386609 | [386609-a-game-about-making-a-planet.json](./386609-a-game-about-making-a-planet.json) |
 | A Gift | 394707 | [394707-a-gift.json](./394707-a-gift.json) |
@@ -190,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Collapse | 109815 | [109815-after-the-collapse.json](./109815-after-the-collapse.json) |
 | Afterdepth | 390432 | [390432-afterdepth.json](./390432-afterdepth.json) |
 | Afterfall: InSanity - Extended Edition | 25479 | [25479-afterfall-insanity-extended-edition.json](./25479-afterfall-insanity-extended-edition.json) |
+| Afterglow: The Fifth Ending | 344198 | [344198-afterglow-the-fifth-ending.json](./344198-afterglow-the-fifth-ending.json) |
 | Afterpulse: Elite Army | 86957 | [86957-afterpulse-elite-army.json](./86957-afterpulse-elite-army.json) |
 | Afterworld | 414990 | [414990-afterworld.json](./414990-afterworld.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaoto, Tokidoki Hare Moyou | 370537 | [370537-amaoto-tokidoki-hare-moyou.json](./370537-amaoto-tokidoki-hare-moyou.json) |
 | aMaze Achievements: forest | 65806 | [65806-amaze-achievements-forest.json](./65806-amaze-achievements-forest.json) |
 | Amazing Adventures: The Lost Tomb | 15648 | [15648-amazing-adventures-the-lost-tomb.json](./15648-amazing-adventures-the-lost-tomb.json) |
+| Amazing Battle Creatures | 344224 | [344224-amazing-battle-creatures.json](./344224-amazing-battle-creatures.json) |
 | Amazing Princess Sarah | 20968 | [20968-amazing-princess-sarah.json](./20968-amazing-princess-sarah.json) |
 | Amazing Tater | 7754 | [7754-amazing-tater.json](./7754-amazing-tater.json) |
 | Amazon Passion | 367220 | [367220-amazon-passion.json](./367220-amazon-passion.json) |
