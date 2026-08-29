@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
 | Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
 | Ewsn Card | 367794 | [367794-ewsn-card.json](./367794-ewsn-card.json) |
+| Exark | 346991 | [346991-exark.json](./346991-exark.json) |
 | Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Exception | 58114 | [58114-exception.json](./58114-exception.json) |
 | Exchange | 110124 | [110124-exchange.json](./110124-exchange.json) |
