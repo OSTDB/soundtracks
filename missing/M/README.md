@@ -217,11 +217,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Frontline HD | 42994 | [42994-medal-of-honor-frontline-hd.json](./42994-medal-of-honor-frontline-hd.json) |
 | Medal of Honor: Rising Sun | 1316 | [1316-medal-of-honor-rising-sun.json](./1316-medal-of-honor-rising-sun.json) |
 | Meddl Dash | 368323 | [368323-meddl-dash.json](./368323-meddl-dash.json) |
+| Medical Lab Science: Anime Doctor Love in the Public Hospital | 342428 | [342428-medical-lab-science-anime-doctor-love-in-the-public-hospital.json](./342428-medical-lab-science-anime-doctor-love-in-the-public-hospital.json) |
+| Medical Lab Science: Anime Nurse Love in the Public Hospital | 342429 | [342429-medical-lab-science-anime-nurse-love-in-the-public-hospital.json](./342429-medical-lab-science-anime-nurse-love-in-the-public-hospital.json) |
 | Medieval Engineers | 9115 | [9115-medieval-engineers.json](./9115-medieval-engineers.json) |
 | Medieval Escape | 350832 | [350832-medieval-escape.json](./350832-medieval-escape.json) |
 | Medieval Juice Crafter | 400157 | [400157-medieval-juice-crafter.json](./400157-medieval-juice-crafter.json) |
 | Medieval Kingdom Wars | 36553 | [36553-medieval-kingdom-wars.json](./36553-medieval-kingdom-wars.json) |
 | Medieval Lord Tycoon | 384401 | [384401-medieval-lord-tycoon.json](./384401-medieval-lord-tycoon.json) |
+| Medieval Supermarket Shop Simulator | 342430 | [342430-medieval-supermarket-shop-simulator.json](./342430-medieval-supermarket-shop-simulator.json) |
 | MediEvil | 76960 | [76960-medievil.json](./76960-medievil.json) |
 | Mediterranea Inferno: Deluxe Edition | 406036 | [406036-mediterranea-inferno-deluxe-edition.json](./406036-mediterranea-inferno-deluxe-edition.json) |
 | Medivia Online | 59935 | [59935-medivia-online.json](./59935-medivia-online.json) |
@@ -395,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Kings | 6147 | [6147-mercenary-kings.json](./6147-mercenary-kings.json) |
 | Merchant Guilds | 386008 | [386008-merchant-guilds.json](./386008-merchant-guilds.json) |
 | Merchant Heroes | 386006 | [386006-merchant-heroes.json](./386006-merchant-heroes.json) |
+| Merchant In Dungeon | 342431 | [342431-merchant-in-dungeon.json](./342431-merchant-in-dungeon.json) |
 | Merge Farm! | 87573 | [87573-merge-farm.json](./87573-merge-farm.json) |
 | Merge Maestro | 346409 | [346409-merge-maestro.json](./346409-merge-maestro.json) |
 | Mesel | 18083 | [18083-mesel.json](./18083-mesel.json) |
@@ -496,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Battlegrounds | 89481 | [89481-mini-battlegrounds.json](./89481-mini-battlegrounds.json) |
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
+| Mini Hockey Cup | 342432 | [342432-mini-hockey-cup.json](./342432-mini-hockey-cup.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
 | Mini Painter | 343067 | [343067-mini-painter.json](./343067-mini-painter.json) |
 | Mini Wheels Racers: Turbo Toy Playground | 344176 | [344176-mini-wheels-racers-turbo-toy-playground.json](./344176-mini-wheels-racers-turbo-toy-playground.json) |
@@ -591,6 +596,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher 2 | 4106 | [4106-monster-rancher-2.json](./4106-monster-rancher-2.json) |
 | Monster Rancher DS | 47795 | [47795-monster-rancher-ds.json](./47795-monster-rancher-ds.json) |
 | Monster Slingshot Smash | 405375 | [405375-monster-slingshot-smash.json](./405375-monster-slingshot-smash.json) |
+| Monster Survivors | 342433 | [342433-monster-survivors.json](./342433-monster-survivors.json) |
+| Monster Survivors: Hunting Wilds | 342434 | [342434-monster-survivors-hunting-wilds.json](./342434-monster-survivors-hunting-wilds.json) |
 | Monster Train 2 | 332273 | [332273-monster-train-2.json](./332273-monster-train-2.json) |
 | Monster Under My Bed | 387230 | [387230-monster-under-my-bed.json](./387230-monster-under-my-bed.json) |
 | Monster x Mediator 404 | 400142 | [400142-monster-x-mediator-404.json](./400142-monster-x-mediator-404.json) |
@@ -754,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 141568 | [141568-myst.json](./141568-myst.json) |
 | Mysteries of FangClaw | 348096 | [348096-mysteries-of-fangclaw.json](./348096-mysteries-of-fangclaw.json) |
 | Mysteries of the Undead: The Cursed Island | 116331 | [116331-mysteries-of-the-undead-the-cursed-island.json](./116331-mysteries-of-the-undead-the-cursed-island.json) |
+| Mysterious Pet Monpay Chicory | 342435 | [342435-mysterious-pet-monpay-chicory.json](./342435-mysterious-pet-monpay-chicory.json) |
 | Mysterium | 95500 | [95500-mysterium.json](./95500-mysterium.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Chronicle: One Way Heroics | 23865 | [23865-mystery-chronicle-one-way-heroics.json](./23865-mystery-chronicle-one-way-heroics.json) |
