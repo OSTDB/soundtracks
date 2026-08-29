@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give it Up! 2 | 24612 | [24612-give-it-up-2.json](./24612-give-it-up-2.json) |
 | Give Me a Weapon! | 391470 | [391470-give-me-a-weapon.json](./391470-give-me-a-weapon.json) |
 | Give Us a Sign | 407240 | [407240-give-us-a-sign.json](./407240-give-us-a-sign.json) |
+| Gladiator Simulator: Arena of Freedom | 356496 | [356496-gladiator-simulator-arena-of-freedom.json](./356496-gladiator-simulator-arena-of-freedom.json) |
 | Gladiatorum: Sacramentum | 364317 | [364317-gladiatorum-sacramentum.json](./364317-gladiatorum-sacramentum.json) |
 | Glass Zero | 412141 | [412141-glass-zero.json](./412141-glass-zero.json) |
 | Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grablings: Paint 'n Seek | 413533 | [413533-grablings-paint-n-seek.json](./413533-grablings-paint-n-seek.json) |
 | Gradius Collection | 18192 | [18192-gradius-collection.json](./18192-gradius-collection.json) |
 | Gradius III | 1481 | [1481-gradius-iii.json](./1481-gradius-iii.json) |
+| Gran Turismo 2 A-Spec | 356458 | [356458-gran-turismo-2-a-spec.json](./356458-gran-turismo-2-a-spec.json) |
 | Gran Turismo 4 Prologue | 1604 | [1604-gran-turismo-4-prologue.json](./1604-gran-turismo-4-prologue.json) |
 | Gran Turismo 6 | 7316 | [7316-gran-turismo-6.json](./7316-gran-turismo-6.json) |
 | Gran Vitreous | 35824 | [35824-gran-vitreous.json](./35824-gran-vitreous.json) |
