@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cageling | 357650 | [357650-cageling.json](./357650-cageling.json) |
 | Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Cake Mania: Main Street | 14996 | [14996-cake-mania-main-street.json](./14996-cake-mania-main-street.json) |
+| Cake Sort | 357065 | [357065-cake-sort.json](./357065-cake-sort.json) |
 | Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
 | Call of Cthulhu: The Wasted Land | 16667 | [16667-call-of-cthulhu-the-wasted-land.json](./16667-call-of-cthulhu-the-wasted-land.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealership Manager 2026 | 413553 | [413553-car-dealership-manager-2026.json](./413553-car-dealership-manager-2026.json) |
 | Car Factory Tycoon | 406610 | [406610-car-factory-tycoon.json](./406610-car-factory-tycoon.json) |
 | Car May Fly | 389324 | [389324-car-may-fly.json](./389324-car-may-fly.json) |
+| Car Mechanic Simulator 2021: Police DLC | 357061 | [357061-car-mechanic-simulator-2021-police-dlc.json](./357061-car-mechanic-simulator-2021-police-dlc.json) |
 | Car Mechanic Simulator 2026 | 395388 | [395388-car-mechanic-simulator-2026.json](./395388-car-mechanic-simulator-2026.json) |
 | Car Parking Simulator 2026 | 409488 | [409488-car-parking-simulator-2026.json](./409488-car-parking-simulator-2026.json) |
 | Car Sales & Parking Bundle | 414243 | [414243-car-sales-and-parking-bundle.json](./414243-car-sales-and-parking-bundle.json) |
@@ -176,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Club Manager | 399450 | [399450-chess-club-manager.json](./399450-chess-club-manager.json) |
 | Chess Insight | 89460 | [89460-chess-insight.json](./89460-chess-insight.json) |
 | Chess Nuke | 412820 | [412820-chess-nuke.json](./412820-chess-nuke.json) |
+| Chess of Mana | 357083 | [357083-chess-of-mana.json](./357083-chess-of-mana.json) |
 | Chess Tales | 384954 | [384954-chess-tales.json](./384954-chess-tales.json) |
 | ChessXpanse | 366063 | [366063-chessxpanse.json](./366063-chessxpanse.json) |
 | Chiaro and the Elixir of Life | 86382 | [86382-chiaro-and-the-elixir-of-life.json](./86382-chiaro-and-the-elixir-of-life.json) |
@@ -380,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraline | 4771 | [4771-coraline.json](./4771-coraline.json) |
 | Coralland | 359233 | [359233-coralland.json](./359233-coralland.json) |
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
+| Corebound | 357082 | [357082-corebound.json](./357082-corebound.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corn Quest | 382648 | [382648-corn-quest.json](./382648-corn-quest.json) |
@@ -451,11 +455,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreaVures | 15035 | [15035-creavures.json](./15035-creavures.json) |
 | Creep Tank | 408652 | [408652-creep-tank.json](./408652-creep-tank.json) |
 | Creeps Сreeps? Creeps! | 126384 | [126384-creeps-reeps-creeps.json](./126384-creeps-reeps-creeps.json) |
+| Creepy Shift: Uncle Joe’s Motel | 357060 | [357060-creepy-shift-uncle-joe-s-motel.json](./357060-creepy-shift-uncle-joe-s-motel.json) |
 | Cresata | 407972 | [407972-cresata.json](./407972-cresata.json) |
 | Crew 167: The Grand Block Odyssey | 124391 | [124391-crew-167-the-grand-block-odyssey.json](./124391-crew-167-the-grand-block-odyssey.json) |
 | Cricket Captain 2016 | 32993 | [32993-cricket-captain-2016.json](./32993-cricket-captain-2016.json) |
 | Cricket Captain 2017 | 44119 | [44119-cricket-captain-2017.json](./44119-cricket-captain-2017.json) |
 | Crime Boss: Rockay City | 228541 | [228541-crime-boss-rockay-city.json](./228541-crime-boss-rockay-city.json) |
+| Crime Boss: Rockay City - Wiz Character Pack | 357055 | [357055-crime-boss-rockay-city-wiz-character-pack.json](./357055-crime-boss-rockay-city-wiz-character-pack.json) |
 | Crime Scene Clean: Paranormal | 374999 | [374999-crime-scene-clean-paranormal.json](./374999-crime-scene-clean-paranormal.json) |
 | Crime Scene Cleaner: Biohazard | 396083 | [396083-crime-scene-cleaner-biohazard.json](./396083-crime-scene-cleaner-biohazard.json) |
 | Crime Scene: What’s Wrong? | 409483 | [409483-crime-scene-what-s-wrong.json](./409483-crime-scene-what-s-wrong.json) |
