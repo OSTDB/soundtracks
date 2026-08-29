@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba del Tuerto | 414188 | [414188-samba-del-tuerto.json](./414188-samba-del-tuerto.json) |
 | Samorost 2 | 8621 | [8621-samorost-2.json](./8621-samorost-2.json) |
 | Samuel Prince Attorney at Law: Chapter 2 | 365515 | [365515-samuel-prince-attorney-at-law-chapter-2.json](./365515-samuel-prince-attorney-at-law-chapter-2.json) |
+| SamuelGame | 356473 | [356473-samuelgame.json](./356473-samuelgame.json) |
 | Samurai Aces for Nintendo Switch | 86647 | [86647-samurai-aces-for-nintendo-switch.json](./86647-samurai-aces-for-nintendo-switch.json) |
 | Samurai of Hyuga | 31423 | [31423-samurai-of-hyuga.json](./31423-samurai-of-hyuga.json) |
 | Samurai of Hyuga Book 2 | 31424 | [31424-samurai-of-hyuga-book-2.json](./31424-samurai-of-hyuga-book-2.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Greens | 373940 | [373940-screen-greens.json](./373940-screen-greens.json) |
 | Screen Snake | 86686 | [86686-screen-snake.json](./86686-screen-snake.json) |
 | Screws Loose | 384374 | [384374-screws-loose.json](./384374-screws-loose.json) |
+| Screwzle 3D | 356460 | [356460-screwzle-3d.json](./356460-screwzle-3d.json) |
 | Scribble Bots | 373926 | [373926-scribble-bots.json](./373926-scribble-bots.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Soccer: Championship Edition | 87597 | [87597-slide-soccer-championship-edition.json](./87597-slide-soccer-championship-edition.json) |
 | Slide Viking | 372291 | [372291-slide-viking.json](./372291-slide-viking.json) |
 | Sliding Blaster 2 | 369409 | [369409-sliding-blaster-2.json](./369409-sliding-blaster-2.json) |
+| Slime In Abysm | 356474 | [356474-slime-in-abysm.json](./356474-slime-in-abysm.json) |
 | Slime Lab | 359778 | [359778-slime-lab.json](./359778-slime-lab.json) |
 | Slime Shiyou | 366047 | [366047-slime-shiyou.json](./366047-slime-shiyou.json) |
 | Slimecity | 410755 | [410755-slimecity.json](./410755-slimecity.json) |
@@ -624,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Traders: Frontiers | 74163 | [74163-star-traders-frontiers.json](./74163-star-traders-frontiers.json) |
 | Star Trek: Infection | 362076 | [362076-star-trek-infection.json](./362076-star-trek-infection.json) |
 | Star Trek: The Video Game | 25160 | [25160-star-trek-the-video-game.json](./25160-star-trek-the-video-game.json) |
+| Star Wars Battlefront II: Remaster | 356461 | [356461-star-wars-battlefront-ii-remaster.json](./356461-star-wars-battlefront-ii-remaster.json) |
 | Star Wars: Battlefront Classic Collection | 287851 | [287851-star-wars-battlefront-classic-collection.json](./287851-star-wars-battlefront-classic-collection.json) |
 | Star Wars: Episode I - Racer | 167641 | [167641-star-wars-episode-i-racer.json](./167641-star-wars-episode-i-racer.json) |
 | Star Wars: Jedi Arena | 10203 | [10203-star-wars-jedi-arena.json](./10203-star-wars-jedi-arena.json) |
@@ -778,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Wolf Romance | 373387 | [373387-sugoi-girls-wolf-romance.json](./373387-sugoi-girls-wolf-romance.json) |
 | Suicide Mr. Fury | 399471 | [399471-suicide-mr-fury.json](./399471-suicide-mr-fury.json) |
 | Suicideville | 89337 | [89337-suicideville.json](./89337-suicideville.json) |
+| Suikoden II: The Oath | 356455 | [356455-suikoden-ii-the-oath.json](./356455-suikoden-ii-the-oath.json) |
 | Suikoden Tactics | 1450 | [1450-suikoden-tactics.json](./1450-suikoden-tactics.json) |
 | Suisaiga ha Suitei ni Shizumu | 393340 | [393340-suisaiga-ha-suitei-ni-shizumu.json](./393340-suisaiga-ha-suitei-ni-shizumu.json) |
 | Sujefa | 392053 | [392053-sujefa.json](./392053-sujefa.json) |
