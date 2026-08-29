@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands: Non-Places | 26032 | [26032-islands-non-places.json](./26032-islands-non-places.json) |
 | Isle of Poochimon | 368880 | [368880-isle-of-poochimon.json](./368880-isle-of-poochimon.json) |
 | Isles of Adalar | 125706 | [125706-isles-of-adalar.json](./125706-isles-of-adalar.json) |
+| Isoforge | 346451 | [346451-isoforge.json](./346451-isoforge.json) |
 | Istikan Chai | 390977 | [390977-istikan-chai.json](./390977-istikan-chai.json) |
 | It Can't Be That Hard, Can it? | 387895 | [387895-it-cant-be-that-hard-can-it.json](./387895-it-cant-be-that-hard-can-it.json) |
 | It Happened Here: If Walls Could Talk | 382628 | [382628-it-happened-here-if-walls-could-talk.json](./382628-it-happened-here-if-walls-could-talk.json) |
