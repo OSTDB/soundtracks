@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Mania: Main Street | 14996 | [14996-cake-mania-main-street.json](./14996-cake-mania-main-street.json) |
 | Cake Sort | 357065 | [357065-cake-sort.json](./357065-cake-sort.json) |
 | Calculords | 20939 | [20939-calculords.json](./20939-calculords.json) |
+| California Gold Rush 2 | 350811 | [350811-california-gold-rush-2.json](./350811-california-gold-rush-2.json) |
 | Call of Cthulhu: The Wasted Land | 16667 | [16667-call-of-cthulhu-the-wasted-land.json](./16667-call-of-cthulhu-the-wasted-land.json) |
 | Call of Duty | 77290 | [77290-call-of-duty.json](./77290-call-of-duty.json) |
 | Call of Duty Online | 77289 | [77289-call-of-duty-online.json](./77289-call-of-duty-online.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
+| Candivity: Pirate Edition | 350855 | [350855-candivity-pirate-edition.json](./350855-candivity-pirate-edition.json) |
 | Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
 | Candystand Miniature Golf | 360393 | [360393-candystand-miniature-golf.json](./360393-candystand-miniature-golf.json) |
 | Cannibals & Missionaries | 381454 | [381454-cannibals-and-missionaries.json](./381454-cannibals-and-missionaries.json) |
@@ -98,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores | 11761 | [11761-carnivores.json](./11761-carnivores.json) |
 | Carol and the Bells: A Cozy Strategy Game | 406602 | [406602-carol-and-the-bells-a-cozy-strategy-game.json](./406602-carol-and-the-bells-a-cozy-strategy-game.json) |
 | Cars & Vehicles Puzzle Game for Toddlers HD | 89507 | [89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json](./89507-cars-and-vehicles-puzzle-game-for-toddlers-hd.json) |
+| CarsWheels | 350843 | [350843-carswheels.json](./350843-carswheels.json) |
 | Cart Racer | 39785 | [39785-cart-racer.json](./39785-cart-racer.json) |
 | Cartoon Cagematch | 384378 | [384378-cartoon-cagematch.json](./384378-cartoon-cagematch.json) |
 | Cartoon Survivor | 357659 | [357659-cartoon-survivor.json](./357659-cartoon-survivor.json) |
@@ -105,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Street | 323090 | [323090-carx-street.json](./323090-carx-street.json) |
 | Cascader | 407232 | [407232-cascader.json](./407232-cascader.json) |
 | Case: Animatronics | 22373 | [22373-case-animatronics.json](./22373-case-animatronics.json) |
+| Cash Cleaner Laundry Simulator | 350826 | [350826-cash-cleaner-laundry-simulator.json](./350826-cash-cleaner-laundry-simulator.json) |
 | Cash Crop | 47139 | [47139-cash-crop.json](./47139-cash-crop.json) |
 | Casino Roulette: Roulettist | 369427 | [369427-casino-roulette-roulettist.json](./369427-casino-roulette-roulettist.json) |
 | Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
@@ -148,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Craig 2: The Tribes of Boggdrop | 24045 | [24045-caveman-craig-2-the-tribes-of-boggdrop.json](./24045-caveman-craig-2-the-tribes-of-boggdrop.json) |
 | Caveman World: Mountains of Unga Boonga | 32999 | [32999-caveman-world-mountains-of-unga-boonga.json](./32999-caveman-world-mountains-of-unga-boonga.json) |
 | Cavern of Time | 29771 | [29771-cavern-of-time.json](./29771-cavern-of-time.json) |
+| Cazzarion: Pacific Winds | 350827 | [350827-cazzarion-pacific-winds.json](./350827-cazzarion-pacific-winds.json) |
 | CD-ROM | 388574 | [388574-cd-rom.json](./388574-cd-rom.json) |
 | Ceaseless Defense | 378017 | [378017-ceaseless-defense.json](./378017-ceaseless-defense.json) |
 | Cel Damage | 3852 | [3852-cel-damage.json](./3852-cel-damage.json) |
