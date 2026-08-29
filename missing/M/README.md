@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshals of Yore | 357088 | [357088-marshals-of-yore.json](./357088-marshals-of-yore.json) |
 | Marshmello & Anna Marie - Friend Piano Tiles | 101956 | [101956-marshmello-and-anna-marie-friend-piano-tiles.json](./101956-marshmello-and-anna-marie-friend-piano-tiles.json) |
 | Martial Law | 35865 | [35865-martial-law.json](./35865-martial-law.json) |
+| Marvel Rivals: Season 3 - The Abyss Awakens | 354260 | [354260-marvel-rivals-season-3-the-abyss-awakens.json](./354260-marvel-rivals-season-3-the-abyss-awakens.json) |
 | Marvel Rivals: Season 8 - Sins of Alchemax | 402159 | [402159-marvel-rivals-season-8-sins-of-alchemax.json](./402159-marvel-rivals-season-8-sins-of-alchemax.json) |
 | Marvel Super Heroes | 27890 | [27890-marvel-super-heroes.json](./27890-marvel-super-heroes.json) |
 | Marvel vs. Capcom: Infinite | 26197 | [26197-marvel-vs-capcom-infinite.json](./26197-marvel-vs-capcom-infinite.json) |
@@ -161,9 +162,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Knight | 369424 | [369424-master-knight.json](./369424-master-knight.json) |
 | Master of Cigkofte | 360441 | [360441-master-of-cigkofte.json](./360441-master-of-cigkofte.json) |
 | Master of Pottery | 126808 | [126808-master-of-pottery.json](./126808-master-of-pottery.json) |
+| Match Point Tennis | 354296 | [354296-match-point-tennis.json](./354296-match-point-tennis.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Matikka on Jees! | 370519 | [370519-matikka-on-jees.json](./370519-matikka-on-jees.json) |
+| Mato Fragments | 354244 | [354244-mato-fragments.json](./354244-mato-fragments.json) |
 | Matsurika no Kei: Tenmei Kashokuden | 394052 | [394052-matsurika-no-kei-tenmei-kashokuden.json](./394052-matsurika-no-kei-tenmei-kashokuden.json) |
 | Matter Over Mind | 392041 | [392041-matter-over-mind.json](./392041-matter-over-mind.json) |
 | Maui Mallard in Cold Shadow | 371104 | [371104-maui-mallard-in-cold-shadow.json](./371104-maui-mallard-in-cold-shadow.json) |
@@ -547,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cold Girlfriend | 374467 | [374467-my-cold-girlfriend.json](./374467-my-cold-girlfriend.json) |
 | My Dear Emma | 360945 | [360945-my-dear-emma.json](./360945-my-dear-emma.json) |
 | My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
+| My Farm Is Running! | 354248 | [354248-my-farm-is-running.json](./354248-my-farm-is-running.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
