@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shin Monshou no Nazo - Hikari to Kage no Eiyuu | 1445 | [1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json](./1445-fire-emblem-shin-monshou-no-nazo-hikari-to-kage-no-eiyuu.json) |
 | FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireburst | 16343 | [16343-fireburst.json](./16343-fireburst.json) |
+| Firefly Haven | 356472 | [356472-firefly-haven.json](./356472-firefly-haven.json) |
 | Fireman Sam - Fire & Rescue | 89297 | [89297-fireman-sam-fire-and-rescue.json](./89297-fireman-sam-fire-and-rescue.json) |
 | Fireside Journey: The Creative Path of Fireside Feelings | 389301 | [389301-fireside-journey-the-creative-path-of-fireside-feelings.json](./389301-fireside-journey-the-creative-path-of-fireside-feelings.json) |
 | Firestarters | 386589 | [386589-firestarters.json](./386589-firestarters.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of Love | 109735 | [109735-fist-of-love.json](./109735-fist-of-love.json) |
 | Fist's Elimination Tower | 46469 | [46469-fists-elimination-tower.json](./46469-fists-elimination-tower.json) |
 | Fit and Fry: Mise En Place | 372302 | [372302-fit-and-fry-mise-en-place.json](./372302-fit-and-fry-mise-en-place.json) |
+| Fit And Fry: Organized Chef | 356498 | [356498-fit-and-fry-organized-chef.json](./356498-fit-and-fry-organized-chef.json) |
 | Fiv-a-Row | 405384 | [405384-fiv-a-row.json](./405384-fiv-a-row.json) |
 | Five Faizul Fridays DX | 398220 | [398220-five-faizul-fridays-dx.json](./398220-five-faizul-fridays-dx.json) |
 | Five Holy Girls | 399459 | [399459-five-holy-girls.json](./399459-five-holy-girls.json) |
@@ -383,11 +385,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Hunter: Erza's Wheel of Fortune - Mother's Trial | 368871 | [368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json](./368871-frontier-hunter-erzas-wheel-of-fortune-mothers-trial.json) |
 | Frontier Pilot Simulator | 47135 | [47135-frontier-pilot-simulator.json](./47135-frontier-pilot-simulator.json) |
 | Frontier Wars: Online | 400807 | [400807-frontier-wars-online.json](./400807-frontier-wars-online.json) |
+| Frost | 356469 | [356469-frost.json](./356469-frost.json) |
 | Frost and Glory | 374462 | [374462-frost-and-glory.json](./374462-frost-and-glory.json) |
 | Frost: Quiet Light | 392021 | [392021-frost-quiet-light.json](./392021-frost-quiet-light.json) |
 | FrostLight Escape | 357043 | [357043-frostlight-escape.json](./357043-frostlight-escape.json) |
 | Frozen Stillness | 385454 | [385454-frozen-stillness.json](./385454-frozen-stillness.json) |
 | Fruit Casket | 383244 | [383244-fruit-casket.json](./383244-fruit-casket.json) |
+| Fruit Collector: Beach Edition | 356497 | [356497-fruit-collector-beach-edition.json](./356497-fruit-collector-beach-edition.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
