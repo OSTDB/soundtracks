@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackfireWall | 204645 | [204645-backfirewall.json](./204645-backfirewall.json) |
 | Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backfools | 407236 | [407236-backfools.json](./407236-backfools.json) |
+| Backframes: Escape Together | 346444 | [346444-backframes-escape-together.json](./346444-backframes-escape-together.json) |
 | Backgammon Galaxy | 346989 | [346989-backgammon-galaxy.json](./346989-backgammon-galaxy.json) |
 | Backmooms | 356459 | [356459-backmooms.json](./356459-backmooms.json) |
 | Backrooms Bodycam | 348622 | [348622-backrooms-bodycam.json](./348622-backrooms-bodycam.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock Remastered | 34293 | [34293-bioshock-remastered.json](./34293-bioshock-remastered.json) |
 | Bioszard Corporation | 115703 | [115703-bioszard-corporation.json](./115703-bioszard-corporation.json) |
 | Biotope: Aquarium Simulator | 115812 | [115812-biotope-aquarium-simulator.json](./115812-biotope-aquarium-simulator.json) |
+| Bioysque | 346412 | [346412-bioysque.json](./346412-bioysque.json) |
 | Bip and Bop | 388589 | [388589-bip-and-bop.json](./388589-bip-and-bop.json) |
 | Bird Game 3 | 379730 | [379730-bird-game-3.json](./379730-bird-game-3.json) |
 | Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
