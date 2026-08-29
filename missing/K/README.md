@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Towers | 374465 | [374465-knights-and-towers.json](./374465-knights-and-towers.json) |
 | Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Light: The Prologue | 126859 | [126859-knights-of-light-the-prologue.json](./126859-knights-of-light-the-prologue.json) |
+| Knights of Neon | 344181 | [344181-knights-of-neon.json](./344181-knights-of-neon.json) |
 | Knights of the Rollerblades | 395397 | [395397-knights-of-the-rollerblades.json](./395397-knights-of-the-rollerblades.json) |
 | Knights Shadow | 368869 | [368869-knights-shadow.json](./368869-knights-shadow.json) |
 | KnitBone | 414984 | [414984-knitbone.json](./414984-knitbone.json) |
