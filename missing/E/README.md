@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elena | 31703 | [31703-elena.json](./31703-elena.json) |
 | Elevation | 396044 | [396044-elevation.json](./396044-elevation.json) |
 | Elf World Adventure 12: Winter Episode! | 406033 | [406033-elf-world-adventure-12-winter-episode.json](./406033-elf-world-adventure-12-winter-episode.json) |
+| Elgracia: A Kingdom's Chronicle | 353699 | [353699-elgracia-a-kingdoms-chronicle.json](./353699-elgracia-a-kingdoms-chronicle.json) |
 | Eliminator | 22848 | [22848-eliminator.json](./22848-eliminator.json) |
 | Elise the Devil | 65795 | [65795-elise-the-devil.json](./65795-elise-the-devil.json) |
 | Elite | 2951 | [2951-elite.json](./2951-elite.json) |
