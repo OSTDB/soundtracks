@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshee Bash | 392059 | [392059-banshee-bash.json](./392059-banshee-bash.json) |
 | Banyu Lintar Angin: Little Storm | 81094 | [81094-banyu-lintar-angin-little-storm.json](./81094-banyu-lintar-angin-little-storm.json) |
 | Baobabs Mausoleum Ep. 1: Ovnifagos Don't Eat Flamingos | 37401 | [37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json](./37401-baobabs-mausoleum-ep-1-ovnifagos-dont-eat-flamingos.json) |
+| Barabizna | 355933 | [355933-barabizna.json](./355933-barabizna.json) |
 | Barber Shop Hair Salon Beard Hair Cutting Games | 95792 | [95792-barber-shop-hair-salon-beard-hair-cutting-games.json](./95792-barber-shop-hair-salon-beard-hair-cutting-games.json) |
 | Barbie Dreamhouse Party | 16671 | [16671-barbie-dreamhouse-party.json](./16671-barbie-dreamhouse-party.json) |
 | Bard’s Fault | 387861 | [387861-bard-s-fault.json](./387861-bard-s-fault.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Court | 393333 | [393333-blood-court.json](./393333-blood-court.json) |
 | Blood Harvest 3 | 102153 | [102153-blood-harvest-3.json](./102153-blood-harvest-3.json) |
 | Blood Invasion | 372304 | [372304-blood-invasion.json](./372304-blood-invasion.json) |
+| Blood Line: A Rebel Moon Game | 355906 | [355906-blood-line-a-rebel-moon-game.json](./355906-blood-line-a-rebel-moon-game.json) |
 | Blood of the Future | 391500 | [391500-blood-of-the-future.json](./391500-blood-of-the-future.json) |
 | Blood of the Werewolf | 10056 | [10056-blood-of-the-werewolf.json](./10056-blood-of-the-werewolf.json) |
 | Bloodforge | 7310 | [7310-bloodforge.json](./7310-bloodforge.json) |
@@ -434,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boffins History Quiz Reel | 411481 | [411481-boffins-history-quiz-reel.json](./411481-boffins-history-quiz-reel.json) |
 | Bogatyr | 126868 | [126868-bogatyr.json](./126868-bogatyr.json) |
 | Bogatyr: Survival of the Worlds | 412187 | [412187-bogatyr-survival-of-the-worlds.json](./412187-bogatyr-survival-of-the-worlds.json) |
+| Boggle: Arcade Edition | 355931 | [355931-boggle-arcade-edition.json](./355931-boggle-arcade-edition.json) |
 | Bohemian Killing | 25676 | [25676-bohemian-killing.json](./25676-bohemian-killing.json) |
 | Boiling Steel | 116321 | [116321-boiling-steel.json](./116321-boiling-steel.json) |
 | Boing Over It | 390388 | [390388-boing-over-it.json](./390388-boing-over-it.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buko Boko | 364910 | [364910-buko-boko.json](./364910-buko-boko.json) |
 | Bulgasari: Consume·Evolve·Survive | 389867 | [389867-bulgasari-consume-evolve-survive.json](./389867-bulgasari-consume-evolve-survive.json) |
 | Bullet Candy | 14830 | [14830-bullet-candy.json](./14830-bullet-candy.json) |
+| Bulletploop | 355937 | [355937-bulletploop.json](./355937-bulletploop.json) |
 | Bulletstorm: Full Clip Edition | 26167 | [26167-bulletstorm-full-clip-edition.json](./26167-bulletstorm-full-clip-edition.json) |
 | Bully Beatdown | 102301 | [102301-bully-beatdown.json](./102301-bully-beatdown.json) |
 | Buloki: Escape from the Alien Ship | 412156 | [412156-buloki-escape-from-the-alien-ship.json](./412156-buloki-escape-from-the-alien-ship.json) |
