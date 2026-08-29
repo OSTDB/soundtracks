@@ -222,7 +222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Pop: Hot Edition | 378038 | [378038-evo-pop-hot-edition.json](./378038-evo-pop-hot-edition.json) |
 | Evo Pop: Hover DLC | 373410 | [373410-evo-pop-hover-dlc.json](./373410-evo-pop-hover-dlc.json) |
 | Evochron Mercenary | 15071 | [15071-evochron-mercenary.json](./15071-evochron-mercenary.json) |
+| Evoker | 344737 | [344737-evoker.json](./344737-evoker.json) |
 | Evolution II: Fighting for Survival | 35809 | [35809-evolution-ii-fighting-for-survival.json](./35809-evolution-ii-fighting-for-survival.json) |
+| Evolvania | 344779 | [344779-evolvania.json](./344779-evolvania.json) |
 | Evomon Online | 382660 | [382660-evomon-online.json](./382660-evomon-online.json) |
 | Ewsn Card | 367794 | [367794-ewsn-card.json](./367794-ewsn-card.json) |
 | Exark | 346991 | [346991-exark.json](./346991-exark.json) |
