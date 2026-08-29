@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoological Era II | 367816 | [367816-zoological-era-ii.json](./367816-zoological-era-ii.json) |
 | Zork: Grand Inquisitor | 1955 | [1955-zork-grand-inquisitor.json](./1955-zork-grand-inquisitor.json) |
 | ZOSU VR Explosive Bow Hunting | 367810 | [367810-zosu-vr-explosive-bow-hunting.json](./367810-zosu-vr-explosive-bow-hunting.json) |
+| Zugaran | 354860 | [354860-zugaran.json](./354860-zugaran.json) |
 | Zulu Response | 34494 | [34494-zulu-response.json](./34494-zulu-response.json) |
 | Zuma | 3753 | [3753-zuma.json](./3753-zuma.json) |
 | Zuma's Revenge!: Adventure | 405407 | [405407-zumas-revenge-adventure.json](./405407-zumas-revenge-adventure.json) |
