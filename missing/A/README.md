@@ -124,6 +124,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adolf Hitler Humiliation Simulator | 392669 | [392669-adolf-hitler-humiliation-simulator.json](./392669-adolf-hitler-humiliation-simulator.json) |
 | ADT Pilot 01 | 367795 | [367795-adt-pilot-01.json](./367795-adt-pilot-01.json) |
 | Adult Education | 367261 | [367261-adult-education.json](./367261-adult-education.json) |
+| Advanced PET: Battle Chip - Barrier 200 | 353132 | [353132-advanced-pet-battle-chip-barrier-200.json](./353132-advanced-pet-battle-chip-barrier-200.json) |
+| Advanced PET: Battle Chip - Boomerang 3 | 353118 | [353118-advanced-pet-battle-chip-boomerang-3.json](./353118-advanced-pet-battle-chip-boomerang-3.json) |
+| Advanced PET: Battle Chip - Boy's Bomb 3 | 353121 | [353121-advanced-pet-battle-chip-boys-bomb-3.json](./353121-advanced-pet-battle-chip-boys-bomb-3.json) |
+| Advanced PET: Battle Chip - Circle Gun 2 | 353114 | [353114-advanced-pet-battle-chip-circle-gun-2.json](./353114-advanced-pet-battle-chip-circle-gun-2.json) |
+| Advanced PET: Battle Chip - Circle Gun 3 | 353115 | [353115-advanced-pet-battle-chip-circle-gun-3.json](./353115-advanced-pet-battle-chip-circle-gun-3.json) |
+| Advanced PET: Battle Chip - Copy Damage | 353136 | [353136-advanced-pet-battle-chip-copy-damage.json](./353136-advanced-pet-battle-chip-copy-damage.json) |
+| Advanced PET: Battle Chip - Dankouzui | 353133 | [353133-advanced-pet-battle-chip-dankouzui.json](./353133-advanced-pet-battle-chip-dankouzui.json) |
+| Advanced PET: Battle Chip - Dark Hole | 353120 | [353120-advanced-pet-battle-chip-dark-hole.json](./353120-advanced-pet-battle-chip-dark-hole.json) |
+| Advanced PET: Battle Chip - Element Sand | 353129 | [353129-advanced-pet-battle-chip-element-sand.json](./353129-advanced-pet-battle-chip-element-sand.json) |
+| Advanced PET: Battle Chip - Hayabusagiri 2 | 353140 | [353140-advanced-pet-battle-chip-hayabusagiri-2.json](./353140-advanced-pet-battle-chip-hayabusagiri-2.json) |
+| Advanced PET: Battle Chip - Hayabusagiri 3 | 353141 | [353141-advanced-pet-battle-chip-hayabusagiri-3.json](./353141-advanced-pet-battle-chip-hayabusagiri-3.json) |
+| Advanced PET: Battle Chip - Hiraishin | 353134 | [353134-advanced-pet-battle-chip-hiraishin.json](./353134-advanced-pet-battle-chip-hiraishin.json) |
+| Advanced PET: Battle Chip - Magnum | 353125 | [353125-advanced-pet-battle-chip-magnum.json](./353125-advanced-pet-battle-chip-magnum.json) |
+| Advanced PET: Battle Chip - Mayoi no Mori | 353135 | [353135-advanced-pet-battle-chip-mayoi-no-mori.json](./353135-advanced-pet-battle-chip-mayoi-no-mori.json) |
+| Advanced PET: Battle Chip - Met Guard 2 | 353122 | [353122-advanced-pet-battle-chip-met-guard-2.json](./353122-advanced-pet-battle-chip-met-guard-2.json) |
+| Advanced PET: Battle Chip - Met Guard 3 | 353123 | [353123-advanced-pet-battle-chip-met-guard-3.json](./353123-advanced-pet-battle-chip-met-guard-3.json) |
+| Advanced PET: Battle Chip - Moko Rush 1 | 353130 | [353130-advanced-pet-battle-chip-moko-rush-1.json](./353130-advanced-pet-battle-chip-moko-rush-1.json) |
+| Advanced PET: Battle Chip - Moko Rush 3 | 353131 | [353131-advanced-pet-battle-chip-moko-rush-3.json](./353131-advanced-pet-battle-chip-moko-rush-3.json) |
+| Advanced PET: Battle Chip - Number Ball 1 | 353142 | [353142-advanced-pet-battle-chip-number-ball-1.json](./353142-advanced-pet-battle-chip-number-ball-1.json) |
+| Advanced PET: Battle Chip - Number Ball 3 | 353143 | [353143-advanced-pet-battle-chip-number-ball-3.json](./353143-advanced-pet-battle-chip-number-ball-3.json) |
+| Advanced PET: Battle Chip - Propeller Bomb 3 | 353137 | [353137-advanced-pet-battle-chip-propeller-bomb-3.json](./353137-advanced-pet-battle-chip-propeller-bomb-3.json) |
+| Advanced PET: Battle Chip - Search Bomb 2 | 353138 | [353138-advanced-pet-battle-chip-search-bomb-2.json](./353138-advanced-pet-battle-chip-search-bomb-2.json) |
+| Advanced PET: Battle Chip - Search Bomb 3 | 353139 | [353139-advanced-pet-battle-chip-search-bomb-3.json](./353139-advanced-pet-battle-chip-search-bomb-3.json) |
+| Advanced PET: Battle Chip - Side Bamboo 3 | 353119 | [353119-advanced-pet-battle-chip-side-bamboo-3.json](./353119-advanced-pet-battle-chip-side-bamboo-3.json) |
+| Advanced PET: Battle Chip - Steal Revenge | 353128 | [353128-advanced-pet-battle-chip-steal-revenge.json](./353128-advanced-pet-battle-chip-steal-revenge.json) |
+| Advanced PET: Battle Chip - Thunderball 3 | 353113 | [353113-advanced-pet-battle-chip-thunderball-3.json](./353113-advanced-pet-battle-chip-thunderball-3.json) |
+| Advanced PET: Battle Chip - Triple Crack | 353124 | [353124-advanced-pet-battle-chip-triple-crack.json](./353124-advanced-pet-battle-chip-triple-crack.json) |
+| Advanced PET: Battle Chip - Waraningyou | 353127 | [353127-advanced-pet-battle-chip-waraningyou.json](./353127-advanced-pet-battle-chip-waraningyou.json) |
+| Advanced PET: Battle Chip - White Web 3 | 353117 | [353117-advanced-pet-battle-chip-white-web-3.json](./353117-advanced-pet-battle-chip-white-web-3.json) |
 | Adventure Bar Story | 65352 | [65352-adventure-bar-story.json](./65352-adventure-bar-story.json) |
 | Adventure Box | 9905 | [9905-adventure-box.json](./9905-adventure-box.json) |
 | Adventure Craft | 44269 | [44269-adventure-craft.json](./44269-adventure-craft.json) |
@@ -369,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Saga | 32945 | [32945-arcade-saga.json](./32945-arcade-saga.json) |
 | Arcadia Cafe | 400110 | [400110-arcadia-cafe.json](./400110-arcadia-cafe.json) |
 | Arcana Heart 3: Love Max Six Stars!!!!! | 44228 | [44228-arcana-heart-3-love-max-six-stars.json](./44228-arcana-heart-3-love-max-six-stars.json) |
+| Arcane Dice Wars: Gacha Date | 353144 | [353144-arcane-dice-wars-gacha-date.json](./353144-arcane-dice-wars-gacha-date.json) |
 | Arcane Earth | 375626 | [375626-arcane-earth.json](./375626-arcane-earth.json) |
 | Arcane Eclipse | 394034 | [394034-arcane-eclipse.json](./394034-arcane-eclipse.json) |
 | Arcane Rivals | 372330 | [372330-arcane-rivals.json](./372330-arcane-rivals.json) |
