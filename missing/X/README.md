@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenon Valkyrie+ | 77957 | [77957-xenon-valkyrie.json](./77957-xenon-valkyrie.json) |
 | Xiangsheng Simulator | 369954 | [369954-xiangsheng-simulator.json](./369954-xiangsheng-simulator.json) |
 | Xiémén Guǐ Dào | 368845 | [368845-xiemen-gui-dao.json](./368845-xiemen-gui-dao.json) |
+| XIII | 358119 | [358119-xiii.json](./358119-xiii.json) |
 | Xombee MPFPS | 392658 | [392658-xombee-mpfps.json](./392658-xombee-mpfps.json) |
 | XP Girls | 126416 | [126416-xp-girls.json](./126416-xp-girls.json) |
 | XP Hero | 394036 | [394036-xp-hero.json](./394036-xp-hero.json) |
