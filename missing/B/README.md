@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearplane | 354864 | [354864-bearplane.json](./354864-bearplane.json) |
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
+| Beastopia | 347534 | [347534-beastopia.json](./347534-beastopia.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
 | Beasts That Swim | 370543 | [370543-beasts-that-swim.json](./370543-beasts-that-swim.json) |
 | Beat Breaker | 414197 | [414197-beat-breaker.json](./414197-beat-breaker.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bees | 387857 | [387857-bees.json](./387857-bees.json) |
 | Bees Reborn | 356450 | [356450-bees-reborn.json](./356450-bees-reborn.json) |
 | Beetle Adventure Racing! | 2715 | [2715-beetle-adventure-racing.json](./2715-beetle-adventure-racing.json) |
+| Beetleball | 347541 | [347541-beetleball.json](./347541-beetleball.json) |
 | Before Close | 402775 | [402775-before-close.json](./402775-before-close.json) |
 | Before They Wake | 402808 | [402808-before-they-wake.json](./402808-before-they-wake.json) |
 | Begin the Slaughter | 366075 | [366075-begin-the-slaughter.json](./366075-begin-the-slaughter.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Blocks | 34483 | [34483-bleeding-blocks.json](./34483-bleeding-blocks.json) |
 | Bleeding Edge | 119260 | [119260-bleeding-edge.json](./119260-bleeding-edge.json) |
 | Bleeding Edge VR | 115831 | [115831-bleeding-edge-vr.json](./115831-bleeding-edge-vr.json) |
+| Blessed | 347517 | [347517-blessed.json](./347517-blessed.json) |
 | Blighted Deep | 364897 | [364897-blighted-deep.json](./364897-blighted-deep.json) |
 | Blighthold | 404722 | [404722-blighthold.json](./404722-blighthold.json) |
 | Blightspire | 350259 | [350259-blightspire.json](./350259-blightspire.json) |
@@ -494,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots 'n Bolts | 369941 | [369941-bots-n-bolts.json](./369941-bots-n-bolts.json) |
 | Boulder Dash II: Rockford's Revenge | 26217 | [26217-boulder-dash-ii-rockfords-revenge.json](./26217-boulder-dash-ii-rockfords-revenge.json) |
 | Bound By Flame | 7208 | [7208-bound-by-flame.json](./7208-bound-by-flame.json) |
+| Bound in Time | 347551 | [347551-bound-in-time.json](./347551-bound-in-time.json) |
 | Bound to the Dark World | 375661 | [375661-bound-to-the-dark-world.json](./375661-bound-to-the-dark-world.json) |
 | Bow Down & Eyes Up | 410798 | [410798-bow-down-and-eyes-up.json](./410798-bow-down-and-eyes-up.json) |
 | Bowling Alley Simulator | 410158 | [410158-bowling-alley-simulator.json](./410158-bowling-alley-simulator.json) |
@@ -557,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Smoking Mirror - Remastered | 27860 | [27860-broken-sword-the-smoking-mirror-remastered.json](./27860-broken-sword-the-smoking-mirror-remastered.json) |
 | Broken Through | 229146 | [229146-broken-through.json](./229146-broken-through.json) |
 | BrokenLore: Don't Watch | 319625 | [319625-brokenlore-dont-watch.json](./319625-brokenlore-dont-watch.json) |
+| Broom and Boom | 347539 | [347539-broom-and-boom.json](./347539-broom-and-boom.json) |
 | Bros of Bench | 404150 | [404150-bros-of-bench.json](./404150-bros-of-bench.json) |
 | Brotato | 199116 | [199116-brotato.json](./199116-brotato.json) |
 | Brrrainz: Feed your Hunger | 115929 | [115929-brrrainz-feed-your-hunger.json](./115929-brrrainz-feed-your-hunger.json) |
