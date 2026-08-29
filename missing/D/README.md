@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 3 | 274236 | [274236-deltarune-chapter-3.json](./274236-deltarune-chapter-3.json) |
 | Deltarune: Chapter 4 | 274237 | [274237-deltarune-chapter-4.json](./274237-deltarune-chapter-4.json) |
 | Deltarune: Hallow's Eve Hack | 379241 | [379241-deltarune-hallows-eve-hack.json](./379241-deltarune-hallows-eve-hack.json) |
+| Deltascention | 351458 | [351458-deltascention.json](./351458-deltascention.json) |
 | Deluded Mind | 93656 | [93656-deluded-mind.json](./93656-deluded-mind.json) |
 | Deluxe Invaders | 369414 | [369414-deluxe-invaders.json](./369414-deluxe-invaders.json) |
 | DeLuxe Moposota | 354825 | [354825-deluxe-moposota.json](./354825-deluxe-moposota.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
 | Deus Ex Remastered | 369987 | [369987-deus-ex-remastered.json](./369987-deus-ex-remastered.json) |
 | Deus Ex: The Fall | 5591 | [5591-deus-ex-the-fall.json](./5591-deus-ex-the-fall.json) |
+| Devastablance Mountain Brotherhood | 351455 | [351455-devastablance-mountain-brotherhood.json](./351455-devastablance-mountain-brotherhood.json) |
 | Deviation Game | 378641 | [378641-deviation-game.json](./378641-deviation-game.json) |
 | Devil and the Fairy | 86623 | [86623-devil-and-the-fairy.json](./86623-devil-and-the-fairy.json) |
 | Devil Daggers | 18081 | [18081-devil-daggers.json](./18081-devil-daggers.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Strikers | 364888 | [364888-dream-strikers.json](./364888-dream-strikers.json) |
 | Dream Team | 380291 | [380291-dream-team.json](./380291-dream-team.json) |
 | Dreamfall Chapters | 1962 | [1962-dreamfall-chapters.json](./1962-dreamfall-chapters.json) |
+| Dreamrealms Resurgence | 351469 | [351469-dreamrealms-resurgence.json](./351469-dreamrealms-resurgence.json) |
 | Dreams | 11155 | [11155-dreams.json](./11155-dreams.json) |
 | Dreams | 380290 | [380290-dreams.json](./380290-dreams.json) |
 | Dreams and Desires | 399448 | [399448-dreams-and-desires.json](./399448-dreams-and-desires.json) |
@@ -608,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkn Bar Fight on Halloween | 109862 | [109862-drunkn-bar-fight-on-halloween.json](./109862-drunkn-bar-fight-on-halloween.json) |
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | DS Doom | 378659 | [378659-ds-doom.json](./378659-ds-doom.json) |
+| Duck Blitz | 351450 | [351450-duck-blitz.json](./351450-duck-blitz.json) |
 | Duck Block | 379213 | [379213-duck-block.json](./379213-duck-block.json) |
 | Duck Hunt | 358712 | [358712-duck-hunt.json](./358712-duck-hunt.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
@@ -630,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Blitz R | 396695 | [396695-dungeon-blitz-r.json](./396695-dungeon-blitz-r.json) |
 | Dungeon Crowley | 109722 | [109722-dungeon-crowley.json](./109722-dungeon-crowley.json) |
 | Dungeon Escape! | 387899 | [387899-dungeon-escape.json](./387899-dungeon-escape.json) |
+| Dungeon Fight Tactics | 351478 | [351478-dungeon-fight-tactics.json](./351478-dungeon-fight-tactics.json) |
 | Dungeon Hero | 380296 | [380296-dungeon-hero.json](./380296-dungeon-hero.json) |
 | Dungeon Holdem | 375048 | [375048-dungeon-holdem.json](./375048-dungeon-holdem.json) |
 | Dungeon Hunter 5 | 39217 | [39217-dungeon-hunter-5.json](./39217-dungeon-hunter-5.json) |
