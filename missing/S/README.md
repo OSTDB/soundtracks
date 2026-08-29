@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguis et Gloria: Shadow of the Labyrinth | 375645 | [375645-sanguis-et-gloria-shadow-of-the-labyrinth.json](./375645-sanguis-et-gloria-shadow-of-the-labyrinth.json) |
 | Sānguó: Móu Dìng Tiānxià | 392659 | [392659-sanguo-mou-ding-tianxia.json](./392659-sanguo-mou-ding-tianxia.json) |
 | Sanitarium | 8072 | [8072-sanitarium.json](./8072-sanitarium.json) |
+| Sanjuro: Subject One | 349173 | [349173-sanjuro-subject-one.json](./349173-sanjuro-subject-one.json) |
 | Saphi | 383809 | [383809-saphi.json](./383809-saphi.json) |
 | Saratoga | 389288 | [389288-saratoga.json](./389288-saratoga.json) |
 | Sarkeras: Artifact of the Ancestors | 398882 | [398882-sarkeras-artifact-of-the-ancestors.json](./398882-sarkeras-artifact-of-the-ancestors.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Crime Stories Chapter 4 | 392620 | [392620-solitaire-crime-stories-chapter-4.json](./392620-solitaire-crime-stories-chapter-4.json) |
 | Solitaire Legends: Card Masters | 398205 | [398205-solitaire-legends-card-masters.json](./398205-solitaire-legends-card-masters.json) |
 | Solitaire Nights | 395401 | [395401-solitaire-nights.json](./395401-solitaire-nights.json) |
+| Solitaire of Stygian Shadows | 349122 | [349122-solitaire-of-stygian-shadows.json](./349122-solitaire-of-stygian-shadows.json) |
 | Solitaire Zero 21 | 364907 | [364907-solitaire-zero-21.json](./364907-solitaire-zero-21.json) |
 | Solkatt_ | 357644 | [357644-solkatt.json](./357644-solkatt.json) |
 | Solomon's Keep: Dreadful Retro Edition | 377453 | [377453-solomons-keep-dreadful-retro-edition.json](./377453-solomons-keep-dreadful-retro-edition.json) |
