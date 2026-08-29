@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga & Seeker | 379239 | [379239-saga-and-seeker.json](./379239-saga-and-seeker.json) |
 | SaGa: Scarlet Grace | 23981 | [23981-saga-scarlet-grace.json](./23981-saga-scarlet-grace.json) |
 | Sage | 360403 | [360403-sage.json](./360403-sage.json) |
+| Saiko Bot | 354846 | [354846-saiko-bot.json](./354846-saiko-bot.json) |
 | Sailor Moon: La Luna Splende | 76765 | [76765-sailor-moon-la-luna-splende.json](./76765-sailor-moon-la-luna-splende.json) |
 | Saint Peter Jr | 393311 | [393311-saint-peter-jr.json](./393311-saint-peter-jr.json) |
 | Saint Seiya Online | 50806 | [50806-saint-seiya-online.json](./50806-saint-seiya-online.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Satellite | 364299 | [364299-sunset-satellite.json](./364299-sunset-satellite.json) |
 | Sunset Suckerpunch | 357079 | [357079-sunset-suckerpunch.json](./357079-sunset-suckerpunch.json) |
 | Sunset Vector | 402206 | [402206-sunset-vector.json](./402206-sunset-vector.json) |
+| Sunshine Backwards | 354877 | [354877-sunshine-backwards.json](./354877-sunshine-backwards.json) |
 | Supaichi kun no Shibou Yuugi | 371711 | [371711-supaichi-kun-no-shibou-yuugi.json](./371711-supaichi-kun-no-shibou-yuugi.json) |
 | Super Amazing Wagon Adventure | 13100 | [13100-super-amazing-wagon-adventure.json](./13100-super-amazing-wagon-adventure.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
