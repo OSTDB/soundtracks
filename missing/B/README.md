@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Simulator | 18098 | [18098-bear-simulator.json](./18098-bear-simulator.json) |
 | Bearly Brave | 355406 | [355406-bearly-brave.json](./355406-bearly-brave.json) |
 | Bearly Flying | 379747 | [379747-bearly-flying.json](./379747-bearly-flying.json) |
+| Bearplane | 354864 | [354864-bearplane.json](./354864-bearplane.json) |
 | Beast Of The Woods | 383807 | [383807-beast-of-the-woods.json](./383807-beast-of-the-woods.json) |
 | Beastfolk Barber | 386598 | [386598-beastfolk-barber.json](./386598-beastfolk-barber.json) |
 | Beasts of Bermuda | 109639 | [109639-beasts-of-bermuda.json](./109639-beasts-of-bermuda.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Land | 4556 | [4556-binary-land.json](./4556-binary-land.json) |
 | Binding of Isaac: Unholy Edition | 382609 | [382609-binding-of-isaac-unholy-edition.json](./382609-binding-of-isaac-unholy-edition.json) |
 | Bio F.R.E.A.K.S. | 3366 | [3366-bio-f-r-e-a-k-s.json](./3366-bio-f-r-e-a-k-s.json) |
+| Bioneers | 354868 | [354868-bioneers.json](./354868-bioneers.json) |
 | BioShock | 152660 | [152660-bioshock.json](./152660-bioshock.json) |
 | BioShock 2: Minerva's Den Remastered | 78451 | [78451-bioshock-2-minervas-den-remastered.json](./78451-bioshock-2-minervas-den-remastered.json) |
 | BioShock Infinite: Burial at Sea | 127036 | [127036-bioshock-infinite-burial-at-sea.json](./127036-bioshock-infinite-burial-at-sea.json) |
