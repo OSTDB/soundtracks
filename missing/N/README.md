@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Book | 154902 | [154902-night-book.json](./154902-night-book.json) |
 | Night Crows | 290671 | [290671-night-crows.json](./290671-night-crows.json) |
 | Night Delivery | 152016 | [152016-night-delivery.json](./152016-night-delivery.json) |
+| Night Grip | 344200 | [344200-night-grip.json](./344200-night-grip.json) |
 | Night Knocks | 379209 | [379209-night-knocks.json](./379209-night-knocks.json) |
 | Night Mysteries: The Amphora Prisoner | 35795 | [35795-night-mysteries-the-amphora-prisoner.json](./35795-night-mysteries-the-amphora-prisoner.json) |
 | Night of the Ritual | 375021 | [375021-night-of-the-ritual.json](./375021-night-of-the-ritual.json) |
