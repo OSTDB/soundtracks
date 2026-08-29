@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towtruck Simulator 2015 | 16963 | [16963-towtruck-simulator-2015.json](./16963-towtruck-simulator-2015.json) |
 | Toxic | 380867 | [380867-toxic.json](./380867-toxic.json) |
 | Toy Fight | 389290 | [389290-toy-fight.json](./389290-toy-fight.json) |
+| Toy Land | 358697 | [358697-toy-land.json](./358697-toy-land.json) |
 | Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Puzzle | 95649 | [95649-toy-puzzle.json](./95649-toy-puzzle.json) |
 | Toy Story 3: The Video Game | 5240 | [5240-toy-story-3-the-video-game.json](./5240-toy-story-3-the-video-game.json) |
