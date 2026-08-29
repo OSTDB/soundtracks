@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FBC: Firebreak - Deluxe Edition | 365524 | [365524-fbc-firebreak-deluxe-edition.json](./365524-fbc-firebreak-deluxe-edition.json) |
 | Fear Equation | 16619 | [16619-fear-equation.json](./16619-fear-equation.json) |
 | Fear is Vigilance | 385463 | [385463-fear-is-vigilance.json](./385463-fear-is-vigilance.json) |
+| Fear Night Tales: Brothers Kebab Saloon | 350262 | [350262-fear-night-tales-brothers-kebab-saloon.json](./350262-fear-night-tales-brothers-kebab-saloon.json) |
 | Fear the Spotlight | 199130 | [199130-fear-the-spotlight.json](./199130-fear-the-spotlight.json) |
 | Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fearbound | 409494 | [409494-fearbound.json](./409494-fearbound.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens 5: Magic Tree | 366084 | [366084-find-kittens-5-magic-tree.json](./366084-find-kittens-5-magic-tree.json) |
 | Find Mii II | 230573 | [230573-find-mii-ii.json](./230573-find-mii-ii.json) |
 | Find the Cats | 407935 | [407935-find-the-cats.json](./407935-find-the-cats.json) |
+| Finding Annie | 350269 | [350269-finding-annie.json](./350269-finding-annie.json) |
 | Finding Ivy | 364932 | [364932-finding-ivy.json](./364932-finding-ivy.json) |
 | Finding Nemo | 3781 | [3781-finding-nemo.json](./3781-finding-nemo.json) |
 | Finding Paradise | 36044 | [36044-finding-paradise.json](./36044-finding-paradise.json) |
@@ -255,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow | 357073 | [357073-flow.json](./357073-flow.json) |
 | Flow Free: Shapes | 372323 | [372323-flow-free-shapes.json](./372323-flow-free-shapes.json) |
 | FlowCity Builder | 378048 | [378048-flowcity-builder.json](./378048-flowcity-builder.json) |
+| Flower Shop: The Complete Story | 350282 | [350282-flower-shop-the-complete-story.json](./350282-flower-shop-the-complete-story.json) |
 | Flowers to Honey | 399518 | [399518-flowers-to-honey.json](./399518-flowers-to-honey.json) |
 | Flying Aces - Navy Pilot Simulator | 96131 | [96131-flying-aces-navy-pilot-simulator.json](./96131-flying-aces-navy-pilot-simulator.json) |
 | Flying Courier | 364923 | [364923-flying-courier.json](./364923-flying-courier.json) |
@@ -304,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Premium Edition | 394749 | [394749-formula-racing-pro-2026-premium-edition.json](./394749-formula-racing-pro-2026-premium-edition.json) |
 | Forsaken Fortress Strategy | 35872 | [35872-forsaken-fortress-strategy.json](./35872-forsaken-fortress-strategy.json) |
 | Forsaken Lands | 368839 | [368839-forsaken-lands.json](./368839-forsaken-lands.json) |
+| Forsaken Manor | 350275 | [350275-forsaken-manor.json](./350275-forsaken-manor.json) |
 | Forsaken Rules | 407965 | [407965-forsaken-rules.json](./407965-forsaken-rules.json) |
 | Forsaken World | 11231 | [11231-forsaken-world.json](./11231-forsaken-world.json) |
 | Fort Triumph | 29047 | [29047-fort-triumph.json](./29047-fort-triumph.json) |
