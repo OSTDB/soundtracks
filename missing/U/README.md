@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulysses and the Golden Fleece | 7657 | [7657-ulysses-and-the-golden-fleece.json](./7657-ulysses-and-the-golden-fleece.json) |
 | Umamusume: Pretty Derby - Party Dash Special Edition | 382642 | [382642-umamusume-pretty-derby-party-dash-special-edition.json](./382642-umamusume-pretty-derby-party-dash-special-edition.json) |
 | Unbowed | 387867 | [387867-unbowed.json](./387867-unbowed.json) |
+| Uncanny Valley: Le Petit Morte | 351429 | [351429-uncanny-valley-le-petit-morte.json](./351429-uncanny-valley-le-petit-morte.json) |
 | Uncharted 3: Drake's Deception Remastered | 41876 | [41876-uncharted-3-drakes-deception-remastered.json](./41876-uncharted-3-drakes-deception-remastered.json) |
 | Uncharted: Golden Abyss | 998 | [998-uncharted-golden-abyss.json](./998-uncharted-golden-abyss.json) |
 | Uncommon App | 364922 | [364922-uncommon-app.json](./364922-uncommon-app.json) |
