@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Roll 3D | 35990 | [35990-on-a-roll-3d.json](./35990-on-a-roll-3d.json) |
 | On the Road: Truck Simulator | 36367 | [36367-on-the-road-truck-simulator.json](./36367-on-the-road-truck-simulator.json) |
 | On Your Tail | 276507 | [276507-on-your-tail.json](./276507-on-your-tail.json) |
+| Once a Pawn a King | 349153 | [349153-once-a-pawn-a-king.json](./349153-once-a-pawn-a-king.json) |
 | Once a Porn a Time 3 | 383818 | [383818-once-a-porn-a-time-3.json](./383818-once-a-porn-a-time-3.json) |
 | Once Alive | 244287 | [244287-once-alive.json](./244287-once-alive.json) |
 | Once Glorious Artahk | 381468 | [381468-once-glorious-artahk.json](./381468-once-glorious-artahk.json) |
