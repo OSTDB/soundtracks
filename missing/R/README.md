@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RF Online | 22579 | [22579-rf-online.json](./22579-rf-online.json) |
 | Rhizomatic Compound | 369962 | [369962-rhizomatic-compound.json](./369962-rhizomatic-compound.json) |
 | Rhythia | 400785 | [400785-rhythia.json](./400785-rhythia.json) |
+| Rhythm Animal Café | 355403 | [355403-rhythm-animal-cafe.json](./355403-rhythm-animal-cafe.json) |
 | Rhythm Heaven | 8167 | [8167-rhythm-heaven.json](./8167-rhythm-heaven.json) |
 | Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Rhythm Survivors | 387863 | [387863-rhythm-survivors.json](./387863-rhythm-survivors.json) |
