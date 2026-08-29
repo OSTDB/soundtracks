@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken to Mahou no Relic Saga | 410119 | [410119-ken-to-mahou-no-relic-saga.json](./410119-ken-to-mahou-no-relic-saga.json) |
 | Kerbal Space Program: Enhanced Edition | 78154 | [78154-kerbal-space-program-enhanced-edition.json](./78154-kerbal-space-program-enhanced-edition.json) |
 | Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
+| Kernelbay | 349699 | [349699-kernelbay.json](./349699-kernelbay.json) |
 | Kessen | 10092 | [10092-kessen.json](./10092-kessen.json) |
 | Kevin's In Trouble | 406616 | [406616-kevins-in-trouble.json](./406616-kevins-in-trouble.json) |
 | Key Your Debt | 386617 | [386617-key-your-debt.json](./386617-key-your-debt.json) |
