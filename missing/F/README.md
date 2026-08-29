@@ -452,4 +452,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbobo | 411437 | [411437-futbobo.json](./411437-futbobo.json) |
 | Futurama | 5822 | [5822-futurama.json](./5822-futurama.json) |
 | Futurama: Hit & Run | 375009 | [375009-futurama-hit-and-run.json](./375009-futurama-hit-and-run.json) |
+| Future Cowboy | 348051 | [348051-future-cowboy.json](./348051-future-cowboy.json) |
 | Fuuun Shaolin Kyo | 384978 | [384978-fuuun-shaolin-kyo.json](./384978-fuuun-shaolin-kyo.json) |
