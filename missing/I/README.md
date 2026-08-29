@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Frog-ot | 229171 | [229171-i-frog-ot.json](./229171-i-frog-ot.json) |
 | I Hate Orcs: In My Garden | 368324 | [368324-i-hate-orcs-in-my-garden.json](./368324-i-hate-orcs-in-my-garden.json) |
 | I Just Wanted to Talk About Halo | 394021 | [394021-i-just-wanted-to-talk-about-halo.json](./394021-i-just-wanted-to-talk-about-halo.json) |
+| I Need Some Space | 347512 | [347512-i-need-some-space.json](./347512-i-need-some-space.json) |
 | I Spy Riddle Race | 65892 | [65892-i-spy-riddle-race.json](./65892-i-spy-riddle-race.json) |
 | I Wanna Be The Fangame | 386574 | [386574-i-wanna-be-the-fangame.json](./386574-i-wanna-be-the-fangame.json) |
 | I Will Strangle A Horse | 372869 | [372869-i-will-strangle-a-horse.json](./372869-i-will-strangle-a-horse.json) |
@@ -60,7 +61,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Iktah | 398891 | [398891-idle-iktah.json](./398891-idle-iktah.json) |
 | Idle Racing | 360951 | [360951-idle-racing.json](./360951-idle-racing.json) |
 | Idle Rect | 366056 | [366056-idle-rect.json](./366056-idle-rect.json) |
+| Idle Reincarnator | 347515 | [347515-idle-reincarnator.json](./347515-idle-reincarnator.json) |
 | Idle Taoist Mage Warrior | 369395 | [369395-idle-taoist-mage-warrior.json](./369395-idle-taoist-mage-warrior.json) |
+| Idle Tree Keeper | 347533 | [347533-idle-tree-keeper.json](./347533-idle-tree-keeper.json) |
 | If Found... | 123333 | [123333-if-found.json](./123333-if-found.json) |
 | If You’re a Man, Hold On for Half a Song | 376301 | [376301-if-you-re-a-man-hold-on-for-half-a-song.json](./376301-if-you-re-a-man-hold-on-for-half-a-song.json) |
 | Iggy's Egg Adventure | 24034 | [24034-iggys-egg-adventure.json](./24034-iggys-egg-adventure.json) |
@@ -186,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invention | 29807 | [29807-invention.json](./29807-invention.json) |
 | Invention 8 | 369419 | [369419-invention-8.json](./369419-invention-8.json) |
 | Invert | 370499 | [370499-invert.json](./370499-invert.json) |
+| Inverta | 347530 | [347530-inverta.json](./347530-inverta.json) |
 | Investormania | 357661 | [357661-investormania.json](./357661-investormania.json) |
 | Invincible Vs.: Allen the Alien - C.O.P. Skin | 400152 | [400152-invincible-vs-allen-the-alien-c-o-p-skin.json](./400152-invincible-vs-allen-the-alien-c-o-p-skin.json) |
 | Invincible Vs.: Battle Beast - Invincible Universe Skin | 400148 | [400148-invincible-vs-battle-beast-invincible-universe-skin.json](./400148-invincible-vs-battle-beast-invincible-universe-skin.json) |
