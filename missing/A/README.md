@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Collection | 20847 | [20847-angry-birds-collection.json](./20847-angry-birds-collection.json) |
 | Angry Birds Star Wars | 4674 | [4674-angry-birds-star-wars.json](./4674-angry-birds-star-wars.json) |
 | Angry Birds Stella | 60985 | [60985-angry-birds-stella.json](./60985-angry-birds-stella.json) |
+| Angry Pirate | 358709 | [358709-angry-pirate.json](./358709-angry-pirate.json) |
 | Angry Raccoon | 412118 | [412118-angry-raccoon.json](./412118-angry-raccoon.json) |
 | Angvik | 17082 | [17082-angvik.json](./17082-angvik.json) |
 | Animal Coloring Books for Kids & Toddlers: Dinosaurs | 394722 | [394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json](./394722-animal-coloring-books-for-kids-and-toddlers-dinosaurs.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaBall League | 396078 | [396078-aquaball-league.json](./396078-aquaball-league.json) |
 | Aquacade | 363219 | [363219-aquacade.json](./363219-aquacade.json) |
 | Aquaduto | 359847 | [359847-aquaduto.json](./359847-aquaduto.json) |
+| Aquapark io: Hero Edition | 358674 | [358674-aquapark-io-hero-edition.json](./358674-aquapark-io-hero-edition.json) |
 | Aquapolis: City building game | 87646 | [87646-aquapolis-city-building-game.json](./87646-aquapolis-city-building-game.json) |
 | Aquarium Land: Seal & Parrot Edition | 373402 | [373402-aquarium-land-seal-and-parrot-edition.json](./373402-aquarium-land-seal-and-parrot-edition.json) |
 | Arbeiter | 372861 | [372861-arbeiter.json](./372861-arbeiter.json) |
@@ -420,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids VR | 86420 | [86420-asteroids-vr.json](./86420-asteroids-vr.json) |
 | Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Astral Wizard Orb | 381418 | [381418-astral-wizard-orb.json](./381418-astral-wizard-orb.json) |
+| AstraX | 358716 | [358716-astrax.json](./358716-astrax.json) |
 | Astrea: Six-Sided Oracles | 178127 | [178127-astrea-six-sided-oracles.json](./178127-astrea-six-sided-oracles.json) |
 | Astro Emporia | 35860 | [35860-astro-emporia.json](./35860-astro-emporia.json) |
 | Astro Yoinkers | 407916 | [407916-astro-yoinkers.json](./407916-astro-yoinkers.json) |
@@ -457,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | AV Company | 368327 | [368327-av-company.json](./368327-av-company.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
+| Avatair | 358708 | [358708-avatair.json](./358708-avatair.json) |
 | Avemary Rocket: Captain Patchwork | 379244 | [379244-avemary-rocket-captain-patchwork.json](./379244-avemary-rocket-captain-patchwork.json) |
 | Aventuras | 412127 | [412127-aventuras.json](./412127-aventuras.json) |
 | Avernum 3: Ruined World | 65824 | [65824-avernum-3-ruined-world.json](./65824-avernum-3-ruined-world.json) |
