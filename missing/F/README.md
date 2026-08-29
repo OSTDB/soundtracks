@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatehaven | 31422 | [31422-fatehaven.json](./31422-fatehaven.json) |
 | Fatenames | 379199 | [379199-fatenames.json](./379199-fatenames.json) |
 | Father Forgets | 406027 | [406027-father-forgets.json](./406027-father-forgets.json) |
+| Fatherhood Legacy | 354273 | [354273-fatherhood-legacy.json](./354273-fatherhood-legacy.json) |
 | Fatty Space | 378043 | [378043-fatty-space.json](./378043-fatty-space.json) |
 | Fault: Elder Orb | 77277 | [77277-fault-elder-orb.json](./77277-fault-elder-orb.json) |
 | FBC: Firebreak - Deluxe Edition | 365524 | [365524-fbc-firebreak-deluxe-edition.json](./365524-fbc-firebreak-deluxe-edition.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Stillness | 385454 | [385454-frozen-stillness.json](./385454-frozen-stillness.json) |
 | Fruit Casket | 383244 | [383244-fruit-casket.json](./383244-fruit-casket.json) |
 | Fruit Collector: Beach Edition | 356497 | [356497-fruit-collector-beach-edition.json](./356497-fruit-collector-beach-edition.json) |
+| Fruit Daisakusen! | 354264 | [354264-fruit-daisakusen.json](./354264-fruit-daisakusen.json) |
 | Fuego! | 13206 | [13206-fuego.json](./13206-fuego.json) |
 | Fueled Up | 197825 | [197825-fueled-up.json](./197825-fueled-up.json) |
 | Fuga: Melodies of Steel | 119159 | [119159-fuga-melodies-of-steel.json](./119159-fuga-melodies-of-steel.json) |
