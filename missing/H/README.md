@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone 2: Lost in New York | 14502 | [14502-home-alone-2-lost-in-new-york.json](./14502-home-alone-2-lost-in-new-york.json) |
 | Home Invader | 397543 | [397543-home-invader.json](./397543-home-invader.json) |
 | Home Is Where The Hearth Is | 393318 | [393318-home-is-where-the-hearth-is.json](./393318-home-is-where-the-hearth-is.json) |
+| Home Malone | 357093 | [357093-home-malone.json](./357093-home-malone.json) |
 | Home Sheep Home | 10414 | [10414-home-sheep-home.json](./10414-home-sheep-home.json) |
 | Home Sheep Home 2 | 10415 | [10415-home-sheep-home-2.json](./10415-home-sheep-home-2.json) |
 | Home Sweet Gnome | 385459 | [385459-home-sweet-gnome.json](./385459-home-sweet-gnome.json) |
