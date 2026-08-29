@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offworld Trading Company | 10637 | [10637-offworld-trading-company.json](./10637-offworld-trading-company.json) |
 | Oh My Godheads | 31430 | [31430-oh-my-godheads.json](./31430-oh-my-godheads.json) |
 | Oh No, Not Another L | 412145 | [412145-oh-no-not-another-l.json](./412145-oh-no-not-another-l.json) |
+| Ohayou, Shiramura-san! | 350816 | [350816-ohayou-shiramura-san.json](./350816-ohayou-shiramura-san.json) |
 | Oik Memory 2 | 102295 | [102295-oik-memory-2.json](./102295-oik-memory-2.json) |
 | Oil Island Hustle | 406021 | [406021-oil-island-hustle.json](./406021-oil-island-hustle.json) |
 | Oil Rush | 1054 | [1054-oil-rush.json](./1054-oil-rush.json) |
