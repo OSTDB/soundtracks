@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers: Cold War | 62449 | [62449-sky-gamblers-cold-war.json](./62449-sky-gamblers-cold-war.json) |
 | Sky Sword Strategy | 403512 | [403512-sky-sword-strategy.json](./403512-sky-sword-strategy.json) |
 | Sky to Fly: Faster than Wind | 34397 | [34397-sky-to-fly-faster-than-wind.json](./34397-sky-to-fly-faster-than-wind.json) |
+| SkyFactory 5 | 349676 | [349676-skyfactory-5.json](./349676-skyfactory-5.json) |
 | Skyline Bowling: Split Edition | 402182 | [402182-skyline-bowling-split-edition.json](./402182-skyline-bowling-split-edition.json) |
 | Skyling: Garden Defense | 29821 | [29821-skyling-garden-defense.json](./29821-skyling-garden-defense.json) |
 | SkyRen | 390386 | [390386-skyren.json](./390386-skyren.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Recordings | 360956 | [360956-sos-recordings.json](./360956-sos-recordings.json) |
 | Sotsugyo Omedeto | 394053 | [394053-sotsugyo-omedeto.json](./394053-sotsugyo-omedeto.json) |
 | Soul Academy | 368347 | [368347-soul-academy.json](./368347-soul-academy.json) |
+| Soul Blade | 349686 | [349686-soul-blade.json](./349686-soul-blade.json) |
 | Soul Saber 2 | 29737 | [29737-soul-saber-2.json](./29737-soul-saber-2.json) |
 | Soul Waste | 392049 | [392049-soul-waste.json](./392049-soul-waste.json) |
 | SoulCalibur II | 227989 | [227989-soulcalibur-ii.json](./227989-soulcalibur-ii.json) |
@@ -555,9 +557,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce: The Breath of Winter | 51206 | [51206-spellforce-the-breath-of-winter.json](./51206-spellforce-the-breath-of-winter.json) |
 | SpellFront | 109824 | [109824-spellfront.json](./109824-spellfront.json) |
 | Spells & Shells | 379740 | [379740-spells-and-shells.json](./379740-spells-and-shells.json) |
+| Spells Enhanced | 349669 | [349669-spells-enhanced.json](./349669-spells-enhanced.json) |
 | Spellsword Cards: Demontide | 115679 | [115679-spellsword-cards-demontide.json](./115679-spellsword-cards-demontide.json) |
 | Spelunky | 3029 | [3029-spelunky.json](./3029-spelunky.json) |
 | Spelunky Classic | 8145 | [8145-spelunky-classic.json](./8145-spelunky-classic.json) |
+| Spend It Like You Hate It | 349700 | [349700-spend-it-like-you-hate-it.json](./349700-spend-it-like-you-hate-it.json) |
 | Sperm Runner | 405422 | [405422-sperm-runner.json](./405422-sperm-runner.json) |
 | Sphinx and the Cursed Mummy | 4164 | [4164-sphinx-and-the-cursed-mummy.json](./4164-sphinx-and-the-cursed-mummy.json) |
 | Spider Dynasty | 354254 | [354254-spider-dynasty.json](./354254-spider-dynasty.json) |
