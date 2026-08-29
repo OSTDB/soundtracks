@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vehicle Masters | 405417 | [405417-vehicle-masters.json](./405417-vehicle-masters.json) |
 | Veil of the Damned | 405997 | [405997-veil-of-the-damned.json](./405997-veil-of-the-damned.json) |
 | Veiled Shadows | 393309 | [393309-veiled-shadows.json](./393309-veiled-shadows.json) |
+| VeilWood | 349125 | [349125-veilwood.json](./349125-veilwood.json) |
 | Velociblaster | 354289 | [354289-velociblaster.json](./354289-velociblaster.json) |
 | Vendigo Corporation | 375668 | [375668-vendigo-corporation.json](./375668-vendigo-corporation.json) |
 | Venus: Build Your Destiny | 366694 | [366694-venus-build-your-destiny.json](./366694-venus-build-your-destiny.json) |
