@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Dragon 2: Legend of Golden Castle | 351440 | [351440-flame-dragon-2-legend-of-golden-castle.json](./351440-flame-dragon-2-legend-of-golden-castle.json) |
 | Flame Dragon Plus: Marks of Wind | 351442 | [351442-flame-dragon-plus-marks-of-wind.json](./351442-flame-dragon-plus-marks-of-wind.json) |
 | Flame Over | 26902 | [26902-flame-over.json](./26902-flame-over.json) |
+| Flaming Zombooka | 346947 | [346947-flaming-zombooka.json](./346947-flaming-zombooka.json) |
 | Flappy Dragoon | 410103 | [410103-flappy-dragoon.json](./410103-flappy-dragoon.json) |
 | Flappy Knuckles | 410792 | [410792-flappy-knuckles.json](./410792-flappy-knuckles.json) |
 | Flappy Poire | 412876 | [412876-flappy-poire.json](./412876-flappy-poire.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Detective 1: The Haunted Island | 111117 | [111117-frog-detective-1-the-haunted-island.json](./111117-frog-detective-1-the-haunted-island.json) |
 | Frog Detective: The Entire Mystery | 222873 | [222873-frog-detective-the-entire-mystery.json](./222873-frog-detective-the-entire-mystery.json) |
 | Frog Parkour Obby | 414231 | [414231-frog-parkour-obby.json](./414231-frog-parkour-obby.json) |
+| Frog Prince | 346985 | [346985-frog-prince.json](./346985-frog-prince.json) |
 | Frog vs Mural Girl | 391478 | [391478-frog-vs-mural-girl.json](./391478-frog-vs-mural-girl.json) |
 | Frogblock | 396830 | [396830-frogblock.json](./396830-frogblock.json) |
 | Froggotten Recipes | 381451 | [381451-froggotten-recipes.json](./381451-froggotten-recipes.json) |
