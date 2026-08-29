@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble Bots | 373926 | [373926-scribble-bots.json](./373926-scribble-bots.json) |
 | Scribblenauts Showdown | 78754 | [78754-scribblenauts-showdown.json](./78754-scribblenauts-showdown.json) |
 | Scropia | 390978 | [390978-scropia.json](./390978-scropia.json) |
+| Scrubbin' Trubble | 346971 | [346971-scrubbin-trubble.json](./346971-scrubbin-trubble.json) |
 | Scrybe | 391517 | [391517-scrybe.json](./391517-scrybe.json) |
 | Scythe: Digital Edition | 81124 | [81124-scythe-digital-edition.json](./81124-scythe-digital-edition.json) |
 | SD Gundam G Generation DS | 66589 | [66589-sd-gundam-g-generation-ds.json](./66589-sd-gundam-g-generation-ds.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren | 383852 | [383852-siren.json](./383852-siren.json) |
 | Sìshísì Cì Rìluò | 368315 | [368315-sishisi-ci-riluo.json](./368315-sishisi-ci-riluo.json) |
 | Sister ha Sukuitai! | 387185 | [387185-sister-ha-sukuitai.json](./387185-sister-ha-sukuitai.json) |
+| Sisyphus is Happy | 346973 | [346973-sisyphus-is-happy.json](./346973-sisyphus-is-happy.json) |
 | Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Sixty Four | 279289 | [279289-sixty-four.json](./279289-sixty-four.json) |
 | SizeBlock | 23721 | [23721-sizeblock.json](./23721-sizeblock.json) |
@@ -516,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur IV | 1567 | [1567-soulcalibur-iv.json](./1567-soulcalibur-iv.json) |
 | SoulCalibur: Broken Destiny | 1568 | [1568-soulcalibur-broken-destiny.json](./1568-soulcalibur-broken-destiny.json) |
 | Soulcery: Deck of Shadows | 391516 | [391516-soulcery-deck-of-shadows.json](./391516-soulcery-deck-of-shadows.json) |
+| Soulmask: The Golden Legend | 346949 | [346949-soulmask-the-golden-legend.json](./346949-soulmask-the-golden-legend.json) |
 | Soulmine | 404149 | [404149-soulmine.json](./404149-soulmine.json) |
 | Sounds Terrifying | 371114 | [371114-sounds-terrifying.json](./371114-sounds-terrifying.json) |
 | Soup for Soul | 394000 | [394000-soup-for-soul.json](./394000-soup-for-soul.json) |
@@ -535,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Giraffe | 15991 | [15991-space-giraffe.json](./15991-space-giraffe.json) |
 | Space Harrier | 364893 | [364893-space-harrier.json](./364893-space-harrier.json) |
 | Space Incident | 31458 | [31458-space-incident.json](./31458-space-incident.json) |
+| Space Invaders / Block Buster | 346974 | [346974-space-invaders-block-buster.json](./346974-space-invaders-block-buster.json) |
 | Space Jam: A New Legacy - The Game | 154322 | [154322-space-jam-a-new-legacy-the-game.json](./154322-space-jam-a-new-legacy-the-game.json) |
 | Space Live: Advent of the Net Idols | 62141 | [62141-space-live-advent-of-the-net-idols.json](./62141-space-live-advent-of-the-net-idols.json) |
 | Space Missions | 386017 | [386017-space-missions.json](./386017-space-missions.json) |
@@ -722,6 +726,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stereobreak | 95722 | [95722-stereobreak.json](./95722-stereobreak.json) |
 | Stewards of Nu Juno | 363242 | [363242-stewards-of-nu-juno.json](./363242-stewards-of-nu-juno.json) |
 | Stickman Dismounting | 91231 | [91231-stickman-dismounting.json](./91231-stickman-dismounting.json) |
+| Stickman Legend of Survival | 346955 | [346955-stickman-legend-of-survival.json](./346955-stickman-legend-of-survival.json) |
+| Stickman Master | 346961 | [346961-stickman-master.json](./346961-stickman-master.json) |
 | Stickman Parkour Platform | 95707 | [95707-stickman-parkour-platform.json](./95707-stickman-parkour-platform.json) |
 | Stickman Reaper | 101949 | [101949-stickman-reaper.json](./101949-stickman-reaper.json) |
 | Stickman Volleyball | 89307 | [89307-stickman-volleyball.json](./89307-stickman-volleyball.json) |
@@ -808,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 13 | 9194 | [9194-subject-13.json](./9194-subject-13.json) |
 | Subject55 | 400154 | [400154-subject55.json](./400154-subject55.json) |
 | Sublevel Zero: Redux | 26922 | [26922-sublevel-zero-redux.json](./26922-sublevel-zero-redux.json) |
+| Submarine | 346982 | [346982-submarine.json](./346982-submarine.json) |
 | Subpar Pool | 269204 | [269204-subpar-pool.json](./269204-subpar-pool.json) |
 | Subs | 357648 | [357648-subs.json](./357648-subs.json) |
 | Subterra | 31492 | [31492-subterra.json](./31492-subterra.json) |
