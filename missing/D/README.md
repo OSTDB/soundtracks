@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Let Go! | 31521 | [31521-dont-let-go.json](./31521-dont-let-go.json) |
 | Don't Look Back | 380279 | [380279-dont-look-back.json](./380279-dont-look-back.json) |
 | Don't Look Behind You | 359232 | [359232-dont-look-behind-you.json](./359232-dont-look-behind-you.json) |
+| Don't Lose Aggro | 358694 | [358694-dont-lose-aggro.json](./358694-dont-lose-aggro.json) |
 | Don't Panik | 380278 | [380278-dont-panik.json](./380278-dont-panik.json) |
 | Don't Scream | 271422 | [271422-dont-scream.json](./271422-dont-scream.json) |
 | Don't Starve Together | 17832 | [17832-dont-starve-together.json](./17832-dont-starve-together.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadveil | 377449 | [377449-dreadveil.json](./377449-dreadveil.json) |
 | Dream Affection: Sleepy Planet | 405418 | [405418-dream-affection-sleepy-planet.json](./405418-dream-affection-sleepy-planet.json) |
 | Dream Chaser | 380288 | [380288-dream-chaser.json](./380288-dream-chaser.json) |
+| Dream Forest | 358698 | [358698-dream-forest.json](./358698-dream-forest.json) |
 | Dream Grove Gardens: First Shift | 412124 | [412124-dream-grove-gardens-first-shift.json](./412124-dream-grove-gardens-first-shift.json) |
 | Dream Knight | 368342 | [368342-dream-knight.json](./368342-dream-knight.json) |
 | Dream of Corpse Lady | 383819 | [383819-dream-of-corpse-lady.json](./383819-dream-of-corpse-lady.json) |
@@ -585,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dryad | 389325 | [389325-dryad.json](./389325-dryad.json) |
 | DS Doom | 378659 | [378659-ds-doom.json](./378659-ds-doom.json) |
 | Duck Block | 379213 | [379213-duck-block.json](./379213-duck-block.json) |
+| Duck Hunt | 358712 | [358712-duck-hunt.json](./358712-duck-hunt.json) |
 | Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | Duckiost | 386618 | [386618-duckiost.json](./386618-duckiost.json) |
