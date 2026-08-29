@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelwave Off | 406001 | [406001-pixelwave-off.json](./406001-pixelwave-off.json) |
 | Pixicharm Collection 7 | 401426 | [401426-pixicharm-collection-7.json](./401426-pixicharm-collection-7.json) |
 | Pixicharm Collection 8 | 401427 | [401427-pixicharm-collection-8.json](./401427-pixicharm-collection-8.json) |
+| Pixicharm: Gravenguard | 350833 | [350833-pixicharm-gravenguard.json](./350833-pixicharm-gravenguard.json) |
 | Pixie Plates: Complete Edition | 402181 | [402181-pixie-plates-complete-edition.json](./402181-pixie-plates-complete-edition.json) |
 | Pizza Frenzy Deluxe | 27786 | [27786-pizza-frenzy-deluxe.json](./27786-pizza-frenzy-deluxe.json) |
 | Pizza Maker + House Painting | 366654 | [366654-pizza-maker-house-painting.json](./366654-pizza-maker-house-painting.json) |
