@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KARANTIIN | 386004 | [386004-karantiin.json](./386004-karantiin.json) |
 | Karma Miwa | 22719 | [22719-karma-miwa.json](./22719-karma-miwa.json) |
 | Katana Kata | 126860 | [126860-katana-kata.json](./126860-katana-kata.json) |
+| Katti | 358691 | [358691-katti.json](./358691-katti.json) |
 | Kawaii Girls: Spicy Scientist | 373957 | [373957-kawaii-girls-spicy-scientist.json](./373957-kawaii-girls-spicy-scientist.json) |
 | Kebab Chefs!: Restaurant Simulator - Bakery | 371102 | [371102-kebab-chefs-restaurant-simulator-bakery.json](./371102-kebab-chefs-restaurant-simulator-bakery.json) |
 | Keebles | 35845 | [35845-keebles.json](./35845-keebles.json) |
