@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Camazotz Kamigami no Kyousoukyoku: MessengerText | 394732 | [394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json](./394732-meitantei-camazotz-kamigami-no-kyousoukyoku-messengertext.json) |
 | Mekimono | 402208 | [402208-mekimono.json](./402208-mekimono.json) |
 | Melinij | 367233 | [367233-melinij.json](./367233-melinij.json) |
+| Melodraw | 349137 | [349137-melodraw.json](./349137-melodraw.json) |
 | Meltdown | 12334 | [12334-meltdown.json](./12334-meltdown.json) |
 | Melty Blood Act Cadenza | 39602 | [39602-melty-blood-act-cadenza.json](./39602-melty-blood-act-cadenza.json) |
 | Melty Blood Act Cadenza Ver. B | 39601 | [39601-melty-blood-act-cadenza-ver-b.json](./39601-melty-blood-act-cadenza-ver-b.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Misty Land | 389902 | [389902-misty-land.json](./389902-misty-land.json) |
+| Misty Valley: A Cozy Fishing Tale | 349134 | [349134-misty-valley-a-cozy-fishing-tale.json](./349134-misty-valley-a-cozy-fishing-tale.json) |
 | Mittelborg: City of Mages | 111419 | [111419-mittelborg-city-of-mages.json](./111419-mittelborg-city-of-mages.json) |
 | Mix It! | 359246 | [359246-mix-it.json](./359246-mix-it.json) |
 | Mizi No! | 273567 | [273567-mizi-no.json](./273567-mizi-no.json) |
@@ -525,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom, I'll Be Home Late | 411468 | [411468-mom-ill-be-home-late.json](./411468-mom-ill-be-home-late.json) |
 | Mommy Simulator | 405414 | [405414-mommy-simulator.json](./405414-mommy-simulator.json) |
 | Mommy’s Slipper | 350245 | [350245-mommy-s-slipper.json](./350245-mommy-s-slipper.json) |
+| Momo Crash | 349156 | [349156-momo-crash.json](./349156-momo-crash.json) |
 | Momoka (wo) Wasshoi | 367224 | [367224-momoka-wo-wasshoi.json](./367224-momoka-wo-wasshoi.json) |
 | Mona: The Endless Journey | 391506 | [391506-mona-the-endless-journey.json](./391506-mona-the-endless-journey.json) |
 | Monarch | 353672 | [353672-monarch.json](./353672-monarch.json) |
@@ -581,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Garden | 406606 | [406606-moon-garden.json](./406606-moon-garden.json) |
 | Moon Raider: Anniversary Edition | 401413 | [401413-moon-raider-anniversary-edition.json](./401413-moon-raider-anniversary-edition.json) |
 | Moonbase 332 | 24594 | [24594-moonbase-332.json](./24594-moonbase-332.json) |
+| Mooncorona | 349142 | [349142-mooncorona.json](./349142-mooncorona.json) |
 | Moonfall | 15267 | [15267-moonfall.json](./15267-moonfall.json) |
 | Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Mooninite Marauders | 396812 | [396812-mooninite-marauders.json](./396812-mooninite-marauders.json) |
@@ -605,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortifero Motus | 29731 | [29731-mortifero-motus.json](./29731-mortifero-motus.json) |
 | Mosaic Garden: The Flower Game | 406591 | [406591-mosaic-garden-the-flower-game.json](./406591-mosaic-garden-the-flower-game.json) |
 | Moshi Monsters | 80326 | [80326-moshi-monsters.json](./80326-moshi-monsters.json) |
+| Moshi Online | 349157 | [349157-moshi-online.json](./349157-moshi-online.json) |
 | Mote: Workshop | 388624 | [388624-mote-workshop.json](./388624-mote-workshop.json) |
 | Mother | 238660 | [238660-mother.json](./238660-mother.json) |
 | Mother Russia Bleeds | 6655 | [6655-mother-russia-bleeds.json](./6655-mother-russia-bleeds.json) |
@@ -680,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Emma | 360945 | [360945-my-dear-emma.json](./360945-my-dear-emma.json) |
 | My Dream: On Air ga Matenakute | 386606 | [386606-my-dream-on-air-ga-matenakute.json](./386606-my-dream-on-air-ga-matenakute.json) |
 | My Farm Is Running! | 354248 | [354248-my-farm-is-running.json](./354248-my-farm-is-running.json) |
+| My Favorite Coworker | 349158 | [349158-my-favorite-coworker.json](./349158-my-favorite-coworker.json) |
 | My French Coach | 94022 | [94022-my-french-coach.json](./94022-my-french-coach.json) |
 | My Friend Pedro | 25901 | [25901-my-friend-pedro.json](./25901-my-friend-pedro.json) |
 | My Friend Peppa Pig | 148289 | [148289-my-friend-peppa-pig.json](./148289-my-friend-peppa-pig.json) |
