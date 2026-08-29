@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Never Let My Owner Recover From Her Gambling Addiction | 384936 | [384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json](./384936-ill-never-let-my-owner-recover-from-her-gambling-addiction.json) |
 | I'm a Big Fan | 413567 | [413567-im-a-big-fan.json](./413567-im-a-big-fan.json) |
 | I'm a Human | 383840 | [383840-im-a-human.json](./383840-im-a-human.json) |
+| I'm Frontline | 345342 | [345342-im-frontline.json](./345342-im-frontline.json) |
 | I'm Making a Monster | 378618 | [378618-im-making-a-monster.json](./378618-im-making-a-monster.json) |
 | I'm No Demonlord | 385485 | [385485-im-no-demonlord.json](./385485-im-no-demonlord.json) |
 | I'm not a Human: Horror Simulator | 373372 | [373372-im-not-a-human-horror-simulator.json](./373372-im-not-a-human-horror-simulator.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Chef America: Supreme Cuisine | 4934 | [4934-iron-chef-america-supreme-cuisine.json](./4934-iron-chef-america-supreme-cuisine.json) |
 | Iron Combat: War in the Air | 47661 | [47661-iron-combat-war-in-the-air.json](./47661-iron-combat-war-in-the-air.json) |
 | Iron Guard: Day Zero | 405385 | [405385-iron-guard-day-zero.json](./405385-iron-guard-day-zero.json) |
+| Iron Roland | 345318 | [345318-iron-roland.json](./345318-iron-roland.json) |
 | Ironclad | 372850 | [372850-ironclad.json](./372850-ironclad.json) |
 | Ironford | 414232 | [414232-ironford.json](./414232-ironford.json) |
 | Ironforged | 391518 | [391518-ironforged.json](./391518-ironforged.json) |
