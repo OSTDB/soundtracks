@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in the Dread | 377441 | [377441-deep-in-the-dread.json](./377441-deep-in-the-dread.json) |
 | Deep Rock Galactic | 27134 | [27134-deep-rock-galactic.json](./27134-deep-rock-galactic.json) |
 | Deep Rock Galactic: Survivor - After Hours Pack | 368351 | [368351-deep-rock-galactic-survivor-after-hours-pack.json](./368351-deep-rock-galactic-survivor-after-hours-pack.json) |
+| Deep Rock Galactic: War on Hoxxes | 349693 | [349693-deep-rock-galactic-war-on-hoxxes.json](./349693-deep-rock-galactic-war-on-hoxxes.json) |
 | Deep Six | 380250 | [380250-deep-six.json](./380250-deep-six.json) |
 | Deep Snow Delivery | 380251 | [380251-deep-snow-delivery.json](./380251-deep-snow-delivery.json) |
 | Deep Space Diesel | 372864 | [372864-deep-space-diesel.json](./372864-deep-space-diesel.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Gallo | 30514 | [30514-detective-gallo.json](./30514-detective-gallo.json) |
 | Detective Hunt - Crownston City PD | 32951 | [32951-detective-hunt-crownston-city-pd.json](./32951-detective-hunt-crownston-city-pd.json) |
 | Detective Jackie: Mystic Case | 125691 | [125691-detective-jackie-mystic-case.json](./125691-detective-jackie-mystic-case.json) |
+| Detective Lawrence | 349672 | [349672-detective-lawrence.json](./349672-detective-lawrence.json) |
 | Detritus | 374996 | [374996-detritus.json](./374996-detritus.json) |
 | Detritus | 369423 | [369423-detritus.json](./369423-detritus.json) |
 | Deus Ex GO | 19601 | [19601-deus-ex-go.json](./19601-deus-ex-go.json) |
@@ -279,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo: Hellfire | 8175 | [8175-diablo-hellfire.json](./8175-diablo-hellfire.json) |
 | Diabolic | 86770 | [86770-diabolic.json](./86770-diabolic.json) |
 | Diabolika | 380262 | [380262-diabolika.json](./380262-diabolika.json) |
+| Diacritic | 349665 | [349665-diacritic.json](./349665-diacritic.json) |
 | Diamond Cash Slots | 360985 | [360985-diamond-cash-slots.json](./360985-diamond-cash-slots.json) |
 | Diana | 379760 | [379760-diana.json](./379760-diana.json) |
 | Diaspora | 410747 | [410747-diaspora.json](./410747-diaspora.json) |
@@ -334,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Quest VR | 408648 | [408648-dino-quest-vr.json](./408648-dino-quest-vr.json) |
 | Dino Runner: Chronicles | 412130 | [412130-dino-runner-chronicles.json](./412130-dino-runner-chronicles.json) |
 | Dino Sort | 350817 | [350817-dino-sort.json](./350817-dino-sort.json) |
+| Dino Strike | 349691 | [349691-dino-strike.json](./349691-dino-strike.json) |
 | Dino-Might | 396080 | [396080-dino-might.json](./396080-dino-might.json) |
 | Dinosaur | 380269 | [380269-dinosaur.json](./380269-dinosaur.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
@@ -365,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity 1.0: Gold Edition | 30977 | [30977-disney-infinity-1-0-gold-edition.json](./30977-disney-infinity-1-0-gold-edition.json) |
 | Disney Infinity 3.0: Gold Edition | 30979 | [30979-disney-infinity-3-0-gold-edition.json](./30979-disney-infinity-3-0-gold-edition.json) |
 | Disney Sing It | 4807 | [4807-disney-sing-it.json](./4807-disney-sing-it.json) |
+| Disney Speedstorm: PlayStation Plus Exclusive Pack | 349708 | [349708-disney-speedstorm-playstation-plus-exclusive-pack.json](./349708-disney-speedstorm-playstation-plus-exclusive-pack.json) |
 | Disney's Goof Troop | 8163 | [8163-disneys-goof-troop.json](./8163-disneys-goof-troop.json) |
 | Disney's Lilo & Stitch | 25912 | [25912-disneys-lilo-and-stitch.json](./25912-disneys-lilo-and-stitch.json) |
 | Disney's Lilo & Stitch: Trouble in Paradise | 23792 | [23792-disneys-lilo-and-stitch-trouble-in-paradise.json](./23792-disneys-lilo-and-stitch-trouble-in-paradise.json) |
