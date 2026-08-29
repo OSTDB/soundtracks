@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Naval Strike | 3094 | [3094-battlefield-4-naval-strike.json](./3094-battlefield-4-naval-strike.json) |
 | Battlefield 4: Premium Edition | 52642 | [52642-battlefield-4-premium-edition.json](./52642-battlefield-4-premium-edition.json) |
 | Battlefield 4: Second Assault | 3093 | [3093-battlefield-4-second-assault.json](./3093-battlefield-4-second-assault.json) |
+| Battlegrounds | 344182 | [344182-battlegrounds.json](./344182-battlegrounds.json) |
 | BattleLore: Command | 35779 | [35779-battlelore-command.json](./35779-battlelore-command.json) |
 | Battleship | 345874 | [345874-battleship.json](./345874-battleship.json) |
 | BattleSky VR | 76841 | [76841-battlesky-vr.json](./76841-battlesky-vr.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful elves | 126334 | [126334-beautiful-elves.json](./126334-beautiful-elves.json) |
 | Beautiful Life Show | 368833 | [368833-beautiful-life-show.json](./368833-beautiful-life-show.json) |
 | Beautiful Sakura: Volleyball Club 2 | 396046 | [396046-beautiful-sakura-volleyball-club-2.json](./396046-beautiful-sakura-volleyball-club-2.json) |
+| Beauty Salon Simulator VR | 344190 | [344190-beauty-salon-simulator-vr.json](./344190-beauty-salon-simulator-vr.json) |
 | Beauty Store Simulator | 374490 | [374490-beauty-store-simulator.json](./374490-beauty-store-simulator.json) |
 | Bebe's Kids | 42626 | [42626-bebes-kids.json](./42626-bebes-kids.json) |
 | Beé! Frenzy Sheep | 366079 | [366079-bee-frenzy-sheep.json](./366079-bee-frenzy-sheep.json) |
