@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | God Sacrifice | 375657 | [375657-god-sacrifice.json](./375657-god-sacrifice.json) |
 | Goddess of Victory: Nikke | 117199 | [117199-goddess-of-victory-nikke.json](./117199-goddess-of-victory-nikke.json) |
+| Godforge | 354865 | [354865-godforge.json](./354865-godforge.json) |
 | Godreaper | 412160 | [412160-godreaper.json](./412160-godreaper.json) |
 | Gods Eater Burst | 11852 | [11852-gods-eater-burst.json](./11852-gods-eater-burst.json) |
 | Gods of Boom | 77956 | [77956-gods-of-boom.json](./77956-gods-of-boom.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gogyō | 366665 | [366665-gogyo.json](./366665-gogyo.json) |
 | Golden Axe | 237310 | [237310-golden-axe.json](./237310-golden-axe.json) |
 | Golden Axe: The Revenge Of Death Adder | 39285 | [39285-golden-axe-the-revenge-of-death-adder.json](./39285-golden-axe-the-revenge-of-death-adder.json) |
+| Golden Idol Investigations: The Age of Restraint | 354873 | [354873-golden-idol-investigations-the-age-of-restraint.json](./354873-golden-idol-investigations-the-age-of-restraint.json) |
 | Golden Idol Mysteries: The Spider of Lanka | 247410 | [247410-golden-idol-mysteries-the-spider-of-lanka.json](./247410-golden-idol-mysteries-the-spider-of-lanka.json) |
 | Golden Sun: The Lost Age | 1173 | [1173-golden-sun-the-lost-age.json](./1173-golden-sun-the-lost-age.json) |
 | Golden Swirl | 368836 | [368836-golden-swirl.json](./368836-golden-swirl.json) |
