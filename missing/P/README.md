@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party in my Dorm | 95646 | [95646-party-in-my-dorm.json](./95646-party-in-my-dorm.json) |
 | Party Pumper | 126310 | [126310-party-pumper.json](./126310-party-pumper.json) |
 | Party Quiz Sega Q | 404730 | [404730-party-quiz-sega-q.json](./404730-party-quiz-sega-q.json) |
+| Past Easter | 349680 | [349680-past-easter.json](./349680-past-easter.json) |
 | Patches | 395387 | [395387-patches.json](./395387-patches.json) |
 | Path of Exile: Mercenaries of Trarthus | 370542 | [370542-path-of-exile-mercenaries-of-trarthus.json](./370542-path-of-exile-mercenaries-of-trarthus.json) |
 | Path of Glory | 386587 | [386587-path-of-glory.json](./386587-path-of-glory.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun 3D: Pocket Edition | 95750 | [95750-pixel-gun-3d-pocket-edition.json](./95750-pixel-gun-3d-pocket-edition.json) |
 | Pixel Into the Galaxy | 400782 | [400782-pixel-into-the-galaxy.json](./400782-pixel-into-the-galaxy.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
+| Pixel Par | 349712 | [349712-pixel-par.json](./349712-pixel-par.json) |
 | Pixel Pile | 397547 | [397547-pixel-pile.json](./397547-pixel-pile.json) |
 | Pixel Puzzles Anime Jigsaws | 401424 | [401424-pixel-puzzles-anime-jigsaws.json](./401424-pixel-puzzles-anime-jigsaws.json) |
 | Pixel Puzzles Dinosaurs Jigsaws | 405377 | [405377-pixel-puzzles-dinosaurs-jigsaws.json](./405377-pixel-puzzles-dinosaurs-jigsaws.json) |
@@ -325,6 +327,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Harvester: Incremental Odyssey | 406582 | [406582-planet-harvester-incremental-odyssey.json](./406582-planet-harvester-incremental-odyssey.json) |
 | Planet of the Apes | 23692 | [23692-planet-of-the-apes.json](./23692-planet-of-the-apes.json) |
 | Planet Work | 364325 | [364325-planet-work.json](./364325-planet-work.json) |
+| Planet Zoo: Americas Animal Pack | 349710 | [349710-planet-zoo-americas-animal-pack.json](./349710-planet-zoo-americas-animal-pack.json) |
+| Planet Zoo: Deluxe Upgrade Pack | 349701 | [349701-planet-zoo-deluxe-upgrade-pack.json](./349701-planet-zoo-deluxe-upgrade-pack.json) |
 | Planetarian: The Reverie of a Little Planet | 11413 | [11413-planetarian-the-reverie-of-a-little-planet.json](./11413-planetarian-the-reverie-of-a-little-planet.json) |
 | Planetary Inc. | 389907 | [389907-planetary-inc.json](./389907-planetary-inc.json) |
 | Planetary Sim | 353661 | [353661-planetary-sim.json](./353661-planetary-sim.json) |
