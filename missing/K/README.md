@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - Gallant Huntsman's Kit | 367245 | [367245-kingdom-come-deliverance-ii-gallant-huntsmans-kit.json](./367245-kingdom-come-deliverance-ii-gallant-huntsmans-kit.json) |
 | Kingdom Come: Deliverance II - Shields of Seasons Passing | 367247 | [367247-kingdom-come-deliverance-ii-shields-of-seasons-passing.json](./367247-kingdom-come-deliverance-ii-shields-of-seasons-passing.json) |
 | Kingdom Hearts 358/2 Days | 1223 | [1223-kingdom-hearts-358-2-days.json](./1223-kingdom-hearts-358-2-days.json) |
+| Kingdom Hearts 358/2 Days Melon Mix | 345328 | [345328-kingdom-hearts-358-2-days-melon-mix.json](./345328-kingdom-hearts-358-2-days-melon-mix.json) |
 | Kingdom Hearts Ballon Glider | 405396 | [405396-kingdom-hearts-ballon-glider.json](./405396-kingdom-hearts-ballon-glider.json) |
 | Kingdom Hearts Card Struggle: Daifugou | 405399 | [405399-kingdom-hearts-card-struggle-daifugou.json](./405399-kingdom-hearts-card-struggle-daifugou.json) |
 | Kingdom Hearts III: Re Mind | 117778 | [117778-kingdom-hearts-iii-re-mind.json](./117778-kingdom-hearts-iii-re-mind.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokutoto | 397537 | [397537-kokutoto.json](./397537-kokutoto.json) |
 | Kon: Tale of the Darkness | 407950 | [407950-kon-tale-of-the-darkness.json](./407950-kon-tale-of-the-darkness.json) |
 | Konami 80's Arcade Gallery | 22529 | [22529-konami-80s-arcade-gallery.json](./22529-konami-80s-arcade-gallery.json) |
+| Kongai | 345330 | [345330-kongai.json](./345330-kongai.json) |
 | Konjie | 348101 | [348101-konjie.json](./348101-konjie.json) |
 | Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Konpira Fune Fune | 351433 | [351433-konpira-fune-fune.json](./351433-konpira-fune-fune.json) |
