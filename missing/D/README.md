@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Deep | 273962 | [273962-dark-and-deep.json](./273962-dark-and-deep.json) |
 | Dark Angel | 384371 | [384371-dark-angel.json](./384371-dark-angel.json) |
 | Dark Cage1: Reincarnation For Salvation | 367241 | [367241-dark-cage1-reincarnation-for-salvation.json](./367241-dark-cage1-reincarnation-for-salvation.json) |
+| Dark Cards of Candlewood | 346970 | [346970-dark-cards-of-candlewood.json](./346970-dark-cards-of-candlewood.json) |
 | Dark Cloud 2 | 1215 | [1215-dark-cloud-2.json](./1215-dark-cloud-2.json) |
 | Dark Colony | 51199 | [51199-dark-colony.json](./51199-dark-colony.json) |
 | Dark Dolls | 350837 | [350837-dark-dolls.json](./350837-dark-dolls.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End | 413546 | [413546-dead-end.json](./413546-dead-end.json) |
 | Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
 | Dead End Streets | 393315 | [393315-dead-end-streets.json](./393315-dead-end-streets.json) |
+| Dead Finger Dice: A Billionaire Killing Game | 346957 | [346957-dead-finger-dice-a-billionaire-killing-game.json](./346957-dead-finger-dice-a-billionaire-killing-game.json) |
 | Dead Ground | 81985 | [81985-dead-ground.json](./81985-dead-ground.json) |
 | Dead Horde | 14949 | [14949-dead-horde.json](./14949-dead-horde.json) |
 | Dead Iron | 372296 | [372296-dead-iron.json](./372296-dead-iron.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fang Z: The Rose & Dungeon of Time | 76847 | [76847-dragon-fang-z-the-rose-and-dungeon-of-time.json](./76847-dragon-fang-z-the-rose-and-dungeon-of-time.json) |
 | Dragon Gate: Tournament | 380285 | [380285-dragon-gate-tournament.json](./380285-dragon-gate-tournament.json) |
 | Dragon Jump | 380289 | [380289-dragon-jump.json](./380289-dragon-jump.json) |
+| Dragon Lands | 346960 | [346960-dragon-lands.json](./346960-dragon-lands.json) |
 | Dragon Quest Heroes: Rocket Slime | 1824 | [1824-dragon-quest-heroes-rocket-slime.json](./1824-dragon-quest-heroes-rocket-slime.json) |
 | Dragon Quest I HD-2D Remake | 375616 | [375616-dragon-quest-i-hd-2d-remake.json](./375616-dragon-quest-i-hd-2d-remake.json) |
 | Dragon Quest II HD-2D Remake | 375617 | [375617-dragon-quest-ii-hd-2d-remake.json](./375617-dragon-quest-ii-hd-2d-remake.json) |
