@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape to the Afterlife | 379225 | [379225-the-escape-to-the-afterlife.json](./379225-the-escape-to-the-afterlife.json) |
 | The Escape: Team Battle Arena | 369422 | [369422-the-escape-team-battle-arena.json](./369422-the-escape-team-battle-arena.json) |
 | The Escapists 2 | 25653 | [25653-the-escapists-2.json](./25653-the-escapists-2.json) |
+| The Evil Inside | 350253 | [350253-the-evil-inside.json](./350253-the-evil-inside.json) |
 | The Excavation of Hob's Barrow | 210665 | [210665-the-excavation-of-hobs-barrow.json](./210665-the-excavation-of-hobs-barrow.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Fabulous Fear Machine | 190197 | [190197-the-fabulous-fear-machine.json](./190197-the-fabulous-fear-machine.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holdouts | 360930 | [360930-the-holdouts.json](./360930-the-holdouts.json) |
 | The Hollow Path | 354274 | [354274-the-hollow-path.json](./354274-the-hollow-path.json) |
 | The Horus Heresy: Betrayal At Calth | 76731 | [76731-the-horus-heresy-betrayal-at-calth.json](./76731-the-horus-heresy-betrayal-at-calth.json) |
+| The House Below | 350264 | [350264-the-house-below.json](./350264-the-house-below.json) |
 | The House of the Dead: Overkill | 4919 | [4919-the-house-of-the-dead-overkill.json](./4919-the-house-of-the-dead-overkill.json) |
 | The Housewife | 23167 | [23167-the-housewife.json](./23167-the-housewife.json) |
 | The Hull | 371071 | [371071-the-hull.json](./371071-the-hull.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operational Art of War IV | 59525 | [59525-the-operational-art-of-war-iv.json](./59525-the-operational-art-of-war-iv.json) |
 | The Operator | 216958 | [216958-the-operator.json](./216958-the-operator.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
+| The Original Moorhuhn Hunt | 350286 | [350286-the-original-moorhuhn-hunt.json](./350286-the-original-moorhuhn-hunt.json) |
 | The Other Half | 107244 | [107244-the-other-half.json](./107244-the-other-half.json) |
 | The Pagemaster | 364892 | [364892-the-pagemaster.json](./364892-the-pagemaster.json) |
 | The Palace of Deceit: The Secret of Castle Lockemoer | 397578 | [397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json](./397578-the-palace-of-deceit-the-secret-of-castle-lockemoer.json) |
