@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Online | 394054 | [394054-madness-online.json](./394054-madness-online.json) |
 | Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mafia III: Sign of the Times | 47990 | [47990-mafia-iii-sign-of-the-times.json](./47990-mafia-iii-sign-of-the-times.json) |
+| Mafia Takedown | 346948 | [346948-mafia-takedown.json](./346948-mafia-takedown.json) |
 | MageML | 397570 | [397570-mageml.json](./397570-mageml.json) |
 | MageQuit | 30112 | [30112-magequit.json](./30112-magequit.json) |
 | Magic Beans | 403462 | [403462-magic-beans.json](./403462-magic-beans.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Luigi | 380270 | [380270-mama-luigi.json](./380270-mama-luigi.json) |
 | Mameshiba: Puzzle Festival | 349681 | [349681-mameshiba-puzzle-festival.json](./349681-mameshiba-puzzle-festival.json) |
 | Mamon King | 375641 | [375641-mamon-king.json](./375641-mamon-king.json) |
+| Man Eater | 346967 | [346967-man-eater.json](./346967-man-eater.json) |
 | Man Simulator 2025 | 373911 | [373911-man-simulator-2025.json](./373911-man-simulator-2025.json) |
 | Mandagon | 33049 | [33049-mandagon.json](./33049-mandagon.json) |
 | MandarinMastermind | 354867 | [354867-mandarinmastermind.json](./354867-mandarinmastermind.json) |
@@ -167,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Point Tennis | 354296 | [354296-match-point-tennis.json](./354296-match-point-tennis.json) |
 | Match-3 Adventure Bundle | 350842 | [350842-match-3-adventure-bundle.json](./350842-match-3-adventure-bundle.json) |
 | Match'fur Battle | 406006 | [406006-matchfur-battle.json](./406006-matchfur-battle.json) |
+| Matching Appli de Deaichuu Shitemita | 346981 | [346981-matching-appli-de-deaichuu-shitemita.json](./346981-matching-appli-de-deaichuu-shitemita.json) |
 | Math puzzles PRO 2 | 101976 | [101976-math-puzzles-pro-2.json](./101976-math-puzzles-pro-2.json) |
 | Matikka on Jees! | 370519 | [370519-matikka-on-jees.json](./370519-matikka-on-jees.json) |
 | Mato Fragments | 354244 | [354244-mato-fragments.json](./354244-mato-fragments.json) |
@@ -549,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bash | 8988 | [8988-monster-bash.json](./8988-monster-bash.json) |
 | Monster Bash HD | 179976 | [179976-monster-bash-hd.json](./179976-monster-bash-hd.json) |
 | Monster Castle | 24606 | [24606-monster-castle.json](./24606-monster-castle.json) |
+| Monster Chase | 346980 | [346980-monster-chase.json](./346980-monster-chase.json) |
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
 | Monster Gals!! | 384966 | [384966-monster-gals.json](./384966-monster-gals.json) |
 | Monster Girl Descent | 384968 | [384968-monster-girl-descent.json](./384968-monster-girl-descent.json) |
@@ -583,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montaro : RE | 111677 | [111677-montaro-re.json](./111677-montaro-re.json) |
 | Montas | 16915 | [16915-montas.json](./16915-montas.json) |
 | Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
+| Monuments to Ruin | 346995 | [346995-monuments-to-ruin.json](./346995-monuments-to-ruin.json) |
 | Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moon Garden | 406606 | [406606-moon-garden.json](./406606-moon-garden.json) |
 | Moon Raider: Anniversary Edition | 401413 | [401413-moon-raider-anniversary-edition.json](./401413-moon-raider-anniversary-edition.json) |
