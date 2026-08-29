@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
 | Candystand Miniature Golf | 360393 | [360393-candystand-miniature-golf.json](./360393-candystand-miniature-golf.json) |
 | Cannibals & Missionaries | 381454 | [381454-cannibals-and-missionaries.json](./381454-cannibals-and-missionaries.json) |
+| Cannon Ball | 345891 | [345891-cannon-ball.json](./345891-cannon-ball.json) |
 | Cannon Fodder 3 | 15296 | [15296-cannon-fodder-3.json](./15296-cannon-fodder-3.json) |
 | Canyon Bomber | 172789 | [172789-canyon-bomber.json](./172789-canyon-bomber.json) |
 | Capcom Fighting Collection | 191745 | [191745-capcom-fighting-collection.json](./191745-capcom-fighting-collection.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card City Nights 2 | 36452 | [36452-card-city-nights-2.json](./36452-card-city-nights-2.json) |
 | Card of Arcana | 413564 | [413564-card-of-arcana.json](./413564-card-of-arcana.json) |
 | Card Revolution Soccer | 414977 | [414977-card-revolution-soccer.json](./414977-card-revolution-soccer.json) |
+| Card World | 345892 | [345892-card-world.json](./345892-card-world.json) |
 | Cardania: Epoch Wars | 254987 | [254987-cardania-epoch-wars.json](./254987-cardania-epoch-wars.json) |
 | Carefully Stamped | 348637 | [348637-carefully-stamped.json](./348637-carefully-stamped.json) |
 | Cargo Commander | 7880 | [7880-cargo-commander.json](./7880-cargo-commander.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Advance Collection | 152765 | [152765-castlevania-advance-collection.json](./152765-castlevania-advance-collection.json) |
 | Castlevania Anniversary Collection | 116138 | [116138-castlevania-anniversary-collection.json](./116138-castlevania-anniversary-collection.json) |
 | Castlevania Harmony of Despair Unity | 354271 | [354271-castlevania-harmony-of-despair-unity.json](./354271-castlevania-harmony-of-despair-unity.json) |
+| Castlevania: Aria of Sorrow | 345887 | [345887-castlevania-aria-of-sorrow.json](./345887-castlevania-aria-of-sorrow.json) |
 | Castlevania: Harmony of Despair | 1147 | [1147-castlevania-harmony-of-despair.json](./1147-castlevania-harmony-of-despair.json) |
 | Castlevania: Lament of Innocence | 1135 | [1135-castlevania-lament-of-innocence.json](./1135-castlevania-lament-of-innocence.json) |
 | Castlevania: Legacy of Darkness | 1131 | [1131-castlevania-legacy-of-darkness.json](./1131-castlevania-legacy-of-darkness.json) |
@@ -167,8 +170,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Echoes | 117271 | [117271-chained-echoes.json](./117271-chained-echoes.json) |
 | Chainsaw Warrior | 16672 | [16672-chainsaw-warrior.json](./16672-chainsaw-warrior.json) |
 | Chair Debiti | 366059 | [366059-chair-debiti.json](./366059-chair-debiti.json) |
+| Challenge Golf | 345894 | [345894-challenge-golf.json](./345894-challenge-golf.json) |
 | Challenge Racer | 385481 | [385481-challenge-racer.json](./385481-challenge-racer.json) |
 | Champion of Lore | 381471 | [381471-champion-of-lore.json](./381471-champion-of-lore.json) |
+| Champion Racer | 345895 | [345895-champion-racer.json](./345895-champion-racer.json) |
 | Champions of Anteria | 22851 | [22851-champions-of-anteria.json](./22851-champions-of-anteria.json) |
 | Champions of the Cosmos | 366066 | [366066-champions-of-the-cosmos.json](./366066-champions-of-the-cosmos.json) |
 | Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
@@ -338,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Halloween 7 | 375022 | [375022-coloring-pixels-halloween-7.json](./375022-coloring-pixels-halloween-7.json) |
 | Coloring Pixels: Jigsaw Pack | 407230 | [407230-coloring-pixels-jigsaw-pack.json](./407230-coloring-pixels-jigsaw-pack.json) |
 | Coloring Pixels: Pride Pack | 347550 | [347550-coloring-pixels-pride-pack.json](./347550-coloring-pixels-pride-pack.json) |
+| Coloring Voxels | 345884 | [345884-coloring-voxels.json](./345884-coloring-voxels.json) |
 | Colors/Forest | 393343 | [393343-colors-forest.json](./393343-colors-forest.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
@@ -348,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Forces | 378039 | [378039-combat-forces.json](./378039-combat-forces.json) |
 | Combat of Giants: Dinosaurs 3D | 6752 | [6752-combat-of-giants-dinosaurs-3d.json](./6752-combat-of-giants-dinosaurs-3d.json) |
 | Combat Tested | 89329 | [89329-combat-tested.json](./89329-combat-tested.json) |
+| Combined Fleet | 345896 | [345896-combined-fleet.json](./345896-combined-fleet.json) |
 | Combo Carnage | 400805 | [400805-combo-carnage.json](./400805-combo-carnage.json) |
 | Combo Overload | 350268 | [350268-combo-overload.json](./350268-combo-overload.json) |
 | Combolands | 398235 | [398235-combolands.json](./398235-combolands.json) |
