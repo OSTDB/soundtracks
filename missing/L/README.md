@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmark Battle | 390431 | [390431-landmark-battle.json](./390431-landmark-battle.json) |
 | Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lap of the Gods | 348081 | [348081-lap-of-the-gods.json](./348081-lap-of-the-gods.json) |
+| Lapsus | 344746 | [344746-lapsus.json](./344746-lapsus.json) |
 | Lara Croft Go: Mirror of Spirits | 28131 | [28131-lara-croft-go-mirror-of-spirits.json](./28131-lara-croft-go-mirror-of-spirits.json) |
 | Large Meals | 348600 | [348600-large-meals.json](./348600-large-meals.json) |
 | Laser Guy | 402836 | [402836-laser-guy.json](./402836-laser-guy.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night DJ | 402777 | [402777-late-night-dj.json](./402777-late-night-dj.json) |
 | Later Daters | 116303 | [116303-later-daters.json](./116303-later-daters.json) |
 | Latitude of the Cult | 392036 | [392036-latitude-of-the-cult.json](./392036-latitude-of-the-cult.json) |
+| Laundry Simulator: Clean Empire | 344739 | [344739-laundry-simulator-clean-empire.json](./344739-laundry-simulator-clean-empire.json) |
 | Laura Bailey Mysteries | 414248 | [414248-laura-bailey-mysteries.json](./414248-laura-bailey-mysteries.json) |
 | Lavatro | 386036 | [386036-lavatro.json](./386036-lavatro.json) |
 | Lavender | 126427 | [126427-lavender.json](./126427-lavender.json) |
@@ -179,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Inuko | 393300 | [393300-little-witch-inuko.json](./393300-little-witch-inuko.json) |
 | Little Woody | 386610 | [386610-little-woody.json](./386610-little-woody.json) |
 | LittleBigPlanet 3 | 7330 | [7330-littlebigplanet-3.json](./7330-littlebigplanet-3.json) |
+| Livber: Smoke and Mirrors | 344732 | [344732-livber-smoke-and-mirrors.json](./344732-livber-smoke-and-mirrors.json) |
 | LiveTale | 368316 | [368316-livetale.json](./368316-livetale.json) |
 | Living is Expensive... | 387910 | [387910-living-is-expensive.json](./387910-living-is-expensive.json) |
 | Living Pipes | 351461 | [351461-living-pipes.json](./351461-living-pipes.json) |
