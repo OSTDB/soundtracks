@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashy Square | 33033 | [33033-dashy-square.json](./33033-dashy-square.json) |
 | Data Jammers: FastForward | 15145 | [15145-data-jammers-fastforward.json](./15145-data-jammers-fastforward.json) |
 | Dataclysm | 367791 | [367791-dataclysm.json](./367791-dataclysm.json) |
+| Date Z: Welcome to Massville High | 344173 | [344173-date-z-welcome-to-massville-high.json](./344173-date-z-welcome-to-massville-high.json) |
 | Dating Killmulator 2 | 410118 | [410118-dating-killmulator-2.json](./410118-dating-killmulator-2.json) |
 | Daunya-san to Kainushi-kun | 396042 | [396042-daunya-san-to-kainushi-kun.json](./396042-daunya-san-to-kainushi-kun.json) |
 | Dave Mirra BMX Challenge | 4794 | [4794-dave-mirra-bmx-challenge.json](./4794-dave-mirra-bmx-challenge.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Purge: Outbreak | 44296 | [44296-dead-purge-outbreak.json](./44296-dead-purge-outbreak.json) |
 | Dead Rush | 383831 | [383831-dead-rush.json](./383831-dead-rush.json) |
 | Dead Samurai | 377465 | [377465-dead-samurai.json](./377465-dead-samurai.json) |
+| Dead Tapes: Fading Father | 344197 | [344197-dead-tapes-fading-father.json](./344197-dead-tapes-fading-father.json) |
 | Deadcraft | 199178 | [199178-deadcraft.json](./199178-deadcraft.json) |
 | Deadhold | 35841 | [35841-deadhold.json](./35841-deadhold.json) |
 | Deadline | 412122 | [412122-deadline.json](./412122-deadline.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Passengers | 410121 | [410121-dear-passengers.json](./410121-dear-passengers.json) |
 | Dear Poe | 375003 | [375003-dear-poe.json](./375003-dear-poe.json) |
 | Death Attraction | 405390 | [405390-death-attraction.json](./405390-death-attraction.json) |
+| Death Dome | 344219 | [344219-death-dome.json](./344219-death-dome.json) |
 | Death Fungeon | 107938 | [107938-death-fungeon.json](./107938-death-fungeon.json) |
 | Death is Sunhaired | 390405 | [390405-death-is-sunhaired.json](./390405-death-is-sunhaired.json) |
 | Death Jr. II: Root of Evil | 4801 | [4801-death-jr-ii-root-of-evil.json](./4801-death-jr-ii-root-of-evil.json) |
@@ -555,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 1819 | [1819-dragon-quest-viii-journey-of-the-cursed-king.json](./1819-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Seeker | 394004 | [394004-dragon-seeker.json](./394004-dragon-seeker.json) |
 | Dragon Skips | 395434 | [395434-dragon-skips.json](./395434-dragon-skips.json) |
+| Dragon Slayer | 344220 | [344220-dragon-slayer.json](./344220-dragon-slayer.json) |
 | Dragon Soul | 409481 | [409481-dragon-soul.json](./409481-dragon-soul.json) |
 | Dragon Village 3 | 408682 | [408682-dragon-village-3.json](./408682-dragon-village-3.json) |
 | Dragon: The Bruce Lee Story | 398885 | [398885-dragon-the-bruce-lee-story.json](./398885-dragon-the-bruce-lee-story.json) |
@@ -613,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Aether | 337899 | [337899-dreams-of-aether.json](./337899-dreams-of-aether.json) |
 | Dreams of Saturn 3.0 | 382012 | [382012-dreams-of-saturn-3-0.json](./382012-dreams-of-saturn-3-0.json) |
 | Dreamship Sugarcube | 348049 | [348049-dreamship-sugarcube.json](./348049-dreamship-sugarcube.json) |
+| Dreamwalker: Dream A Little Dream Act I | 344188 | [344188-dreamwalker-dream-a-little-dream-act-i.json](./344188-dreamwalker-dream-a-little-dream-act-i.json) |
 | Dreamy Golden Snow | 391509 | [391509-dreamy-golden-snow.json](./391509-dreamy-golden-snow.json) |
 | Dredgers | 125467 | [125467-dredgers.json](./125467-dredgers.json) |
 | Dress Me! | 87563 | [87563-dress-me.json](./87563-dress-me.json) |
@@ -724,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dusttale: Non est Deus | 356456 | [356456-dusttale-non-est-deus.json](./356456-dusttale-non-est-deus.json) |
 | Dvadtsat | 399510 | [399510-dvadtsat.json](./399510-dvadtsat.json) |
+| Dwarf Campaign | 344210 | [344210-dwarf-campaign.json](./344210-dwarf-campaign.json) |
 | Dwarven Mining Company | 389321 | [389321-dwarven-mining-company.json](./389321-dwarven-mining-company.json) |
 | Dwelvers | 17051 | [17051-dwelvers.json](./17051-dwelvers.json) |
 | Dworf's Forbidden Gold | 373365 | [373365-dworfs-forbidden-gold.json](./373365-dworfs-forbidden-gold.json) |
