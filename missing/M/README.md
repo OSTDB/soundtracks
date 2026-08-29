@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fight Express | 138244 | [138244-midnight-fight-express.json](./138244-midnight-fight-express.json) |
 | Midnight Hoops | 381447 | [381447-midnight-hoops.json](./381447-midnight-hoops.json) |
 | Midnight Joy Ride | 396055 | [396055-midnight-joy-ride.json](./396055-midnight-joy-ride.json) |
+| Midnight Launderette | 343109 | [343109-midnight-launderette.json](./343109-midnight-launderette.json) |
 | Midnight Moments | 404118 | [404118-midnight-moments.json](./404118-midnight-moments.json) |
 | Midnight Realm | 383205 | [383205-midnight-realm.json](./383205-midnight-realm.json) |
 | MiG-29 Fulcrum | 12682 | [12682-mig-29-fulcrum.json](./12682-mig-29-fulcrum.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
+| Mini Painter | 343067 | [343067-mini-painter.json](./343067-mini-painter.json) |
 | Mini Wheels Racers: Turbo Toy Playground | 344176 | [344176-mini-wheels-racers-turbo-toy-playground.json](./344176-mini-wheels-racers-turbo-toy-playground.json) |
 | Minigame Mayhem | 353691 | [353691-minigame-mayhem.json](./353691-minigame-mayhem.json) |
 | Minigames Master | 389277 | [389277-minigames-master.json](./389277-minigames-master.json) |
@@ -517,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MisBits | 126553 | [126553-misbits.json](./126553-misbits.json) |
 | Missed Class: Horror | 414237 | [414237-missed-class-horror.json](./414237-missed-class-horror.json) |
 | Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
+| Mission Impossible Puzzle | 343083 | [343083-mission-impossible-puzzle.json](./343083-mission-impossible-puzzle.json) |
 | Mission in Space: The Lost Colony | 345308 | [345308-mission-in-space-the-lost-colony.json](./345308-mission-in-space-the-lost-colony.json) |
 | Mistport | 414986 | [414986-mistport.json](./414986-mistport.json) |
 | Misty Land | 389902 | [389902-misty-land.json](./389902-misty-land.json) |
@@ -569,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Chase | 346980 | [346980-monster-chase.json](./346980-monster-chase.json) |
 | Monster City | 343620 | [343620-monster-city.json](./343620-monster-city.json) |
 | Monster Energy Supercross: The Official Videogame 5 | 182481 | [182481-monster-energy-supercross-the-official-videogame-5.json](./182481-monster-energy-supercross-the-official-videogame-5.json) |
+| Monster Friends | 343066 | [343066-monster-friends.json](./343066-monster-friends.json) |
 | Monster Gals!! | 384966 | [384966-monster-gals.json](./384966-monster-gals.json) |
 | Monster Girl Descent | 384968 | [384968-monster-girl-descent.json](./384968-monster-girl-descent.json) |
 | Monster Girl Puzzle | 382019 | [382019-monster-girl-puzzle.json](./382019-monster-girl-puzzle.json) |
@@ -654,11 +658,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motori | 347549 | [347549-motori.json](./347549-motori.json) |
 | Motorsport Manager for Nintendo Switch | 115934 | [115934-motorsport-manager-for-nintendo-switch.json](./115934-motorsport-manager-for-nintendo-switch.json) |
 | Mount Noire | 390395 | [390395-mount-noire.json](./390395-mount-noire.json) |
+| Mouse Arcade | 343119 | [343119-mouse-arcade.json](./343119-mouse-arcade.json) |
 | Mouse simulator | 359798 | [359798-mouse-simulator.json](./359798-mouse-simulator.json) |
 | Move the Walls | 345303 | [345303-move-the-walls.json](./345303-move-the-walls.json) |
 | Move Together | 402822 | [402822-move-together.json](./402822-move-together.json) |
 | Moving Out 2 | 214397 | [214397-moving-out-2.json](./214397-moving-out-2.json) |
 | Mowing Simulator | 368851 | [368851-mowing-simulator.json](./368851-mowing-simulator.json) |
+| Mr Farmboy | 343103 | [343103-mr-farmboy.json](./343103-mr-farmboy.json) |
 | Mr Wonder | 364295 | [364295-mr-wonder.json](./364295-mr-wonder.json) |
 | Mr. Driller | 21840 | [21840-mr-driller.json](./21840-mr-driller.json) |
 | Mr. Hack Jack: Robot Detective | 115937 | [115937-mr-hack-jack-robot-detective.json](./115937-mr-hack-jack-robot-detective.json) |
