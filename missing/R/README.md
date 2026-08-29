@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad to Hell 3 | 379761 | [379761-railroad-to-hell-3.json](./379761-railroad-to-hell-3.json) |
 | Rails of Dead: Zombie Survival Simulator | 402169 | [402169-rails-of-dead-zombie-survival-simulator.json](./402169-rails-of-dead-zombie-survival-simulator.json) |
 | Rain World: Downpour | 194850 | [194850-rain-world-downpour.json](./194850-rain-world-downpour.json) |
+| Rainbow Mosaics 10: Christmas Helper | 345339 | [345339-rainbow-mosaics-10-christmas-helper.json](./345339-rainbow-mosaics-10-christmas-helper.json) |
 | Rainbows Are Carnivores | 381431 | [381431-rainbows-are-carnivores.json](./381431-rainbows-are-carnivores.json) |
 | Raining Cats and Dogs | 398873 | [398873-raining-cats-and-dogs.json](./398873-raining-cats-and-dogs.json) |
 | Rakete | 410111 | [410111-rakete.json](./410111-rakete.json) |
