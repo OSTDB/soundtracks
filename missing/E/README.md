@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy 3 | 31516 | [31516-epic-battle-fantasy-3.json](./31516-epic-battle-fantasy-3.json) |
 | Epic Mickey 2: The Power of Two | 1510 | [1510-epic-mickey-2-the-power-of-two.json](./1510-epic-mickey-2-the-power-of-two.json) |
 | Epic Royal | 386013 | [386013-epic-royal.json](./386013-epic-royal.json) |
+| Epic Zen Garden | 344230 | [344230-epic-zen-garden.json](./344230-epic-zen-garden.json) |
 | Epics of Noche, Brain Busted | 376335 | [376335-epics-of-noche-brain-busted.json](./376335-epics-of-noche-brain-busted.json) |
 | Episode: Choose Your Story | 87375 | [87375-episode-choose-your-story.json](./87375-episode-choose-your-story.json) |
 | Epoch Spire | 357087 | [357087-epoch-spire.json](./357087-epoch-spire.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Mind | 123756 | [123756-escape-mind.json](./123756-escape-mind.json) |
 | Escape Protocol : Online | 364290 | [364290-escape-protocol-online.json](./364290-escape-protocol-online.json) |
 | Escape the Grind | 406009 | [406009-escape-the-grind.json](./406009-escape-the-grind.json) |
+| Escape the Mansion | 344225 | [344225-escape-the-mansion.json](./344225-escape-the-mansion.json) |
 | escapeVektor | 64168 | [64168-escapevektor.json](./64168-escapevektor.json) |
 | ESG Football | 357097 | [357097-esg-football.json](./357097-esg-football.json) |
 | Espirito Delusion | 349692 | [349692-espirito-delusion.json](./349692-espirito-delusion.json) |
@@ -200,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everfall | 393364 | [393364-everfall.json](./393364-everfall.json) |
 | Evergrace | 10904 | [10904-evergrace.json](./10904-evergrace.json) |
 | Evergrind | 414186 | [414186-evergrind.json](./414186-evergrind.json) |
+| Everlusting Life | 344191 | [344191-everlusting-life.json](./344191-everlusting-life.json) |
 | EverQuest II: Desert of Flames | 18317 | [18317-everquest-ii-desert-of-flames.json](./18317-everquest-ii-desert-of-flames.json) |
 | Everslide | 360946 | [360946-everslide.json](./360946-everslide.json) |
 | Everspace 2: Galactic Edition | 364294 | [364294-everspace-2-galactic-edition.json](./364294-everspace-2-galactic-edition.json) |
@@ -240,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Existential Kitty Cat RPG | 95618 | [95618-existential-kitty-cat-rpg.json](./95618-existential-kitty-cat-rpg.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
+| Exit: N.F. | 344196 | [344196-exit-n-f.json](./344196-exit-n-f.json) |
 | Exitless | 358686 | [358686-exitless.json](./358686-exitless.json) |
 | Exitless: Prologue | 358685 | [358685-exitless-prologue.json](./358685-exitless-prologue.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
