@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Battle Operation 2 | 68285 | [68285-mobile-suit-gundam-battle-operation-2.json](./68285-mobile-suit-gundam-battle-operation-2.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy - Vol. 1 | 182242 | [182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json](./182242-mobile-suit-gundam-battle-operation-code-fairy-vol-1.json) |
 | Modulus: Factory Automation Deluxe Upgrade Pack | 396819 | [396819-modulus-factory-automation-deluxe-upgrade-pack.json](./396819-modulus-factory-automation-deluxe-upgrade-pack.json) |
+| Moebious: Endless Dream | 357652 | [357652-moebious-endless-dream.json](./357652-moebious-endless-dream.json) |
 | Moist Depot: Adult Store Simulator | 393369 | [393369-moist-depot-adult-store-simulator.json](./393369-moist-depot-adult-store-simulator.json) |
 | Molecular Warfare | 368330 | [368330-molecular-warfare.json](./368330-molecular-warfare.json) |
 | Molluscarium | 406589 | [406589-molluscarium.json](./406589-molluscarium.json) |
