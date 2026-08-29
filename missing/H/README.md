@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shinobi | 387197 | [387197-hentai-shinobi.json](./387197-hentai-shinobi.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Succubus Serenade | 392616 | [392616-hentai-succubus-serenade.json](./392616-hentai-succubus-serenade.json) |
+| Hentai Supermarket Simulator | 344738 | [344738-hentai-supermarket-simulator.json](./344738-hentai-supermarket-simulator.json) |
 | Hentai Tales: Master, Your Sex Class Begins Now | 368335 | [368335-hentai-tales-master-your-sex-class-begins-now.json](./368335-hentai-tales-master-your-sex-class-begins-now.json) |
 | Hentai Tales: The Gyaru's Secret Hobby | 402792 | [402792-hentai-tales-the-gyarus-secret-hobby.json](./402792-hentai-tales-the-gyarus-secret-hobby.json) |
 | Hentai Waifu | 126359 | [126359-hentai-waifu.json](./126359-hentai-waifu.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho Ho & Move | 387247 | [387247-ho-ho-and-move.json](./387247-ho-ho-and-move.json) |
 | Hoarder | 395392 | [395392-hoarder.json](./395392-hoarder.json) |
 | Hockey Pong | 384382 | [384382-hockey-pong.json](./384382-hockey-pong.json) |
+| Hockey Showdown | 344734 | [344734-hockey-showdown.json](./344734-hockey-showdown.json) |
 | Hold the Fort | 115892 | [115892-hold-the-fort.json](./115892-hold-the-fort.json) |
 | Hole Digging Simulator | 345300 | [345300-hole-digging-simulator.json](./345300-hole-digging-simulator.json) |
 | Hole io: Doomsday Edition | 350853 | [350853-hole-io-doomsday-edition.json](./350853-hole-io-doomsday-edition.json) |
