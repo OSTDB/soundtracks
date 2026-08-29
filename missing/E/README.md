@@ -219,6 +219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiled Kingdoms | 86639 | [86639-exiled-kingdoms.json](./86639-exiled-kingdoms.json) |
 | Existential Kitty Cat RPG | 95618 | [95618-existential-kitty-cat-rpg.json](./95618-existential-kitty-cat-rpg.json) |
 | Exit | 85653 | [85653-exit.json](./85653-exit.json) |
+| Exitless | 358686 | [358686-exitless.json](./358686-exitless.json) |
+| Exitless: Prologue | 358685 | [358685-exitless-prologue.json](./358685-exitless-prologue.json) |
 | Exodus from the Earth | 14858 | [14858-exodus-from-the-earth.json](./14858-exodus-from-the-earth.json) |
 | Exodus: Journey to the Promised Land | 370495 | [370495-exodus-journey-to-the-promised-land.json](./370495-exodus-journey-to-the-promised-land.json) |
 | Exodus: Journey to the Promised Land | 370494 | [370494-exodus-journey-to-the-promised-land.json](./370494-exodus-journey-to-the-promised-land.json) |
