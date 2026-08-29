@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban | 230468 | [230468-garten-of-banban.json](./230468-garten-of-banban.json) |
 | Garten of Banban 3 | 240393 | [240393-garten-of-banban-3.json](./240393-garten-of-banban-3.json) |
 | Gary Goat RPG! Legend of the Jewel Seeds | 383215 | [383215-gary-goat-rpg-legend-of-the-jewel-seeds.json](./383215-gary-goat-rpg-legend-of-the-jewel-seeds.json) |
+| Gates of Eden | 358719 | [358719-gates-of-eden.json](./358719-gates-of-eden.json) |
 | Gato Roboto | 107317 | [107317-gato-roboto.json](./107317-gato-roboto.json) |
 | GBKiss Mini Games | 366690 | [366690-gbkiss-mini-games.json](./366690-gbkiss-mini-games.json) |
 | Gear Up | 15311 | [15311-gear-up.json](./15311-gear-up.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the Feed | 397554 | [397554-ghost-in-the-feed.json](./397554-ghost-in-the-feed.json) |
 | Ghost Justice | 410098 | [410098-ghost-justice.json](./410098-ghost-justice.json) |
 | Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
+| Ghost Shooter | 358711 | [358711-ghost-shooter.json](./358711-ghost-shooter.json) |
 | Ghost Village Girl: The Village in a Cage | 410134 | [410134-ghost-village-girl-the-village-in-a-cage.json](./410134-ghost-village-girl-the-village-in-a-cage.json) |
 | GhostControl Inc. | 17106 | [17106-ghostcontrol-inc.json](./17106-ghostcontrol-inc.json) |
 | Ghoste's Grunge | 412867 | [412867-ghostes-grunge.json](./412867-ghostes-grunge.json) |
@@ -191,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodnight Butcher | 15425 | [15425-goodnight-butcher.json](./15425-goodnight-butcher.json) |
 | Goofy Golf Remastered | 368848 | [368848-goofy-golf-remastered.json](./368848-goofy-golf-remastered.json) |
+| Goosebumps: Terror in Little Creek - Fright Pack | 358678 | [358678-goosebumps-terror-in-little-creek-fright-pack.json](./358678-goosebumps-terror-in-little-creek-fright-pack.json) |
 | Gorax Episode 1: The Cliff to Nowhere | 365520 | [365520-gorax-episode-1-the-cliff-to-nowhere.json](./365520-gorax-episode-1-the-cliff-to-nowhere.json) |
 | GoreBox | 238765 | [238765-gorebox.json](./238765-gorebox.json) |
 | Görev | 360433 | [360433-gorev.json](./360433-gorev.json) |
@@ -323,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Rev 2 | 26801 | [26801-guilty-gear-xrd-rev-2.json](./26801-guilty-gear-xrd-rev-2.json) |
 | Guitar Hero Encore: Rocks the 80s | 2676 | [2676-guitar-hero-encore-rocks-the-80s.json](./2676-guitar-hero-encore-rocks-the-80s.json) |
 | Gulpy Gulpy! | 365492 | [365492-gulpy-gulpy.json](./365492-gulpy-gulpy.json) |
+| Gumball 3000: World Tour | 358690 | [358690-gumball-3000-world-tour.json](./358690-gumball-3000-world-tour.json) |
 | Gumball Guesser | 359268 | [359268-gumball-guesser.json](./359268-gumball-guesser.json) |
 | Gumboy: Crazy Adventures | 15623 | [15623-gumboy-crazy-adventures.json](./15623-gumboy-crazy-adventures.json) |
 | Gun Club VR | 74516 | [74516-gun-club-vr.json](./74516-gun-club-vr.json) |
