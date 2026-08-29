@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Feet Two | 47380 | [47380-happy-feet-two.json](./47380-happy-feet-two.json) |
 | Happy Pet | 368304 | [368304-happy-pet.json](./368304-happy-pet.json) |
 | Happy Piggy | 370506 | [370506-happy-piggy.json](./370506-happy-piggy.json) |
+| Happy Surprise Garden | 346436 | [346436-happy-surprise-garden.json](./346436-happy-surprise-garden.json) |
 | Happy Wheels | 28227 | [28227-happy-wheels.json](./28227-happy-wheels.json) |
 | Hard Reset: Extended Edition | 24233 | [24233-hard-reset-extended-edition.json](./24233-hard-reset-extended-edition.json) |
 | HardBall 5 | 4467 | [4467-hardball-5.json](./4467-hardball-5.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Stories: Lockdown | 364315 | [364315-hollow-stories-lockdown.json](./364315-hollow-stories-lockdown.json) |
 | Hollowreach: Alone | 390424 | [390424-hollowreach-alone.json](./390424-hollowreach-alone.json) |
 | Hologuard | 384984 | [384984-hologuard.json](./384984-hologuard.json) |
+| HoloReversi | 346424 | [346424-holoreversi.json](./346424-holoreversi.json) |
 | HoloVillage: Our Cozy Days | 379245 | [379245-holovillage-our-cozy-days.json](./379245-holovillage-our-cozy-days.json) |
 | Holy Hoop | 366067 | [366067-holy-hoop.json](./366067-holy-hoop.json) |
 | Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
