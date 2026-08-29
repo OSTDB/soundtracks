@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
 | Vampire: The Masquerade - Oaths and Ashes | 400121 | [400121-vampire-the-masquerade-oaths-and-ashes.json](./400121-vampire-the-masquerade-oaths-and-ashes.json) |
 | Vampire: The Masquerade - Redemption | 12 | [12-vampire-the-masquerade-redemption.json](./12-vampire-the-masquerade-redemption.json) |
+| Vampire's Best Friend | 348067 | [348067-vampires-best-friend.json](./348067-vampires-best-friend.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vantage: Primitive Survival Game | 44302 | [44302-vantage-primitive-survival-game.json](./44302-vantage-primitive-survival-game.json) |
 | Vape Simulator | 384979 | [384979-vape-simulator.json](./384979-vape-simulator.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Escape: The Play Room | 31477 | [31477-virtual-escape-the-play-room.json](./31477-virtual-escape-the-play-room.json) |
 | Virtual Mother Game: Family Mom Simulator | 95738 | [95738-virtual-mother-game-family-mom-simulator.json](./95738-virtual-mother-game-family-mom-simulator.json) |
 | Virtual Rides 3 | 31666 | [31666-virtual-rides-3.json](./31666-virtual-rides-3.json) |
+| Virtual Sex | 348060 | [348060-virtual-sex.json](./348060-virtual-sex.json) |
 | Virtual Tank | 355925 | [355925-virtual-tank.json](./355925-virtual-tank.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
 | Viscera Cleanup Detail | 6009 | [6009-viscera-cleanup-detail.json](./6009-viscera-cleanup-detail.json) |
