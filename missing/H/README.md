@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardspace: Shipbreaker | 130216 | [130216-hardspace-shipbreaker.json](./130216-hardspace-shipbreaker.json) |
 | Hardtrace | 393348 | [393348-hardtrace.json](./393348-hardtrace.json) |
 | Harem of Ankhutep | 368873 | [368873-harem-of-ankhutep.json](./368873-harem-of-ankhutep.json) |
+| Harem of Three Thousand | 351435 | [351435-harem-of-three-thousand.json](./351435-harem-of-three-thousand.json) |
 | Harmonia | 24416 | [24416-harmonia.json](./24416-harmonia.json) |
 | Harmonie | 414225 | [414225-harmonie.json](./414225-harmonie.json) |
 | Harmony | 364887 | [364887-harmony.json](./364887-harmony.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - No Aha At Full Moon | 388573 | [388573-honkai-star-rail-no-aha-at-full-moon.json](./388573-honkai-star-rail-no-aha-at-full-moon.json) |
 | Honto ni Atta! Noroi no Choujou Genshou Chousa-sha | 371712 | [371712-honto-ni-atta-noroi-no-choujou-genshou-chousa-sha.json](./371712-honto-ni-atta-noroi-no-choujou-genshou-chousa-sha.json) |
 | Hood Bound | 401400 | [401400-hood-bound.json](./401400-hood-bound.json) |
+| Hookah Simulator | 351481 | [351481-hookah-simulator.json](./351481-hookah-simulator.json) |
 | Hooligan Vasja: Christmas | 44233 | [44233-hooligan-vasja-christmas.json](./44233-hooligan-vasja-christmas.json) |
 | Hopzi | 372851 | [372851-hopzi.json](./372851-hopzi.json) |
 | Horde of Distraction | 390407 | [390407-horde-of-distraction.json](./390407-horde-of-distraction.json) |
@@ -329,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyouhon Hako de Uka wo Matsu | 393337 | [393337-hyouhon-hako-de-uka-wo-matsu.json](./393337-hyouhon-hako-de-uka-wo-matsu.json) |
 | Hype: The Time Quest | 43559 | [43559-hype-the-time-quest.json](./43559-hype-the-time-quest.json) |
 | Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
+| Hyper Paddle | 351477 | [351477-hyper-paddle.json](./351477-hyper-paddle.json) |
 | Hyper Rollergirl | 395398 | [395398-hyper-rollergirl.json](./395398-hyper-rollergirl.json) |
 | Hyperdevotion Noire: Goddess Black Heart | 9871 | [9871-hyperdevotion-noire-goddess-black-heart.json](./9871-hyperdevotion-noire-goddess-black-heart.json) |
 | Hyperlight EX | 47631 | [47631-hyperlight-ex.json](./47631-hyperlight-ex.json) |
