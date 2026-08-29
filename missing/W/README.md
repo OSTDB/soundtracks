@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pulse | 1543 | [1543-wipeout-pulse.json](./1543-wipeout-pulse.json) |
 | WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
 | Wiseman: No More Breakups | 410752 | [410752-wiseman-no-more-breakups.json](./410752-wiseman-no-more-breakups.json) |
+| Wisp Gunner | 348617 | [348617-wisp-gunner.json](./348617-wisp-gunner.json) |
 | Witch Hunt | 404137 | [404137-witch-hunt.json](./404137-witch-hunt.json) |
 | Witch Strandings | 201428 | [201428-witch-strandings.json](./201428-witch-strandings.json) |
 | Witch Switched | 394049 | [394049-witch-switched.json](./394049-witch-switched.json) |
