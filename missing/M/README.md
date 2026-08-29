@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cozy Room: Lo-Fi - Ambient Pack | 397531 | [397531-mini-cozy-room-lo-fi-ambient-pack.json](./397531-mini-cozy-room-lo-fi-ambient-pack.json) |
 | Mini Cozy Room: Lo-Fi - Hairstyle Pack | 407208 | [407208-mini-cozy-room-lo-fi-hairstyle-pack.json](./407208-mini-cozy-room-lo-fi-hairstyle-pack.json) |
 | Mini Monuments | 412850 | [412850-mini-monuments.json](./412850-mini-monuments.json) |
+| Mini Wheels Racers: Turbo Toy Playground | 344176 | [344176-mini-wheels-racers-turbo-toy-playground.json](./344176-mini-wheels-racers-turbo-toy-playground.json) |
 | Minigame Mayhem | 353691 | [353691-minigame-mayhem.json](./353691-minigame-mayhem.json) |
 | Minigames Master | 389277 | [389277-minigames-master.json](./389277-minigames-master.json) |
 | Minigolf Family Party | 394714 | [394714-minigolf-family-party.json](./394714-minigolf-family-party.json) |
