@@ -321,7 +321,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocky & Rocky | 1534 | [1534-pocky-and-rocky.json](./1534-pocky-and-rocky.json) |
 | Pocky & Rocky 2 | 1536 | [1536-pocky-and-rocky-2.json](./1536-pocky-and-rocky-2.json) |
 | Poison of the Five Crevices | 391515 | [391515-poison-of-the-five-crevices.json](./391515-poison-of-the-five-crevices.json) |
+| Pokémon Battle e: 08-A001 - Cooltrainer Devin | 355410 | [355410-pokemon-battle-e-08-a001-cooltrainer-devin.json](./355410-pokemon-battle-e-08-a001-cooltrainer-devin.json) |
+| Pokémon Battle e: 08-A002 - Ninja Boy Goro | 355411 | [355411-pokemon-battle-e-08-a002-ninja-boy-goro.json](./355411-pokemon-battle-e-08-a002-ninja-boy-goro.json) |
+| Pokémon Battle e: 08-A003 - Tuber Sonya | 355412 | [355412-pokemon-battle-e-08-a003-tuber-sonya.json](./355412-pokemon-battle-e-08-a003-tuber-sonya.json) |
+| Pokémon Battle e: 08-A004 - Gentleman Antonio | 355413 | [355413-pokemon-battle-e-08-a004-gentleman-antonio.json](./355413-pokemon-battle-e-08-a004-gentleman-antonio.json) |
+| Pokémon Battle e: 08-A005 - Pokéfan Alana | 355415 | [355415-pokemon-battle-e-08-a005-pokefan-alana.json](./355415-pokemon-battle-e-08-a005-pokefan-alana.json) |
+| Pokémon Battle e: 08-A006 - Picnicker Renee | 355416 | [355416-pokemon-battle-e-08-a006-picnicker-renee.json](./355416-pokemon-battle-e-08-a006-picnicker-renee.json) |
+| Pokémon Battle e: 08-A007 - Lady Sophie | 355417 | [355417-pokemon-battle-e-08-a007-lady-sophie.json](./355417-pokemon-battle-e-08-a007-lady-sophie.json) |
+| Pokémon Battle e: 08-A008 - Beauty Fay | 355418 | [355418-pokemon-battle-e-08-a008-beauty-fay.json](./355418-pokemon-battle-e-08-a008-beauty-fay.json) |
 | Pokémon Channel | 2643 | [2643-pokemon-channel.json](./2643-pokemon-channel.json) |
+| Pokémon Dreamstone Mysteries | 355409 | [355409-pokemon-dreamstone-mysteries.json](./355409-pokemon-dreamstone-mysteries.json) |
 | Pokémon Legends: Z-A | 288327 | [288327-pokemon-legends-z-a.json](./288327-pokemon-legends-z-a.json) |
 | Pokémon Quetzal | 357054 | [357054-pokemon-quetzal.json](./357054-pokemon-quetzal.json) |
 | Pokémon Relict | 382011 | [382011-pokemon-relict.json](./382011-pokemon-relict.json) |
@@ -429,6 +438,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Problem Solved | 392018 | [392018-problem-solved.json](./392018-problem-solved.json) |
 | Production Line | 29501 | [29501-production-line.json](./29501-production-line.json) |
 | Programming Simulator | 369404 | [369404-programming-simulator.json](./369404-programming-simulator.json) |
+| Progress PET: Battle Chip - 577: Senshahou 3 | 355366 | [355366-progress-pet-battle-chip-577-senshahou-3.json](./355366-progress-pet-battle-chip-577-senshahou-3.json) |
+| Progress PET: Battle Chip - 578: Red Fruit 1 | 355367 | [355367-progress-pet-battle-chip-578-red-fruit-1.json](./355367-progress-pet-battle-chip-578-red-fruit-1.json) |
+| Progress PET: Battle Chip - 579: Red Fruit 2 | 355368 | [355368-progress-pet-battle-chip-579-red-fruit-2.json](./355368-progress-pet-battle-chip-579-red-fruit-2.json) |
+| Progress PET: Battle Chip - 580: Red Fruit 3 | 355369 | [355369-progress-pet-battle-chip-580-red-fruit-3.json](./355369-progress-pet-battle-chip-580-red-fruit-3.json) |
+| Progress PET: Battle Chip - 581: Skull Chain 1 | 355370 | [355370-progress-pet-battle-chip-581-skull-chain-1.json](./355370-progress-pet-battle-chip-581-skull-chain-1.json) |
+| Progress PET: Battle Chip - 582: Skull Chain 2 | 355371 | [355371-progress-pet-battle-chip-582-skull-chain-2.json](./355371-progress-pet-battle-chip-582-skull-chain-2.json) |
+| Progress PET: Battle Chip - 583: Skull Chain 3 | 355372 | [355372-progress-pet-battle-chip-583-skull-chain-3.json](./355372-progress-pet-battle-chip-583-skull-chain-3.json) |
+| Progress PET: Battle Chip - 584: Drill Arm 1 | 355373 | [355373-progress-pet-battle-chip-584-drill-arm-1.json](./355373-progress-pet-battle-chip-584-drill-arm-1.json) |
+| Progress PET: Battle Chip - 585: Drill Arm 2 | 355374 | [355374-progress-pet-battle-chip-585-drill-arm-2.json](./355374-progress-pet-battle-chip-585-drill-arm-2.json) |
+| Progress PET: Battle Chip - 586: Drill Arm 3 | 355375 | [355375-progress-pet-battle-chip-586-drill-arm-3.json](./355375-progress-pet-battle-chip-586-drill-arm-3.json) |
+| Progress PET: Battle Chip - 587: Count Bomb 1 | 355376 | [355376-progress-pet-battle-chip-587-count-bomb-1.json](./355376-progress-pet-battle-chip-587-count-bomb-1.json) |
+| Progress PET: Battle Chip - 588: Count Bomb 2 | 355377 | [355377-progress-pet-battle-chip-588-count-bomb-2.json](./355377-progress-pet-battle-chip-588-count-bomb-2.json) |
+| Progress PET: Battle Chip - 589: Count Bomb 3 | 355378 | [355378-progress-pet-battle-chip-589-count-bomb-3.json](./355378-progress-pet-battle-chip-589-count-bomb-3.json) |
+| Progress PET: Battle Chip - 590: Inazuma King 1 | 355379 | [355379-progress-pet-battle-chip-590-inazuma-king-1.json](./355379-progress-pet-battle-chip-590-inazuma-king-1.json) |
+| Progress PET: Battle Chip - 591: Inazuma King 2 | 355380 | [355380-progress-pet-battle-chip-591-inazuma-king-2.json](./355380-progress-pet-battle-chip-591-inazuma-king-2.json) |
+| Progress PET: Battle Chip - 592: Inazuma King 3 | 355381 | [355381-progress-pet-battle-chip-592-inazuma-king-3.json](./355381-progress-pet-battle-chip-592-inazuma-king-3.json) |
+| Progress PET: Battle Chip - 593: Bamboo Lance | 355382 | [355382-progress-pet-battle-chip-593-bamboo-lance.json](./355382-progress-pet-battle-chip-593-bamboo-lance.json) |
+| Progress PET: Battle Chip - 594: Yo-Yo | 355383 | [355383-progress-pet-battle-chip-594-yo-yo.json](./355383-progress-pet-battle-chip-594-yo-yo.json) |
+| Progress PET: Battle Chip - 595: Toppuu | 355384 | [355384-progress-pet-battle-chip-595-toppuu.json](./355384-progress-pet-battle-chip-595-toppuu.json) |
+| Progress PET: Battle Chip - 596: Suikomi | 355385 | [355385-progress-pet-battle-chip-596-suikomi.json](./355385-progress-pet-battle-chip-596-suikomi.json) |
+| Progress PET: Navi Chip - 842: Rockman | 355386 | [355386-progress-pet-navi-chip-842-rockman.json](./355386-progress-pet-navi-chip-842-rockman.json) |
+| Progress PET: Navi Chip - 846: Searchman | 355387 | [355387-progress-pet-navi-chip-846-searchman.json](./355387-progress-pet-navi-chip-846-searchman.json) |
+| Progress PET: Navi Chip - 849: Blues | 355388 | [355388-progress-pet-navi-chip-849-blues.json](./355388-progress-pet-navi-chip-849-blues.json) |
+| Progress PET: Navi Chip - 850: Numberman | 355389 | [355389-progress-pet-navi-chip-850-numberman.json](./355389-progress-pet-navi-chip-850-numberman.json) |
+| Progress PET: Navi Chip - 855: Shadowman | 355390 | [355390-progress-pet-navi-chip-855-shadowman.json](./355390-progress-pet-navi-chip-855-shadowman.json) |
+| Progress PET: Navi Chip - 856: Napalmman | 355392 | [355392-progress-pet-navi-chip-856-napalmman.json](./355392-progress-pet-navi-chip-856-napalmman.json) |
+| Progress PET: Navi Chip - 857: Knightman | 355393 | [355393-progress-pet-navi-chip-857-knightman.json](./355393-progress-pet-navi-chip-857-knightman.json) |
+| Progress PET: Navi Chip - 858: Toadman | 355394 | [355394-progress-pet-navi-chip-858-toadman.json](./355394-progress-pet-navi-chip-858-toadman.json) |
+| Progress PET: Navi Chip - 859: Magnetman | 355395 | [355395-progress-pet-navi-chip-859-magnetman.json](./355395-progress-pet-navi-chip-859-magnetman.json) |
+| Progress PET: Navi Chip - 860: Gyroman | 355396 | [355396-progress-pet-navi-chip-860-gyroman.json](./355396-progress-pet-navi-chip-860-gyroman.json) |
+| Progress PET: Navi Chip - 861: Colonel | 355398 | [355398-progress-pet-navi-chip-861-colonel.json](./355398-progress-pet-navi-chip-861-colonel.json) |
+| Progress PET: Navi Chip - 862: Medi | 355399 | [355399-progress-pet-navi-chip-862-medi.json](./355399-progress-pet-navi-chip-862-medi.json) |
+| Progress PET: Navi Chip - 863: Tomahawkman | 355400 | [355400-progress-pet-navi-chip-863-tomahawkman.json](./355400-progress-pet-navi-chip-863-tomahawkman.json) |
 | Project 0.1 | 371647 | [371647-project-0-1.json](./371647-project-0-1.json) |
 | Project Agent | 362631 | [362631-project-agent.json](./362631-project-agent.json) |
 | Project Cappuccino | 126413 | [126413-project-cappuccino.json](./126413-project-cappuccino.json) |
