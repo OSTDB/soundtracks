@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterworld | 414990 | [414990-afterworld.json](./414990-afterworld.json) |
 | Agatha Christie: Murder on the Orient Express | 250890 | [250890-agatha-christie-murder-on-the-orient-express.json](./250890-agatha-christie-murder-on-the-orient-express.json) |
 | Agatha Christie's Deadly Voyages - 2 in 1 | 409472 | [409472-agatha-christies-deadly-voyages-2-in-1.json](./409472-agatha-christies-deadly-voyages-2-in-1.json) |
+| Age of Druids | 357089 | [357089-age-of-druids.json](./357089-age-of-druids.json) |
 | Age of Empires III: The Asian Dynasties | 8220 | [8220-age-of-empires-iii-the-asian-dynasties.json](./8220-age-of-empires-iii-the-asian-dynasties.json) |
 | Age of Gladiators II: Rome | 102245 | [102245-age-of-gladiators-ii-rome.json](./102245-age-of-gladiators-ii-rome.json) |
 | Age of History III | 283881 | [283881-age-of-history-iii.json](./283881-age-of-history-iii.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Autumn Dream | 31459 | [31459-autumn-dream.json](./31459-autumn-dream.json) |
 | AV Company | 368327 | [368327-av-company.json](./368327-av-company.json) |
+| Avali Race Mod | 357095 | [357095-avali-race-mod.json](./357095-avali-race-mod.json) |
 | Avalon Legends Solitaire 3 | 102318 | [102318-avalon-legends-solitaire-3.json](./102318-avalon-legends-solitaire-3.json) |
 | Avatair | 358708 | [358708-avatair.json](./358708-avatair.json) |
 | Avemary Rocket: Captain Patchwork | 379244 | [379244-avemary-rocket-captain-patchwork.json](./379244-avemary-rocket-captain-patchwork.json) |
