@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Lightspeed Rescue | 3290 | [3290-power-rangers-lightspeed-rescue.json](./3290-power-rangers-lightspeed-rescue.json) |
 | Power Stone | 4355 | [4355-power-stone.json](./4355-power-stone.json) |
 | Power-Up | 17617 | [17617-power-up.json](./17617-power-up.json) |
+| Powerfall | 347513 | [347513-powerfall.json](./347513-powerfall.json) |
 | Powerfuel | 392633 | [392633-powerfuel.json](./392633-powerfuel.json) |
 | PowerMonger | 5423 | [5423-powermonger.json](./5423-powermonger.json) |
 | PowerWash Simulator: Tomb Raider Special Pack | 234250 | [234250-powerwash-simulator-tomb-raider-special-pack.json](./234250-powerwash-simulator-tomb-raider-special-pack.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Hop | 368875 | [368875-pumpkin-hop.json](./368875-pumpkin-hop.json) |
 | Punch Monkey Revenge | 405379 | [405379-punch-monkey-revenge.json](./405379-punch-monkey-revenge.json) |
 | Puppeteer | 7391 | [7391-puppeteer.json](./7391-puppeteer.json) |
+| PuppetShow: Lost Town | 347531 | [347531-puppetshow-lost-town.json](./347531-puppetshow-lost-town.json) |
 | Puppy Fetch! | 387212 | [387212-puppy-fetch.json](./387212-puppy-fetch.json) |
 | Purchase Express | 399483 | [399483-purchase-express.json](./399483-purchase-express.json) |
 | Pure | 7137 | [7137-pure.json](./7137-pure.json) |
