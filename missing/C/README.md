@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Explain It? World History Test | 398194 | [398194-can-you-explain-it-world-history-test.json](./398194-can-you-explain-it-world-history-test.json) |
 | Can You find it? | 110110 | [110110-can-you-find-it.json](./110110-can-you-find-it.json) |
 | Can You Make the Cut? Worldwide Common Sense Check | 407266 | [407266-can-you-make-the-cut-worldwide-common-sense-check.json](./407266-can-you-make-the-cut-worldwide-common-sense-check.json) |
+| Can't Stop Rory | 347507 | [347507-cant-stop-rory.json](./347507-cant-stop-rory.json) |
 | Candivity: Pirate Edition | 350855 | [350855-candivity-pirate-edition.json](./350855-candivity-pirate-edition.json) |
 | Candy Crush Crushable | 387878 | [387878-candy-crush-crushable.json](./387878-candy-crush-crushable.json) |
 | Candystand Miniature Golf | 360393 | [360393-candystand-miniature-golf.json](./360393-candystand-miniature-golf.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cate West: The Vanishing Files | 4752 | [4752-cate-west-the-vanishing-files.json](./4752-cate-west-the-vanishing-files.json) |
 | Catjong 4: Secrets of the Purramids | 397544 | [397544-catjong-4-secrets-of-the-purramids.json](./397544-catjong-4-secrets-of-the-purramids.json) |
 | Catjong 6: Pawztec Temple | 411490 | [411490-catjong-6-pawztec-temple.json](./411490-catjong-6-pawztec-temple.json) |
+| Cats & Pandas | 347546 | [347546-cats-and-pandas.json](./347546-cats-and-pandas.json) |
 | Cats Hidden in Bali | 244493 | [244493-cats-hidden-in-bali.json](./244493-cats-hidden-in-bali.json) |
 | Cats Organized Neatly 2 | 382652 | [382652-cats-organized-neatly-2.json](./382652-cats-organized-neatly-2.json) |
 | Cats vs. Rats | 372310 | [372310-cats-vs-rats.json](./372310-cats-vs-rats.json) |
@@ -332,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 7 | 409486 | [409486-coloring-pixels-collection-7.json](./409486-coloring-pixels-collection-7.json) |
 | Coloring Pixels: Halloween 7 | 375022 | [375022-coloring-pixels-halloween-7.json](./375022-coloring-pixels-halloween-7.json) |
 | Coloring Pixels: Jigsaw Pack | 407230 | [407230-coloring-pixels-jigsaw-pack.json](./407230-coloring-pixels-jigsaw-pack.json) |
+| Coloring Pixels: Pride Pack | 347550 | [347550-coloring-pixels-pride-pack.json](./347550-coloring-pixels-pride-pack.json) |
 | Colors/Forest | 393343 | [393343-colors-forest.json](./393343-colors-forest.json) |
 | Colorzzle | 93739 | [93739-colorzzle.json](./93739-colorzzle.json) |
 | Colossal Cave Adventure | 25115 | [25115-colossal-cave-adventure.json](./25115-colossal-cave-adventure.json) |
@@ -407,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbaci: A Cozy Cinematic Horror | 349147 | [349147-corbaci-a-cozy-cinematic-horror.json](./349147-corbaci-a-cozy-cinematic-horror.json) |
 | Core of War | 386590 | [386590-core-of-war.json](./386590-core-of-war.json) |
 | Corebound | 357082 | [357082-corebound.json](./357082-corebound.json) |
+| Corebound | 347538 | [347538-corebound.json](./347538-corebound.json) |
 | CoreBreaker: Desktop Swarm | 404152 | [404152-corebreaker-desktop-swarm.json](./404152-corebreaker-desktop-swarm.json) |
 | Corinne Cross's Dead & Breakfast | 24522 | [24522-corinne-crosss-dead-and-breakfast.json](./24522-corinne-crosss-dead-and-breakfast.json) |
 | Corn Quest | 382648 | [382648-corn-quest.json](./382648-corn-quest.json) |
@@ -537,8 +541,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Castle | 22330 | [22330-crush-the-castle.json](./22330-crush-the-castle.json) |
 | Crushing Force | 392627 | [392627-crushing-force.json](./392627-crushing-force.json) |
 | Crypt Custodian | 252362 | [252362-crypt-custodian.json](./252362-crypt-custodian.json) |
+| Cryptid Keeper | 347505 | [347505-cryptid-keeper.json](./347505-cryptid-keeper.json) |
+| CryptidCam | 347509 | [347509-cryptidcam.json](./347509-cryptidcam.json) |
 | Crypto Crisis | 110091 | [110091-crypto-crisis.json](./110091-crypto-crisis.json) |
 | Crysalis | 386029 | [386029-crysalis.json](./386029-crysalis.json) |
+| Crystal Keeper | 347504 | [347504-crystal-keeper.json](./347504-crystal-keeper.json) |
 | Crystals of Time | 10120 | [10120-crystals-of-time.json](./10120-crystals-of-time.json) |
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | CSD 1/2 Forever Bundle | 358675 | [358675-csd-1-2-forever-bundle.json](./358675-csd-1-2-forever-bundle.json) |
