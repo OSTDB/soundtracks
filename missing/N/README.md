@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanostray | 21436 | [21436-nanostray.json](./21436-nanostray.json) |
 | Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
 | Naruto Online | 22797 | [22797-naruto-online.json](./22797-naruto-online.json) |
+| Naruto Shippuden: Ultimate Ninja 6 | 356454 | [356454-naruto-shippuden-ultimate-ninja-6.json](./356454-naruto-shippuden-ultimate-ninja-6.json) |
 | Naruto: Ninja Council | 24066 | [24066-naruto-ninja-council.json](./24066-naruto-ninja-council.json) |
 | NASCAR 25 | 362067 | [362067-nascar-25.json](./362067-nascar-25.json) |
 | NASCAR Rush | 95127 | [95127-nascar-rush.json](./95127-nascar-rush.json) |
