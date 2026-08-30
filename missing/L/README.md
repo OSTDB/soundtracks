@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
+| Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
