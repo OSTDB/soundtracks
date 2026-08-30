@@ -6,6 +6,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
+| Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
