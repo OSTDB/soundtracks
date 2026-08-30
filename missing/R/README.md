@@ -73,8 +73,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
+| Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
+| Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
@@ -160,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
+| Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
+| Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
@@ -193,15 +197,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
+| Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
+| Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
+| Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
@@ -211,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
