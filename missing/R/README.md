@@ -13,11 +13,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
+| Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
+| Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
+| Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
@@ -25,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
+| Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
@@ -45,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
+| Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
@@ -54,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
+| Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
@@ -65,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
+| Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
@@ -76,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
+| Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
@@ -97,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
+| Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
@@ -108,15 +117,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
+| Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
+| Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
+| Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
@@ -131,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
+| Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
@@ -139,15 +152,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
+| Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
+| Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
+| Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
