@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
+| The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
+| The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
@@ -152,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
+| The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
@@ -242,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
+| The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Ninji Saga Part 1: Birth of a Legend | 275328 | [275328-the-ninji-saga-part-1-birth-of-a-legend.json](./275328-the-ninji-saga-part-1-birth-of-a-legend.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
@@ -333,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
+| There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
@@ -455,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 6 | 315264 | [315264-treasure-of-big-totem-6.json](./315264-treasure-of-big-totem-6.json) |
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
+| Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
