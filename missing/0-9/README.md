@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 in 1 Game Collection | 324693 | [324693-100-in-1-game-collection.json](./324693-100-in-1-game-collection.json) |
 | 100 Indonesia Cats | 315294 | [315294-100-indonesia-cats.json](./315294-100-indonesia-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
+| 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
+| 3D Puzzle: World War II | 278174 | [278174-3d-puzzle-world-war-ii.json](./278174-3d-puzzle-world-war-ii.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
