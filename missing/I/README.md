@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
+| I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
+| Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
