@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
+| NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
+| Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
