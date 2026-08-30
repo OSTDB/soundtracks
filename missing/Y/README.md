@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
+| Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
@@ -21,6 +22,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
+| Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
+| Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
