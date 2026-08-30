@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
+| Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
+| Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
