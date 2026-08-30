@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
+| Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
+| The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
@@ -309,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
+| This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
@@ -316,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
+| Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
@@ -383,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
+| Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
