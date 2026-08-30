@@ -31,6 +31,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
+| War | 255331 | [255331-war.json](./255331-war.json) |
+| War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
+| War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
@@ -145,10 +148,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
+| Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
+| Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
