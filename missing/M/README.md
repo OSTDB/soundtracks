@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
+| Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
+| Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
