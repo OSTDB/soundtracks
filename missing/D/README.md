@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
+| Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
@@ -335,6 +336,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
+| DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
+| DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
