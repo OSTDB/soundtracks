@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
+| Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
 | Minecraft: Battle and Beasts Skin Pack | 322958 | [322958-minecraft-battle-and-beasts-skin-pack.json](./322958-minecraft-battle-and-beasts-skin-pack.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
+| More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
