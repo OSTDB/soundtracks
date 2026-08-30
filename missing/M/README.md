@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
+| Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
+| Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
@@ -136,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
+| Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
@@ -212,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
+| Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
@@ -278,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
+| Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
