@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
+| Scars of Mars | 267687 | [267687-scars-of-mars.json](./267687-scars-of-mars.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Math Teacher Boss Pranks | 303260 | [303260-scary-math-teacher-boss-pranks.json](./303260-scary-math-teacher-boss-pranks.json) |
 | Scary Mine VR | 278695 | [278695-scary-mine-vr.json](./278695-scary-mine-vr.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
+| Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
@@ -416,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
+| SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
@@ -588,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
+| Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
@@ -645,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
+| Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
@@ -653,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
+| Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
