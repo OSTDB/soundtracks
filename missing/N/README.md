@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
+| New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
