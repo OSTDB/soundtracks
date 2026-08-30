@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
+| Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
+| Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
