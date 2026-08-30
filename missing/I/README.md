@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
+| I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
+| IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
