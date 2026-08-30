@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
+| Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
@@ -112,6 +113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
+| Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
+| Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
@@ -139,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
+| Pharaoh's Tomb | 262092 | [262092-pharaohs-tomb.json](./262092-pharaohs-tomb.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
@@ -204,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
+| Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
@@ -358,10 +363,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
+| Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
+| Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
