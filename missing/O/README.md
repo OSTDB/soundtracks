@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
+| Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
@@ -18,10 +19,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Ash and Steel | 322389 | [322389-of-ash-and-steel.json](./322389-of-ash-and-steel.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
+| Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
+| Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
+| OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
+| Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
@@ -31,13 +36,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
+| Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
+| OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
@@ -48,13 +56,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
+| OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
+| Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
+| Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
+| Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
+| Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
+| Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
@@ -71,8 +85,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
+| Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
@@ -92,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
+| Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
