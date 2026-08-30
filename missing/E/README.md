@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
+| Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
+| Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
