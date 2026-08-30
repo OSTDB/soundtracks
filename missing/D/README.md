@@ -6,6 +6,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
+| D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
@@ -271,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
+| Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
