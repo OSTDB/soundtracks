@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
+| Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
