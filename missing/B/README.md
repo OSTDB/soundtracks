@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
+| Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
+| Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
