@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
+| Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
