@@ -23,10 +23,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
+| EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
+| Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
@@ -135,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
+| Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
