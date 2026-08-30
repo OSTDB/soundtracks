@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
+| Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
