@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
+| Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
+| May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
@@ -251,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
+| Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
