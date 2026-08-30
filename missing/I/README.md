@@ -44,6 +44,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
+| IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
+| IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
