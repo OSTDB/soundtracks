@@ -233,6 +233,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
+| Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
+| Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
+| Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
