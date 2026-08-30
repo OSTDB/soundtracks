@@ -9,45 +9,69 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
+| Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
+| Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
+| TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
+| Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
+| Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
+| TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
+| Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
+| Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
+| Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
+| Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
+| Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
+| Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
+| Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
+| Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
+| Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
+| Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
+| That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
+| That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
+| That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
+| The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
+| The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -56,54 +80,85 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
+| The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
+| The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
+| The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
+| The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
+| The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
+| The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
+| The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
+| The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
+| The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
+| The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
+| The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
+| The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
+| The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
+| The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
+| The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
+| The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
+| The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
+| The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
+| The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
+| The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
+| The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
+| The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
+| The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
+| The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
+| The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
+| The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
+| The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
+| The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
@@ -120,16 +175,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Weapon Skin Variants | 308570 | [308570-the-texas-chain-saw-massacre-weapon-skin-variants.json](./308570-the-texas-chain-saw-massacre-weapon-skin-variants.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
+| The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
+| The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
+| The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
+| The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
+| There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
+| There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
+| Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
+| Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
+| Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
+| Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
+| Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
@@ -139,14 +205,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
+| Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
+| Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
+| Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
+| Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
+| Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
@@ -170,29 +241,51 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
+| TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
+| Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
+| Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
+| Treasure of Big Totem 3 | 315260 | [315260-treasure-of-big-totem-3.json](./315260-treasure-of-big-totem-3.json) |
+| Treasure of Big Totem 4 | 315261 | [315261-treasure-of-big-totem-4.json](./315261-treasure-of-big-totem-4.json) |
+| Treasure of Big Totem 5 | 315262 | [315262-treasure-of-big-totem-5.json](./315262-treasure-of-big-totem-5.json) |
+| Treasure of Big Totem 6 | 315264 | [315264-treasure-of-big-totem-6.json](./315264-treasure-of-big-totem-6.json) |
+| Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
+| Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
+| Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
+| Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
+| TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
+| TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
+| Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
+| Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
+| Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
+| Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
+| Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
 | Turnabout Revivals | 303253 | [303253-turnabout-revivals.json](./303253-turnabout-revivals.json) |
 | Turnabout Revolution | 308531 | [308531-turnabout-revolution.json](./308531-turnabout-revolution.json) |
+| Turnabout Steampunk | 318775 | [318775-turnabout-steampunk.json](./318775-turnabout-steampunk.json) |
 | Turnabout Tomorrow | 303255 | [303255-turnabout-tomorrow.json](./303255-turnabout-tomorrow.json) |
+| Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
+| Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
+| Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
