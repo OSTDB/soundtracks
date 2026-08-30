@@ -7,7 +7,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
+| C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
+| Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
@@ -20,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
+| Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
@@ -105,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
+| Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
@@ -208,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
+| Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
@@ -218,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
+| Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
@@ -226,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
+| Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -241,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
+| Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
@@ -251,9 +259,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
+| Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
+| Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
@@ -290,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
+| Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
@@ -306,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
+| Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
