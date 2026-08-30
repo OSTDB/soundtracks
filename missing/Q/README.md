@@ -7,6 +7,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
+| Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
+| Quake | 332258 | [332258-quake.json](./332258-quake.json) |
+| Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
