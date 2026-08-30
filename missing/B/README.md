@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
+| Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
