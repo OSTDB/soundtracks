@@ -194,11 +194,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
+| SingStar Grandes Exitos | 268750 | [268750-singstar-grandes-exitos.json](./268750-singstar-grandes-exitos.json) |
+| SingStar Intro | 268745 | [268745-singstar-intro.json](./268745-singstar-intro.json) |
+| SingStar MegaHits | 268748 | [268748-singstar-megahits.json](./268748-singstar-megahits.json) |
+| SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
+| SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
+| SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
+| SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
+| SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
+| Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
@@ -433,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
+| Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
