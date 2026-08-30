@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
+| Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
