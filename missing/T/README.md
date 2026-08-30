@@ -41,6 +41,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
+| Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
+| Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
@@ -77,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
+| Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
@@ -160,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
@@ -191,6 +195,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
+| The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
+| The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
+| The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
@@ -241,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
+| The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
@@ -312,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
+| The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
@@ -335,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
+| Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
