@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
+| G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
+| Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
