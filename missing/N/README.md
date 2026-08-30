@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
+| NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -58,12 +59,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
+| Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
+| Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
@@ -106,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
+| Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
