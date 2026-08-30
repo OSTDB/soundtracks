@@ -8,7 +8,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
+| I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
+| I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
+| I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
@@ -23,13 +26,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
+| Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
+| Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
+| Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
+| Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
+| Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
+| Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
+| Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
+| In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
+| In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
+| Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
+| Indiana Jones y la estatua sagrada | 322931 | [322931-indiana-jones-y-la-estatua-sagrada.json](./322931-indiana-jones-y-la-estatua-sagrada.json) |
+| Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
@@ -37,7 +52,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
+| Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
+| Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
@@ -62,11 +79,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
+| Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
+| Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
+| Island Crisis | 331109 | [331109-island-crisis.json](./331109-island-crisis.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
+| ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
+| Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
+| It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
+| It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
