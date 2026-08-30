@@ -171,11 +171,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
+| Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
+| Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
