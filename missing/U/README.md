@@ -11,19 +11,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
+| Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
+| Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
+| Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
+| Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
+| UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
+| UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
+| Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
+| Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
