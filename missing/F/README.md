@@ -220,6 +220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
+| Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
+| Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
