@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
+| Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
