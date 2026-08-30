@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
+| Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
+| Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
@@ -169,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
@@ -209,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From One World To Another | 335087 | [335087-from-one-world-to-another.json](./335087-from-one-world-to-another.json) |
+| From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
