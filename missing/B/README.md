@@ -124,6 +124,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
+| Bella | 260939 | [260939-bella.json](./260939-bella.json) |
+| Bella II | 260938 | [260938-bella-ii.json](./260938-bella-ii.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
@@ -233,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
+| Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
