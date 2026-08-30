@@ -60,8 +60,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
+| Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
+| Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
+| Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
