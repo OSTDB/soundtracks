@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
+| Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
+| Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
