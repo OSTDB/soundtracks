@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
+| JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
+| Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
