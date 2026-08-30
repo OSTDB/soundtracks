@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
+| Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
@@ -151,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
+| Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
+| Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
@@ -285,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
+| Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
