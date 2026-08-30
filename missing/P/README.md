@@ -58,11 +58,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
+| Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Parking Attendant Simulator | 326379 | [326379-parking-attendant-simulator.json](./326379-parking-attendant-simulator.json) |
 | Parking Jam: Complete Edition | 315855 | [315855-parking-jam-complete-edition.json](./315855-parking-jam-complete-edition.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
+| Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
@@ -94,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
+| Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
@@ -107,6 +110,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
+| Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
+| Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
@@ -318,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
+| Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
