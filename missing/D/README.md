@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
+| Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
@@ -322,7 +323,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
+| Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
+| DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
