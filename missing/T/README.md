@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
+| Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -62,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
+| Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
@@ -219,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
+| The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
@@ -361,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
+| The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
@@ -454,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
+| The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
@@ -541,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
+| Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
