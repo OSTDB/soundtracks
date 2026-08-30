@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
+| A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
 | Automobilista 2: Historical Track Pack Pt2 | 278172 | [278172-automobilista-2-historical-track-pack-pt2.json](./278172-automobilista-2-historical-track-pack-pt2.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
+| Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
