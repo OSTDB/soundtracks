@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
+| Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
+| Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
@@ -265,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
+| Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
