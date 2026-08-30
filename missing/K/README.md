@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
+| Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
@@ -98,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
+| Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
@@ -113,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
+| Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
