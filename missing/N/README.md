@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
+| Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
