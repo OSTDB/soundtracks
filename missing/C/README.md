@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
+| Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
@@ -317,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
+| Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
@@ -358,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
+| Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
@@ -388,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
+| Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
