@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
+| Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
