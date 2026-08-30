@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
+| Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
@@ -32,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
+| Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
