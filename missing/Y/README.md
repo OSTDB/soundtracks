@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
+| Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
