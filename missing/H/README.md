@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
+| Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
@@ -111,11 +112,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
+| High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
+| Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
