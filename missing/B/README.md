@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
+| Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
+| Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
