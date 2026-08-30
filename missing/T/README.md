@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
+| The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
@@ -211,6 +212,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
+| The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
+| The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
+| The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
+| The Lord of the Rings Online: Minas Morgul | 275924 | [275924-the-lord-of-the-rings-online-minas-morgul.json](./275924-the-lord-of-the-rings-online-minas-morgul.json) |
+| The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
@@ -253,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
+| The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
 | The Smurfs: Colorful Stories - Director's Cut | 328823 | [328823-the-smurfs-colorful-stories-directors-cut.json](./328823-the-smurfs-colorful-stories-directors-cut.json) |
 | The Smurfs: Colorful Stories - Extended Edition | 328790 | [328790-the-smurfs-colorful-stories-extended-edition.json](./328790-the-smurfs-colorful-stories-extended-edition.json) |
@@ -263,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Platinum Edition | 328795 | [328795-the-smurfs-colorful-stories-platinum-edition.json](./328795-the-smurfs-colorful-stories-platinum-edition.json) |
 | The Smurfs: Colorful Stories - Premium Edition | 328796 | [328796-the-smurfs-colorful-stories-premium-edition.json](./328796-the-smurfs-colorful-stories-premium-edition.json) |
 | The Smurfs: Colorful Stories - Special Edition | 328797 | [328797-the-smurfs-colorful-stories-special-edition.json](./328797-the-smurfs-colorful-stories-special-edition.json) |
+| The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
@@ -282,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Sissy Wildflower Outfit | 308569 | [308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json](./308569-the-texas-chain-saw-massacre-sissy-wildflower-outfit.json) |
 | The Texas Chain Saw Massacre: Weapon Skin Variants | 308570 | [308570-the-texas-chain-saw-massacre-weapon-skin-variants.json](./308570-the-texas-chain-saw-massacre-weapon-skin-variants.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
+| The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
@@ -350,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Premium Edition | 328802 | [328802-tokyo-cooking-premium-edition.json](./328802-tokyo-cooking-premium-edition.json) |
 | Tokyo Cooking: Special Edition | 328803 | [328803-tokyo-cooking-special-edition.json](./328803-tokyo-cooking-special-edition.json) |
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
+| Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
@@ -444,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
+| Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
