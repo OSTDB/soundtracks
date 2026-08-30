@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
+| Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
