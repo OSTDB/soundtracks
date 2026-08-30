@@ -8,27 +8,43 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
+| Waifu | 338556 | [338556-waifu.json](./338556-waifu.json) |
+| Waifu Aim Trainer | 338555 | [338555-waifu-aim-trainer.json](./338555-waifu-aim-trainer.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
+| Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
+| Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
+| Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
+| Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
+| War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
+| War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
+| War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
+| War Thunder: Marder Clovis Pack | 336935 | [336935-war-thunder-marder-clovis-pack.json](./336935-war-thunder-marder-clovis-pack.json) |
+| War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
+| War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
+| Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Watermelon Game: Fruits Puzzle | 293904 | [293904-watermelon-game-fruits-puzzle.json](./293904-watermelon-game-fruits-puzzle.json) |
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -40,6 +56,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
+| Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
+| Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
+| Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
@@ -59,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
+| Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
@@ -82,17 +102,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
+| Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
+| World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
+| World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
+| WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
+| WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
 | WWII Squad Level Land Battles ssp | 295540 | [295540-wwii-squad-level-land-battles-ssp.json](./295540-wwii-squad-level-land-battles-ssp.json) |
+| Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
