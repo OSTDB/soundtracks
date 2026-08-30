@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
+| Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
@@ -101,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
+| Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
@@ -156,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
+| ISEPS Idle Particle Simulator | 256524 | [256524-iseps-idle-particle-simulator.json](./256524-iseps-idle-particle-simulator.json) |
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
