@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
+| Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
@@ -219,12 +220,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
+| Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
