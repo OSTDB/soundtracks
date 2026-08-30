@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
@@ -180,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
+| Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
@@ -251,6 +253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
+| Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
+| Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
