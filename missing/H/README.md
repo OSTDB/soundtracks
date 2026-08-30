@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
+| Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
+| Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
@@ -207,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
+| Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
