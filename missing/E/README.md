@@ -6,32 +6,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
+| Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | EarthBound Dimensions | 311281 | [311281-earthbound-dimensions.json](./311281-earthbound-dimensions.json) |
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
+| EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
+| Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
+| Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
+| Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
+| El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
@@ -40,10 +47,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
+| Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
+| Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
+| Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
+| Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
@@ -52,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
+| Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
@@ -67,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
+| Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
@@ -74,6 +87,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
+| Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
+| EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
+| Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
@@ -91,8 +107,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
+| Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
+| Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
+| Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
