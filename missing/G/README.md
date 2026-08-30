@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
+| Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
@@ -64,6 +65,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
+| Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
+| Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
@@ -153,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
+| Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
