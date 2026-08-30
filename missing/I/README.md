@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
+| Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Dusty Weapon Skin Set | 321160 | [321160-insurgency-sandstorm-dusty-weapon-skin-set.json](./321160-insurgency-sandstorm-dusty-weapon-skin-set.json) |
