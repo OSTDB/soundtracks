@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
+| Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
+| Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
