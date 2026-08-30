@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
+| Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
@@ -541,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Drag Racing: Car Simulator | 271475 | [271475-street-drag-racing-car-simulator.json](./271475-street-drag-racing-car-simulator.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
+| Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
@@ -625,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
+| Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
