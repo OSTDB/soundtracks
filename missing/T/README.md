@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
+| Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
+| Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
+| The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
@@ -165,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
+| The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
@@ -253,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
+| The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
@@ -471,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
+| To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
@@ -604,6 +610,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
+| Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
+| Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
