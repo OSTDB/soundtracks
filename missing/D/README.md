@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
+| Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
+| Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
@@ -223,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
