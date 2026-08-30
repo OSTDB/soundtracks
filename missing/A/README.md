@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
+| Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
@@ -93,6 +94,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
+| AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
+| AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
+| AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -169,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
@@ -181,12 +186,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
+| Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
+| Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
@@ -258,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
+| Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
@@ -321,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
+| Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
