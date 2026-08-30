@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
+| Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
@@ -20,15 +21,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
+| Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
+| Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
+| Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
+| RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
+| Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
+| Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
+| Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
@@ -85,11 +94,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
+| Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
+| Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
+| Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
+| Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
+| Reverse 1999: Revival! The Uluru Games | 340205 | [340205-reverse-1999-revival-the-uluru-games.json](./340205-reverse-1999-revival-the-uluru-games.json) |
+| Reverse 1999: Vereinsamt | 340223 | [340223-reverse-1999-vereinsamt.json](./340223-reverse-1999-vereinsamt.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
+| Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
@@ -131,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
+| Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
@@ -169,6 +186,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
+| RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
+| Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
