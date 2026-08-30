@@ -27,4 +27,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
+| Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
