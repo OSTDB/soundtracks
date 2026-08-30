@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
+| 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
