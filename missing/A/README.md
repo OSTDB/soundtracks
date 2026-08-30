@@ -26,10 +26,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
+| A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
+| A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
@@ -279,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
+| Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
