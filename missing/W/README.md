@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
+| World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
