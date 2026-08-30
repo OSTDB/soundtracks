@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
+| Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
+| Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
+| Meet Her There | 263786 | [263786-meet-her-there.json](./263786-meet-her-there.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
@@ -143,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
+| Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
+| Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Metaball: Guitar Man Pack | 293416 | [293416-metaball-guitar-man-pack.json](./293416-metaball-guitar-man-pack.json) |
 | Metaball: Kung Fu Pack | 293417 | [293417-metaball-kung-fu-pack.json](./293417-metaball-kung-fu-pack.json) |
 | Metaball: Red Astro Pack | 293418 | [293418-metaball-red-astro-pack.json](./293418-metaball-red-astro-pack.json) |
@@ -339,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
+| Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
@@ -357,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
