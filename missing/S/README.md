@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
+| Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
+| Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
 | Super Mario 64 Port | 307318 | [307318-super-mario-64-port.json](./307318-super-mario-64-port.json) |
@@ -673,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
+| Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
