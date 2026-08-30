@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
+| Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
