@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
+| Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
+| Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
