@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
+| Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
