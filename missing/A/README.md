@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
+| Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
+| American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
@@ -203,6 +205,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
+| Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
+| Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
+| Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
@@ -278,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
 | Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
+| Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
@@ -285,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
+| Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
