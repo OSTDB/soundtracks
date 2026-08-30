@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
+| Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
