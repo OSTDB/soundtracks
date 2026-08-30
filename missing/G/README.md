@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
+| Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
