@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
+| Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
