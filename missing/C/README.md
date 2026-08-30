@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
+| Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
+| Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
@@ -219,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
+| Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
