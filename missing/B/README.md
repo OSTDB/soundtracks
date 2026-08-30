@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
+| Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
+| Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
+| BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
@@ -316,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
+| Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
