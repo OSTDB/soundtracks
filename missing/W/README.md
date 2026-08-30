@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers Wonderland | 306092 | [306092-whiskers-wonderland.json](./306092-whiskers-wonderland.json) |
+| Whispered Flight | 274738 | [274738-whispered-flight.json](./274738-whispered-flight.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
+| World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
@@ -125,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
+| Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
