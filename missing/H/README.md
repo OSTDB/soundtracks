@@ -7,11 +7,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
+| Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
+| Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
+| Hack And Slash Fury: Cat Fire Armor | 334513 | [334513-hack-and-slash-fury-cat-fire-armor.json](./334513-hack-and-slash-fury-cat-fire-armor.json) |
+| Hack And Slash Fury: Dark Girl Armor | 334512 | [334512-hack-and-slash-fury-dark-girl-armor.json](./334512-hack-and-slash-fury-dark-girl-armor.json) |
+| Hack And Slash Fury: Dinosaur Armor | 334511 | [334511-hack-and-slash-fury-dinosaur-armor.json](./334511-hack-and-slash-fury-dinosaur-armor.json) |
+| Hack And Slash Fury: Fighter Armor | 334510 | [334510-hack-and-slash-fury-fighter-armor.json](./334510-hack-and-slash-fury-fighter-armor.json) |
+| Hack And Slash Fury: Gold Warriors Armor | 334509 | [334509-hack-and-slash-fury-gold-warriors-armor.json](./334509-hack-and-slash-fury-gold-warriors-armor.json) |
+| Hack And Slash Fury: Manga Waifu Advanced Armor | 334516 | [334516-hack-and-slash-fury-manga-waifu-advanced-armor.json](./334516-hack-and-slash-fury-manga-waifu-advanced-armor.json) |
+| Hack And Slash Fury: Manga Waifu Armor | 334517 | [334517-hack-and-slash-fury-manga-waifu-armor.json](./334517-hack-and-slash-fury-manga-waifu-armor.json) |
+| Hack And Slash Fury: Minotaur Armor | 334518 | [334518-hack-and-slash-fury-minotaur-armor.json](./334518-hack-and-slash-fury-minotaur-armor.json) |
+| Hack And Slash Fury: Mystic Girl Armor | 334519 | [334519-hack-and-slash-fury-mystic-girl-armor.json](./334519-hack-and-slash-fury-mystic-girl-armor.json) |
+| Hack And Slash Fury: Red Girl Armor | 334520 | [334520-hack-and-slash-fury-red-girl-armor.json](./334520-hack-and-slash-fury-red-girl-armor.json) |
+| Hack And Slash Fury: Soldiers Armor | 334521 | [334521-hack-and-slash-fury-soldiers-armor.json](./334521-hack-and-slash-fury-soldiers-armor.json) |
+| Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
+| Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
+| Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
+| Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
@@ -23,22 +41,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
+| Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
+| Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
+| Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
+| Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
+| Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
@@ -48,7 +71,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
+| Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
+| Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
@@ -56,7 +81,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
+| Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
+| Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heritage | 323499 | [323499-heritage.json](./323499-heritage.json) |
@@ -64,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
+| Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
@@ -79,8 +108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
+| Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
+| Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
@@ -93,33 +124,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
+| Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
+| Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
+| Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
+| Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
+| Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
+| Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
+| Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
