@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
+| Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
