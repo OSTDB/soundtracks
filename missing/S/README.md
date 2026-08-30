@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
+| Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
@@ -320,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Spectacle | 336358 | [336358-sonic-spectacle.json](./336358-sonic-spectacle.json) |
 | Sonic Speed | 336356 | [336356-sonic-speed.json](./336356-sonic-speed.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
+| Sonic Superstars: Lego Sonic Skin | 275305 | [275305-sonic-superstars-lego-sonic-skin.json](./275305-sonic-superstars-lego-sonic-skin.json) |
 | Sonic Surge: Rhythm Showdown | 333913 | [333913-sonic-surge-rhythm-showdown.json](./333913-sonic-surge-rhythm-showdown.json) |
 | Sonic Switch | 325840 | [325840-sonic-switch.json](./325840-sonic-switch.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
