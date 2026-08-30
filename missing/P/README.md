@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
+| Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
@@ -40,6 +41,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
+| Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
+| Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
@@ -50,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
+| Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
@@ -61,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
+| Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
@@ -70,7 +75,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
+| Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
+| Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
@@ -89,9 +96,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
+| Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
+| Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
@@ -130,29 +139,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
+| Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
+| Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
+| Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
+| Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
+| Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
+| Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
+| Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
+| Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
@@ -167,8 +184,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
+| Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
+| Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
@@ -178,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Polyhop: The Skybound Islands | 278743 | [278743-polyhop-the-skybound-islands.json](./278743-polyhop-the-skybound-islands.json) |
+| PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
@@ -194,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
+| Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
@@ -204,8 +225,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
+| Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
+| Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
+| Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
@@ -234,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
+| Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
@@ -241,16 +266,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
+| Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
+| Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
+| Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
+| Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
+| Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
+| Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
+| PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
