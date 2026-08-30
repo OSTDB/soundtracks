@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
+| Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
+| Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
+| Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
