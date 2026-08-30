@@ -67,6 +67,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
+| Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
+| Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
+| Daymare Town 3 | 257644 | [257644-daymare-town-3.json](./257644-daymare-town-3.json) |
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
@@ -255,6 +258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
@@ -299,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
+| Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
