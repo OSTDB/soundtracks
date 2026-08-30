@@ -140,7 +140,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
+| Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
+| Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
