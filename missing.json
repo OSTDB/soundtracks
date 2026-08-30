@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T19:48:07.167Z",
-  "total_missing": 5973,
+  "generated_at": "2026-08-30T20:03:17.707Z",
+  "total_missing": 6020,
   "games": [
     {
       "igdb_id": 306086,
@@ -141,6 +141,11 @@
       "igdb_id": 308527,
       "game_name": "12 Locks: Plasticine Room",
       "file": "missing/0-9/308527-12-locks-plasticine-room.json"
+    },
+    {
+      "igdb_id": 263186,
+      "game_name": "123 Talk",
+      "file": "missing/0-9/263186-123-talk.json"
     },
     {
       "igdb_id": 265416,
@@ -1333,6 +1338,11 @@
       "file": "missing/A/272004-anarchy-city-3-zero-tolerance.json"
     },
     {
+      "igdb_id": 262655,
+      "game_name": "Anarchy Park",
+      "file": "missing/A/262655-anarchy-park.json"
+    },
+    {
       "igdb_id": 273639,
       "game_name": "AnarchyField: Infinite Euphoric Level Destruction",
       "file": "missing/A/273639-anarchyfield-infinite-euphoric-level-destruction.json"
@@ -1613,6 +1623,11 @@
       "file": "missing/A/315257-arboneer.json"
     },
     {
+      "igdb_id": 263187,
+      "game_name": "Arcade Archives: Bosconian",
+      "file": "missing/A/263187-arcade-archives-bosconian.json"
+    },
+    {
       "igdb_id": 315828,
       "game_name": "Arcade Archives: Finalizer Super Transformation",
       "file": "missing/A/315828-arcade-archives-finalizer-super-transformation.json"
@@ -1891,6 +1906,11 @@
       "igdb_id": 277015,
       "game_name": "Assembly Line 2: Mobile Version",
       "file": "missing/A/277015-assembly-line-2-mobile-version.json"
+    },
+    {
+      "igdb_id": 262663,
+      "game_name": "Asterix & Obelix: Cesar's Challenge",
+      "file": "missing/A/262663-asterix-and-obelix-cesars-challenge.json"
     },
     {
       "igdb_id": 297790,
@@ -3583,6 +3603,11 @@
       "file": "missing/B/304374-broken-shell.json"
     },
     {
+      "igdb_id": 262650,
+      "game_name": "Broken Sword: Parzival’s Stone",
+      "file": "missing/B/262650-broken-sword-parzival-s-stone.json"
+    },
+    {
       "igdb_id": 309136,
       "game_name": "Broken War",
       "file": "missing/B/309136-broken-war.json"
@@ -4856,6 +4881,11 @@
       "igdb_id": 319377,
       "game_name": "Club Penguin Dimensions",
       "file": "missing/C/319377-club-penguin-dimensions.json"
+    },
+    {
+      "igdb_id": 262646,
+      "game_name": "Clue/Cluedo",
+      "file": "missing/C/262646-clue-cluedo.json"
     },
     {
       "igdb_id": 271504,
@@ -6211,6 +6241,11 @@
       "igdb_id": 322934,
       "game_name": "Death By Chatter",
       "file": "missing/D/322934-death-by-chatter.json"
+    },
+    {
+      "igdb_id": 262666,
+      "game_name": "Death By Hamster",
+      "file": "missing/D/262666-death-by-hamster.json"
     },
     {
       "igdb_id": 331663,
@@ -8748,6 +8783,11 @@
       "file": "missing/F/304375-flag-clicker.json"
     },
     {
+      "igdb_id": 262656,
+      "game_name": "Flag Defender!",
+      "file": "missing/F/262656-flag-defender.json"
+    },
+    {
       "igdb_id": 298312,
       "game_name": "Flappy Bird",
       "file": "missing/F/298312-flappy-bird.json"
@@ -11103,6 +11143,11 @@
       "file": "missing/H/265422-hexuma.json"
     },
     {
+      "igdb_id": 262676,
+      "game_name": "Hexxen: Hunters",
+      "file": "missing/H/262676-hexxen-hunters.json"
+    },
+    {
       "igdb_id": 331697,
       "game_name": "Hey Bobby!",
       "file": "missing/H/331697-hey-bobby.json"
@@ -11153,6 +11198,11 @@
       "file": "missing/H/275354-hide-and-seek.json"
     },
     {
+      "igdb_id": 263189,
+      "game_name": "Hieronymus",
+      "file": "missing/H/263189-hieronymus.json"
+    },
+    {
       "igdb_id": 277011,
       "game_name": "High Fructose",
       "file": "missing/H/277011-high-fructose.json"
@@ -11176,6 +11226,61 @@
       "igdb_id": 292832,
       "game_name": "Highrise",
       "file": "missing/H/292832-highrise.json"
+    },
+    {
+      "igdb_id": 262688,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen",
+      "file": "missing/H/262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json"
+    },
+    {
+      "igdb_id": 262680,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen",
+      "file": "missing/H/262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json"
+    },
+    {
+      "igdb_id": 262682,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen",
+      "file": "missing/H/262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json"
+    },
+    {
+      "igdb_id": 262685,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.3 Watanagashi-hen",
+      "file": "missing/H/262685-higurashi-no-naku-koro-ni-matsuri-ch-3-watanagashi-hen.json"
+    },
+    {
+      "igdb_id": 262686,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.4 Tatarigoroshi-hen",
+      "file": "missing/H/262686-higurashi-no-naku-koro-ni-matsuri-ch-4-tatarigoroshi-hen.json"
+    },
+    {
+      "igdb_id": 262691,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.5 Meakashi-hen",
+      "file": "missing/H/262691-higurashi-no-naku-koro-ni-matsuri-ch-5-meakashi-hen.json"
+    },
+    {
+      "igdb_id": 262692,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.6 Tsukiotoshi-hen",
+      "file": "missing/H/262692-higurashi-no-naku-koro-ni-matsuri-ch-6-tsukiotoshi-hen.json"
+    },
+    {
+      "igdb_id": 262693,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.7 Tsumihoroboshi-hen",
+      "file": "missing/H/262693-higurashi-no-naku-koro-ni-matsuri-ch-7-tsumihoroboshi-hen.json"
+    },
+    {
+      "igdb_id": 262694,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen",
+      "file": "missing/H/262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json"
+    },
+    {
+      "igdb_id": 262697,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen",
+      "file": "missing/H/262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json"
+    },
+    {
+      "igdb_id": 262698,
+      "game_name": "Higurashi no Naku Koro ni Matsuri: Kakera Asobi",
+      "file": "missing/H/262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json"
     },
     {
       "igdb_id": 273086,
@@ -11246,6 +11351,11 @@
       "igdb_id": 297792,
       "game_name": "Hollow Stem",
       "file": "missing/H/297792-hollow-stem.json"
+    },
+    {
+      "igdb_id": 262653,
+      "game_name": "Hollybound",
+      "file": "missing/H/262653-hollybound.json"
     },
     {
       "igdb_id": 325824,
@@ -11726,6 +11836,11 @@
       "igdb_id": 299452,
       "game_name": "Idle Dessert Tycoon",
       "file": "missing/I/299452-idle-dessert-tycoon.json"
+    },
+    {
+      "igdb_id": 263188,
+      "game_name": "Idle Dragon Clicker: Expansion Pack 1",
+      "file": "missing/I/263188-idle-dragon-clicker-expansion-pack-1.json"
     },
     {
       "igdb_id": 306693,
@@ -12893,6 +13008,11 @@
       "file": "missing/K/290681-kaiwa.json"
     },
     {
+      "igdb_id": 262668,
+      "game_name": "Kaizo Mario Galaxy: Rebalanced",
+      "file": "missing/K/262668-kaizo-mario-galaxy-rebalanced.json"
+    },
+    {
       "igdb_id": 330548,
       "game_name": "Kakyuusei 2",
       "file": "missing/K/330548-kakyuusei-2.json"
@@ -13126,6 +13246,11 @@
       "igdb_id": 321169,
       "game_name": "Kill The Music",
       "file": "missing/K/321169-kill-the-music.json"
+    },
+    {
+      "igdb_id": 262652,
+      "game_name": "Killer Bean Unleashed",
+      "file": "missing/K/262652-killer-bean-unleashed.json"
     },
     {
       "igdb_id": 264309,
@@ -13868,6 +13993,11 @@
       "file": "missing/L/302109-lifting-unlimited.json"
     },
     {
+      "igdb_id": 262674,
+      "game_name": "Light Arrow is Missing",
+      "file": "missing/L/262674-light-arrow-is-missing.json"
+    },
+    {
       "igdb_id": 277003,
       "game_name": "Light In Blood",
       "file": "missing/L/277003-light-in-blood.json"
@@ -13961,6 +14091,11 @@
       "igdb_id": 308582,
       "game_name": "Little Bear",
       "file": "missing/L/308582-little-bear.json"
+    },
+    {
+      "igdb_id": 263193,
+      "game_name": "Little Cheese Works",
+      "file": "missing/L/263193-little-cheese-works.json"
     },
     {
       "igdb_id": 296074,
@@ -14643,6 +14778,11 @@
       "file": "missing/M/338541-mario-kart-tour-vancouver-tour.json"
     },
     {
+      "igdb_id": 262665,
+      "game_name": "Mario Royale Deluxe",
+      "file": "missing/M/262665-mario-royale-deluxe.json"
+    },
+    {
       "igdb_id": 275325,
       "game_name": "Mario Superstar",
       "file": "missing/M/275325-mario-superstar.json"
@@ -14966,6 +15106,11 @@
       "igdb_id": 319367,
       "game_name": "MemoryMaze",
       "file": "missing/M/319367-memorymaze.json"
+    },
+    {
+      "igdb_id": 262664,
+      "game_name": "Menace",
+      "file": "missing/M/262664-menace.json"
     },
     {
       "igdb_id": 331675,
@@ -16618,6 +16763,11 @@
       "file": "missing/N/303779-nemo-puzzle-pack-ii.json"
     },
     {
+      "igdb_id": 262669,
+      "game_name": "Neo Mario Galaxy",
+      "file": "missing/N/262669-neo-mario-galaxy.json"
+    },
+    {
       "igdb_id": 270969,
       "game_name": "Neo Testament",
       "file": "missing/N/270969-neo-testament.json"
@@ -17683,6 +17833,11 @@
       "file": "missing/O/297247-outlets-rush.json"
     },
     {
+      "igdb_id": 262662,
+      "game_name": "OutRage: Fight Fest",
+      "file": "missing/O/262662-outrage-fight-fest.json"
+    },
+    {
       "igdb_id": 307917,
       "game_name": "OutRun",
       "file": "missing/O/307917-outrun.json"
@@ -18078,6 +18233,11 @@
       "file": "missing/P/326380-parisian-brasserie-simulator.json"
     },
     {
+      "igdb_id": 262670,
+      "game_name": "Park Beyond: Beyond Extreme",
+      "file": "missing/P/262670-park-beyond-beyond-extreme.json"
+    },
+    {
       "igdb_id": 310740,
       "game_name": "Park It!",
       "file": "missing/P/310740-park-it.json"
@@ -18101,6 +18261,11 @@
       "igdb_id": 270957,
       "game_name": "Parkour Game 2",
       "file": "missing/P/270957-parkour-game-2.json"
+    },
+    {
+      "igdb_id": 262696,
+      "game_name": "Particles",
+      "file": "missing/P/262696-particles.json"
     },
     {
       "igdb_id": 327623,
@@ -18258,6 +18423,11 @@
       "file": "missing/P/305515-penguin-take-off.json"
     },
     {
+      "igdb_id": 262681,
+      "game_name": "Penrose",
+      "file": "missing/P/262681-penrose.json"
+    },
+    {
       "igdb_id": 278143,
       "game_name": "PentaZorg",
       "file": "missing/P/278143-pentazorg.json"
@@ -18321,6 +18491,16 @@
       "igdb_id": 264901,
       "game_name": "Persha and the Magic Labyrinth: Arabian Nyaights",
       "file": "missing/P/264901-persha-and-the-magic-labyrinth-arabian-nyaights.json"
+    },
+    {
+      "igdb_id": 262640,
+      "game_name": "Persona 3 Reload: Aigis Edition",
+      "file": "missing/P/262640-persona-3-reload-aigis-edition.json"
+    },
+    {
+      "igdb_id": 262642,
+      "game_name": "Persona 3 Reload: Digital Deluxe Edition",
+      "file": "missing/P/262642-persona-3-reload-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 301578,
@@ -19378,6 +19558,11 @@
       "file": "missing/P/331140-project-landsword.json"
     },
     {
+      "igdb_id": 262690,
+      "game_name": "Project Loro",
+      "file": "missing/P/262690-project-loro.json"
+    },
+    {
       "igdb_id": 317605,
       "game_name": "Project Mansion",
       "file": "missing/P/317605-project-mansion.json"
@@ -19881,6 +20066,11 @@
       "igdb_id": 337444,
       "game_name": "Rainbow Despair",
       "file": "missing/R/337444-rainbow-despair.json"
+    },
+    {
+      "igdb_id": 262695,
+      "game_name": "Rainbow Friends: Hide 'N Seek",
+      "file": "missing/R/262695-rainbow-friends-hide-n-seek.json"
     },
     {
       "igdb_id": 294458,
@@ -21391,6 +21581,11 @@
       "igdb_id": 297211,
       "game_name": "Screen Wonders",
       "file": "missing/S/297211-screen-wonders.json"
+    },
+    {
+      "igdb_id": 262675,
+      "game_name": "Scribble",
+      "file": "missing/S/262675-scribble.json"
     },
     {
       "igdb_id": 290697,
@@ -24298,6 +24493,11 @@
       "file": "missing/S/307321-super-mario-64-ex-alo.json"
     },
     {
+      "igdb_id": 262677,
+      "game_name": "Super Mario 64 in Tomb Raider",
+      "file": "missing/S/262677-super-mario-64-in-tomb-raider.json"
+    },
+    {
       "igdb_id": 307314,
       "game_name": "Super Mario 64 Nintendo 3DS Port",
       "file": "missing/S/307314-super-mario-64-nintendo-3ds-port.json"
@@ -24376,6 +24576,11 @@
       "igdb_id": 311285,
       "game_name": "Super Mario Kart Xtreme",
       "file": "missing/S/311285-super-mario-kart-xtreme.json"
+    },
+    {
+      "igdb_id": 262660,
+      "game_name": "Super Mario Maker for Nspire",
+      "file": "missing/S/262660-super-mario-maker-for-nspire.json"
     },
     {
       "igdb_id": 324681,
@@ -26788,6 +26993,11 @@
       "file": "missing/T/268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json"
     },
     {
+      "igdb_id": 262689,
+      "game_name": "The World's Hardest Game: On Steam",
+      "file": "missing/T/262689-the-worlds-hardest-game-on-steam.json"
+    },
+    {
       "igdb_id": 329958,
       "game_name": "The Zombie Slayers",
       "file": "missing/T/329958-the-zombie-slayers.json"
@@ -27246,6 +27456,11 @@
       "igdb_id": 339125,
       "game_name": "Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete",
       "file": "missing/T/339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json"
+    },
+    {
+      "igdb_id": 262654,
+      "game_name": "TouHou Dew Valley",
+      "file": "missing/T/262654-touhou-dew-valley.json"
     },
     {
       "igdb_id": 331125,
@@ -28038,6 +28253,11 @@
       "file": "missing/U/316427-uncover.json"
     },
     {
+      "igdb_id": 262700,
+      "game_name": "Undawn: Desert Fury",
+      "file": "missing/U/262700-undawn-desert-fury.json"
+    },
+    {
       "igdb_id": 277614,
       "game_name": "Undead Mayhem",
       "file": "missing/U/277614-undead-mayhem.json"
@@ -28061,6 +28281,11 @@
       "igdb_id": 310178,
       "game_name": "Underground Prisoner",
       "file": "missing/U/310178-underground-prisoner.json"
+    },
+    {
+      "igdb_id": 262667,
+      "game_name": "Underlab",
+      "file": "missing/U/262667-underlab.json"
     },
     {
       "igdb_id": 304331,
@@ -28938,6 +29163,11 @@
       "file": "missing/W/321734-warhammer-vermintide-2-a-treacherous-adventure.json"
     },
     {
+      "igdb_id": 262658,
+      "game_name": "Warhammer: Vermintide 2 - Necromancer",
+      "file": "missing/W/262658-warhammer-vermintide-2-necromancer.json"
+    },
+    {
       "igdb_id": 275336,
       "game_name": "Warkestra",
       "file": "missing/W/275336-warkestra.json"
@@ -29781,6 +30011,11 @@
       "igdb_id": 293912,
       "game_name": "Zero King",
       "file": "missing/Z/293912-zero-king.json"
+    },
+    {
+      "igdb_id": 262659,
+      "game_name": "ZeroSpace",
+      "file": "missing/Z/262659-zerospace.json"
     },
     {
       "igdb_id": 326965,
