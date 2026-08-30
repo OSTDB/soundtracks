@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
+| Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
@@ -85,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
+| Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
