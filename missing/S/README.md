@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
+| Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
 | Sanou Kaihatsu Series 3: Hikaku, Bunrui | 303762 | [303762-sanou-kaihatsu-series-3-hikaku-bunrui.json](./303762-sanou-kaihatsu-series-3-hikaku-bunrui.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
+| Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
@@ -121,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
+| Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
@@ -198,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
+| Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
@@ -491,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
+| Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
@@ -506,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
@@ -683,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
+| Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
