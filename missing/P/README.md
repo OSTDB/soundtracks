@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
+| Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
