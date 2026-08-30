@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
+| Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
+| Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
@@ -201,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
+| Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
