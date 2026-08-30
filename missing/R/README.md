@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
+| Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
