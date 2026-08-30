@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
+| Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
+| Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
