@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
+| Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
+| Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
@@ -46,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
+| Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
@@ -63,7 +66,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
+| Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
+| Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
@@ -86,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rento Fortune: Dice Configurator | 298335 | [298335-rento-fortune-dice-configurator.json](./298335-rento-fortune-dice-configurator.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
+| Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
@@ -116,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
+| Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
