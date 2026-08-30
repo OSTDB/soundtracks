@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
+| GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
+| Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
