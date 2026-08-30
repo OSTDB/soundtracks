@@ -129,7 +129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
+| Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
+| Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
