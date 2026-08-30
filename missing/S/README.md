@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
+| Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
+| Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
@@ -271,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
+| So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
@@ -280,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
+| Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -366,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
+| Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
 | Sonic XN | 331666 | [331666-sonic-xn.json](./331666-sonic-xn.json) |
 | Sonic: Death Days | 331711 | [331711-sonic-death-days.json](./331711-sonic-death-days.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
@@ -446,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
+| ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
@@ -557,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
+| Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
@@ -570,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
+| Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
