@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
+| Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
