@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
+| Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
+| Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
