@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
+| Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
@@ -90,9 +92,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
+| Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
+| Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
+| Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
@@ -237,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
+| Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
@@ -245,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
+| Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
@@ -387,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
