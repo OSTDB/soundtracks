@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
+| Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
+| Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
