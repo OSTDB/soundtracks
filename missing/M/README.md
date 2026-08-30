@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Megadungeon | 310752 | [310752-megadungeon.json](./310752-megadungeon.json) |
+| Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
+| Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
