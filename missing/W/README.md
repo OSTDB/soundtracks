@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
+| What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | White Knight Chronicles II | 314050 | [314050-white-knight-chronicles-ii.json](./314050-white-knight-chronicles-ii.json) |
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
+| Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
