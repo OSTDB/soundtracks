@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
+| Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
