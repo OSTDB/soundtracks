@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
+| Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
