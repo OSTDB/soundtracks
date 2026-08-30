@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
+| The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
 | The Legend of Zelda: Oracle of Life Online | 324095 | [324095-the-legend-of-zelda-oracle-of-life-online.json](./324095-the-legend-of-zelda-oracle-of-life-online.json) |
 | The Legend of Zelda: Skyward Sword HD Randomizer | 331139 | [331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json](./331139-the-legend-of-zelda-skyward-sword-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
+| The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
@@ -672,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
+| Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
