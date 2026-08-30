@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
+| Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
@@ -164,6 +165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
+| Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
+| Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
