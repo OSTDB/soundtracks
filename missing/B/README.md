@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
+| B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
+| Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
@@ -268,16 +270,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
+| Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
+| Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
+| Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
