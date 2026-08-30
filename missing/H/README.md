@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
+| Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
+| HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
@@ -232,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
+| Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
