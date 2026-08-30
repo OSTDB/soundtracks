@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
+| Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
