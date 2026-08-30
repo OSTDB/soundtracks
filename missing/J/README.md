@@ -34,6 +34,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
+| JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
+| JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
