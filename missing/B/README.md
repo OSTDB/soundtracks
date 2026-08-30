@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
+| B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
@@ -23,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
+| Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
@@ -32,14 +34,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
+| Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
+| Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
+| Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
@@ -65,6 +70,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
+| Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
@@ -82,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
+| Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
@@ -91,10 +99,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
+| Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beasties of Greenhollow | 299465 | [299465-beasties-of-greenhollow.json](./299465-beasties-of-greenhollow.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
@@ -106,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
+| Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
@@ -266,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
