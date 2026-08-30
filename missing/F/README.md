@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
+| Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
@@ -181,7 +182,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
+| Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
+| Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
