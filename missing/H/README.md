@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
+| Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
@@ -139,11 +140,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
+| Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen | 262682 | [262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json](./262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.3 Watanagashi-hen | 262685 | [262685-higurashi-no-naku-koro-ni-matsuri-ch-3-watanagashi-hen.json](./262685-higurashi-no-naku-koro-ni-matsuri-ch-3-watanagashi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.4 Tatarigoroshi-hen | 262686 | [262686-higurashi-no-naku-koro-ni-matsuri-ch-4-tatarigoroshi-hen.json](./262686-higurashi-no-naku-koro-ni-matsuri-ch-4-tatarigoroshi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.5 Meakashi-hen | 262691 | [262691-higurashi-no-naku-koro-ni-matsuri-ch-5-meakashi-hen.json](./262691-higurashi-no-naku-koro-ni-matsuri-ch-5-meakashi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.6 Tsukiotoshi-hen | 262692 | [262692-higurashi-no-naku-koro-ni-matsuri-ch-6-tsukiotoshi-hen.json](./262692-higurashi-no-naku-koro-ni-matsuri-ch-6-tsukiotoshi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.7 Tsumihoroboshi-hen | 262693 | [262693-higurashi-no-naku-koro-ni-matsuri-ch-7-tsumihoroboshi-hen.json](./262693-higurashi-no-naku-koro-ni-matsuri-ch-7-tsumihoroboshi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen | 262694 | [262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json](./262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
@@ -158,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
+| Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
