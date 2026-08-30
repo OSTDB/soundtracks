@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
+| The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
@@ -588,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
+| Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
@@ -608,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
