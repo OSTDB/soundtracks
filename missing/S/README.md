@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
+| Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
+| Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
@@ -514,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
+| Street Drag Racing: Car Simulator | 271475 | [271475-street-drag-racing-car-simulator.json](./271475-street-drag-racing-car-simulator.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
@@ -528,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
+| Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
