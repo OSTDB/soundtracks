@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
+| Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
@@ -85,7 +86,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 8: Version Espanola | 268199 | [268199-lets-sing-8-version-espanola.json](./268199-lets-sing-8-version-espanola.json) |
 | Let's Sing 9: Version Espanola | 268200 | [268200-lets-sing-9-version-espanola.json](./268200-lets-sing-9-version-espanola.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
+| Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
+| Lethal Operation: Episode 1 - Healer Rugitta | 256557 | [256557-lethal-operation-episode-1-healer-rugitta.json](./256557-lethal-operation-episode-1-healer-rugitta.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
