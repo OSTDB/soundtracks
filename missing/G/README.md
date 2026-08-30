@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
+| GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
+| Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
