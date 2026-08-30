@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
+| Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
@@ -38,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
+| Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
@@ -48,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
@@ -64,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
+| Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
