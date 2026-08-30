@@ -27,14 +27,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
+| A Punk with Wheels 2 | 322343 | [322343-a-punk-with-wheels-2.json](./322343-a-punk-with-wheels-2.json) |
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
+| A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
+| Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
@@ -50,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
+| Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
@@ -57,15 +61,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
+| Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
+| Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
+| Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
+| Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
+| Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
+| Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
+| Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
+| Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
@@ -77,12 +89,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
+| Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
+| Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
+| Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
+| AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
@@ -90,23 +107,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
 | All Elite Wrestling: Fight Forever - Switchblade Tournament Pack | 301009 | [301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json](./301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
+| All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
+| All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
+| Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
+| Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
+| AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
+| Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
+| American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
+| Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
+| Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
@@ -126,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
+| Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
@@ -135,6 +162,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Character Outfit - Summer Candy | 309089 | [309089-apex-heroines-character-outfit-summer-candy.json](./309089-apex-heroines-character-outfit-summer-candy.json) |
 | Apex Heroines: Character Outfit - Warm-up | 309087 | [309087-apex-heroines-character-outfit-warm-up.json](./309087-apex-heroines-character-outfit-warm-up.json) |
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
+| Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
+| Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
@@ -143,19 +172,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
+| Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
+| Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
+| Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
+| Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
@@ -168,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
+| Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
@@ -176,10 +210,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
+| Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
+| Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
+| Atelier Marie & Elie: The Alchemist of Salburg | 329357 | [329357-atelier-marie-and-elie-the-alchemist-of-salburg.json](./329357-atelier-marie-and-elie-the-alchemist-of-salburg.json) |
+| Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
+| Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
+| Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
@@ -191,3 +231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
+| Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
+| Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
+| Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
