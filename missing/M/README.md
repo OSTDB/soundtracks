@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
+| More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
+| My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
