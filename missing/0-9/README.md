@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
+| 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
