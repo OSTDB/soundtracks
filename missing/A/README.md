@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Good Night's Rest | 292315 | [292315-a-good-nights-rest.json](./292315-a-good-nights-rest.json) |
+| A Goomba's Walk | 268187 | [268187-a-goombas-walk.json](./268187-a-goombas-walk.json) |
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
+| Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
@@ -141,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
+| All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
