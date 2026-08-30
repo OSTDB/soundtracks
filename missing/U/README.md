@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
+| Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
@@ -103,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
+| UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
