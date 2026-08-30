@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
+| Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
@@ -22,8 +23,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
+| Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
+| Danganronpa: Antebellum - Lockdown | 333932 | [333932-danganronpa-antebellum-lockdown.json](./333932-danganronpa-antebellum-lockdown.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
+| Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
@@ -45,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
+| DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
 | DCS World: CH-47F | 324665 | [324665-dcs-world-ch-47f.json](./324665-dcs-world-ch-47f.json) |
@@ -55,14 +60,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
+| Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
+| Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
+| Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
+| Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
+| Deadside: Dragonfly Skin Set | 338023 | [338023-deadside-dragonfly-skin-set.json](./338023-deadside-dragonfly-skin-set.json) |
+| Deadside: Flags Set | 338022 | [338022-deadside-flags-set.json](./338022-deadside-flags-set.json) |
+| Deadside: Guerilla Skin Set | 338021 | [338021-deadside-guerilla-skin-set.json](./338021-deadside-guerilla-skin-set.json) |
+| Deadside: Hooligan Skin Set | 338020 | [338020-deadside-hooligan-skin-set.json](./338020-deadside-hooligan-skin-set.json) |
+| Deadside: Jungle Skin Set | 338019 | [338019-deadside-jungle-skin-set.json](./338019-deadside-jungle-skin-set.json) |
+| Deadside: Royal Flush Skin Set | 338018 | [338018-deadside-royal-flush-skin-set.json](./338018-deadside-royal-flush-skin-set.json) |
+| Deadside: Salamander Skin Set | 338017 | [338017-deadside-salamander-skin-set.json](./338017-deadside-salamander-skin-set.json) |
+| Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
+| Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
+| Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
@@ -75,9 +94,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
+| Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
+| Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
+| Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
+| Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
+| Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
@@ -85,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
+| Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
@@ -105,11 +130,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
+| Devwill Too ZX | 333924 | [333924-devwill-too-zx.json](./333924-devwill-too-zx.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
+| Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
@@ -120,16 +147,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
+| Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
+| Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
+| Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
+| Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
+| Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
+| Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
+| Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
+| Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
+| Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
+| Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
+| Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
+| Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
@@ -137,6 +178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
+| Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
+| Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
@@ -158,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
+| Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
@@ -165,7 +209,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
+| Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
+| Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
+| Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
@@ -177,10 +225,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
+| Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
+| Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
+| Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
+| Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
