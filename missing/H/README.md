@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
+| Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
@@ -201,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
