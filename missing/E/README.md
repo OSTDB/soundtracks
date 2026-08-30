@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
+| Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
 | Eve Online: Eclipse - Quadrant 2 | 329918 | [329918-eve-online-eclipse-quadrant-2.json](./329918-eve-online-eclipse-quadrant-2.json) |
 | Eve Online: Equinox | 329933 | [329933-eve-online-equinox.json](./329933-eve-online-equinox.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
+| Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
