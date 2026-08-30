@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
+| MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
@@ -164,12 +165,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
+| Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
+| MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
@@ -208,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
+| Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
@@ -303,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
+| Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
@@ -322,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
+| MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
 | My Cheetah Friend | 341347 | [341347-my-cheetah-friend.json](./341347-my-cheetah-friend.json) |
@@ -344,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
+| My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
