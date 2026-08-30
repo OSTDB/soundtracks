@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
+| 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
