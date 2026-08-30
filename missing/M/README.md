@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneuver Warfare: Mission Pack West 38-40 | 293420 | [293420-maneuver-warfare-mission-pack-west-38-40.json](./293420-maneuver-warfare-mission-pack-west-38-40.json) |
 | Maneuver Warfare: Mission Pack West 44-45 | 293421 | [293421-maneuver-warfare-mission-pack-west-44-45.json](./293421-maneuver-warfare-mission-pack-west-44-45.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
+| MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
+| Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
+| Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
@@ -175,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
+| Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
@@ -182,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
+| Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | Moai Alley | 332802 | [332802-moai-alley.json](./332802-moai-alley.json) |
@@ -209,10 +214,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
+| Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
+| Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
+| Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
+| Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
+| Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
+| Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monsty Corp: The Prequels | 296059 | [296059-monsty-corp-the-prequels.json](./296059-monsty-corp-the-prequels.json) |
@@ -243,7 +254,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
+| Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
+| Mortgage Nightmares | 341336 | [341336-mortgage-nightmares.json](./341336-mortgage-nightmares.json) |
+| Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
+| Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
@@ -257,14 +272,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
+| Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
+| Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
+| Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
+| Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
+| Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
+| MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
@@ -273,24 +294,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
+| Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
+| My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
+| My Cheetah Friend | 341347 | [341347-my-cheetah-friend.json](./341347-my-cheetah-friend.json) |
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
+| My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
+| My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
+| My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
+| My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
+| My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
@@ -300,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
+| My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
@@ -310,5 +341,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
+| Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
+| Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
+| Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
+| Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
