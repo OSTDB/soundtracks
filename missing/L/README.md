@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
+| Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
 | Lasso Catch | 277575 | [277575-lasso-catch.json](./277575-lasso-catch.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
+| LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
