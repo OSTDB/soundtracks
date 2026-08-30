@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
+| Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
