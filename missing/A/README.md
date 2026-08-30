@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
+| Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
@@ -192,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
+| Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
@@ -218,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
+| Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
@@ -259,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
+| Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
