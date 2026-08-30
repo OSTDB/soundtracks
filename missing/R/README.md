@@ -143,6 +143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
+| Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
+| Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
@@ -185,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
+| Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
