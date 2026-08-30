@@ -176,12 +176,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
+| Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
+| Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
+| Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
+| Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
@@ -201,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
+| Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
@@ -269,6 +274,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
+| Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
+| Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
+| Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Drift Apocalypse | 296091 | [296091-drift-apocalypse.json](./296091-drift-apocalypse.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
