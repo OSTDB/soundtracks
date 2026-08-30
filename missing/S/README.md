@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
+| Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
+| Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
@@ -295,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
+| Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
 | Sniper Elite 5: P.1938 Suppressed Pistol | 307286 | [307286-sniper-elite-5-p-1938-suppressed-pistol.json](./307286-sniper-elite-5-p-1938-suppressed-pistol.json) |
 | Sniper Elite 5: Saboteur Weapon and Skin Pack | 307285 | [307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json](./307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json) |
@@ -444,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
+| Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
@@ -469,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
+| Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
@@ -544,7 +549,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
+| Stellar Echoes: Boxing Champion | 263747 | [263747-stellar-echoes-boxing-champion.json](./263747-stellar-echoes-boxing-champion.json) |
+| Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
+| Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
