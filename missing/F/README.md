@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
+| Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
