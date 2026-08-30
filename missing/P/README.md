@@ -29,10 +29,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 8 | 305504 | [305504-paint-by-numbers-8-bit-world-ep-8.json](./305504-paint-by-numbers-8-bit-world-ep-8.json) |
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
+| Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
+| Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
+| Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -63,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
+| Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
@@ -75,9 +79,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
+| Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
+| Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
@@ -130,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
+| Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
@@ -182,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
+| Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
@@ -189,7 +197,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
+| Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
+| Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
@@ -264,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
+| Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
@@ -273,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
+| Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
@@ -282,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
+| Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
