@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
+| Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
+| Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
@@ -279,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
+| Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
