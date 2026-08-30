@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
+| Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
+| Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
@@ -95,6 +97,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
+| Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
@@ -108,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
+| Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
@@ -120,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
+| Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
@@ -151,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
+| Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
@@ -168,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
+| Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
 | Apex Heroines: Character Outfit - Dark Maid | 309091 | [309091-apex-heroines-character-outfit-dark-maid.json](./309091-apex-heroines-character-outfit-dark-maid.json) |
 | Apex Heroines: Character Outfit - Flower Fairy | 309090 | [309090-apex-heroines-character-outfit-flower-fairy.json](./309090-apex-heroines-character-outfit-flower-fairy.json) |
 | Apex Heroines: Character Outfit - Ninja Leader | 309088 | [309088-apex-heroines-character-outfit-ninja-leader.json](./309088-apex-heroines-character-outfit-ninja-leader.json) |
@@ -186,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
+| Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
@@ -197,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
+| Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
@@ -245,6 +255,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
+| Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
+| Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
