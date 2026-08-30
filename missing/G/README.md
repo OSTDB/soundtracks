@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
+| Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
