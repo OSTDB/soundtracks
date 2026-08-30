@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
+| Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
