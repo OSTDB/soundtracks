@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
+| Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
+| Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | Kono Aozora ni Yakusoku wo | 324662 | [324662-kono-aozora-ni-yakusoku-wo.json](./324662-kono-aozora-ni-yakusoku-wo.json) |
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
@@ -124,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
+| Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
