@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
+| 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
@@ -62,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
+| 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 Leaf Clovers | 302692 | [302692-4-leaf-clovers.json](./302692-4-leaf-clovers.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
@@ -81,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
+| 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
