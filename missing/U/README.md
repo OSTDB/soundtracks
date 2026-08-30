@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
+| Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
