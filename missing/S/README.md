@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
+| Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
@@ -590,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
+| Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
