@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
+| Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
@@ -103,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
+| Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
