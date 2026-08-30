@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
+| Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
+| Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
