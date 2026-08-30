@@ -25,6 +25,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
+| Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
+| Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
@@ -131,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
 | Metroid: 3D TechDemo | 324088 | [324088-metroid-3d-techdemo.json](./324088-metroid-3d-techdemo.json) |
+| MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
@@ -193,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
+| Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
