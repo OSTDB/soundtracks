@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
+| Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
