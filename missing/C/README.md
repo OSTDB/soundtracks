@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
+| Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
+| Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
+| Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
@@ -164,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
+| Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
