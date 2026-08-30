@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
+| Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
@@ -85,10 +86,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 302147 | [302147-permafrost.json](./302147-permafrost.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
+| Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
 | Persona 3 Reload: Persona 4 Golden Yasogami High Costume Set | 301567 | [301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json](./301567-persona-3-reload-persona-4-golden-yasogami-high-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
