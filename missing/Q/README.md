@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
+| Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
