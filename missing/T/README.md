@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
@@ -458,8 +459,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
+| Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
+| Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
+| Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
