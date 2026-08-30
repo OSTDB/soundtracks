@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
+| Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
