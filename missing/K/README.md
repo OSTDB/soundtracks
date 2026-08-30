@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
+| Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
+| Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
