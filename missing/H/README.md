@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -64,6 +65,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
+| Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
+| Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
