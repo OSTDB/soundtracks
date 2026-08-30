@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
+| Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
