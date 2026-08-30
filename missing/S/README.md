@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
+| Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
+| So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
@@ -743,6 +745,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
+| Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
+| Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
+| Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
+| Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
+| Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
+| Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
@@ -793,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
+| Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
