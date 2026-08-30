@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
+| Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
