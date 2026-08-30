@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
+| Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
