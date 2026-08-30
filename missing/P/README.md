@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
+| Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
+| Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
