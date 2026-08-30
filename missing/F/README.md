@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
+| Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
+| Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
