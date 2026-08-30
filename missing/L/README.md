@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
+| Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
