@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
+| Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
+| Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
@@ -244,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
+| Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
@@ -324,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
+| Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | Bullets & Brains | 261552 | [261552-bullets-and-brains.json](./261552-bullets-and-brains.json) |
