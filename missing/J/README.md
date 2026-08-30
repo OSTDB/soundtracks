@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
+| Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
