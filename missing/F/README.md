@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
+| Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
@@ -82,11 +83,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
+| Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
+| Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
@@ -136,11 +139,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
+| Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
+| Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
+| Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
+| Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
+| Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
@@ -150,25 +158,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
+| Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
+| Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
+| FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
+| FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
+| Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
+| Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
+| Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
+| Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
+| Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
+| FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
+| Freeflow | 340248 | [340248-freeflow.json](./340248-freeflow.json) |
+| Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
@@ -177,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
+| Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
