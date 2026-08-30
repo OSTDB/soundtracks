@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
+| Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
 | Invention 7 | 340760 | [340760-invention-7.json](./340760-invention-7.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
+| Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
