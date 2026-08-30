@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
+| Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
+| Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
@@ -590,10 +592,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
+| Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
+| Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
