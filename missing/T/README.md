@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
+| Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
@@ -383,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
+| Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
@@ -491,5 +493,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
+| Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
