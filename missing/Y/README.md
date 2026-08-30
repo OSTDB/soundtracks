@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
 | Yu-Gi-Oh! GX Card Almanac | 328252 | [328252-yu-gi-oh-gx-card-almanac.json](./328252-yu-gi-oh-gx-card-almanac.json) |
+| Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
