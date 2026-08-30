@@ -95,6 +95,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
+| Air | 270385 | [270385-air.json](./270385-air.json) |
+| Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
+| Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
@@ -144,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
+| Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
