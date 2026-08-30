@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
+| Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
+| Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
