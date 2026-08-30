@@ -54,6 +54,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legendary Heroes Unchained | 324106 | [324106-legendary-heroes-unchained.json](./324106-legendary-heroes-unchained.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
+| LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
+| LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
+| LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
@@ -146,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
+| Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
 | Lost in LS | 328221 | [328221-lost-in-ls.json](./328221-lost-in-ls.json) |
@@ -159,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
+| Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
@@ -177,11 +182,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
+| Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
+| Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
+| Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
