@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
+| SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
+| Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
@@ -492,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
+| Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
@@ -591,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
+| Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
