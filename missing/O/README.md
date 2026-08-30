@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
+| Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
+| Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
