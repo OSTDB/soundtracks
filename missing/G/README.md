@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
+| Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
+| Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
