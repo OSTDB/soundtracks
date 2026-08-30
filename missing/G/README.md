@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
+| George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
+| Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
@@ -207,8 +209,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
+| Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
+| Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
