@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
+| Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
@@ -87,6 +88,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
+| Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
@@ -101,6 +104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
+| Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
+| Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
@@ -134,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
+| Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
