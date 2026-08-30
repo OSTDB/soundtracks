@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 4 | 272029 | [272029-dark-place-4.json](./272029-dark-place-4.json) |
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
@@ -245,10 +246,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | DoodleBob and the Magic Pencil | 341323 | [341323-doodlebob-and-the-magic-pencil.json](./341323-doodlebob-and-the-magic-pencil.json) |
 | DoodleBob and the Magic Pencil DX | 341325 | [341325-doodlebob-and-the-magic-pencil-dx.json](./341325-doodlebob-and-the-magic-pencil-dx.json) |
+| Doodlebug | 261511 | [261511-doodlebug.json](./261511-doodlebug.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
+| Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
+| Doomworld Mega Project 2013 | 260954 | [260954-doomworld-mega-project-2013.json](./260954-doomworld-mega-project-2013.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
