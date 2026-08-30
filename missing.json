@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T17:18:16.810Z",
-  "total_missing": 5471,
+  "generated_at": "2026-08-30T17:33:06.415Z",
+  "total_missing": 5519,
   "games": [
     {
       "igdb_id": 306086,
@@ -2868,6 +2868,11 @@
       "file": "missing/B/303266-blank-page.json"
     },
     {
+      "igdb_id": 268723,
+      "game_name": "Blasphemous Experiments",
+      "file": "missing/B/268723-blasphemous-experiments.json"
+    },
+    {
       "igdb_id": 317595,
       "game_name": "Blasphemous II: Mea Culpa",
       "file": "missing/B/317595-blasphemous-ii-mea-culpa.json"
@@ -3816,6 +3821,16 @@
       "igdb_id": 276459,
       "game_name": "Castlevania 2",
       "file": "missing/C/276459-castlevania-2.json"
+    },
+    {
+      "igdb_id": 268721,
+      "game_name": "Castlevania: Aria of Sorrow - Magician Mode",
+      "file": "missing/C/268721-castlevania-aria-of-sorrow-magician-mode.json"
+    },
+    {
+      "igdb_id": 268722,
+      "game_name": "Castlevania: Aria of Sorrow - Persephone",
+      "file": "missing/C/268722-castlevania-aria-of-sorrow-persephone.json"
     },
     {
       "igdb_id": 314028,
@@ -7351,6 +7366,11 @@
       "igdb_id": 291761,
       "game_name": "Everything: All in 1",
       "file": "missing/E/291761-everything-all-in-1.json"
+    },
+    {
+      "igdb_id": 268189,
+      "game_name": "Evil Elves II: The Return of the Christmas Presents!",
+      "file": "missing/E/268189-evil-elves-ii-the-return-of-the-christmas-presents.json"
     },
     {
       "igdb_id": 333361,
@@ -11253,6 +11273,11 @@
       "file": "missing/I/336913-invisible-apartment-2.json"
     },
     {
+      "igdb_id": 268193,
+      "game_name": "Ippan Mario",
+      "file": "missing/I/268193-ippan-mario.json"
+    },
+    {
       "igdb_id": 335071,
       "game_name": "Irene: Journey To The North",
       "file": "missing/I/335071-irene-journey-to-the-north.json"
@@ -11623,6 +11648,11 @@
       "file": "missing/J/340774-jobifai.json"
     },
     {
+      "igdb_id": 268202,
+      "game_name": "Joe Biden For The PS2 2: Re-elected",
+      "file": "missing/J/268202-joe-biden-for-the-ps2-2-re-elected.json"
+    },
+    {
       "igdb_id": 326412,
       "game_name": "Joey's Shisha Simulator",
       "file": "missing/J/326412-joeys-shisha-simulator.json"
@@ -11781,6 +11811,11 @@
       "igdb_id": 340781,
       "game_name": "Jungle Jim",
       "file": "missing/J/340781-jungle-jim.json"
+    },
+    {
+      "igdb_id": 268182,
+      "game_name": "Junior Fitness Trainer",
+      "file": "missing/J/268182-junior-fitness-trainer.json"
     },
     {
       "igdb_id": 326397,
@@ -12031,6 +12066,11 @@
       "igdb_id": 309654,
       "game_name": "Ken's Labyrinth II",
       "file": "missing/K/309654-kens-labyrinth-ii.json"
+    },
+    {
+      "igdb_id": 268204,
+      "game_name": "Kenny's Adventure",
+      "file": "missing/K/268204-kennys-adventure.json"
     },
     {
       "igdb_id": 340787,
@@ -12673,6 +12713,41 @@
       "file": "missing/L/315859-lets-play-oink-games-complete-edition.json"
     },
     {
+      "igdb_id": 268192,
+      "game_name": "Let's Sing 2017: Hits Francais et Internationaux",
+      "file": "missing/L/268192-lets-sing-2017-hits-francais-et-internationaux.json"
+    },
+    {
+      "igdb_id": 268194,
+      "game_name": "Let's Sing 2018: Hits Francais et Internationaux",
+      "file": "missing/L/268194-lets-sing-2018-hits-francais-et-internationaux.json"
+    },
+    {
+      "igdb_id": 268197,
+      "game_name": "Let's Sing 6: Version Espanola",
+      "file": "missing/L/268197-lets-sing-6-version-espanola.json"
+    },
+    {
+      "igdb_id": 268198,
+      "game_name": "Let's Sing 7: Version Espanola",
+      "file": "missing/L/268198-lets-sing-7-version-espanola.json"
+    },
+    {
+      "igdb_id": 268199,
+      "game_name": "Let's Sing 8: Version Espanola",
+      "file": "missing/L/268199-lets-sing-8-version-espanola.json"
+    },
+    {
+      "igdb_id": 268200,
+      "game_name": "Let's Sing 9: Version Espanola",
+      "file": "missing/L/268200-lets-sing-9-version-espanola.json"
+    },
+    {
+      "igdb_id": 268190,
+      "game_name": "Let's Sing: Radio Italia",
+      "file": "missing/L/268190-lets-sing-radio-italia.json"
+    },
+    {
       "igdb_id": 309094,
       "game_name": "Lethal RPG Destiny: Rebirth",
       "file": "missing/L/309094-lethal-rpg-destiny-rebirth.json"
@@ -13236,6 +13311,11 @@
       "igdb_id": 277610,
       "game_name": "Magnavody",
       "file": "missing/M/277610-magnavody.json"
+    },
+    {
+      "igdb_id": 268203,
+      "game_name": "Mahjong Party Pack",
+      "file": "missing/M/268203-mahjong-party-pack.json"
     },
     {
       "igdb_id": 277595,
@@ -18208,6 +18288,11 @@
       "file": "missing/Q/317007-quiz-planet.json"
     },
     {
+      "igdb_id": 268727,
+      "game_name": "Quoth The Raven",
+      "file": "missing/Q/268727-quoth-the-raven.json"
+    },
+    {
       "igdb_id": 276500,
       "game_name": "R-Type II",
       "file": "missing/R/276500-r-type-ii.json"
@@ -21908,6 +21993,11 @@
       "file": "missing/S/295542-stock-retail-investors.json"
     },
     {
+      "igdb_id": 268224,
+      "game_name": "Stolen Mushrooms",
+      "file": "missing/S/268224-stolen-mushrooms.json"
+    },
+    {
       "igdb_id": 329382,
       "game_name": "StompyBoy",
       "file": "missing/S/329382-stompyboy.json"
@@ -22036,6 +22126,11 @@
       "igdb_id": 318196,
       "game_name": "Street Fighter V: Cyber Akuma Skin",
       "file": "missing/S/318196-street-fighter-v-cyber-akuma-skin.json"
+    },
+    {
+      "igdb_id": 268209,
+      "game_name": "Street Football 2",
+      "file": "missing/S/268209-street-football-2.json"
     },
     {
       "igdb_id": 272015,
@@ -22456,6 +22551,11 @@
       "igdb_id": 307936,
       "game_name": "Super Russian Roulette",
       "file": "missing/S/307936-super-russian-roulette.json"
+    },
+    {
+      "igdb_id": 268225,
+      "game_name": "Super Shape Cascade",
+      "file": "missing/S/268225-super-shape-cascade.json"
     },
     {
       "igdb_id": 269293,
@@ -22918,6 +23018,11 @@
       "file": "missing/T/335705-team-fortress-2-gold-rush.json"
     },
     {
+      "igdb_id": 268226,
+      "game_name": "Tears of Adria",
+      "file": "missing/T/268226-tears-of-adria.json"
+    },
+    {
       "igdb_id": 318752,
       "game_name": "Tearscape",
       "file": "missing/T/318752-tearscape.json"
@@ -23068,6 +23173,11 @@
       "file": "missing/T/299434-terror-signal.json"
     },
     {
+      "igdb_id": 268227,
+      "game_name": "Terror Spikys",
+      "file": "missing/T/268227-terror-spikys.json"
+    },
+    {
       "igdb_id": 318778,
       "game_name": "Test Subject",
       "file": "missing/T/318778-test-subject.json"
@@ -23076,6 +23186,11 @@
       "igdb_id": 298847,
       "game_name": "Test: The Game",
       "file": "missing/T/298847-test-the-game.json"
+    },
+    {
+      "igdb_id": 268228,
+      "game_name": "Testimony of Help",
+      "file": "missing/T/268228-testimony-of-help.json"
     },
     {
       "igdb_id": 274181,
@@ -23101,6 +23216,11 @@
       "igdb_id": 303799,
       "game_name": "Thalassophobia",
       "file": "missing/T/303799-thalassophobia.json"
+    },
+    {
+      "igdb_id": 268720,
+      "game_name": "Thamz in a Wheelchair",
+      "file": "missing/T/268720-thamz-in-a-wheelchair.json"
     },
     {
       "igdb_id": 313509,
@@ -23248,6 +23368,11 @@
       "file": "missing/T/275316-the-brutalist-volumes.json"
     },
     {
+      "igdb_id": 268229,
+      "game_name": "The Bullet Hopper",
+      "file": "missing/T/268229-the-bullet-hopper.json"
+    },
+    {
       "igdb_id": 278685,
       "game_name": "The Cadet Files: Scene Unseen",
       "file": "missing/T/278685-the-cadet-files-scene-unseen.json"
@@ -23316,6 +23441,11 @@
       "igdb_id": 326980,
       "game_name": "The Cold Hand Reef",
       "file": "missing/T/326980-the-cold-hand-reef.json"
+    },
+    {
+      "igdb_id": 268230,
+      "game_name": "The Collar",
+      "file": "missing/T/268230-the-collar.json"
     },
     {
       "igdb_id": 338010,
@@ -23628,6 +23758,11 @@
       "file": "missing/T/337488-the-forgotten-village.json"
     },
     {
+      "igdb_id": 268215,
+      "game_name": "The Forgotten Village of Gondomayit",
+      "file": "missing/T/268215-the-forgotten-village-of-gondomayit.json"
+    },
+    {
       "igdb_id": 339099,
       "game_name": "The Game of Bionic Goat",
       "file": "missing/T/339099-the-game-of-bionic-goat.json"
@@ -23746,6 +23881,11 @@
       "igdb_id": 274189,
       "game_name": "The Island 2",
       "file": "missing/T/274189-the-island-2.json"
+    },
+    {
+      "igdb_id": 268195,
+      "game_name": "The Joy of Kaizo with Bob Ross",
+      "file": "missing/T/268195-the-joy-of-kaizo-with-bob-ross.json"
     },
     {
       "igdb_id": 322961,
@@ -23963,6 +24103,11 @@
       "file": "missing/T/320545-the-magic-garden.json"
     },
     {
+      "igdb_id": 268201,
+      "game_name": "The Magic Roundabout",
+      "file": "missing/T/268201-the-magic-roundabout.json"
+    },
+    {
       "igdb_id": 335680,
       "game_name": "The Maid",
       "file": "missing/T/335680-the-maid.json"
@@ -24048,6 +24193,11 @@
       "file": "missing/T/274200-the-outer-darkness.json"
     },
     {
+      "igdb_id": 268216,
+      "game_name": "The Paper Aircraft of Childhood",
+      "file": "missing/T/268216-the-paper-aircraft-of-childhood.json"
+    },
+    {
       "igdb_id": 320549,
       "game_name": "The Parish",
       "file": "missing/T/320549-the-parish.json"
@@ -24103,6 +24253,11 @@
       "file": "missing/T/319934-the-psychologist.json"
     },
     {
+      "igdb_id": 268214,
+      "game_name": "The Puzzle of Blocks",
+      "file": "missing/T/268214-the-puzzle-of-blocks.json"
+    },
+    {
       "igdb_id": 322370,
       "game_name": "The Question's Quest of Sin",
       "file": "missing/T/322370-the-questions-quest-of-sin.json"
@@ -24116,6 +24271,11 @@
       "igdb_id": 271489,
       "game_name": "The Rats in the Walls",
       "file": "missing/T/271489-the-rats-in-the-walls.json"
+    },
+    {
+      "igdb_id": 268726,
+      "game_name": "The Remote Outpost",
+      "file": "missing/T/268726-the-remote-outpost.json"
     },
     {
       "igdb_id": 271987,
@@ -24136,6 +24296,11 @@
       "igdb_id": 336932,
       "game_name": "The Rumble Fish: Complete Pack",
       "file": "missing/T/336932-the-rumble-fish-complete-pack.json"
+    },
+    {
+      "igdb_id": 268211,
+      "game_name": "The Saddle Club",
+      "file": "missing/T/268211-the-saddle-club.json"
     },
     {
       "igdb_id": 306645,
@@ -24313,6 +24478,11 @@
       "file": "missing/T/301614-the-strongest-ancestor.json"
     },
     {
+      "igdb_id": 268210,
+      "game_name": "The Studio 100: Play Island",
+      "file": "missing/T/268210-the-studio-100-play-island.json"
+    },
+    {
       "igdb_id": 270380,
       "game_name": "The Super Mario Bros. Movie 64 DS",
       "file": "missing/T/270380-the-super-mario-bros-movie-64-ds.json"
@@ -24321,6 +24491,11 @@
       "igdb_id": 294438,
       "game_name": "The Super Mario Bros. Super Literature Club!",
       "file": "missing/T/294438-the-super-mario-bros-super-literature-club.json"
+    },
+    {
+      "igdb_id": 268213,
+      "game_name": "The Sweetest Ring",
+      "file": "missing/T/268213-the-sweetest-ring.json"
     },
     {
       "igdb_id": 333396,
@@ -24423,6 +24598,11 @@
       "file": "missing/T/271494-the-vigil.json"
     },
     {
+      "igdb_id": 268725,
+      "game_name": "The Village of Archensheen",
+      "file": "missing/T/268725-the-village-of-archensheen.json"
+    },
+    {
       "igdb_id": 332829,
       "game_name": "The Voice of Germany: Das offizielle Videospiel!",
       "file": "missing/T/332829-the-voice-of-germany-das-offizielle-videospiel.json"
@@ -24476,6 +24656,11 @@
       "igdb_id": 327585,
       "game_name": "The Wonder Sword",
       "file": "missing/T/327585-the-wonder-sword.json"
+    },
+    {
+      "igdb_id": 268205,
+      "game_name": "The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version",
+      "file": "missing/T/268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json"
     },
     {
       "igdb_id": 329958,
@@ -24606,6 +24791,11 @@
       "igdb_id": 333373,
       "game_name": "ThrustMe Too",
       "file": "missing/T/333373-thrustme-too.json"
+    },
+    {
+      "igdb_id": 268219,
+      "game_name": "Thunder Jumper",
+      "file": "missing/T/268219-thunder-jumper.json"
     },
     {
       "igdb_id": 277589,
@@ -24928,6 +25118,11 @@
       "file": "missing/T/314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json"
     },
     {
+      "igdb_id": 268212,
+      "game_name": "Tower of Tears",
+      "file": "missing/T/268212-tower-of-tears.json"
+    },
+    {
       "igdb_id": 296648,
       "game_name": "TowerDefenceDesigner",
       "file": "missing/T/296648-towerdefencedesigner.json"
@@ -25098,6 +25293,11 @@
       "file": "missing/T/306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json"
     },
     {
+      "igdb_id": 268220,
+      "game_name": "Trakonius",
+      "file": "missing/T/268220-trakonius.json"
+    },
+    {
       "igdb_id": 328281,
       "game_name": "Transcontinental",
       "file": "missing/T/328281-transcontinental.json"
@@ -25216,6 +25416,11 @@
       "igdb_id": 318779,
       "game_name": "Triangle Strategy",
       "file": "missing/T/318779-triangle-strategy.json"
+    },
+    {
+      "igdb_id": 268221,
+      "game_name": "Tribe of the Accord",
+      "file": "missing/T/268221-tribe-of-the-accord.json"
     },
     {
       "igdb_id": 293387,
@@ -25473,6 +25678,11 @@
       "file": "missing/U/276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json"
     },
     {
+      "igdb_id": 268222,
+      "game_name": "Ucube Avcıları",
+      "file": "missing/U/268222-ucube-avc-lar.json"
+    },
+    {
       "igdb_id": 329940,
       "game_name": "UDAA",
       "file": "missing/U/329940-udaa.json"
@@ -25551,6 +25761,11 @@
       "igdb_id": 337447,
       "game_name": "Ultranatural",
       "file": "missing/U/337447-ultranatural.json"
+    },
+    {
+      "igdb_id": 268223,
+      "game_name": "Ultrazone",
+      "file": "missing/U/268223-ultrazone.json"
     },
     {
       "igdb_id": 313487,
@@ -25713,6 +25928,11 @@
       "file": "missing/U/298846-unending-dawn.json"
     },
     {
+      "igdb_id": 268218,
+      "game_name": "Unexpected Consequences",
+      "file": "missing/U/268218-unexpected-consequences.json"
+    },
+    {
       "igdb_id": 338589,
       "game_name": "Unfinished 2",
       "file": "missing/U/338589-unfinished-2.json"
@@ -25746,6 +25966,11 @@
       "igdb_id": 290695,
       "game_name": "Unknown Signal: Invasion",
       "file": "missing/U/290695-unknown-signal-invasion.json"
+    },
+    {
+      "igdb_id": 268217,
+      "game_name": "Unlimited",
+      "file": "missing/U/268217-unlimited.json"
     },
     {
       "igdb_id": 338587,
@@ -26593,6 +26818,11 @@
       "file": "missing/W/272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json"
     },
     {
+      "igdb_id": 268208,
+      "game_name": "We Sing Deutsche Hits 2",
+      "file": "missing/W/268208-we-sing-deutsche-hits-2.json"
+    },
+    {
       "igdb_id": 315277,
       "game_name": "Weasel Willy",
       "file": "missing/W/315277-weasel-willy.json"
@@ -26768,6 +26998,11 @@
       "file": "missing/W/310753-why-did-the-chicken-cross-the-road.json"
     },
     {
+      "igdb_id": 268206,
+      "game_name": "Wi-Fi Taiou: Gensen Table Game Wii",
+      "file": "missing/W/268206-wi-fi-taiou-gensen-table-game-wii.json"
+    },
+    {
       "igdb_id": 324691,
       "game_name": "Wicked Plague",
       "file": "missing/W/324691-wicked-plague.json"
@@ -26806,6 +27041,11 @@
       "igdb_id": 275895,
       "game_name": "Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack",
       "file": "missing/W/275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json"
+    },
+    {
+      "igdb_id": 268207,
+      "game_name": "Winning Eleven Play Maker 2010: Aoki Samurai no Chousen",
+      "file": "missing/W/268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json"
     },
     {
       "igdb_id": 298863,
