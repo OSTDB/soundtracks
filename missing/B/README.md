@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
+| Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
+| BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
