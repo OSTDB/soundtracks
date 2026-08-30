@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
+| Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
+| My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
