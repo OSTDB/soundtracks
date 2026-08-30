@@ -72,11 +72,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
+| One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
+| Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
+| Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
