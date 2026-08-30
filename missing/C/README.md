@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
+| Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
