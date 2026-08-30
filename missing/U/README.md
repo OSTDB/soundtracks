@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
+| Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
@@ -17,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
+| Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
