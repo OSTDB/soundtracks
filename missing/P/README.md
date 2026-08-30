@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
+| Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -179,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
+| Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
@@ -327,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | PUBG: Blindspot | 321135 | [321135-pubg-blindspot.json](./321135-pubg-blindspot.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
+| Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
