@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
+| Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
@@ -106,12 +107,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
+| Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
+| Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
@@ -173,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
+| Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
@@ -181,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
+| Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
@@ -279,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
+| CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
