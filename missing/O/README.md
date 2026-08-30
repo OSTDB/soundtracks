@@ -47,7 +47,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
+| Omega no Shikai 1. Shiki no Hajimari | 260965 | [260965-omega-no-shikai-1-shiki-no-hajimari.json](./260965-omega-no-shikai-1-shiki-no-hajimari.json) |
+| Omega no Shikai: Aki Kaketa Shiki no Ai | 260966 | [260966-omega-no-shikai-aki-kaketa-shiki-no-ai.json](./260966-omega-no-shikai-aki-kaketa-shiki-no-ai.json) |
+| Omega no Shikai: Aki Kaketa Shiki no Ai: Zan | 260968 | [260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json](./260968-omega-no-shikai-aki-kaketa-shiki-no-ai-zan.json) |
+| Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
+| Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
