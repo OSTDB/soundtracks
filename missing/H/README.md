@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
+| Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
+| Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
@@ -128,12 +130,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
+| Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
+| Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
@@ -150,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
+| Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
