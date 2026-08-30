@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
+| 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
+| 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
