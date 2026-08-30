@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
+| 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
@@ -58,11 +59,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
+| 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
+| 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
