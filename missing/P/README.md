@@ -98,6 +98,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
+| Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
+| Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5: Dancing in starlight - Dance! (OP ver.) | 324704 | [324704-persona-5-dancing-in-starlight-dance-op-ver.json](./324704-persona-5-dancing-in-starlight-dance-op-ver.json) |
 | Persona 5: Dancing in Starlight - Groovy | 324705 | [324705-persona-5-dancing-in-starlight-groovy.json](./324705-persona-5-dancing-in-starlight-groovy.json) |
