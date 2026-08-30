@@ -149,6 +149,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
+| Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
+| Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
@@ -161,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
+| Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
