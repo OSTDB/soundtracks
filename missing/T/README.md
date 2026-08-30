@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
+| Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drawnjuring | 311807 | [311807-the-drawnjuring.json](./311807-the-drawnjuring.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
+| The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
 | The Forgotten Village of Gondomayit | 268215 | [268215-the-forgotten-village-of-gondomayit.json](./268215-the-forgotten-village-of-gondomayit.json) |
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
+| The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
@@ -441,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
+| The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
@@ -565,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
+| Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
