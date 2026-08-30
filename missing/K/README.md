@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
+| Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
