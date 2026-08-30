@@ -8,3 +8,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
+| Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
+| Xi | 335683 | [335683-xi.json](./335683-xi.json) |
+| XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
+| Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
+| Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
+| Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
+| Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
