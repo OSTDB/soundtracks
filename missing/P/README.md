@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
+| Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
+| Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
+| Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket Plants | 265949 | [265949-pocket-plants.json](./265949-pocket-plants.json) |
