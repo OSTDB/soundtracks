@@ -11,8 +11,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
+| Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
+| Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
@@ -22,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
+| Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
