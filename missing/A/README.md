@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
+| Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
@@ -247,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
+| Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
@@ -303,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
+| Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
