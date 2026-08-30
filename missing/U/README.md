@@ -16,11 +16,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
+| Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
+| Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
+| Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
+| Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
+| Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
+| Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
+| Umineko no Naku Koro ni: Nana Shimai no Valentine | 272538 | [272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json](./272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json) |
+| Umineko no Naku Koro ni: Sakutaro, Rengoku-san he | 272536 | [272536-umineko-no-naku-koro-ni-sakutaro-rengoku-san-he.json](./272536-umineko-no-naku-koro-ni-sakutaro-rengoku-san-he.json) |
+| Umineko no Naku Koro ni: Tenshi 17-sai Higashi-shi - 44a | 272537 | [272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json](./272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json) |
+| Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
+| Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
