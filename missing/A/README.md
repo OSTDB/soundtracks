@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
+| American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
@@ -154,7 +155,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
+| Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
@@ -238,11 +241,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
+| Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
+| Atari Flashback 3 | 277037 | [277037-atari-flashback-3.json](./277037-atari-flashback-3.json) |
+| Atari Flashback 4 | 277039 | [277039-atari-flashback-4.json](./277039-atari-flashback-4.json) |
+| Atari Flashback 4: 40th Anniversary - Deluxe Edition | 277042 | [277042-atari-flashback-4-40th-anniversary-deluxe-edition.json](./277042-atari-flashback-4-40th-anniversary-deluxe-edition.json) |
+| Atari Flashback 5 | 277043 | [277043-atari-flashback-5.json](./277043-atari-flashback-5.json) |
+| Atari Flashback 6 | 277044 | [277044-atari-flashback-6.json](./277044-atari-flashback-6.json) |
+| Atari Flashback 64 | 277041 | [277041-atari-flashback-64.json](./277041-atari-flashback-64.json) |
+| Atari Flashback 7 | 277046 | [277046-atari-flashback-7.json](./277046-atari-flashback-7.json) |
+| Atari Flashback 7: Deluxe | 277047 | [277047-atari-flashback-7-deluxe.json](./277047-atari-flashback-7-deluxe.json) |
+| Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
+| Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
+| Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Marie | 329384 | [329384-atelier-marie.json](./329384-atelier-marie.json) |
