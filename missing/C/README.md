@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
+| Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch the Sperm | 319974 | [319974-catch-the-sperm.json](./319974-catch-the-sperm.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
+| Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
+| Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
