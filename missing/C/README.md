@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
+| Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
+| Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
@@ -180,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
+| Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
@@ -213,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
+| Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
@@ -225,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
+| Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
