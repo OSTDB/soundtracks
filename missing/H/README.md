@@ -24,6 +24,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
+| Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
@@ -137,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
+| Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
@@ -240,4 +243,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
