@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
