@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
+| Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -37,15 +38,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
+| Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
+| Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Flight | 297796 | [297796-neon-flight.json](./297796-neon-flight.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
+| Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
@@ -54,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
+| New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
@@ -76,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
+| Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
@@ -114,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
+| Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
