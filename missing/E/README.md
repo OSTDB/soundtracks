@@ -150,13 +150,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
+| Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
+| Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Krieger Alpha Tin Machine Set | 298328 | [298328-exoprimal-krieger-alpha-tin-machine-set.json](./298328-exoprimal-krieger-alpha-tin-machine-set.json) |
 | Exoprimal: Krieger Mega Man Set | 298332 | [298332-exoprimal-krieger-mega-man-set.json](./298332-exoprimal-krieger-mega-man-set.json) |
 | Exoprimal: Murasame Alpha Gladiator Set | 298331 | [298331-exoprimal-murasame-alpha-gladiator-set.json](./298331-exoprimal-murasame-alpha-gladiator-set.json) |
 | Exoprimal: Nimbus Alpha Kimen Set | 298327 | [298327-exoprimal-nimbus-alpha-kimen-set.json](./298327-exoprimal-nimbus-alpha-kimen-set.json) |
+| Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
 | Exoprimal: Skywave Alpha Future Flight Set | 298333 | [298333-exoprimal-skywave-alpha-future-flight-set.json](./298333-exoprimal-skywave-alpha-future-flight-set.json) |
 | Exoprimal: Vigilant Alpha Insurgent Set | 298334 | [298334-exoprimal-vigilant-alpha-insurgent-set.json](./298334-exoprimal-vigilant-alpha-insurgent-set.json) |
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
+| Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
+| Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
