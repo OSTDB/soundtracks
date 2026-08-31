@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
+| Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
+| Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
@@ -107,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
+| Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
@@ -208,12 +211,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
+| First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
+| First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
@@ -328,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
+| Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
