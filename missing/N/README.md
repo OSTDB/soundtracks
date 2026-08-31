@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
+| Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
@@ -124,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
+| Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
+| Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
