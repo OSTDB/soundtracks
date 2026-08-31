@@ -67,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
+| Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
+| Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
@@ -86,18 +88,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Property | 335697 | [335697-haunted-property.json](./335697-haunted-property.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
+| Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted? | 265980 | [265980-haunted.json](./265980-haunted.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
+| Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
 | Hawaii Detective: Killing of a Krypto King | 251806 | [251806-hawaii-detective-killing-of-a-krypto-king.json](./251806-hawaii-detective-killing-of-a-krypto-king.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
+| Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
@@ -113,12 +118,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
+| Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
+| Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
@@ -131,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
+| Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
@@ -145,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
+| Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
@@ -152,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
+| Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
