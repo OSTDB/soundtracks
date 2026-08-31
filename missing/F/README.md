@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
+| Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
@@ -310,5 +311,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
