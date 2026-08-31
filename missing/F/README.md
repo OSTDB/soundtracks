@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeforce Airplanes | 340249 | [340249-freeforce-airplanes.json](./340249-freeforce-airplanes.json) |
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
