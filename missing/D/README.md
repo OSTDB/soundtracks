@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
+| Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
@@ -431,11 +432,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
+| Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
+| Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
