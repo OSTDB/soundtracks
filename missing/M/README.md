@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
+| Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
+| Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
@@ -410,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
+| Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
@@ -419,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
+| Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
@@ -483,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
+| Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
@@ -634,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
+| Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
