@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
+| Let's Park: Backyard Edition | 214185 | [214185-lets-park-backyard-edition.json](./214185-lets-park-backyard-edition.json) |
 | Let's Play Jigsaw Puzzles: A Journey Across Continents | 263210 | [263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json](./263210-lets-play-jigsaw-puzzles-a-journey-across-continents.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Sing | 268191 | [268191-lets-sing.json](./268191-lets-sing.json) |
@@ -332,3 +333,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
+| Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
