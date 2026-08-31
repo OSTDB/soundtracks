@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
+| I Love Finding Birds | 236500 | [236500-i-love-finding-birds.json](./236500-i-love-finding-birds.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
@@ -34,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | IAlly | 250008 | [250008-ially.json](./250008-ially.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
+| Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
@@ -108,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
+| Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
