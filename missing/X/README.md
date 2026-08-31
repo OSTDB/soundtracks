@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
+| XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
