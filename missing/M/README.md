@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
+| Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
@@ -39,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
+| Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories: Millennium Girl | 263206 | [263206-memories-millennium-girl.json](./263206-memories-millennium-girl.json) |
+| Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
@@ -261,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
+| Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
