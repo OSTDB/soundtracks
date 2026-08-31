@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
+| Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
+| That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
@@ -425,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
+| The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
@@ -577,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
+| Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
@@ -600,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
+| Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
