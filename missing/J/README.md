@@ -167,3 +167,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
+| Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
