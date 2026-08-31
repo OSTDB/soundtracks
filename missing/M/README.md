@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneuver Warfare: Mission Pack West 38-40 | 293420 | [293420-maneuver-warfare-mission-pack-west-38-40.json](./293420-maneuver-warfare-mission-pack-west-38-40.json) |
 | Maneuver Warfare: Mission Pack West 44-45 | 293421 | [293421-maneuver-warfare-mission-pack-west-44-45.json](./293421-maneuver-warfare-mission-pack-west-44-45.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
+| Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
+| Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
+| Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
@@ -643,9 +646,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
+| My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
+| My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
