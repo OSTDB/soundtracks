@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
+| Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
+| Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
@@ -302,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
+| Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
