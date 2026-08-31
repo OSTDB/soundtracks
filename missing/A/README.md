@@ -228,6 +228,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
+| Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
+| Akatsuki no Goei Trinity | 202954 | [202954-akatsuki-no-goei-trinity.json](./202954-akatsuki-no-goei-trinity.json) |
+| Akatsuki no Goei Trinity: Complete Edition | 202955 | [202955-akatsuki-no-goei-trinity-complete-edition.json](./202955-akatsuki-no-goei-trinity-complete-edition.json) |
+| Akatsuki no Goei: Principal-tachi no Kyuujitsu | 202952 | [202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json](./202952-akatsuki-no-goei-principal-tachi-no-kyuujitsu.json) |
+| Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
@@ -298,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
+| Altered Beast | 202941 | [202941-altered-beast.json](./202941-altered-beast.json) |
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
@@ -392,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animaloid Girl | 263199 | [263199-animaloid-girl.json](./263199-animaloid-girl.json) |
+| Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
@@ -474,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
+| Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
