@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
+| Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
+| Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
+| Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
@@ -573,14 +576,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
+| Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
+| Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
+| Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
+| Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
+| Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
+| Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
+| Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
