@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
+| EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
