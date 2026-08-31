@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
+| Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
+| Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
@@ -60,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
+| Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
@@ -218,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
+| RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
