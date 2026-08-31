@@ -97,6 +97,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
+| Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
+| Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
+| Endless War 3 | 234920 | [234920-endless-war-3.json](./234920-endless-war-3.json) |
+| Endless War 4 | 234921 | [234921-endless-war-4.json](./234921-endless-war-4.json) |
+| Endless War 5 | 234922 | [234922-endless-war-5.json](./234922-endless-war-5.json) |
+| Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
+| Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
