@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
+| Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
