@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
+| Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario World 64 | 230538 | [230538-super-mario-world-64.json](./230538-super-mario-world-64.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
 | Super Metroid CRE 3 | 255371 | [255371-super-metroid-cre-3.json](./255371-super-metroid-cre-3.json) |
 | Super Metroid: Airy | 255322 | [255322-super-metroid-airy.json](./255322-super-metroid-airy.json) |
+| Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
@@ -1100,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
+| Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
@@ -1123,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
+| Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
