@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
+| Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
