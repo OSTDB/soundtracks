@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
+| Battle Sage | 217517 | [217517-battle-sage.json](./217517-battle-sage.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
@@ -184,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
+| Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
@@ -429,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
 | Bounce Lounge | 233232 | [233232-bounce-lounge.json](./233232-bounce-lounge.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
+| Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
@@ -548,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
+| Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
