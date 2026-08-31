@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
+| Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
+| Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
@@ -345,11 +347,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
+| City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
+| City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
+| CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
