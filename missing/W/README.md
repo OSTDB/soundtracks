@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
+| WarioWare Mouse Workz! | 250046 | [250046-warioware-mouse-workz.json](./250046-warioware-mouse-workz.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
@@ -90,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
+| WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
