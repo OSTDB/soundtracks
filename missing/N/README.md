@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
+| Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
@@ -199,5 +200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
+| Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
