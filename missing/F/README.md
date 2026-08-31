@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
+| Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
@@ -327,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
+| Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
