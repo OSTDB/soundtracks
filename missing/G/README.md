@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
+| Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
+| Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
@@ -139,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
+| Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
@@ -150,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
+| Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
@@ -176,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
+| Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
@@ -221,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
+| Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
@@ -339,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
+| Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
@@ -389,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
+| Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
