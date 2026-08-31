@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
+| Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
