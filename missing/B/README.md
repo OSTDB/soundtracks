@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
+| Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
+| Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
