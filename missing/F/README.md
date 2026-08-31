@@ -9,6 +9,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
+| Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
+| Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
+| Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
+| Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
@@ -52,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
@@ -341,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
@@ -391,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
+| Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
