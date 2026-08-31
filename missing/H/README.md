@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
+| Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Hangover | 272005 | [272005-happy-hangover.json](./272005-happy-hangover.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
+| Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
