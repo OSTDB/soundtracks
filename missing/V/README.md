@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
+| Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
