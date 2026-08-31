@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
+| Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
+| Empty | 229384 | [229384-empty.json](./229384-empty.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
@@ -120,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Epic Party Clicker | 314632 | [314632-epic-party-clicker.json](./314632-epic-party-clicker.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
