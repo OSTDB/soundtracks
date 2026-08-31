@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
+| Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
