@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
+| You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
