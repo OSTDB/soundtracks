@@ -243,6 +243,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
 | Chotex Jam | 312913 | [312913-chotex-jam.json](./312913-chotex-jam.json) |
+| Chotto Magic Taizen: Date Uranai | 220847 | [220847-chotto-magic-taizen-date-uranai.json](./220847-chotto-magic-taizen-date-uranai.json) |
+| Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
+| Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
