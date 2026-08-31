@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
+| Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
+| Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
@@ -159,7 +161,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
+| Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
+| Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
