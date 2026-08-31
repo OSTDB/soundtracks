@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
+| Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
+| Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
@@ -240,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
+| Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
