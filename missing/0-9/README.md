@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
 | 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
+| 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
