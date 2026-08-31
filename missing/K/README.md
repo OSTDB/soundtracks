@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
+| Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
