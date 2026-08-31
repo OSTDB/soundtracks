@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
+| Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
