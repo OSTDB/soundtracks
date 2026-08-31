@@ -47,6 +47,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
+| Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
