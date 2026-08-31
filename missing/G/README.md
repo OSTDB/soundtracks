@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
+| Gnosis | 201292 | [201292-gnosis.json](./201292-gnosis.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
