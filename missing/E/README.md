@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
+| Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
