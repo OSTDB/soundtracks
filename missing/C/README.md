@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
+| Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
@@ -197,6 +199,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
+| Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
