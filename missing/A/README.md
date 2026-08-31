@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
+| A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
@@ -239,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
+| Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
