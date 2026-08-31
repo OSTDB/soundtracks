@@ -86,10 +86,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
+| Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
+| Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
@@ -174,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Year 1 Pass | 293920 | [293920-insurgency-sandstorm-year-1-pass.json](./293920-insurgency-sandstorm-year-1-pass.json) |
 | Insurgency: Sandstorm - Year 1 Pass + Year 2 Pass | 293922 | [293922-insurgency-sandstorm-year-1-pass-year-2-pass.json](./293922-insurgency-sandstorm-year-1-pass-year-2-pass.json) |
 | Insurgency: Sandstorm - Year 2 Pass | 293921 | [293921-insurgency-sandstorm-year-2-pass.json](./293921-insurgency-sandstorm-year-2-pass.json) |
+| Insurrection: Cyborgs Awakening | 211945 | [211945-insurrection-cyborgs-awakening.json](./211945-insurrection-cyborgs-awakening.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
