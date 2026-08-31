@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
+| Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
