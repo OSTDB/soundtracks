@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
+| Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
+| Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
