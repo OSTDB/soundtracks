@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
+| Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
