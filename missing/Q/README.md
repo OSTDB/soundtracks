@@ -53,5 +53,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Bronze Edition | 232714 | [232714-quiz-thiz-spain-bronze-edition.json](./232714-quiz-thiz-spain-bronze-edition.json) |
 | Quiz Thiz Spain: Gold Edition | 232717 | [232717-quiz-thiz-spain-gold-edition.json](./232717-quiz-thiz-spain-gold-edition.json) |
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
+| Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
