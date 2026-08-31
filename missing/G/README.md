@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
+| Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
+| Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
