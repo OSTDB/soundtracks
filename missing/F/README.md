@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
+| Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
+| Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
@@ -227,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
+| Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
