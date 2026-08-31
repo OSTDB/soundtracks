@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
+| Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
+| Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
@@ -351,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
+| Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
