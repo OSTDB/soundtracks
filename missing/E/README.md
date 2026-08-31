@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
+| EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
