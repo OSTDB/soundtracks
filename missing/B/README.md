@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
+| Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back Rooms: Ground Zero | 250641 | [250641-back-rooms-ground-zero.json](./250641-back-rooms-ground-zero.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
+| Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
@@ -507,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
+| Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
