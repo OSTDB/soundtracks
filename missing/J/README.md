@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
+| Jumplight Odyssey | 229965 | [229965-jumplight-odyssey.json](./229965-jumplight-odyssey.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
