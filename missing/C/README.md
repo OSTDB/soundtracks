@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
+| Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
@@ -105,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
+| Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
@@ -212,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
+| City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
@@ -308,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
+| Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
@@ -428,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
+| Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
