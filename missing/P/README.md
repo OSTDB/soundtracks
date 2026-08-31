@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
+| Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
