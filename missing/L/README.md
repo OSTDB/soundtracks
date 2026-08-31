@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
+| Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
+| Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
@@ -212,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
+| Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
