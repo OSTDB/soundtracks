@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
+| Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
+| Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
@@ -368,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 332234 | [332234-bubble-bobble.json](./332234-bubble-bobble.json) |
 | Bubble Bobble | 332242 | [332242-bubble-bobble.json](./332242-bubble-bobble.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
+| Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
