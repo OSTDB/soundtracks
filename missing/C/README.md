@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
+| CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
+| Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
@@ -485,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
+| Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
@@ -604,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
+| Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
