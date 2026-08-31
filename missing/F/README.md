@@ -500,6 +500,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
+| Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
+| Fushigi no Gensoukyou 3 Plus | 206959 | [206959-fushigi-no-gensoukyou-3-plus.json](./206959-fushigi-no-gensoukyou-3-plus.json) |
+| Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
+| Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
+| Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
