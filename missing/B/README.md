@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
+| Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
@@ -62,7 +63,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
+| Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
+| Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
+| Barbie for Girls Hearts & Stars | 245568 | [245568-barbie-for-girls-hearts-and-stars.json](./245568-barbie-for-girls-hearts-and-stars.json) |
+| Barbie for Girls Horseback Riding | 245567 | [245567-barbie-for-girls-horseback-riding.json](./245567-barbie-for-girls-horseback-riding.json) |
+| Barbie for Girls In-Line Skating | 245566 | [245566-barbie-for-girls-in-line-skating.json](./245566-barbie-for-girls-in-line-skating.json) |
+| Barbie for Girls Mountain Bike Riding | 245565 | [245565-barbie-for-girls-mountain-bike-riding.json](./245565-barbie-for-girls-mountain-bike-riding.json) |
+| Barbie for Girls Shopping Adventure | 245564 | [245564-barbie-for-girls-shopping-adventure.json](./245564-barbie-for-girls-shopping-adventure.json) |
+| Barbie for Girls Soccer | 245563 | [245563-barbie-for-girls-soccer.json](./245563-barbie-for-girls-soccer.json) |
+| Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Dr. Eggman (Game Ichizoku) | 329355 | [329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json](./329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json) |
@@ -86,16 +96,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
+| Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
+| Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
+| Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
+| Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
+| Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
+| Batman Begins: Batarang | 245556 | [245556-batman-begins-batarang.json](./245556-batman-begins-batarang.json) |
+| Batman Begins: Batmobile | 245555 | [245555-batman-begins-batmobile.json](./245555-batman-begins-batmobile.json) |
+| Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
+| Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
+| Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
@@ -110,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
+| Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
@@ -207,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
+| Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
@@ -215,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
+| Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -285,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
+| Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
@@ -302,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
+| Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
@@ -319,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
+| Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
@@ -334,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
+| Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
