@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Trish Costume V2 | 324711 | [324711-persona-5-dancing-in-starlight-trish-costume-v2.json](./324711-persona-5-dancing-in-starlight-trish-costume-v2.json) |
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
+| Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
+| Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
@@ -200,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
+| Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
@@ -231,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
+| Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
@@ -321,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
+| Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
@@ -373,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
+| Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
