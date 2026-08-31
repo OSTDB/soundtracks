@@ -16,7 +16,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
+| 10 Days Under the Sea | 205800 | [205800-10-days-under-the-sea.json](./205800-10-days-under-the-sea.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
+| 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Crime Cats | 301028 | [301028-100-crime-cats.json](./301028-100-crime-cats.json) |
@@ -53,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
+| 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
@@ -72,15 +75,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
+| 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
+| 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
+| 3D Bowling USA | 205830 | [205830-3d-bowling-usa.json](./205830-3d-bowling-usa.json) |
+| 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
+| 3D Caveman Rocks & 3D Brick Bustin Madness | 205834 | [205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json](./205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json) |
+| 3D Columns | 205835 | [205835-3d-columns.json](./205835-3d-columns.json) |
+| 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
+| 3D Galaxy Fighters | 205839 | [205839-3d-galaxy-fighters.json](./205839-3d-galaxy-fighters.json) |
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
