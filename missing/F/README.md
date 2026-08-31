@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
+| Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
