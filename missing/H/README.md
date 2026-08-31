@@ -196,7 +196,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
+| Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
+| Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
+| Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
@@ -225,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
+| Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
