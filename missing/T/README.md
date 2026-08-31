@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
+| That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
+| The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
@@ -428,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
+| The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legend of Azarias Rebirth | 294994 | [294994-the-legend-of-azarias-rebirth.json](./294994-the-legend-of-azarias-rebirth.json) |
@@ -651,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
+| The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
@@ -871,9 +875,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
+| Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
+| Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
+| Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
+| Touhou Spell Bubble: Touhou Eurobeat Pack | 209135 | [209135-touhou-spell-bubble-touhou-eurobeat-pack.json](./209135-touhou-spell-bubble-touhou-eurobeat-pack.json) |
+| Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
+| Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
