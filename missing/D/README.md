@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
+| Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
+| Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
