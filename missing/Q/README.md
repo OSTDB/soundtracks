@@ -31,4 +31,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
+| Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
