@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
+| Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
@@ -95,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
+| Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
