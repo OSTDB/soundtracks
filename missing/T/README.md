@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
+| Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
@@ -72,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
+| Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
+| Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tiger Tank 59 I: A-Gun MP040 | 238717 | [238717-tiger-tank-59-i-a-gun-mp040.json](./238717-tiger-tank-59-i-a-gun-mp040.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
