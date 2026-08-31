@@ -88,6 +88,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
+| Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
+| Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
@@ -208,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
+| Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
@@ -410,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
+| Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
