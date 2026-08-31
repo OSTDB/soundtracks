@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
