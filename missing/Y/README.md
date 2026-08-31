@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
+| Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yohane the Parhelion: Additional Character Pack vol.1 "Dia & Hanamaru & Kanan" | 301020 | [301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json](./301020-yohane-the-parhelion-additional-character-pack-vol-1-dia-and-hanamaru-and-kanan.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
