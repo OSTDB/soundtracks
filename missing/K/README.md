@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
+| Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
