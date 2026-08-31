@@ -93,7 +93,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
+| Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
+| Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
