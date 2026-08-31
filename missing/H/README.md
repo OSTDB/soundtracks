@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
+| Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
@@ -332,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
+| Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
