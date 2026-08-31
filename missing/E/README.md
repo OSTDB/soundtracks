@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Raiders | 231614 | [231614-elemental-raiders.json](./231614-elemental-raiders.json) |
+| Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
