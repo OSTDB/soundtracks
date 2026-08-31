@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
+| Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
 | Vampire Survivors: The Coop | 339631 | [339631-vampire-survivors-the-coop.json](./339631-vampire-survivors-the-coop.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
