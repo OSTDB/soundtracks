@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
+| I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
