@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
+| Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
+| Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
+| Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
