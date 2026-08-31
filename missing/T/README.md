@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
+| The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Murder Hotel | 247770 | [247770-the-murder-hotel.json](./247770-the-murder-hotel.json) |
 | The Mysteries of Underville | 268754 | [268754-the-mysteries-of-underville.json](./268754-the-mysteries-of-underville.json) |
@@ -696,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
+| Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
