@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
+| Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
@@ -58,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Old Gay Cats Look at Old Photos | 264353 | [264353-old-gay-cats-look-at-old-photos.json](./264353-old-gay-cats-look-at-old-photos.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
+| Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
@@ -86,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | Once a Porn a Time | 216980 | [216980-once-a-porn-a-time.json](./216980-once-a-porn-a-time.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
@@ -108,9 +111,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
+| One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
+| OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
@@ -121,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only the Rich May Die | 270940 | [270940-only-the-rich-may-die.json](./270940-only-the-rich-may-die.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
+| OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
