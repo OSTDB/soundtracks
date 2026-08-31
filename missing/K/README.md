@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble | 273635 | [273635-kamitsubaki-city-ensemble.json](./273635-kamitsubaki-city-ensemble.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
+| Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
@@ -136,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
+| KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
