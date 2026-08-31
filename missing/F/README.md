@@ -425,6 +425,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
+| Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
