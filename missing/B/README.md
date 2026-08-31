@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
+| Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
@@ -527,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
+| Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
@@ -542,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
+| Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
