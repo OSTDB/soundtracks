@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
+| Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
