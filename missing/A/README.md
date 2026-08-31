@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
+| Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
