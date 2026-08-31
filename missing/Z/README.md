@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
+| Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
