@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
+| Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slave | 209698 | [209698-death-slave.json](./209698-death-slave.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
+| Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
@@ -444,6 +446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomworld Roulette: Session 2 | 312909 | [312909-doomworld-roulette-session-2.json](./312909-doomworld-roulette-session-2.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
+| Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
+| Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
@@ -485,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
+| Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
