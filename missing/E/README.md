@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
