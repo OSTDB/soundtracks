@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
+| HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
