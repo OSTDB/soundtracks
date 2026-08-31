@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: IJN Yamashiro Pack | 336934 | [336934-war-thunder-ijn-yamashiro-pack.json](./336934-war-thunder-ijn-yamashiro-pack.json) |
