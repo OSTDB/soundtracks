@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
