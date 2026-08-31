@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
+| Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
@@ -1071,12 +1072,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
+| Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
+| Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
+| Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
+| Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
@@ -1124,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
+| Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
