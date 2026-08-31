@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
+| Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
