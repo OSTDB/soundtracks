@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
+| Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
+| Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
@@ -184,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
+| Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
@@ -203,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
+| Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
