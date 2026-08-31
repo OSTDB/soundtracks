@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
+| Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
@@ -342,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
+| Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Sex Resort | 309687 | [309687-furry-sex-resort.json](./309687-furry-sex-resort.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
