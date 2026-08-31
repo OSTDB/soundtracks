@@ -77,6 +77,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
+| Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
+| Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
@@ -114,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
+| Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
@@ -250,8 +253,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
+| Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
+| Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
@@ -436,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
+| Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
