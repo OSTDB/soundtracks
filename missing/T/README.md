@@ -153,10 +153,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
+| Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
@@ -705,6 +707,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
+| Tokyo Yamanote Boys Black Vanilla Disc | 221958 | [221958-tokyo-yamanote-boys-black-vanilla-disc.json](./221958-tokyo-yamanote-boys-black-vanilla-disc.json) |
+| Tokyo Yamanote Boys Dark Cherry Disc | 221955 | [221955-tokyo-yamanote-boys-dark-cherry-disc.json](./221955-tokyo-yamanote-boys-dark-cherry-disc.json) |
+| Tokyo Yamanote Boys Fresh Ginger Disc | 221957 | [221957-tokyo-yamanote-boys-fresh-ginger-disc.json](./221957-tokyo-yamanote-boys-fresh-ginger-disc.json) |
+| Tokyo Yamanote Boys Honey Milk Disc | 221951 | [221951-tokyo-yamanote-boys-honey-milk-disc.json](./221951-tokyo-yamanote-boys-honey-milk-disc.json) |
+| Tokyo Yamanote Boys Portable Dark Cherry Disc | 221956 | [221956-tokyo-yamanote-boys-portable-dark-cherry-disc.json](./221956-tokyo-yamanote-boys-portable-dark-cherry-disc.json) |
+| Tokyo Yamanote Boys Portable Honey Milk Disc | 221952 | [221952-tokyo-yamanote-boys-portable-honey-milk-disc.json](./221952-tokyo-yamanote-boys-portable-honey-milk-disc.json) |
+| Tokyo Yamanote Boys Portable Super Mint Disc | 221954 | [221954-tokyo-yamanote-boys-portable-super-mint-disc.json](./221954-tokyo-yamanote-boys-portable-super-mint-disc.json) |
+| Tokyo Yamanote Boys Pure Raspberry Disc | 221959 | [221959-tokyo-yamanote-boys-pure-raspberry-disc.json](./221959-tokyo-yamanote-boys-pure-raspberry-disc.json) |
+| Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
+| Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
