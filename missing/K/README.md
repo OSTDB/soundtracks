@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
+| Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
