@@ -357,7 +357,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
+| Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
+| Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
@@ -489,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
+| Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
