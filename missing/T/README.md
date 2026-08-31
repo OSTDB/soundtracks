@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
+| Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
+| The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
+| The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
 | The Soul Ring of Soro: Divine Realm | 301603 | [301603-the-soul-ring-of-soro-divine-realm.json](./301603-the-soul-ring-of-soro-divine-realm.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
@@ -527,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
+| This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
 | This Morning I Decided to Die | 258695 | [258695-this-morning-i-decided-to-die.json](./258695-this-morning-i-decided-to-die.json) |
@@ -593,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
+| Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
@@ -766,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Tomorrow | 303255 | [303255-turnabout-tomorrow.json](./303255-turnabout-tomorrow.json) |
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
+| Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
