@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andy Blast vs. The Forces of Evil | 291772 | [291772-andy-blast-vs-the-forces-of-evil.json](./291772-andy-blast-vs-the-forces-of-evil.json) |
+| Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
+| AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
