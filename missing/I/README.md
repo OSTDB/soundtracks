@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
+| Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
@@ -63,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
+| Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
