@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
@@ -182,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
+| Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Goldheart | 248324 | [248324-goldheart.json](./248324-goldheart.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
@@ -203,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
+| Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gor Lab | 321155 | [321155-gor-lab.json](./321155-gor-lab.json) |
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
