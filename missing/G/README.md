@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
+| Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
+| Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | Gragyriss, Captor of Princesses | 304354 | [304354-gragyriss-captor-of-princesses.json](./304354-gragyriss-captor-of-princesses.json) |
@@ -264,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
+| Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
