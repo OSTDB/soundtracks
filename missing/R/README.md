@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
+| Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
+| Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
+| Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
