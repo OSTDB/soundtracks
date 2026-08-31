@@ -52,6 +52,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
+| Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
+| Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
