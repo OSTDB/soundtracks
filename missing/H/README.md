@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
+| Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
+| Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House of Fear: Cursed Souls | 228686 | [228686-house-of-fear-cursed-souls.json](./228686-house-of-fear-cursed-souls.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
@@ -363,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
+| How to Die. | 218131 | [218131-how-to-die.json](./218131-how-to-die.json) |
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
