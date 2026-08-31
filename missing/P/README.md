@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
+| Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
@@ -55,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
+| Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
+| Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
@@ -534,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
+| Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
