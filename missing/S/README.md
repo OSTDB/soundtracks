@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Salacot Jack: Deluxe | 316400 | [316400-salacot-jack-deluxe.json](./316400-salacot-jack-deluxe.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
+| Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Stories | 323518 | [323518-scary-stories.json](./323518-scary-stories.json) |
 | Scary Stranger 3D | 303249 | [303249-scary-stranger-3d.json](./303249-scary-stranger-3d.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
@@ -205,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
+| Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
@@ -523,11 +526,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
+| Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
+| Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
@@ -811,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
+| Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
