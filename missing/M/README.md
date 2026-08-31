@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
+| Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
+| Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
