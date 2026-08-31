@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
+| I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
@@ -194,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
+| Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
