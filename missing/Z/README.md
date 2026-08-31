@@ -12,8 +12,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
+| Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
+| Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
