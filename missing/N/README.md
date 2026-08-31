@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
+| Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
@@ -206,6 +207,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
+| Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
+| Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
+| Nintendo Mini Classics: Donkey Kong | 206361 | [206361-nintendo-mini-classics-donkey-kong.json](./206361-nintendo-mini-classics-donkey-kong.json) |
+| Nintendo Mini Classics: Donkey Kong Junior | 206359 | [206359-nintendo-mini-classics-donkey-kong-junior.json](./206359-nintendo-mini-classics-donkey-kong-junior.json) |
+| Nintendo Mini Classics: Fire! | 206362 | [206362-nintendo-mini-classics-fire.json](./206362-nintendo-mini-classics-fire.json) |
+| Nintendo Mini Classics: Harry Potter and the Goblet of Fire | 206375 | [206375-nintendo-mini-classics-harry-potter-and-the-goblet-of-fire.json](./206375-nintendo-mini-classics-harry-potter-and-the-goblet-of-fire.json) |
+| Nintendo Mini Classics: Mario's Cement Factory | 206363 | [206363-nintendo-mini-classics-marios-cement-factory.json](./206363-nintendo-mini-classics-marios-cement-factory.json) |
+| Nintendo Mini Classics: Octopus | 206364 | [206364-nintendo-mini-classics-octopus.json](./206364-nintendo-mini-classics-octopus.json) |
+| Nintendo Mini Classics: Oil Panic | 206365 | [206365-nintendo-mini-classics-oil-panic.json](./206365-nintendo-mini-classics-oil-panic.json) |
+| Nintendo Mini Classics: Parachute | 206366 | [206366-nintendo-mini-classics-parachute.json](./206366-nintendo-mini-classics-parachute.json) |
+| Nintendo Mini Classics: Soccer | 206379 | [206379-nintendo-mini-classics-soccer.json](./206379-nintendo-mini-classics-soccer.json) |
+| Nintendo Mini Classics: Spider-Man | 206380 | [206380-nintendo-mini-classics-spider-man.json](./206380-nintendo-mini-classics-spider-man.json) |
+| Nintendo Mini Classics: Star Trek | 206385 | [206385-nintendo-mini-classics-star-trek.json](./206385-nintendo-mini-classics-star-trek.json) |
+| Nintendo Mini Classics: Star Trek - The Next Generation | 206386 | [206386-nintendo-mini-classics-star-trek-the-next-generation.json](./206386-nintendo-mini-classics-star-trek-the-next-generation.json) |
+| Nintendo Mini Classics: Sudoku | 206388 | [206388-nintendo-mini-classics-sudoku.json](./206388-nintendo-mini-classics-sudoku.json) |
+| Nintendo Mini Classics: Super Mario Bros. | 206368 | [206368-nintendo-mini-classics-super-mario-bros.json](./206368-nintendo-mini-classics-super-mario-bros.json) |
+| Nintendo Mini Classics: The Smurfs | 206378 | [206378-nintendo-mini-classics-the-smurfs.json](./206378-nintendo-mini-classics-the-smurfs.json) |
+| Nintendo Mini Classics: UEFA Euro 2008 | 206389 | [206389-nintendo-mini-classics-uefa-euro-2008.json](./206389-nintendo-mini-classics-uefa-euro-2008.json) |
+| Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
