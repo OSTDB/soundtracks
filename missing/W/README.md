@@ -212,10 +212,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
+| Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
+| Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
