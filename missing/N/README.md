@@ -197,5 +197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
+| Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
