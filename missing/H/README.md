@@ -41,9 +41,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
+| Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
+| Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
@@ -72,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
+| Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
@@ -125,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
+| Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
@@ -177,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
+| Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
@@ -241,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
+| Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
@@ -302,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
+| Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
