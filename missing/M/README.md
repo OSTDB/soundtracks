@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
+| Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
+| Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
@@ -274,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
+| Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
