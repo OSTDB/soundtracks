@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
+| Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
@@ -47,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
+| Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
