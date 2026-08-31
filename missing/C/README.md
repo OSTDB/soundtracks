@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
+| Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
+| Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
@@ -514,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
+| Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
