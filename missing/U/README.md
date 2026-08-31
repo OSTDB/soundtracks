@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Upside the Backrooms | 258740 | [258740-upside-the-backrooms.json](./258740-upside-the-backrooms.json) |
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
