@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
+| Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
+| PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
@@ -321,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
+| PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
