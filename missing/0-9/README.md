@@ -117,6 +117,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
+| 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
+| 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
