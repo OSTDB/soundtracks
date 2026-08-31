@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
+| Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
+| Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
@@ -253,8 +255,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
+| Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | RichMan 4 Fun | 252402 | [252402-richman-4-fun.json](./252402-richman-4-fun.json) |
+| Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
@@ -284,10 +288,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
+| Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
+| Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
+| Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
@@ -322,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
+| Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
@@ -385,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
+| Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
@@ -405,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
+| Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
