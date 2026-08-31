@@ -132,7 +132,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
+| Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
+| Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
+| Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
@@ -190,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
+| Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
