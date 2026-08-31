@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
+| Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
@@ -96,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
+| Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
