@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
+| Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
