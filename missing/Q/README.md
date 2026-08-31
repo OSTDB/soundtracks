@@ -17,6 +17,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
+| Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
+| Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
+| Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
+| Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
+| Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
