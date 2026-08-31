@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
+| Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
+| Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
