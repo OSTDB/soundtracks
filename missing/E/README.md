@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
+| Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
+| Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
