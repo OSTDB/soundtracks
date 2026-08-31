@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
+| Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Where is Mr. Cloud | 251809 | [251809-where-is-mr-cloud.json](./251809-where-is-mr-cloud.json) |
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
