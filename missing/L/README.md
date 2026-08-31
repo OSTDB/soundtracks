@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
+| LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
