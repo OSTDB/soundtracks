@@ -66,6 +66,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
+| OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
+| OMSI 2: Iveco Bus-Familie Urbanway | 237071 | [237071-omsi-2-iveco-bus-familie-urbanway.json](./237071-omsi-2-iveco-bus-familie-urbanway.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
@@ -116,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
+| Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
@@ -126,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
+| Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
@@ -145,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
+| Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
