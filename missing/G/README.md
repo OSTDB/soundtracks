@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
+| Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
+| Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
+| Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
