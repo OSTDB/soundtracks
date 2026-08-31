@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
+| Search | 233771 | [233771-search.json](./233771-search.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 19: Black Friday | 341871 | [341871-shopping-clutter-19-black-friday.json](./341871-shopping-clutter-19-black-friday.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
+| Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
+| SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
@@ -364,6 +367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
+| Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
+| Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
@@ -742,8 +747,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
+| Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
+| Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
