@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
+| Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
@@ -437,8 +438,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
+| College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Craze | 210863 | [210863-college-craze.json](./210863-college-craze.json) |
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
+| Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
@@ -556,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
+| Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
@@ -584,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
+| Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
@@ -609,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashy Cars! | 247178 | [247178-crashy-cars.json](./247178-crashy-cars.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
+| Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
@@ -644,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
+| Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
@@ -728,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
+| Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
