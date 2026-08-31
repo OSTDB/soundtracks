@@ -43,7 +43,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
+| Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
+| Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
@@ -281,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Match | 232147 | [232147-not-match.json](./232147-not-match.json) |
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
+| Notpron | 202394 | [202394-notpron.json](./202394-notpron.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
@@ -295,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
+| Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
