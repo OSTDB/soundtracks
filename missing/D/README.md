@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 6: Energy Up! Training Wear Set | 225904 | [225904-dead-or-alive-6-energy-up-training-wear-set.json](./225904-dead-or-alive-6-energy-up-training-wear-set.json) |
+| Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
+| Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
@@ -367,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
