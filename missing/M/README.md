@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
+| Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
+| Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
@@ -432,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
+| Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
