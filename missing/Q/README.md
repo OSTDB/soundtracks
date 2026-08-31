@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
+| Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
 | Quiz Thiz Spain | 232713 | [232713-quiz-thiz-spain.json](./232713-quiz-thiz-spain.json) |
 | Quiz Thiz Spain: Bronze Edition | 232714 | [232714-quiz-thiz-spain-bronze-edition.json](./232714-quiz-thiz-spain-bronze-edition.json) |
 | Quiz Thiz Spain: Gold Edition | 232717 | [232717-quiz-thiz-spain-gold-edition.json](./232717-quiz-thiz-spain-gold-edition.json) |
