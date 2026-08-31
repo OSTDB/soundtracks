@@ -108,11 +108,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
+| Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
+| Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
