@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
+| Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy Park | 262655 | [262655-anarchy-park.json](./262655-anarchy-park.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
+| Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
@@ -584,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
+| Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | At Dawn's Break | 303271 | [303271-at-dawns-break.json](./303271-at-dawns-break.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
