@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
+| Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
+| Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
@@ -219,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diamond Painting ASMR: Cool & Festive | 309075 | [309075-diamond-painting-asmr-cool-and-festive.json](./309075-diamond-painting-asmr-cool-and-festive.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
+| Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
@@ -239,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
+| Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
