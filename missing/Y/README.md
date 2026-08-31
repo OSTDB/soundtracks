@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
+| Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
