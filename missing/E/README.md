@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
+| Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
+| Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
