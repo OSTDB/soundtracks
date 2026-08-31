@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
+| Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
+| Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
@@ -408,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
+| Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
@@ -577,6 +580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
+| Dual Pack I Awakening: The Goblin Kingdom and Awakening: The Skyward Castle | 201857 | [201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json](./201857-dual-pack-i-awakening-the-goblin-kingdom-and-awakening-the-skyward-castle.json) |
+| Dual Pack I Spirits of Mystery: Song of the Phoenix & Spirits of Mystery: The Dark Minotaur | 201853 | [201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json](./201853-dual-pack-i-spirits-of-mystery-song-of-the-phoenix-and-spirits-of-mystery-the-dark-minotaur.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
