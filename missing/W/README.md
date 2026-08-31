@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
+| What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
+| World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
