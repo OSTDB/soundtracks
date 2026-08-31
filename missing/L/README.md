@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
+| Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
@@ -177,6 +178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
+| Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
+| Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
