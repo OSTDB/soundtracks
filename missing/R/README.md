@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
+| Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
+| Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
