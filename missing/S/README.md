@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
+| Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
+| Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -683,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
+| Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Spear of Destiny: The Kaiseki - Director's Cut | 228098 | [228098-spear-of-destiny-the-kaiseki-directors-cut.json](./228098-spear-of-destiny-the-kaiseki-directors-cut.json) |
@@ -723,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
+| Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
@@ -851,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
+| Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
@@ -966,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
+| Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
