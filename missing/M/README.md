@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
+| Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of Perception | 317583 | [317583-mysteries-of-perception.json](./317583-mysteries-of-perception.json) |
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
+| Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
