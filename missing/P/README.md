@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
+| Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
@@ -546,6 +547,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
+| Project: Summer Ice - Bowling: Story One - Jane Version | 215359 | [215359-project-summer-ice-bowling-story-one-jane-version.json](./215359-project-summer-ice-bowling-story-one-jane-version.json) |
+| Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
@@ -596,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
+| Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
