@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Keep Digging | 304370 | [304370-just-keep-digging.json](./304370-just-keep-digging.json) |
+| Just Keep Running | 248325 | [248325-just-keep-running.json](./248325-just-keep-running.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
