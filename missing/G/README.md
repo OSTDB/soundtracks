@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
+| Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
+| Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
@@ -250,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Gridtrap | 297246 | [297246-gridtrap.json](./297246-gridtrap.json) |
+| Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
