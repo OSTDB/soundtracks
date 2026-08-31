@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
+| Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
+| Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
@@ -678,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
@@ -711,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
