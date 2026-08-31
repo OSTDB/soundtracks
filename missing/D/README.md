@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
+| Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
@@ -587,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
+| Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
@@ -594,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
+| Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
