@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
+| Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
+| Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | PowerWash Simulator: The Muckingham Files 2 | 264337 | [264337-powerwash-simulator-the-muckingham-files-2.json](./264337-powerwash-simulator-the-muckingham-files-2.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
+| Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
@@ -349,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
+| Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
