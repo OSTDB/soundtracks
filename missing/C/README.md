@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
+| Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
+| Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
@@ -154,6 +156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
+| Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
+| Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
@@ -307,6 +311,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Fusion Fever | 278165 | [278165-color-fusion-fever.json](./278165-color-fusion-fever.json) |
+| Color FX Basketball | 245539 | [245539-color-fx-basketball.json](./245539-color-fx-basketball.json) |
+| Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
+| Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -325,9 +332,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
+| Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
+| Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
