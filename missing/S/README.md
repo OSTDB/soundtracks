@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
+| Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -371,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
+| Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
+| Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
