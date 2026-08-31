@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
+| 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 Leaf Clovers | 302692 | [302692-4-leaf-clovers.json](./302692-4-leaf-clovers.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
+| 4 Snaps | 233765 | [233765-4-snaps.json](./233765-4-snaps.json) |
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4x4 Offroad Car Exploration | 264899 | [264899-4x4-offroad-car-exploration.json](./264899-4x4-offroad-car-exploration.json) |
