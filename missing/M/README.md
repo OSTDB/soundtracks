@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marine Tour | 243393 | [243393-marine-tour.json](./243393-marine-tour.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
+| Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
+| MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
@@ -311,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
+| Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
@@ -387,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
+| Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
 | Moon Observatory Melanie | 250602 | [250602-moon-observatory-melanie.json](./250602-moon-observatory-melanie.json) |
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
@@ -409,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
+| Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
 | Mortal Kombat 1: Ghostface | 312337 | [312337-mortal-kombat-1-ghostface.json](./312337-mortal-kombat-1-ghostface.json) |
@@ -418,6 +423,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Sektor | 312333 | [312333-mortal-kombat-1-sektor.json](./312333-mortal-kombat-1-sektor.json) |
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
+| Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
+| Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
+| Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
