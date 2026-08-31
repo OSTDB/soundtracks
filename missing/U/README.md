@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
+| Up | 210281 | [210281-up.json](./210281-up.json) |
 | Up | 228708 | [228708-up.json](./228708-up.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
