@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
+| Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
