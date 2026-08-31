@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
+| Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
