@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
+| Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
+| Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
+| Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
@@ -348,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
+| Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
