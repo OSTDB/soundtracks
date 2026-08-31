@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
+| Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
+| DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
@@ -188,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
+| Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
@@ -252,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
+| Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
@@ -373,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do or Die: Hunt to Survive | 235975 | [235975-do-or-die-hunt-to-survive.json](./235975-do-or-die-hunt-to-survive.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
+| Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
@@ -475,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
+| DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
