@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
+| The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
+| The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
@@ -840,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Tomorrow | 303255 | [303255-turnabout-tomorrow.json](./303255-turnabout-tomorrow.json) |
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
+| Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
@@ -858,5 +861,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Little Ghosts of that House: The Missing Toy | 319340 | [319340-two-little-ghosts-of-that-house-the-missing-toy.json](./319340-two-little-ghosts-of-that-house-the-missing-toy.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
+| TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
