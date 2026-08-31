@@ -136,6 +136,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
+| Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
+| Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
