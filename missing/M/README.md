@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
+| Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
@@ -59,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
+| Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
@@ -302,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
+| Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
