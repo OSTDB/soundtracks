@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
+| Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
