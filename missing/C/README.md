@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
+| Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
+| Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
