@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
+| Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
 | Taxi of Miracles: Collector's Edition | 229933 | [229933-taxi-of-miracles-collectors-edition.json](./229933-taxi-of-miracles-collectors-edition.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
@@ -965,11 +967,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
+| Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
+| Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
 | Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
