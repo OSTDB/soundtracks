@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
+| Glitchhikers: The Spaces Between - Deluxe Glitchpod Edition | 205227 | [205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json](./205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
+| GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
@@ -372,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
+| Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
@@ -398,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
+| GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
