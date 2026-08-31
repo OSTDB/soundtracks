@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
+| Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
