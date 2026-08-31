@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
+| Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
+| World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
