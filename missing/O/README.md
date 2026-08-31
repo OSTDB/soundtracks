@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
+| Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Ojou-sama no Hanbun wa Renai de Dekiteimasu! | 328216 | [328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json](./328216-ojou-sama-no-hanbun-wa-renai-de-dekiteimasu.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
+| Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
+| Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
