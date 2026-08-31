@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
+| Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
