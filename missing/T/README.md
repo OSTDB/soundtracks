@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
+| Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
@@ -271,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
+| The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
@@ -455,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
+| The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Seven Deadly Sins: Idle Adventure | 315273 | [315273-the-seven-deadly-sins-idle-adventure.json](./315273-the-seven-deadly-sins-idle-adventure.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
@@ -538,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
+| The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
@@ -601,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
+| Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
@@ -710,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
+| Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
