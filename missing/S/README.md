@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
+| Shinigami Soul Agency | 224197 | [224197-shinigami-soul-agency.json](./224197-shinigami-soul-agency.json) |
 | Shining | 290683 | [290683-shining.json](./290683-shining.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
+| Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
