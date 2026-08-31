@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
+| D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
+| Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -389,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
+| Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
@@ -418,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
+| Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
