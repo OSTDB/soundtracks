@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
+| Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
@@ -46,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
+| Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
 | Fantasy Mosaics 37: Spooky Night | 296060 | [296060-fantasy-mosaics-37-spooky-night.json](./296060-fantasy-mosaics-37-spooky-night.json) |
 | Fantasy Mosaics 41: Wizard's Realm | 296062 | [296062-fantasy-mosaics-41-wizards-realm.json](./296062-fantasy-mosaics-41-wizards-realm.json) |
@@ -65,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
+| Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
@@ -102,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
+| Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
@@ -112,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
+| FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
@@ -135,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
+| Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -192,7 +198,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
+| Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
+| Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
@@ -205,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
+| Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
@@ -216,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
+| Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
