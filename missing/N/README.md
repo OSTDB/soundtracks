@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
+| Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
+| NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
 | Ninja Wars: Battle Simulator | 320526 | [320526-ninja-wars-battle-simulator.json](./320526-ninja-wars-battle-simulator.json) |
 | Ninja Warz | 314669 | [314669-ninja-warz.json](./314669-ninja-warz.json) |
+| Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
