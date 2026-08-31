@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
+| Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
 | Mario Kart 64: Stomper Mod | 248307 | [248307-mario-kart-64-stomper-mod.json](./248307-mario-kart-64-stomper-mod.json) |
+| Mario Kart 8 Deluxe + Booster Course Pass | 245049 | [245049-mario-kart-8-deluxe-booster-course-pass.json](./245049-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart Tour: Ice Tour | 338539 | [338539-mario-kart-tour-ice-tour.json](./338539-mario-kart-tour-ice-tour.json) |
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
 | Mario Kart Tour: Valentine's Tour | 338540 | [338540-mario-kart-tour-valentines-tour.json](./338540-mario-kart-tour-valentines-tour.json) |
@@ -131,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
+| Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -163,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
+| Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
@@ -265,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
+| Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
@@ -335,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
+| Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
