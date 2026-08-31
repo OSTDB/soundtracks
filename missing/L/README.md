@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
+| Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
