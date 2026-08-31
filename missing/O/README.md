@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
+| Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
