@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
+| Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
