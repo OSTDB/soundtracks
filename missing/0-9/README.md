@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
+| 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Game Pack I Haunted Hotel 3: Lonely Dream & Haunted Hotel 4: Charles Dexter Ward | 201862 | [201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json](./201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json) |
+| 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
