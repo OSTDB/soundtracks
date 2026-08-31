@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 in 1 Game Collection | 324693 | [324693-100-in-1-game-collection.json](./324693-100-in-1-game-collection.json) |
 | 100 Indonesia Cats | 315294 | [315294-100-indonesia-cats.json](./315294-100-indonesia-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
+| 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
@@ -93,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5525 | 301035 | [301035-5525.json](./301035-5525.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
+| 66 Balls | 232139 | [232139-66-balls.json](./232139-66-balls.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
