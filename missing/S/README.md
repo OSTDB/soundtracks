@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
+| Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
@@ -719,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
+| Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
@@ -732,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
+| Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
@@ -754,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
+| Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
