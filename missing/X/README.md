@@ -18,5 +18,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
+| Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
