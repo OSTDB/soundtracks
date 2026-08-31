@@ -79,6 +79,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
+| RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
+| RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
+| RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
 | Re into Another World | 291748 | [291748-re-into-another-world.json](./291748-re-into-another-world.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
@@ -98,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
+| Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
@@ -112,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
+| Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
@@ -127,17 +132,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
+| Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
 | Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
+| Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
+| Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
+| Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
+| Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
+| Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
+| Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
@@ -177,6 +189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
+| Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
+| Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
@@ -210,13 +224,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | RichMan 4 Fun | 252402 | [252402-richman-4-fun.json](./252402-richman-4-fun.json) |
+| Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
+| Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
+| Ride 2: Collector Bikes Pack | 226963 | [226963-ride-2-collector-bikes-pack.json](./226963-ride-2-collector-bikes-pack.json) |
+| Ride 2: Competition Bikes Pack | 226964 | [226964-ride-2-competition-bikes-pack.json](./226964-ride-2-competition-bikes-pack.json) |
+| Ride 2: Ducati Bikes Pack | 226965 | [226965-ride-2-ducati-bikes-pack.json](./226965-ride-2-ducati-bikes-pack.json) |
+| Ride 2: Exotic Bikes Pack | 226960 | [226960-ride-2-exotic-bikes-pack.json](./226960-ride-2-exotic-bikes-pack.json) |
+| Ride 2: Free Bikes Pack 2 | 226959 | [226959-ride-2-free-bikes-pack-2.json](./226959-ride-2-free-bikes-pack-2.json) |
+| Ride 2: Free Bikes Pack 3 | 226958 | [226958-ride-2-free-bikes-pack-3.json](./226958-ride-2-free-bikes-pack-3.json) |
+| Ride 2: Free Bikes Pack 4 | 226957 | [226957-ride-2-free-bikes-pack-4.json](./226957-ride-2-free-bikes-pack-4.json) |
+| Ride 2: Free Bikes Pack 5 | 226956 | [226956-ride-2-free-bikes-pack-5.json](./226956-ride-2-free-bikes-pack-5.json) |
+| Ride 2: Free Bikes Pack 6 | 226955 | [226955-ride-2-free-bikes-pack-6.json](./226955-ride-2-free-bikes-pack-6.json) |
+| Ride 2: Free Bikes Pack 7 | 226954 | [226954-ride-2-free-bikes-pack-7.json](./226954-ride-2-free-bikes-pack-7.json) |
+| Ride 2: Free Bikes Pack 8 | 226953 | [226953-ride-2-free-bikes-pack-8.json](./226953-ride-2-free-bikes-pack-8.json) |
+| Ride 2: Free Bikes Pack 9 | 226952 | [226952-ride-2-free-bikes-pack-9.json](./226952-ride-2-free-bikes-pack-9.json) |
+| Ride 2: Rising Sun Bikes Pack | 226951 | [226951-ride-2-rising-sun-bikes-pack.json](./226951-ride-2-rising-sun-bikes-pack.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
+| RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
+| Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
@@ -238,6 +269,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
+| Risk: Global Domination - Advanced Map Pack | 226941 | [226941-risk-global-domination-advanced-map-pack.json](./226941-risk-global-domination-advanced-map-pack.json) |
+| Risk: Global Domination - Dawn of the Dinos Map Pack | 226942 | [226942-risk-global-domination-dawn-of-the-dinos-map-pack.json](./226942-risk-global-domination-dawn-of-the-dinos-map-pack.json) |
+| Risk: Global Domination - Enchanted Realms Map Pack | 226943 | [226943-risk-global-domination-enchanted-realms-map-pack.json](./226943-risk-global-domination-enchanted-realms-map-pack.json) |
+| Risk: Global Domination - Fantasy Map Pack 2 | 226944 | [226944-risk-global-domination-fantasy-map-pack-2.json](./226944-risk-global-domination-fantasy-map-pack-2.json) |
+| Risk: Global Domination - Sci-Fi Map Pack | 226945 | [226945-risk-global-domination-sci-fi-map-pack.json](./226945-risk-global-domination-sci-fi-map-pack.json) |
+| Risk: Global Domination - Strongholds & Castles Map Pack | 226947 | [226947-risk-global-domination-strongholds-and-castles-map-pack.json](./226947-risk-global-domination-strongholds-and-castles-map-pack.json) |
+| Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
@@ -270,8 +308,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
+| Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
+| Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
@@ -283,6 +323,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
+| Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
+| Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
+| Rocksmith 2014: Rise Against Song Pack II | 226935 | [226935-rocksmith-2014-rise-against-song-pack-ii.json](./226935-rocksmith-2014-rise-against-song-pack-ii.json) |
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
@@ -346,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
+| Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
