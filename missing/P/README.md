@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
+| PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
+| Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
