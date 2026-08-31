@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
+| Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
+| Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
+| Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
@@ -181,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
+| Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
