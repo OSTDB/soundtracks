@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
+| Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
+| New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
@@ -262,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
+| Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
