@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
+| See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
+| Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
@@ -858,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
+| Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
