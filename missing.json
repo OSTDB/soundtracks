@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T21:18:34.547Z",
-  "total_missing": 11034,
+  "generated_at": "2026-08-31T21:33:29.069Z",
+  "total_missing": 11086,
   "games": [
     {
       "igdb_id": 306086,
@@ -776,6 +776,11 @@
       "igdb_id": 293930,
       "game_name": "A Gruta de Maquiné",
       "file": "missing/A/293930-a-gruta-de-maquine.json"
+    },
+    {
+      "igdb_id": 206356,
+      "game_name": "A Hero's Rest: An RPG Town Simulator",
+      "file": "missing/A/206356-a-heros-rest-an-rpg-town-simulator.json"
     },
     {
       "igdb_id": 299469,
@@ -8323,6 +8328,11 @@
       "file": "missing/C/270401-chickens-in-choppers.json"
     },
     {
+      "igdb_id": 206384,
+      "game_name": "Chikarou",
+      "file": "missing/C/206384-chikarou.json"
+    },
+    {
       "igdb_id": 275929,
       "game_name": "Chikn Nuggit Nightmare Fwiends",
       "file": "missing/C/275929-chikn-nuggit-nightmare-fwiends.json"
@@ -8713,6 +8723,11 @@
       "file": "missing/C/270402-circuit-puzzle.json"
     },
     {
+      "igdb_id": 206349,
+      "game_name": "Circus",
+      "file": "missing/C/206349-circus.json"
+    },
+    {
       "igdb_id": 277032,
       "game_name": "Circut's Edge",
       "file": "missing/C/277032-circuts-edge.json"
@@ -8803,6 +8818,11 @@
       "file": "missing/C/251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json"
     },
     {
+      "igdb_id": 206347,
+      "game_name": "City Life: World Edition",
+      "file": "missing/C/206347-city-life-world-edition.json"
+    },
+    {
       "igdb_id": 227511,
       "game_name": "City of Love: Paris",
       "file": "missing/C/227511-city-of-love-paris.json"
@@ -8811,6 +8831,11 @@
       "igdb_id": 217025,
       "game_name": "City of Rampage",
       "file": "missing/C/217025-city-of-rampage.json"
+    },
+    {
+      "igdb_id": 206350,
+      "game_name": "City Sights: Hello Seattle!",
+      "file": "missing/C/206350-city-sights-hello-seattle.json"
     },
     {
       "igdb_id": 250647,
@@ -8826,6 +8851,11 @@
       "igdb_id": 309086,
       "game_name": "City Takeover: Gentle Animals",
       "file": "missing/C/309086-city-takeover-gentle-animals.json"
+    },
+    {
+      "igdb_id": 206348,
+      "game_name": "CityBuilder",
+      "file": "missing/C/206348-citybuilder.json"
     },
     {
       "igdb_id": 307902,
@@ -11718,6 +11748,11 @@
       "file": "missing/D/335657-decaying-wires.json"
     },
     {
+      "igdb_id": 206358,
+      "game_name": "Decimated",
+      "file": "missing/D/206358-decimated.json"
+    },
+    {
       "igdb_id": 252356,
       "game_name": "Deck of Souls",
       "file": "missing/D/252356-deck-of-souls.json"
@@ -11796,6 +11831,11 @@
       "igdb_id": 319344,
       "game_name": "Deeplanders",
       "file": "missing/D/319344-deeplanders.json"
+    },
+    {
+      "igdb_id": 206345,
+      "game_name": "Deer Hunter",
+      "file": "missing/D/206345-deer-hunter.json"
     },
     {
       "igdb_id": 254164,
@@ -17503,9 +17543,19 @@
       "file": "missing/F/322374-friday-night-funkin-red-version-vs-red.json"
     },
     {
+      "igdb_id": 206928,
+      "game_name": "Friday Night Funkin' Soft",
+      "file": "missing/F/206928-friday-night-funkin-soft.json"
+    },
+    {
       "igdb_id": 269294,
       "game_name": "Friday Night Funkin': Idol",
       "file": "missing/F/269294-friday-night-funkin-idol.json"
+    },
+    {
+      "igdb_id": 206925,
+      "game_name": "Friday Night Funkin': Miku Full Week",
+      "file": "missing/F/206925-friday-night-funkin-miku-full-week.json"
     },
     {
       "igdb_id": 269295,
@@ -17898,6 +17948,11 @@
       "file": "missing/F/311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json"
     },
     {
+      "igdb_id": 206927,
+      "game_name": "Fushigi no Gensoukyou",
+      "file": "missing/F/206927-fushigi-no-gensoukyou.json"
+    },
+    {
       "igdb_id": 206946,
       "game_name": "Fushigi no Gensoukyou 3",
       "file": "missing/F/206946-fushigi-no-gensoukyou-3.json"
@@ -18161,6 +18216,16 @@
       "igdb_id": 267650,
       "game_name": "Gambler Jiko Chuushinha 2",
       "file": "missing/G/267650-gambler-jiko-chuushinha-2.json"
+    },
+    {
+      "igdb_id": 206932,
+      "game_name": "Game & Watch Donkey Kong Jr.",
+      "file": "missing/G/206932-game-and-watch-donkey-kong-jr.json"
+    },
+    {
+      "igdb_id": 206933,
+      "game_name": "Game & Watch Mario's Cement Factory",
+      "file": "missing/G/206933-game-and-watch-marios-cement-factory.json"
     },
     {
       "igdb_id": 320537,
@@ -21203,6 +21268,11 @@
       "file": "missing/H/302116-heroes-stand-tall-m-e-t-a.json"
     },
     {
+      "igdb_id": 206354,
+      "game_name": "Heroic Syndrome",
+      "file": "missing/H/206354-heroic-syndrome.json"
+    },
+    {
       "igdb_id": 304898,
       "game_name": "Heros Survival",
       "file": "missing/H/304898-heros-survival.json"
@@ -22471,6 +22541,11 @@
       "igdb_id": 295002,
       "game_name": "I'm Not Sleepy",
       "file": "missing/I/295002-im-not-sleepy.json"
+    },
+    {
+      "igdb_id": 206931,
+      "game_name": "I'm on Cirno Duty",
+      "file": "missing/I/206931-im-on-cirno-duty.json"
     },
     {
       "igdb_id": 278704,
@@ -24403,6 +24478,11 @@
       "file": "missing/J/327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json"
     },
     {
+      "igdb_id": 206352,
+      "game_name": "Juuryoku Shisen-shou",
+      "file": "missing/J/206352-juuryoku-shisen-shou.json"
+    },
+    {
       "igdb_id": 265977,
       "game_name": "K.S.-n-Kickin",
       "file": "missing/K/265977-k-s-n-kickin.json"
@@ -24431,6 +24511,11 @@
       "igdb_id": 337995,
       "game_name": "Kaia's Ascent",
       "file": "missing/K/337995-kaias-ascent.json"
+    },
+    {
+      "igdb_id": 206381,
+      "game_name": "Kaikyuu Karane Kotoba",
+      "file": "missing/K/206381-kaikyuu-karane-kotoba.json"
     },
     {
       "igdb_id": 208037,
@@ -25028,6 +25113,11 @@
       "file": "missing/K/337455-kipidon-we-will-always-love-you.json"
     },
     {
+      "igdb_id": 206344,
+      "game_name": "Kira-kira Star Night exa",
+      "file": "missing/K/206344-kira-kira-star-night-exa.json"
+    },
+    {
       "igdb_id": 300408,
       "game_name": "Kirakira Slimes",
       "file": "missing/K/300408-kirakira-slimes.json"
@@ -25371,6 +25461,11 @@
       "igdb_id": 290687,
       "game_name": "Kotoko's a Little Weird",
       "file": "missing/K/290687-kotokos-a-little-weird.json"
+    },
+    {
+      "igdb_id": 206373,
+      "game_name": "Kouei no Tou",
+      "file": "missing/K/206373-kouei-no-tou.json"
     },
     {
       "igdb_id": 291741,
@@ -27353,6 +27448,11 @@
       "file": "missing/M/246100-magic-bubble.json"
     },
     {
+      "igdb_id": 206383,
+      "game_name": "Magic Chaos",
+      "file": "missing/M/206383-magic-chaos.json"
+    },
+    {
       "igdb_id": 304859,
       "game_name": "Magic City Detective: The Carnival Begins - Collector's Edition",
       "file": "missing/M/304859-magic-city-detective-the-carnival-begins-collectors-edition.json"
@@ -27686,6 +27786,11 @@
       "igdb_id": 293421,
       "game_name": "Maneuver Warfare: Mission Pack West 44-45",
       "file": "missing/M/293421-maneuver-warfare-mission-pack-west-44-45.json"
+    },
+    {
+      "igdb_id": 206357,
+      "game_name": "Mangan Shisen-sho",
+      "file": "missing/M/206357-mangan-shisen-sho.json"
     },
     {
       "igdb_id": 239327,
@@ -30283,6 +30388,11 @@
       "file": "missing/M/303794-moves-away.json"
     },
     {
+      "igdb_id": 206339,
+      "game_name": "Movie Quest",
+      "file": "missing/M/206339-movie-quest.json"
+    },
+    {
       "igdb_id": 271470,
       "game_name": "Moving Out 2: Deluxe Edition",
       "file": "missing/M/271470-moving-out-2-deluxe-edition.json"
@@ -31263,6 +31373,11 @@
       "file": "missing/N/274729-nature-park.json"
     },
     {
+      "igdb_id": 206374,
+      "game_name": "Nature Prhysm",
+      "file": "missing/N/206374-nature-prhysm.json"
+    },
+    {
       "igdb_id": 270972,
       "game_name": "Nature's Element",
       "file": "missing/N/270972-natures-element.json"
@@ -32096,6 +32211,101 @@
       "igdb_id": 213594,
       "game_name": "Nintendo Classic Mini: Super Famicom",
       "file": "missing/N/213594-nintendo-classic-mini-super-famicom.json"
+    },
+    {
+      "igdb_id": 206367,
+      "game_name": "Nintendo Mini Classic: Snoopy Tennis",
+      "file": "missing/N/206367-nintendo-mini-classic-snoopy-tennis.json"
+    },
+    {
+      "igdb_id": 206372,
+      "game_name": "Nintendo Mini Classics: Carrera",
+      "file": "missing/N/206372-nintendo-mini-classics-carrera.json"
+    },
+    {
+      "igdb_id": 206361,
+      "game_name": "Nintendo Mini Classics: Donkey Kong",
+      "file": "missing/N/206361-nintendo-mini-classics-donkey-kong.json"
+    },
+    {
+      "igdb_id": 206359,
+      "game_name": "Nintendo Mini Classics: Donkey Kong Junior",
+      "file": "missing/N/206359-nintendo-mini-classics-donkey-kong-junior.json"
+    },
+    {
+      "igdb_id": 206362,
+      "game_name": "Nintendo Mini Classics: Fire!",
+      "file": "missing/N/206362-nintendo-mini-classics-fire.json"
+    },
+    {
+      "igdb_id": 206375,
+      "game_name": "Nintendo Mini Classics: Harry Potter and the Goblet of Fire",
+      "file": "missing/N/206375-nintendo-mini-classics-harry-potter-and-the-goblet-of-fire.json"
+    },
+    {
+      "igdb_id": 206363,
+      "game_name": "Nintendo Mini Classics: Mario's Cement Factory",
+      "file": "missing/N/206363-nintendo-mini-classics-marios-cement-factory.json"
+    },
+    {
+      "igdb_id": 206364,
+      "game_name": "Nintendo Mini Classics: Octopus",
+      "file": "missing/N/206364-nintendo-mini-classics-octopus.json"
+    },
+    {
+      "igdb_id": 206365,
+      "game_name": "Nintendo Mini Classics: Oil Panic",
+      "file": "missing/N/206365-nintendo-mini-classics-oil-panic.json"
+    },
+    {
+      "igdb_id": 206366,
+      "game_name": "Nintendo Mini Classics: Parachute",
+      "file": "missing/N/206366-nintendo-mini-classics-parachute.json"
+    },
+    {
+      "igdb_id": 206379,
+      "game_name": "Nintendo Mini Classics: Soccer",
+      "file": "missing/N/206379-nintendo-mini-classics-soccer.json"
+    },
+    {
+      "igdb_id": 206380,
+      "game_name": "Nintendo Mini Classics: Spider-Man",
+      "file": "missing/N/206380-nintendo-mini-classics-spider-man.json"
+    },
+    {
+      "igdb_id": 206385,
+      "game_name": "Nintendo Mini Classics: Star Trek",
+      "file": "missing/N/206385-nintendo-mini-classics-star-trek.json"
+    },
+    {
+      "igdb_id": 206386,
+      "game_name": "Nintendo Mini Classics: Star Trek - The Next Generation",
+      "file": "missing/N/206386-nintendo-mini-classics-star-trek-the-next-generation.json"
+    },
+    {
+      "igdb_id": 206388,
+      "game_name": "Nintendo Mini Classics: Sudoku",
+      "file": "missing/N/206388-nintendo-mini-classics-sudoku.json"
+    },
+    {
+      "igdb_id": 206368,
+      "game_name": "Nintendo Mini Classics: Super Mario Bros.",
+      "file": "missing/N/206368-nintendo-mini-classics-super-mario-bros.json"
+    },
+    {
+      "igdb_id": 206378,
+      "game_name": "Nintendo Mini Classics: The Smurfs",
+      "file": "missing/N/206378-nintendo-mini-classics-the-smurfs.json"
+    },
+    {
+      "igdb_id": 206389,
+      "game_name": "Nintendo Mini Classics: UEFA Euro 2008",
+      "file": "missing/N/206389-nintendo-mini-classics-uefa-euro-2008.json"
+    },
+    {
+      "igdb_id": 206370,
+      "game_name": "Nintendo Mini Classics: Zelda",
+      "file": "missing/N/206370-nintendo-mini-classics-zelda.json"
     },
     {
       "igdb_id": 300369,
@@ -33343,6 +33553,11 @@
       "file": "missing/O/242786-otter-ocean.json"
     },
     {
+      "igdb_id": 206371,
+      "game_name": "Ouchi Otofuda",
+      "file": "missing/O/206371-ouchi-otofuda.json"
+    },
+    {
       "igdb_id": 222533,
       "game_name": "Oukoku no Dougu-ya-san",
       "file": "missing/O/222533-oukoku-no-dougu-ya-san.json"
@@ -34046,6 +34261,11 @@
       "igdb_id": 329952,
       "game_name": "Paradox!",
       "file": "missing/P/329952-paradox.json"
+    },
+    {
+      "igdb_id": 206351,
+      "game_name": "Paragon Pioneers",
+      "file": "missing/P/206351-paragon-pioneers.json"
     },
     {
       "igdb_id": 292841,
@@ -36878,6 +37098,11 @@
       "file": "missing/P/215882-puzzle-park.json"
     },
     {
+      "igdb_id": 206382,
+      "game_name": "Puzzle Snake",
+      "file": "missing/P/206382-puzzle-snake.json"
+    },
+    {
       "igdb_id": 322976,
       "game_name": "Puzzle Vacations: Italy",
       "file": "missing/P/322976-puzzle-vacations-italy.json"
@@ -36956,6 +37181,11 @@
       "igdb_id": 235989,
       "game_name": "Qisah Tomang: Cycle Ends",
       "file": "missing/Q/235989-qisah-tomang-cycle-ends.json"
+    },
+    {
+      "igdb_id": 206376,
+      "game_name": "Qlanet",
+      "file": "missing/Q/206376-qlanet.json"
     },
     {
       "igdb_id": 211931,
@@ -37591,6 +37821,11 @@
       "igdb_id": 269853,
       "game_name": "Ratano",
       "file": "missing/R/269853-ratano.json"
+    },
+    {
+      "igdb_id": 206355,
+      "game_name": "RatPark",
+      "file": "missing/R/206355-ratpark.json"
     },
     {
       "igdb_id": 335113,
@@ -39988,6 +40223,11 @@
       "file": "missing/S/264854-san-francisco-rush-extreme-racing.json"
     },
     {
+      "igdb_id": 206929,
+      "game_name": "Sanae no Chou Tokkyuu: TheExpressTrial",
+      "file": "missing/S/206929-sanae-no-chou-tokkyuu-theexpresstrial.json"
+    },
+    {
       "igdb_id": 300377,
       "game_name": "Sanae's Sylphid Breeze",
       "file": "missing/S/300377-sanaes-sylphid-breeze.json"
@@ -40521,6 +40761,11 @@
       "igdb_id": 294476,
       "game_name": "Secret Archives",
       "file": "missing/S/294476-secret-archives.json"
+    },
+    {
+      "igdb_id": 206930,
+      "game_name": "Secret Cat Forest",
+      "file": "missing/S/206930-secret-cat-forest.json"
     },
     {
       "igdb_id": 315300,
@@ -46558,6 +46803,11 @@
       "file": "missing/T/264889-tecmo-bowl-kickoff.json"
     },
     {
+      "igdb_id": 206353,
+      "game_name": "Teddy Factory",
+      "file": "missing/T/206353-teddy-factory.json"
+    },
+    {
       "igdb_id": 323534,
       "game_name": "Teddy Roller 1",
       "file": "missing/T/323534-teddy-roller-1.json"
@@ -47051,6 +47301,11 @@
       "igdb_id": 312336,
       "game_name": "The Big Lebowski Bowling",
       "file": "missing/T/312336-the-big-lebowski-bowling.json"
+    },
+    {
+      "igdb_id": 206346,
+      "game_name": "The Big Picture",
+      "file": "missing/T/206346-the-big-picture.json"
     },
     {
       "igdb_id": 260937,
@@ -52371,6 +52626,11 @@
       "igdb_id": 276457,
       "game_name": "Valis: The Fantasm Soldier Collection III",
       "file": "missing/V/276457-valis-the-fantasm-soldier-collection-iii.json"
+    },
+    {
+      "igdb_id": 206377,
+      "game_name": "Valist Leznalt",
+      "file": "missing/V/206377-valist-leznalt.json"
     },
     {
       "igdb_id": 338577,
