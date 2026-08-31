@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | BOT.vinnik Chess 2 | 219300 | [219300-bot-vinnik-chess-2.json](./219300-bot-vinnik-chess-2.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
+| Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
+| BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
@@ -483,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
+| Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
