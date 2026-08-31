@@ -80,6 +80,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
+| Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
+| Virtual Walk English 2: Travel-hen | 230523 | [230523-virtual-walk-english-2-travel-hen.json](./230523-virtual-walk-english-2-travel-hen.json) |
+| Virtual Walk English 3: Travel-hen | 230524 | [230524-virtual-walk-english-3-travel-hen.json](./230524-virtual-walk-english-3-travel-hen.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
