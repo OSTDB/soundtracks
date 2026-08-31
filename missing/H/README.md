@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
+| Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
