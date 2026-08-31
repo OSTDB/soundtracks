@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
+| Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
+| Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
@@ -834,6 +836,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 1 | 241023 | [241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json](./241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 2 | 241024 | [241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json](./241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape | 241018 | [241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json](./241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Koopaling Confusion | 241022 | [241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json](./241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle | 241026 | [241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json](./241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
