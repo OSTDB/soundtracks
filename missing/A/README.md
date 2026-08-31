@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
+| Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anarchy City 1: Atomic Version | 272002 | [272002-anarchy-city-1-atomic-version.json](./272002-anarchy-city-1-atomic-version.json) |
 | Anarchy City 2: Neighbourhood Nightmare | 272003 | [272003-anarchy-city-2-neighbourhood-nightmare.json](./272003-anarchy-city-2-neighbourhood-nightmare.json) |
 | Anarchy City 3: Zero Tolerance | 272004 | [272004-anarchy-city-3-zero-tolerance.json](./272004-anarchy-city-3-zero-tolerance.json) |
@@ -269,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
+| April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
