@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find HQ: Police Station | 331123 | [331123-find-hq-police-station.json](./331123-find-hq-police-station.json) |
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find the Differences Detective | 232174 | [232174-find-the-differences-detective.json](./232174-find-the-differences-detective.json) |
+| Find the light | 216473 | [216473-find-the-light.json](./216473-find-the-light.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
+| Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
@@ -424,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
+| Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
