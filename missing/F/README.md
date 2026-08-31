@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
+| Flooded | 204077 | [204077-flooded.json](./204077-flooded.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
+| Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
