@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
+| Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
+| Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
@@ -390,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
+| Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
@@ -416,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
 | Ardent Fever | 316980 | [316980-ardent-fever.json](./316980-ardent-fever.json) |
 | Ardu Turf Masters | 340204 | [340204-ardu-turf-masters.json](./340204-ardu-turf-masters.json) |
+| Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
