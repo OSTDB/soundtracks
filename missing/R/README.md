@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
+| Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | RPG Golf with Vampires | 263759 | [263759-rpg-golf-with-vampires.json](./263759-rpg-golf-with-vampires.json) |
+| RPG Workshop Max | 232708 | [232708-rpg-workshop-max.json](./232708-rpg-workshop-max.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
