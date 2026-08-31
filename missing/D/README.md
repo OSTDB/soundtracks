@@ -391,8 +391,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
+| Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
+| Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
