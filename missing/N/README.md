@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
+| NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
+| Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
@@ -115,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
+| New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
+| Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Gal Summer | 229340 | [229340-night-gal-summer.json](./229340-night-gal-summer.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
@@ -146,11 +150,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Dead: Ghost Pack | 293409 | [293409-night-of-the-dead-ghost-pack.json](./293409-night-of-the-dead-ghost-pack.json) |
 | Night of the Dead: White Collar Civilian Pack | 293405 | [293405-night-of-the-dead-white-collar-civilian-pack.json](./293405-night-of-the-dead-white-collar-civilian-pack.json) |
 | Night of the Dead: Wood Carving Doll Pack | 293406 | [293406-night-of-the-dead-wood-carving-doll-pack.json](./293406-night-of-the-dead-wood-carving-doll-pack.json) |
+| Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
+| Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
@@ -207,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
+| Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
