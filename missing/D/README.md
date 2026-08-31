@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
+| Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
