@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
+| Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
