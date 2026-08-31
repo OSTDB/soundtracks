@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
+| ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
+| Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
