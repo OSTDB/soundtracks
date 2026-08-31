@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
+| Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest Master | 320522 | [320522-harvest-master.json](./320522-harvest-master.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
+| Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
@@ -148,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
+| Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
@@ -166,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
+| Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
@@ -257,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
+| Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
@@ -358,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
+| Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
