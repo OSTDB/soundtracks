@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
+| Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
@@ -89,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
+| Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rex! Your Interactive Pet Dinosaur | 313491 | [313491-rex-your-interactive-pet-dinosaur.json](./313491-rex-your-interactive-pet-dinosaur.json) |
+| RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
@@ -267,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
+| RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
