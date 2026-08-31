@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
+| Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
+| Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
