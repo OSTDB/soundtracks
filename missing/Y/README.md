@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
