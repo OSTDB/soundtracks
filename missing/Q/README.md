@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
+| Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
 | Quiet House Massacre | 317023 | [317023-quiet-house-massacre.json](./317023-quiet-house-massacre.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
