@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
+| Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
@@ -371,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukuro to Subaru | 326946 | [326946-fukuro-to-subaru.json](./326946-fukuro-to-subaru.json) |
 | Fule | 305537 | [305537-fule.json](./305537-fule.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
+| Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
