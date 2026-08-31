@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
+| I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
+| I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
@@ -172,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
+| Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
