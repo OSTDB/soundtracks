@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Mega Edition | 328807 | [328807-urban-flow-mega-edition.json](./328807-urban-flow-mega-edition.json) |
 | Urban Flow: Platinum Edition | 238741 | [238741-urban-flow-platinum-edition.json](./238741-urban-flow-platinum-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
+| Urban Trial Pocket | 213642 | [213642-urban-trial-pocket.json](./213642-urban-trial-pocket.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
