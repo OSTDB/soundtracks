@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
+| One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
@@ -137,6 +138,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
+| Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
+| Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
+| Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
+| Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
