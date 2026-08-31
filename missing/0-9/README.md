@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
+| 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
