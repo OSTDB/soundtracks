@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
+| Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
+| Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
@@ -373,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
+| Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
@@ -413,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 332242 | [332242-bubble-bobble.json](./332242-bubble-bobble.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
+| Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
@@ -446,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
+| Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
