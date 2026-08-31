@@ -25,6 +25,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
+| A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
+| A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
+| Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
@@ -90,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
+| Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Accurate Adjacent Ballistics Simulator | 247783 | [247783-accurate-adjacent-ballistics-simulator.json](./247783-accurate-adjacent-ballistics-simulator.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
@@ -103,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
+| Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
@@ -120,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
+| Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
@@ -132,7 +138,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
+| AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
+| Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
@@ -375,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annoying Orange: Kitchen Carnage | 266516 | [266516-annoying-orange-kitchen-carnage.json](./266516-annoying-orange-kitchen-carnage.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
+| Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
@@ -615,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
+| Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
