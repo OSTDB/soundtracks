@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Iveco Bus-Familie Urbanway | 237071 | [237071-omsi-2-iveco-bus-familie-urbanway.json](./237071-omsi-2-iveco-bus-familie-urbanway.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
+| On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
