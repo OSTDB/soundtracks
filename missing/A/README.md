@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
+| Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
+| Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
@@ -416,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
+| Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
