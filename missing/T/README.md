@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
+| The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
+| Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
@@ -603,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Special Edition | 328803 | [328803-tokyo-cooking-special-edition.json](./328803-tokyo-cooking-special-edition.json) |
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
+| Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
@@ -670,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
+| Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
@@ -782,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
+| Turbo 84 | 239344 | [239344-turbo-84.json](./239344-turbo-84.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
@@ -797,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Tomorrow | 303255 | [303255-turnabout-tomorrow.json](./303255-turnabout-tomorrow.json) |
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
+| Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
