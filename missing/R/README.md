@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | RichMan 4 Fun | 252402 | [252402-richman-4-fun.json](./252402-richman-4-fun.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
+| Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
 | Ride 2: Collector Bikes Pack | 226963 | [226963-ride-2-collector-bikes-pack.json](./226963-ride-2-collector-bikes-pack.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
+| Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
