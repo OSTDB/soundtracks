@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Ratano | 269853 | [269853-ratano.json](./269853-ratano.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
+| Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
