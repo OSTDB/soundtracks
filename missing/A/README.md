@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
+| Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
+| Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Board | 333362 | [333362-arcane-board.json](./333362-arcane-board.json) |
 | Arcane Chaos | 291770 | [291770-arcane-chaos.json](./291770-arcane-chaos.json) |
@@ -381,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
