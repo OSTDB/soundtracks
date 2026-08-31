@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
+| Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
