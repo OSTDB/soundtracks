@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
+| Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
+| Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
@@ -136,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
+| Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
@@ -151,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent: Cold War Espionage | 243396 | [243396-secret-agent-cold-war-espionage.json](./243396-secret-agent-cold-war-espionage.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
+| Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
@@ -256,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
+| She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
@@ -325,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
+| Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
