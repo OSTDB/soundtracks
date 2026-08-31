@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
+| G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
@@ -43,12 +44,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
+| Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
+| Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
@@ -126,7 +129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
+| Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
+| Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
@@ -151,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
+| Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
