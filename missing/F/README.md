@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
+| Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
