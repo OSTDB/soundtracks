@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T08:03:29.371Z",
-  "total_missing": 8422,
+  "generated_at": "2026-08-31T08:18:27.329Z",
+  "total_missing": 8472,
   "games": [
     {
       "igdb_id": 306086,
@@ -3096,6 +3096,11 @@
       "igdb_id": 292297,
       "game_name": "Backrooms: Meg Archives",
       "file": "missing/B/292297-backrooms-meg-archives.json"
+    },
+    {
+      "igdb_id": 234907,
+      "game_name": "Backstage Pass",
+      "file": "missing/B/234907-backstage-pass.json"
     },
     {
       "igdb_id": 297777,
@@ -6563,6 +6568,11 @@
       "file": "missing/C/243968-chubby-hurdles.json"
     },
     {
+      "igdb_id": 235449,
+      "game_name": "Chucky: The Road To Heaven",
+      "file": "missing/C/235449-chucky-the-road-to-heaven.json"
+    },
+    {
       "igdb_id": 269300,
       "game_name": "Chunithm Sun Plus",
       "file": "missing/C/269300-chunithm-sun-plus.json"
@@ -7348,6 +7358,11 @@
       "file": "missing/C/258711-connect-lyrical-spectacle-forest.json"
     },
     {
+      "igdb_id": 235447,
+      "game_name": "Conquer: Napoleonic Wars",
+      "file": "missing/C/235447-conquer-napoleonic-wars.json"
+    },
+    {
       "igdb_id": 295566,
       "game_name": "Conquest of Kings",
       "file": "missing/C/295566-conquest-of-kings.json"
@@ -7971,6 +7986,11 @@
       "igdb_id": 264888,
       "game_name": "Crystal Wish: Candy Chase",
       "file": "missing/C/264888-crystal-wish-candy-chase.json"
+    },
+    {
+      "igdb_id": 235448,
+      "game_name": "Cthuloot",
+      "file": "missing/C/235448-cthuloot.json"
     },
     {
       "igdb_id": 291738,
@@ -8918,6 +8938,11 @@
       "file": "missing/D/291744-death-valley.json"
     },
     {
+      "igdb_id": 234941,
+      "game_name": "DeathWorm",
+      "file": "missing/D/234941-deathworm.json"
+    },
+    {
       "igdb_id": 312921,
       "game_name": "Debrecen",
       "file": "missing/D/312921-debrecen.json"
@@ -9536,6 +9561,16 @@
       "igdb_id": 291779,
       "game_name": "Diorama Maker",
       "file": "missing/D/291779-diorama-maker.json"
+    },
+    {
+      "igdb_id": 234913,
+      "game_name": "Dirt 3: Colin McRae Vision Charity Pack",
+      "file": "missing/D/234913-dirt-3-colin-mcrae-vision-charity-pack.json"
+    },
+    {
+      "igdb_id": 234918,
+      "game_name": "Dirt 3: Horn Pack",
+      "file": "missing/D/234918-dirt-3-horn-pack.json"
     },
     {
       "igdb_id": 278691,
@@ -10373,6 +10408,16 @@
       "file": "missing/D/260404-dumbriel-magnificent-adventure-in-hell.json"
     },
     {
+      "igdb_id": 234902,
+      "game_name": "Dummy Never Fails",
+      "file": "missing/D/234902-dummy-never-fails.json"
+    },
+    {
+      "igdb_id": 234903,
+      "game_name": "Dummy Never Fails 2",
+      "file": "missing/D/234903-dummy-never-fails-2.json"
+    },
+    {
       "igdb_id": 339108,
       "game_name": "Dumpling Together",
       "file": "missing/D/339108-dumpling-together.json"
@@ -10961,6 +11006,41 @@
       "igdb_id": 292843,
       "game_name": "Endless Fucker",
       "file": "missing/E/292843-endless-fucker.json"
+    },
+    {
+      "igdb_id": 234911,
+      "game_name": "Endless War",
+      "file": "missing/E/234911-endless-war.json"
+    },
+    {
+      "igdb_id": 234916,
+      "game_name": "Endless War 2",
+      "file": "missing/E/234916-endless-war-2.json"
+    },
+    {
+      "igdb_id": 234920,
+      "game_name": "Endless War 3",
+      "file": "missing/E/234920-endless-war-3.json"
+    },
+    {
+      "igdb_id": 234921,
+      "game_name": "Endless War 4",
+      "file": "missing/E/234921-endless-war-4.json"
+    },
+    {
+      "igdb_id": 234922,
+      "game_name": "Endless War 5",
+      "file": "missing/E/234922-endless-war-5.json"
+    },
+    {
+      "igdb_id": 234924,
+      "game_name": "Endless War 6",
+      "file": "missing/E/234924-endless-war-6.json"
+    },
+    {
+      "igdb_id": 234926,
+      "game_name": "Endless War 7",
+      "file": "missing/E/234926-endless-war-7.json"
     },
     {
       "igdb_id": 268763,
@@ -12036,6 +12116,16 @@
       "igdb_id": 298320,
       "game_name": "Fetish Club",
       "file": "missing/F/298320-fetish-club.json"
+    },
+    {
+      "igdb_id": 234914,
+      "game_name": "Feudalism",
+      "file": "missing/F/234914-feudalism.json"
+    },
+    {
+      "igdb_id": 234915,
+      "game_name": "Feudalism II",
+      "file": "missing/F/234915-feudalism-ii.json"
     },
     {
       "igdb_id": 311806,
@@ -13248,6 +13338,16 @@
       "file": "missing/F/319390-frontier-legends.json"
     },
     {
+      "igdb_id": 234934,
+      "game_name": "Frontline Defense",
+      "file": "missing/F/234934-frontline-defense.json"
+    },
+    {
+      "igdb_id": 234935,
+      "game_name": "Frontline Defense 2",
+      "file": "missing/F/234935-frontline-defense-2.json"
+    },
+    {
       "igdb_id": 318197,
       "game_name": "Frost Survivors: Text Game",
       "file": "missing/F/318197-frost-survivors-text-game.json"
@@ -13381,6 +13481,11 @@
       "igdb_id": 291743,
       "game_name": "Further",
       "file": "missing/F/291743-further.json"
+    },
+    {
+      "igdb_id": 234910,
+      "game_name": "FuryFury",
+      "file": "missing/F/234910-furyfury.json"
     },
     {
       "igdb_id": 311289,
@@ -13638,6 +13743,11 @@
       "file": "missing/G/242207-gangnam-city-deluxe.json"
     },
     {
+      "igdb_id": 234931,
+      "game_name": "Gangsta Bean",
+      "file": "missing/G/234931-gangsta-bean.json"
+    },
+    {
       "igdb_id": 256561,
       "game_name": "Garbage Truck Driving Simulator",
       "file": "missing/G/256561-garbage-truck-driving-simulator.json"
@@ -13741,6 +13851,66 @@
       "igdb_id": 327587,
       "game_name": "Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen",
       "file": "missing/G/327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json"
+    },
+    {
+      "igdb_id": 234923,
+      "game_name": "Generation Zero: Base Support Pack",
+      "file": "missing/G/234923-generation-zero-base-support-pack.json"
+    },
+    {
+      "igdb_id": 234937,
+      "game_name": "Generation Zero: Base Warfare Starter Bundle",
+      "file": "missing/G/234937-generation-zero-base-warfare-starter-bundle.json"
+    },
+    {
+      "igdb_id": 234933,
+      "game_name": "Generation Zero: Bikes",
+      "file": "missing/G/234933-generation-zero-bikes.json"
+    },
+    {
+      "igdb_id": 234912,
+      "game_name": "Generation Zero: Camo Weapon Skins Pack",
+      "file": "missing/G/234912-generation-zero-camo-weapon-skins-pack.json"
+    },
+    {
+      "igdb_id": 234909,
+      "game_name": "Generation Zero: Eastern European Weapons Pack",
+      "file": "missing/G/234909-generation-zero-eastern-european-weapons-pack.json"
+    },
+    {
+      "igdb_id": 234917,
+      "game_name": "Generation Zero: Motorbikes Pack",
+      "file": "missing/G/234917-generation-zero-motorbikes-pack.json"
+    },
+    {
+      "igdb_id": 234932,
+      "game_name": "Generation Zero: Rivals and Experimental Weapons",
+      "file": "missing/G/234932-generation-zero-rivals-and-experimental-weapons.json"
+    },
+    {
+      "igdb_id": 234927,
+      "game_name": "Generation Zero: Soviet Weapons Pack",
+      "file": "missing/G/234927-generation-zero-soviet-weapons-pack.json"
+    },
+    {
+      "igdb_id": 234919,
+      "game_name": "Generation Zero: Tactical Equipment Pack",
+      "file": "missing/G/234919-generation-zero-tactical-equipment-pack.json"
+    },
+    {
+      "igdb_id": 234930,
+      "game_name": "Generation Zero: Tubular Vanity Pack",
+      "file": "missing/G/234930-generation-zero-tubular-vanity-pack.json"
+    },
+    {
+      "igdb_id": 234928,
+      "game_name": "Generation Zero: US Weapons Pack",
+      "file": "missing/G/234928-generation-zero-us-weapons-pack.json"
+    },
+    {
+      "igdb_id": 234925,
+      "game_name": "Generation Zero: US Weapons Pack 2",
+      "file": "missing/G/234925-generation-zero-us-weapons-pack-2.json"
     },
     {
       "igdb_id": 264894,
@@ -15423,6 +15593,16 @@
       "file": "missing/H/328247-hector39.json"
     },
     {
+      "igdb_id": 234939,
+      "game_name": "Hedgehog Launch",
+      "file": "missing/H/234939-hedgehog-launch.json"
+    },
+    {
+      "igdb_id": 234940,
+      "game_name": "Hedgehog Launch 2",
+      "file": "missing/H/234940-hedgehog-launch-2.json"
+    },
+    {
       "igdb_id": 274179,
       "game_name": "Hedrox",
       "file": "missing/H/274179-hedrox.json"
@@ -15501,6 +15681,11 @@
       "igdb_id": 321796,
       "game_name": "Hellfire",
       "file": "missing/H/321796-hellfire.json"
+    },
+    {
+      "igdb_id": 234906,
+      "game_name": "Hellfire Saga",
+      "file": "missing/H/234906-hellfire-saga.json"
     },
     {
       "igdb_id": 318223,
@@ -20113,6 +20298,11 @@
       "file": "missing/L/247759-lords-and-tactics.json"
     },
     {
+      "igdb_id": 235450,
+      "game_name": "Lost Abroad Café",
+      "file": "missing/L/235450-lost-abroad-cafe.json"
+    },
+    {
       "igdb_id": 245026,
       "game_name": "Lost Alone Ultimate",
       "file": "missing/L/245026-lost-alone-ultimate.json"
@@ -21728,6 +21918,11 @@
       "file": "missing/M/238735-miami-horizon-2077.json"
     },
     {
+      "igdb_id": 234942,
+      "game_name": "Miami Shark",
+      "file": "missing/M/234942-miami-shark.json"
+    },
+    {
       "igdb_id": 299463,
       "game_name": "Mickey to Ooki na Furudokei",
       "file": "missing/M/299463-mickey-to-ooki-na-furudokei.json"
@@ -22601,6 +22796,11 @@
       "igdb_id": 273100,
       "game_name": "More Invaders!",
       "file": "missing/M/273100-more-invaders.json"
+    },
+    {
+      "igdb_id": 234905,
+      "game_name": "More Zombies",
+      "file": "missing/M/234905-more-zombies.json"
     },
     {
       "igdb_id": 317584,
@@ -24931,6 +25131,11 @@
       "igdb_id": 335690,
       "game_name": "OneTale",
       "file": "missing/O/335690-onetale.json"
+    },
+    {
+      "igdb_id": 234892,
+      "game_name": "Ongaku Tsukuuru: Kanadeeru - Convert Data",
+      "file": "missing/O/234892-ongaku-tsukuuru-kanadeeru-convert-data.json"
     },
     {
       "igdb_id": 322984,
@@ -27478,6 +27683,11 @@
       "file": "missing/P/250055-princess-quest-part-1.json"
     },
     {
+      "igdb_id": 234900,
+      "game_name": "Priority Realignment",
+      "file": "missing/P/234900-priority-realignment.json"
+    },
+    {
       "igdb_id": 337481,
       "game_name": "Prismatic: Nox's Gate",
       "file": "missing/P/337481-prismatic-noxs-gate.json"
@@ -28961,6 +29171,11 @@
       "igdb_id": 254130,
       "game_name": "Resident Evil Revelations 2: Season Pass",
       "file": "missing/R/254130-resident-evil-revelations-2-season-pass.json"
+    },
+    {
+      "igdb_id": 235445,
+      "game_name": "Resistance Forces",
+      "file": "missing/R/235445-resistance-forces.json"
     },
     {
       "igdb_id": 266481,
@@ -30678,6 +30893,11 @@
       "file": "missing/S/297213-sedecktion.json"
     },
     {
+      "igdb_id": 235451,
+      "game_name": "See You Later",
+      "file": "missing/S/235451-see-you-later.json"
+    },
+    {
       "igdb_id": 237051,
       "game_name": "Seed of Pandora: Legend of the Gaia Tree",
       "file": "missing/S/237051-seed-of-pandora-legend-of-the-gaia-tree.json"
@@ -31976,6 +32196,11 @@
       "igdb_id": 328243,
       "game_name": "SMBX2 Demo Stages",
       "file": "missing/S/328243-smbx2-demo-stages.json"
+    },
+    {
+      "igdb_id": 234901,
+      "game_name": "Smileys War",
+      "file": "missing/S/234901-smileys-war.json"
     },
     {
       "igdb_id": 318754,
@@ -34306,6 +34531,11 @@
       "igdb_id": 331134,
       "game_name": "Super Magic Chess",
       "file": "missing/S/331134-super-magic-chess.json"
+    },
+    {
+      "igdb_id": 234929,
+      "game_name": "Super Marine",
+      "file": "missing/S/234929-super-marine.json"
     },
     {
       "igdb_id": 262087,
@@ -37878,6 +38108,11 @@
       "file": "missing/T/313514-thief-puzzle-tricks.json"
     },
     {
+      "igdb_id": 234938,
+      "game_name": "Thing-Thing Arena 3",
+      "file": "missing/T/234938-thing-thing-arena-3.json"
+    },
+    {
       "igdb_id": 243422,
       "game_name": "Thinkin' Science: Zap!",
       "file": "missing/T/243422-thinkin-science-zap.json"
@@ -38151,6 +38386,11 @@
       "igdb_id": 246667,
       "game_name": "TOCA Race Driver 2",
       "file": "missing/T/246667-toca-race-driver-2.json"
+    },
+    {
+      "igdb_id": 234899,
+      "game_name": "TOCA World Touring Cars",
+      "file": "missing/T/234899-toca-world-touring-cars.json"
     },
     {
       "igdb_id": 333374,
@@ -38818,6 +39058,11 @@
       "file": "missing/T/250655-travel-cuisine-collectors-edition.json"
     },
     {
+      "igdb_id": 234936,
+      "game_name": "Traveler's Bastion",
+      "file": "missing/T/234936-travelers-bastion.json"
+    },
+    {
       "igdb_id": 257688,
       "game_name": "Traxion",
       "file": "missing/T/257688-traxion.json"
@@ -38996,6 +39241,11 @@
       "igdb_id": 248327,
       "game_name": "Trolley Folly",
       "file": "missing/T/248327-trolley-folly.json"
+    },
+    {
+      "igdb_id": 234908,
+      "game_name": "Trollface Launch",
+      "file": "missing/T/234908-trollface-launch.json"
     },
     {
       "igdb_id": 261537,
