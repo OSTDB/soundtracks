@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
+| Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
@@ -66,6 +67,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
+| Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
+| Genius Quiz 11 | 241643 | [241643-genius-quiz-11.json](./241643-genius-quiz-11.json) |
+| Genius Quiz 12 | 241644 | [241644-genius-quiz-12.json](./241644-genius-quiz-12.json) |
+| Genius Quiz 13 | 241646 | [241646-genius-quiz-13.json](./241646-genius-quiz-13.json) |
+| Genius Quiz 14 | 241648 | [241648-genius-quiz-14.json](./241648-genius-quiz-14.json) |
+| Genius Quiz 15 | 241649 | [241649-genius-quiz-15.json](./241649-genius-quiz-15.json) |
+| Genius Quiz 2 | 241624 | [241624-genius-quiz-2.json](./241624-genius-quiz-2.json) |
+| Genius Quiz 3 | 241625 | [241625-genius-quiz-3.json](./241625-genius-quiz-3.json) |
+| Genius Quiz 4 | 241627 | [241627-genius-quiz-4.json](./241627-genius-quiz-4.json) |
+| Genius Quiz 5 | 241640 | [241640-genius-quiz-5.json](./241640-genius-quiz-5.json) |
+| Genius Quiz 9 | 241641 | [241641-genius-quiz-9.json](./241641-genius-quiz-9.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
