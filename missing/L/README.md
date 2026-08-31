@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
+| Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
