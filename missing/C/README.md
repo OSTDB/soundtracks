@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
+| CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
+| Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
