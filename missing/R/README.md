@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
+| Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rose & Camellia 2 | 317596 | [317596-rose-and-camellia-2.json](./317596-rose-and-camellia-2.json) |
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
