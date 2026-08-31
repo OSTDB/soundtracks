@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
+| Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Eville: Frost Golem Pack | 263232 | [263232-eville-frost-golem-pack.json](./263232-eville-frost-golem-pack.json) |
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
