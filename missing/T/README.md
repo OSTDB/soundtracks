@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
+| Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
+| The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Empress of Mahjong | 249471 | [249471-the-empress-of-mahjong.json](./249471-the-empress-of-mahjong.json) |
@@ -496,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
@@ -589,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
+| The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
@@ -621,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
+| Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
@@ -794,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
+| Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
@@ -880,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
+| Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
@@ -910,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
+| Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
@@ -944,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
+| Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
