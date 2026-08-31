@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
+| Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
