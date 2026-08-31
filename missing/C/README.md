@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
+| Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
+| Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
@@ -417,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
+| Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
@@ -446,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
 | Computer Cats | 226431 | [226431-computer-cats.json](./226431-computer-cats.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
+| Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
@@ -456,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
+| Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
@@ -523,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
+| Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
@@ -565,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
+| Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
 | Criminal Archives: Murder in the Pages - Collector's Edition | 294989 | [294989-criminal-archives-murder-in-the-pages-collectors-edition.json](./294989-criminal-archives-murder-in-the-pages-collectors-edition.json) |
 | Criminal Archives: Murder in the Pages DLC | 294990 | [294990-criminal-archives-murder-in-the-pages-dlc.json](./294990-criminal-archives-murder-in-the-pages-dlc.json) |
@@ -572,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
+| Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
@@ -586,7 +594,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
+| Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
+| Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
@@ -594,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
+| CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
@@ -606,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
+| Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
@@ -629,8 +641,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
+| Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
+| Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
@@ -646,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
+| Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Honey: Special Edition | 236017 | [236017-cute-honey-special-edition.json](./236017-cute-honey-special-edition.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
@@ -654,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
+| Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
