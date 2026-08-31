@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
+| Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
@@ -121,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
+| Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
