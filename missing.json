@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T10:18:27.745Z",
-  "total_missing": 8873,
+  "generated_at": "2026-08-31T10:33:29.780Z",
+  "total_missing": 8921,
   "games": [
     {
       "igdb_id": 306086,
@@ -718,6 +718,11 @@
       "file": "missing/A/302680-a-maidens-serenade.json"
     },
     {
+      "igdb_id": 229968,
+      "game_name": "A Mall Near You",
+      "file": "missing/A/229968-a-mall-near-you.json"
+    },
+    {
       "igdb_id": 264347,
       "game_name": "A Memorable Time",
       "file": "missing/A/264347-a-memorable-time.json"
@@ -998,6 +1003,11 @@
       "file": "missing/A/334487-across-the-river.json"
     },
     {
+      "igdb_id": 230504,
+      "game_name": "Across the Valley",
+      "file": "missing/A/230504-across-the-valley.json"
+    },
+    {
       "igdb_id": 238739,
       "game_name": "Across the Wilds",
       "file": "missing/A/238739-across-the-wilds.json"
@@ -1116,6 +1126,11 @@
       "igdb_id": 322357,
       "game_name": "Adventures of a Cat in Space",
       "file": "missing/A/322357-adventures-of-a-cat-in-space.json"
+    },
+    {
+      "igdb_id": 229941,
+      "game_name": "Advise the King",
+      "file": "missing/A/229941-advise-the-king.json"
     },
     {
       "igdb_id": 328227,
@@ -2691,6 +2706,11 @@
       "igdb_id": 268735,
       "game_name": "Assassin's Creed Revelations: Special Edition",
       "file": "missing/A/268735-assassins-creed-revelations-special-edition.json"
+    },
+    {
+      "igdb_id": 230499,
+      "game_name": "Assassin's Creed: Syndicate - Rooks Edition",
+      "file": "missing/A/230499-assassins-creed-syndicate-rooks-edition.json"
     },
     {
       "igdb_id": 277015,
@@ -4333,6 +4353,11 @@
       "file": "missing/B/336892-biosynth-rising.json"
     },
     {
+      "igdb_id": 229974,
+      "game_name": "Bird Shooter",
+      "file": "missing/B/229974-bird-shooter.json"
+    },
+    {
       "igdb_id": 325262,
       "game_name": "Birdcage (Oda al Pájaro)",
       "file": "missing/B/325262-birdcage-oda-al-pajaro.json"
@@ -4586,6 +4611,11 @@
       "igdb_id": 239885,
       "game_name": "Block Brain",
       "file": "missing/B/239885-block-brain.json"
+    },
+    {
+      "igdb_id": 229936,
+      "game_name": "Block Champ",
+      "file": "missing/B/229936-block-champ.json"
     },
     {
       "igdb_id": 236000,
@@ -6866,6 +6896,11 @@
       "igdb_id": 246106,
       "game_name": "Chou Ga Shin Zangard",
       "file": "missing/C/246106-chou-ga-shin-zangard.json"
+    },
+    {
+      "igdb_id": 229952,
+      "game_name": "Chou Jinsei Enjoi! Tamagotchi Plus",
+      "file": "missing/C/229952-chou-jinsei-enjoi-tamagotchi-plus.json"
     },
     {
       "igdb_id": 325265,
@@ -9283,6 +9318,11 @@
       "file": "missing/D/264868-dead-space-2.json"
     },
     {
+      "igdb_id": 229975,
+      "game_name": "Dead Space: Collector's Edition",
+      "file": "missing/D/229975-dead-space-collectors-edition.json"
+    },
+    {
       "igdb_id": 239911,
       "game_name": "Dead Spreading: Survival",
       "file": "missing/D/239911-dead-spreading-survival.json"
@@ -9933,6 +9973,11 @@
       "file": "missing/D/274754-dice-up.json"
     },
     {
+      "igdb_id": 229971,
+      "game_name": "Dice: The Dice Game!",
+      "file": "missing/D/229971-dice-the-dice-game.json"
+    },
+    {
       "igdb_id": 309130,
       "game_name": "Dicey Demons",
       "file": "missing/D/309130-dicey-demons.json"
@@ -10401,6 +10446,11 @@
       "igdb_id": 246073,
       "game_name": "Doko Demo Issho: Toro's Story App",
       "file": "missing/D/246073-doko-demo-issho-toros-story-app.json"
+    },
+    {
+      "igdb_id": 229972,
+      "game_name": "Dolce",
+      "file": "missing/D/229972-dolce.json"
     },
     {
       "igdb_id": 263216,
@@ -12866,6 +12916,11 @@
       "igdb_id": 237667,
       "game_name": "Fierce Allies",
       "file": "missing/F/237667-fierce-allies.json"
+    },
+    {
+      "igdb_id": 229956,
+      "game_name": "FIFA Soccer 2003",
+      "file": "missing/F/229956-fifa-soccer-2003.json"
     },
     {
       "igdb_id": 234313,
@@ -15388,6 +15443,11 @@
       "file": "missing/G/333956-gothic-playable-teaser.json"
     },
     {
+      "igdb_id": 229939,
+      "game_name": "GothicDM 2",
+      "file": "missing/G/229939-gothicdm-2.json"
+    },
+    {
       "igdb_id": 244481,
       "game_name": "Government X",
       "file": "missing/G/244481-government-x.json"
@@ -16126,6 +16186,16 @@
       "igdb_id": 326404,
       "game_name": "Hand-Holding Simulator",
       "file": "missing/H/326404-hand-holding-simulator.json"
+    },
+    {
+      "igdb_id": 229961,
+      "game_name": "Hanerutchi",
+      "file": "missing/H/229961-hanerutchi.json"
+    },
+    {
+      "igdb_id": 229962,
+      "game_name": "Hanerutchi 2",
+      "file": "missing/H/229962-hanerutchi-2.json"
     },
     {
       "igdb_id": 248920,
@@ -18658,6 +18728,16 @@
       "file": "missing/I/255355-iteriba-olokuns-wrath.json"
     },
     {
+      "igdb_id": 229950,
+      "game_name": "Iwai Keitai Kaitsuu! Tamagotchi Plus",
+      "file": "missing/I/229950-iwai-keitai-kaitsuu-tamagotchi-plus.json"
+    },
+    {
+      "igdb_id": 229951,
+      "game_name": "Iwai Keitai Kaitsuu! Tamagotchi Plus Akai",
+      "file": "missing/I/229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json"
+    },
+    {
       "igdb_id": 295532,
       "game_name": "Izolated",
       "file": "missing/I/295532-izolated.json"
@@ -19198,6 +19278,11 @@
       "file": "missing/J/335086-jumpjumpjump.json"
     },
     {
+      "igdb_id": 229965,
+      "game_name": "Jumplight Odyssey",
+      "file": "missing/J/229965-jumplight-odyssey.json"
+    },
+    {
       "igdb_id": 300987,
       "game_name": "JumpOut",
       "file": "missing/J/300987-jumpout.json"
@@ -19633,6 +19718,11 @@
       "file": "missing/K/340788-keyboard-soldier.json"
     },
     {
+      "igdb_id": 229967,
+      "game_name": "Khatyrka: Prelude",
+      "file": "missing/K/229967-khatyrka-prelude.json"
+    },
+    {
       "igdb_id": 249998,
       "game_name": "Kiborg",
       "file": "missing/K/249998-kiborg.json"
@@ -19776,6 +19866,11 @@
       "igdb_id": 317636,
       "game_name": "Kingdom Come: Deliverance II - Gold Edition",
       "file": "missing/K/317636-kingdom-come-deliverance-ii-gold-edition.json"
+    },
+    {
+      "igdb_id": 229938,
+      "game_name": "Kingdom Hearts Tamagotchi",
+      "file": "missing/K/229938-kingdom-hearts-tamagotchi.json"
     },
     {
       "igdb_id": 292320,
@@ -21336,6 +21431,11 @@
       "igdb_id": 263225,
       "game_name": "Lost Castle 2",
       "file": "missing/L/263225-lost-castle-2.json"
+    },
+    {
+      "igdb_id": 229966,
+      "game_name": "Lost Egg 3: The Final",
+      "file": "missing/L/229966-lost-egg-3-the-final.json"
     },
     {
       "igdb_id": 259820,
@@ -23128,6 +23228,11 @@
       "file": "missing/M/303791-midsummer-legs-dream.json"
     },
     {
+      "igdb_id": 229931,
+      "game_name": "MiG-29 Fulcrum",
+      "file": "missing/M/229931-mig-29-fulcrum.json"
+    },
+    {
       "igdb_id": 275339,
       "game_name": "Mighty Knight Legacy",
       "file": "missing/M/275339-mighty-knight-legacy.json"
@@ -23533,6 +23638,11 @@
       "file": "missing/M/274732-model-employee.json"
     },
     {
+      "igdb_id": 229964,
+      "game_name": "Modern Campaigns: Quang Tri '72",
+      "file": "missing/M/229964-modern-campaigns-quang-tri-72.json"
+    },
+    {
       "igdb_id": 305524,
       "game_name": "Modern Museum",
       "file": "missing/M/305524-modern-museum.json"
@@ -23706,6 +23816,11 @@
       "igdb_id": 341331,
       "game_name": "Monster Grid",
       "file": "missing/M/341331-monster-grid.json"
+    },
+    {
+      "igdb_id": 229929,
+      "game_name": "Monster Heart",
+      "file": "missing/M/229929-monster-heart.json"
     },
     {
       "igdb_id": 252384,
@@ -25968,6 +26083,11 @@
       "file": "missing/O/257071-oddys-lost-and-found.json"
     },
     {
+      "igdb_id": 229963,
+      "game_name": "Oden-kun Tamagotchi",
+      "file": "missing/O/229963-oden-kun-tamagotchi.json"
+    },
+    {
       "igdb_id": 327599,
       "game_name": "Oden-kun: Oden-mura no Tanoshii Nakama-tachi",
       "file": "missing/O/327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json"
@@ -27961,6 +28081,11 @@
       "igdb_id": 246666,
       "game_name": "Pik's Epic Kirby Sprite Comics: Teh Game 2",
       "file": "missing/P/246666-piks-epic-kirby-sprite-comics-teh-game-2.json"
+    },
+    {
+      "igdb_id": 230503,
+      "game_name": "Pikari Walk",
+      "file": "missing/P/230503-pikari-walk.json"
     },
     {
       "igdb_id": 313484,
@@ -30138,6 +30263,11 @@
       "file": "missing/R/295037-rap-quest.json"
     },
     {
+      "igdb_id": 229973,
+      "game_name": "RaphaelGer's Plane",
+      "file": "missing/R/229973-raphaelgers-plane.json"
+    },
+    {
       "igdb_id": 274733,
       "game_name": "Rapid Roll",
       "file": "missing/R/274733-rapid-roll.json"
@@ -30506,6 +30636,11 @@
       "igdb_id": 237089,
       "game_name": "Regency Solitaire II",
       "file": "missing/R/237089-regency-solitaire-ii.json"
+    },
+    {
+      "igdb_id": 230502,
+      "game_name": "Reggie's Adventures: Part 1 - Escape From Paradise",
+      "file": "missing/R/230502-reggies-adventures-part-1-escape-from-paradise.json"
     },
     {
       "igdb_id": 270935,
@@ -31041,6 +31176,11 @@
       "igdb_id": 275337,
       "game_name": "Road to Exotics!",
       "file": "missing/R/275337-road-to-exotics.json"
+    },
+    {
+      "igdb_id": 229944,
+      "game_name": "Road Trip Europe",
+      "file": "missing/R/229944-road-trip-europe.json"
     },
     {
       "igdb_id": 265943,
@@ -33201,6 +33341,11 @@
       "igdb_id": 319986,
       "game_name": "Siegius",
       "file": "missing/S/319986-siegius.json"
+    },
+    {
+      "igdb_id": 229949,
+      "game_name": "Sift Heads World: Act 3 - Alonzo's Reinforcement",
+      "file": "missing/S/229949-sift-heads-world-act-3-alonzos-reinforcement.json"
     },
     {
       "igdb_id": 231087,
@@ -37023,6 +37168,11 @@
       "file": "missing/S/260974-sylvan-disappearance.json"
     },
     {
+      "igdb_id": 230501,
+      "game_name": "Sylvie Lime",
+      "file": "missing/S/230501-sylvie-lime.json"
+    },
+    {
       "igdb_id": 292830,
       "game_name": "Sylvie RPG: 7 Elf Apocalypse",
       "file": "missing/S/292830-sylvie-rpg-7-elf-apocalypse.json"
@@ -37031,6 +37181,11 @@
       "igdb_id": 236536,
       "game_name": "Sylvio and the Mountains Giants",
       "file": "missing/S/236536-sylvio-and-the-mountains-giants.json"
+    },
+    {
+      "igdb_id": 229930,
+      "game_name": "Symbol",
+      "file": "missing/S/229930-symbol.json"
     },
     {
       "igdb_id": 263756,
@@ -37318,6 +37473,66 @@
       "file": "missing/T/305521-talon-one-bounty-hunter.json"
     },
     {
+      "igdb_id": 229942,
+      "game_name": "Tamagotchi Connection",
+      "file": "missing/T/229942-tamagotchi-connection.json"
+    },
+    {
+      "igdb_id": 229943,
+      "game_name": "Tamagotchi Connection V2",
+      "file": "missing/T/229943-tamagotchi-connection-v2.json"
+    },
+    {
+      "igdb_id": 229945,
+      "game_name": "Tamagotchi Connection V3",
+      "file": "missing/T/229945-tamagotchi-connection-v3.json"
+    },
+    {
+      "igdb_id": 229946,
+      "game_name": "Tamagotchi Connection V4",
+      "file": "missing/T/229946-tamagotchi-connection-v4.json"
+    },
+    {
+      "igdb_id": 229948,
+      "game_name": "Tamagotchi Connection V4.5",
+      "file": "missing/T/229948-tamagotchi-connection-v4-5.json"
+    },
+    {
+      "igdb_id": 229954,
+      "game_name": "Tamagotchi Connection V5 Familitchi",
+      "file": "missing/T/229954-tamagotchi-connection-v5-familitchi.json"
+    },
+    {
+      "igdb_id": 229955,
+      "game_name": "Tamagotchi Connection V5.5 Celebrity",
+      "file": "missing/T/229955-tamagotchi-connection-v5-5-celebrity.json"
+    },
+    {
+      "igdb_id": 229959,
+      "game_name": "Tamagotchi Friends: Digital Friend",
+      "file": "missing/T/229959-tamagotchi-friends-digital-friend.json"
+    },
+    {
+      "igdb_id": 229960,
+      "game_name": "Tamagotchi Friends: Dream Town Digital Friend",
+      "file": "missing/T/229960-tamagotchi-friends-dream-town-digital-friend.json"
+    },
+    {
+      "igdb_id": 229970,
+      "game_name": "Tamagotchi Mini",
+      "file": "missing/T/229970-tamagotchi-mini.json"
+    },
+    {
+      "igdb_id": 229957,
+      "game_name": "Tamagotchi Music Star",
+      "file": "missing/T/229957-tamagotchi-music-star.json"
+    },
+    {
+      "igdb_id": 229958,
+      "game_name": "TamaTown Tama-Go",
+      "file": "missing/T/229958-tamatown-tama-go.json"
+    },
+    {
       "igdb_id": 310745,
       "game_name": "Tame It Too!",
       "file": "missing/T/310745-tame-it-too.json"
@@ -37461,6 +37676,16 @@
       "igdb_id": 293400,
       "game_name": "Taxi Life: Supporter Pack",
       "file": "missing/T/293400-taxi-life-supporter-pack.json"
+    },
+    {
+      "igdb_id": 229932,
+      "game_name": "Taxi of Miracles",
+      "file": "missing/T/229932-taxi-of-miracles.json"
+    },
+    {
+      "igdb_id": 229933,
+      "game_name": "Taxi of Miracles: Collector's Edition",
+      "file": "missing/T/229933-taxi-of-miracles-collectors-edition.json"
     },
     {
       "igdb_id": 237656,
@@ -38761,6 +38986,11 @@
       "igdb_id": 277613,
       "game_name": "The Last Catalyst",
       "file": "missing/T/277613-the-last-catalyst.json"
+    },
+    {
+      "igdb_id": 229937,
+      "game_name": "The Last Craftsman",
+      "file": "missing/T/229937-the-last-craftsman.json"
     },
     {
       "igdb_id": 235984,
@@ -40381,6 +40611,11 @@
       "igdb_id": 332803,
       "game_name": "Tomodachii",
       "file": "missing/T/332803-tomodachii.json"
+    },
+    {
+      "igdb_id": 229927,
+      "game_name": "Tony Hawk's Pro Skater 2",
+      "file": "missing/T/229927-tony-hawks-pro-skater-2.json"
     },
     {
       "igdb_id": 295550,
@@ -42006,6 +42241,11 @@
       "igdb_id": 234353,
       "game_name": "Upward",
       "file": "missing/U/234353-upward.json"
+    },
+    {
+      "igdb_id": 229953,
+      "game_name": "Ura Jinsei Enjoi! Tamagotchi Plus",
+      "file": "missing/U/229953-ura-jinsei-enjoi-tamagotchi-plus.json"
     },
     {
       "igdb_id": 309083,
