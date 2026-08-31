@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
+| Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
+| Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
@@ -369,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
+| Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | Please (Don't) Touch the Art | 276478 | [276478-please-dont-touch-the-art.json](./276478-please-dont-touch-the-art.json) |
@@ -420,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
+| Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
@@ -585,7 +589,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
+| Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
+| Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
