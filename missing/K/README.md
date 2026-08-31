@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
+| Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
@@ -97,6 +98,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
+| Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
+| Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
+| Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
+| Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
