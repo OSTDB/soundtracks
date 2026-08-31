@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
+| Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
+| Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
+| Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
@@ -269,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
+| Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
@@ -277,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
+| Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
@@ -288,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
+| Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Boredom Survivor | 301611 | [301611-boredom-survivor.json](./301611-boredom-survivor.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
@@ -399,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
+| Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
