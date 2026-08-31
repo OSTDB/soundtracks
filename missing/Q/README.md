@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
+| Quadice | 234298 | [234298-quadice.json](./234298-quadice.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
@@ -17,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
+| Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
