@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
+| Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
