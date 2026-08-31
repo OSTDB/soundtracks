@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
+| Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
+| Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
