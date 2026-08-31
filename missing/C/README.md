@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
+| Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
+| Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
