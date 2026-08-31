@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
+| Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
