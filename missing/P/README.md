@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Trish Costume V1 | 324710 | [324710-persona-5-dancing-in-starlight-trish-costume-v1.json](./324710-persona-5-dancing-in-starlight-trish-costume-v1.json) |
 | Persona 5: Dancing in Starlight - Trish Costume V2 | 324711 | [324711-persona-5-dancing-in-starlight-trish-costume-v2.json](./324711-persona-5-dancing-in-starlight-trish-costume-v2.json) |
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
+| Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
+| Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
@@ -437,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
+| Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
@@ -537,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
+| Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
