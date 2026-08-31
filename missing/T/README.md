@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
+| The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
+| The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
@@ -528,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
+| The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
@@ -573,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
+| The Winter Tower | 226439 | [226439-the-winter-tower.json](./226439-the-winter-tower.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Knight | 254745 | [254745-the-witchs-knight.json](./254745-the-witchs-knight.json) |
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
@@ -602,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third | 233784 | [233784-third.json](./233784-third.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
+| This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
@@ -691,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
+| Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
@@ -740,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
+| Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
@@ -795,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
+| Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
@@ -841,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
+| Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
