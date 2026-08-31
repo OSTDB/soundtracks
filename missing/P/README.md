@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
+| Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
