@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
+| Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
+| Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
@@ -190,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
+| Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
@@ -213,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
+| Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
