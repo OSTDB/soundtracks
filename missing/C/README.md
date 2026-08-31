@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
+| Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
+| Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
@@ -102,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
+| Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
@@ -172,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
+| Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
@@ -220,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
+| ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
@@ -251,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
+| City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
@@ -398,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
+| Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
@@ -421,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
+| Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
