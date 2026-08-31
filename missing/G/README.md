@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
+| GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
+| Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnosis | 292284 | [292284-gnosis.json](./292284-gnosis.json) |
 | Go Go! Flambeau! | 219799 | [219799-go-go-flambeau.json](./219799-go-go-flambeau.json) |
+| Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
@@ -203,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
+| Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
