@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
+| Mega Drive Mini | 215392 | [215392-mega-drive-mini.json](./215392-mega-drive-mini.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
+| MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
@@ -675,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Secret Bistro: Cooking Game | 246661 | [246661-my-secret-bistro-cooking-game.json](./246661-my-secret-bistro-cooking-game.json) |
+| My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My Soul Trapped in a WIN98 PC | 274196 | [274196-my-soul-trapped-in-a-win98-pc.json](./274196-my-soul-trapped-in-a-win98-pc.json) |
 | My Spa Resort | 296077 | [296077-my-spa-resort.json](./296077-my-spa-resort.json) |
