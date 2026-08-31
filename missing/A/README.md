@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
+| A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
+| Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
+| Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
@@ -466,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
+| Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
