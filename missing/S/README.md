@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
+| Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
+| Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
+| Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
@@ -419,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
+| Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
@@ -592,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 3: "Other Circumstance" | 336363 | [336363-sonic-3-other-circumstance.json](./336363-sonic-3-other-circumstance.json) |
 | Sonic 3: D.A. Garden Edition | 296108 | [296108-sonic-3-d-a-garden-edition.json](./296108-sonic-3-d-a-garden-edition.json) |
+| Sonic 3D Blast | 202967 | [202967-sonic-3d-blast.json](./202967-sonic-3d-blast.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure Reloaded | 316978 | [316978-sonic-adventure-reloaded.json](./316978-sonic-adventure-reloaded.json) |
 | Sonic Adventure SX | 316977 | [316977-sonic-adventure-sx.json](./316977-sonic-adventure-sx.json) |
@@ -718,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
+| Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
