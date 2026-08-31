@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
+| Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
