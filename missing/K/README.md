@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
+| Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
