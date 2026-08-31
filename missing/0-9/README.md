@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
+| 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
