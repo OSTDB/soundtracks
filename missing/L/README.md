@@ -16,6 +16,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
+| Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
+| Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
+| Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
+| Labyrinth of Zangetsu: Mind=.0 Collaboration - Additional Characters Pack | 246640 | [246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json](./246640-labyrinth-of-zangetsu-mind-0-collaboration-additional-characters-pack.json) |
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
@@ -52,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
+| League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
