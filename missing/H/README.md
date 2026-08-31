@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
+| Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
@@ -176,19 +177,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
+| Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
+| Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
+| HerrAnwalt: Lawyers Legacy | 224233 | [224233-herranwalt-lawyers-legacy.json](./224233-herranwalt-lawyers-legacy.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | HexaTerra | 320564 | [320564-hexaterra.json](./320564-hexaterra.json) |
+| Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
+| Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
+| Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
@@ -249,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
+| Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
@@ -267,12 +275,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
+| Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home Game 3 | 243397 | [243397-home-game-3.json](./243397-home-game-3.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
+| Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
@@ -313,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
+| Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
@@ -344,7 +355,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
+| Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
+| Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
+| Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
@@ -355,6 +369,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
+| Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
+| Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
