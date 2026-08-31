@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
+| Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
@@ -200,6 +201,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
+| Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
+| Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
@@ -234,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looper Looper | 255997 | [255997-looper-looper.json](./255997-looper-looper.json) |
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
+| Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
@@ -266,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
+| Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
