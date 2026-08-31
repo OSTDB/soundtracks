@@ -46,10 +46,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
+| Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
@@ -86,6 +88,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
+| New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
+| New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
