@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
+| Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
+| The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
@@ -405,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Permanent Residence: Souls Kept | 324671 | [324671-the-permanent-residence-souls-kept.json](./324671-the-permanent-residence-souls-kept.json) |
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
+| The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
@@ -641,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
+| Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
@@ -690,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
 | Train Simulator: Stevens Pass Scenario Pack 02 | 306072 | [306072-train-simulator-stevens-pass-scenario-pack-02.json](./306072-train-simulator-stevens-pass-scenario-pack-02.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
+| Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus: BR Diesel Brake Tenders | 306101 | [306101-trainz-plus-br-diesel-brake-tenders.json](./306101-trainz-plus-br-diesel-brake-tenders.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
@@ -702,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
+| Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
