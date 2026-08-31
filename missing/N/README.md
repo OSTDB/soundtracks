@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
 | Noodle Fight | 269313 | [269313-noodle-fight.json](./269313-noodle-fight.json) |
 | Noodle Party | 209680 | [209680-noodle-party.json](./209680-noodle-party.json) |
+| Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
