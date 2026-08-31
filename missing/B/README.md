@@ -298,6 +298,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
 | Bodyguard Task Force | 291252 | [291252-bodyguard-task-force.json](./291252-bodyguard-task-force.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
+| Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
+| Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -388,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
