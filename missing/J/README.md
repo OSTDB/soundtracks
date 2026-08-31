@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
+| Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
@@ -51,6 +52,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
+| Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
+| Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
+| Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
+| Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
+| Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
+| Jigsaw Masterpieces: Okinawa - Paradise in Japan | 238231 | [238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json](./238231-jigsaw-masterpieces-okinawa-paradise-in-japan.json) |
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
@@ -102,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
+| Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
