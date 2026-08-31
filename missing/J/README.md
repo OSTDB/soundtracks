@@ -6,6 +6,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
+| J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
 | Ja-in | 274206 | [274206-ja-in.json](./274206-ja-in.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
@@ -24,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
+| Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
@@ -65,6 +68,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
+| Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
+| Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
