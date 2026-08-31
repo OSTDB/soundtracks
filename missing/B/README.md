@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
+| Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
