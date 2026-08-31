@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
+| Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
+| Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
