@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Magical Girl is a B*tch | 270370 | [270370-this-magical-girl-is-a-b-tch.json](./270370-this-magical-girl-is-a-b-tch.json) |
 | This Morning I Decided to Die | 258695 | [258695-this-morning-i-decided-to-die.json](./258695-this-morning-i-decided-to-die.json) |
+| Thistledown: Marrowroot | 216502 | [216502-thistledown-marrowroot.json](./216502-thistledown-marrowroot.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
@@ -676,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
+| Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tiger Tank 59 I: A-Gun MP040 | 238717 | [238717-tiger-tank-59-i-a-gun-mp040.json](./238717-tiger-tank-59-i-a-gun-mp040.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
@@ -683,11 +685,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
+| Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
+| Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
@@ -697,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
+| Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
