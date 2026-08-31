@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
+| I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
 | I Was in the War | 242822 | [242822-i-was-in-the-war.json](./242822-i-was-in-the-war.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
+| I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm in Love With Your Dead Grandmother Presents: Noah Smalljohnson's Puzzle Game - Digital Deluxe Mega Chad Edition | 332816 | [332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json](./332816-im-in-love-with-your-dead-grandmother-presents-noah-smalljohnsons-puzzle-game-digital-deluxe-mega-chad-edition.json) |
@@ -194,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
+| Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
