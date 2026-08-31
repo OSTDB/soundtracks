@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
 | Greatest Dungeon | 295546 | [295546-greatest-dungeon.json](./295546-greatest-dungeon.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
+| Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
 | Greenfeet Haven | 291781 | [291781-greenfeet-haven.json](./291781-greenfeet-haven.json) |
