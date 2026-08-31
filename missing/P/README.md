@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
+| Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
+| Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
