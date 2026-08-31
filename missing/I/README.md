@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
+| Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
+| In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
