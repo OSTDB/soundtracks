@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
+| Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare Majo Love and Berry: Cute ni Oshare | 300423 | [300423-oshare-majo-love-and-berry-cute-ni-oshare.json](./300423-oshare-majo-love-and-berry-cute-ni-oshare.json) |
 | Oshare ni Henshin HeartCatch PreCure! | 327600 | [327600-oshare-ni-henshin-heartcatch-precure.json](./327600-oshare-ni-henshin-heartcatch-precure.json) |
