@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
+| Coloring Pixels: Collection 2 | 224199 | [224199-coloring-pixels-collection-2.json](./224199-coloring-pixels-collection-2.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Vistas Pack 3 | 305513 | [305513-coloring-pixels-vistas-pack-3.json](./305513-coloring-pixels-vistas-pack-3.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
+| Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Attraction | 296673 | [296673-criminal-attraction.json](./296673-criminal-attraction.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
+| Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
