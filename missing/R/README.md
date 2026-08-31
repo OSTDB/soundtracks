@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redemption | 306063 | [306063-redemption.json](./306063-redemption.json) |
 | Redline | 321136 | [321136-redline.json](./321136-redline.json) |
+| Redline F-1 Racer | 239898 | [239898-redline-f-1-racer.json](./239898-redline-f-1-racer.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
