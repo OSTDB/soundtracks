@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
+| Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
@@ -35,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
+| Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
+| Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
@@ -424,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
+| Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutalism22 | 244470 | [244470-brutalism22.json](./244470-brutalism22.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
