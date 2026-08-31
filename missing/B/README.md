@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
+| Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
+| BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
