@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
+| OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
@@ -99,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
+| Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
