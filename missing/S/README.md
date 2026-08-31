@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
+| Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
+| SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
@@ -439,6 +441,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
+| Soccer Showdown 3 | 233735 | [233735-soccer-showdown-3.json](./233735-soccer-showdown-3.json) |
+| Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
@@ -634,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
@@ -653,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
+| Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -682,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
+| Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
@@ -751,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
@@ -821,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
+| Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Suggoi! Arcana Heart 2 | 243414 | [243414-suggoi-arcana-heart-2.json](./243414-suggoi-arcana-heart-2.json) |
@@ -856,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
+| Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
@@ -1004,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
+| SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
