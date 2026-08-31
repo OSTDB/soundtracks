@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
+| Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
