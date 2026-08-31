@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
+| Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
