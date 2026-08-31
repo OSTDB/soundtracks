@@ -32,12 +32,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
+| Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
+| NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
@@ -140,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
+| Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
