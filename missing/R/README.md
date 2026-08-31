@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
+| Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
+| Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
