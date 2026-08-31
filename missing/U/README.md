@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
+| UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
+| Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
