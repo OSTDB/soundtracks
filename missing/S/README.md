@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
+| Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stig | 295541 | [295541-stig.json](./295541-stig.json) |
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
+| Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
@@ -902,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
+| Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
