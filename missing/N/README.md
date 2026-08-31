@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
+| Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
