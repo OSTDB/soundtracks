@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
+| Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
+| LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
