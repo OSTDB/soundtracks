@@ -74,6 +74,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
+| Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
+| Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
@@ -157,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
+| EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
