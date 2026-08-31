@@ -171,6 +171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Cemetery | 302710 | [302710-pet-cemetery.json](./302710-pet-cemetery.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Pad | 243423 | [243423-pet-pad.json](./243423-pet-pad.json) |
+| Pet Paradise Story | 232171 | [232171-pet-paradise-story.json](./232171-pet-paradise-story.json) |
+| Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
@@ -309,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
+| Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
