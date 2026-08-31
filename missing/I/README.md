@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
+| Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
