@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
+| Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Dance | 319961 | [319961-orbital-dance.json](./319961-orbital-dance.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
