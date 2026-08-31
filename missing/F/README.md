@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
+| Fog | 201837 | [201837-fog.json](./201837-fog.json) |
 | Folk Song | 317010 | [317010-folk-song.json](./317010-folk-song.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
