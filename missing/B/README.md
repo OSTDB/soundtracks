@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
