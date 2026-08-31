@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
+| Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
@@ -30,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
+| Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
