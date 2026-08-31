@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
+| 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
