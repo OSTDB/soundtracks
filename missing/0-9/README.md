@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
+| 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
@@ -28,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
+| 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
