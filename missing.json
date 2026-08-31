@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T11:33:30.417Z",
-  "total_missing": 9121,
+  "generated_at": "2026-08-31T11:47:57.483Z",
+  "total_missing": 9172,
   "games": [
     {
       "igdb_id": 306086,
@@ -5723,6 +5723,11 @@
       "file": "missing/B/267669-bulanci-map-pack.json"
     },
     {
+      "igdb_id": 227466,
+      "game_name": "Bulldozer Crash",
+      "file": "missing/B/227466-bulldozer-crash.json"
+    },
+    {
       "igdb_id": 243373,
       "game_name": "Bullet Blaze",
       "file": "missing/B/243373-bullet-blaze.json"
@@ -7861,6 +7866,11 @@
       "igdb_id": 255329,
       "game_name": "Coloring Game: Girls",
       "file": "missing/C/255329-coloring-game-girls.json"
+    },
+    {
+      "igdb_id": 227467,
+      "game_name": "Coloring Pixels: Advent 4 Pack",
+      "file": "missing/C/227467-coloring-pixels-advent-4-pack.json"
     },
     {
       "igdb_id": 259861,
@@ -12326,6 +12336,11 @@
       "igdb_id": 291229,
       "game_name": "European Card Wars",
       "file": "missing/E/291229-european-card-wars.json"
+    },
+    {
+      "igdb_id": 227469,
+      "game_name": "Evade 2",
+      "file": "missing/E/227469-evade-2.json"
     },
     {
       "igdb_id": 290693,
@@ -17251,6 +17266,11 @@
       "igdb_id": 235485,
       "game_name": "Heroes of Drakerealm",
       "file": "missing/H/235485-heroes-of-drakerealm.json"
+    },
+    {
+      "igdb_id": 227471,
+      "game_name": "Heroes of War",
+      "file": "missing/H/227471-heroes-of-war.json"
     },
     {
       "igdb_id": 336371,
@@ -26373,6 +26393,11 @@
       "file": "missing/N/314669-ninja-warz.json"
     },
     {
+      "igdb_id": 227473,
+      "game_name": "Ninja's Creed",
+      "file": "missing/N/227473-ninjas-creed.json"
+    },
+    {
       "igdb_id": 317577,
       "game_name": "Ninpek",
       "file": "missing/N/317577-ninpek.json"
@@ -27866,6 +27891,11 @@
       "igdb_id": 278140,
       "game_name": "Pancho's Mission",
       "file": "missing/P/278140-panchos-mission.json"
+    },
+    {
+      "igdb_id": 227472,
+      "game_name": "Panda Lu Baby Bear Care 2",
+      "file": "missing/P/227472-panda-lu-baby-bear-care-2.json"
     },
     {
       "igdb_id": 248913,
@@ -31033,6 +31063,21 @@
       "file": "missing/R/331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json"
     },
     {
+      "igdb_id": 226977,
+      "game_name": "RDS: The Official Drift Videogame - Premium Cars Pack #1",
+      "file": "missing/R/226977-rds-the-official-drift-videogame-premium-cars-pack-1.json"
+    },
+    {
+      "igdb_id": 226978,
+      "game_name": "RDS: The Official Drift Videogame - Premium Cars Pack #2",
+      "file": "missing/R/226978-rds-the-official-drift-videogame-premium-cars-pack-2.json"
+    },
+    {
+      "igdb_id": 226979,
+      "game_name": "RDS: The Official Drift Videogame - Russian Cars Pack",
+      "file": "missing/R/226979-rds-the-official-drift-videogame-russian-cars-pack.json"
+    },
+    {
       "igdb_id": 291748,
       "game_name": "Re into Another World",
       "file": "missing/R/291748-re-into-another-world.json"
@@ -31128,6 +31173,11 @@
       "file": "missing/R/251846-real-time-general.json"
     },
     {
+      "igdb_id": 226976,
+      "game_name": "Reality",
+      "file": "missing/R/226976-reality.json"
+    },
+    {
       "igdb_id": 309677,
       "game_name": "Reality Core",
       "file": "missing/R/309677-reality-core.json"
@@ -31196,6 +31246,11 @@
       "igdb_id": 246676,
       "game_name": "Recognition Test 23",
       "file": "missing/R/246676-recognition-test-23.json"
+    },
+    {
+      "igdb_id": 226975,
+      "game_name": "Recoil vs. The World",
+      "file": "missing/R/226975-recoil-vs-the-world.json"
     },
     {
       "igdb_id": 321167,
@@ -31273,6 +31328,11 @@
       "file": "missing/R/270939-red-machina-teaser-thoughtjudger.json"
     },
     {
+      "igdb_id": 226968,
+      "game_name": "Red Tape",
+      "file": "missing/R/226968-red-tape.json"
+    },
+    {
       "igdb_id": 318805,
       "game_name": "Redd War: Turnabout",
       "file": "missing/R/318805-redd-war-turnabout.json"
@@ -31303,6 +31363,31 @@
       "file": "missing/R/237633-redline-royale.json"
     },
     {
+      "igdb_id": 226970,
+      "game_name": "Redout: Back to Earth Pack",
+      "file": "missing/R/226970-redout-back-to-earth-pack.json"
+    },
+    {
+      "igdb_id": 226971,
+      "game_name": "Redout: Mars Pack",
+      "file": "missing/R/226971-redout-mars-pack.json"
+    },
+    {
+      "igdb_id": 226972,
+      "game_name": "Redout: Neptune Pack",
+      "file": "missing/R/226972-redout-neptune-pack.json"
+    },
+    {
+      "igdb_id": 226973,
+      "game_name": "Redout: Space Exploration Pack",
+      "file": "missing/R/226973-redout-space-exploration-pack.json"
+    },
+    {
+      "igdb_id": 226974,
+      "game_name": "Redout: V.E.R.T.E.X. Pack",
+      "file": "missing/R/226974-redout-v-e-r-t-e-x-pack.json"
+    },
+    {
       "igdb_id": 309689,
       "game_name": "ReEarth",
       "file": "missing/R/309689-reearth.json"
@@ -31326,6 +31411,11 @@
       "igdb_id": 244479,
       "game_name": "Reflections of Life: Spindle of Fate",
       "file": "missing/R/244479-reflections-of-life-spindle-of-fate.json"
+    },
+    {
+      "igdb_id": 226969,
+      "game_name": "Refuge",
+      "file": "missing/R/226969-refuge.json"
     },
     {
       "igdb_id": 319343,
@@ -31523,6 +31613,16 @@
       "file": "missing/R/318213-retro-horror-story.json"
     },
     {
+      "igdb_id": 226966,
+      "game_name": "Retrograde Arena: Arms Race Pack",
+      "file": "missing/R/226966-retrograde-arena-arms-race-pack.json"
+    },
+    {
+      "igdb_id": 226967,
+      "game_name": "Retrograde Arena: Deathmatch Pack",
+      "file": "missing/R/226967-retrograde-arena-deathmatch-pack.json"
+    },
+    {
       "igdb_id": 313490,
       "game_name": "RetroRealms: Ash vs. Evil Dead",
       "file": "missing/R/313490-retrorealms-ash-vs-evil-dead.json"
@@ -31688,6 +31788,81 @@
       "file": "missing/R/252402-richman-4-fun.json"
     },
     {
+      "igdb_id": 226961,
+      "game_name": "Ride 2: 2017 Top Bikes Pack",
+      "file": "missing/R/226961-ride-2-2017-top-bikes-pack.json"
+    },
+    {
+      "igdb_id": 226962,
+      "game_name": "Ride 2: Aprilia and Suzuki Bonus Pack",
+      "file": "missing/R/226962-ride-2-aprilia-and-suzuki-bonus-pack.json"
+    },
+    {
+      "igdb_id": 226963,
+      "game_name": "Ride 2: Collector Bikes Pack",
+      "file": "missing/R/226963-ride-2-collector-bikes-pack.json"
+    },
+    {
+      "igdb_id": 226964,
+      "game_name": "Ride 2: Competition Bikes Pack",
+      "file": "missing/R/226964-ride-2-competition-bikes-pack.json"
+    },
+    {
+      "igdb_id": 226965,
+      "game_name": "Ride 2: Ducati Bikes Pack",
+      "file": "missing/R/226965-ride-2-ducati-bikes-pack.json"
+    },
+    {
+      "igdb_id": 226960,
+      "game_name": "Ride 2: Exotic Bikes Pack",
+      "file": "missing/R/226960-ride-2-exotic-bikes-pack.json"
+    },
+    {
+      "igdb_id": 226959,
+      "game_name": "Ride 2: Free Bikes Pack 2",
+      "file": "missing/R/226959-ride-2-free-bikes-pack-2.json"
+    },
+    {
+      "igdb_id": 226958,
+      "game_name": "Ride 2: Free Bikes Pack 3",
+      "file": "missing/R/226958-ride-2-free-bikes-pack-3.json"
+    },
+    {
+      "igdb_id": 226957,
+      "game_name": "Ride 2: Free Bikes Pack 4",
+      "file": "missing/R/226957-ride-2-free-bikes-pack-4.json"
+    },
+    {
+      "igdb_id": 226956,
+      "game_name": "Ride 2: Free Bikes Pack 5",
+      "file": "missing/R/226956-ride-2-free-bikes-pack-5.json"
+    },
+    {
+      "igdb_id": 226955,
+      "game_name": "Ride 2: Free Bikes Pack 6",
+      "file": "missing/R/226955-ride-2-free-bikes-pack-6.json"
+    },
+    {
+      "igdb_id": 226954,
+      "game_name": "Ride 2: Free Bikes Pack 7",
+      "file": "missing/R/226954-ride-2-free-bikes-pack-7.json"
+    },
+    {
+      "igdb_id": 226953,
+      "game_name": "Ride 2: Free Bikes Pack 8",
+      "file": "missing/R/226953-ride-2-free-bikes-pack-8.json"
+    },
+    {
+      "igdb_id": 226952,
+      "game_name": "Ride 2: Free Bikes Pack 9",
+      "file": "missing/R/226952-ride-2-free-bikes-pack-9.json"
+    },
+    {
+      "igdb_id": 226951,
+      "game_name": "Ride 2: Rising Sun Bikes Pack",
+      "file": "missing/R/226951-ride-2-rising-sun-bikes-pack.json"
+    },
+    {
       "igdb_id": 293410,
       "game_name": "Ride 5: Free Pack 06",
       "file": "missing/R/293410-ride-5-free-pack-06.json"
@@ -31701,6 +31876,11 @@
       "igdb_id": 243403,
       "game_name": "Ride Control Ultimate",
       "file": "missing/R/243403-ride-control-ultimate.json"
+    },
+    {
+      "igdb_id": 226950,
+      "game_name": "RideOp: New Heights - Expansion pack",
+      "file": "missing/R/226950-rideop-new-heights-expansion-pack.json"
     },
     {
       "igdb_id": 293916,
@@ -31721,6 +31901,11 @@
       "igdb_id": 232693,
       "game_name": "Rift Breach",
       "file": "missing/R/232693-rift-breach.json"
+    },
+    {
+      "igdb_id": 226949,
+      "game_name": "Rift Rangers",
+      "file": "missing/R/226949-rift-rangers.json"
     },
     {
       "igdb_id": 270936,
@@ -31826,6 +32011,41 @@
       "igdb_id": 231070,
       "game_name": "Risk your life to get your dinner back Nyanzou action game",
       "file": "missing/R/231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json"
+    },
+    {
+      "igdb_id": 226941,
+      "game_name": "Risk: Global Domination - Advanced Map Pack",
+      "file": "missing/R/226941-risk-global-domination-advanced-map-pack.json"
+    },
+    {
+      "igdb_id": 226942,
+      "game_name": "Risk: Global Domination - Dawn of the Dinos Map Pack",
+      "file": "missing/R/226942-risk-global-domination-dawn-of-the-dinos-map-pack.json"
+    },
+    {
+      "igdb_id": 226943,
+      "game_name": "Risk: Global Domination - Enchanted Realms Map Pack",
+      "file": "missing/R/226943-risk-global-domination-enchanted-realms-map-pack.json"
+    },
+    {
+      "igdb_id": 226944,
+      "game_name": "Risk: Global Domination - Fantasy Map Pack 2",
+      "file": "missing/R/226944-risk-global-domination-fantasy-map-pack-2.json"
+    },
+    {
+      "igdb_id": 226945,
+      "game_name": "Risk: Global Domination - Sci-Fi Map Pack",
+      "file": "missing/R/226945-risk-global-domination-sci-fi-map-pack.json"
+    },
+    {
+      "igdb_id": 226947,
+      "game_name": "Risk: Global Domination - Strongholds & Castles Map Pack",
+      "file": "missing/R/226947-risk-global-domination-strongholds-and-castles-map-pack.json"
+    },
+    {
+      "igdb_id": 226946,
+      "game_name": "Risk: Global Domination - Zombie Pack",
+      "file": "missing/R/226946-risk-global-domination-zombie-pack.json"
     },
     {
       "igdb_id": 300993,
@@ -31988,6 +32208,11 @@
       "file": "missing/R/297204-rocket-engineer.json"
     },
     {
+      "igdb_id": 226940,
+      "game_name": "Rocket Escape",
+      "file": "missing/R/226940-rocket-escape.json"
+    },
+    {
       "igdb_id": 329397,
       "game_name": "Rocket Hat",
       "file": "missing/R/329397-rocket-hat.json"
@@ -31996,6 +32221,11 @@
       "igdb_id": 273653,
       "game_name": "Rocket Jump Race",
       "file": "missing/R/273653-rocket-jump-race.json"
+    },
+    {
+      "igdb_id": 226939,
+      "game_name": "Rocket League: DC Super Heroes DLC Pack",
+      "file": "missing/R/226939-rocket-league-dc-super-heroes-dlc-pack.json"
     },
     {
       "igdb_id": 252378,
@@ -32051,6 +32281,21 @@
       "igdb_id": 262059,
       "game_name": "Rocks Rider",
       "file": "missing/R/262059-rocks-rider.json"
+    },
+    {
+      "igdb_id": 226938,
+      "game_name": "Rocksmith 2014: Regal Singles Song Pack",
+      "file": "missing/R/226938-rocksmith-2014-regal-singles-song-pack.json"
+    },
+    {
+      "igdb_id": 226936,
+      "game_name": "Rocksmith 2014: Rise Against Song Pack",
+      "file": "missing/R/226936-rocksmith-2014-rise-against-song-pack.json"
+    },
+    {
+      "igdb_id": 226935,
+      "game_name": "Rocksmith 2014: Rise Against Song Pack II",
+      "file": "missing/R/226935-rocksmith-2014-rise-against-song-pack-ii.json"
     },
     {
       "igdb_id": 258700,
@@ -32366,6 +32611,11 @@
       "igdb_id": 296078,
       "game_name": "Royal Merge!",
       "file": "missing/R/296078-royal-merge.json"
+    },
+    {
+      "igdb_id": 226930,
+      "game_name": "Royal Romances: Battle of the Woods",
+      "file": "missing/R/226930-royal-romances-battle-of-the-woods.json"
     },
     {
       "igdb_id": 256003,
@@ -39291,6 +39541,11 @@
       "igdb_id": 257689,
       "game_name": "The Deadlands",
       "file": "missing/T/257689-the-deadlands.json"
+    },
+    {
+      "igdb_id": 227468,
+      "game_name": "The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium",
+      "file": "missing/T/227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json"
     },
     {
       "igdb_id": 321127,
