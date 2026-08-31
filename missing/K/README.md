@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami no Me no Aeon: Zenpen | 341326 | [341326-kami-no-me-no-aeon-zenpen.json](./341326-kami-no-me-no-aeon-zenpen.json) |
+| Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama: Spirit of the Shrine | 218737 | [218737-kamisama-spirit-of-the-shrine.json](./218737-kamisama-spirit-of-the-shrine.json) |
@@ -42,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
+| Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
 | Katakoi Contrast: Way of Parting Vol.2 | 240475 | [240475-katakoi-contrast-way-of-parting-vol-2.json](./240475-katakoi-contrast-way-of-parting-vol-2.json) |
@@ -72,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
+| Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
+| Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
