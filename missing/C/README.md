@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
+| CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
+| Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
 | Confession of the Golden Witch | 255386 | [255386-confession-of-the-golden-witch.json](./255386-confession-of-the-golden-witch.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
@@ -746,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
+| Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
@@ -775,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
+| Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
