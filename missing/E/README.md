@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
+| Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
