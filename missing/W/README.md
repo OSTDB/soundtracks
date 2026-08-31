@@ -24,6 +24,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Mount Olympus | 334481 | [334481-walkabout-mini-golf-mount-olympus.json](./334481-walkabout-mini-golf-mount-olympus.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
+| Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
+| Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
@@ -181,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
+| Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
