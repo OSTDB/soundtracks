@@ -347,5 +347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
