@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
+| Zettai Meikyuu Grimm Director's Cut: Nanatsu no Kagi to Rakuen no Otome | 221963 | [221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json](./221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
