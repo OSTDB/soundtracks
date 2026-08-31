@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
+| Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
@@ -53,3 +54,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
+| Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
