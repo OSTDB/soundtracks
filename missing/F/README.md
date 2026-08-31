@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
+| Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
+| Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
