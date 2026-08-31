@@ -76,8 +76,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
+| Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
+| Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
@@ -86,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: New Year's Tour | 338538 | [338538-mario-kart-tour-new-years-tour.json](./338538-mario-kart-tour-new-years-tour.json) |
 | Mario Kart Tour: Valentine's Tour | 338540 | [338540-mario-kart-tour-valentines-tour.json](./338540-mario-kart-tour-valentines-tour.json) |
 | Mario Kart Tour: Vancouver Tour | 338541 | [338541-mario-kart-tour-vancouver-tour.json](./338541-mario-kart-tour-vancouver-tour.json) |
+| Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
@@ -487,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
+| My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
 | My Woods | 335652 | [335652-my-woods.json](./335652-my-woods.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
