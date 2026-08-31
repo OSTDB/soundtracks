@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
+| Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
