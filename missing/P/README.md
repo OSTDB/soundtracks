@@ -186,7 +186,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
+| Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
+| Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
