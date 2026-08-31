@@ -261,6 +261,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
+| Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
+| Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
