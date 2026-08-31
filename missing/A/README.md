@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
+| After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
 | Agent Roy: Secure the Temple | 229331 | [229331-agent-roy-secure-the-temple.json](./229331-agent-roy-secure-the-temple.json) |
+| Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -437,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
+| Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
