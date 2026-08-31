@@ -53,8 +53,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
+| Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
+| Idun | 237048 | [237048-idun.json](./237048-idun.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
