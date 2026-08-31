@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
+| Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
+| Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Slayers: Reign of The 8th | 291758 | [291758-sin-slayers-reign-of-the-8th.json](./291758-sin-slayers-reign-of-the-8th.json) |
@@ -334,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
+| Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
@@ -566,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
+| Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
@@ -827,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
+| Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
