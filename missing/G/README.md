@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
+| Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
