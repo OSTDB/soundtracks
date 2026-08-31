@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
+| Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
