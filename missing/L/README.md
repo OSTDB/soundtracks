@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
+| Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
+| Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
@@ -91,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
+| LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
