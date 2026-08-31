@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
+| Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call of Duty 4: Modern Warfare - Game of the Year Edition | 290723 | [290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json](./290723-call-of-duty-4-modern-warfare-game-of-the-year-edition.json) |
@@ -208,12 +209,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
+| City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
+| Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Empresarial | 274750 | [274750-ciudad-empresarial.json](./274750-ciudad-empresarial.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
@@ -258,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
+| Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
