@@ -23,10 +23,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
+| ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
+| Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
@@ -38,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
+| Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
