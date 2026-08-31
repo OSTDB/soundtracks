@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
+| One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
+| Overhead Kick | 248319 | [248319-overhead-kick.json](./248319-overhead-kick.json) |
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
