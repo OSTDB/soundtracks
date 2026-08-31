@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Holidays: Deluxe Edition | 328810 | [328810-ultimate-holidays-deluxe-edition.json](./328810-ultimate-holidays-deluxe-edition.json) |
 | Ultimate Indie Racing | 306651 | [306651-ultimate-indie-racing.json](./306651-ultimate-indie-racing.json) |
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
+| Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
@@ -97,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
+| Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
