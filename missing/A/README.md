@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
+| Adventure Beaks | 230536 | [230536-adventure-beaks.json](./230536-adventure-beaks.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
