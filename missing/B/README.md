@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Bargain Platfomer | 220352 | [220352-bargain-platfomer.json](./220352-bargain-platfomer.json) |
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
+| Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
@@ -485,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
+| BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
