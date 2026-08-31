@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
+| Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
