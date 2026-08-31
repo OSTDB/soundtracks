@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
+| Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
