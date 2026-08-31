@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
+| Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
