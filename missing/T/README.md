@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
+| TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
+| The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
@@ -315,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
+| The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
@@ -326,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
+| The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
