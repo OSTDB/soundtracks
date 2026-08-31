@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
+| Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
