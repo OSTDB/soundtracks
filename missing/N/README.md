@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
+| Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
@@ -38,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
+| Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
