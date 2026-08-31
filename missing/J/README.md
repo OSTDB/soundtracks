@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
+| Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
