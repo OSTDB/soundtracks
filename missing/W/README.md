@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
+| Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
@@ -242,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
+| Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
