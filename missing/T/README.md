@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
+| Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
@@ -448,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
+| The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Magenta Spire | 261505 | [261505-the-magenta-spire.json](./261505-the-magenta-spire.json) |
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
@@ -590,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
+| The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
@@ -975,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
+| TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tumble Ball | 295567 | [295567-tumble-ball.json](./295567-tumble-ball.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
