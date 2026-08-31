@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
+| Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
