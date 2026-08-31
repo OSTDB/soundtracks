@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
+| A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
@@ -50,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
+| A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
@@ -210,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
+| Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
@@ -343,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
+| Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
