@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
+| Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
