@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
+| Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
+| Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
