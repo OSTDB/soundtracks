@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
+| BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
+| Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
@@ -468,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
+| Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
