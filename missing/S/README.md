@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
+| Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
+| SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
@@ -714,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
+| Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
@@ -776,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
+| Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
@@ -946,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
+| Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
@@ -1023,6 +1028,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
+| Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
+| Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
