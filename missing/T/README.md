@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
+| Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
