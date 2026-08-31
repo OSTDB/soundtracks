@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2018: Hits Francais et Internationaux | 268194 | [268194-lets-sing-2018-hits-francais-et-internationaux.json](./268194-lets-sing-2018-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
 | Let's Sing 2019: Mit Deutschen Hits! | 253001 | [253001-lets-sing-2019-mit-deutschen-hits.json](./253001-lets-sing-2019-mit-deutschen-hits.json) |
+| Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 5: Version Espanola | 268196 | [268196-lets-sing-5-version-espanola.json](./268196-lets-sing-5-version-espanola.json) |
 | Let's Sing 6: Version Espanola | 268197 | [268197-lets-sing-6-version-espanola.json](./268197-lets-sing-6-version-espanola.json) |
 | Let's Sing 7: Version Espanola | 268198 | [268198-lets-sing-7-version-espanola.json](./268198-lets-sing-7-version-espanola.json) |
