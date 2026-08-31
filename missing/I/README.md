@@ -38,10 +38,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer BBEG Skin & Feat Pack | 306077 | [306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json](./306077-idle-champions-wyrm-slayer-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
+| Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
+| Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
+| Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
@@ -116,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
+| Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
