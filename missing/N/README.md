@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
+| Nashijiru Action! Funassyi no Yukai na Ohanassyi | 222508 | [222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json](./222508-nashijiru-action-funassyi-no-yukai-na-ohanassyi.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Navigavia: Kirka's Island | 267107 | [267107-navigavia-kirkas-island.json](./267107-navigavia-kirkas-island.json) |
+| Nazo no Mini Game: Choigae | 222525 | [222525-nazo-no-mini-game-choigae.json](./222525-nazo-no-mini-game-choigae.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
@@ -56,7 +58,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
+| Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nemesis '90 Kai | 314677 | [314677-nemesis-90-kai.json](./314677-nemesis-90-kai.json) |
@@ -107,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
+| New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
@@ -124,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
+| Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nicodemus: Demon of Evanishment | 246637 | [246637-nicodemus-demon-of-evanishment.json](./246637-nicodemus-demon-of-evanishment.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
