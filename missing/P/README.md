@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
+| Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
+| Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
+| Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
@@ -509,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
+| Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
@@ -636,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
+| Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
