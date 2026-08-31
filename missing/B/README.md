@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Shopping Adventure | 245564 | [245564-barbie-for-girls-shopping-adventure.json](./245564-barbie-for-girls-shopping-adventure.json) |
 | Barbie for Girls Soccer | 245563 | [245563-barbie-for-girls-soccer.json](./245563-barbie-for-girls-soccer.json) |
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
+| Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Dr. Eggman (Game Ichizoku) | 329355 | [329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json](./329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
+| Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
