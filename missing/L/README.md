@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | L for Logic | 259235 | [259235-l-for-logic.json](./259235-l-for-logic.json) |
+| L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
@@ -61,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
+| LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
@@ -202,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
+| Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
