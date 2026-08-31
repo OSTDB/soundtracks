@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
+| PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
+| Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
