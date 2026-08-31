@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
+| Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
