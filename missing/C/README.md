@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
+| Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats Spotter | 307322 | [307322-cats-spotter.json](./307322-cats-spotter.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
+| Cats Yakuza | 211961 | [211961-cats-yakuza.json](./211961-cats-yakuza.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
@@ -207,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
+| Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
@@ -558,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
+| Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
