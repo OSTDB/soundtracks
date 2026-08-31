@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
+| ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
+| Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
@@ -208,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
+| Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
 | Alien Paradise | 292312 | [292312-alien-paradise.json](./292312-alien-paradise.json) |
 | Alien Planet Bell | 302130 | [302130-alien-planet-bell.json](./302130-alien-planet-bell.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
@@ -551,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
+| AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azure Be Gone | 322396 | [322396-azure-be-gone.json](./322396-azure-be-gone.json) |
