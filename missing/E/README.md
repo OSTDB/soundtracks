@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
+| Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
