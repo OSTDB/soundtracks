@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
+| Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
+| Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disney Fairies: Tinker Bell and the Great Fairy Rescue | 230553 | [230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json](./230553-disney-fairies-tinker-bell-and-the-great-fairy-rescue.json) |
