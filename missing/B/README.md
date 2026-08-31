@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
+| Banana Kong 2 | 209711 | [209711-banana-kong-2.json](./209711-banana-kong-2.json) |
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat 'Em All | 265924 | [265924-beat-em-all.json](./265924-beat-em-all.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
+| Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
@@ -299,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
+| Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
@@ -359,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
+| Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
@@ -414,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
+| Bokura no Keshigomu Otoshi Shin Gakki | 208628 | [208628-bokura-no-keshigomu-otoshi-shin-gakki.json](./208628-bokura-no-keshigomu-otoshi-shin-gakki.json) |
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -469,11 +474,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
+| Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bowling | 300414 | [300414-bowling.json](./300414-bowling.json) |
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
+| Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
@@ -491,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
+| Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
