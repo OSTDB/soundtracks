@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
+| Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
