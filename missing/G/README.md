@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
+| Gabenwood: 99 Hidden Bucks | 224239 | [224239-gabenwood-99-hidden-bucks.json](./224239-gabenwood-99-hidden-bucks.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
@@ -105,18 +106,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
+| Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
+| Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
+| Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
@@ -129,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
+| Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
