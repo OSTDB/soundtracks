@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
+| Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
