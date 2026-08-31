@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 19: Black Friday | 341871 | [341871-shopping-clutter-19-black-friday.json](./341871-shopping-clutter-19-black-friday.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
+| Shopping Clutter 5: Christmas Poetree | 223139 | [223139-shopping-clutter-5-christmas-poetree.json](./223139-shopping-clutter-5-christmas-poetree.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
@@ -923,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
+| Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
@@ -938,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
+| Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Marine | 234929 | [234929-super-marine.json](./234929-super-marine.json) |
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
@@ -1017,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
+| Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
@@ -1049,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
+| Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
