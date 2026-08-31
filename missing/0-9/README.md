@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 66 Balls | 232139 | [232139-66-balls.json](./232139-66-balls.json) |
+| 6ix9ine Runner | 224198 | [224198-6ix9ine-runner.json](./224198-6ix9ine-runner.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
