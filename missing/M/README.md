@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
+| Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
+| Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
