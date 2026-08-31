@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
+| Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
+| PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
