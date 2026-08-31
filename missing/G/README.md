@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
+| Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
@@ -240,11 +241,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
+| Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
+| Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
@@ -292,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
+| Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
@@ -362,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
+| Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
