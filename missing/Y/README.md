@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
+| Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
