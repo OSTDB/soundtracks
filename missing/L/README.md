@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
+| Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
