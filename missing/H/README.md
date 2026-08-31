@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
+| Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
+| Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
