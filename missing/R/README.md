@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
+| Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
+| Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
