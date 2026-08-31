@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
+| Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
@@ -68,6 +69,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
+| Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
+| Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
+| Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
+| Generation Zero: Camo Weapon Skins Pack | 234912 | [234912-generation-zero-camo-weapon-skins-pack.json](./234912-generation-zero-camo-weapon-skins-pack.json) |
+| Generation Zero: Eastern European Weapons Pack | 234909 | [234909-generation-zero-eastern-european-weapons-pack.json](./234909-generation-zero-eastern-european-weapons-pack.json) |
+| Generation Zero: Motorbikes Pack | 234917 | [234917-generation-zero-motorbikes-pack.json](./234917-generation-zero-motorbikes-pack.json) |
+| Generation Zero: Rivals and Experimental Weapons | 234932 | [234932-generation-zero-rivals-and-experimental-weapons.json](./234932-generation-zero-rivals-and-experimental-weapons.json) |
+| Generation Zero: Soviet Weapons Pack | 234927 | [234927-generation-zero-soviet-weapons-pack.json](./234927-generation-zero-soviet-weapons-pack.json) |
+| Generation Zero: Tactical Equipment Pack | 234919 | [234919-generation-zero-tactical-equipment-pack.json](./234919-generation-zero-tactical-equipment-pack.json) |
+| Generation Zero: Tubular Vanity Pack | 234930 | [234930-generation-zero-tubular-vanity-pack.json](./234930-generation-zero-tubular-vanity-pack.json) |
+| Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
+| Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
