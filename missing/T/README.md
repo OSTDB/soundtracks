@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
+| The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
+| Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
@@ -690,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
+| Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
@@ -891,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
+| Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twisted Lovestruck | 243425 | [243425-twisted-lovestruck.json](./243425-twisted-lovestruck.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
