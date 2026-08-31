@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
+| Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
+| Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
@@ -447,6 +449,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster Jam Showdown: Day One Edition | 293931 | [293931-monster-jam-showdown-day-one-edition.json](./293931-monster-jam-showdown-day-one-edition.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
+| Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
+| Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
