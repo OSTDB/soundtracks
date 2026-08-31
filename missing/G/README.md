@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out Joey! | 248892 | [248892-get-out-joey.json](./248892-get-out-joey.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
+| Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
@@ -393,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
+| GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
