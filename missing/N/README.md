@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
+| Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
