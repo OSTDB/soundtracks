@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
+| Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
@@ -511,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
+| Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
@@ -763,17 +765,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
+| Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
+| Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
+| Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
+| Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
+| Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
+| Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
+| Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
