@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
+| Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
@@ -145,6 +146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
+| Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
+| Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
