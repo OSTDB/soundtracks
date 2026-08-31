@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
+| Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
+| BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
 | Bobr Kurwa | 297241 | [297241-bobr-kurwa.json](./297241-bobr-kurwa.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
@@ -447,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
+| Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
