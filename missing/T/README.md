@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
+| Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
+| The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
@@ -373,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
+| The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
