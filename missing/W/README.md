@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
+| Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
+| Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
