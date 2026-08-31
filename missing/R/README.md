@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
+| Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
@@ -380,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 3 | 317597 | [317597-rose-and-camellia-3.json](./317597-rose-and-camellia-3.json) |
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
+| Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
