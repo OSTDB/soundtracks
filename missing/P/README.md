@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
+| Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
+| Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
