@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
+| R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
 | Resident Evil Revelations 2: Season Pass | 254130 | [254130-resident-evil-revelations-2-season-pass.json](./254130-resident-evil-revelations-2-season-pass.json) |
+| Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -269,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
+| Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
