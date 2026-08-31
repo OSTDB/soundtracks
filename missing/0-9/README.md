@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
+| 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
@@ -110,4 +111,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
+| 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
