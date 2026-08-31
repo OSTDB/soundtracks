@@ -153,10 +153,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
+| First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
+| First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
@@ -199,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
 | Floodrush | 251217 | [251217-floodrush.json](./251217-floodrush.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
+| FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
