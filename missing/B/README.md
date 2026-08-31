@@ -235,6 +235,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
+| Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
+| Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
+| Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
+| Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
+| Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
@@ -303,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
+| Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
@@ -423,11 +429,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
+| Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
+| Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Boom Zoo | 297226 | [297226-boom-zoo.json](./297226-boom-zoo.json) |
@@ -474,6 +482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
+| Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
+| Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
@@ -482,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
+| Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
@@ -543,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
+| Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
