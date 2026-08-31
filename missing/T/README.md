@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Puzzle: Complete Edition | 315849 | [315849-thief-puzzle-complete-edition.json](./315849-thief-puzzle-complete-edition.json) |
 | Thief Puzzle: Pranks | 313515 | [313515-thief-puzzle-pranks.json](./313515-thief-puzzle-pranks.json) |
 | Thief Puzzle: Tricks | 313514 | [313514-thief-puzzle-tricks.json](./313514-thief-puzzle-tricks.json) |
+| Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
+| TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
@@ -746,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
+| Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
@@ -782,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
+| Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | TrotMania IV: Euphorius | 313471 | [313471-trotmania-iv-euphorius.json](./313471-trotmania-iv-euphorius.json) |
