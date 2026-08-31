@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
+| Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
