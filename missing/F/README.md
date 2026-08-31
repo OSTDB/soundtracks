@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
+| Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
@@ -421,7 +422,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
+| Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
+| Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
@@ -500,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
+| Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
 | Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
 | Fushigi no Gensoukyou 3 Plus | 206959 | [206959-fushigi-no-gensoukyou-3-plus.json](./206959-fushigi-no-gensoukyou-3-plus.json) |
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
