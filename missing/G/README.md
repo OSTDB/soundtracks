@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
+| GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
