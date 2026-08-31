@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Golf? It's Snowtime | 264344 | [264344-what-the-golf-its-snowtime.json](./264344-what-the-golf-its-snowtime.json) |
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
+| What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
