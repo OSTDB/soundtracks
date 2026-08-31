@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
+| Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
+| Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
@@ -202,6 +204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
+| Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
+| Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
