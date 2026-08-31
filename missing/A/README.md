@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
+| Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
