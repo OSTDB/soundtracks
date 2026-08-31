@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
+| SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
+| Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Secret Agent Puzzle | 331662 | [331662-secret-agent-puzzle.json](./331662-secret-agent-puzzle.json) |
 | Secret Agent: Cold War Espionage | 243396 | [243396-secret-agent-cold-war-espionage.json](./243396-secret-agent-cold-war-espionage.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
@@ -272,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
+| Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
@@ -348,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
+| Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
@@ -527,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
+| Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
@@ -595,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
+| Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Ultimate Edition | 243370 | [243370-sport-and-fun-swimming-ultimate-edition.json](./243370-sport-and-fun-swimming-ultimate-edition.json) |
@@ -620,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
+| Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
@@ -635,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
+| Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
@@ -646,9 +654,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
+| Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
+| Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -862,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
+| Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
