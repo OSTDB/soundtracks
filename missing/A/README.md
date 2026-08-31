@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
+| Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
