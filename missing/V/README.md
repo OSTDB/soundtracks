@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
+| VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
@@ -83,6 +84,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Virion | 338568 | [338568-virion.json](./338568-virion.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
+| Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
+| Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
