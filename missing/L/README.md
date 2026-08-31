@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
+| Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
+| Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2 | 239343 | [239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json](./239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
@@ -230,8 +232,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
+| Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
+| Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | LoveAndComplex | 311276 | [311276-loveandcomplex.json](./311276-loveandcomplex.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
@@ -241,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
+| Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
@@ -251,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
