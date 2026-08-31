@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
+| Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
