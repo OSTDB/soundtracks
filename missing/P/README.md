@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
+| Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
@@ -292,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
+| Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
@@ -458,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
+| Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
