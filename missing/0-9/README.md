@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
+| .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
@@ -44,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
+| 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
@@ -115,3 +117,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90s My Dear | 316438 | [316438-90s-my-dear.json](./316438-90s-my-dear.json) |
 | 99.99% 3D: Fill the Ball | 232146 | [232146-99-99-3d-fill-the-ball.json](./232146-99-99-3d-fill-the-ball.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
+| Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
