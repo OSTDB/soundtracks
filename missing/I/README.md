@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
+| Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Champions: Ms. Squiggles the Octopus Familiar Pack | 306079 | [306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json](./306079-idle-champions-ms-squiggles-the-octopus-familiar-pack.json) |
 | Idle Champions: Mythic Freely Skin & Feat Pack | 255982 | [255982-idle-champions-mythic-freely-skin-and-feat-pack.json](./255982-idle-champions-mythic-freely-skin-and-feat-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
 | Idle Saga | 318215 | [318215-idle-saga.json](./318215-idle-saga.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
+| Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
@@ -159,6 +161,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
+| Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
