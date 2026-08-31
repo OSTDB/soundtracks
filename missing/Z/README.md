@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
+| Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
+| ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
