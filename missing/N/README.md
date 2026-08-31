@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
+| Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
