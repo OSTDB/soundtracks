@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
+| Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
