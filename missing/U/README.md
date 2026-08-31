@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
+| Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
