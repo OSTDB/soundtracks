@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
+| Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
+| Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
