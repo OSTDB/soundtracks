@@ -360,6 +360,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
+| Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
+| Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
@@ -388,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
+| Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
