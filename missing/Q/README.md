@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
 | Quest for the Golden Chalice | 306664 | [306664-quest-for-the-golden-chalice.json](./306664-quest-for-the-golden-chalice.json) |
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
+| Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
