@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
+| Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
+| Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
