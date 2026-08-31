@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
+| Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sandtrix | 251225 | [251225-sandtrix.json](./251225-sandtrix.json) |
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
@@ -216,6 +217,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
+| Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
+| Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
@@ -239,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
+| Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
@@ -674,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
+| Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
