@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
+| Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
