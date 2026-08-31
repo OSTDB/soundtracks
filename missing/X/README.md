@@ -6,8 +6,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
+| X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
+| Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | Xel: Breaking Time | 246632 | [246632-xel-breaking-time.json](./246632-xel-breaking-time.json) |
 | Xel: Complete Edition | 246633 | [246633-xel-complete-edition.json](./246633-xel-complete-edition.json) |
+| Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
+| Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
+| Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
@@ -18,7 +24,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
+| XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
+| Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
+| Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
