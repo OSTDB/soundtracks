@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| H8machine | 210868 | [210868-h8machine.json](./210868-h8machine.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gems, Hidden Secrets | 240499 | [240499-hidden-gems-hidden-secrets.json](./240499-hidden-gems-hidden-secrets.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
+| Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
