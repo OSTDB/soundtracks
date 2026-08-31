@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
+| Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
@@ -207,7 +208,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
+| Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
+| Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
@@ -366,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
@@ -443,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
+| Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
