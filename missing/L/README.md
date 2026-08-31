@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
+| Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
