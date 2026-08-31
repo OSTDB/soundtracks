@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
+| Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
+| Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
@@ -170,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
+| Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
@@ -213,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
+| Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
