@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
+| Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
+| Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
