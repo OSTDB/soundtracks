@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
+| Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
+| Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
