@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
+| Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
@@ -152,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
+| Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
@@ -160,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
+| Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
@@ -169,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
+| Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
@@ -303,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
+| Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
@@ -405,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
+| Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
@@ -451,7 +457,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
+| Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
+| Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
@@ -488,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
+| Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
