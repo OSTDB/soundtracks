@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
 | Skye Revival | 329399 | [329399-skye-revival.json](./329399-skye-revival.json) |
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
+| Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
+| Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
