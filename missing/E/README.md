@@ -41,10 +41,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
+| Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
 | Eggconsole Hydlide MSX | 315833 | [315833-eggconsole-hydlide-msx.json](./315833-eggconsole-hydlide-msx.json) |
 | Eggconsole Xak PC-8801mkIISR | 292867 | [292867-eggconsole-xak-pc-8801mkiisr.json](./292867-eggconsole-xak-pc-8801mkiisr.json) |
+| Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggular Game | 307310 | [307310-eggular-game.json](./307310-eggular-game.json) |
 | Eggy Car | 335654 | [335654-eggy-car.json](./335654-eggy-car.json) |
@@ -213,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
+| Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
