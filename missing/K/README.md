@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
+| King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
