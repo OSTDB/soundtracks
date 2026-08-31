@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
+| Jumpy Road Race | 232162 | [232162-jumpy-road-race.json](./232162-jumpy-road-race.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
