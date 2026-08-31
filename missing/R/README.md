@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
+| Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
