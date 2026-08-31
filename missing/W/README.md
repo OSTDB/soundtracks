@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War | 255331 | [255331-war.json](./255331-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
+| War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
@@ -90,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
+| We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
@@ -177,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
+| WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
@@ -206,7 +210,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
+| Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
+| Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
 | Wonderland Secret Worlds | 260964 | [260964-wonderland-secret-worlds.json](./260964-wonderland-secret-worlds.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
@@ -230,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
+| World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
@@ -240,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
+| World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
