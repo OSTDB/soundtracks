@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
+| Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
+| Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
@@ -89,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
+| Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
@@ -275,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
+| Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
@@ -285,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
+| Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
 | Doomworld Mega Project 2013 | 260954 | [260954-doomworld-mega-project-2013.json](./260954-doomworld-mega-project-2013.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
@@ -318,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
