@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
+| Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
+| Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
