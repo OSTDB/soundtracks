@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
+| VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
