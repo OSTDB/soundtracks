@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
+| Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
+| Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
@@ -274,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
+| Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
@@ -304,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
+| Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
