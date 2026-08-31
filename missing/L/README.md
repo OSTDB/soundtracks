@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2 | 239343 | [239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json](./239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
+| Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
