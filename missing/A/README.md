@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
+| Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: Definitive Edition - The Complete History | 205251 | [205251-age-of-empires-iii-definitive-edition-the-complete-history.json](./205251-age-of-empires-iii-definitive-edition-the-complete-history.json) |
 | Age of Empires IV: Anniversary Edition | 221950 | [221950-age-of-empires-iv-anniversary-edition.json](./221950-age-of-empires-iv-anniversary-edition.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
+| All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
@@ -374,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
+| Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
