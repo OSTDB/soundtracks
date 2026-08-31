@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
+| Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
+| Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
@@ -570,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
+| Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
