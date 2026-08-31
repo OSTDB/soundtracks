@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
+| Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
