@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milkblood | 241031 | [241031-milkblood.json](./241031-milkblood.json) |
+| Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
+| Model Oshare Audition Dream Girl | 222499 | [222499-model-oshare-audition-dream-girl.json](./222499-model-oshare-audition-dream-girl.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
