@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
+| Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
@@ -164,4 +165,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
+| Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
