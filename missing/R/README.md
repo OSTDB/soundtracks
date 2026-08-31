@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
+| ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
