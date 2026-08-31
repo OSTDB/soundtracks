@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
+| Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
@@ -98,8 +99,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
+| Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
+| After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
@@ -121,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
+| Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
@@ -165,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
+| All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
@@ -227,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
+| Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
@@ -285,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
+| Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
