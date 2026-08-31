@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
+| Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Gombo | 277616 | [277616-gombo.json](./277616-gombo.json) |
 | Gomenne Angel: Yokohama Monogatari | 271463 | [271463-gomenne-angel-yokohama-monogatari.json](./271463-gomenne-angel-yokohama-monogatari.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
