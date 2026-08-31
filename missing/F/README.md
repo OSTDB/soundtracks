@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
+| Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
+| Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
@@ -185,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
+| Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
