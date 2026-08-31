@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
 | Undertale: Wildfire | 314045 | [314045-undertale-wildfire.json](./314045-undertale-wildfire.json) |
+| Undertone | 229350 | [229350-undertone.json](./229350-undertone.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
