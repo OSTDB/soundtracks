@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
+| Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
@@ -209,11 +210,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
+| Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
 | Nonolith | 321176 | [321176-nonolith.json](./321176-nonolith.json) |
