@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
+| DDS Defenders Dark Side | 214726 | [214726-dds-defenders-dark-side.json](./214726-dds-defenders-dark-side.json) |
 | De Blob | 233776 | [233776-de-blob.json](./233776-de-blob.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
+| Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
@@ -237,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
+| Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
