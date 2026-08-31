@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
+| Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
 | Eve Online: Eclipse - Quadrant 2 | 329918 | [329918-eve-online-eclipse-quadrant-2.json](./329918-eve-online-eclipse-quadrant-2.json) |
