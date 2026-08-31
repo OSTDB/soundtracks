@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
+| Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
+| Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
@@ -308,11 +310,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
+| Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
