@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
+| Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
@@ -67,4 +68,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
+| Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
