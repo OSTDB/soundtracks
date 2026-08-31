@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
+| Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
