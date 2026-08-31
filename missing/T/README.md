@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
+| The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
