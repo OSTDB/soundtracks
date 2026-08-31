@@ -194,3 +194,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
+| Ozymandias: Aegean Sea | 235986 | [235986-ozymandias-aegean-sea.json](./235986-ozymandias-aegean-sea.json) |
