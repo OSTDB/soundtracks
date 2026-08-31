@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
+| Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
+| Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shanghai Gold | 297216 | [297216-shanghai-gold.json](./297216-shanghai-gold.json) |
@@ -370,8 +372,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
+| Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
+| Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
@@ -504,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
+| Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
@@ -606,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
+| Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
@@ -749,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
+| Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
@@ -792,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
+| Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World: The Lost Adventure - Episode I Remastered | 259290 | [259290-super-mario-world-the-lost-adventure-episode-i-remastered.json](./259290-super-mario-world-the-lost-adventure-episode-i-remastered.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
