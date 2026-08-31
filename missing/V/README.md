@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
+| Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
@@ -106,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
+| Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
