@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
+| Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escaping Darkness | 320531 | [320531-escaping-darkness.json](./320531-escaping-darkness.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
@@ -183,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
+| Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
