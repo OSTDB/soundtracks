@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
+| Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
