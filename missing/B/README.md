@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
+| Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ballad of Antara | 303809 | [303809-ballad-of-antara.json](./303809-ballad-of-antara.json) |
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
@@ -225,12 +226,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
+| Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
+| Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
@@ -588,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
+| Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
@@ -611,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
+| Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
