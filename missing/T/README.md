@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
+| The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
+| The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
@@ -607,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Special Edition | 328797 | [328797-the-smurfs-colorful-stories-special-edition.json](./328797-the-smurfs-colorful-stories-special-edition.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
