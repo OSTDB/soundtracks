@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
+| Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Mario Eggstraordinary Egg Hunt | 245039 | [245039-paper-mario-eggstraordinary-egg-hunt.json](./245039-paper-mario-eggstraordinary-egg-hunt.json) |
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
+| Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
@@ -451,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
+| Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
