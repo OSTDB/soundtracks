@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
+| Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
+| Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -836,14 +838,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour | 241014 | [241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json](./241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure | 241020 | [241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json](./241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 1 | 241023 | [241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json](./241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 2 | 241024 | [241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json](./241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Last Stand | 241021 | [241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json](./241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape | 241018 | [241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json](./241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Castle Dash | 241015 | [241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json](./241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Ground Work | 241019 | [241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json](./241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Koopaling Confusion | 241022 | [241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json](./241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle | 241026 | [241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json](./241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Rich with Ropes | 241016 | [241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json](./241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
@@ -947,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
+| Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
