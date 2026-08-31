@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
+| Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
+| Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
@@ -297,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
+| Fluttershy Piano Tiles | 202388 | [202388-fluttershy-piano-tiles.json](./202388-fluttershy-piano-tiles.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
@@ -428,11 +431,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Red Version: vs. Red | 322374 | [322374-friday-night-funkin-red-version-vs-red.json](./322374-friday-night-funkin-red-version-vs-red.json) |
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin': Idol | 269294 | [269294-friday-night-funkin-idol.json](./269294-friday-night-funkin-idol.json) |
+| Friday Night Funkin': Mario's Madness | 202414 | [202414-friday-night-funkin-marios-madness.json](./202414-friday-night-funkin-marios-madness.json) |
 | Friday Night Funkin': Miku Full Week | 206925 | [206925-friday-night-funkin-miku-full-week.json](./206925-friday-night-funkin-miku-full-week.json) |
 | Friday Night Funkin': Pibby Corrupted Kitchen Gun | 269295 | [269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json](./269295-friday-night-funkin-pibby-corrupted-kitchen-gun.json) |
+| Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
+| Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
+| Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
