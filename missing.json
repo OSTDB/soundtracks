@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T05:33:18.234Z",
-  "total_missing": 7921,
+  "generated_at": "2026-08-31T05:48:22.997Z",
+  "total_missing": 7975,
   "games": [
     {
       "igdb_id": 306086,
@@ -928,6 +928,11 @@
       "file": "missing/A/273626-ad-fundum.json"
     },
     {
+      "igdb_id": 240470,
+      "game_name": "Adachi Dating Simulator",
+      "file": "missing/A/240470-adachi-dating-simulator.json"
+    },
+    {
       "igdb_id": 300990,
       "game_name": "Adam and Eve",
       "file": "missing/A/300990-adam-and-eve.json"
@@ -1188,6 +1193,11 @@
       "file": "missing/A/252408-aiten-eishi-blue-guardians.json"
     },
     {
+      "igdb_id": 240479,
+      "game_name": "Akanesasu Sekai de Kimi to Utau",
+      "file": "missing/A/240479-akanesasu-sekai-de-kimi-to-utau.json"
+    },
+    {
       "igdb_id": 297794,
       "game_name": "Akayashiki",
       "file": "missing/A/297794-akayashiki.json"
@@ -1291,6 +1301,11 @@
       "igdb_id": 254779,
       "game_name": "Alien Cube",
       "file": "missing/A/254779-alien-cube.json"
+    },
+    {
+      "igdb_id": 240500,
+      "game_name": "Alien Frontier",
+      "file": "missing/A/240500-alien-frontier.json"
     },
     {
       "igdb_id": 273129,
@@ -2933,6 +2948,11 @@
       "file": "missing/B/273135-bad-weekend.json"
     },
     {
+      "igdb_id": 240524,
+      "game_name": "BadMan",
+      "file": "missing/B/240524-badman.json"
+    },
+    {
       "igdb_id": 334498,
       "game_name": "Baia",
       "file": "missing/B/334498-baia.json"
@@ -3358,6 +3378,11 @@
       "file": "missing/B/245553-batman-begins-fear-the-bat.json"
     },
     {
+      "igdb_id": 240487,
+      "game_name": "Batman: Arkham Asylum",
+      "file": "missing/B/240487-batman-arkham-asylum.json"
+    },
+    {
       "igdb_id": 245552,
       "game_name": "Batman: The Brave and the Bold",
       "file": "missing/B/245552-batman-the-brave-and-the-bold.json"
@@ -3426,6 +3451,11 @@
       "igdb_id": 321743,
       "game_name": "Battle Spirits CrossOver",
       "file": "missing/B/321743-battle-spirits-crossover.json"
+    },
+    {
+      "igdb_id": 240476,
+      "game_name": "Battle Tanks: Arena",
+      "file": "missing/B/240476-battle-tanks-arena.json"
     },
     {
       "igdb_id": 314633,
@@ -3656,6 +3686,11 @@
       "igdb_id": 308534,
       "game_name": "Ben Tennyson: Ace Attorney",
       "file": "missing/B/308534-ben-tennyson-ace-attorney.json"
+    },
+    {
+      "igdb_id": 240509,
+      "game_name": "Beneath",
+      "file": "missing/B/240509-beneath.json"
     },
     {
       "igdb_id": 319393,
@@ -5163,6 +5198,11 @@
       "file": "missing/C/276488-call-of-duty-tactics.json"
     },
     {
+      "igdb_id": 240504,
+      "game_name": "Call of Duty: Ghosts - Digital Hardened Edition",
+      "file": "missing/C/240504-call-of-duty-ghosts-digital-hardened-edition.json"
+    },
+    {
       "igdb_id": 254759,
       "game_name": "Call of Duty: Modern Warfare II - Griffin: Pro Pack",
       "file": "missing/C/254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json"
@@ -5171,6 +5211,11 @@
       "igdb_id": 292856,
       "game_name": "Call of Duty: The War Collection",
       "file": "missing/C/292856-call-of-duty-the-war-collection.json"
+    },
+    {
+      "igdb_id": 240503,
+      "game_name": "Call of Duty: Warchest",
+      "file": "missing/C/240503-call-of-duty-warchest.json"
     },
     {
       "igdb_id": 278741,
@@ -6448,6 +6493,11 @@
       "file": "missing/C/261526-clinton-vs-trump-head-soccer-challenge.json"
     },
     {
+      "igdb_id": 240491,
+      "game_name": "Clock of Atonement",
+      "file": "missing/C/240491-clock-of-atonement.json"
+    },
+    {
       "igdb_id": 312922,
       "game_name": "Clock Out",
       "file": "missing/C/312922-clock-out.json"
@@ -7251,6 +7301,11 @@
       "igdb_id": 299446,
       "game_name": "Crate Expectations",
       "file": "missing/C/299446-crate-expectations.json"
+    },
+    {
+      "igdb_id": 240508,
+      "game_name": "Crazy Frog Racer",
+      "file": "missing/C/240508-crazy-frog-racer.json"
     },
     {
       "igdb_id": 242791,
@@ -9113,6 +9168,11 @@
       "file": "missing/D/249464-doctor-who-doctor-in-a-dash.json"
     },
     {
+      "igdb_id": 240494,
+      "game_name": "Doctor Who: Thirteen",
+      "file": "missing/D/240494-doctor-who-thirteen.json"
+    },
+    {
       "igdb_id": 278672,
       "game_name": "Does It Stack?: Full Stack Edition",
       "file": "missing/D/278672-does-it-stack-full-stack-edition.json"
@@ -10351,6 +10411,11 @@
       "igdb_id": 322989,
       "game_name": "Escape Depths of Immanis",
       "file": "missing/E/322989-escape-depths-of-immanis.json"
+    },
+    {
+      "igdb_id": 240498,
+      "game_name": "Escape from 1927",
+      "file": "missing/E/240498-escape-from-1927.json"
     },
     {
       "igdb_id": 315281,
@@ -12343,6 +12408,11 @@
       "file": "missing/F/270407-frog-feast.json"
     },
     {
+      "igdb_id": 240485,
+      "game_name": "Frogger",
+      "file": "missing/F/240485-frogger.json"
+    },
+    {
       "igdb_id": 341890,
       "game_name": "Frogger",
       "file": "missing/F/341890-frogger.json"
@@ -12676,6 +12746,11 @@
       "igdb_id": 250014,
       "game_name": "Galactic Commandos",
       "file": "missing/G/250014-galactic-commandos.json"
+    },
+    {
+      "igdb_id": 240484,
+      "game_name": "Galactic Empire",
+      "file": "missing/G/240484-galactic-empire.json"
     },
     {
       "igdb_id": 336906,
@@ -14323,6 +14398,11 @@
       "file": "missing/H/316421-haunted-house-renovator-prologue.json"
     },
     {
+      "igdb_id": 240502,
+      "game_name": "Haunted Lands: Burial Grounds",
+      "file": "missing/H/240502-haunted-lands-burial-grounds.json"
+    },
+    {
       "igdb_id": 335697,
       "game_name": "Haunted Property",
       "file": "missing/H/335697-haunted-property.json"
@@ -14841,6 +14921,11 @@
       "igdb_id": 263791,
       "game_name": "Hidden Cats In Amusement Park",
       "file": "missing/H/263791-hidden-cats-in-amusement-park.json"
+    },
+    {
+      "igdb_id": 240499,
+      "game_name": "Hidden Gems, Hidden Secrets",
+      "file": "missing/H/240499-hidden-gems-hidden-secrets.json"
     },
     {
       "igdb_id": 291242,
@@ -17233,6 +17318,16 @@
       "file": "missing/K/258712-kasplat.json"
     },
     {
+      "igdb_id": 240475,
+      "game_name": "Katakoi Contrast: Way of Parting Vol.2",
+      "file": "missing/K/240475-katakoi-contrast-way-of-parting-vol-2.json"
+    },
+    {
+      "igdb_id": 240477,
+      "game_name": "Katakoi Contrast: Way of Parting Vol.3",
+      "file": "missing/K/240477-katakoi-contrast-way-of-parting-vol-3.json"
+    },
+    {
       "igdb_id": 243426,
       "game_name": "Katamari Damacy Mobile",
       "file": "missing/K/243426-katamari-damacy-mobile.json"
@@ -17316,6 +17411,11 @@
       "igdb_id": 259865,
       "game_name": "Kemco: 50 RPGs Celebratory Bundle",
       "file": "missing/K/259865-kemco-50-rpgs-celebratory-bundle.json"
+    },
+    {
+      "igdb_id": 240515,
+      "game_name": "Kemo Kare! Oretachi no BL Byoutou",
+      "file": "missing/K/240515-kemo-kare-oretachi-no-bl-byoutou.json"
     },
     {
       "igdb_id": 247776,
@@ -18583,6 +18683,11 @@
       "file": "missing/L/253601-limit-choice.json"
     },
     {
+      "igdb_id": 240472,
+      "game_name": "Line 88",
+      "file": "missing/L/240472-line-88.json"
+    },
+    {
       "igdb_id": 275329,
       "game_name": "Line Bender",
       "file": "missing/L/275329-line-bender.json"
@@ -19188,6 +19293,11 @@
       "file": "missing/M/252388-madden-nfl-24-deluxe-edition.json"
     },
     {
+      "igdb_id": 240486,
+      "game_name": "Madden NFL 96",
+      "file": "missing/M/240486-madden-nfl-96.json"
+    },
+    {
       "igdb_id": 331704,
       "game_name": "Madness Interactive Reloaded",
       "file": "missing/M/331704-madness-interactive-reloaded.json"
@@ -19348,9 +19458,19 @@
       "file": "missing/M/254777-main-action.json"
     },
     {
+      "igdb_id": 240523,
+      "game_name": "Majestic Majolical vol. 1",
+      "file": "missing/M/240523-majestic-majolical-vol-1.json"
+    },
+    {
       "igdb_id": 252398,
       "game_name": "Majoneko",
       "file": "missing/M/252398-majoneko.json"
+    },
+    {
+      "igdb_id": 240488,
+      "game_name": "Major League Baseball 2K6",
+      "file": "missing/M/240488-major-league-baseball-2k6.json"
     },
     {
       "igdb_id": 336940,
@@ -19723,6 +19843,16 @@
       "file": "missing/M/255988-mask-beyond-lies.json"
     },
     {
+      "igdb_id": 240490,
+      "game_name": "Masked Shooters Assault",
+      "file": "missing/M/240490-masked-shooters-assault.json"
+    },
+    {
+      "igdb_id": 240489,
+      "game_name": "Masked Shooters Single-player",
+      "file": "missing/M/240489-masked-shooters-single-player.json"
+    },
+    {
       "igdb_id": 268772,
       "game_name": "Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective",
       "file": "missing/M/268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json"
@@ -20001,6 +20131,11 @@
       "igdb_id": 267657,
       "game_name": "Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall",
       "file": "missing/M/267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json"
+    },
+    {
+      "igdb_id": 240506,
+      "game_name": "Megami Ibunroku Persona",
+      "file": "missing/M/240506-megami-ibunroku-persona.json"
     },
     {
       "igdb_id": 301016,
@@ -21713,6 +21848,11 @@
       "file": "missing/M/313488-my-first-date-rpg-oriana-story-two.json"
     },
     {
+      "igdb_id": 240481,
+      "game_name": "My Girlfriend's Special Place",
+      "file": "missing/M/240481-my-girlfriends-special-place.json"
+    },
+    {
       "igdb_id": 292316,
       "game_name": "My Head On Your Body",
       "file": "missing/M/292316-my-head-on-your-body.json"
@@ -22181,6 +22321,11 @@
       "igdb_id": 264364,
       "game_name": "Need for Speed: Hot Pursuit",
       "file": "missing/N/264364-need-for-speed-hot-pursuit.json"
+    },
+    {
+      "igdb_id": 240505,
+      "game_name": "Need for Speed: ProStreet",
+      "file": "missing/N/240505-need-for-speed-prostreet.json"
     },
     {
       "igdb_id": 321744,
@@ -24568,6 +24713,11 @@
       "file": "missing/P/324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json"
     },
     {
+      "igdb_id": 240469,
+      "game_name": "PES 2018 Mobile",
+      "file": "missing/P/240469-pes-2018-mobile.json"
+    },
+    {
       "igdb_id": 302710,
       "game_name": "Pet Cemetery",
       "file": "missing/P/302710-pet-cemetery.json"
@@ -25783,6 +25933,41 @@
       "file": "missing/P/331099-private-garden.json"
     },
     {
+      "igdb_id": 240462,
+      "game_name": "Pro Evolution Soccer 2010",
+      "file": "missing/P/240462-pro-evolution-soccer-2010.json"
+    },
+    {
+      "igdb_id": 240463,
+      "game_name": "Pro Evolution Soccer 2011",
+      "file": "missing/P/240463-pro-evolution-soccer-2011.json"
+    },
+    {
+      "igdb_id": 240464,
+      "game_name": "Pro Evolution Soccer 2011",
+      "file": "missing/P/240464-pro-evolution-soccer-2011.json"
+    },
+    {
+      "igdb_id": 240467,
+      "game_name": "Pro Evolution Soccer 2014",
+      "file": "missing/P/240467-pro-evolution-soccer-2014.json"
+    },
+    {
+      "igdb_id": 240468,
+      "game_name": "Pro Evolution Soccer 2017",
+      "file": "missing/P/240468-pro-evolution-soccer-2017.json"
+    },
+    {
+      "igdb_id": 240471,
+      "game_name": "Pro Evolution Soccer 2019",
+      "file": "missing/P/240471-pro-evolution-soccer-2019.json"
+    },
+    {
+      "igdb_id": 240473,
+      "game_name": "Pro Evolution Soccer 2019",
+      "file": "missing/P/240473-pro-evolution-soccer-2019.json"
+    },
+    {
       "igdb_id": 324128,
       "game_name": "Pro Flight Simulator: Deluxe",
       "file": "missing/P/324128-pro-flight-simulator-deluxe.json"
@@ -26801,6 +26986,11 @@
       "igdb_id": 259814,
       "game_name": "Real Motocross Driving Simulator",
       "file": "missing/R/259814-real-motocross-driving-simulator.json"
+    },
+    {
+      "igdb_id": 240493,
+      "game_name": "Real Rally",
+      "file": "missing/R/240493-real-rally.json"
     },
     {
       "igdb_id": 251243,
@@ -29943,6 +30133,11 @@
       "file": "missing/S/252982-slippery-sammy.json"
     },
     {
+      "igdb_id": 240480,
+      "game_name": "Slobbish Dragon Princess 3",
+      "file": "missing/S/240480-slobbish-dragon-princess-3.json"
+    },
+    {
       "igdb_id": 264867,
       "game_name": "Slope",
       "file": "missing/S/264867-slope.json"
@@ -30106,6 +30301,11 @@
       "igdb_id": 302711,
       "game_name": "Snoopy DS: Let's Go Meet Snoopy and His Friends!",
       "file": "missing/S/302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json"
+    },
+    {
+      "igdb_id": 240495,
+      "game_name": "Snops Attack! Zombie Defense",
+      "file": "missing/S/240495-snops-attack-zombie-defense.json"
     },
     {
       "igdb_id": 318774,
@@ -32318,9 +32518,19 @@
       "file": "missing/S/296053-super-mario-advance-4-card-e-timer-yukkuri.json"
     },
     {
+      "igdb_id": 241014,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour",
+      "file": "missing/S/241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json"
+    },
+    {
       "igdb_id": 241025,
       "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge",
       "file": "missing/S/241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json"
+    },
+    {
+      "igdb_id": 241020,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure",
+      "file": "missing/S/241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json"
     },
     {
       "igdb_id": 241023,
@@ -32333,9 +32543,24 @@
       "file": "missing/S/241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json"
     },
     {
+      "igdb_id": 241021,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Last Stand",
+      "file": "missing/S/241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json"
+    },
+    {
       "igdb_id": 241018,
       "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape",
       "file": "missing/S/241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json"
+    },
+    {
+      "igdb_id": 241015,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Castle Dash",
+      "file": "missing/S/241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json"
+    },
+    {
+      "igdb_id": 241019,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Ground Work",
+      "file": "missing/S/241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json"
     },
     {
       "igdb_id": 241022,
@@ -32348,6 +32573,11 @@
       "file": "missing/S/241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json"
     },
     {
+      "igdb_id": 241016,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Rich with Ropes",
+      "file": "missing/S/241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json"
+    },
+    {
       "igdb_id": 241033,
       "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Series 2",
       "file": "missing/S/241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json"
@@ -32356,6 +32586,11 @@
       "igdb_id": 241027,
       "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls",
       "file": "missing/S/241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json"
+    },
+    {
+      "igdb_id": 241017,
+      "game_name": "Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors",
+      "file": "missing/S/241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json"
     },
     {
       "igdb_id": 250057,
@@ -32871,6 +33106,11 @@
       "igdb_id": 333394,
       "game_name": "Sword Sanctuary",
       "file": "missing/S/333394-sword-sanctuary.json"
+    },
+    {
+      "igdb_id": 240492,
+      "game_name": "Sword World PC",
+      "file": "missing/S/240492-sword-world-pc.json"
     },
     {
       "igdb_id": 295522,
@@ -34033,6 +34273,11 @@
       "file": "missing/T/314049-the-devil-within.json"
     },
     {
+      "igdb_id": 240474,
+      "game_name": "The Die Is Cast",
+      "file": "missing/T/240474-the-die-is-cast.json"
+    },
+    {
       "igdb_id": 312901,
       "game_name": "The Dime Birthday Level Collection",
       "file": "missing/T/312901-the-dime-birthday-level-collection.json"
@@ -34471,6 +34716,11 @@
       "igdb_id": 294421,
       "game_name": "The King's League: Emblems",
       "file": "missing/T/294421-the-kings-league-emblems.json"
+    },
+    {
+      "igdb_id": 240478,
+      "game_name": "The Lacerator",
+      "file": "missing/T/240478-the-lacerator.json"
     },
     {
       "igdb_id": 271487,
@@ -35766,6 +36016,21 @@
       "igdb_id": 267676,
       "game_name": "Titan Survival",
       "file": "missing/T/267676-titan-survival.json"
+    },
+    {
+      "igdb_id": 240520,
+      "game_name": "Tlicolity Eyes Vol. 2",
+      "file": "missing/T/240520-tlicolity-eyes-vol-2.json"
+    },
+    {
+      "igdb_id": 240521,
+      "game_name": "Tlicolity Eyes Vol. 3",
+      "file": "missing/T/240521-tlicolity-eyes-vol-3.json"
+    },
+    {
+      "igdb_id": 240522,
+      "game_name": "Tlicolity Eyes: Twinkle Showtime",
+      "file": "missing/T/240522-tlicolity-eyes-twinkle-showtime.json"
     },
     {
       "igdb_id": 254754,
@@ -39111,6 +39376,11 @@
       "igdb_id": 246633,
       "game_name": "Xel: Complete Edition",
       "file": "missing/X/246633-xel-complete-edition.json"
+    },
+    {
+      "igdb_id": 240497,
+      "game_name": "Xenosaga II to III: A Missing Year",
+      "file": "missing/X/240497-xenosaga-ii-to-iii-a-missing-year.json"
     },
     {
       "igdb_id": 298848,
