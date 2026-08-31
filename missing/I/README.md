@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
+| Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
