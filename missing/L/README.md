@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leisurely Brick | 267656 | [267656-leisurely-brick.json](./267656-leisurely-brick.json) |
+| Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luminous Skies: A Short Adventure | 255956 | [255956-luminous-skies-a-short-adventure.json](./255956-luminous-skies-a-short-adventure.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
+| Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
