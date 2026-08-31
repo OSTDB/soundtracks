@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
+| Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Danganronpa Absolute Vindication | 304350 | [304350-danganronpa-absolute-vindication.json](./304350-danganronpa-absolute-vindication.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
+| Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
+| Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
@@ -296,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
+| DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
@@ -340,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
+| Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
@@ -372,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
+| Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
