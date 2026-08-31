@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
+| Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
@@ -166,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
+| Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
@@ -203,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
+| Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
