@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
+| PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
@@ -332,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
+| Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
+| Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
@@ -361,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
+| Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
