@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
+| Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
+| Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
@@ -130,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
+| Goin Up | 245033 | [245033-goin-up.json](./245033-goin-up.json) |
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
