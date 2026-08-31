@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
+| 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
 | 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
@@ -76,8 +77,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
+| 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
+| 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
