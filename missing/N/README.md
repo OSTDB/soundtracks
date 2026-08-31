@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
+| Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
+| Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
