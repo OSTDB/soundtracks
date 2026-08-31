@@ -29,10 +29,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
+| Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
+| Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
