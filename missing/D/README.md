@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
+| Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
@@ -190,6 +191,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
+| Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
+| Derby Stallion 96: 97 Nendo-ban | 234889 | [234889-derby-stallion-96-97-nendo-ban.json](./234889-derby-stallion-96-97-nendo-ban.json) |
 | Dere. Some Answers Before I... | 258696 | [258696-dere-some-answers-before-i.json](./258696-dere-some-answers-before-i.json) |
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
@@ -420,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
+| Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
