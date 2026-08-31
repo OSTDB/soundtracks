@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
+| Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
@@ -111,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
+| Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
