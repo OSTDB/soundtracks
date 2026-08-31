@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
+| Re:Zero Kara Hajimeru Isekai Seikatsu - Infinity | 220324 | [220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json](./220324-re-zero-kara-hajimeru-isekai-seikatsu-infinity.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Hill | 250625 | [250625-revenant-hill.json](./250625-revenant-hill.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
+| Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
