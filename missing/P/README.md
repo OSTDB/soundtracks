@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
+| Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
+| Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
