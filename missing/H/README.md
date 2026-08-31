@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
+| Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art | 316394 | [316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json](./316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
+| Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
