@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
+| Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
