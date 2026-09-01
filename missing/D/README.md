@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
+| Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
