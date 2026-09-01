@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
+| Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
@@ -768,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto!? Fushigi no Gensoukyou Prologue: Chijou kara no Kyoui | 206939 | [206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json](./206939-motto-fushigi-no-gensoukyou-prologue-chijou-kara-no-kyoui.json) |
 | Motto!? Fushigi no Gensoukyou: Under the Moonlight | 206935 | [206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json](./206935-motto-fushigi-no-gensoukyou-under-the-moonlight.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
+| Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
@@ -777,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
+| Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
@@ -928,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
+| Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
