@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
 | Journey to the West: Dark Invasion | 309650 | [309650-journey-to-the-west-dark-invasion.json](./309650-journey-to-the-west-dark-invasion.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
+| Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
 | Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
