@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
