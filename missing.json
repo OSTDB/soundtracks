@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:48:26.743Z",
-  "total_missing": 15012,
+  "generated_at": "2026-09-01T18:03:29.486Z",
+  "total_missing": 15062,
   "games": [
     {
       "igdb_id": 306086,
@@ -1331,6 +1331,11 @@
       "igdb_id": 196859,
       "game_name": "A Potion For Chamomile",
       "file": "missing/A/196859-a-potion-for-chamomile.json"
+    },
+    {
+      "igdb_id": 163457,
+      "game_name": "A Pretty Ornament I Made",
+      "file": "missing/A/163457-a-pretty-ornament-i-made.json"
     },
     {
       "igdb_id": 322343,
@@ -3546,6 +3551,11 @@
       "igdb_id": 269286,
       "game_name": "Animated Jigsaw Puzzles",
       "file": "missing/A/269286-animated-jigsaw-puzzles.json"
+    },
+    {
+      "igdb_id": 163420,
+      "game_name": "Animated Puzzles: Spooky Pack",
+      "file": "missing/A/163420-animated-puzzles-spooky-pack.json"
     },
     {
       "igdb_id": 224759,
@@ -6686,6 +6696,11 @@
       "igdb_id": 321743,
       "game_name": "Battle Spirits CrossOver",
       "file": "missing/B/321743-battle-spirits-crossover.json"
+    },
+    {
+      "igdb_id": 163454,
+      "game_name": "Battle Talent",
+      "file": "missing/B/163454-battle-talent.json"
     },
     {
       "igdb_id": 240476,
@@ -11178,6 +11193,21 @@
       "file": "missing/C/237058-chess-morph-the-queens-wormholes.json"
     },
     {
+      "igdb_id": 163412,
+      "game_name": "Chess Puzzles: 100 by Emma",
+      "file": "missing/C/163412-chess-puzzles-100-by-emma.json"
+    },
+    {
+      "igdb_id": 163414,
+      "game_name": "Chess Puzzles: 100 by Liam",
+      "file": "missing/C/163414-chess-puzzles-100-by-liam.json"
+    },
+    {
+      "igdb_id": 163413,
+      "game_name": "Chess Puzzles: 100 by Tyrone",
+      "file": "missing/C/163413-chess-puzzles-100-by-tyrone.json"
+    },
+    {
       "igdb_id": 259293,
       "game_name": "Chess Remix",
       "file": "missing/C/259293-chess-remix.json"
@@ -13091,6 +13121,11 @@
       "igdb_id": 235980,
       "game_name": "Contractor",
       "file": "missing/C/235980-contractor.json"
+    },
+    {
+      "igdb_id": 163427,
+      "game_name": "Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack",
+      "file": "missing/C/163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json"
     },
     {
       "igdb_id": 263215,
@@ -15231,6 +15266,11 @@
       "igdb_id": 310733,
       "game_name": "Dawn of Defense",
       "file": "missing/D/310733-dawn-of-defense.json"
+    },
+    {
+      "igdb_id": 163439,
+      "game_name": "Dawn of Dynasty",
+      "file": "missing/D/163439-dawn-of-dynasty.json"
     },
     {
       "igdb_id": 237082,
@@ -19801,6 +19841,11 @@
       "igdb_id": 275340,
       "game_name": "Endless Desert TD",
       "file": "missing/E/275340-endless-desert-td.json"
+    },
+    {
+      "igdb_id": 163460,
+      "game_name": "Endless Firepower",
+      "file": "missing/E/163460-endless-firepower.json"
     },
     {
       "igdb_id": 292843,
@@ -24673,9 +24718,24 @@
       "file": "missing/G/194023-game-of-legends-rise-of-champions.json"
     },
     {
+      "igdb_id": 163428,
+      "game_name": "Game of Puzzles: Animals",
+      "file": "missing/G/163428-game-of-puzzles-animals.json"
+    },
+    {
+      "igdb_id": 163429,
+      "game_name": "Game of Puzzles: Animals - Expansion Pack",
+      "file": "missing/G/163429-game-of-puzzles-animals-expansion-pack.json"
+    },
+    {
       "igdb_id": 248922,
       "game_name": "Game Of Puzzles: Dragons",
       "file": "missing/G/248922-game-of-puzzles-dragons.json"
+    },
+    {
+      "igdb_id": 163415,
+      "game_name": "Game of Puzzles: Slavic Mythology",
+      "file": "missing/G/163415-game-of-puzzles-slavic-mythology.json"
     },
     {
       "igdb_id": 174364,
@@ -27006,6 +27066,11 @@
       "igdb_id": 174901,
       "game_name": "Gunship Battle",
       "file": "missing/G/174901-gunship-battle.json"
+    },
+    {
+      "igdb_id": 163418,
+      "game_name": "Gunship Recon: Character Puzzles",
+      "file": "missing/G/163418-gunship-recon-character-puzzles.json"
     },
     {
       "igdb_id": 229376,
@@ -29413,6 +29478,11 @@
       "file": "missing/H/312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json"
     },
     {
+      "igdb_id": 163417,
+      "game_name": "Hospital 9: Puzzles",
+      "file": "missing/H/163417-hospital-9-puzzles.json"
+    },
+    {
       "igdb_id": 170556,
       "game_name": "Hot and Lovely 4",
       "file": "missing/H/170556-hot-and-lovely-4.json"
@@ -30918,6 +30988,16 @@
       "file": "missing/I/235456-infestus.json"
     },
     {
+      "igdb_id": 163426,
+      "game_name": "InfiniPicross 2.0: 100 Large Puzzles - Animals",
+      "file": "missing/I/163426-infinipicross-2-0-100-large-puzzles-animals.json"
+    },
+    {
+      "igdb_id": 163425,
+      "game_name": "InfiniPicross 2.0: 100 Medium Puzzles",
+      "file": "missing/I/163425-infinipicross-2-0-100-medium-puzzles.json"
+    },
+    {
       "igdb_id": 251807,
       "game_name": "InfiniPicross 3",
       "file": "missing/I/251807-infinipicross-3.json"
@@ -31446,6 +31526,11 @@
       "igdb_id": 223674,
       "game_name": "Iris",
       "file": "missing/I/223674-iris.json"
+    },
+    {
+      "igdb_id": 163461,
+      "game_name": "Irmão Grande & Brasileiro 2",
+      "file": "missing/I/163461-irmao-grande-and-brasileiro-2.json"
     },
     {
       "igdb_id": 276464,
@@ -37736,6 +37821,11 @@
       "igdb_id": 183606,
       "game_name": "Mason and Strings",
       "file": "missing/M/183606-mason-and-strings.json"
+    },
+    {
+      "igdb_id": 163423,
+      "game_name": "Massive Air Combat: Puzzles",
+      "file": "missing/M/163423-massive-air-combat-puzzles.json"
     },
     {
       "igdb_id": 177553,
@@ -45628,6 +45718,61 @@
       "file": "missing/P/305541-painting-vr-cozy-cabin.json"
     },
     {
+      "igdb_id": 163440,
+      "game_name": "Pair Matching Puzzle Connect",
+      "file": "missing/P/163440-pair-matching-puzzle-connect.json"
+    },
+    {
+      "igdb_id": 163450,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 1",
+      "file": "missing/P/163450-pair-matching-puzzle-connect-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 163443,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 11",
+      "file": "missing/P/163443-pair-matching-puzzle-connect-expansion-pack-11.json"
+    },
+    {
+      "igdb_id": 163446,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 12",
+      "file": "missing/P/163446-pair-matching-puzzle-connect-expansion-pack-12.json"
+    },
+    {
+      "igdb_id": 163442,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 2",
+      "file": "missing/P/163442-pair-matching-puzzle-connect-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 163451,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 3",
+      "file": "missing/P/163451-pair-matching-puzzle-connect-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 163444,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 4",
+      "file": "missing/P/163444-pair-matching-puzzle-connect-expansion-pack-4.json"
+    },
+    {
+      "igdb_id": 163447,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 5",
+      "file": "missing/P/163447-pair-matching-puzzle-connect-expansion-pack-5.json"
+    },
+    {
+      "igdb_id": 163448,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 6",
+      "file": "missing/P/163448-pair-matching-puzzle-connect-expansion-pack-6.json"
+    },
+    {
+      "igdb_id": 163449,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 7",
+      "file": "missing/P/163449-pair-matching-puzzle-connect-expansion-pack-7.json"
+    },
+    {
+      "igdb_id": 163441,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 8",
+      "file": "missing/P/163441-pair-matching-puzzle-connect-expansion-pack-8.json"
+    },
+    {
       "igdb_id": 212448,
       "game_name": "Pako Highway",
       "file": "missing/P/212448-pako-highway.json"
@@ -47388,6 +47533,11 @@
       "file": "missing/P/213643-pixel-pro-tennis.json"
     },
     {
+      "igdb_id": 163411,
+      "game_name": "Pixel Puzzles 4k: Japan",
+      "file": "missing/P/163411-pixel-puzzles-4k-japan.json"
+    },
+    {
       "igdb_id": 247775,
       "game_name": "Pixel Puzzles Traditional Jigsaws Pack: Korea",
       "file": "missing/P/247775-pixel-puzzles-traditional-jigsaws-pack-korea.json"
@@ -47396,6 +47546,11 @@
       "igdb_id": 260419,
       "game_name": "Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9",
       "file": "missing/P/260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json"
+    },
+    {
+      "igdb_id": 163416,
+      "game_name": "Pixel Puzzles Ultimate: Puzzle Pack 2000 AD",
+      "file": "missing/P/163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json"
     },
     {
       "igdb_id": 263779,
@@ -49738,14 +49893,64 @@
       "file": "missing/P/203525-puzzle-world-cute-monsters.json"
     },
     {
+      "igdb_id": 163462,
+      "game_name": "Puzzle: Birds - Puzzle Pack: 10 Birds",
+      "file": "missing/P/163462-puzzle-birds-puzzle-pack-10-birds.json"
+    },
+    {
+      "igdb_id": 163463,
+      "game_name": "Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs",
+      "file": "missing/P/163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json"
+    },
+    {
       "igdb_id": 293425,
       "game_name": "Puzzle: Lines and Knots - Free Levels Pack",
       "file": "missing/P/293425-puzzle-lines-and-knots-free-levels-pack.json"
     },
     {
+      "igdb_id": 163436,
+      "game_name": "Puzzle: Lines and Knots - Levels Pack 1",
+      "file": "missing/P/163436-puzzle-lines-and-knots-levels-pack-1.json"
+    },
+    {
+      "igdb_id": 163437,
+      "game_name": "Puzzle: Lines and Knots - Levels Pack 2",
+      "file": "missing/P/163437-puzzle-lines-and-knots-levels-pack-2.json"
+    },
+    {
+      "igdb_id": 163438,
+      "game_name": "Puzzle: Lines and Knots - Levels Pack 3",
+      "file": "missing/P/163438-puzzle-lines-and-knots-levels-pack-3.json"
+    },
+    {
       "igdb_id": 293426,
       "game_name": "Puzzle: Lines and Knots 2 - Free Levels Pack",
       "file": "missing/P/293426-puzzle-lines-and-knots-2-free-levels-pack.json"
+    },
+    {
+      "igdb_id": 163433,
+      "game_name": "Puzzle: Ultimate - Puzzle Pack: Castles",
+      "file": "missing/P/163433-puzzle-ultimate-puzzle-pack-castles.json"
+    },
+    {
+      "igdb_id": 163432,
+      "game_name": "Puzzle: Ultimate - Puzzle Pack: Dogs",
+      "file": "missing/P/163432-puzzle-ultimate-puzzle-pack-dogs.json"
+    },
+    {
+      "igdb_id": 163435,
+      "game_name": "Puzzle: Ultimate - Puzzle Pack: Flowers",
+      "file": "missing/P/163435-puzzle-ultimate-puzzle-pack-flowers.json"
+    },
+    {
+      "igdb_id": 163434,
+      "game_name": "Puzzle: Ultimate - Puzzle Pack: Space",
+      "file": "missing/P/163434-puzzle-ultimate-puzzle-pack-space.json"
+    },
+    {
+      "igdb_id": 163431,
+      "game_name": "Puzzle: Ultimate - Puzzle Pack: Valley",
+      "file": "missing/P/163431-puzzle-ultimate-puzzle-pack-valley.json"
     },
     {
       "igdb_id": 180813,
@@ -51566,6 +51771,11 @@
       "igdb_id": 177565,
       "game_name": "Resurgent",
       "file": "missing/R/177565-resurgent.json"
+    },
+    {
+      "igdb_id": 163452,
+      "game_name": "Retired Men's Nude Beach Volleyball League",
+      "file": "missing/R/163452-retired-mens-nude-beach-volleyball-league.json"
     },
     {
       "igdb_id": 204071,
@@ -54853,6 +55063,11 @@
       "file": "missing/S/246654-sequence-palladium.json"
     },
     {
+      "igdb_id": 163419,
+      "game_name": "Seraphic Destroyer: Puzzles",
+      "file": "missing/S/163419-seraphic-destroyer-puzzles.json"
+    },
+    {
       "igdb_id": 190218,
       "game_name": "Serendipity Hotel",
       "file": "missing/S/190218-serendipity-hotel.json"
@@ -56073,6 +56288,11 @@
       "file": "missing/S/253586-simply-cubic.json"
     },
     {
+      "igdb_id": 163424,
+      "game_name": "Simply Puzzles: Codewords",
+      "file": "missing/S/163424-simply-puzzles-codewords.json"
+    },
+    {
       "igdb_id": 226440,
       "game_name": "Simulassword",
       "file": "missing/S/226440-simulassword.json"
@@ -56431,6 +56651,11 @@
       "igdb_id": 329399,
       "game_name": "Skye Revival",
       "file": "missing/S/329399-skye-revival.json"
+    },
+    {
+      "igdb_id": 163459,
+      "game_name": "Skye: The Misty Isle",
+      "file": "missing/S/163459-skye-the-misty-isle.json"
     },
     {
       "igdb_id": 274218,
@@ -59443,6 +59668,11 @@
       "file": "missing/S/179204-starlight-explorers.json"
     },
     {
+      "igdb_id": 163421,
+      "game_name": "Starlight X-2: Galactic Puzzles",
+      "file": "missing/S/163421-starlight-x-2-galactic-puzzles.json"
+    },
+    {
       "igdb_id": 255961,
       "game_name": "StarOS",
       "file": "missing/S/255961-staros.json"
@@ -60503,6 +60733,11 @@
       "file": "missing/S/195234-summer-with-you.json"
     },
     {
+      "igdb_id": 163453,
+      "game_name": "Summit",
+      "file": "missing/S/163453-summit.json"
+    },
+    {
       "igdb_id": 263754,
       "game_name": "Summon",
       "file": "missing/S/263754-summon.json"
@@ -60756,6 +60991,11 @@
       "igdb_id": 248281,
       "game_name": "Super Hero Boy: A Platform Adventure",
       "file": "missing/S/248281-super-hero-boy-a-platform-adventure.json"
+    },
+    {
+      "igdb_id": 163422,
+      "game_name": "Super Hiking Simulator 2020: Puzzles",
+      "file": "missing/S/163422-super-hiking-simulator-2020-puzzles.json"
     },
     {
       "igdb_id": 307969,
@@ -65606,6 +65846,11 @@
       "igdb_id": 273662,
       "game_name": "The Mystery of the Village's Sacred Tree",
       "file": "missing/T/273662-the-mystery-of-the-villages-sacred-tree.json"
+    },
+    {
+      "igdb_id": 163455,
+      "game_name": "The Mystifying Trial",
+      "file": "missing/T/163455-the-mystifying-trial.json"
     },
     {
       "igdb_id": 180256,
@@ -73736,6 +73981,11 @@
       "igdb_id": 218730,
       "game_name": "Worms Forts 3D",
       "file": "missing/W/218730-worms-forts-3d.json"
+    },
+    {
+      "igdb_id": 163430,
+      "game_name": "Worms Reloaded: Puzzle Pack",
+      "file": "missing/W/163430-worms-reloaded-puzzle-pack.json"
     },
     {
       "igdb_id": 275344,
