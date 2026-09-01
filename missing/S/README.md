@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
+| Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
+| Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
@@ -789,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
+| Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
@@ -977,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
+| Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
