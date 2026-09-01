@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
+| Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
