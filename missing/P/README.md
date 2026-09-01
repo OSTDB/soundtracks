@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
+| Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
+| Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
@@ -328,9 +330,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
+| Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
+| Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
@@ -386,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
+| Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
@@ -689,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Blocks | 191244 | [191244-prototype-blocks.json](./191244-prototype-blocks.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
+| Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
