@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneuver Warfare: Mission Pack West 44-45 | 293421 | [293421-maneuver-warfare-mission-pack-west-44-45.json](./293421-maneuver-warfare-mission-pack-west-44-45.json) |
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
+| Mania Fish | 188069 | [188069-mania-fish.json](./188069-mania-fish.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
+| Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
@@ -605,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
+| Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
