@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
+| Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
+| Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
+| Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
@@ -719,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
+| Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
