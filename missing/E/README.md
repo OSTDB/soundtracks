@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
+| Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape from 1927 | 240498 | [240498-escape-from-1927.json](./240498-escape-from-1927.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
@@ -326,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
+| EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
