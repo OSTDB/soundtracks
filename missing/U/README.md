@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsteady Bounce | 180840 | [180840-unsteady-bounce.json](./180840-unsteady-bounce.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
+| Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
