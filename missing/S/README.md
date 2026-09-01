@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
+| Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
+| SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
@@ -758,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
+| Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
@@ -831,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
+| Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
@@ -865,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
+| Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -1081,6 +1086,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
+| Super Collapse! Puzzle Gallery 2 | 201281 | [201281-super-collapse-puzzle-gallery-2.json](./201281-super-collapse-puzzle-gallery-2.json) |
+| Super Collapse! Puzzle Gallery 3 | 201282 | [201282-super-collapse-puzzle-gallery-3.json](./201282-super-collapse-puzzle-gallery-3.json) |
 | Super Collapse! Puzzle Gallery 4 | 201283 | [201283-super-collapse-puzzle-gallery-4.json](./201283-super-collapse-puzzle-gallery-4.json) |
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
@@ -1263,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
+| Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
