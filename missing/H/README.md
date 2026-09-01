@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
+| Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
 | Hazelnut Hex | 218725 | [218725-hazelnut-hex.json](./218725-hazelnut-hex.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
@@ -304,6 +305,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
+| Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
+| Hidden Investigation: Who Did It? | 177042 | [177042-hidden-investigation-who-did-it.json](./177042-hidden-investigation-who-did-it.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
@@ -384,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
+| Holly: A Christmas Tale | 177046 | [177046-holly-a-christmas-tale.json](./177046-holly-a-christmas-tale.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
