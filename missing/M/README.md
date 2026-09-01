@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
+| Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
