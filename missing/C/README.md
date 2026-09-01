@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
+| Card Escape: Plane Crash | 188113 | [188113-card-escape-plane-crash.json](./188113-card-escape-plane-crash.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
+| Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
 | Cats Games + Say Cheese! + Soko Games | 335105 | [335105-cats-games-say-cheese-soko-games.json](./335105-cats-games-say-cheese-soko-games.json) |
@@ -395,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
