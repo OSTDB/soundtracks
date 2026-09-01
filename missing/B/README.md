@@ -668,6 +668,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
+| BS Zelda no Densetsu Map 2: Dai-2-wa | 178056 | [178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json](./178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json) |
+| BS Zelda no Densetsu Map 2: Dai-3-wa | 178058 | [178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json](./178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json) |
+| BS Zelda no Densetsu Map 2: Dai-4-wa | 178059 | [178059-bs-zelda-no-densetsu-map-2-dai-4-wa.json](./178059-bs-zelda-no-densetsu-map-2-dai-4-wa.json) |
+| BS Zelda no Densetsu: Dai-1-wa | 178049 | [178049-bs-zelda-no-densetsu-dai-1-wa.json](./178049-bs-zelda-no-densetsu-dai-1-wa.json) |
+| BS Zelda no Densetsu: Dai-2-wa | 178050 | [178050-bs-zelda-no-densetsu-dai-2-wa.json](./178050-bs-zelda-no-densetsu-dai-2-wa.json) |
+| BS Zelda no Densetsu: Dai-3-wa | 178051 | [178051-bs-zelda-no-densetsu-dai-3-wa.json](./178051-bs-zelda-no-densetsu-dai-3-wa.json) |
+| BS Zelda no Densetsu: Dai-4-wa | 178053 | [178053-bs-zelda-no-densetsu-dai-4-wa.json](./178053-bs-zelda-no-densetsu-dai-4-wa.json) |
+| BS Zelda no Densetsu: Inishie no Sekiban - Dai-1-wa | 178061 | [178061-bs-zelda-no-densetsu-inishie-no-sekiban-dai-1-wa.json](./178061-bs-zelda-no-densetsu-inishie-no-sekiban-dai-1-wa.json) |
+| BS Zelda no Densetsu: Inishie no Sekiban - Dai-2-wa | 178062 | [178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json](./178062-bs-zelda-no-densetsu-inishie-no-sekiban-dai-2-wa.json) |
+| BS Zelda no Densetsu: Inishie no Sekiban - Dai-3-wa | 178063 | [178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json](./178063-bs-zelda-no-densetsu-inishie-no-sekiban-dai-3-wa.json) |
+| BS Zelda no Densetsu: Inishie no Sekiban - Dai-4-wa | 178064 | [178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json](./178064-bs-zelda-no-densetsu-inishie-no-sekiban-dai-4-wa.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
