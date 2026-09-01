@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
+| Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
+| Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
@@ -394,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
+| Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
@@ -425,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
+| Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
