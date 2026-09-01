@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
+| FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
