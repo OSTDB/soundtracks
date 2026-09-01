@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy VI: A Soldier's Contingency | 312346 | [312346-final-fantasy-vi-a-soldiers-contingency.json](./312346-final-fantasy-vi-a-soldiers-contingency.json) |
+| Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
@@ -296,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
+| First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
