@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
+| Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
@@ -463,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Dick Invasion | 213595 | [213595-the-great-dick-invasion.json](./213595-the-great-dick-invasion.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
+| The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
@@ -587,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
+| The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
@@ -795,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
+| The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
@@ -866,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | There Can Be Only One | 181893 | [181893-there-can-be-only-one.json](./181893-there-can-be-only-one.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
+| There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
@@ -1329,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
+| Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
 | TS Marketplace: Marias Pass Scenario Pack 01 | 196896 | [196896-ts-marketplace-marias-pass-scenario-pack-01.json](./196896-ts-marketplace-marias-pass-scenario-pack-01.json) |
