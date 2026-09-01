@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
+| OMSI 2: Hamburg Linie 20 | 195764 | [195764-omsi-2-hamburg-linie-20.json](./195764-omsi-2-hamburg-linie-20.json) |
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
 | OMSI 2: Iveco Bus-Familie Urbanway | 237071 | [237071-omsi-2-iveco-bus-familie-urbanway.json](./237071-omsi-2-iveco-bus-familie-urbanway.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
@@ -203,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
+| Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
