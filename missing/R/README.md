@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
+| Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
+| Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocksmith 2014: R.E.M. Song Pack | 226937 | [226937-rocksmith-2014-r-e-m-song-pack.json](./226937-rocksmith-2014-r-e-m-song-pack.json) |
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
@@ -591,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
+| RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
