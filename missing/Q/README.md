@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
+| Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
