@@ -150,12 +150,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
+| Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart of Fire | 268729 | [268729-heart-of-fire.json](./268729-heart-of-fire.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
+| Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
@@ -249,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
+| Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
@@ -388,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
+| Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
