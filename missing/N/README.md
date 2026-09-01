@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
+| Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
