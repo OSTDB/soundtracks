@@ -644,6 +644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
+| Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
+| Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
