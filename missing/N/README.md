@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
+| Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nicodemus: Demon of Evanishment | 246637 | [246637-nicodemus-demon-of-evanishment.json](./246637-nicodemus-demon-of-evanishment.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
+| Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
