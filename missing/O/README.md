@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh, Hel No! | 331664 | [331664-oh-hel-no.json](./331664-oh-hel-no.json) |
+| Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
@@ -125,11 +126,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
+| One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
+| One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
