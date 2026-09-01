@@ -12,6 +12,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
+| Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
+| Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
+| Tabletopia: Champions of Midgard | 162896 | [162896-tabletopia-champions-of-midgard.json](./162896-tabletopia-champions-of-midgard.json) |
+| Tabletopia: Champions of Midgard - The Dark Mountains | 162893 | [162893-tabletopia-champions-of-midgard-the-dark-mountains.json](./162893-tabletopia-champions-of-midgard-the-dark-mountains.json) |
+| Tabletopia: Champions of Midgard - Valhalla | 162890 | [162890-tabletopia-champions-of-midgard-valhalla.json](./162890-tabletopia-champions-of-midgard-valhalla.json) |
+| Tabletopia: Constellations | 162903 | [162903-tabletopia-constellations.json](./162903-tabletopia-constellations.json) |
+| Tabletopia: Eight-Minute Empire - Legends | 162888 | [162888-tabletopia-eight-minute-empire-legends.json](./162888-tabletopia-eight-minute-empire-legends.json) |
+| Tabletopia: Feudum + Expansions | 162895 | [162895-tabletopia-feudum-expansions.json](./162895-tabletopia-feudum-expansions.json) |
+| Tabletopia: Guards of Atlantis II | 162899 | [162899-tabletopia-guards-of-atlantis-ii.json](./162899-tabletopia-guards-of-atlantis-ii.json) |
+| Tabletopia: Maximum Apocalypse | 162881 | [162881-tabletopia-maximum-apocalypse.json](./162881-tabletopia-maximum-apocalypse.json) |
+| Tabletopia: NewSpeak | 162884 | [162884-tabletopia-newspeak.json](./162884-tabletopia-newspeak.json) |
+| Tabletopia: Orléans | 162904 | [162904-tabletopia-orleans.json](./162904-tabletopia-orleans.json) |
+| Tabletopia: Raiders of the North Sea | 162885 | [162885-tabletopia-raiders-of-the-north-sea.json](./162885-tabletopia-raiders-of-the-north-sea.json) |
+| Tabletopia: Scythe - The Wind Gambit | 162880 | [162880-tabletopia-scythe-the-wind-gambit.json](./162880-tabletopia-scythe-the-wind-gambit.json) |
+| Tabletopia: Scythe - The Wind Gambit + Invaders from Afar | 162901 | [162901-tabletopia-scythe-the-wind-gambit-invaders-from-afar.json](./162901-tabletopia-scythe-the-wind-gambit-invaders-from-afar.json) |
+| Tabletopia: Sellswords + Olympus | 162889 | [162889-tabletopia-sellswords-olympus.json](./162889-tabletopia-sellswords-olympus.json) |
+| Tabletopia: Sub Terra + Expansions | 162897 | [162897-tabletopia-sub-terra-expansions.json](./162897-tabletopia-sub-terra-expansions.json) |
+| Tabletopia: Sub Terra II - Inferno's Edge | 162894 | [162894-tabletopia-sub-terra-ii-infernos-edge.json](./162894-tabletopia-sub-terra-ii-infernos-edge.json) |
+| Tabletopia: Tapestry | 162886 | [162886-tabletopia-tapestry.json](./162886-tabletopia-tapestry.json) |
+| Tabletopia: The Networks | 162902 | [162902-tabletopia-the-networks.json](./162902-tabletopia-the-networks.json) |
+| Tabletopia: Viticulture - Essential Edition | 162900 | [162900-tabletopia-viticulture-essential-edition.json](./162900-tabletopia-viticulture-essential-edition.json) |
+| Tabletopia: Wingspan | 162892 | [162892-tabletopia-wingspan.json](./162892-tabletopia-wingspan.json) |
+| Tabletopia: Wingspan - European Expansion | 162887 | [162887-tabletopia-wingspan-european-expansion.json](./162887-tabletopia-wingspan-european-expansion.json) |
+| Tabletopia: Wizard Kittens + Magical Monsters Expansion | 162883 | [162883-tabletopia-wizard-kittens-magical-monsters-expansion.json](./162883-tabletopia-wizard-kittens-magical-monsters-expansion.json) |
+| Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
 | Taboo Trial: Deluxe Edition | 315850 | [315850-taboo-trial-deluxe-edition.json](./315850-taboo-trial-deluxe-edition.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
