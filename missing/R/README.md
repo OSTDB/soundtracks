@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
+| Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
+| Redout: Space Assault - Deluxe Edition | 154547 | [154547-redout-space-assault-deluxe-edition.json](./154547-redout-space-assault-deluxe-edition.json) |
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
@@ -413,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
+| Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
@@ -535,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
+| Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
