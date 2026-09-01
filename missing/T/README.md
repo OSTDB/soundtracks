@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
+| The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
 | The Dividing Line | 308546 | [308546-the-dividing-line.json](./308546-the-dividing-line.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
@@ -439,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Hellbrand | 190728 | [190728-the-hellbrand.json](./190728-the-hellbrand.json) |
+| The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
@@ -564,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
+| The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
@@ -734,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
+| The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
@@ -1116,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
+| Treason | 190229 | [190229-treason.json](./190229-treason.json) |
 | Treasure Hunter | 242235 | [242235-treasure-hunter.json](./242235-treasure-hunter.json) |
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
