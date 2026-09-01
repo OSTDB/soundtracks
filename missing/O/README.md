@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Shusei | 238191 | [238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json](./238191-our-two-bedroom-story-heres-to-the-birthday-boy-shusei.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
+| Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
