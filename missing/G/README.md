@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
+| Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
+| Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
@@ -328,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
+| Golf Monster | 156670 | [156670-golf-monster.json](./156670-golf-monster.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
