@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
+| Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
+| Demon Keeper 2+ | 167305 | [167305-demon-keeper-2.json](./167305-demon-keeper-2.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
@@ -443,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
+| Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
