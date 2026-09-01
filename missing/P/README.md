@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
+| Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
+| People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
@@ -411,12 +413,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
+| Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
+| Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
