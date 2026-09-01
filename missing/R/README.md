@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
+| Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
@@ -104,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
+| Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
@@ -249,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
+| Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
@@ -527,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
+| Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
