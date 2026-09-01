@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:33:03.649Z",
-  "total_missing": 15162,
+  "generated_at": "2026-09-01T18:48:18.591Z",
+  "total_missing": 15212,
   "games": [
     {
       "igdb_id": 306086,
@@ -9503,6 +9503,11 @@
       "file": "missing/B/296653-bully-ball-soccer.json"
     },
     {
+      "igdb_id": 161894,
+      "game_name": "BullyBall",
+      "file": "missing/B/161894-bullyball.json"
+    },
+    {
       "igdb_id": 265396,
       "game_name": "Bump and Run Racing",
       "file": "missing/B/265396-bump-and-run-racing.json"
@@ -12451,6 +12456,11 @@
       "igdb_id": 173310,
       "game_name": "Code of the Savage",
       "file": "missing/C/173310-code-of-the-savage.json"
+    },
+    {
+      "igdb_id": 161896,
+      "game_name": "Code Zero",
+      "file": "missing/C/161896-code-zero.json"
     },
     {
       "igdb_id": 251853,
@@ -25798,6 +25808,11 @@
       "file": "missing/G/251834-gobbo-goes-adventures.json"
     },
     {
+      "igdb_id": 161898,
+      "game_name": "GoBlaster",
+      "file": "missing/G/161898-goblaster.json"
+    },
+    {
       "igdb_id": 172163,
       "game_name": "Goblin Takes No Argument[s]",
       "file": "missing/G/172163-goblin-takes-no-argument-s.json"
@@ -28541,6 +28556,41 @@
       "igdb_id": 224214,
       "game_name": "Hero's War",
       "file": "missing/H/224214-heros-war.json"
+    },
+    {
+      "igdb_id": 161911,
+      "game_name": "Heroes & Generals: GE Giga Pack",
+      "file": "missing/H/161911-heroes-and-generals-ge-giga-pack.json"
+    },
+    {
+      "igdb_id": 161910,
+      "game_name": "Heroes & Generals: GE Soldier Pack - Light Tanker",
+      "file": "missing/H/161910-heroes-and-generals-ge-soldier-pack-light-tanker.json"
+    },
+    {
+      "igdb_id": 161909,
+      "game_name": "Heroes & Generals: SU Soldier Pack - Light Tanker",
+      "file": "missing/H/161909-heroes-and-generals-su-soldier-pack-light-tanker.json"
+    },
+    {
+      "igdb_id": 161912,
+      "game_name": "Heroes & Generals: US Giga Pack",
+      "file": "missing/H/161912-heroes-and-generals-us-giga-pack.json"
+    },
+    {
+      "igdb_id": 161907,
+      "game_name": "Heroes & Generals: US Soldier Pack - Heavy Tanker",
+      "file": "missing/H/161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json"
+    },
+    {
+      "igdb_id": 161908,
+      "game_name": "Heroes & Generals: US Soldier Pack - Light Tanker",
+      "file": "missing/H/161908-heroes-and-generals-us-soldier-pack-light-tanker.json"
+    },
+    {
+      "igdb_id": 161906,
+      "game_name": "Heroes & Generals: US Soldier Pack - Medium Tanker",
+      "file": "missing/H/161906-heroes-and-generals-us-soldier-pack-medium-tanker.json"
     },
     {
       "igdb_id": 295559,
@@ -35278,6 +35328,11 @@
       "file": "missing/L/256557-lethal-operation-episode-1-healer-rugitta.json"
     },
     {
+      "igdb_id": 161904,
+      "game_name": "Lethal Pongbat",
+      "file": "missing/L/161904-lethal-pongbat.json"
+    },
+    {
       "igdb_id": 309094,
       "game_name": "Lethal RPG Destiny: Rebirth",
       "file": "missing/L/309094-lethal-rpg-destiny-rebirth.json"
@@ -39086,6 +39141,151 @@
       "igdb_id": 243975,
       "game_name": "Microsoft Combat Flight Simulator: WWII Europe Series",
       "file": "missing/M/243975-microsoft-combat-flight-simulator-wwii-europe-series.json"
+    },
+    {
+      "igdb_id": 161889,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux",
+      "file": "missing/M/161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json"
+    },
+    {
+      "igdb_id": 161868,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights",
+      "file": "missing/M/161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json"
+    },
+    {
+      "igdb_id": 161877,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Beechcraft D17 Staggerwing",
+      "file": "missing/M/161877-microsoft-flight-simulator-x-steam-edition-beechcraft-d17-staggerwing.json"
+    },
+    {
+      "igdb_id": 161881,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Ben Gurion Airport",
+      "file": "missing/M/161881-microsoft-flight-simulator-x-steam-edition-ben-gurion-airport.json"
+    },
+    {
+      "igdb_id": 161874,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Caernarfon Airport (EGCK)",
+      "file": "missing/M/161874-microsoft-flight-simulator-x-steam-edition-caernarfon-airport-egck.json"
+    },
+    {
+      "igdb_id": 161864,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cargo Crew",
+      "file": "missing/M/161864-microsoft-flight-simulator-x-steam-edition-cargo-crew.json"
+    },
+    {
+      "igdb_id": 161872,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Catalina Airport (KAVX)",
+      "file": "missing/M/161872-microsoft-flight-simulator-x-steam-edition-catalina-airport-kavx.json"
+    },
+    {
+      "igdb_id": 161869,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Early Years of Flight",
+      "file": "missing/M/161869-microsoft-flight-simulator-x-steam-edition-early-years-of-flight.json"
+    },
+    {
+      "igdb_id": 161865,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Flight Tales II: Adrenaline",
+      "file": "missing/M/161865-microsoft-flight-simulator-x-steam-edition-flight-tales-ii-adrenaline.json"
+    },
+    {
+      "igdb_id": 161870,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - FS Academy: Pushing the Envelope",
+      "file": "missing/M/161870-microsoft-flight-simulator-x-steam-edition-fs-academy-pushing-the-envelope.json"
+    },
+    {
+      "igdb_id": 161887,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - FTX Trees HD",
+      "file": "missing/M/161887-microsoft-flight-simulator-x-steam-edition-ftx-trees-hd.json"
+    },
+    {
+      "igdb_id": 161879,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Globe Swift GC1-A",
+      "file": "missing/M/161879-microsoft-flight-simulator-x-steam-edition-globe-swift-gc1-a.json"
+    },
+    {
+      "igdb_id": 161883,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Greenland Nuuk",
+      "file": "missing/M/161883-microsoft-flight-simulator-x-steam-edition-greenland-nuuk.json"
+    },
+    {
+      "igdb_id": 161875,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman E-2C Hawkeye",
+      "file": "missing/M/161875-microsoft-flight-simulator-x-steam-edition-grumman-e-2c-hawkeye.json"
+    },
+    {
+      "igdb_id": 161873,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman HU-16B Albatross",
+      "file": "missing/M/161873-microsoft-flight-simulator-x-steam-edition-grumman-hu-16b-albatross.json"
+    },
+    {
+      "igdb_id": 161885,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - HD Airport Graphics",
+      "file": "missing/M/161885-microsoft-flight-simulator-x-steam-edition-hd-airport-graphics.json"
+    },
+    {
+      "igdb_id": 161880,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Heraklion Airport (LGIR)",
+      "file": "missing/M/161880-microsoft-flight-simulator-x-steam-edition-heraklion-airport-lgir.json"
+    },
+    {
+      "igdb_id": 161878,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Junker Ju87 Stuka",
+      "file": "missing/M/161878-microsoft-flight-simulator-x-steam-edition-junker-ju87-stuka.json"
+    },
+    {
+      "igdb_id": 161882,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Kastellorizo Airport (LGKJ)",
+      "file": "missing/M/161882-microsoft-flight-simulator-x-steam-edition-kastellorizo-airport-lgkj.json"
+    },
+    {
+      "igdb_id": 161861,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Kilimanjaro Airport (HTKJ)",
+      "file": "missing/M/161861-microsoft-flight-simulator-x-steam-edition-kilimanjaro-airport-htkj.json"
+    },
+    {
+      "igdb_id": 161888,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Natural Tree Environment X",
+      "file": "missing/M/161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json"
+    },
+    {
+      "igdb_id": 161860,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Oban Airport (EGEO)",
+      "file": "missing/M/161860-microsoft-flight-simulator-x-steam-edition-oban-airport-egeo.json"
+    },
+    {
+      "igdb_id": 161871,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper Aztec",
+      "file": "missing/M/161871-microsoft-flight-simulator-x-steam-edition-piper-aztec.json"
+    },
+    {
+      "igdb_id": 161867,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - R66 Turbine",
+      "file": "missing/M/161867-microsoft-flight-simulator-x-steam-edition-r66-turbine.json"
+    },
+    {
+      "igdb_id": 161886,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - REX 4 Texture Direct Enhanced Edition",
+      "file": "missing/M/161886-microsoft-flight-simulator-x-steam-edition-rex-4-texture-direct-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 161862,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Velocity XL RG",
+      "file": "missing/M/161862-microsoft-flight-simulator-x-steam-edition-velocity-xl-rg.json"
+    },
+    {
+      "igdb_id": 161863,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - VFR Czech Republic",
+      "file": "missing/M/161863-microsoft-flight-simulator-x-steam-edition-vfr-czech-republic.json"
+    },
+    {
+      "igdb_id": 161866,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - VFR Poland Region NW",
+      "file": "missing/M/161866-microsoft-flight-simulator-x-steam-edition-vfr-poland-region-nw.json"
+    },
+    {
+      "igdb_id": 161876,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - WWI Fighters",
+      "file": "missing/M/161876-microsoft-flight-simulator-x-steam-edition-wwi-fighters.json"
     },
     {
       "igdb_id": 293926,
@@ -43111,6 +43311,11 @@
       "igdb_id": 293406,
       "game_name": "Night of the Dead: Wood Carving Doll Pack",
       "file": "missing/N/293406-night-of-the-dead-wood-carving-doll-pack.json"
+    },
+    {
+      "igdb_id": 161905,
+      "game_name": "Night of the loving dead",
+      "file": "missing/N/161905-night-of-the-loving-dead.json"
     },
     {
       "igdb_id": 216986,
@@ -59808,6 +60013,11 @@
       "file": "missing/S/269304-starfield-digipick-locking-minigame-simulator.json"
     },
     {
+      "igdb_id": 161892,
+      "game_name": "Stark Penitentiary",
+      "file": "missing/S/161892-stark-penitentiary.json"
+    },
+    {
       "igdb_id": 258721,
       "game_name": "Starlab",
       "file": "missing/S/258721-starlab.json"
@@ -60391,6 +60601,11 @@
       "igdb_id": 339660,
       "game_name": "Strange New Tides",
       "file": "missing/S/339660-strange-new-tides.json"
+    },
+    {
+      "igdb_id": 161895,
+      "game_name": "Strange Nightmares",
+      "file": "missing/S/161895-strange-nightmares.json"
     },
     {
       "igdb_id": 291245,
@@ -62711,6 +62926,11 @@
       "igdb_id": 220861,
       "game_name": "Tahoe Dragon: The Beginning",
       "file": "missing/T/220861-tahoe-dragon-the-beginning.json"
+    },
+    {
+      "igdb_id": 161897,
+      "game_name": "Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí",
+      "file": "missing/T/161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json"
     },
     {
       "igdb_id": 245034,
@@ -65983,6 +66203,11 @@
       "file": "missing/T/247194-the-many-pieces-of-mr-coo-fantabulous-edition.json"
     },
     {
+      "igdb_id": 161901,
+      "game_name": "The Marauder Chronicles: Curse over Valdria",
+      "file": "missing/T/161901-the-marauder-chronicles-curse-over-valdria.json"
+    },
+    {
       "igdb_id": 336387,
       "game_name": "The Marbians",
       "file": "missing/T/336387-the-marbians.json"
@@ -68116,6 +68341,11 @@
       "igdb_id": 210869,
       "game_name": "TimeMelters",
       "file": "missing/T/210869-timemelters.json"
+    },
+    {
+      "igdb_id": 161900,
+      "game_name": "Timerunner",
+      "file": "missing/T/161900-timerunner.json"
     },
     {
       "igdb_id": 248316,
@@ -71503,6 +71733,11 @@
       "file": "missing/U/248903-uprising-humanum.json"
     },
     {
+      "igdb_id": 161891,
+      "game_name": "Uprk.cz",
+      "file": "missing/U/161891-uprk-cz.json"
+    },
+    {
       "igdb_id": 258740,
       "game_name": "Upside the Backrooms",
       "file": "missing/U/258740-upside-the-backrooms.json"
@@ -73161,6 +73396,11 @@
       "igdb_id": 178100,
       "game_name": "Wastelander",
       "file": "missing/W/178100-wastelander.json"
+    },
+    {
+      "igdb_id": 161902,
+      "game_name": "Watashi no Kokoro! Kimi no Koto ga Suki desu.",
+      "file": "missing/W/161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json"
     },
     {
       "igdb_id": 310212,
@@ -75493,6 +75733,11 @@
       "file": "missing/Z/213626-zero-ops.json"
     },
     {
+      "igdb_id": 161899,
+      "game_name": "Zerone 2D",
+      "file": "missing/Z/161899-zerone-2d.json"
+    },
+    {
       "igdb_id": 262659,
       "game_name": "ZeroSpace",
       "file": "missing/Z/262659-zerospace.json"
@@ -75541,6 +75786,11 @@
       "igdb_id": 321765,
       "game_name": "Zhi Huan Wang: Shou Bu Qu",
       "file": "missing/Z/321765-zhi-huan-wang-shou-bu-qu.json"
+    },
+    {
+      "igdb_id": 161903,
+      "game_name": "Zhōnghuá Fùjiǎ Sānguó",
+      "file": "missing/Z/161903-zhonghua-fujia-sanguo.json"
     },
     {
       "igdb_id": 216476,
