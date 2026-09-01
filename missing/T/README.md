@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
+| The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
@@ -311,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
+| The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
@@ -324,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
@@ -509,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
+| The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
@@ -526,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
+| The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
@@ -691,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
@@ -962,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
+| Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
@@ -1030,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
 | Travel Cuisine: Collector's Edition | 250655 | [250655-travel-cuisine-collectors-edition.json](./250655-travel-cuisine-collectors-edition.json) |
+| Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
