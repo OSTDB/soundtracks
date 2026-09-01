@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
+| Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
@@ -700,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
+| Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
