@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
+| Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
+| Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
