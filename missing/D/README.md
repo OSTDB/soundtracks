@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
+| Danganronpa 2: Goodbye Despair - Anniversary Edition | 152400 | [152400-danganronpa-2-goodbye-despair-anniversary-edition.json](./152400-danganronpa-2-goodbye-despair-anniversary-edition.json) |
 | Danganronpa Absolute Vindication | 304350 | [304350-danganronpa-absolute-vindication.json](./304350-danganronpa-absolute-vindication.json) |
 | Danganronpa Blowback: The Stage of Repeated Despair and Hope | 304343 | [304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json](./304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json) |
 | Danganronpa Croxx: The Beginning of the Despair Plan | 304340 | [304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json](./304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Dreamland: Hymn of the Sea and Whales | 304351 | [304351-danganronpa-dreamland-hymn-of-the-sea-and-whales.json](./304351-danganronpa-dreamland-hymn-of-the-sea-and-whales.json) |
 | Danganronpa Hope Recreation | 304341 | [304341-danganronpa-hope-recreation.json](./304341-danganronpa-hope-recreation.json) |
 | Danganronpa Mauve | 304336 | [304336-danganronpa-mauve.json](./304336-danganronpa-mauve.json) |
+| Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
 | Danganronpa Weeping Rebellion | 304345 | [304345-danganronpa-weeping-rebellion.json](./304345-danganronpa-weeping-rebellion.json) |
 | Danganronpa: Abandoned Lights | 304348 | [304348-danganronpa-abandoned-lights.json](./304348-danganronpa-abandoned-lights.json) |
 | Danganronpa: Antebellum | 333929 | [333929-danganronpa-antebellum.json](./333929-danganronpa-antebellum.json) |
@@ -522,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
+| DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
