@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
+| Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
+| Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
@@ -215,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
+| Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
@@ -499,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
+| Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
@@ -728,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
@@ -790,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
+| Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
@@ -832,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
+| Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
 | Criminal Archives: City on Fire - Collector's Edition | 186330 | [186330-criminal-archives-city-on-fire-collectors-edition.json](./186330-criminal-archives-city-on-fire-collectors-edition.json) |
