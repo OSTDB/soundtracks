@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
+| Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
+| Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
