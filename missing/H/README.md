@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
 | Hentai Pussy 4 | 214188 | [214188-hentai-pussy-4.json](./214188-hentai-pussy-4.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
