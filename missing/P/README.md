@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
+| Platzkart Simulator | 158201 | [158201-platzkart-simulator.json](./158201-platzkart-simulator.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
+| Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
