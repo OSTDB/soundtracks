@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
+| Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
