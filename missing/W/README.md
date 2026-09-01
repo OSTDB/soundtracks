@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
+| Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
+| Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
