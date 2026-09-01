@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
+| Outcasts of Dungeon | 195191 | [195191-outcasts-of-dungeon.json](./195191-outcasts-of-dungeon.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
