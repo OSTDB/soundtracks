@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
+| Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
+| The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
@@ -890,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
+| Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
