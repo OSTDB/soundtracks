@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
+| La Ultima Comida | 153427 | [153427-la-ultima-comida.json](./153427-la-ultima-comida.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
@@ -279,6 +280,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
+| Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
+| Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
