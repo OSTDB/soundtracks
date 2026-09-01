@@ -77,6 +77,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
+| Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
+| Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
+| Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
@@ -383,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
