@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
+| Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
