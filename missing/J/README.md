@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
 | Jinrou Game | 296100 | [296100-jinrou-game.json](./296100-jinrou-game.json) |
+| Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | JNZ: Nightmare Girls | 340773 | [340773-jnz-nightmare-girls.json](./340773-jnz-nightmare-girls.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump: Assemble | 268747 | [268747-jump-assemble.json](./268747-jump-assemble.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
+| JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
