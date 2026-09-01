@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
+| Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
@@ -462,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
+| ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
@@ -744,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
+| Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
@@ -977,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-02 | 296661 | [296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json](./296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
+| Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
