@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
+| Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
+| Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Wish: Candy Chase | 264888 | [264888-crystal-wish-candy-chase.json](./264888-crystal-wish-candy-chase.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
