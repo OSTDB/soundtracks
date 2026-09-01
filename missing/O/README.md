@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
+| Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
