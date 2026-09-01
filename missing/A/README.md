@@ -342,6 +342,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
+| All Japan Super Bombliss Cup '95: Dai-1-kai | 179707 | [179707-all-japan-super-bombliss-cup-95-dai-1-kai.json](./179707-all-japan-super-bombliss-cup-95-dai-1-kai.json) |
+| All Japan Super Bombliss Cup '95: Dai-2-kai | 179708 | [179708-all-japan-super-bombliss-cup-95-dai-2-kai.json](./179708-all-japan-super-bombliss-cup-95-dai-2-kai.json) |
+| All Japan Super Bombliss Cup '95: Dai-3-kai | 179709 | [179709-all-japan-super-bombliss-cup-95-dai-3-kai.json](./179709-all-japan-super-bombliss-cup-95-dai-3-kai.json) |
+| All Japan Super Bombliss Cup '95: Dai-4-kai | 179710 | [179710-all-japan-super-bombliss-cup-95-dai-4-kai.json](./179710-all-japan-super-bombliss-cup-95-dai-4-kai.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
