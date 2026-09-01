@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
+| My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
