@@ -44,6 +44,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Thailand Cats | 315293 | [315293-100-thailand-cats.json](./315293-100-thailand-cats.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
+| 100% Orange Juice: Acceleration Pack | 164483 | [164483-100-orange-juice-acceleration-pack.json](./164483-100-orange-juice-acceleration-pack.json) |
+| 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
+| 100% Orange Juice: Alte & Kyoko | 164468 | [164468-100-orange-juice-alte-and-kyoko.json](./164468-100-orange-juice-alte-and-kyoko.json) |
+| 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
+| 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
+| 100% Orange Juice: Mei & Natsumi | 164475 | [164475-100-orange-juice-mei-and-natsumi.json](./164475-100-orange-juice-mei-and-natsumi.json) |
+| 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
+| 100% Orange Juice: Pudding Pack | 164466 | [164466-100-orange-juice-pudding-pack.json](./164466-100-orange-juice-pudding-pack.json) |
+| 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
+| 100% Orange Juice: Saki & Kyousuke | 164471 | [164471-100-orange-juice-saki-and-kyousuke.json](./164471-100-orange-juice-saki-and-kyousuke.json) |
+| 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
+| 100% Orange Juice: Sora & Sham (Cuties) | 164478 | [164478-100-orange-juice-sora-and-sham-cuties.json](./164478-100-orange-juice-sora-and-sham-cuties.json) |
+| 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
+| 100% Orange Juice: Toy Store Pack | 164479 | [164479-100-orange-juice-toy-store-pack.json](./164479-100-orange-juice-toy-store-pack.json) |
+| 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
+| 100% Orange Juice: Witch Pack | 164467 | [164467-100-orange-juice-witch-pack.json](./164467-100-orange-juice-witch-pack.json) |
+| 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
+| 100% Orange Juice: Yuuki & Islay | 164481 | [164481-100-orange-juice-yuuki-and-islay.json](./164481-100-orange-juice-yuuki-and-islay.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
