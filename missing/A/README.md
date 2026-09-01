@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
+| A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
@@ -220,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
+| After Crisis: Snowstorm | 158213 | [158213-after-crisis-snowstorm.json](./158213-after-crisis-snowstorm.json) |
 | After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
 | After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
@@ -312,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
+| Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
