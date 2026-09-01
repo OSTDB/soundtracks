@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garnet Cradle | 221412 | [221412-garnet-cradle.json](./221412-garnet-cradle.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
+| Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
+| Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
