@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
+| VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
