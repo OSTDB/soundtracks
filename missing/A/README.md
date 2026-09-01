@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
+| A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
