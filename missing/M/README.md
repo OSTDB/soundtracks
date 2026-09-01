@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
+| Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
 | Memory Match Saga: Expansion Pack 12 | 167330 | [167330-memory-match-saga-expansion-pack-12.json](./167330-memory-match-saga-expansion-pack-12.json) |
