@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
+| Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
+| Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -833,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
+| Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
@@ -1180,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
+| StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
