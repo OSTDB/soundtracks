@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
+| Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Card Fuse | 278167 | [278167-card-fuse.json](./278167-card-fuse.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
@@ -446,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
+| Coal Escape | 194025 | [194025-coal-escape.json](./194025-coal-escape.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
+| Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
