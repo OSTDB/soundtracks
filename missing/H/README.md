@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
+| Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellfire | 321796 | [321796-hellfire.json](./321796-hellfire.json) |
