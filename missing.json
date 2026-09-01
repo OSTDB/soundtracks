@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T15:33:02.726Z",
-  "total_missing": 14562,
+  "generated_at": "2026-09-01T15:48:11.995Z",
+  "total_missing": 14612,
   "games": [
     {
       "igdb_id": 306086,
@@ -4653,9 +4653,19 @@
       "file": "missing/A/277015-assembly-line-2-mobile-version.json"
     },
     {
+      "igdb_id": 168372,
+      "game_name": "Assetto Corsa Competizione: 2020 GT World Challenge Pack",
+      "file": "missing/A/168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json"
+    },
+    {
       "igdb_id": 208627,
       "game_name": "Assetto Corsa Competizione: American Track Pack",
       "file": "missing/A/208627-assetto-corsa-competizione-american-track-pack.json"
+    },
+    {
+      "igdb_id": 168371,
+      "game_name": "Assetto Corsa Competizione: British GT Pack",
+      "file": "missing/A/168371-assetto-corsa-competizione-british-gt-pack.json"
     },
     {
       "igdb_id": 168900,
@@ -6548,6 +6558,11 @@
       "file": "missing/B/300983-battlepets.json"
     },
     {
+      "igdb_id": 168365,
+      "game_name": "Battlerite Royale: All Champions Pack",
+      "file": "missing/B/168365-battlerite-royale-all-champions-pack.json"
+    },
+    {
       "igdb_id": 317631,
       "game_name": "Battleship",
       "file": "missing/B/317631-battleship.json"
@@ -6991,6 +7006,11 @@
       "igdb_id": 239894,
       "game_name": "Betrayed Alliance: Book 2",
       "file": "missing/B/239894-betrayed-alliance-book-2.json"
+    },
+    {
+      "igdb_id": 168381,
+      "game_name": "Betrayer: Curse of the Spine",
+      "file": "missing/B/168381-betrayer-curse-of-the-spine.json"
     },
     {
       "igdb_id": 278170,
@@ -14813,6 +14833,11 @@
       "file": "missing/D/253031-day-of-red-letter.json"
     },
     {
+      "igdb_id": 168382,
+      "game_name": "Day of the Dimetrodon",
+      "file": "missing/D/168382-day-of-the-dimetrodon.json"
+    },
+    {
       "igdb_id": 192955,
       "game_name": "Daydream",
       "file": "missing/D/192955-daydream.json"
@@ -15241,6 +15266,11 @@
       "igdb_id": 291744,
       "game_name": "Death Valley",
       "file": "missing/D/291744-death-valley.json"
+    },
+    {
+      "igdb_id": 168383,
+      "game_name": "Death Wore Endless Feathers",
+      "file": "missing/D/168383-death-wore-endless-feathers.json"
     },
     {
       "igdb_id": 208603,
@@ -15743,6 +15773,11 @@
       "file": "missing/D/241630-derealized.json"
     },
     {
+      "igdb_id": 168384,
+      "game_name": "Derelict",
+      "file": "missing/D/168384-derelict.json"
+    },
+    {
       "igdb_id": 258698,
       "game_name": "Deru",
       "file": "missing/D/258698-deru.json"
@@ -16206,6 +16241,11 @@
       "igdb_id": 231610,
       "game_name": "Dinky Rinky",
       "file": "missing/D/231610-dinky-rinky.json"
+    },
+    {
+      "igdb_id": 168385,
+      "game_name": "Dinner for Pigeons",
+      "file": "missing/D/168385-dinner-for-pigeons.json"
     },
     {
       "igdb_id": 317628,
@@ -16903,6 +16943,11 @@
       "file": "missing/D/177547-dont-look.json"
     },
     {
+      "igdb_id": 168387,
+      "game_name": "Don't Look!",
+      "file": "missing/D/168387-dont-look.json"
+    },
+    {
       "igdb_id": 174330,
       "game_name": "Don't Touch the Red Bubble",
       "file": "missing/D/174330-dont-touch-the-red-bubble.json"
@@ -16921,6 +16966,11 @@
       "igdb_id": 181929,
       "game_name": "Don't! Heroes: Encore!",
       "file": "missing/D/181929-dont-heroes-encore.json"
+    },
+    {
+      "igdb_id": 168386,
+      "game_name": "Donald Dowell and the Ghost of Barker Manor",
+      "file": "missing/D/168386-donald-dowell-and-the-ghost-of-barker-manor.json"
     },
     {
       "igdb_id": 257637,
@@ -17086,6 +17136,11 @@
       "igdb_id": 312909,
       "game_name": "Doomworld Roulette: Session 2",
       "file": "missing/D/312909-doomworld-roulette-session-2.json"
+    },
+    {
+      "igdb_id": 168388,
+      "game_name": "Doors",
+      "file": "missing/D/168388-doors.json"
     },
     {
       "igdb_id": 244498,
@@ -17313,6 +17368,11 @@
       "file": "missing/D/232672-draconic-evolution.json"
     },
     {
+      "igdb_id": 168389,
+      "game_name": "Draculator II: Byte of the Draculator",
+      "file": "missing/D/168389-draculator-ii-byte-of-the-draculator.json"
+    },
+    {
       "igdb_id": 191891,
       "game_name": "Draft Day Sports: College Basketball 2022",
       "file": "missing/D/191891-draft-day-sports-college-basketball-2022.json"
@@ -17511,6 +17571,11 @@
       "igdb_id": 210885,
       "game_name": "Drain Runner",
       "file": "missing/D/210885-drain-runner.json"
+    },
+    {
+      "igdb_id": 168390,
+      "game_name": "Drak",
+      "file": "missing/D/168390-drak.json"
     },
     {
       "igdb_id": 200155,
@@ -18516,6 +18581,11 @@
       "igdb_id": 194024,
       "game_name": "Echoes of Magic",
       "file": "missing/E/194024-echoes-of-magic.json"
+    },
+    {
+      "igdb_id": 168391,
+      "game_name": "Echoes of the Past",
+      "file": "missing/E/168391-echoes-of-the-past.json"
     },
     {
       "igdb_id": 321776,
@@ -20456,6 +20526,26 @@
       "igdb_id": 333964,
       "game_name": "Fallen Devotion",
       "file": "missing/F/333964-fallen-devotion.json"
+    },
+    {
+      "igdb_id": 168378,
+      "game_name": "Fallen Enchantress: Legendary Heroes - Battlegrounds DLC",
+      "file": "missing/F/168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json"
+    },
+    {
+      "igdb_id": 168370,
+      "game_name": "Fallen Enchantress: Legendary Heroes - Leader Pack DLC",
+      "file": "missing/F/168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json"
+    },
+    {
+      "igdb_id": 168379,
+      "game_name": "Fallen Enchantress: Legendary Heroes - Quest Pack DLC",
+      "file": "missing/F/168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json"
+    },
+    {
+      "igdb_id": 168380,
+      "game_name": "Fallen Enchantress: Legendary Heroes - The Dead World DLC",
+      "file": "missing/F/168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json"
     },
     {
       "igdb_id": 191903,
@@ -28938,6 +29028,16 @@
       "file": "missing/H/259289-hyakki-yako-oh-and-s.json"
     },
     {
+      "igdb_id": 168342,
+      "game_name": "Hybrid Wars: Yana 'Tesla' Radovich",
+      "file": "missing/H/168342-hybrid-wars-yana-tesla-radovich.json"
+    },
+    {
+      "igdb_id": 168341,
+      "game_name": "Hybrid Wars: Yoko Takano",
+      "file": "missing/H/168341-hybrid-wars-yoko-takano.json"
+    },
+    {
       "igdb_id": 192967,
       "game_name": "Hyde",
       "file": "missing/H/192967-hyde.json"
@@ -30461,6 +30561,11 @@
       "igdb_id": 183040,
       "game_name": "Invisible Beasts",
       "file": "missing/I/183040-invisible-beasts.json"
+    },
+    {
+      "igdb_id": 168364,
+      "game_name": "Invisible: Story Extension",
+      "file": "missing/I/168364-invisible-story-extension.json"
     },
     {
       "igdb_id": 268193,
@@ -33908,6 +34013,11 @@
       "file": "missing/L/229925-lego-island-2-the-bricksters-revenge.json"
     },
     {
+      "igdb_id": 168368,
+      "game_name": "LEGO Marvel Super Heroes 2: Champions Character Pack",
+      "file": "missing/L/168368-lego-marvel-super-heroes-2-champions-character-pack.json"
+    },
+    {
       "igdb_id": 341908,
       "game_name": "LEGO Racers: The Video Game",
       "file": "missing/L/341908-lego-racers-the-video-game.json"
@@ -34861,6 +34971,26 @@
       "igdb_id": 231051,
       "game_name": "LogiKing",
       "file": "missing/L/231051-logiking.json"
+    },
+    {
+      "igdb_id": 168349,
+      "game_name": "Logistical 2: Indonesia - Bundle",
+      "file": "missing/L/168349-logistical-2-indonesia-bundle.json"
+    },
+    {
+      "igdb_id": 168348,
+      "game_name": "Logistical 2: Mall Rats",
+      "file": "missing/L/168348-logistical-2-mall-rats.json"
+    },
+    {
+      "igdb_id": 168346,
+      "game_name": "Logistical 2: Suriname - Xmas 2018",
+      "file": "missing/L/168346-logistical-2-suriname-xmas-2018.json"
+    },
+    {
+      "igdb_id": 168347,
+      "game_name": "Logistical 2: Vampires - Bundle",
+      "file": "missing/L/168347-logistical-2-vampires-bundle.json"
     },
     {
       "igdb_id": 176518,
@@ -39416,6 +39546,46 @@
       "igdb_id": 201831,
       "game_name": "Motobug the Badnik in Sonic the Hedgehog",
       "file": "missing/M/201831-motobug-the-badnik-in-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 168355,
+      "game_name": "MotoGP 13: MotoGP Champions",
+      "file": "missing/M/168355-motogp-13-motogp-champions.json"
+    },
+    {
+      "igdb_id": 168356,
+      "game_name": "MotoGP 13:Red Bull Rookies Cup",
+      "file": "missing/M/168356-motogp-13-red-bull-rookies-cup.json"
+    },
+    {
+      "igdb_id": 168358,
+      "game_name": "MotoGP 14: Donington Park British Grand Prix DLC",
+      "file": "missing/M/168358-motogp-14-donington-park-british-grand-prix-dlc.json"
+    },
+    {
+      "igdb_id": 168357,
+      "game_name": "MotoGP 14: Red Bull Rookies Cup DLC",
+      "file": "missing/M/168357-motogp-14-red-bull-rookies-cup-dlc.json"
+    },
+    {
+      "igdb_id": 168359,
+      "game_name": "MotoGP 15: GP de Portugal Circuito Estoril",
+      "file": "missing/M/168359-motogp-15-gp-de-portugal-circuito-estoril.json"
+    },
+    {
+      "igdb_id": 168362,
+      "game_name": "MotoGP 19: Historical Pack",
+      "file": "missing/M/168362-motogp-19-historical-pack.json"
+    },
+    {
+      "igdb_id": 168361,
+      "game_name": "MotoGP 20: Historic Pack",
+      "file": "missing/M/168361-motogp-20-historic-pack.json"
+    },
+    {
+      "igdb_id": 168363,
+      "game_name": "MotoGP 21: Limited Edition Liveries",
+      "file": "missing/M/168363-motogp-21-limited-edition-liveries.json"
     },
     {
       "igdb_id": 309663,
@@ -61438,6 +61608,11 @@
       "file": "missing/T/335074-the-alehouse-tavern-chronicles.json"
     },
     {
+      "igdb_id": 168369,
+      "game_name": "The Alpha 001",
+      "file": "missing/T/168369-the-alpha-001.json"
+    },
+    {
       "igdb_id": 186866,
       "game_name": "The Angry 4",
       "file": "missing/T/186866-the-angry-4.json"
@@ -63286,6 +63461,21 @@
       "igdb_id": 275335,
       "game_name": "The Line TD",
       "file": "missing/T/275335-the-line-td.json"
+    },
+    {
+      "igdb_id": 168343,
+      "game_name": "The Lion's Song: Episode 2 - Anthology",
+      "file": "missing/T/168343-the-lions-song-episode-2-anthology.json"
+    },
+    {
+      "igdb_id": 168345,
+      "game_name": "The Lion's Song: Episode 3 - Derivation",
+      "file": "missing/T/168345-the-lions-song-episode-3-derivation.json"
+    },
+    {
+      "igdb_id": 168344,
+      "game_name": "The Lion's Song: Episode 4 - Closure",
+      "file": "missing/T/168344-the-lions-song-episode-4-closure.json"
     },
     {
       "igdb_id": 172202,
@@ -68938,6 +69128,11 @@
       "file": "missing/V/338031-vagrus-the-riven-realms-praetor-edition.json"
     },
     {
+      "igdb_id": 168360,
+      "game_name": "Valentino Rossi: The Game - Real Events: 2015 MotoGP Season",
+      "file": "missing/V/168360-valentino-rossi-the-game-real-events-2015-motogp-season.json"
+    },
+    {
       "igdb_id": 171639,
       "game_name": "Valhalla Hills: Sand of the Damned",
       "file": "missing/V/171639-valhalla-hills-sand-of-the-damned.json"
@@ -69576,6 +69771,16 @@
       "igdb_id": 236505,
       "game_name": "Void Blitzing",
       "file": "missing/V/236505-void-blitzing.json"
+    },
+    {
+      "igdb_id": 168377,
+      "game_name": "Void Destroyer 2: Ashes",
+      "file": "missing/V/168377-void-destroyer-2-ashes.json"
+    },
+    {
+      "igdb_id": 168376,
+      "game_name": "Void Destroyer 2: Big Red",
+      "file": "missing/V/168376-void-destroyer-2-big-red.json"
     },
     {
       "igdb_id": 172185,
@@ -71763,9 +71968,34 @@
       "file": "missing/W/181900-wwaves.json"
     },
     {
+      "igdb_id": 168353,
+      "game_name": "WWE 2K17: Accelerator",
+      "file": "missing/W/168353-wwe-2k17-accelerator.json"
+    },
+    {
+      "igdb_id": 168352,
+      "game_name": "WWE 2K17: Hall of Fame Showcase",
+      "file": "missing/W/168352-wwe-2k17-hall-of-fame-showcase.json"
+    },
+    {
+      "igdb_id": 168350,
+      "game_name": "WWE 2K17: Legends Pack",
+      "file": "missing/W/168350-wwe-2k17-legends-pack.json"
+    },
+    {
+      "igdb_id": 168354,
+      "game_name": "WWE 2K17: New Moves Pack",
+      "file": "missing/W/168354-wwe-2k17-new-moves-pack.json"
+    },
+    {
       "igdb_id": 205827,
       "game_name": "WWE 2K17: Nxt Edition",
       "file": "missing/W/205827-wwe-2k17-nxt-edition.json"
+    },
+    {
+      "igdb_id": 168351,
+      "game_name": "WWE 2K17: NXT Enhancement Pack",
+      "file": "missing/W/168351-wwe-2k17-nxt-enhancement-pack.json"
     },
     {
       "igdb_id": 188127,
@@ -71816,6 +72046,11 @@
       "igdb_id": 205810,
       "game_name": "X-Plane 10: Regional Edition - North America",
       "file": "missing/X/205810-x-plane-10-regional-edition-north-america.json"
+    },
+    {
+      "igdb_id": 168367,
+      "game_name": "X-Plane 11: Aerosoft Seychelles XP",
+      "file": "missing/X/168367-x-plane-11-aerosoft-seychelles-xp.json"
     },
     {
       "igdb_id": 196325,
@@ -72761,6 +72996,21 @@
       "igdb_id": 236504,
       "game_name": "Zoolovelogy",
       "file": "missing/Z/236504-zoolovelogy.json"
+    },
+    {
+      "igdb_id": 168375,
+      "game_name": "Zooma: Chapter 2 - \"Cave\"",
+      "file": "missing/Z/168375-zooma-chapter-2-cave.json"
+    },
+    {
+      "igdb_id": 168374,
+      "game_name": "Zooma:Chapter 3 - \"Shadow Valley\"",
+      "file": "missing/Z/168374-zooma-chapter-3-shadow-valley.json"
+    },
+    {
+      "igdb_id": 168373,
+      "game_name": "Zooma:Chapter 4 - \"Temple of the Damned\"",
+      "file": "missing/Z/168373-zooma-chapter-4-temple-of-the-damned.json"
     },
     {
       "igdb_id": 328256,
