@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
+| Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
@@ -86,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electron Handsome Boy | 201312 | [201312-electron-handsome-boy.json](./201312-electron-handsome-boy.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
+| Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
@@ -105,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
+| Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
@@ -145,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
+| Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
@@ -216,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
+| Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Tree | 339116 | [339116-eternal-tree.json](./339116-eternal-tree.json) |
