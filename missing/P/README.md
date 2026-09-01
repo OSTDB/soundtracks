@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
+| Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
+| Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
@@ -616,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
