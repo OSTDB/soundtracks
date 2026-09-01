@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10-103 | 176499 | [176499-10-103.json](./176499-10-103.json) |
+| 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Crime Cats | 301028 | [301028-100-crime-cats.json](./301028-100-crime-cats.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
 | 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
+| 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 Minute Walk | 182550 | [182550-3-minute-walk.json](./182550-3-minute-walk.json) |
