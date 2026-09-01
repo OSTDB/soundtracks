@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
+| Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
+| Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
+| Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
