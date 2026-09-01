@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
+| Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
+| Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
@@ -513,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
+| Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
@@ -827,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
+| Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
@@ -953,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
+| Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
@@ -1398,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
+| Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
