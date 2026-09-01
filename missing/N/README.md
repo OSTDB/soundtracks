@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
+| Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
+| Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
