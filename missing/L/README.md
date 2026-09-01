@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
+| Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
+| Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lords and Tactics | 247759 | [247759-lords-and-tactics.json](./247759-lords-and-tactics.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
