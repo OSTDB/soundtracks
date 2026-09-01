@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
+| Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
+| Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
