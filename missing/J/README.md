@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
+| Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
