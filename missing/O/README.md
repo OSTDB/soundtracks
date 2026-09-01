@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307927 | [307927-outrun.json](./307927-outrun.json) |
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
+| Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
