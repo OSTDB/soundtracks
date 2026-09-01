@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
+| Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
