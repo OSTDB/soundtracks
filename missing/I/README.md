@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
+| Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is It Wrong To Try To Rescue Monster Girls From The Inquisition? | 247774 | [247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json](./247774-is-it-wrong-to-try-to-rescue-monster-girls-from-the-inquisition.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
