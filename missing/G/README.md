@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
+| Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
