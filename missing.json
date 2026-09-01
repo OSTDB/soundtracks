@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T19:03:59.064Z",
-  "total_missing": 15262,
+  "generated_at": "2026-09-01T19:17:53.914Z",
+  "total_missing": 15312,
   "games": [
     {
       "igdb_id": 306086,
@@ -68386,6 +68386,256 @@
       "igdb_id": 238717,
       "game_name": "Tiger Tank 59 I: A-Gun MP040",
       "file": "missing/T/238717-tiger-tank-59-i-a-gun-mp040.json"
+    },
+    {
+      "igdb_id": 160892,
+      "game_name": "Tiger Tank 59 I: Air Strike MP001",
+      "file": "missing/T/160892-tiger-tank-59-i-air-strike-mp001.json"
+    },
+    {
+      "igdb_id": 160882,
+      "game_name": "Tiger Tank 59 I: Air Strike MP002",
+      "file": "missing/T/160882-tiger-tank-59-i-air-strike-mp002.json"
+    },
+    {
+      "igdb_id": 160894,
+      "game_name": "Tiger Tank 59 I: Air Strike MP004",
+      "file": "missing/T/160894-tiger-tank-59-i-air-strike-mp004.json"
+    },
+    {
+      "igdb_id": 160906,
+      "game_name": "Tiger Tank 59 I: Air Strike MP009",
+      "file": "missing/T/160906-tiger-tank-59-i-air-strike-mp009.json"
+    },
+    {
+      "igdb_id": 160893,
+      "game_name": "Tiger Tank 59 I: Air Strike MP010",
+      "file": "missing/T/160893-tiger-tank-59-i-air-strike-mp010.json"
+    },
+    {
+      "igdb_id": 160875,
+      "game_name": "Tiger Tank 59 I: Air Strike MP012",
+      "file": "missing/T/160875-tiger-tank-59-i-air-strike-mp012.json"
+    },
+    {
+      "igdb_id": 160885,
+      "game_name": "Tiger Tank 59 I: Air Strike MP015",
+      "file": "missing/T/160885-tiger-tank-59-i-air-strike-mp015.json"
+    },
+    {
+      "igdb_id": 160883,
+      "game_name": "Tiger Tank 59 I: Air Strike MP017",
+      "file": "missing/T/160883-tiger-tank-59-i-air-strike-mp017.json"
+    },
+    {
+      "igdb_id": 160896,
+      "game_name": "Tiger Tank 59 I: Air Strike MP018",
+      "file": "missing/T/160896-tiger-tank-59-i-air-strike-mp018.json"
+    },
+    {
+      "igdb_id": 160890,
+      "game_name": "Tiger Tank 59 I: Air Strike MP022",
+      "file": "missing/T/160890-tiger-tank-59-i-air-strike-mp022.json"
+    },
+    {
+      "igdb_id": 160866,
+      "game_name": "Tiger Tank 59 I: Air Strike MP023",
+      "file": "missing/T/160866-tiger-tank-59-i-air-strike-mp023.json"
+    },
+    {
+      "igdb_id": 160870,
+      "game_name": "Tiger Tank 59 I: Air Strike MP024",
+      "file": "missing/T/160870-tiger-tank-59-i-air-strike-mp024.json"
+    },
+    {
+      "igdb_id": 160876,
+      "game_name": "Tiger Tank 59 I: Air Strike MP026",
+      "file": "missing/T/160876-tiger-tank-59-i-air-strike-mp026.json"
+    },
+    {
+      "igdb_id": 160887,
+      "game_name": "Tiger Tank 59 I: Air Strike MP027",
+      "file": "missing/T/160887-tiger-tank-59-i-air-strike-mp027.json"
+    },
+    {
+      "igdb_id": 160901,
+      "game_name": "Tiger Tank 59 I: Air Strike MP028",
+      "file": "missing/T/160901-tiger-tank-59-i-air-strike-mp028.json"
+    },
+    {
+      "igdb_id": 160888,
+      "game_name": "Tiger Tank 59 I: Air Strike MP029",
+      "file": "missing/T/160888-tiger-tank-59-i-air-strike-mp029.json"
+    },
+    {
+      "igdb_id": 160879,
+      "game_name": "Tiger Tank 59 I: Air Strike MP031",
+      "file": "missing/T/160879-tiger-tank-59-i-air-strike-mp031.json"
+    },
+    {
+      "igdb_id": 160902,
+      "game_name": "Tiger Tank 59 I: Air Strike MP033",
+      "file": "missing/T/160902-tiger-tank-59-i-air-strike-mp033.json"
+    },
+    {
+      "igdb_id": 160909,
+      "game_name": "Tiger Tank 59 I: Air Strike MP034",
+      "file": "missing/T/160909-tiger-tank-59-i-air-strike-mp034.json"
+    },
+    {
+      "igdb_id": 160895,
+      "game_name": "Tiger Tank 59 I: Air Strike MP036",
+      "file": "missing/T/160895-tiger-tank-59-i-air-strike-mp036.json"
+    },
+    {
+      "igdb_id": 160873,
+      "game_name": "Tiger Tank 59 I: Air Strike MP039",
+      "file": "missing/T/160873-tiger-tank-59-i-air-strike-mp039.json"
+    },
+    {
+      "igdb_id": 160898,
+      "game_name": "Tiger Tank 59 I: Air Strike MP040",
+      "file": "missing/T/160898-tiger-tank-59-i-air-strike-mp040.json"
+    },
+    {
+      "igdb_id": 160907,
+      "game_name": "Tiger Tank 59 I: Air Strike MP042",
+      "file": "missing/T/160907-tiger-tank-59-i-air-strike-mp042.json"
+    },
+    {
+      "igdb_id": 160863,
+      "game_name": "Tiger Tank 59 I: Air Strike MP043",
+      "file": "missing/T/160863-tiger-tank-59-i-air-strike-mp043.json"
+    },
+    {
+      "igdb_id": 160910,
+      "game_name": "Tiger Tank 59 I: Air Strike MP044",
+      "file": "missing/T/160910-tiger-tank-59-i-air-strike-mp044.json"
+    },
+    {
+      "igdb_id": 160877,
+      "game_name": "Tiger Tank 59 I: Air Strike MP049",
+      "file": "missing/T/160877-tiger-tank-59-i-air-strike-mp049.json"
+    },
+    {
+      "igdb_id": 160865,
+      "game_name": "Tiger Tank 59 I: Air Strike MP050",
+      "file": "missing/T/160865-tiger-tank-59-i-air-strike-mp050.json"
+    },
+    {
+      "igdb_id": 160904,
+      "game_name": "Tiger Tank 59 I: Air Strike MP051",
+      "file": "missing/T/160904-tiger-tank-59-i-air-strike-mp051.json"
+    },
+    {
+      "igdb_id": 160878,
+      "game_name": "Tiger Tank 59 I: Air Strike MP053",
+      "file": "missing/T/160878-tiger-tank-59-i-air-strike-mp053.json"
+    },
+    {
+      "igdb_id": 160900,
+      "game_name": "Tiger Tank 59 I: Air Strike MP054",
+      "file": "missing/T/160900-tiger-tank-59-i-air-strike-mp054.json"
+    },
+    {
+      "igdb_id": 160884,
+      "game_name": "Tiger Tank 59 I: Air Strike MP055",
+      "file": "missing/T/160884-tiger-tank-59-i-air-strike-mp055.json"
+    },
+    {
+      "igdb_id": 160861,
+      "game_name": "Tiger Tank 59 I: Air Strike MP056",
+      "file": "missing/T/160861-tiger-tank-59-i-air-strike-mp056.json"
+    },
+    {
+      "igdb_id": 160897,
+      "game_name": "Tiger Tank 59 I: Air Strike MP058",
+      "file": "missing/T/160897-tiger-tank-59-i-air-strike-mp058.json"
+    },
+    {
+      "igdb_id": 160867,
+      "game_name": "Tiger Tank 59 I: Air Strike MP061",
+      "file": "missing/T/160867-tiger-tank-59-i-air-strike-mp061.json"
+    },
+    {
+      "igdb_id": 160868,
+      "game_name": "Tiger Tank 59 I: Air Strike MP062",
+      "file": "missing/T/160868-tiger-tank-59-i-air-strike-mp062.json"
+    },
+    {
+      "igdb_id": 160869,
+      "game_name": "Tiger Tank 59 I: Air Strike MP068",
+      "file": "missing/T/160869-tiger-tank-59-i-air-strike-mp068.json"
+    },
+    {
+      "igdb_id": 160872,
+      "game_name": "Tiger Tank 59 I: Air Strike MP072",
+      "file": "missing/T/160872-tiger-tank-59-i-air-strike-mp072.json"
+    },
+    {
+      "igdb_id": 160889,
+      "game_name": "Tiger Tank 59 I: Air Strike MP073",
+      "file": "missing/T/160889-tiger-tank-59-i-air-strike-mp073.json"
+    },
+    {
+      "igdb_id": 160871,
+      "game_name": "Tiger Tank 59 I: Air Strike MP077",
+      "file": "missing/T/160871-tiger-tank-59-i-air-strike-mp077.json"
+    },
+    {
+      "igdb_id": 160881,
+      "game_name": "Tiger Tank 59 I: Air Strike MP080",
+      "file": "missing/T/160881-tiger-tank-59-i-air-strike-mp080.json"
+    },
+    {
+      "igdb_id": 160903,
+      "game_name": "Tiger Tank 59 I: Air Strike MP082",
+      "file": "missing/T/160903-tiger-tank-59-i-air-strike-mp082.json"
+    },
+    {
+      "igdb_id": 160908,
+      "game_name": "Tiger Tank 59 I: Air Strike MP084",
+      "file": "missing/T/160908-tiger-tank-59-i-air-strike-mp084.json"
+    },
+    {
+      "igdb_id": 160899,
+      "game_name": "Tiger Tank 59 I: Air Strike MP085",
+      "file": "missing/T/160899-tiger-tank-59-i-air-strike-mp085.json"
+    },
+    {
+      "igdb_id": 160891,
+      "game_name": "Tiger Tank 59 I: Air Strike MP087",
+      "file": "missing/T/160891-tiger-tank-59-i-air-strike-mp087.json"
+    },
+    {
+      "igdb_id": 160905,
+      "game_name": "Tiger Tank 59 I: Air Strike MP088",
+      "file": "missing/T/160905-tiger-tank-59-i-air-strike-mp088.json"
+    },
+    {
+      "igdb_id": 160864,
+      "game_name": "Tiger Tank 59 I: Air Strike MP089",
+      "file": "missing/T/160864-tiger-tank-59-i-air-strike-mp089.json"
+    },
+    {
+      "igdb_id": 160886,
+      "game_name": "Tiger Tank 59 I: Air Strike MP097",
+      "file": "missing/T/160886-tiger-tank-59-i-air-strike-mp097.json"
+    },
+    {
+      "igdb_id": 160874,
+      "game_name": "Tiger Tank 59 I: Air Strike MP098",
+      "file": "missing/T/160874-tiger-tank-59-i-air-strike-mp098.json"
+    },
+    {
+      "igdb_id": 160862,
+      "game_name": "Tiger Tank 59 I: Air Strike MP099",
+      "file": "missing/T/160862-tiger-tank-59-i-air-strike-mp099.json"
+    },
+    {
+      "igdb_id": 160880,
+      "game_name": "Tiger Tank 59 I: Air Strike MP100",
+      "file": "missing/T/160880-tiger-tank-59-i-air-strike-mp100.json"
     },
     {
       "igdb_id": 173761,
