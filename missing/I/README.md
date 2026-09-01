@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inverse Ninjas vs. The Public Domain | 277593 | [277593-inverse-ninjas-vs-the-public-domain.json](./277593-inverse-ninjas-vs-the-public-domain.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
+| Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
