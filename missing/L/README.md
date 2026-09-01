@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
+| Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
