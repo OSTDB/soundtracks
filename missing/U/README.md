@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
+| Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
