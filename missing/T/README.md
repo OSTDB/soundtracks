@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
+| Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
@@ -268,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
+| The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
@@ -836,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
+| The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
@@ -1148,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
+| Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
