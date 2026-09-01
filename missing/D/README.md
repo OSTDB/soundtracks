@@ -330,7 +330,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
+| Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
+| Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
@@ -585,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
+| DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
@@ -615,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
+| Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
@@ -685,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
+| Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
@@ -697,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
+| DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
