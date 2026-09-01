@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
+| DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
+| DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Town 2 | 257642 | [257642-daymare-town-2.json](./257642-daymare-town-2.json) |
 | Daymare Town 2 | 257643 | [257643-daymare-town-2.json](./257643-daymare-town-2.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
+| Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
