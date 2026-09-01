@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
+| Galaxy Trader | 175402 | [175402-galaxy-trader.json](./175402-galaxy-trader.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
 | Ginger: The Tooth Fairy | 209134 | [209134-ginger-the-tooth-fairy.json](./209134-ginger-the-tooth-fairy.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
+| Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girl Doll Toy: Tamashii o Kudasai | 209622 | [209622-girl-doll-toy-tamashii-o-kudasai.json](./209622-girl-doll-toy-tamashii-o-kudasai.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
