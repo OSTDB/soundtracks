@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
+| It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
