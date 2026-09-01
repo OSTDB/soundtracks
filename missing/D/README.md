@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
+| Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
+| Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
