@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
+| Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
+| Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
@@ -145,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
+| Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
