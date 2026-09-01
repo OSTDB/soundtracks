@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
+| Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
@@ -495,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
+| Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
 | Froggy Castle 2 | 243407 | [243407-froggy-castle-2.json](./243407-froggy-castle-2.json) |
