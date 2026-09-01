@@ -151,7 +151,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
+| Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
+| Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
@@ -444,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
+| Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
@@ -520,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
+| Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
 | Bokura no Keshigomu Otoshi Shin Gakki | 208628 | [208628-bokura-no-keshigomu-otoshi-shin-gakki.json](./208628-bokura-no-keshigomu-otoshi-shin-gakki.json) |
