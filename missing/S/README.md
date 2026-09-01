@@ -13,12 +13,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
+| Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
+| Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
@@ -559,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
+| Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
@@ -750,6 +753,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
 | Sonic Chaos Revolution | 329946 | [329946-sonic-chaos-revolution.json](./329946-sonic-chaos-revolution.json) |
+| Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
+| Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Coconut Hunter | 330532 | [330532-sonic-coconut-hunter.json](./330532-sonic-coconut-hunter.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
@@ -1062,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
+| Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
@@ -1253,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
+| Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
@@ -1360,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario & Sonic | 262087 | [262087-super-mario-and-sonic.json](./262087-super-mario-and-sonic.json) |
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
+| Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
@@ -1407,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
+| Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
