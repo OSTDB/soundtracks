@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
+| Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
+| Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
+| Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
 | Brelok: Nezumi-tachi no Dasshutsu | 330509 | [330509-brelok-nezumi-tachi-no-dasshutsu.json](./330509-brelok-nezumi-tachi-no-dasshutsu.json) |
@@ -599,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
+| Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
