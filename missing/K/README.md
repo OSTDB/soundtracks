@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
+| Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Girl: Match 3 Puzzle | 254155 | [254155-knight-girl-match-3-puzzle.json](./254155-knight-girl-match-3-puzzle.json) |
 | Knight Guy in Low Res World: Castle Days | 306667 | [306667-knight-guy-in-low-res-world-castle-days.json](./306667-knight-guy-in-low-res-world-castle-days.json) |
 | Knight Hero 2 Revenge idle RPG | 330519 | [330519-knight-hero-2-revenge-idle-rpg.json](./330519-knight-hero-2-revenge-idle-rpg.json) |
