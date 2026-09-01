@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
+| In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In the Grave Wood | 183599 | [183599-in-the-grave-wood.json](./183599-in-the-grave-wood.json) |
 | In the Mood | 196848 | [196848-in-the-mood.json](./196848-in-the-mood.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
 | Infinite Chef | 300411 | [300411-infinite-chef.json](./300411-infinite-chef.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
+| Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
+| Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
