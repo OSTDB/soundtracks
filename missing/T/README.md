@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Mass Extinction | 203558 | [203558-the-backrooms-mass-extinction.json](./203558-the-backrooms-mass-extinction.json) |
+| The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
+| The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
@@ -398,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
+| The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
@@ -807,9 +810,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
+| Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
+| Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
@@ -848,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
+| Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
