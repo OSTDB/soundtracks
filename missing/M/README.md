@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
+| Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
