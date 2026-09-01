@@ -782,6 +782,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
+| MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
+| MotoGP 13:Red Bull Rookies Cup | 168356 | [168356-motogp-13-red-bull-rookies-cup.json](./168356-motogp-13-red-bull-rookies-cup.json) |
+| MotoGP 14: Donington Park British Grand Prix DLC | 168358 | [168358-motogp-14-donington-park-british-grand-prix-dlc.json](./168358-motogp-14-donington-park-british-grand-prix-dlc.json) |
+| MotoGP 14: Red Bull Rookies Cup DLC | 168357 | [168357-motogp-14-red-bull-rookies-cup-dlc.json](./168357-motogp-14-red-bull-rookies-cup-dlc.json) |
+| MotoGP 15: GP de Portugal Circuito Estoril | 168359 | [168359-motogp-15-gp-de-portugal-circuito-estoril.json](./168359-motogp-15-gp-de-portugal-circuito-estoril.json) |
+| MotoGP 19: Historical Pack | 168362 | [168362-motogp-19-historical-pack.json](./168362-motogp-19-historical-pack.json) |
+| MotoGP 20: Historic Pack | 168361 | [168361-motogp-20-historic-pack.json](./168361-motogp-20-historic-pack.json) |
+| MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
