@@ -20,6 +20,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
+| Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
+| Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
@@ -413,8 +415,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
+| Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grind Hockey | 269330 | [269330-grind-hockey.json](./269330-grind-hockey.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
+| Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
