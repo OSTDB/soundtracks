@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
+| Chop | 183081 | [183081-chop.json](./183081-chop.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
@@ -755,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
+| Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
