@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
+| Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
 | Fernbus Simulator: Denmark | 254769 | [254769-fernbus-simulator-denmark.json](./254769-fernbus-simulator-denmark.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
+| Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
 | Fortune Cookie: More Cookies | 340239 | [340239-fortune-cookie-more-cookies.json](./340239-fortune-cookie-more-cookies.json) |
