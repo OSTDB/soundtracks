@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
+| Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
