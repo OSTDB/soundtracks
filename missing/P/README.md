@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | PatchCon! Defend the Library | 202948 | [202948-patchcon-defend-the-library.json](./202948-patchcon-defend-the-library.json) |
+| Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
+| Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
@@ -386,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
+| Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
