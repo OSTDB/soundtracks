@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
+| Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
+| Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
