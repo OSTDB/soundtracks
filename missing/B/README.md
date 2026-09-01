@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
+| BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
+| Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
