@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
+| 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8 Bit Armies: Limited Edition | 185707 | [185707-8-bit-armies-limited-edition.json](./185707-8-bit-armies-limited-edition.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
