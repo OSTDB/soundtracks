@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
+| Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuga: Melodies of Steel 2 - Deluxe Edition | 246620 | [246620-fuga-melodies-of-steel-2-deluxe-edition.json](./246620-fuga-melodies-of-steel-2-deluxe-edition.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
