@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
+| Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
+| Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
@@ -330,7 +332,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobby Cam by Bryn Oh | 235468 | [235468-lobby-cam-by-bryn-oh.json](./235468-lobby-cam-by-bryn-oh.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
+| Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
+| Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
+| Lock 'n Load Tactical Digital: For the Emperor - Battlepack | 158738 | [158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json](./158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json) |
+| Lock 'n Load Tactical Digital: Heroes Against the Red Star - Battlepack 1 | 158744 | [158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json](./158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes in Defiance - Battlepack 1 | 158733 | [158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json](./158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2 | 239343 | [239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json](./239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json) |
+| Lock 'n Load Tactical Digital: Heroes of Grenada | 158747 | [158747-lock-n-load-tactical-digital-heroes-of-grenada.json](./158747-lock-n-load-tactical-digital-heroes-of-grenada.json) |
+| Lock 'n Load Tactical Digital: Heroes of Nam - Battlepack 1 | 158743 | [158743-lock-n-load-tactical-digital-heroes-of-nam-battlepack-1.json](./158743-lock-n-load-tactical-digital-heroes-of-nam-battlepack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 1 | 158732 | [158732-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-1.json](./158732-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 2 | 158745 | [158745-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-2.json](./158745-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-2.json) |
+| Lock 'n Load Tactical Digital: Heroes of North Africa - Battle Pack 1 | 158728 | [158728-lock-n-load-tactical-digital-heroes-of-north-africa-battle-pack-1.json](./158728-lock-n-load-tactical-digital-heroes-of-north-africa-battle-pack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes of the Bitter Harvest - Battlepack 1 | 158742 | [158742-lock-n-load-tactical-digital-heroes-of-the-bitter-harvest-battlepack-1.json](./158742-lock-n-load-tactical-digital-heroes-of-the-bitter-harvest-battlepack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes of the Falklands - Pack 1 | 158734 | [158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json](./158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json) |
+| Lock 'n Load Tactical Digital: Heroes of the Motherland - Battlepack 1 | 158735 | [158735-lock-n-load-tactical-digital-heroes-of-the-motherland-battlepack-1.json](./158735-lock-n-load-tactical-digital-heroes-of-the-motherland-battlepack-1.json) |
+| Lock 'n Load Tactical Digital: Pledge of Honor - Battlepack | 158739 | [158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json](./158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json) |
+| Lock 'n Load Tactical Digital: Red Gauntlet - Battlepack | 158740 | [158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json](./158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json) |
+| Lock 'n Load Tactical Digital: The Untold Stories - Battlepack | 158736 | [158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json](./158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json) |
+| Lock 'n Load Tactical Digital: We Stand Alone - Battlepack | 158737 | [158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json](./158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
