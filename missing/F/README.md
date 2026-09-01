@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
+| Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
@@ -200,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
+| Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
@@ -277,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
+| Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
@@ -341,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
+| Flipull | 172779 | [172779-flipull.json](./172779-flipull.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
@@ -546,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
+| Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frog Fall Down | 192430 | [192430-frog-fall-down.json](./192430-frog-fall-down.json) |
 | Frog Feast | 270407 | [270407-frog-feast.json](./270407-frog-feast.json) |
