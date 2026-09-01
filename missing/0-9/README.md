@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
+| 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
