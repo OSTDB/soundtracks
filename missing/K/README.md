@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
+| Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
