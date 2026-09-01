@@ -41,3 +41,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
 | Xuhivan's Autonomous Cube | 216479 | [216479-xuhivans-autonomous-cube.json](./216479-xuhivans-autonomous-cube.json) |
+| XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
+| XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
+| XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
