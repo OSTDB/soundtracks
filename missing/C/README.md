@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
+| Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
@@ -954,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
+| Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
