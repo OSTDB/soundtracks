@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
+| Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
 | Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
