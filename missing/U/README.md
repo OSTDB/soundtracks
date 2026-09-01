@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
+| Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertone | 229350 | [229350-undertone.json](./229350-undertone.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
+| Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed VR | 293379 | [293379-unearthed-vr.json](./293379-unearthed-vr.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
+| United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
