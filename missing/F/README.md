@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
+| Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
