@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
+| Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
