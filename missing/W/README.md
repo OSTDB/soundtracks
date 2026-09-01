@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
+| Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
 | Warrior Maiden | 210861 | [210861-warrior-maiden.json](./210861-warrior-maiden.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
@@ -108,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
+| Weed Farmer | 200201 | [200201-weed-farmer.json](./200201-weed-farmer.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
@@ -252,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
+| Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
