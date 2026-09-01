@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
+| Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
 | Antigravity Racing | 239292 | [239292-antigravity-racing.json](./239292-antigravity-racing.json) |
+| Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
@@ -833,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
+| Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
