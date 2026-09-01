@@ -604,12 +604,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
+| Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Fishing | 340206 | [340206-combo-fishing.json](./340206-combo-fishing.json) |
 | Come Home: Premium Edition | 238762 | [238762-come-home-premium-edition.json](./238762-come-home-premium-edition.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
+| Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
+| Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Showcase Queen Elizabeth | 213026 | [213026-command-modern-operations-showcase-queen-elizabeth.json](./213026-command-modern-operations-showcase-queen-elizabeth.json) |
+| Command: Modern Operations Live - Aegean in Flames | 167869 | [167869-command-modern-operations-live-aegean-in-flames.json](./167869-command-modern-operations-live-aegean-in-flames.json) |
+| Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
+| Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
