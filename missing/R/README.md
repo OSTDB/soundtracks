@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
