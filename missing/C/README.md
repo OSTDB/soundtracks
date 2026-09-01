@@ -825,6 +825,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
+| CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
+| CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
+| CRSED: F.O.A.D. - Holy Beast | 171059 | [171059-crsed-f-o-a-d-holy-beast.json](./171059-crsed-f-o-a-d-holy-beast.json) |
+| CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
+| CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
+| CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
