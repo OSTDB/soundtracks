@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
+| Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
+| Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
