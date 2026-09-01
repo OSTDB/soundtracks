@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
+| Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
+| City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
@@ -455,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
+| Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
@@ -615,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
+| Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
@@ -838,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01fb | 296662 | [296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json](./296662-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01fb.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-02 | 296661 | [296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json](./296661-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-02.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
+| Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
