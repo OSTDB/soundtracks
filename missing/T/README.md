@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
+| Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
@@ -1161,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
+| Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
