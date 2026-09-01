@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
+| Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
@@ -68,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
+| Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
@@ -291,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
+| Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
