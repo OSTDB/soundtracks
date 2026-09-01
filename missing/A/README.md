@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Mall Near You | 229968 | [229968-a-mall-near-you.json](./229968-a-mall-near-you.json) |
+| A Maze Fox | 187535 | [187535-a-maze-fox.json](./187535-a-maze-fox.json) |
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
 | After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
+| After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
