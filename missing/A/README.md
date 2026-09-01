@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
+| A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A List of People Who Went Missing in the Scheleirland National Forest | 193468 | [193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json](./193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
+| Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
@@ -662,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
+| Ashes: 2063 - Enriched Edition | 184100 | [184100-ashes-2063-enriched-edition.json](./184100-ashes-2063-enriched-edition.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
