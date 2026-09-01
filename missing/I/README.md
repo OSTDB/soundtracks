@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
+| Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
