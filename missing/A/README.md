@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
+| A Game of Dwarves: Pets | 156166 | [156166-a-game-of-dwarves-pets.json](./156166-a-game-of-dwarves-pets.json) |
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Good Night's Rest | 292315 | [292315-a-good-nights-rest.json](./292315-a-good-nights-rest.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
+| AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -403,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
+| Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
+| Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
@@ -670,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Archmage Ricka | 211440 | [211440-archmage-ricka.json](./211440-archmage-ricka.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
+| Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
@@ -684,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
+| Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
@@ -802,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Dream Pack 3 | 168901 | [168901-assetto-corsa-dream-pack-3.json](./168901-assetto-corsa-dream-pack-3.json) |
 | Assetto Corsa: Ferrari 70th Anniversary Pack | 168902 | [168902-assetto-corsa-ferrari-70th-anniversary-pack.json](./168902-assetto-corsa-ferrari-70th-anniversary-pack.json) |
 | Assetto Corsa: Porsche Pack I | 168894 | [168894-assetto-corsa-porsche-pack-i.json](./168894-assetto-corsa-porsche-pack-i.json) |
+| Assetto Corsa: Porsche Pack II | 156162 | [156162-assetto-corsa-porsche-pack-ii.json](./156162-assetto-corsa-porsche-pack-ii.json) |
 | Assetto Corsa: Porsche Pack III | 168895 | [168895-assetto-corsa-porsche-pack-iii.json](./168895-assetto-corsa-porsche-pack-iii.json) |
 | Assetto Corsa: Ready to Race Pack | 168896 | [168896-assetto-corsa-ready-to-race-pack.json](./168896-assetto-corsa-ready-to-race-pack.json) |
 | Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
@@ -897,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automobilista 2: Formula HiTech | 278171 | [278171-automobilista-2-formula-hitech.json](./278171-automobilista-2-formula-hitech.json) |
 | Automobilista 2: Historical Track Pack Pt2 | 278172 | [278172-automobilista-2-historical-track-pack-pt2.json](./278172-automobilista-2-historical-track-pack-pt2.json) |
+| Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
 | Automobilista 2: Spa-Francorchamps | 171084 | [171084-automobilista-2-spa-francorchamps.json](./171084-automobilista-2-spa-francorchamps.json) |
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
@@ -913,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender - The Burning Earth | 210252 | [210252-avatar-the-last-airbender-the-burning-earth.json](./210252-avatar-the-last-airbender-the-burning-earth.json) |
 | Avatar: The Last Airbender - The Burning Earth | 210253 | [210253-avatar-the-last-airbender-the-burning-earth.json](./210253-avatar-the-last-airbender-the-burning-earth.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
+| Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
