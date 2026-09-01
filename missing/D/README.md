@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Delia: The Traveling Witch | 252410 | [252410-delia-the-traveling-witch.json](./252410-delia-the-traveling-witch.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
+| Delicious Fruitworld | 173309 | [173309-delicious-fruitworld.json](./173309-delicious-fruitworld.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
+| Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
@@ -388,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
+| Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
@@ -449,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
+| Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
@@ -512,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
+| Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
@@ -625,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
+| Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
