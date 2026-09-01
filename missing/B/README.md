@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
@@ -218,10 +219,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
+| BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
+| Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
@@ -328,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
+| Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
