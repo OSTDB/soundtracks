@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
+| P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
+| Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
@@ -568,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
+| Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
@@ -790,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
+| Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
