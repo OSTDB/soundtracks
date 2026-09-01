@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
+| Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
+| League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
@@ -450,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
+| Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
