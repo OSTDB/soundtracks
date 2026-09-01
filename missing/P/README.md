@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
+| Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
+| Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
@@ -781,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
