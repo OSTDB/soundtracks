@@ -64,8 +64,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnavody | 277610 | [277610-magnavody.json](./277610-magnavody.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
+| Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
+| Maia | 188641 | [188641-maia.json](./188641-maia.json) |
 | Maid Cafe | 265435 | [265435-maid-cafe.json](./265435-maid-cafe.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
 | Maid in Witch Life!: Yakata de Hajimaru H na Miryou Seikatsu | 194633 | [194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json](./194633-maid-in-witch-life-yakata-de-hajimaru-h-na-miryou-seikatsu.json) |
@@ -256,7 +258,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
+| Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
+| Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
@@ -439,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Sweeper | 252359 | [252359-mine-sweeper.json](./252359-mine-sweeper.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
+| Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
 | Minecraft vs. Zombies 2 | 273112 | [273112-minecraft-vs-zombies-2.json](./273112-minecraft-vs-zombies-2.json) |
 | Minecraft: 10 Years Of Minecraft | 322956 | [322956-minecraft-10-years-of-minecraft.json](./322956-minecraft-10-years-of-minecraft.json) |
@@ -790,12 +795,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
+| My Father My Son | 188684 | [188684-my-father-my-son.json](./188684-my-father-my-son.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
+| My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
+| My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
