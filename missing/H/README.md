@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
+| HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
+| Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
