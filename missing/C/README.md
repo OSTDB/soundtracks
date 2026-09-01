@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
+| Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
@@ -522,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Solitaire | 245538 | [245538-color-fx-solitaire.json](./245538-color-fx-solitaire.json) |
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
+| Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -654,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
+| Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
