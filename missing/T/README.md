@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
+| Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Apothecary's Apprentice | 177571 | [177571-the-apothecarys-apprentice.json](./177571-the-apothecarys-apprentice.json) |
 | The Apple Tree | 208594 | [208594-the-apple-tree.json](./208594-the-apple-tree.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
@@ -319,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
+| The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
@@ -1005,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
+| Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
@@ -1418,12 +1422,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
+| Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
+| Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
