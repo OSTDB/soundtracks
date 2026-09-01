@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
+| Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Knight RPG | 306693 | [306693-idle-knight-rpg.json](./306693-idle-knight-rpg.json) |
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
+| Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
