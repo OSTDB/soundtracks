@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
+| Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
+| Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
@@ -180,6 +182,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
+| Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
+| Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
+| Tennis World Tour 2: Official Tournaments and Stadia Pack | 167300 | [167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json](./167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json) |
+| Tennis World Tour 2: Sofia Kenin & Karolina Pliskova | 167298 | [167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json](./167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json) |
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
@@ -458,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
+| The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
@@ -1317,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
+| Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
