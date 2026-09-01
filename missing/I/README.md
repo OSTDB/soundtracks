@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
+| Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
