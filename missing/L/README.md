@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
+| Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
+| Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
@@ -427,3 +429,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
+| Lyssophobia | 179181 | [179181-lyssophobia.json](./179181-lyssophobia.json) |
