@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
 | Abandoned Nursery | 178084 | [178084-abandoned-nursery.json](./178084-abandoned-nursery.json) |
+| AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Search With Me: Extended Edition | 199109 | [199109-abc-search-with-me-extended-edition.json](./199109-abc-search-with-me-extended-edition.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
+| Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
@@ -374,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
+| Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
@@ -676,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2 | 191229 | [191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json](./191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json) |
@@ -739,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronomics Rise of a New Empire | 244513 | [244513-astronomics-rise-of-a-new-empire.json](./244513-astronomics-rise-of-a-new-empire.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
