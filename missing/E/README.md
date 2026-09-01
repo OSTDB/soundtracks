@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edge of Grief | 254760 | [254760-edge-of-grief.json](./254760-edge-of-grief.json) |
 | Edge Run | 197935 | [197935-edge-run.json](./197935-edge-run.json) |
+| Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
+| Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
@@ -156,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
+| Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
