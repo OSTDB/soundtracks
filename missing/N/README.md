@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
+| Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
