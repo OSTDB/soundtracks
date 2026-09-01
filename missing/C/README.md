@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
+| Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
+| Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Cavescape | 317012 | [317012-cavescape.json](./317012-cavescape.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
@@ -316,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
+| Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
