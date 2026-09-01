@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
+| Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
+| Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
@@ -589,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
+| Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Galaxy | 197943 | [197943-monster-galaxy.json](./197943-monster-galaxy.json) |
@@ -738,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
+| Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
 | Mr. Meat 2: Prison Break | 212496 | [212496-mr-meat-2-prison-break.json](./212496-mr-meat-2-prison-break.json) |
