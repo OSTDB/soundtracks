@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
+| Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
+| Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
@@ -747,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
+| Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Mouse & Variants | 266505 | [266505-dresden-files-cooperative-card-game-mouse-and-variants.json](./266505-dresden-files-cooperative-card-game-mouse-and-variants.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
