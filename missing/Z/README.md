@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
+| Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
