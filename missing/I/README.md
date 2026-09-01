@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
+| Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
