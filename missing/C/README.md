@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
+| Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
