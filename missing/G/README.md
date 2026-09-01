@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
+| Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
 | Genius Quiz 11 | 241643 | [241643-genius-quiz-11.json](./241643-genius-quiz-11.json) |
@@ -200,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
+| Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
@@ -452,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
+| Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
