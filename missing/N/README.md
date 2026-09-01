@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | NPC Adventure: Post-Jam Edition | 308560 | [308560-npc-adventure-post-jam-edition.json](./308560-npc-adventure-post-jam-edition.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
+| Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
