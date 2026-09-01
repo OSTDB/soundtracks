@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
+| Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
@@ -171,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
+| Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
