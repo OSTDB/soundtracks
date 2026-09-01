@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
+| Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
+| Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
