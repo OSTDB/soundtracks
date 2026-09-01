@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
+| Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
@@ -306,7 +307,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
+| Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
+| Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
@@ -411,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: Airbus A380 Family | 168877 | [168877-flywings-2018-flight-simulator-airbus-a380-family.json](./168877-flywings-2018-flight-simulator-airbus-a380-family.json) |
 | FlyWings 2018 Flight Simulator: Amazing Airplanes | 168871 | [168871-flywings-2018-flight-simulator-amazing-airplanes.json](./168871-flywings-2018-flight-simulator-amazing-airplanes.json) |
 | FlyWings 2018 Flight Simulator: Baron G58 | 168881 | [168881-flywings-2018-flight-simulator-baron-g58.json](./168881-flywings-2018-flight-simulator-baron-g58.json) |
+| FlyWings 2018 Flight Simulator: Boeing 747 Family | 156171 | [156171-flywings-2018-flight-simulator-boeing-747-family.json](./156171-flywings-2018-flight-simulator-boeing-747-family.json) |
 | FlyWings 2018 Flight Simulator: Boeing 757 Family | 168873 | [168873-flywings-2018-flight-simulator-boeing-757-family.json](./168873-flywings-2018-flight-simulator-boeing-757-family.json) |
 | FlyWings 2018 Flight Simulator: Boeing 777 Family | 168876 | [168876-flywings-2018-flight-simulator-boeing-777-family.json](./168876-flywings-2018-flight-simulator-boeing-777-family.json) |
 | FlyWings 2018 Flight Simulator: Civilian Helicopters | 168878 | [168878-flywings-2018-flight-simulator-civilian-helicopters.json](./168878-flywings-2018-flight-simulator-civilian-helicopters.json) |
