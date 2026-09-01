@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
+| Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
@@ -73,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
+| Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underfell Neutral Run | 335065 | [335065-underfell-neutral-run.json](./335065-underfell-neutral-run.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
@@ -144,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
+| Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
