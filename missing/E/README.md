@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
+| Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
