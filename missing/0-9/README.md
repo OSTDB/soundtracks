@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
+| 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
+| 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
