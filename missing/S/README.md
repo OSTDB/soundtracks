@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
+| Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
+| Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
+| Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex College | 297214 | [297214-sex-college.json](./297214-sex-college.json) |
@@ -429,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
+| Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
@@ -774,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
+| Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
