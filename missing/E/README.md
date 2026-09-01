@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
 | Emergency Room Simulator | 253606 | [253606-emergency-room-simulator.json](./253606-emergency-room-simulator.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
+| Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
+| Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
