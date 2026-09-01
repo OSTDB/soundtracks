@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
+| Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Assault | 240490 | [240490-masked-shooters-assault.json](./240490-masked-shooters-assault.json) |
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
+| Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
 | Master Detective Archives: Rain Code - Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective | 268772 | [268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json](./268772-master-detective-archives-rain-code-ch-vivia-the-near-death-detective-ch-yakou-thank-you-my-detective.json) |
 | Master Leaf Blower | 317024 | [317024-master-leaf-blower.json](./317024-master-leaf-blower.json) |
@@ -585,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
+| Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
