@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
+| RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
@@ -436,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
+| RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
@@ -599,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
+| Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
@@ -650,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
+| Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
