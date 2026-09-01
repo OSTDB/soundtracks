@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
+| Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
