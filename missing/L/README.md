@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Flan | 243942 | [243942-legacy-of-flan.json](./243942-legacy-of-flan.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
+| Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
 | Locomotive 115 | 322993 | [322993-locomotive-115.json](./322993-locomotive-115.json) |
+| Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
@@ -272,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
+| Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Hero: Deluxe Edition | 248294 | [248294-loop-hero-deluxe-edition.json](./248294-loop-hero-deluxe-edition.json) |
 | Loop Kingdom | 253005 | [253005-loop-kingdom.json](./253005-loop-kingdom.json) |
