@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
+| Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
