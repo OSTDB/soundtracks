@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
+| 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4x4 Offroad Car Exploration | 264899 | [264899-4x4-offroad-car-exploration.json](./264899-4x4-offroad-car-exploration.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4xM | 269841 | [269841-4xm.json](./269841-4xm.json) |
