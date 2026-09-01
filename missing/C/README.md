@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
+| CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
+| Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
