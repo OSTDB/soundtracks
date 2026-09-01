@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
+| Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
@@ -244,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
+| Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
@@ -404,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
+| Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
