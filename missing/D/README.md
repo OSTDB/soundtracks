@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
+| Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deluxe Trivial Pursuit | 265974 | [265974-deluxe-trivial-pursuit.json](./265974-deluxe-trivial-pursuit.json) |
+| Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
@@ -541,8 +543,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
+| Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
+| Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
@@ -638,10 +642,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
+| Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
+| Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
