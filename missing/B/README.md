@@ -70,10 +70,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
+| Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
@@ -323,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
+| Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
