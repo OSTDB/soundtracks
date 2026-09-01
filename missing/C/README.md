@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
+| Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
@@ -119,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
+| Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
@@ -132,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
+| Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
