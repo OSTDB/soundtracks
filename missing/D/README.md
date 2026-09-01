@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
+| Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
+| Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
@@ -301,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
+| Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
