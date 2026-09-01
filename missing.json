@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:17:51.925Z",
-  "total_missing": 15112,
+  "generated_at": "2026-09-01T18:33:03.649Z",
+  "total_missing": 15162,
   "games": [
     {
       "igdb_id": 306086,
@@ -8376,6 +8376,11 @@
       "igdb_id": 197961,
       "game_name": "Bomberman Max: Ain Version",
       "file": "missing/B/197961-bomberman-max-ain-version.json"
+    },
+    {
+      "igdb_id": 162409,
+      "game_name": "Bomberman: Panic Bomber",
+      "file": "missing/B/162409-bomberman-panic-bomber.json"
     },
     {
       "igdb_id": 228712,
@@ -17388,6 +17393,11 @@
       "file": "missing/D/200172-dolphin-hustle.json"
     },
     {
+      "igdb_id": 162412,
+      "game_name": "Dominating the Skies",
+      "file": "missing/D/162412-dominating-the-skies.json"
+    },
+    {
       "igdb_id": 211962,
       "game_name": "Dominay",
       "file": "missing/D/211962-dominay.json"
@@ -21891,6 +21901,11 @@
       "igdb_id": 229956,
       "game_name": "FIFA Soccer 2003",
       "file": "missing/F/229956-fifa-soccer-2003.json"
+    },
+    {
+      "igdb_id": 162414,
+      "game_name": "Fifth Era: Fragments of the Holy Stone",
+      "file": "missing/F/162414-fifth-era-fragments-of-the-holy-stone.json"
     },
     {
       "igdb_id": 234313,
@@ -28198,6 +28213,11 @@
       "file": "missing/H/217513-hells-new-world.json"
     },
     {
+      "igdb_id": 162410,
+      "game_name": "Hellblusser",
+      "file": "missing/H/162410-hellblusser.json"
+    },
+    {
       "igdb_id": 269290,
       "game_name": "Hellen's Gallery",
       "file": "missing/H/269290-hellens-gallery.json"
@@ -32426,6 +32446,11 @@
       "igdb_id": 269866,
       "game_name": "Jolly's Hardcore Mod",
       "file": "missing/J/269866-jollys-hardcore-mod.json"
+    },
+    {
+      "igdb_id": 162408,
+      "game_name": "JollyWorld",
+      "file": "missing/J/162408-jollyworld.json"
     },
     {
       "igdb_id": 273667,
@@ -41551,6 +41576,11 @@
       "igdb_id": 215892,
       "game_name": "My Furry Trainer",
       "file": "missing/M/215892-my-furry-trainer.json"
+    },
+    {
+      "igdb_id": 162411,
+      "game_name": "My Garage",
+      "file": "missing/M/162411-my-garage.json"
     },
     {
       "igdb_id": 188642,
@@ -50976,6 +51006,11 @@
       "igdb_id": 225314,
       "game_name": "Rashomon of Shinjuku",
       "file": "missing/R/225314-rashomon-of-shinjuku.json"
+    },
+    {
+      "igdb_id": 162415,
+      "game_name": "Raster Prime: Remix",
+      "file": "missing/R/162415-raster-prime-remix.json"
     },
     {
       "igdb_id": 341308,
@@ -69323,6 +69358,211 @@
       "file": "missing/T/327582-train-simulator.json"
     },
     {
+      "igdb_id": 162416,
+      "game_name": "Train Simulator 2021: Arizona Divide - Winslow: Williams Route",
+      "file": "missing/T/162416-train-simulator-2021-arizona-divide-winslow-williams-route.json"
+    },
+    {
+      "igdb_id": 162391,
+      "game_name": "Train Simulator 2021: BR Class 170 'Turbostar' DMU",
+      "file": "missing/T/162391-train-simulator-2021-br-class-170-turbostar-dmu.json"
+    },
+    {
+      "igdb_id": 162393,
+      "game_name": "Train Simulator 2021: BR Class 31 Freight Loco",
+      "file": "missing/T/162393-train-simulator-2021-br-class-31-freight-loco.json"
+    },
+    {
+      "igdb_id": 162370,
+      "game_name": "Train Simulator 2021: BR Class 31 Loco",
+      "file": "missing/T/162370-train-simulator-2021-br-class-31-loco.json"
+    },
+    {
+      "igdb_id": 162401,
+      "game_name": "Train Simulator 2021: BR Class 33 Loco",
+      "file": "missing/T/162401-train-simulator-2021-br-class-33-loco.json"
+    },
+    {
+      "igdb_id": 162386,
+      "game_name": "Train Simulator 2021: BR Class 419 MLV BEMU",
+      "file": "missing/T/162386-train-simulator-2021-br-class-419-mlv-bemu.json"
+    },
+    {
+      "igdb_id": 162381,
+      "game_name": "Train Simulator 2021: BR Class 45 'Peak' Loco",
+      "file": "missing/T/162381-train-simulator-2021-br-class-45-peak-loco.json"
+    },
+    {
+      "igdb_id": 162402,
+      "game_name": "Train Simulator 2021: BR Class 52 Loco",
+      "file": "missing/T/162402-train-simulator-2021-br-class-52-loco.json"
+    },
+    {
+      "igdb_id": 162368,
+      "game_name": "Train Simulator 2021: BR Class 87 Loco",
+      "file": "missing/T/162368-train-simulator-2021-br-class-87-loco.json"
+    },
+    {
+      "igdb_id": 162397,
+      "game_name": "Train Simulator 2021: BR Regional Railways Class 101 DMU",
+      "file": "missing/T/162397-train-simulator-2021-br-regional-railways-class-101-dmu.json"
+    },
+    {
+      "igdb_id": 162389,
+      "game_name": "Train Simulator 2021: Class 455 EMU",
+      "file": "missing/T/162389-train-simulator-2021-class-455-emu.json"
+    },
+    {
+      "igdb_id": 162400,
+      "game_name": "Train Simulator 2021: Clear Creek Old Timer Rolling Stock Pack",
+      "file": "missing/T/162400-train-simulator-2021-clear-creek-old-timer-rolling-stock-pack.json"
+    },
+    {
+      "igdb_id": 162378,
+      "game_name": "Train Simulator 2021: CPRR 4-4-0 No. 60 'Jupiter' Steam Loco",
+      "file": "missing/T/162378-train-simulator-2021-cprr-4-4-0-no-60-jupiter-steam-loco.json"
+    },
+    {
+      "igdb_id": 162376,
+      "game_name": "Train Simulator 2021: CSX C30-7 Loco",
+      "file": "missing/T/162376-train-simulator-2021-csx-c30-7-loco.json"
+    },
+    {
+      "igdb_id": 162369,
+      "game_name": "Train Simulator 2021: D&RGW SW1200 Loco",
+      "file": "missing/T/162369-train-simulator-2021-d-and-rgw-sw1200-loco.json"
+    },
+    {
+      "igdb_id": 162396,
+      "game_name": "Train Simulator 2021: DB BR 120 Loco",
+      "file": "missing/T/162396-train-simulator-2021-db-br-120-loco.json"
+    },
+    {
+      "igdb_id": 162384,
+      "game_name": "Train Simulator 2021: DB BR 261 'Voith Gravita' Loco",
+      "file": "missing/T/162384-train-simulator-2021-db-br-261-voith-gravita-loco.json"
+    },
+    {
+      "igdb_id": 162385,
+      "game_name": "Train Simulator 2021: DB BR 442 'Talent 2' EMU",
+      "file": "missing/T/162385-train-simulator-2021-db-br-442-talent-2-emu.json"
+    },
+    {
+      "igdb_id": 162399,
+      "game_name": "Train Simulator 2021: E18 Loco",
+      "file": "missing/T/162399-train-simulator-2021-e18-loco.json"
+    },
+    {
+      "igdb_id": 162380,
+      "game_name": "Train Simulator 2021: East Midlands BR Class 222 DEMU",
+      "file": "missing/T/162380-train-simulator-2021-east-midlands-br-class-222-demu.json"
+    },
+    {
+      "igdb_id": 162379,
+      "game_name": "Train Simulator 2021: Great Northern F7 'Empire Builder' Loco",
+      "file": "missing/T/162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json"
+    },
+    {
+      "igdb_id": 162403,
+      "game_name": "Train Simulator 2021: GWR 1000 Class 'County Class' Steam Loco",
+      "file": "missing/T/162403-train-simulator-2021-gwr-1000-class-county-class-steam-loco.json"
+    },
+    {
+      "igdb_id": 162392,
+      "game_name": "Train Simulator 2021: GWR 7800 'Manor' Class",
+      "file": "missing/T/162392-train-simulator-2021-gwr-7800-manor-class.json"
+    },
+    {
+      "igdb_id": 162388,
+      "game_name": "Train Simulator 2021: LMS Coronation Class \"Duchess of Hamilton\" Loco",
+      "file": "missing/T/162388-train-simulator-2021-lms-coronation-class-duchess-of-hamilton-loco.json"
+    },
+    {
+      "igdb_id": 162398,
+      "game_name": "Train Simulator 2021: LMS Rebuilt Patriot Class Steam Loco",
+      "file": "missing/T/162398-train-simulator-2021-lms-rebuilt-patriot-class-steam-loco.json"
+    },
+    {
+      "igdb_id": 162372,
+      "game_name": "Train Simulator 2021: LMS Stanier Class 8F Steam Loco",
+      "file": "missing/T/162372-train-simulator-2021-lms-stanier-class-8f-steam-loco.json"
+    },
+    {
+      "igdb_id": 162394,
+      "game_name": "Train Simulator 2021: London Overground BR Class 313 EMU",
+      "file": "missing/T/162394-train-simulator-2021-london-overground-br-class-313-emu.json"
+    },
+    {
+      "igdb_id": 162419,
+      "game_name": "Train Simulator 2021: Norfolk Southern GP60 Loco",
+      "file": "missing/T/162419-train-simulator-2021-norfolk-southern-gp60-loco.json"
+    },
+    {
+      "igdb_id": 162383,
+      "game_name": "Train Simulator 2021: Norfolk Southern Heritage SD70ACes Loco",
+      "file": "missing/T/162383-train-simulator-2021-norfolk-southern-heritage-sd70aces-loco.json"
+    },
+    {
+      "igdb_id": 162420,
+      "game_name": "Train Simulator 2021: Norfolk Southern SD45 High Hoods Loco",
+      "file": "missing/T/162420-train-simulator-2021-norfolk-southern-sd45-high-hoods-loco.json"
+    },
+    {
+      "igdb_id": 162387,
+      "game_name": "Train Simulator 2021: North London & Goblin Lines",
+      "file": "missing/T/162387-train-simulator-2021-north-london-and-goblin-lines.json"
+    },
+    {
+      "igdb_id": 162374,
+      "game_name": "Train Simulator 2021: OEBB 1014 Loco",
+      "file": "missing/T/162374-train-simulator-2021-oebb-1014-loco.json"
+    },
+    {
+      "igdb_id": 162375,
+      "game_name": "Train Simulator 2021: OEBB 5047 DMU",
+      "file": "missing/T/162375-train-simulator-2021-oebb-5047-dmu.json"
+    },
+    {
+      "igdb_id": 162373,
+      "game_name": "Train Simulator 2021: PRR Baldwin Centipede Loco",
+      "file": "missing/T/162373-train-simulator-2021-prr-baldwin-centipede-loco.json"
+    },
+    {
+      "igdb_id": 162390,
+      "game_name": "Train Simulator 2021: Return to Maerdy Loco",
+      "file": "missing/T/162390-train-simulator-2021-return-to-maerdy-loco.json"
+    },
+    {
+      "igdb_id": 162371,
+      "game_name": "Train Simulator 2021: Southern Pacific GS-4 Loco",
+      "file": "missing/T/162371-train-simulator-2021-southern-pacific-gs-4-loco.json"
+    },
+    {
+      "igdb_id": 162418,
+      "game_name": "Train Simulator 2021: Southern Pacific SD45 Loco",
+      "file": "missing/T/162418-train-simulator-2021-southern-pacific-sd45-loco.json"
+    },
+    {
+      "igdb_id": 162377,
+      "game_name": "Train Simulator 2021: Southwestern Expressways - Reading: Exeter Route",
+      "file": "missing/T/162377-train-simulator-2021-southwestern-expressways-reading-exeter-route.json"
+    },
+    {
+      "igdb_id": 162417,
+      "game_name": "Train Simulator 2021: Union Pacific Big Boy Steam Loco",
+      "file": "missing/T/162417-train-simulator-2021-union-pacific-big-boy-steam-loco.json"
+    },
+    {
+      "igdb_id": 162382,
+      "game_name": "Train Simulator 2021: Union Pacific No. 119 Steam Loco",
+      "file": "missing/T/162382-train-simulator-2021-union-pacific-no-119-steam-loco.json"
+    },
+    {
+      "igdb_id": 162395,
+      "game_name": "Train Simulator 2021: Western Maryland Railway Retro Pack",
+      "file": "missing/T/162395-train-simulator-2021-western-maryland-railway-retro-pack.json"
+    },
+    {
       "igdb_id": 236543,
       "game_name": "Train Simulator Classic: E60 Electric Locomotive",
       "file": "missing/T/236543-train-simulator-classic-e60-electric-locomotive.json"
@@ -70001,6 +70241,11 @@
       "igdb_id": 265978,
       "game_name": "Trudy's Time and Place House",
       "file": "missing/T/265978-trudys-time-and-place-house.json"
+    },
+    {
+      "igdb_id": 162413,
+      "game_name": "True Visions",
+      "file": "missing/T/162413-true-visions.json"
     },
     {
       "igdb_id": 179164,
@@ -73816,6 +74061,11 @@
       "igdb_id": 208062,
       "game_name": "Wits of Gods",
       "file": "missing/W/208062-wits-of-gods.json"
+    },
+    {
+      "igdb_id": 162406,
+      "game_name": "Wiz",
+      "file": "missing/W/162406-wiz.json"
     },
     {
       "igdb_id": 233782,
