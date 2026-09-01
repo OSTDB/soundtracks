@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
+| Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
@@ -357,9 +358,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
+| Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
+| Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
@@ -599,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
+| Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
