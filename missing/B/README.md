@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
+| Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
@@ -250,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
+| Ben 10: Alien Experience | 196339 | [196339-ben-10-alien-experience.json](./196339-ben-10-alien-experience.json) |
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
@@ -335,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
+| Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
