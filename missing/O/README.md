@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
 | One Night as Freddy | 257673 | [257673-one-night-as-freddy.json](./257673-one-night-as-freddy.json) |
+| One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
+| Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
