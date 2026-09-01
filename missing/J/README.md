@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
+| Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
