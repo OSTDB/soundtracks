@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
+| Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigunner | 207509 | [207509-minigunner.json](./207509-minigunner.json) |
+| Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
 | Minimal Escape | 290694 | [290694-minimal-escape.json](./290694-minimal-escape.json) |
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
