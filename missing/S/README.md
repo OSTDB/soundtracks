@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
+| Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
@@ -1289,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
+| Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
