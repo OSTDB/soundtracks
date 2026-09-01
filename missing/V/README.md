@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
+| Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
