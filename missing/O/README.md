@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
+| Ore no Imouto Maker EX: Imouto to Koi Shiyo? Portable | 197947 | [197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json](./197947-ore-no-imouto-maker-ex-imouto-to-koi-shiyo-portable.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
