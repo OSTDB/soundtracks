@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
+| Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
+| Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
