@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
+| Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
 | Uzzuzzu My Pet: Golf Dash - Amazing Edition | 328811 | [328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json](./328811-uzzuzzu-my-pet-golf-dash-amazing-edition.json) |
 | Uzzuzzu My Pet: Golf Dash - Director's Cut | 328821 | [328821-uzzuzzu-my-pet-golf-dash-directors-cut.json](./328821-uzzuzzu-my-pet-golf-dash-directors-cut.json) |
 | Uzzuzzu My Pet: Golf Dash - GOTY Edition | 328812 | [328812-uzzuzzu-my-pet-golf-dash-goty-edition.json](./328812-uzzuzzu-my-pet-golf-dash-goty-edition.json) |
