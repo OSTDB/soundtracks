@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
+| Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
