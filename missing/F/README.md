@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
+| Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
+| Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
@@ -584,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
+| Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
