@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
+| Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
