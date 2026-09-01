@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
+| Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
+| Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
