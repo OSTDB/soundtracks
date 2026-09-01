@@ -49,6 +49,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
+| Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 11 | 163443 | [163443-pair-matching-puzzle-connect-expansion-pack-11.json](./163443-pair-matching-puzzle-connect-expansion-pack-11.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 12 | 163446 | [163446-pair-matching-puzzle-connect-expansion-pack-12.json](./163446-pair-matching-puzzle-connect-expansion-pack-12.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 2 | 163442 | [163442-pair-matching-puzzle-connect-expansion-pack-2.json](./163442-pair-matching-puzzle-connect-expansion-pack-2.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 3 | 163451 | [163451-pair-matching-puzzle-connect-expansion-pack-3.json](./163451-pair-matching-puzzle-connect-expansion-pack-3.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 4 | 163444 | [163444-pair-matching-puzzle-connect-expansion-pack-4.json](./163444-pair-matching-puzzle-connect-expansion-pack-4.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 5 | 163447 | [163447-pair-matching-puzzle-connect-expansion-pack-5.json](./163447-pair-matching-puzzle-connect-expansion-pack-5.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 6 | 163448 | [163448-pair-matching-puzzle-connect-expansion-pack-6.json](./163448-pair-matching-puzzle-connect-expansion-pack-6.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 7 | 163449 | [163449-pair-matching-puzzle-connect-expansion-pack-7.json](./163449-pair-matching-puzzle-connect-expansion-pack-7.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 8 | 163441 | [163441-pair-matching-puzzle-connect-expansion-pack-8.json](./163441-pair-matching-puzzle-connect-expansion-pack-8.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
@@ -401,8 +412,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
+| Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Korea | 247775 | [247775-pixel-puzzles-traditional-jigsaws-pack-korea.json](./247775-pixel-puzzles-traditional-jigsaws-pack-korea.json) |
 | Pixel Puzzles Traditional Jigsaws Pack: Variety Pack 9 | 260419 | [260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json](./260419-pixel-puzzles-traditional-jigsaws-pack-variety-pack-9.json) |
+| Pixel Puzzles Ultimate: Puzzle Pack 2000 AD | 163416 | [163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json](./163416-pixel-puzzles-ultimate-puzzle-pack-2000-ad.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
@@ -871,8 +884,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
+| Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
+| Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
+| Puzzle: Lines and Knots - Levels Pack 1 | 163436 | [163436-puzzle-lines-and-knots-levels-pack-1.json](./163436-puzzle-lines-and-knots-levels-pack-1.json) |
+| Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
+| Puzzle: Lines and Knots - Levels Pack 3 | 163438 | [163438-puzzle-lines-and-knots-levels-pack-3.json](./163438-puzzle-lines-and-knots-levels-pack-3.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
+| Puzzle: Ultimate - Puzzle Pack: Castles | 163433 | [163433-puzzle-ultimate-puzzle-pack-castles.json](./163433-puzzle-ultimate-puzzle-pack-castles.json) |
+| Puzzle: Ultimate - Puzzle Pack: Dogs | 163432 | [163432-puzzle-ultimate-puzzle-pack-dogs.json](./163432-puzzle-ultimate-puzzle-pack-dogs.json) |
+| Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
+| Puzzle: Ultimate - Puzzle Pack: Space | 163434 | [163434-puzzle-ultimate-puzzle-pack-space.json](./163434-puzzle-ultimate-puzzle-pack-space.json) |
+| Puzzle: Ultimate - Puzzle Pack: Valley | 163431 | [163431-puzzle-ultimate-puzzle-pack-valley.json](./163431-puzzle-ultimate-puzzle-pack-valley.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
