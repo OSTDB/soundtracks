@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
+| Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
 | Tetris | 215386 | [215386-tetris.json](./215386-tetris.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
+| The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
@@ -531,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Complete | 340213 | [340213-the-last-of-us-complete.json](./340213-the-last-of-us-complete.json) |
 | The Last of Us Complete: Collector's Edition | 340226 | [340226-the-last-of-us-complete-collectors-edition.json](./340226-the-last-of-us-complete-collectors-edition.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
+| The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
@@ -626,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
+| The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
@@ -1064,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
 | Tomb of Friends | 249468 | [249468-tomb-of-friends.json](./249468-tomb-of-friends.json) |
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
+| Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
@@ -1205,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
+| Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus: BR Diesel Brake Tenders | 306101 | [306101-trainz-plus-br-diesel-brake-tenders.json](./306101-trainz-plus-br-diesel-brake-tenders.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
@@ -1377,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
+| Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
