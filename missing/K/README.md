@@ -143,6 +143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
+| Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
+| Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
