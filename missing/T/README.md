@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
+| The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
