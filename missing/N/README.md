@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
+| Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
