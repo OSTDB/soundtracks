@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
+| Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
