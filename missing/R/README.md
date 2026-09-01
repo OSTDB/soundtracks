@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
+| Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
@@ -394,6 +395,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
+| Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
+| Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Rock Band 3 | 206953 | [206953-rock-band-3.json](./206953-rock-band-3.json) |
