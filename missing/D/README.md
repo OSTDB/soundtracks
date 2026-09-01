@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
+| Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
@@ -141,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
+| Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
@@ -595,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
+| Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
@@ -663,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
+| Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
@@ -701,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
+| Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
