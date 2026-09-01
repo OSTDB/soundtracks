@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
+| Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Mission | 260415 | [260415-dead-end-mission.json](./260415-dead-end-mission.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
+| Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
@@ -308,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
+| Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Max: Double Clues | 205234 | [205234-detective-max-double-clues.json](./205234-detective-max-double-clues.json) |
@@ -439,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | DMZ Adventure 2 | 331110 | [331110-dmz-adventure-2.json](./331110-dmz-adventure-2.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
+| Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
@@ -553,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
+| Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
@@ -688,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
+| Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
 | Duke Hard | 218118 | [218118-duke-hard.json](./218118-duke-hard.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
