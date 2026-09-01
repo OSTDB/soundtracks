@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
+| A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
@@ -193,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
+| AFK Summoner | 179206 | [179206-afk-summoner.json](./179206-afk-summoner.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After a Long Journey | 188632 | [188632-after-a-long-journey.json](./188632-after-a-long-journey.json) |
 | After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
