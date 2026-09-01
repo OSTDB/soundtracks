@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
+| Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
