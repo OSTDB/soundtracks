@@ -83,6 +83,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
+| Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
+| Zooma:Chapter 3 - "Shadow Valley" | 168374 | [168374-zooma-chapter-3-shadow-valley.json](./168374-zooma-chapter-3-shadow-valley.json) |
+| Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
