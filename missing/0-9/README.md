@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
+| 1v1 Battle | 188080 | [188080-1v1-battle.json](./188080-1v1-battle.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Game Pack I Haunted Hotel 3: Lonely Dream & Haunted Hotel 4: Charles Dexter Ward | 201862 | [201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json](./201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
