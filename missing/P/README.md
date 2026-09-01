@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
+| Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
@@ -163,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
+| Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
@@ -478,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
+| Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
@@ -541,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
+| Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
@@ -656,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
+| Prison Architect: Mobile | 174886 | [174886-prison-architect-mobile.json](./174886-prison-architect-mobile.json) |
 | Prison Architect: Nintendo Switch Edition | 222532 | [222532-prison-architect-nintendo-switch-edition.json](./222532-prison-architect-nintendo-switch-edition.json) |
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
@@ -775,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
+| Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
