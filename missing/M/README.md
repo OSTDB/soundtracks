@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 23: All Madden Edition | 204081 | [204081-madden-nfl-23-all-madden-edition.json](./204081-madden-nfl-23-all-madden-edition.json) |
 | Madden NFL 24: Deluxe Edition | 252388 | [252388-madden-nfl-24-deluxe-edition.json](./252388-madden-nfl-24-deluxe-edition.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
+| Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole: Great Adventure | 333389 | [333389-mole-great-adventure.json](./333389-mole-great-adventure.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
+| Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
@@ -767,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Mummy Madness | 185702 | [185702-mummy-madness.json](./185702-mummy-madness.json) |
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
@@ -785,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
+| Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
