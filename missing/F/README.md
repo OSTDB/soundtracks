@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
+| Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
+| Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
 | FungEye | 291235 | [291235-fungeye.json](./291235-fungeye.json) |
