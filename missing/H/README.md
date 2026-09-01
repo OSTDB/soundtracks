@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
+| Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holiday Holocaust | 273139 | [273139-holiday-holocaust.json](./273139-holiday-holocaust.json) |
+| Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
@@ -476,9 +478,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
+| Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Hordebreak | 238761 | [238761-hordebreak.json](./238761-hordebreak.json) |
+| HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
@@ -557,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
+| Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
