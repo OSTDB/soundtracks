@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
+| Elements | 186872 | [186872-elements.json](./186872-elements.json) |
 | Elements | 271485 | [271485-elements.json](./271485-elements.json) |
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
