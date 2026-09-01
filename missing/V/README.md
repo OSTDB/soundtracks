@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
+| Valfaris: Digital Deluxe Edition | 154523 | [154523-valfaris-digital-deluxe-edition.json](./154523-valfaris-digital-deluxe-edition.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
