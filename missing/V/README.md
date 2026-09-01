@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
+| Violent Witches: the Vindicator | 158188 | [158188-violent-witches-the-vindicator.json](./158188-violent-witches-the-vindicator.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
