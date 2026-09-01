@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
+| Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
+| Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
