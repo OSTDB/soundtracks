@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
+| Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
+| Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
