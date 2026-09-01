@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
+| Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
