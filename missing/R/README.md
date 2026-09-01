@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
+| Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
+| Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
