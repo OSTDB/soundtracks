@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
+| RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
