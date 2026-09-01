@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
+| Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
@@ -677,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
+| Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
@@ -1092,10 +1094,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
+| Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
+| Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
@@ -1337,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
+| Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
