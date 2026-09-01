@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
+| Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witchmore | 241653 | [241653-witchmore.json](./241653-witchmore.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
+| World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
