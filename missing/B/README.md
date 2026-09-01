@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
+| B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
+| Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
