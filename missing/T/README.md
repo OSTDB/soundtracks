@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Bionic Goat | 339099 | [339099-the-game-of-bionic-goat.json](./339099-the-game-of-bionic-goat.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
+| The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Monastery | 304889 | [304889-the-monastery.json](./304889-the-monastery.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
+| The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Moon Ate the Sun | 318192 | [318192-the-moon-ate-the-sun.json](./318192-the-moon-ate-the-sun.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
@@ -798,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Strongest Ancestor | 301614 | [301614-the-strongest-ancestor.json](./301614-the-strongest-ancestor.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
+| The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
@@ -932,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
+| Three Bosses | 174323 | [174323-three-bosses.json](./174323-three-bosses.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
