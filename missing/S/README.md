@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
+| Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
@@ -577,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
+| Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
@@ -830,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
+| South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
@@ -1335,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
+| Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
@@ -1372,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Knuckles | 309080 | [309080-super-monkey-ball-banana-rumble-knuckles.json](./309080-super-monkey-ball-banana-rumble-knuckles.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
+| Super Mumtaz Bros. | 183613 | [183613-super-mumtaz-bros.json](./183613-super-mumtaz-bros.json) |
 | Super Nantucket World | 312875 | [312875-super-nantucket-world.json](./312875-super-nantucket-world.json) |
 | Super Neptunia RPG: Party Member - Artisan | 238174 | [238174-super-neptunia-rpg-party-member-artisan.json](./238174-super-neptunia-rpg-party-member-artisan.json) |
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
