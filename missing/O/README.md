@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
+| Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
+| One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
@@ -161,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
+| Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
