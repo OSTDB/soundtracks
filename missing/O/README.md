@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
 | One More Dream | 216981 | [216981-one-more-dream.json](./216981-one-more-dream.json) |
+| One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One more time... From the Top! | 178661 | [178661-one-more-time-from-the-top.json](./178661-one-more-time-from-the-top.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3 | 294429 | [294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json](./294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json) |
+| One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
@@ -267,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
+| Origame | 152916 | [152916-origame.json](./152916-origame.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
