@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
+| Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
+| Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
