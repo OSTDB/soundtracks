@@ -300,6 +300,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
+| Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
+| Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
