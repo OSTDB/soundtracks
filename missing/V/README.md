@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
+| Village Cricket | 175401 | [175401-village-cricket.json](./175401-village-cricket.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
