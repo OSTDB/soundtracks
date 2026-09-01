@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
+| Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
 | Kill The Monster Z | 189165 | [189165-kill-the-monster-z.json](./189165-kill-the-monster-z.json) |
 | Kill The Music | 321169 | [321169-kill-the-music.json](./321169-kill-the-music.json) |
