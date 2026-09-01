@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
+| A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser III | 210277 | [210277-autobahn-raser-iii.json](./210277-autobahn-raser-iii.json) |
 | Autobahn Raser IV | 210278 | [210278-autobahn-raser-iv.json](./210278-autobahn-raser-iv.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
+| AutoDemo Levels in SADX | 198544 | [198544-autodemo-levels-in-sadx.json](./198544-autodemo-levels-in-sadx.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
