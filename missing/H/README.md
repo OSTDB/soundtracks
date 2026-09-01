@@ -284,6 +284,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
+| Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
+| Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
+| Heroes & Generals: SU Soldier Pack - Light Tanker | 161909 | [161909-heroes-and-generals-su-soldier-pack-light-tanker.json](./161909-heroes-and-generals-su-soldier-pack-light-tanker.json) |
+| Heroes & Generals: US Giga Pack | 161912 | [161912-heroes-and-generals-us-giga-pack.json](./161912-heroes-and-generals-us-giga-pack.json) |
+| Heroes & Generals: US Soldier Pack - Heavy Tanker | 161907 | [161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json](./161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: US Soldier Pack - Light Tanker | 161908 | [161908-heroes-and-generals-us-soldier-pack-light-tanker.json](./161908-heroes-and-generals-us-soldier-pack-light-tanker.json) |
+| Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
