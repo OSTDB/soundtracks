@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
+| How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
