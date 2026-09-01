@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:18:32.907Z",
-  "total_missing": 14312,
+  "generated_at": "2026-09-01T14:33:11.074Z",
+  "total_missing": 14362,
   "games": [
     {
       "igdb_id": 306086,
@@ -36,6 +36,11 @@
       "igdb_id": 316429,
       "game_name": "0927",
       "file": "missing/0-9/316429-0927.json"
+    },
+    {
+      "igdb_id": 171045,
+      "game_name": "1 Hop",
+      "file": "missing/0-9/171045-1-hop.json"
     },
     {
       "igdb_id": 327613,
@@ -3543,6 +3548,11 @@
       "file": "missing/A/210250-ant-nation.json"
     },
     {
+      "igdb_id": 171046,
+      "game_name": "Ant Simulator",
+      "file": "missing/A/171046-ant-simulator.json"
+    },
+    {
       "igdb_id": 268731,
       "game_name": "Anthology of the Killer",
       "file": "missing/A/268731-anthology-of-the-killer.json"
@@ -3676,6 +3686,16 @@
       "igdb_id": 263219,
       "game_name": "AploVVare Collection",
       "file": "missing/A/263219-aplovvare-collection.json"
+    },
+    {
+      "igdb_id": 171089,
+      "game_name": "Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror!",
+      "file": "missing/A/171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json"
+    },
+    {
+      "igdb_id": 171088,
+      "game_name": "Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line!",
+      "file": "missing/A/171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json"
     },
     {
       "igdb_id": 189189,
@@ -4898,6 +4918,11 @@
       "file": "missing/A/231612-attack-on-reality.json"
     },
     {
+      "igdb_id": 171077,
+      "game_name": "Attack: Helicopter Simulator 2020",
+      "file": "missing/A/171077-attack-helicopter-simulator-2020.json"
+    },
+    {
       "igdb_id": 241048,
       "game_name": "Attorney of the Arcane",
       "file": "missing/A/241048-attorney-of-the-arcane.json"
@@ -5011,6 +5036,31 @@
       "igdb_id": 227517,
       "game_name": "Automobilista 2: Racin' USA Pack Pt3",
       "file": "missing/A/227517-automobilista-2-racin-usa-pack-pt3.json"
+    },
+    {
+      "igdb_id": 171084,
+      "game_name": "Automobilista 2: Spa-Francorchamps",
+      "file": "missing/A/171084-automobilista-2-spa-francorchamps.json"
+    },
+    {
+      "igdb_id": 171086,
+      "game_name": "Automobilista: Brazilian Touring Car Classics",
+      "file": "missing/A/171086-automobilista-brazilian-touring-car-classics.json"
+    },
+    {
+      "igdb_id": 171082,
+      "game_name": "Automobilista: Donington Park",
+      "file": "missing/A/171082-automobilista-donington-park.json"
+    },
+    {
+      "igdb_id": 171085,
+      "game_name": "Automobilista: Formula Truck",
+      "file": "missing/A/171085-automobilista-formula-truck.json"
+    },
+    {
+      "igdb_id": 171087,
+      "game_name": "Automobilista: Snetterton",
+      "file": "missing/A/171087-automobilista-snetterton.json"
     },
     {
       "igdb_id": 197392,
@@ -13293,6 +13343,36 @@
       "file": "missing/C/245018-crows-coming.json"
     },
     {
+      "igdb_id": 171062,
+      "game_name": "CRSED: F.O.A.D. - Age of Nagual",
+      "file": "missing/C/171062-crsed-f-o-a-d-age-of-nagual.json"
+    },
+    {
+      "igdb_id": 171057,
+      "game_name": "CRSED: F.O.A.D. - Biker Queen",
+      "file": "missing/C/171057-crsed-f-o-a-d-biker-queen.json"
+    },
+    {
+      "igdb_id": 171059,
+      "game_name": "CRSED: F.O.A.D. - Holy Beast",
+      "file": "missing/C/171059-crsed-f-o-a-d-holy-beast.json"
+    },
+    {
+      "igdb_id": 171061,
+      "game_name": "CRSED: F.O.A.D. - Lone Wolf",
+      "file": "missing/C/171061-crsed-f-o-a-d-lone-wolf.json"
+    },
+    {
+      "igdb_id": 171058,
+      "game_name": "CRSED: F.O.A.D. - Metal Zombie",
+      "file": "missing/C/171058-crsed-f-o-a-d-metal-zombie.json"
+    },
+    {
+      "igdb_id": 171060,
+      "game_name": "CRSED: F.O.A.D. - Street Kid",
+      "file": "missing/C/171060-crsed-f-o-a-d-street-kid.json"
+    },
+    {
       "igdb_id": 260959,
       "game_name": "Crucified Dreams",
       "file": "missing/C/260959-crucified-dreams.json"
@@ -13996,6 +14076,11 @@
       "igdb_id": 262062,
       "game_name": "Damn Little Town",
       "file": "missing/D/262062-damn-little-town.json"
+    },
+    {
+      "igdb_id": 171069,
+      "game_name": "Damned Hand: Arcade Mode",
+      "file": "missing/D/171069-damned-hand-arcade-mode.json"
     },
     {
       "igdb_id": 210279,
@@ -16411,6 +16496,11 @@
       "igdb_id": 229972,
       "game_name": "Dolce",
       "file": "missing/D/229972-dolce.json"
+    },
+    {
+      "igdb_id": 171055,
+      "game_name": "Dollar Dash: More Ways to Win",
+      "file": "missing/D/171055-dollar-dash-more-ways-to-win.json"
     },
     {
       "igdb_id": 263216,
@@ -20603,6 +20693,11 @@
       "file": "missing/F/219295-femboy-bangers-2.json"
     },
     {
+      "igdb_id": 171068,
+      "game_name": "Femboys of the Phalanx",
+      "file": "missing/F/171068-femboys-of-the-phalanx.json"
+    },
+    {
       "igdb_id": 185683,
       "game_name": "Feminize Me!",
       "file": "missing/F/185683-feminize-me.json"
@@ -22911,6 +23006,26 @@
       "igdb_id": 254146,
       "game_name": "Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea",
       "file": "missing/F/254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json"
+    },
+    {
+      "igdb_id": 171044,
+      "game_name": "Furries & Scalies & Bears OH MY!: Charity Bonus",
+      "file": "missing/F/171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json"
+    },
+    {
+      "igdb_id": 171043,
+      "game_name": "Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire",
+      "file": "missing/F/171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json"
+    },
+    {
+      "igdb_id": 171042,
+      "game_name": "Furries & Scalies & Bears OH MY!: Halloween Harvest Festival",
+      "file": "missing/F/171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json"
+    },
+    {
+      "igdb_id": 171041,
+      "game_name": "Furries & Scalies & Bears OH MY!: The Bear",
+      "file": "missing/F/171041-furries-and-scalies-and-bears-oh-my-the-bear.json"
     },
     {
       "igdb_id": 291775,
@@ -27568,6 +27683,16 @@
       "file": "missing/H/244996-hlina.json"
     },
     {
+      "igdb_id": 171075,
+      "game_name": "Hoard: Dynamite Roll!",
+      "file": "missing/H/171075-hoard-dynamite-roll.json"
+    },
+    {
+      "igdb_id": 171076,
+      "game_name": "Hoard: Flame-Broiled Sandwich",
+      "file": "missing/H/171076-hoard-flame-broiled-sandwich.json"
+    },
+    {
       "igdb_id": 255965,
       "game_name": "Hoboman",
       "file": "missing/H/255965-hoboman.json"
@@ -27973,6 +28098,11 @@
       "file": "missing/H/224222-hot-milf-9.json"
     },
     {
+      "igdb_id": 171065,
+      "game_name": "Hot Spring Hero",
+      "file": "missing/H/171065-hot-spring-hero.json"
+    },
+    {
       "igdb_id": 180274,
       "game_name": "Hot Springs Story 2",
       "file": "missing/H/180274-hot-springs-story-2.json"
@@ -28286,6 +28416,11 @@
       "igdb_id": 296650,
       "game_name": "Hunter Beat",
       "file": "missing/H/296650-hunter-beat.json"
+    },
+    {
+      "igdb_id": 171067,
+      "game_name": "Hunter X: Begin",
+      "file": "missing/H/171067-hunter-x-begin.json"
     },
     {
       "igdb_id": 220830,
@@ -32626,6 +32761,11 @@
       "igdb_id": 260387,
       "game_name": "Labyrinth",
       "file": "missing/L/260387-labyrinth.json"
+    },
+    {
+      "igdb_id": 171066,
+      "game_name": "Labyrinth 3",
+      "file": "missing/L/171066-labyrinth-3.json"
     },
     {
       "igdb_id": 217538,
@@ -42298,6 +42438,36 @@
       "file": "missing/O/252387-one-piece-odyssey-reunion-of-memories.json"
     },
     {
+      "igdb_id": 171053,
+      "game_name": "One Piece: Burning Blood - Character Pack",
+      "file": "missing/O/171053-one-piece-burning-blood-character-pack.json"
+    },
+    {
+      "igdb_id": 171051,
+      "game_name": "One Piece: Burning Blood - Platinum Luffy",
+      "file": "missing/O/171051-one-piece-burning-blood-platinum-luffy.json"
+    },
+    {
+      "igdb_id": 171048,
+      "game_name": "One Piece: Burning Blood - Wanted",
+      "file": "missing/O/171048-one-piece-burning-blood-wanted.json"
+    },
+    {
+      "igdb_id": 171050,
+      "game_name": "One Piece: Burning Blood - Wanted 2",
+      "file": "missing/O/171050-one-piece-burning-blood-wanted-2.json"
+    },
+    {
+      "igdb_id": 171049,
+      "game_name": "One Piece: Pirate Warriors 3 - DLC Pack 1",
+      "file": "missing/O/171049-one-piece-pirate-warriors-3-dlc-pack-1.json"
+    },
+    {
+      "igdb_id": 171052,
+      "game_name": "One Piece: Pirate Warriors 3 - DLC Pack 2",
+      "file": "missing/O/171052-one-piece-pirate-warriors-3-dlc-pack-2.json"
+    },
+    {
       "igdb_id": 294429,
       "game_name": "One Piece: Pirate Warriors 4 - Path to the King of the Pirates & Soul Map 3",
       "file": "missing/O/294429-one-piece-pirate-warriors-4-path-to-the-king-of-the-pirates-and-soul-map-3.json"
@@ -42591,6 +42761,11 @@
       "igdb_id": 219266,
       "game_name": "Orc Invasion Tower",
       "file": "missing/O/219266-orc-invasion-tower.json"
+    },
+    {
+      "igdb_id": 171073,
+      "game_name": "Order of Battle: World War II - Allies Resurgent",
+      "file": "missing/O/171073-order-of-battle-world-war-ii-allies-resurgent.json"
     },
     {
       "igdb_id": 219793,
@@ -44178,6 +44353,11 @@
       "file": "missing/P/181369-people-manipulation-sim.json"
     },
     {
+      "igdb_id": 171047,
+      "game_name": "Pepo",
+      "file": "missing/P/171047-pepo.json"
+    },
+    {
       "igdb_id": 297771,
       "game_name": "Peppa Pig: Laptop Infantil",
       "file": "missing/P/297771-peppa-pig-laptop-infantil.json"
@@ -44506,6 +44686,11 @@
       "igdb_id": 250618,
       "game_name": "Phantom Blade 0",
       "file": "missing/P/250618-phantom-blade-0.json"
+    },
+    {
+      "igdb_id": 171081,
+      "game_name": "Phantom Doctrine: Halloween Scare Tactics",
+      "file": "missing/P/171081-phantom-doctrine-halloween-scare-tactics.json"
     },
     {
       "igdb_id": 333962,
@@ -47186,6 +47371,16 @@
       "igdb_id": 196341,
       "game_name": "Punchmasters",
       "file": "missing/P/196341-punchmasters.json"
+    },
+    {
+      "igdb_id": 171080,
+      "game_name": "Punishment Darkness Online: Centre Ville",
+      "file": "missing/P/171080-punishment-darkness-online-centre-ville.json"
+    },
+    {
+      "igdb_id": 171079,
+      "game_name": "Punishment Darkness Online: Grand Moun",
+      "file": "missing/P/171079-punishment-darkness-online-grand-moun.json"
     },
     {
       "igdb_id": 192962,
@@ -50318,6 +50513,11 @@
       "file": "missing/R/188668-roll-ball-adventures.json"
     },
     {
+      "igdb_id": 171091,
+      "game_name": "Roll For Confidence",
+      "file": "missing/R/171091-roll-for-confidence.json"
+    },
+    {
       "igdb_id": 251850,
       "game_name": "Roll the Dark Heart",
       "file": "missing/R/251850-roll-the-dark-heart.json"
@@ -50406,6 +50606,11 @@
       "igdb_id": 209717,
       "game_name": "Romino's Adventure",
       "file": "missing/R/209717-rominos-adventure.json"
+    },
+    {
+      "igdb_id": 171078,
+      "game_name": "Rompe!",
+      "file": "missing/R/171078-rompe.json"
     },
     {
       "igdb_id": 263758,
@@ -51723,6 +51928,16 @@
       "file": "missing/S/193464-scorpion-overdrive.json"
     },
     {
+      "igdb_id": 171039,
+      "game_name": "Scourge of War: Waterloo - Quatre Bras",
+      "file": "missing/S/171039-scourge-of-war-waterloo-quatre-bras.json"
+    },
+    {
+      "igdb_id": 171040,
+      "game_name": "Scourge of War: Waterloo - Wavre",
+      "file": "missing/S/171040-scourge-of-war-waterloo-wavre.json"
+    },
+    {
       "igdb_id": 188680,
       "game_name": "SCP Observer",
       "file": "missing/S/188680-scp-observer.json"
@@ -52421,6 +52636,11 @@
       "igdb_id": 197415,
       "game_name": "SGS Pacific D-Day",
       "file": "missing/S/197415-sgs-pacific-d-day.json"
+    },
+    {
+      "igdb_id": 171056,
+      "game_name": "Shade",
+      "file": "missing/S/171056-shade.json"
     },
     {
       "igdb_id": 291225,
@@ -55678,6 +55898,11 @@
       "file": "missing/S/290709-space-show-edition-17.json"
     },
     {
+      "igdb_id": 171074,
+      "game_name": "Space Smack!",
+      "file": "missing/S/171074-space-smack.json"
+    },
+    {
       "igdb_id": 300420,
       "game_name": "Space Station Proto Speedmap Jam",
       "file": "missing/S/300420-space-station-proto-speedmap-jam.json"
@@ -58786,6 +59011,11 @@
       "igdb_id": 316418,
       "game_name": "Surreal Farm",
       "file": "missing/S/316418-surreal-farm.json"
+    },
+    {
+      "igdb_id": 171054,
+      "game_name": "Survarium: Vepr 'Molot'",
+      "file": "missing/S/171054-survarium-vepr-molot.json"
     },
     {
       "igdb_id": 267684,
@@ -64053,6 +64283,11 @@
       "file": "missing/T/195214-tic-tac-tanks.json"
     },
     {
+      "igdb_id": 171063,
+      "game_name": "Tic-Toc-Tower: Teslagrad",
+      "file": "missing/T/171063-tic-toc-tower-teslagrad.json"
+    },
+    {
       "igdb_id": 332243,
       "game_name": "TIC's Revenge",
       "file": "missing/T/332243-tics-revenge.json"
@@ -64986,6 +65221,11 @@
       "igdb_id": 332803,
       "game_name": "Tomodachii",
       "file": "missing/T/332803-tomodachii.json"
+    },
+    {
+      "igdb_id": 171070,
+      "game_name": "Tomorrow",
+      "file": "missing/T/171070-tomorrow.json"
     },
     {
       "igdb_id": 188628,
@@ -67276,6 +67516,11 @@
       "igdb_id": 220297,
       "game_name": "Universal Slot Street",
       "file": "missing/U/220297-universal-slot-street.json"
+    },
+    {
+      "igdb_id": 171072,
+      "game_name": "Universe 25: The Loop",
+      "file": "missing/U/171072-universe-25-the-loop.json"
     },
     {
       "igdb_id": 318789,
@@ -69736,6 +69981,11 @@
       "igdb_id": 267095,
       "game_name": "Wildlands Resurgence",
       "file": "missing/W/267095-wildlands-resurgence.json"
+    },
+    {
+      "igdb_id": 171071,
+      "game_name": "Wildlife Park 3: Dino Invasion",
+      "file": "missing/W/171071-wildlife-park-3-dino-invasion.json"
     },
     {
       "igdb_id": 217539,
