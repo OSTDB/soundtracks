@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
 | Fortune Cookie | 340238 | [340238-fortune-cookie.json](./340238-fortune-cookie.json) |
@@ -607,6 +608,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
+| Frontiers.io: Expansion Pack 1 | 167309 | [167309-frontiers-io-expansion-pack-1.json](./167309-frontiers-io-expansion-pack-1.json) |
+| Frontiers.io: Expansion Pack 2 | 167310 | [167310-frontiers-io-expansion-pack-2.json](./167310-frontiers-io-expansion-pack-2.json) |
+| Frontiers.io: Expansion Pack 3 | 167311 | [167311-frontiers-io-expansion-pack-3.json](./167311-frontiers-io-expansion-pack-3.json) |
+| Frontiers.io: Expansion Pack 4 | 167312 | [167312-frontiers-io-expansion-pack-4.json](./167312-frontiers-io-expansion-pack-4.json) |
+| Frontiers.io: Expansion Pack 5 | 167313 | [167313-frontiers-io-expansion-pack-5.json](./167313-frontiers-io-expansion-pack-5.json) |
+| Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
