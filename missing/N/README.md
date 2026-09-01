@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
+| Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
