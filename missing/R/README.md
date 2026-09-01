@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reaper's Isle | 255968 | [255968-reapers-isle.json](./255968-reapers-isle.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
+| RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
@@ -635,3 +636,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
+| Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
