@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
+| Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
