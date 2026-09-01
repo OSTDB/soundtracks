@@ -388,6 +388,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
+| FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
+| FlyWings 2018 Flight Simulator: Air Race Family | 168884 | [168884-flywings-2018-flight-simulator-air-race-family.json](./168884-flywings-2018-flight-simulator-air-race-family.json) |
+| FlyWings 2018 Flight Simulator: Airbus A320 Family | 168882 | [168882-flywings-2018-flight-simulator-airbus-a320-family.json](./168882-flywings-2018-flight-simulator-airbus-a320-family.json) |
+| FlyWings 2018 Flight Simulator: Airbus A380 Family | 168877 | [168877-flywings-2018-flight-simulator-airbus-a380-family.json](./168877-flywings-2018-flight-simulator-airbus-a380-family.json) |
+| FlyWings 2018 Flight Simulator: Amazing Airplanes | 168871 | [168871-flywings-2018-flight-simulator-amazing-airplanes.json](./168871-flywings-2018-flight-simulator-amazing-airplanes.json) |
+| FlyWings 2018 Flight Simulator: Baron G58 | 168881 | [168881-flywings-2018-flight-simulator-baron-g58.json](./168881-flywings-2018-flight-simulator-baron-g58.json) |
+| FlyWings 2018 Flight Simulator: Boeing 757 Family | 168873 | [168873-flywings-2018-flight-simulator-boeing-757-family.json](./168873-flywings-2018-flight-simulator-boeing-757-family.json) |
+| FlyWings 2018 Flight Simulator: Boeing 777 Family | 168876 | [168876-flywings-2018-flight-simulator-boeing-777-family.json](./168876-flywings-2018-flight-simulator-boeing-777-family.json) |
+| FlyWings 2018 Flight Simulator: Civilian Helicopters | 168878 | [168878-flywings-2018-flight-simulator-civilian-helicopters.json](./168878-flywings-2018-flight-simulator-civilian-helicopters.json) |
+| FlyWings 2018 Flight Simulator: Drones | 168872 | [168872-flywings-2018-flight-simulator-drones.json](./168872-flywings-2018-flight-simulator-drones.json) |
+| FlyWings 2018 Flight Simulator: Embraer 170 Family | 168874 | [168874-flywings-2018-flight-simulator-embraer-170-family.json](./168874-flywings-2018-flight-simulator-embraer-170-family.json) |
+| FlyWings 2018 Flight Simulator: Embraer 190 Family | 168875 | [168875-flywings-2018-flight-simulator-embraer-190-family.json](./168875-flywings-2018-flight-simulator-embraer-190-family.json) |
+| FlyWings 2018 Flight Simulator: Military Helicopters | 168880 | [168880-flywings-2018-flight-simulator-military-helicopters.json](./168880-flywings-2018-flight-simulator-military-helicopters.json) |
+| FlyWings 2018 Flight Simulator: World War I Fighters | 168879 | [168879-flywings-2018-flight-simulator-world-war-i-fighters.json](./168879-flywings-2018-flight-simulator-world-war-i-fighters.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
