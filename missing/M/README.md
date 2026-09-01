@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Garden | 261528 | [261528-my-little-garden.json](./261528-my-little-garden.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
