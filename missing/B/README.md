@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
+| Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
+| Blacksea Odyssey: Limited Edition | 166202 | [166202-blacksea-odyssey-limited-edition.json](./166202-blacksea-odyssey-limited-edition.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -495,6 +497,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
+| Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
+| Bloody Walls: Hardcore x2 | 166223 | [166223-bloody-walls-hardcore-x2.json](./166223-bloody-walls-hardcore-x2.json) |
+| Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
@@ -678,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
+| Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
