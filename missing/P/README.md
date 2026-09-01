@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 292841 | [292841-parallax.json](./292841-parallax.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
+| Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
