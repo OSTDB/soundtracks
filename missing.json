@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T21:33:24.240Z",
-  "total_missing": 15762,
+  "generated_at": "2026-09-01T22:18:05.738Z",
+  "total_missing": 15862,
   "games": [
     {
       "igdb_id": 306086,
@@ -561,6 +561,11 @@
       "igdb_id": 301007,
       "game_name": "2D Indie Bundle",
       "file": "missing/0-9/301007-2d-indie-bundle.json"
+    },
+    {
+      "igdb_id": 155095,
+      "game_name": "2K Ball N' Brawl",
+      "file": "missing/0-9/155095-2k-ball-n-brawl.json"
     },
     {
       "igdb_id": 199087,
@@ -2898,6 +2903,11 @@
       "file": "missing/A/301010-all-elite-wrestling-fight-forever-world-war-joe.json"
     },
     {
+      "igdb_id": 155662,
+      "game_name": "All For Nought: Tic Tac Toe",
+      "file": "missing/A/155662-all-for-nought-tic-tac-toe.json"
+    },
+    {
       "igdb_id": 321770,
       "game_name": "All Grown Up Krazy Karts",
       "file": "missing/A/321770-all-grown-up-krazy-karts.json"
@@ -3261,6 +3271,21 @@
       "igdb_id": 316402,
       "game_name": "Among Us VR: Limited Time Pack - DUM Duo",
       "file": "missing/A/316402-among-us-vr-limited-time-pack-dum-duo.json"
+    },
+    {
+      "igdb_id": 155093,
+      "game_name": "Among Us: Crewmate Edition",
+      "file": "missing/A/155093-among-us-crewmate-edition.json"
+    },
+    {
+      "igdb_id": 155092,
+      "game_name": "Among Us: Ejected Edition",
+      "file": "missing/A/155092-among-us-ejected-edition.json"
+    },
+    {
+      "igdb_id": 155094,
+      "game_name": "Among Us: Impostor Edition",
+      "file": "missing/A/155094-among-us-impostor-edition.json"
     },
     {
       "igdb_id": 188678,
@@ -3831,6 +3856,11 @@
       "igdb_id": 156662,
       "game_name": "Another Warfare",
       "file": "missing/A/156662-another-warfare.json"
+    },
+    {
+      "igdb_id": 155090,
+      "game_name": "Anstoss 2: Gold Edition",
+      "file": "missing/A/155090-anstoss-2-gold-edition.json"
     },
     {
       "igdb_id": 260408,
@@ -10508,6 +10538,11 @@
       "file": "missing/C/219301-car-mechanic-pinball.json"
     },
     {
+      "igdb_id": 155107,
+      "game_name": "Car Physics Simulator: Trucks + Missions DLC",
+      "file": "missing/C/155107-car-physics-simulator-trucks-missions-dlc.json"
+    },
+    {
       "igdb_id": 323503,
       "game_name": "Car Wash",
       "file": "missing/C/323503-car-wash.json"
@@ -17063,6 +17098,11 @@
       "file": "missing/D/278736-diabetor-and-the-sugar-monsters.json"
     },
     {
+      "igdb_id": 155099,
+      "game_name": "Diablo II: Resurrected - Prime Evil Collection",
+      "file": "missing/D/155099-diablo-ii-resurrected-prime-evil-collection.json"
+    },
+    {
       "igdb_id": 305496,
       "game_name": "Diablo IV: Vessel of Hatred - Expansion Bundle",
       "file": "missing/D/305496-diablo-iv-vessel-of-hatred-expansion-bundle.json"
@@ -18706,6 +18746,11 @@
       "igdb_id": 251821,
       "game_name": "Dragot",
       "file": "missing/D/251821-dragot.json"
+    },
+    {
+      "igdb_id": 155648,
+      "game_name": "Dragu's Puzzle Adventure",
+      "file": "missing/D/155648-dragus-puzzle-adventure.json"
     },
     {
       "igdb_id": 210885,
@@ -20363,6 +20408,11 @@
       "file": "missing/E/232687-emoteguesser.json"
     },
     {
+      "igdb_id": 155661,
+      "game_name": "Emperium",
+      "file": "missing/E/155661-emperium.json"
+    },
+    {
       "igdb_id": 163985,
       "game_name": "Empire Chronicles",
       "file": "missing/E/163985-empire-chronicles.json"
@@ -21768,6 +21818,11 @@
       "file": "missing/F/295560-fairytale-furnishing.json"
     },
     {
+      "igdb_id": 155649,
+      "game_name": "Fairytale Mosaics: Cinderella 2",
+      "file": "missing/F/155649-fairytale-mosaics-cinderella-2.json"
+    },
+    {
       "igdb_id": 209694,
       "game_name": "Faith & Shield: Tower Defense - Space Wars Game 2022",
       "file": "missing/F/209694-faith-and-shield-tower-defense-space-wars-game-2022.json"
@@ -22576,6 +22631,16 @@
       "igdb_id": 237667,
       "game_name": "Fierce Allies",
       "file": "missing/F/237667-fierce-allies.json"
+    },
+    {
+      "igdb_id": 155102,
+      "game_name": "FIFA 22: Legacy Edition",
+      "file": "missing/F/155102-fifa-22-legacy-edition.json"
+    },
+    {
+      "igdb_id": 155101,
+      "game_name": "FIFA 22: Ultimate Edition",
+      "file": "missing/F/155101-fifa-22-ultimate-edition.json"
     },
     {
       "igdb_id": 229956,
@@ -26943,6 +27008,11 @@
       "file": "missing/G/266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json"
     },
     {
+      "igdb_id": 155651,
+      "game_name": "Good puzzle",
+      "file": "missing/G/155651-good-puzzle.json"
+    },
+    {
       "igdb_id": 161364,
       "game_name": "Good puzzle: Castles",
       "file": "missing/G/161364-good-puzzle-castles.json"
@@ -28221,6 +28291,11 @@
       "igdb_id": 274764,
       "game_name": "Halloween Online Horror Night",
       "file": "missing/H/274764-halloween-online-horror-night.json"
+    },
+    {
+      "igdb_id": 155647,
+      "game_name": "Halloween Trouble 2",
+      "file": "missing/H/155647-halloween-trouble-2.json"
     },
     {
       "igdb_id": 294436,
@@ -31151,6 +31226,11 @@
       "igdb_id": 291780,
       "game_name": "I Know This Place..?: Chapter II",
       "file": "missing/I/291780-i-know-this-place-chapter-ii.json"
+    },
+    {
+      "igdb_id": 155653,
+      "game_name": "I Lost My Luggage",
+      "file": "missing/I/155653-i-lost-my-luggage.json"
     },
     {
       "igdb_id": 236500,
@@ -34643,6 +34723,11 @@
       "file": "missing/K/174324-king-of-the-mountain-premium.json"
     },
     {
+      "igdb_id": 155100,
+      "game_name": "King's Bounty II: Lord's Edition",
+      "file": "missing/K/155100-kings-bounty-ii-lords-edition.json"
+    },
+    {
       "igdb_id": 186308,
       "game_name": "King's Choice",
       "file": "missing/K/186308-kings-choice.json"
@@ -36618,6 +36703,11 @@
       "file": "missing/L/300989-lights-out.json"
     },
     {
+      "igdb_id": 155657,
+      "game_name": "LightWave",
+      "file": "missing/L/155657-lightwave.json"
+    },
+    {
       "igdb_id": 212495,
       "game_name": "Like A Dino!",
       "file": "missing/L/212495-like-a-dino.json"
@@ -38091,6 +38181,11 @@
       "igdb_id": 241639,
       "game_name": "Mad Skills Motocross 3",
       "file": "missing/M/241639-mad-skills-motocross-3.json"
+    },
+    {
+      "igdb_id": 155098,
+      "game_name": "Madden NFL 22: Dynasty Edition",
+      "file": "missing/M/155098-madden-nfl-22-dynasty-edition.json"
     },
     {
       "igdb_id": 204081,
@@ -40736,6 +40831,11 @@
       "igdb_id": 267645,
       "game_name": "Mimizu Panzer",
       "file": "missing/M/267645-mimizu-panzer.json"
+    },
+    {
+      "igdb_id": 155123,
+      "game_name": "Minable & Create",
+      "file": "missing/M/155123-minable-and-create.json"
     },
     {
       "igdb_id": 267647,
@@ -46078,14 +46178,94 @@
       "file": "missing/O/259826-omoshiroi-moro.json"
     },
     {
+      "igdb_id": 155135,
+      "game_name": "OMSI 2: Aachen",
+      "file": "missing/O/155135-omsi-2-aachen.json"
+    },
+    {
       "igdb_id": 306070,
       "game_name": "OMSI 2: Add-on Zürich Tram Linie 11",
       "file": "missing/O/306070-omsi-2-add-on-zurich-tram-linie-11.json"
     },
     {
+      "igdb_id": 155130,
+      "game_name": "OMSI 2: Bad Hügelsdorf 2020",
+      "file": "missing/O/155130-omsi-2-bad-hugelsdorf-2020.json"
+    },
+    {
+      "igdb_id": 155132,
+      "game_name": "OMSI 2: Berlin X10",
+      "file": "missing/O/155132-omsi-2-berlin-x10.json"
+    },
+    {
+      "igdb_id": 155140,
+      "game_name": "OMSI 2: Busbetrieb-Simulator",
+      "file": "missing/O/155140-omsi-2-busbetrieb-simulator.json"
+    },
+    {
+      "igdb_id": 155109,
+      "game_name": "OMSI 2: C2-Stadtbus-Familie Vol.1",
+      "file": "missing/O/155109-omsi-2-c2-stadtbus-familie-vol-1.json"
+    },
+    {
+      "igdb_id": 155116,
+      "game_name": "OMSI 2: City Bus O305",
+      "file": "missing/O/155116-omsi-2-city-bus-o305.json"
+    },
+    {
+      "igdb_id": 155127,
+      "game_name": "OMSI 2: Citybus i260 Series",
+      "file": "missing/O/155127-omsi-2-citybus-i260-series.json"
+    },
+    {
+      "igdb_id": 155114,
+      "game_name": "OMSI 2: Digibus Phantom",
+      "file": "missing/O/155114-omsi-2-digibus-phantom.json"
+    },
+    {
+      "igdb_id": 155124,
+      "game_name": "OMSI 2: Doppelgelenkbus AGG 300",
+      "file": "missing/O/155124-omsi-2-doppelgelenkbus-agg-300.json"
+    },
+    {
       "igdb_id": 293404,
       "game_name": "OMSI 2: Download Pack Vol. 13 - AI Cars",
       "file": "missing/O/293404-omsi-2-download-pack-vol-13-ai-cars.json"
+    },
+    {
+      "igdb_id": 155126,
+      "game_name": "OMSI 2: Downloadpack Vol.2 - KI-Fahrzeuge",
+      "file": "missing/O/155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json"
+    },
+    {
+      "igdb_id": 155128,
+      "game_name": "OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge",
+      "file": "missing/O/155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json"
+    },
+    {
+      "igdb_id": 155133,
+      "game_name": "OMSI 2: Downloadpack Vol.5 - KI-Menschen",
+      "file": "missing/O/155133-omsi-2-downloadpack-vol-5-ki-menschen.json"
+    },
+    {
+      "igdb_id": 155136,
+      "game_name": "OMSI 2: Downloadpack Vol.6 - KI-Menschen",
+      "file": "missing/O/155136-omsi-2-downloadpack-vol-6-ki-menschen.json"
+    },
+    {
+      "igdb_id": 155120,
+      "game_name": "OMSI 2: Downloadpack Vol.9 - KI-Luxusautos",
+      "file": "missing/O/155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json"
+    },
+    {
+      "igdb_id": 155141,
+      "game_name": "OMSI 2: Düsseldorf M2",
+      "file": "missing/O/155141-omsi-2-dusseldorf-m2.json"
+    },
+    {
+      "igdb_id": 155129,
+      "game_name": "OMSI 2: Express 91.06",
+      "file": "missing/O/155129-omsi-2-express-91-06.json"
     },
     {
       "igdb_id": 195764,
@@ -46098,14 +46278,99 @@
       "file": "missing/O/237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json"
     },
     {
+      "igdb_id": 155117,
+      "game_name": "OMSI 2: Irisbus Intercity Pack",
+      "file": "missing/O/155117-omsi-2-irisbus-intercity-pack.json"
+    },
+    {
+      "igdb_id": 155111,
+      "game_name": "OMSI 2: IVECO Bus Family Interurban Generation",
+      "file": "missing/O/155111-omsi-2-iveco-bus-family-interurban-generation.json"
+    },
+    {
       "igdb_id": 237071,
       "game_name": "OMSI 2: Iveco Bus-Familie Urbanway",
       "file": "missing/O/237071-omsi-2-iveco-bus-familie-urbanway.json"
     },
     {
+      "igdb_id": 155139,
+      "game_name": "OMSI 2: K-Bergbahn",
+      "file": "missing/O/155139-omsi-2-k-bergbahn.json"
+    },
+    {
+      "igdb_id": 155118,
+      "game_name": "OMSI 2: Köln",
+      "file": "missing/O/155118-omsi-2-koln.json"
+    },
+    {
+      "igdb_id": 155131,
+      "game_name": "OMSI 2: Luzern - Linie 24",
+      "file": "missing/O/155131-omsi-2-luzern-linie-24.json"
+    },
+    {
+      "igdb_id": 155115,
+      "game_name": "OMSI 2: Mallorca",
+      "file": "missing/O/155115-omsi-2-mallorca.json"
+    },
+    {
+      "igdb_id": 155113,
+      "game_name": "OMSI 2: Man DN95",
+      "file": "missing/O/155113-omsi-2-man-dn95.json"
+    },
+    {
+      "igdb_id": 155138,
+      "game_name": "OMSI 2: Masterbus Gen 3 Pack",
+      "file": "missing/O/155138-omsi-2-masterbus-gen-3-pack.json"
+    },
+    {
+      "igdb_id": 155121,
+      "game_name": "OMSI 2: Metropole Ruhr",
+      "file": "missing/O/155121-omsi-2-metropole-ruhr.json"
+    },
+    {
+      "igdb_id": 155137,
+      "game_name": "OMSI 2: Saint-Servan",
+      "file": "missing/O/155137-omsi-2-saint-servan.json"
+    },
+    {
       "igdb_id": 238753,
       "game_name": "OMSI 2: Steam Edition - AI-Articulated Bus for Vienna",
       "file": "missing/O/238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json"
+    },
+    {
+      "igdb_id": 155125,
+      "game_name": "OMSI 2: Strassenbahn NF6D Essen/Gelsenkirchen",
+      "file": "missing/O/155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json"
+    },
+    {
+      "igdb_id": 155112,
+      "game_name": "OMSI 2: Three Generations",
+      "file": "missing/O/155112-omsi-2-three-generations.json"
+    },
+    {
+      "igdb_id": 155134,
+      "game_name": "OMSI 2: Urbino Stadtbusfamilie",
+      "file": "missing/O/155134-omsi-2-urbino-stadtbusfamilie.json"
+    },
+    {
+      "igdb_id": 155110,
+      "game_name": "OMSI 2: Velbert",
+      "file": "missing/O/155110-omsi-2-velbert.json"
+    },
+    {
+      "igdb_id": 155119,
+      "game_name": "OMSI 2: Vienna",
+      "file": "missing/O/155119-omsi-2-vienna.json"
+    },
+    {
+      "igdb_id": 155122,
+      "game_name": "OMSI 2: Vienna 1 - Line 24A",
+      "file": "missing/O/155122-omsi-2-vienna-1-line-24a.json"
+    },
+    {
+      "igdb_id": 155108,
+      "game_name": "OMSI 2: Yorkshire Counties",
+      "file": "missing/O/155108-omsi-2-yorkshire-counties.json"
     },
     {
       "igdb_id": 197382,
@@ -52908,6 +53173,11 @@
       "file": "missing/R/227480-real-farm.json"
     },
     {
+      "igdb_id": 155097,
+      "game_name": "Real Farm: Premium Edition",
+      "file": "missing/R/155097-real-farm-premium-edition.json"
+    },
+    {
       "igdb_id": 194628,
       "game_name": "Real Hentai Situation! 2",
       "file": "missing/R/194628-real-hentai-situation-2.json"
@@ -55161,6 +55431,11 @@
       "igdb_id": 194616,
       "game_name": "Rooted",
       "file": "missing/R/194616-rooted.json"
+    },
+    {
+      "igdb_id": 155659,
+      "game_name": "Rooten",
+      "file": "missing/R/155659-rooten.json"
     },
     {
       "igdb_id": 183036,
@@ -57563,6 +57838,11 @@
       "file": "missing/S/316428-shattered-souls.json"
     },
     {
+      "igdb_id": 155654,
+      "game_name": "Shattered Worlds",
+      "file": "missing/S/155654-shattered-worlds.json"
+    },
+    {
       "igdb_id": 197395,
       "game_name": "Shatterspace",
       "file": "missing/S/197395-shatterspace.json"
@@ -57666,6 +57946,11 @@
       "igdb_id": 243369,
       "game_name": "Sherlock Purr: Extended Edition",
       "file": "missing/S/243369-sherlock-purr-extended-edition.json"
+    },
+    {
+      "igdb_id": 155650,
+      "game_name": "Sherman Commander",
+      "file": "missing/S/155650-sherman-commander.json"
     },
     {
       "igdb_id": 221385,
@@ -58161,6 +58446,11 @@
       "igdb_id": 202944,
       "game_name": "Sightline",
       "file": "missing/S/202944-sightline.json"
+    },
+    {
+      "igdb_id": 155089,
+      "game_name": "Sigma Theory: Global Cold War - Brazil",
+      "file": "missing/S/155089-sigma-theory-global-cold-war-brazil.json"
     },
     {
       "igdb_id": 276487,
@@ -60606,6 +60896,11 @@
       "igdb_id": 202960,
       "game_name": "Space Escape Obstacles",
       "file": "missing/S/202960-space-escape-obstacles.json"
+    },
+    {
+      "igdb_id": 155655,
+      "game_name": "Space Fat: To the Core",
+      "file": "missing/S/155655-space-fat-to-the-core.json"
     },
     {
       "igdb_id": 338013,
@@ -63113,9 +63408,49 @@
       "file": "missing/S/336895-super-jack-the-ripper.json"
     },
     {
+      "igdb_id": 155625,
+      "game_name": "Super Jigsaw Puzzle: Generations - Abandoned Places 2",
+      "file": "missing/S/155625-super-jigsaw-puzzle-generations-abandoned-places-2.json"
+    },
+    {
+      "igdb_id": 155643,
+      "game_name": "Super Jigsaw Puzzle: Generations - Abandoned Places Puzzles",
+      "file": "missing/S/155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json"
+    },
+    {
+      "igdb_id": 155629,
+      "game_name": "Super Jigsaw Puzzle: Generations - Airplanes Puzzles",
+      "file": "missing/S/155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json"
+    },
+    {
+      "igdb_id": 155615,
+      "game_name": "Super Jigsaw Puzzle: Generations - Anime Puzzles 2",
+      "file": "missing/S/155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json"
+    },
+    {
       "igdb_id": 263751,
       "game_name": "Super Jigsaw Puzzle: Generations - Baby Animals 2",
       "file": "missing/S/263751-super-jigsaw-puzzle-generations-baby-animals-2.json"
+    },
+    {
+      "igdb_id": 155637,
+      "game_name": "Super Jigsaw Puzzle: Generations - Bears Puzzles",
+      "file": "missing/S/155637-super-jigsaw-puzzle-generations-bears-puzzles.json"
+    },
+    {
+      "igdb_id": 155620,
+      "game_name": "Super Jigsaw Puzzle: Generations - Big Cats Puzzles",
+      "file": "missing/S/155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json"
+    },
+    {
+      "igdb_id": 155631,
+      "game_name": "Super Jigsaw Puzzle: Generations - Bikes Puzzles",
+      "file": "missing/S/155631-super-jigsaw-puzzle-generations-bikes-puzzles.json"
+    },
+    {
+      "igdb_id": 155628,
+      "game_name": "Super Jigsaw Puzzle: Generations - Birds Puzzles",
+      "file": "missing/S/155628-super-jigsaw-puzzle-generations-birds-puzzles.json"
     },
     {
       "igdb_id": 195279,
@@ -63123,9 +63458,49 @@
       "file": "missing/S/195279-super-jigsaw-puzzle-generations-canada.json"
     },
     {
+      "igdb_id": 155621,
+      "game_name": "Super Jigsaw Puzzle: Generations - China Puzzles",
+      "file": "missing/S/155621-super-jigsaw-puzzle-generations-china-puzzles.json"
+    },
+    {
+      "igdb_id": 155619,
+      "game_name": "Super Jigsaw Puzzle: Generations - Dogs Puzzles",
+      "file": "missing/S/155619-super-jigsaw-puzzle-generations-dogs-puzzles.json"
+    },
+    {
+      "igdb_id": 155613,
+      "game_name": "Super Jigsaw Puzzle: Generations - Fantasy",
+      "file": "missing/S/155613-super-jigsaw-puzzle-generations-fantasy.json"
+    },
+    {
+      "igdb_id": 155632,
+      "game_name": "Super Jigsaw Puzzle: Generations - France Puzzles",
+      "file": "missing/S/155632-super-jigsaw-puzzle-generations-france-puzzles.json"
+    },
+    {
       "igdb_id": 195257,
       "game_name": "Super Jigsaw Puzzle: Generations - Greece",
       "file": "missing/S/195257-super-jigsaw-puzzle-generations-greece.json"
+    },
+    {
+      "igdb_id": 155635,
+      "game_name": "Super Jigsaw Puzzle: Generations - Halloween Puzzles",
+      "file": "missing/S/155635-super-jigsaw-puzzle-generations-halloween-puzzles.json"
+    },
+    {
+      "igdb_id": 155626,
+      "game_name": "Super Jigsaw Puzzle: Generations - Horses Puzzles",
+      "file": "missing/S/155626-super-jigsaw-puzzle-generations-horses-puzzles.json"
+    },
+    {
+      "igdb_id": 155614,
+      "game_name": "Super Jigsaw Puzzle: Generations - Iceland",
+      "file": "missing/S/155614-super-jigsaw-puzzle-generations-iceland.json"
+    },
+    {
+      "igdb_id": 155641,
+      "game_name": "Super Jigsaw Puzzle: Generations - Japan Puzzles",
+      "file": "missing/S/155641-super-jigsaw-puzzle-generations-japan-puzzles.json"
     },
     {
       "igdb_id": 195278,
@@ -63133,14 +63508,104 @@
       "file": "missing/S/195278-super-jigsaw-puzzle-generations-kittens-2.json"
     },
     {
+      "igdb_id": 155624,
+      "game_name": "Super Jigsaw Puzzle: Generations - Landscapes Puzzles",
+      "file": "missing/S/155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json"
+    },
+    {
       "igdb_id": 195277,
       "game_name": "Super Jigsaw Puzzle: Generations - Love",
       "file": "missing/S/195277-super-jigsaw-puzzle-generations-love.json"
     },
     {
+      "igdb_id": 155642,
+      "game_name": "Super Jigsaw Puzzle: Generations - Mexico Puzzles",
+      "file": "missing/S/155642-super-jigsaw-puzzle-generations-mexico-puzzles.json"
+    },
+    {
+      "igdb_id": 155622,
+      "game_name": "Super Jigsaw Puzzle: Generations - Motorbikes Puzzles",
+      "file": "missing/S/155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json"
+    },
+    {
+      "igdb_id": 155618,
+      "game_name": "Super Jigsaw Puzzle: Generations - Original SJP",
+      "file": "missing/S/155618-super-jigsaw-puzzle-generations-original-sjp.json"
+    },
+    {
+      "igdb_id": 155623,
+      "game_name": "Super Jigsaw Puzzle: Generations - Paintings Puzzles",
+      "file": "missing/S/155623-super-jigsaw-puzzle-generations-paintings-puzzles.json"
+    },
+    {
+      "igdb_id": 155633,
+      "game_name": "Super Jigsaw Puzzle: Generations - Puppies Puzzles",
+      "file": "missing/S/155633-super-jigsaw-puzzle-generations-puppies-puzzles.json"
+    },
+    {
+      "igdb_id": 155636,
+      "game_name": "Super Jigsaw Puzzle: Generations - Random Puzzles 2",
+      "file": "missing/S/155636-super-jigsaw-puzzle-generations-random-puzzles-2.json"
+    },
+    {
+      "igdb_id": 155645,
+      "game_name": "Super Jigsaw Puzzle: Generations - Random Puzzles 3",
+      "file": "missing/S/155645-super-jigsaw-puzzle-generations-random-puzzles-3.json"
+    },
+    {
       "igdb_id": 195276,
       "game_name": "Super Jigsaw Puzzle: Generations - Random Puzzles 4",
       "file": "missing/S/195276-super-jigsaw-puzzle-generations-random-puzzles-4.json"
+    },
+    {
+      "igdb_id": 155638,
+      "game_name": "Super Jigsaw Puzzle: Generations - Reptiles",
+      "file": "missing/S/155638-super-jigsaw-puzzle-generations-reptiles.json"
+    },
+    {
+      "igdb_id": 155639,
+      "game_name": "Super Jigsaw Puzzle: Generations - Rodents",
+      "file": "missing/S/155639-super-jigsaw-puzzle-generations-rodents.json"
+    },
+    {
+      "igdb_id": 155616,
+      "game_name": "Super Jigsaw Puzzle: Generations - Second Anniversary",
+      "file": "missing/S/155616-super-jigsaw-puzzle-generations-second-anniversary.json"
+    },
+    {
+      "igdb_id": 155627,
+      "game_name": "Super Jigsaw Puzzle: Generations - SJP Anime Reloaded Puzzles",
+      "file": "missing/S/155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json"
+    },
+    {
+      "igdb_id": 155640,
+      "game_name": "Super Jigsaw Puzzle: Generations - SJP Monuments Puzzles",
+      "file": "missing/S/155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json"
+    },
+    {
+      "igdb_id": 155617,
+      "game_name": "Super Jigsaw Puzzle: Generations - Spain Puzzles",
+      "file": "missing/S/155617-super-jigsaw-puzzle-generations-spain-puzzles.json"
+    },
+    {
+      "igdb_id": 155644,
+      "game_name": "Super Jigsaw Puzzle: Generations - Sports Puzzles",
+      "file": "missing/S/155644-super-jigsaw-puzzle-generations-sports-puzzles.json"
+    },
+    {
+      "igdb_id": 155646,
+      "game_name": "Super Jigsaw Puzzle: Generations - Streets Puzzles",
+      "file": "missing/S/155646-super-jigsaw-puzzle-generations-streets-puzzles.json"
+    },
+    {
+      "igdb_id": 155630,
+      "game_name": "Super Jigsaw Puzzle: Generations - Sunsets Puzzles",
+      "file": "missing/S/155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json"
+    },
+    {
+      "igdb_id": 155634,
+      "game_name": "Super Jigsaw Puzzle: Generations - USA Puzzles",
+      "file": "missing/S/155634-super-jigsaw-puzzle-generations-usa-puzzles.json"
     },
     {
       "igdb_id": 273631,
@@ -63681,6 +64146,11 @@
       "igdb_id": 157172,
       "game_name": "Super Retro World",
       "file": "missing/S/157172-super-retro-world.json"
+    },
+    {
+      "igdb_id": 155096,
+      "game_name": "Super Robot Wars 30: Limited Edition",
+      "file": "missing/S/155096-super-robot-wars-30-limited-edition.json"
     },
     {
       "igdb_id": 307936,
@@ -65061,6 +65531,11 @@
       "igdb_id": 175405,
       "game_name": "Tank War Defender 3",
       "file": "missing/T/175405-tank-war-defender-3.json"
+    },
+    {
+      "igdb_id": 155088,
+      "game_name": "Tank Warfare: Operation Pugilist",
+      "file": "missing/T/155088-tank-warfare-operation-pugilist.json"
     },
     {
       "igdb_id": 215883,
@@ -73713,6 +74188,11 @@
       "file": "missing/U/304358-ultimate-trial.json"
     },
     {
+      "igdb_id": 155658,
+      "game_name": "Ultimate Under Water",
+      "file": "missing/U/155658-ultimate-under-water.json"
+    },
+    {
       "igdb_id": 224203,
       "game_name": "Ultra Age: Rebirth Project",
       "file": "missing/U/224203-ultra-age-rebirth-project.json"
@@ -74868,6 +75348,11 @@
       "file": "missing/V/338574-velocity-rush.json"
     },
     {
+      "igdb_id": 155656,
+      "game_name": "Velucity",
+      "file": "missing/V/155656-velucity.json"
+    },
+    {
       "igdb_id": 216495,
       "game_name": "Ven Adventure",
       "file": "missing/V/216495-ven-adventure.json"
@@ -75356,6 +75841,11 @@
       "igdb_id": 210889,
       "game_name": "Voidcrisis",
       "file": "missing/V/210889-voidcrisis.json"
+    },
+    {
+      "igdb_id": 155660,
+      "game_name": "VoidOut Parkour",
+      "file": "missing/V/155660-voidout-parkour.json"
     },
     {
       "igdb_id": 254120,
@@ -76418,6 +76908,11 @@
       "file": "missing/W/178675-when-i-was-a-boycow.json"
     },
     {
+      "igdb_id": 155104,
+      "game_name": "When the Lying Petals Scatter Into the Wind",
+      "file": "missing/W/155104-when-the-lying-petals-scatter-into-the-wind.json"
+    },
+    {
       "igdb_id": 228682,
       "game_name": "Where is a Toilet!?",
       "file": "missing/W/228682-where-is-a-toilet.json"
@@ -76971,6 +77466,11 @@
       "igdb_id": 196331,
       "game_name": "Witch's Weapon",
       "file": "missing/W/196331-witchs-weapon.json"
+    },
+    {
+      "igdb_id": 155652,
+      "game_name": "Witchcraft U",
+      "file": "missing/W/155652-witchcraft-u.json"
     },
     {
       "igdb_id": 201824,
