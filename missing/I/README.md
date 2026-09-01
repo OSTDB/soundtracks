@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
+| Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion Inexistante | 292815 | [292815-illusion-inexistante.json](./292815-illusion-inexistante.json) |
