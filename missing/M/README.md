@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
+| Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
+| Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
