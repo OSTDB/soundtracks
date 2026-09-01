@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | Joyrider | 270412 | [270412-joyrider.json](./270412-joyrider.json) |
+| Joyshot | 181914 | [181914-joyshot.json](./181914-joyshot.json) |
 | JR EAST Train Simulator: Keiyo Line (Soga to Tokyo) E233-5000 Series | 254786 | [254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json](./254786-jr-east-train-simulator-keiyo-line-soga-to-tokyo-e233-5000-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
