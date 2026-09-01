@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
+| Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
