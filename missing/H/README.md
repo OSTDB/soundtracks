@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
+| Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
