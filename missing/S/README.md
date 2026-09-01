@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spirit Level | 322997 | [322997-spirit-level.json](./322997-spirit-level.json) |
+| Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
+| Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
