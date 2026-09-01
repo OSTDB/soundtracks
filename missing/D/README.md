@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
+| Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
+| DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
@@ -463,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
+| Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
@@ -546,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
+| Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
