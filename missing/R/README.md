@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
+| Rainbow Skies: Limited Edition | 166232 | [166232-rainbow-skies-limited-edition.json](./166232-rainbow-skies-limited-edition.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
+| Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
