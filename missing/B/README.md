@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
+| Bagman Comes Back | 185164 | [185164-bagman-comes-back.json](./185164-bagman-comes-back.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
@@ -465,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
+| Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
 | BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
