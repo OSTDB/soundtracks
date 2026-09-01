@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
+| Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
+| Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
@@ -369,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
+| Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
@@ -408,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirnozardry | 292858 | [292858-cirnozardry.json](./292858-cirnozardry.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
 | Citadel | 276477 | [276477-citadel.json](./276477-citadel.json) |
+| Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
@@ -445,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
+| Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
@@ -500,6 +505,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
+| Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
+| Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
@@ -679,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
+| Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
 | Corridor Geodesic | 319387 | [319387-corridor-geodesic.json](./319387-corridor-geodesic.json) |
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
@@ -708,10 +716,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
+| Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
+| Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
