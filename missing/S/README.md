@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
+| Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
@@ -191,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
+| Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
@@ -352,6 +354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
 | Short 'n Quick | 274203 | [274203-short-n-quick.json](./274203-short-n-quick.json) |
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
+| Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
+| Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
@@ -362,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
+| Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
@@ -426,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
+| Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren's Call: Escape Velocity | 258728 | [258728-sirens-call-escape-velocity.json](./258728-sirens-call-escape-velocity.json) |
@@ -551,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
+| Sniper Elite 5: Deluxe Edition | 194661 | [194661-sniper-elite-5-deluxe-edition.json](./194661-sniper-elite-5-deluxe-edition.json) |
 | Sniper Elite 5: P.1938 Suppressed Pistol | 307286 | [307286-sniper-elite-5-p-1938-suppressed-pistol.json](./307286-sniper-elite-5-p-1938-suppressed-pistol.json) |
 | Sniper Elite 5: Saboteur Weapon and Skin Pack | 307285 | [307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json](./307285-sniper-elite-5-saboteur-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Trench Warfare Weapon Pack | 307283 | [307283-sniper-elite-5-trench-warfare-weapon-pack.json](./307283-sniper-elite-5-trench-warfare-weapon-pack.json) |
@@ -896,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
+| Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -917,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
+| Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
@@ -961,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
+| State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
@@ -1290,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
+| Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
