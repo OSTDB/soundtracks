@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
+| Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
+| Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
@@ -1531,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
+| Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
@@ -1593,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
+| Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Z The Alpha | 292304 | [292304-survival-z-the-alpha.json](./292304-survival-z-the-alpha.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
