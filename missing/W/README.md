@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
+| Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
