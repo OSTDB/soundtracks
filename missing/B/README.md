@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
+| Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
