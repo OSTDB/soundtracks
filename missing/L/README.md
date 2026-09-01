@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2 | 239343 | [239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json](./239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
+| Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
