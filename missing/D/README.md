@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
