@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Adventure 2 | 195799 | [195799-cat-adventure-2.json](./195799-cat-adventure-2.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
+| Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
+| Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
@@ -520,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
+| Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
@@ -821,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
+| Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
