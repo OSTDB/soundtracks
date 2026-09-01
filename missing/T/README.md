@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
+| Tales from Ahrum | 175981 | [175981-tales-from-ahrum.json](./175981-tales-from-ahrum.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
+| Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
@@ -1184,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
+| Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
@@ -1194,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
+| Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Townframe | 199128 | [199128-townframe.json](./199128-townframe.json) |
 | Townlore 2.0 | 299480 | [299480-townlore-2-0.json](./299480-townlore-2-0.json) |
@@ -1303,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
+| Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
