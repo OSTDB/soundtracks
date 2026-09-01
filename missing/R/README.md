@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
+| Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romino's Adventure | 209717 | [209717-rominos-adventure.json](./209717-rominos-adventure.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
+| Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
