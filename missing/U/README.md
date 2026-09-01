@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
+| Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
