@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
+| Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
