@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
+| Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfection | 239906 | [239906-perfection.json](./239906-perfection.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
+| Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
@@ -526,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
+| Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
@@ -675,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
+| Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
