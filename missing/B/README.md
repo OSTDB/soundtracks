@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
+| Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
@@ -403,6 +404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
+| Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
+| Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
