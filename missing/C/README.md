@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
+| Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
@@ -211,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
+| Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cellings | 190202 | [190202-cellings.json](./190202-cellings.json) |
@@ -886,3 +888,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
+| Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
