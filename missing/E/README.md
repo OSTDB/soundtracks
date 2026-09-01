@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
+| Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
+| Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
