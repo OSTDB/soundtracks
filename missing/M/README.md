@@ -641,6 +641,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
+| Moe Jigsaw: Abnormal Lovers Pack | 162921 | [162921-moe-jigsaw-abnormal-lovers-pack.json](./162921-moe-jigsaw-abnormal-lovers-pack.json) |
+| Moe Jigsaw: Aikagi Pack | 162925 | [162925-moe-jigsaw-aikagi-pack.json](./162925-moe-jigsaw-aikagi-pack.json) |
+| Moe Jigsaw: Amakano Pack | 162909 | [162909-moe-jigsaw-amakano-pack.json](./162909-moe-jigsaw-amakano-pack.json) |
+| Moe Jigsaw: Blessing of the Campanella Pack | 162911 | [162911-moe-jigsaw-blessing-of-the-campanella-pack.json](./162911-moe-jigsaw-blessing-of-the-campanella-pack.json) |
+| Moe Jigsaw: Blessing of the Campanella vol.2 Pack | 162918 | [162918-moe-jigsaw-blessing-of-the-campanella-vol-2-pack.json](./162918-moe-jigsaw-blessing-of-the-campanella-vol-2-pack.json) |
+| Moe Jigsaw: Blessing of the Campanella X Pack | 162908 | [162908-moe-jigsaw-blessing-of-the-campanella-x-pack.json](./162908-moe-jigsaw-blessing-of-the-campanella-x-pack.json) |
+| Moe Jigsaw: Harukaze Sensation! Pack | 162926 | [162926-moe-jigsaw-harukaze-sensation-pack.json](./162926-moe-jigsaw-harukaze-sensation-pack.json) |
+| Moe Jigsaw: Hatsukoi Sankaime Pack | 162906 | [162906-moe-jigsaw-hatsukoi-sankaime-pack.json](./162906-moe-jigsaw-hatsukoi-sankaime-pack.json) |
+| Moe Jigsaw: HHG -The end of the Goddess Pack | 162915 | [162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json](./162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json) |
+| Moe Jigsaw: Hyper-Highspeed-Genius vol.2 Pack | 162912 | [162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json](./162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json) |
+| Moe Jigsaw: Hyper-Highspeed-Genius X Pack | 162913 | [162913-moe-jigsaw-hyper-highspeed-genius-x-pack.json](./162913-moe-jigsaw-hyper-highspeed-genius-x-pack.json) |
+| Moe Jigsaw: Iro ni idenikeri waga koi ha Pack | 162928 | [162928-moe-jigsaw-iro-ni-idenikeri-waga-koi-ha-pack.json](./162928-moe-jigsaw-iro-ni-idenikeri-waga-koi-ha-pack.json) |
+| Moe Jigsaw: Kamigakari Cross Heart! Pack | 162910 | [162910-moe-jigsaw-kamigakari-cross-heart-pack.json](./162910-moe-jigsaw-kamigakari-cross-heart-pack.json) |
+| Moe Jigsaw: Kamigakari Cross Heart! vol.2 Pack | 162907 | [162907-moe-jigsaw-kamigakari-cross-heart-vol-2-pack.json](./162907-moe-jigsaw-kamigakari-cross-heart-vol-2-pack.json) |
+| Moe Jigsaw: Sengoku Koihime Pack | 162919 | [162919-moe-jigsaw-sengoku-koihime-pack.json](./162919-moe-jigsaw-sengoku-koihime-pack.json) |
+| Moe Jigsaw: Shin Koihime Musou Pack | 162924 | [162924-moe-jigsaw-shin-koihime-musou-pack.json](./162924-moe-jigsaw-shin-koihime-musou-pack.json) |
+| Moe Jigsaw: Shin Koihime Musou vol.2 Pack | 162922 | [162922-moe-jigsaw-shin-koihime-musou-vol-2-pack.json](./162922-moe-jigsaw-shin-koihime-musou-vol-2-pack.json) |
+| Moe Jigsaw: Shin Koihime Musou vol.3 Pack | 162923 | [162923-moe-jigsaw-shin-koihime-musou-vol-3-pack.json](./162923-moe-jigsaw-shin-koihime-musou-vol-3-pack.json) |
+| Moe Jigsaw: Shin Koihime Musou vol.4 Pack | 162916 | [162916-moe-jigsaw-shin-koihime-musou-vol-4-pack.json](./162916-moe-jigsaw-shin-koihime-musou-vol-4-pack.json) |
+| Moe Jigsaw: Special prices Pack | 162920 | [162920-moe-jigsaw-special-prices-pack.json](./162920-moe-jigsaw-special-prices-pack.json) |
+| Moe Jigsaw: Tsunagaru Bangle Pack | 162927 | [162927-moe-jigsaw-tsunagaru-bangle-pack.json](./162927-moe-jigsaw-tsunagaru-bangle-pack.json) |
+| Moe Jigsaw: Unlucky Reverse Pack | 162914 | [162914-moe-jigsaw-unlucky-reverse-pack.json](./162914-moe-jigsaw-unlucky-reverse-pack.json) |
+| Moe Jigsaw: Witch's Garden Pack | 162929 | [162929-moe-jigsaw-witchs-garden-pack.json](./162929-moe-jigsaw-witchs-garden-pack.json) |
+| Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
