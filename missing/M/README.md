@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
+| Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
+| Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
@@ -430,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Millennium Mission | 274731 | [274731-millennium-mission.json](./274731-millennium-mission.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
+| Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
@@ -503,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
+| Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
@@ -891,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
+| Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
