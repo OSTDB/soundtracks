@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
+| Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
@@ -305,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
+| Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
@@ -541,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
 | Froggy Castle 2 | 243407 | [243407-froggy-castle-2.json](./243407-froggy-castle-2.json) |
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
+| Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
