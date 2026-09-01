@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
+| Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
