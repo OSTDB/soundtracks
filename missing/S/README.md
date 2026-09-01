@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
+| Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
+| Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
@@ -654,7 +656,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
+| Slobbish Dragon Princess | 153459 | [153459-slobbish-dragon-princess.json](./153459-slobbish-dragon-princess.json) |
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
+| Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
@@ -992,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
+| Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
