@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
+| Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
@@ -116,7 +117,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
+| Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
+| Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
@@ -358,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - Strongholds & Castles Map Pack | 226947 | [226947-risk-global-domination-strongholds-and-castles-map-pack.json](./226947-risk-global-domination-strongholds-and-castles-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
+| Rite of Passage: Heart of the Storm - Collector's Edition | 194636 | [194636-rite-of-passage-heart-of-the-storm-collectors-edition.json](./194636-rite-of-passage-heart-of-the-storm-collectors-edition.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
@@ -474,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
+| Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots of Harmony | 320561 | [320561-roots-of-harmony.json](./320561-roots-of-harmony.json) |
