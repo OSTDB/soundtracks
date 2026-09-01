@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
+| Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
