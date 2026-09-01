@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
+| NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Mini Classics: Zelda | 206370 | [206370-nintendo-mini-classics-zelda.json](./206370-nintendo-mini-classics-zelda.json) |
 | Nintendo MP3 Player | 300369 | [300369-nintendo-mp3-player.json](./300369-nintendo-mp3-player.json) |
 | Nintendo Wars | 324081 | [324081-nintendo-wars.json](./324081-nintendo-wars.json) |
+| Nios | 189161 | [189161-nios.json](./189161-nios.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
