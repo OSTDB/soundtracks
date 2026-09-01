@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
+| Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schrödinger no Neko: Die Katze von Schrödinger | 230513 | [230513-schrodinger-no-neko-die-katze-von-schrodinger.json](./230513-schrodinger-no-neko-die-katze-von-schrodinger.json) |
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
+| Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
@@ -776,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
+| Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
@@ -1051,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
+| Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
@@ -1182,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers TC | 218116 | [218116-starship-troopers-tc.json](./218116-starship-troopers-tc.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
+| Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
@@ -1516,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
+| Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Metroid and A Link to the Past Crossover Randomizer | 210231 | [210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json](./210231-super-metroid-and-a-link-to-the-past-crossover-randomizer.json) |
 | Super Metroid CRE | 255374 | [255374-super-metroid-cre.json](./255374-super-metroid-cre.json) |
 | Super Metroid CRE 2 | 255373 | [255373-super-metroid-cre-2.json](./255373-super-metroid-cre-2.json) |
@@ -1649,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
+| Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
