@@ -1379,6 +1379,47 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 5: Dutch Regional Edition | 336939 | [336939-train-sim-world-5-dutch-regional-edition.json](./336939-train-sim-world-5-dutch-regional-edition.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
+| Train Simulator 2021: Arizona Divide - Winslow: Williams Route | 162416 | [162416-train-simulator-2021-arizona-divide-winslow-williams-route.json](./162416-train-simulator-2021-arizona-divide-winslow-williams-route.json) |
+| Train Simulator 2021: BR Class 170 'Turbostar' DMU | 162391 | [162391-train-simulator-2021-br-class-170-turbostar-dmu.json](./162391-train-simulator-2021-br-class-170-turbostar-dmu.json) |
+| Train Simulator 2021: BR Class 31 Freight Loco | 162393 | [162393-train-simulator-2021-br-class-31-freight-loco.json](./162393-train-simulator-2021-br-class-31-freight-loco.json) |
+| Train Simulator 2021: BR Class 31 Loco | 162370 | [162370-train-simulator-2021-br-class-31-loco.json](./162370-train-simulator-2021-br-class-31-loco.json) |
+| Train Simulator 2021: BR Class 33 Loco | 162401 | [162401-train-simulator-2021-br-class-33-loco.json](./162401-train-simulator-2021-br-class-33-loco.json) |
+| Train Simulator 2021: BR Class 419 MLV BEMU | 162386 | [162386-train-simulator-2021-br-class-419-mlv-bemu.json](./162386-train-simulator-2021-br-class-419-mlv-bemu.json) |
+| Train Simulator 2021: BR Class 45 'Peak' Loco | 162381 | [162381-train-simulator-2021-br-class-45-peak-loco.json](./162381-train-simulator-2021-br-class-45-peak-loco.json) |
+| Train Simulator 2021: BR Class 52 Loco | 162402 | [162402-train-simulator-2021-br-class-52-loco.json](./162402-train-simulator-2021-br-class-52-loco.json) |
+| Train Simulator 2021: BR Class 87 Loco | 162368 | [162368-train-simulator-2021-br-class-87-loco.json](./162368-train-simulator-2021-br-class-87-loco.json) |
+| Train Simulator 2021: BR Regional Railways Class 101 DMU | 162397 | [162397-train-simulator-2021-br-regional-railways-class-101-dmu.json](./162397-train-simulator-2021-br-regional-railways-class-101-dmu.json) |
+| Train Simulator 2021: Class 455 EMU | 162389 | [162389-train-simulator-2021-class-455-emu.json](./162389-train-simulator-2021-class-455-emu.json) |
+| Train Simulator 2021: Clear Creek Old Timer Rolling Stock Pack | 162400 | [162400-train-simulator-2021-clear-creek-old-timer-rolling-stock-pack.json](./162400-train-simulator-2021-clear-creek-old-timer-rolling-stock-pack.json) |
+| Train Simulator 2021: CPRR 4-4-0 No. 60 'Jupiter' Steam Loco | 162378 | [162378-train-simulator-2021-cprr-4-4-0-no-60-jupiter-steam-loco.json](./162378-train-simulator-2021-cprr-4-4-0-no-60-jupiter-steam-loco.json) |
+| Train Simulator 2021: CSX C30-7 Loco | 162376 | [162376-train-simulator-2021-csx-c30-7-loco.json](./162376-train-simulator-2021-csx-c30-7-loco.json) |
+| Train Simulator 2021: D&RGW SW1200 Loco | 162369 | [162369-train-simulator-2021-d-and-rgw-sw1200-loco.json](./162369-train-simulator-2021-d-and-rgw-sw1200-loco.json) |
+| Train Simulator 2021: DB BR 120 Loco | 162396 | [162396-train-simulator-2021-db-br-120-loco.json](./162396-train-simulator-2021-db-br-120-loco.json) |
+| Train Simulator 2021: DB BR 261 'Voith Gravita' Loco | 162384 | [162384-train-simulator-2021-db-br-261-voith-gravita-loco.json](./162384-train-simulator-2021-db-br-261-voith-gravita-loco.json) |
+| Train Simulator 2021: DB BR 442 'Talent 2' EMU | 162385 | [162385-train-simulator-2021-db-br-442-talent-2-emu.json](./162385-train-simulator-2021-db-br-442-talent-2-emu.json) |
+| Train Simulator 2021: E18 Loco | 162399 | [162399-train-simulator-2021-e18-loco.json](./162399-train-simulator-2021-e18-loco.json) |
+| Train Simulator 2021: East Midlands BR Class 222 DEMU | 162380 | [162380-train-simulator-2021-east-midlands-br-class-222-demu.json](./162380-train-simulator-2021-east-midlands-br-class-222-demu.json) |
+| Train Simulator 2021: Great Northern F7 'Empire Builder' Loco | 162379 | [162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json](./162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json) |
+| Train Simulator 2021: GWR 1000 Class 'County Class' Steam Loco | 162403 | [162403-train-simulator-2021-gwr-1000-class-county-class-steam-loco.json](./162403-train-simulator-2021-gwr-1000-class-county-class-steam-loco.json) |
+| Train Simulator 2021: GWR 7800 'Manor' Class | 162392 | [162392-train-simulator-2021-gwr-7800-manor-class.json](./162392-train-simulator-2021-gwr-7800-manor-class.json) |
+| Train Simulator 2021: LMS Coronation Class "Duchess of Hamilton" Loco | 162388 | [162388-train-simulator-2021-lms-coronation-class-duchess-of-hamilton-loco.json](./162388-train-simulator-2021-lms-coronation-class-duchess-of-hamilton-loco.json) |
+| Train Simulator 2021: LMS Rebuilt Patriot Class Steam Loco | 162398 | [162398-train-simulator-2021-lms-rebuilt-patriot-class-steam-loco.json](./162398-train-simulator-2021-lms-rebuilt-patriot-class-steam-loco.json) |
+| Train Simulator 2021: LMS Stanier Class 8F Steam Loco | 162372 | [162372-train-simulator-2021-lms-stanier-class-8f-steam-loco.json](./162372-train-simulator-2021-lms-stanier-class-8f-steam-loco.json) |
+| Train Simulator 2021: London Overground BR Class 313 EMU | 162394 | [162394-train-simulator-2021-london-overground-br-class-313-emu.json](./162394-train-simulator-2021-london-overground-br-class-313-emu.json) |
+| Train Simulator 2021: Norfolk Southern GP60 Loco | 162419 | [162419-train-simulator-2021-norfolk-southern-gp60-loco.json](./162419-train-simulator-2021-norfolk-southern-gp60-loco.json) |
+| Train Simulator 2021: Norfolk Southern Heritage SD70ACes Loco | 162383 | [162383-train-simulator-2021-norfolk-southern-heritage-sd70aces-loco.json](./162383-train-simulator-2021-norfolk-southern-heritage-sd70aces-loco.json) |
+| Train Simulator 2021: Norfolk Southern SD45 High Hoods Loco | 162420 | [162420-train-simulator-2021-norfolk-southern-sd45-high-hoods-loco.json](./162420-train-simulator-2021-norfolk-southern-sd45-high-hoods-loco.json) |
+| Train Simulator 2021: North London & Goblin Lines | 162387 | [162387-train-simulator-2021-north-london-and-goblin-lines.json](./162387-train-simulator-2021-north-london-and-goblin-lines.json) |
+| Train Simulator 2021: OEBB 1014 Loco | 162374 | [162374-train-simulator-2021-oebb-1014-loco.json](./162374-train-simulator-2021-oebb-1014-loco.json) |
+| Train Simulator 2021: OEBB 5047 DMU | 162375 | [162375-train-simulator-2021-oebb-5047-dmu.json](./162375-train-simulator-2021-oebb-5047-dmu.json) |
+| Train Simulator 2021: PRR Baldwin Centipede Loco | 162373 | [162373-train-simulator-2021-prr-baldwin-centipede-loco.json](./162373-train-simulator-2021-prr-baldwin-centipede-loco.json) |
+| Train Simulator 2021: Return to Maerdy Loco | 162390 | [162390-train-simulator-2021-return-to-maerdy-loco.json](./162390-train-simulator-2021-return-to-maerdy-loco.json) |
+| Train Simulator 2021: Southern Pacific GS-4 Loco | 162371 | [162371-train-simulator-2021-southern-pacific-gs-4-loco.json](./162371-train-simulator-2021-southern-pacific-gs-4-loco.json) |
+| Train Simulator 2021: Southern Pacific SD45 Loco | 162418 | [162418-train-simulator-2021-southern-pacific-sd45-loco.json](./162418-train-simulator-2021-southern-pacific-sd45-loco.json) |
+| Train Simulator 2021: Southwestern Expressways - Reading: Exeter Route | 162377 | [162377-train-simulator-2021-southwestern-expressways-reading-exeter-route.json](./162377-train-simulator-2021-southwestern-expressways-reading-exeter-route.json) |
+| Train Simulator 2021: Union Pacific Big Boy Steam Loco | 162417 | [162417-train-simulator-2021-union-pacific-big-boy-steam-loco.json](./162417-train-simulator-2021-union-pacific-big-boy-steam-loco.json) |
+| Train Simulator 2021: Union Pacific No. 119 Steam Loco | 162382 | [162382-train-simulator-2021-union-pacific-no-119-steam-loco.json](./162382-train-simulator-2021-union-pacific-no-119-steam-loco.json) |
+| Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: Tamns VTG Wagon Pack | 293393 | [293393-train-simulator-classic-tamns-vtg-wagon-pack.json](./293393-train-simulator-classic-tamns-vtg-wagon-pack.json) |
@@ -1515,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
+| True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
