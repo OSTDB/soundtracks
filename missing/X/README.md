@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
+| Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
