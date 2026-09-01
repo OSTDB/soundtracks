@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
+| Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
@@ -341,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
+| World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
