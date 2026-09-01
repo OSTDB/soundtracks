@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack of Clubs | 319394 | [319394-jack-of-clubs.json](./319394-jack-of-clubs.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
+| Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
@@ -22,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
+| James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janosik 2: Prologue | 316419 | [316419-janosik-2-prologue.json](./316419-janosik-2-prologue.json) |
@@ -30,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
 | Japanese Escape Games: The Hotel of Tricks | 209690 | [209690-japanese-escape-games-the-hotel-of-tricks.json](./209690-japanese-escape-games-the-hotel-of-tricks.json) |
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
+| Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
