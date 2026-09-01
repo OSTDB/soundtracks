@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
@@ -21,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nanocorp | 173281 | [173281-nanocorp.json](./173281-nanocorp.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
+| Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
 | Nanpure VOW | 191866 | [191866-nanpure-vow.json](./191866-nanpure-vow.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
@@ -241,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihongo School | 257106 | [257106-nihongo-school.json](./257106-nihongo-school.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
+| Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
