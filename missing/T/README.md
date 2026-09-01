@@ -1252,6 +1252,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Heart of the Tiger | 209140 | [209140-touhou-heart-of-the-tiger.json](./209140-touhou-heart-of-the-tiger.json) |
 | Touhou: Unmei no Hoshi | 181928 | [181928-touhou-unmei-no-hoshi.json](./181928-touhou-unmei-no-hoshi.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
+| Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
+| Tourist Bus Simulator: Comfort Class HD | 168888 | [168888-tourist-bus-simulator-comfort-class-hd.json](./168888-tourist-bus-simulator-comfort-class-hd.json) |
+| Tourist Bus Simulator: Man Lion's Coach 3rd Gen | 168890 | [168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json](./168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json) |
+| Tourist Bus Simulator: Man Lion's Intercity | 168889 | [168889-tourist-bus-simulator-man-lions-intercity.json](./168889-tourist-bus-simulator-man-lions-intercity.json) |
+| Tourist Bus Simulator: Neoplan Skyliner | 168892 | [168892-tourist-bus-simulator-neoplan-skyliner.json](./168892-tourist-bus-simulator-neoplan-skyliner.json) |
+| Tourist Bus Simulator: Scania Touring | 168885 | [168885-tourist-bus-simulator-scania-touring.json](./168885-tourist-bus-simulator-scania-touring.json) |
+| Tourist Bus Simulator: VDL Futura FDD2 | 168887 | [168887-tourist-bus-simulator-vdl-futura-fdd2.json](./168887-tourist-bus-simulator-vdl-futura-fdd2.json) |
+| Tourist Bus Simulator: VDL Futura FHD2 | 168886 | [168886-tourist-bus-simulator-vdl-futura-fhd2.json](./168886-tourist-bus-simulator-vdl-futura-fhd2.json) |
+| Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
