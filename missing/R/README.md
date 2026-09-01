@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
+| Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
+| Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
