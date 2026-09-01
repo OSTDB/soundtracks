@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
+| Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
@@ -168,6 +169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
+| Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
+| Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
@@ -243,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
+| Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
