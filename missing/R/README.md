@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
+| Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
@@ -450,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
+| Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
