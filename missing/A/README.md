@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1 | 207539 | [207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json](./207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json) |
 | Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
+| Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
+| Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
