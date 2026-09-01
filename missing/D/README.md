@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
+| Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
+| Dream Knights: The Little Hero | 181372 | [181372-dream-knights-the-little-hero.json](./181372-dream-knights-the-little-hero.json) |
 | Dream Kombat | 229382 | [229382-dream-kombat.json](./229382-dream-kombat.json) |
 | Dream Labyrinth | 181934 | [181934-dream-labyrinth.json](./181934-dream-labyrinth.json) |
 | Dream Land | 305528 | [305528-dream-land.json](./305528-dream-land.json) |
