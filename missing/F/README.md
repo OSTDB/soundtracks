@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
+| Flowery Vale | 177048 | [177048-flowery-vale.json](./177048-flowery-vale.json) |
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
@@ -419,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Lands: Online | 340236 | [340236-forgotten-lands-online.json](./340236-forgotten-lands-online.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
+| Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
 | Forklift Extreme: Ultra Edition | 252404 | [252404-forklift-extreme-ultra-edition.json](./252404-forklift-extreme-ultra-edition.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
@@ -473,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
+| Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
@@ -586,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
+| FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | FunWar | 195757 | [195757-funwar.json](./195757-funwar.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
