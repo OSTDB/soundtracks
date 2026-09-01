@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
+| Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Legends: Marshes Curse - Collector's Edition | 186331 | [186331-royal-legends-marshes-curse-collectors-edition.json](./186331-royal-legends-marshes-curse-collectors-edition.json) |
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
+| Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
 | Royal Romances: The Power of Chosen One DLC | 256003 | [256003-royal-romances-the-power-of-chosen-one-dlc.json](./256003-royal-romances-the-power-of-chosen-one-dlc.json) |
