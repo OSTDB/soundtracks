@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
+| The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
+| The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
@@ -401,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
+| The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
@@ -845,10 +848,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
+| The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
 | The Sims 4: Basement Treasures Kit | 246619 | [246619-the-sims-4-basement-treasures-kit.json](./246619-the-sims-4-basement-treasures-kit.json) |
+| The Sims 4: Bundle - Cats & Dogs, Parenthood, Toddler Stuff | 159333 | [159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json](./159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json) |
+| The Sims 4: Bundle - City Living, Vampires, Vintage Glamour Stuff | 159336 | [159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json](./159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json) |
+| The Sims 4: Bundle - Get to Work, Dine Out, Cool Kitchen Stuff | 159334 | [159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json](./159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json) |
+| The Sims 4: Bundle Pack 1 | 159326 | [159326-the-sims-4-bundle-pack-1.json](./159326-the-sims-4-bundle-pack-1.json) |
+| The Sims 4: Bundle Pack 3 | 159327 | [159327-the-sims-4-bundle-pack-3.json](./159327-the-sims-4-bundle-pack-3.json) |
+| The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
+| The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
+| The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Life and Death | 316426 | [316426-the-sims-4-life-and-death.json](./316426-the-sims-4-life-and-death.json) |
+| The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
+| The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
+| The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
+| The Sims 4: Sims' Night Out Bundle | 159337 | [159337-the-sims-4-sims-night-out-bundle.json](./159337-the-sims-4-sims-night-out-bundle.json) |
+| The Sims 4: Starter Bundle | 159338 | [159338-the-sims-4-starter-bundle.json](./159338-the-sims-4-starter-bundle.json) |
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
+| The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Sinking City: Investigator Pack | 308567 | [308567-the-sinking-city-investigator-pack.json](./308567-the-sinking-city-investigator-pack.json) |
@@ -1337,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Dash | 199630 | [199630-tomb-of-the-dash.json](./199630-tomb-of-the-dash.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
+| Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
@@ -1570,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
+| Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
@@ -1728,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
+| Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
