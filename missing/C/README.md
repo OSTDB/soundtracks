@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
+| CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
