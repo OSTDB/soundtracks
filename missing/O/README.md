@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
+| OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
