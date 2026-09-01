@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
+| About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
@@ -196,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly FS 4 Flight Simulator: Scenery - Europe Part 1 | 207539 | [207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json](./207539-aerofly-fs-4-flight-simulator-scenery-europe-part-1.json) |
 | Aerofoil | 177006 | [177006-aerofoil.json](./177006-aerofoil.json) |
 | Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
+| Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
+| All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Rated Gold Superstar Pack | 301008 | [301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json](./301008-all-elite-wrestling-fight-forever-rated-gold-superstar-pack.json) |
 | All Elite Wrestling: Fight Forever - Season Pass 4 | 301011 | [301011-all-elite-wrestling-fight-forever-season-pass-4.json](./301011-all-elite-wrestling-fight-forever-season-pass-4.json) |
@@ -394,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
+| Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
@@ -656,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
+| Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
@@ -739,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
+| Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
