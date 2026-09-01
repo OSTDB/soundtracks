@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
+| Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
+| Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
