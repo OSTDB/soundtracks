@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
+| SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
