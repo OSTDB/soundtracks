@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | B Math | 318756 | [318756-b-math.json](./318756-b-math.json) |
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
+| B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
+| Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
@@ -533,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
+| Bottomless | 183596 | [183596-bottomless.json](./183596-bottomless.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
