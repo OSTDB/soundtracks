@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T00:48:09.977Z",
-  "total_missing": 11742,
+  "generated_at": "2026-09-01T01:02:59.917Z",
+  "total_missing": 11792,
   "games": [
     {
       "igdb_id": 306086,
@@ -881,6 +881,11 @@
       "igdb_id": 206356,
       "game_name": "A Hero's Rest: An RPG Town Simulator",
       "file": "missing/A/206356-a-heros-rest-an-rpg-town-simulator.json"
+    },
+    {
+      "igdb_id": 198561,
+      "game_name": "A Housewife's Healing Touch",
+      "file": "missing/A/198561-a-housewifes-healing-touch.json"
     },
     {
       "igdb_id": 299469,
@@ -4086,6 +4091,11 @@
       "igdb_id": 213608,
       "game_name": "Autocrusher: Bumper Cars",
       "file": "missing/A/213608-autocrusher-bumper-cars.json"
+    },
+    {
+      "igdb_id": 198544,
+      "game_name": "AutoDemo Levels in SADX",
+      "file": "missing/A/198544-autodemo-levels-in-sadx.json"
     },
     {
       "igdb_id": 257105,
@@ -8551,6 +8561,11 @@
       "igdb_id": 199632,
       "game_name": "Century: Age of Ashes - First Flight Edition",
       "file": "missing/C/199632-century-age-of-ashes-first-flight-edition.json"
+    },
+    {
+      "igdb_id": 198556,
+      "game_name": "Ceramic Soul",
+      "file": "missing/C/198556-ceramic-soul.json"
     },
     {
       "igdb_id": 272016,
@@ -14053,6 +14068,11 @@
       "file": "missing/D/295530-dr-planet.json"
     },
     {
+      "igdb_id": 198517,
+      "game_name": "Dr. Robotnik in Sonic the Hedgehog",
+      "file": "missing/D/198517-dr-robotnik-in-sonic-the-hedgehog.json"
+    },
+    {
       "igdb_id": 264896,
       "game_name": "Dr. Robotnik's Mean Bean Tetris",
       "file": "missing/D/264896-dr-robotniks-mean-bean-tetris.json"
@@ -15143,6 +15163,11 @@
       "file": "missing/E/333925-el-stompo.json"
     },
     {
+      "igdb_id": 198549,
+      "game_name": "Elana Champion of Lust",
+      "file": "missing/E/198549-elana-champion-of-lust.json"
+    },
+    {
       "igdb_id": 290707,
       "game_name": "Eldabyss",
       "file": "missing/E/290707-eldabyss.json"
@@ -15411,6 +15436,11 @@
       "igdb_id": 229384,
       "game_name": "Empty",
       "file": "missing/E/229384-empty.json"
+    },
+    {
+      "igdb_id": 198555,
+      "game_name": "Empyre: Dukes of the Far Frontier",
+      "file": "missing/E/198555-empyre-dukes-of-the-far-frontier.json"
     },
     {
       "igdb_id": 273649,
@@ -16071,6 +16101,11 @@
       "igdb_id": 263230,
       "game_name": "Eville: Star Gazer Pack",
       "file": "missing/E/263230-eville-star-gazer-pack.json"
+    },
+    {
+      "igdb_id": 198508,
+      "game_name": "Evilmun Family: Season 4 Spark",
+      "file": "missing/E/198508-evilmun-family-season-4-spark.json"
     },
     {
       "igdb_id": 230533,
@@ -21428,6 +21463,11 @@
       "file": "missing/H/243920-hakuoki-kyoto-winds-deluxe-edition.json"
     },
     {
+      "igdb_id": 198534,
+      "game_name": "Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako",
+      "file": "missing/H/198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json"
+    },
+    {
       "igdb_id": 252366,
       "game_name": "Half-Doomed",
       "file": "missing/H/252366-half-doomed.json"
@@ -26508,6 +26548,16 @@
       "file": "missing/K/298858-kirby-bowl-64.json"
     },
     {
+      "igdb_id": 198524,
+      "game_name": "Kirby in Sonic the Hedgehog",
+      "file": "missing/K/198524-kirby-in-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 198531,
+      "game_name": "Kirby in Sonic the Hedgehog 2",
+      "file": "missing/K/198531-kirby-in-sonic-the-hedgehog-2.json"
+    },
+    {
       "igdb_id": 324102,
       "game_name": "Kirby's Ballin' Adventure",
       "file": "missing/K/324102-kirbys-ballin-adventure.json"
@@ -28728,6 +28778,11 @@
       "file": "missing/L/250050-luigi-doesnt-drink-a-glass-of-milk.json"
     },
     {
+      "igdb_id": 198518,
+      "game_name": "Luigi in Sonic the Hedgehog",
+      "file": "missing/L/198518-luigi-in-sonic-the-hedgehog.json"
+    },
+    {
       "igdb_id": 335659,
       "game_name": "Luigi: Insanity",
       "file": "missing/L/335659-luigi-insanity.json"
@@ -30456,6 +30511,11 @@
       "igdb_id": 302703,
       "game_name": "Metal Pear",
       "file": "missing/M/302703-metal-pear.json"
+    },
+    {
+      "igdb_id": 198525,
+      "game_name": "Metal Sonic in Sonic the Hedgehog",
+      "file": "missing/M/198525-metal-sonic-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 217505,
@@ -33056,6 +33116,11 @@
       "igdb_id": 335682,
       "game_name": "Narcissus",
       "file": "missing/N/335682-narcissus.json"
+    },
+    {
+      "igdb_id": 198554,
+      "game_name": "Narcotics Ninja",
+      "file": "missing/N/198554-narcotics-ninja.json"
     },
     {
       "igdb_id": 257661,
@@ -37588,6 +37653,11 @@
       "file": "missing/P/290689-planetstar-warrior.json"
     },
     {
+      "igdb_id": 198509,
+      "game_name": "Plant Down",
+      "file": "missing/P/198509-plant-down.json"
+    },
+    {
       "igdb_id": 316403,
       "game_name": "Plant Therapy: Plush and Pots Pack",
       "file": "missing/P/316403-plant-therapy-plush-and-pots-pack.json"
@@ -39083,6 +39153,11 @@
       "file": "missing/P/213610-purple-fantasy.json"
     },
     {
+      "igdb_id": 198541,
+      "game_name": "Purple War",
+      "file": "missing/P/198541-purple-war.json"
+    },
+    {
       "igdb_id": 335111,
       "game_name": "Purrdy's Race",
       "file": "missing/P/335111-purrdys-race.json"
@@ -40011,6 +40086,11 @@
       "igdb_id": 253567,
       "game_name": "Raw Nerve",
       "file": "missing/R/253567-raw-nerve.json"
+    },
+    {
+      "igdb_id": 198536,
+      "game_name": "Ray the Flying Squirrel in Sonic the Hedgehog",
+      "file": "missing/R/198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 341306,
@@ -41153,6 +41233,11 @@
       "file": "missing/R/269835-rip-van-bubsy.json"
     },
     {
+      "igdb_id": 198510,
+      "game_name": "Ripple",
+      "file": "missing/R/198510-ripple.json"
+    },
+    {
       "igdb_id": 239315,
       "game_name": "Ripples",
       "file": "missing/R/239315-ripples.json"
@@ -41796,6 +41881,16 @@
       "igdb_id": 231054,
       "game_name": "Roof Jump Stunt Driver",
       "file": "missing/R/231054-roof-jump-stunt-driver.json"
+    },
+    {
+      "igdb_id": 198511,
+      "game_name": "Room Explorer 2010",
+      "file": "missing/R/198511-room-explorer-2010.json"
+    },
+    {
+      "igdb_id": 198512,
+      "game_name": "Room Explorer 2010: Deluxe Lover's Paque",
+      "file": "missing/R/198512-room-explorer-2010-deluxe-lovers-paque.json"
     },
     {
       "igdb_id": 297206,
@@ -43333,6 +43428,11 @@
       "file": "missing/S/321131-sesari-1.json"
     },
     {
+      "igdb_id": 198558,
+      "game_name": "Setback",
+      "file": "missing/S/198558-setback.json"
+    },
+    {
       "igdb_id": 302683,
       "game_name": "Setsuna ni Kakeru Koi Hanabi",
       "file": "missing/S/302683-setsuna-ni-kakeru-koi-hanabi.json"
@@ -44163,6 +44263,11 @@
       "file": "missing/S/311259-silent-threat.json"
     },
     {
+      "igdb_id": 198550,
+      "game_name": "Silhouette Stories",
+      "file": "missing/S/198550-silhouette-stories.json"
+    },
+    {
       "igdb_id": 233219,
       "game_name": "SilhouetteGirl Zan",
       "file": "missing/S/233219-silhouettegirl-zan.json"
@@ -44406,6 +44511,11 @@
       "igdb_id": 272579,
       "game_name": "SkateNationXL",
       "file": "missing/S/272579-skatenationxl.json"
+    },
+    {
+      "igdb_id": 198513,
+      "game_name": "Skelerun",
+      "file": "missing/S/198513-skelerun.json"
     },
     {
       "igdb_id": 340744,
@@ -44778,6 +44888,11 @@
       "file": "missing/S/243954-slumberfish.json"
     },
     {
+      "igdb_id": 198514,
+      "game_name": "Sly Panda",
+      "file": "missing/S/198514-sly-panda.json"
+    },
+    {
       "igdb_id": 338548,
       "game_name": "Slyder Adventures",
       "file": "missing/S/338548-slyder-adventures.json"
@@ -44836,6 +44951,11 @@
       "igdb_id": 275317,
       "game_name": "Snack Pack 3: Trick or Treat",
       "file": "missing/S/275317-snack-pack-3-trick-or-treat.json"
+    },
+    {
+      "igdb_id": 198515,
+      "game_name": "Snack Scoffer",
+      "file": "missing/S/198515-snack-scoffer.json"
     },
     {
       "igdb_id": 213637,
@@ -45268,6 +45388,11 @@
       "file": "missing/S/213596-solve-this-emoji-puzzle.json"
     },
     {
+      "igdb_id": 198522,
+      "game_name": "Somari the Adventurer",
+      "file": "missing/S/198522-somari-the-adventurer.json"
+    },
+    {
       "igdb_id": 293380,
       "game_name": "Some Assembly Required",
       "file": "missing/S/293380-some-assembly-required.json"
@@ -45323,6 +45448,11 @@
       "file": "missing/S/336350-sonic-and-shadow.json"
     },
     {
+      "igdb_id": 198532,
+      "game_name": "Sonic 1 Spike Bug Fix & Spindash",
+      "file": "missing/S/198532-sonic-1-spike-bug-fix-and-spindash.json"
+    },
+    {
       "igdb_id": 333957,
       "game_name": "Sonic 2: Chaos Adventure",
       "file": "missing/S/333957-sonic-2-chaos-adventure.json"
@@ -45351,6 +45481,11 @@
       "igdb_id": 202967,
       "game_name": "Sonic 3D Blast",
       "file": "missing/S/202967-sonic-3d-blast.json"
+    },
+    {
+      "igdb_id": 198547,
+      "game_name": "Sonic 3D: No Flickies",
+      "file": "missing/S/198547-sonic-3d-no-flickies.json"
     },
     {
       "igdb_id": 336362,
@@ -45403,6 +45538,11 @@
       "file": "missing/S/330512-sonic-blaze.json"
     },
     {
+      "igdb_id": 198545,
+      "game_name": "Sonic CD++",
+      "file": "missing/S/198545-sonic-cd.json"
+    },
+    {
       "igdb_id": 336344,
       "game_name": "Sonic Celerity",
       "file": "missing/S/336344-sonic-celerity.json"
@@ -45431,6 +45571,11 @@
       "igdb_id": 333959,
       "game_name": "Sonic Elementals",
       "file": "missing/S/333959-sonic-elementals.json"
+    },
+    {
+      "igdb_id": 198564,
+      "game_name": "Sonic ERaZor",
+      "file": "missing/S/198564-sonic-erazor.json"
     },
     {
       "igdb_id": 336348,
@@ -45653,6 +45798,11 @@
       "file": "missing/S/332835-sonic-the-hedgehog-2-archives.json"
     },
     {
+      "igdb_id": 198563,
+      "game_name": "Sonic the Hedgehog Extreme Boarding",
+      "file": "missing/S/198563-sonic-the-hedgehog-extreme-boarding.json"
+    },
+    {
       "igdb_id": 238200,
       "game_name": "Sonic the Hedgehog Interactive Watch",
       "file": "missing/S/238200-sonic-the-hedgehog-interactive-watch.json"
@@ -45686,6 +45836,16 @@
       "igdb_id": 336381,
       "game_name": "Sonic the Hedgehog TX",
       "file": "missing/S/336381-sonic-the-hedgehog-tx.json"
+    },
+    {
+      "igdb_id": 198533,
+      "game_name": "Sonic the Hedgehog Vol.2",
+      "file": "missing/S/198533-sonic-the-hedgehog-vol-2.json"
+    },
+    {
+      "igdb_id": 198542,
+      "game_name": "Sonic the Hedgehog: Character Pak",
+      "file": "missing/S/198542-sonic-the-hedgehog-character-pak.json"
     },
     {
       "igdb_id": 331702,
@@ -45771,6 +45931,11 @@
       "igdb_id": 330513,
       "game_name": "Sonic: RTFI",
       "file": "missing/S/330513-sonic-rtfi.json"
+    },
+    {
+      "igdb_id": 198565,
+      "game_name": "Sonic: Scorched Quest",
+      "file": "missing/S/198565-sonic-scorched-quest.json"
     },
     {
       "igdb_id": 341904,
@@ -46236,6 +46401,11 @@
       "igdb_id": 206954,
       "game_name": "Spektakl: Banned Edition",
       "file": "missing/S/206954-spektakl-banned-edition.json"
+    },
+    {
+      "igdb_id": 198516,
+      "game_name": "Spell Slingers: Trick or Treat",
+      "file": "missing/S/198516-spell-slingers-trick-or-treat.json"
     },
     {
       "igdb_id": 206950,
@@ -46786,6 +46956,11 @@
       "igdb_id": 204092,
       "game_name": "Starless",
       "file": "missing/S/204092-starless.json"
+    },
+    {
+      "igdb_id": 198520,
+      "game_name": "Starlight Attack",
+      "file": "missing/S/198520-starlight-attack.json"
     },
     {
       "igdb_id": 255961,
@@ -48153,6 +48328,11 @@
       "file": "missing/S/246625-super-mario-odyssey-bon-bones-mountain.json"
     },
     {
+      "igdb_id": 198557,
+      "game_name": "Super Mario Outbreak",
+      "file": "missing/S/198557-super-mario-outbreak.json"
+    },
+    {
       "igdb_id": 324681,
       "game_name": "Super Mario Storm I",
       "file": "missing/S/324681-super-mario-storm-i.json"
@@ -48376,6 +48556,16 @@
       "igdb_id": 336357,
       "game_name": "Super Sonic Cooking",
       "file": "missing/S/336357-super-sonic-cooking.json"
+    },
+    {
+      "igdb_id": 198546,
+      "game_name": "Super Sonic in Sonic 3D",
+      "file": "missing/S/198546-super-sonic-in-sonic-3d.json"
+    },
+    {
+      "igdb_id": 198527,
+      "game_name": "Super Sonic in Sonic the Hedgehog",
+      "file": "missing/S/198527-super-sonic-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 321115,
@@ -49013,6 +49203,11 @@
       "file": "missing/T/326961-tails-advance.json"
     },
     {
+      "igdb_id": 198529,
+      "game_name": "Tails in Sonic the Hedgehog",
+      "file": "missing/T/198529-tails-in-sonic-the-hedgehog.json"
+    },
+    {
       "igdb_id": 336355,
       "game_name": "Tails' Adventures 2",
       "file": "missing/T/336355-tails-adventures-2.json"
@@ -49588,6 +49783,11 @@
       "file": "missing/T/267682-temple-knight-saga-oath-of-the-knights-sword.json"
     },
     {
+      "igdb_id": 198562,
+      "game_name": "Temple of Boonil",
+      "file": "missing/T/198562-temple-of-boonil.json"
+    },
+    {
       "igdb_id": 304873,
       "game_name": "Temple of Lily",
       "file": "missing/T/304873-temple-of-lily.json"
@@ -49596,6 +49796,11 @@
       "igdb_id": 316982,
       "game_name": "Temple of Spider",
       "file": "missing/T/316982-temple-of-spider.json"
+    },
+    {
+      "igdb_id": 198519,
+      "game_name": "Temple of Tangram",
+      "file": "missing/T/198519-temple-of-tangram.json"
     },
     {
       "igdb_id": 336388,
@@ -50233,6 +50438,11 @@
       "file": "missing/T/271457-the-cobalt-palace.json"
     },
     {
+      "igdb_id": 198521,
+      "game_name": "The Code Zone Retro Pack",
+      "file": "missing/T/198521-the-code-zone-retro-pack.json"
+    },
+    {
       "igdb_id": 302140,
       "game_name": "The Cold Case",
       "file": "missing/T/302140-the-cold-case.json"
@@ -50813,6 +51023,11 @@
       "file": "missing/T/341319-the-gentleman.json"
     },
     {
+      "igdb_id": 198523,
+      "game_name": "The Geography",
+      "file": "missing/T/198523-the-geography.json"
+    },
+    {
       "igdb_id": 244994,
       "game_name": "The Geometric Golfer",
       "file": "missing/T/244994-the-geometric-golfer.json"
@@ -51316,6 +51531,11 @@
       "igdb_id": 324095,
       "game_name": "The Legend of Zelda: Oracle of Life Online",
       "file": "missing/T/324095-the-legend-of-zelda-oracle-of-life-online.json"
+    },
+    {
+      "igdb_id": 198543,
+      "game_name": "The Legend of Zelda: Parallel Worlds Remodel",
+      "file": "missing/T/198543-the-legend-of-zelda-parallel-worlds-remodel.json"
     },
     {
       "igdb_id": 213041,
@@ -53738,6 +53958,11 @@
       "file": "missing/T/224196-town-of-host.json"
     },
     {
+      "igdb_id": 198540,
+      "game_name": "Town of Tides",
+      "file": "missing/T/198540-town-of-tides.json"
+    },
+    {
       "igdb_id": 199128,
       "game_name": "Townframe",
       "file": "missing/T/199128-townframe.json"
@@ -54753,6 +54978,11 @@
       "file": "missing/T/232706-txxx.json"
     },
     {
+      "igdb_id": 198526,
+      "game_name": "Type the Entire of Ulysses. That's It. That's the Game.",
+      "file": "missing/T/198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json"
+    },
+    {
       "igdb_id": 322387,
       "game_name": "Typing Stars",
       "file": "missing/T/322387-typing-stars.json"
@@ -54811,6 +55041,11 @@
       "igdb_id": 248886,
       "game_name": "UFO: The Ranch",
       "file": "missing/U/248886-ufo-the-ranch.json"
+    },
+    {
+      "igdb_id": 198528,
+      "game_name": "Ug! Caveman Game",
+      "file": "missing/U/198528-ug-caveman-game.json"
     },
     {
       "igdb_id": 246103,
@@ -55096,6 +55331,11 @@
       "igdb_id": 225303,
       "game_name": "Undercover: Blood Bonds",
       "file": "missing/U/225303-undercover-blood-bonds.json"
+    },
+    {
+      "igdb_id": 198551,
+      "game_name": "Underdog Detective",
+      "file": "missing/U/198551-underdog-detective.json"
     },
     {
       "igdb_id": 335065,
@@ -55453,6 +55693,11 @@
       "file": "missing/U/223138-urban-drug-empire.json"
     },
     {
+      "igdb_id": 198535,
+      "game_name": "Urban Extreme",
+      "file": "missing/U/198535-urban-extreme.json"
+    },
+    {
       "igdb_id": 309083,
       "game_name": "Urban Flow Vehicle Vault",
       "file": "missing/U/309083-urban-flow-vehicle-vault.json"
@@ -55766,6 +56011,11 @@
       "igdb_id": 216494,
       "game_name": "Vayan",
       "file": "missing/V/216494-vayan.json"
+    },
+    {
+      "igdb_id": 198530,
+      "game_name": "Vector the Crocodile in Sonic the Hedgehog",
+      "file": "missing/V/198530-vector-the-crocodile-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 278687,
