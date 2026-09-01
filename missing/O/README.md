@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
+| Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operator Ace's Simple Infinite Survival | 278734 | [278734-operator-aces-simple-infinite-survival.json](./278734-operator-aces-simple-infinite-survival.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
+| Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
@@ -195,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out of Print | 294425 | [294425-out-of-print.json](./294425-out-of-print.json) |
+| Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
