@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero's Rest: An RPG Town Simulator | 206356 | [206356-a-heros-rest-an-rpg-town-simulator.json](./206356-a-heros-rest-an-rpg-town-simulator.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
+| A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A List of People Who Went Missing in the Scheleirland National Forest | 193468 | [193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json](./193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
@@ -310,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
+| Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
@@ -656,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
+| Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
