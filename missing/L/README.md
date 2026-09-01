@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
+| LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
