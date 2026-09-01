@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naddagil: A Nordic Nightmare | 314026 | [314026-naddagil-a-nordic-nightmare.json](./314026-naddagil-a-nordic-nightmare.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
+| Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
