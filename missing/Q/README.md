@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
+| Quester | 197387 | [197387-quester.json](./197387-quester.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
