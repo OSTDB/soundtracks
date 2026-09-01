@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
 | Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
+| Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
+| Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
