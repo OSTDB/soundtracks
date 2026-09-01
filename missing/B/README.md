@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
@@ -521,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Memory: Amazing Edition | 276452 | [276452-brain-memory-amazing-edition.json](./276452-brain-memory-amazing-edition.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
+| Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
