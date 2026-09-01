@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
+| A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
