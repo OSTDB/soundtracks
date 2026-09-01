@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
+| Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
+| Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
@@ -837,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
+| PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
@@ -910,3 +913,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
+| Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
