@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
 | Hoshizora no Memoria: Wish Upon a Shooting Star HD | 312361 | [312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json](./312361-hoshizora-no-memoria-wish-upon-a-shooting-star-hd.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
+| Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
