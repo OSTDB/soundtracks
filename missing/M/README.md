@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
+| MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
@@ -31,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
+| Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
@@ -100,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
+| Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
@@ -403,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
+| Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
