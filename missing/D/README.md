@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
+| Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Robotnik in Sonic the Hedgehog | 198517 | [198517-dr-robotnik-in-sonic-the-hedgehog.json](./198517-dr-robotnik-in-sonic-the-hedgehog.json) |
+| Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
@@ -584,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: First Home | 209171 | [209171-dream-day-first-home.json](./209171-dream-day-first-home.json) |
 | Dream Day: Honeymoon | 209172 | [209172-dream-day-honeymoon.json](./209172-dream-day-honeymoon.json) |
 | Dream Day: Wedding | 209173 | [209173-dream-day-wedding.json](./209173-dream-day-wedding.json) |
+| Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
