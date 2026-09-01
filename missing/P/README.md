@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
+| Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project S.A.M | 270952 | [270952-project-s-a-m.json](./270952-project-s-a-m.json) |
+| Project Scav | 173279 | [173279-project-scav.json](./173279-project-scav.json) |
 | Project Sekuter | 317606 | [317606-project-sekuter.json](./317606-project-sekuter.json) |
 | Project Shiver Wing | 212452 | [212452-project-shiver-wing.json](./212452-project-shiver-wing.json) |
 | Project SJHG | 320519 | [320519-project-sjhg.json](./320519-project-sjhg.json) |
