@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
+| We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
+| Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
@@ -398,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
+| Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
