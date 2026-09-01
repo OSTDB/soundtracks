@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
+| Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | YuMayhem | 292861 | [292861-yumayhem.json](./292861-yumayhem.json) |
