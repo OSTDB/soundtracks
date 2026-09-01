@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
+| Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
 | Kommersant | 180295 | [180295-kommersant.json](./180295-kommersant.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
