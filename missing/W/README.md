@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
+| Words | 197391 | [197391-words.json](./197391-words.json) |
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
