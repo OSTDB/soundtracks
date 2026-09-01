@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immersive Engineering | 232715 | [232715-immersive-engineering.json](./232715-immersive-engineering.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
+| Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Acorn! | 331136 | [331136-its-raining-acorn.json](./331136-its-raining-acorn.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
+| Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
