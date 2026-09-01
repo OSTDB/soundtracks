@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
+| Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
@@ -606,6 +607,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2 | 191229 | [191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json](./191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 3 | 191236 | [191236-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-3.json](./191236-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-3.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 4 | 191234 | [191234-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-4.json](./191234-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-4.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 5 | 191228 | [191228-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-5.json](./191228-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-5.json) |
+| Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 6 | 191231 | [191231-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-6.json](./191231-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-6.json) |
+| Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 1 | 191237 | [191237-artists-of-fortune-paint-by-numbers-spooky-rush-ep-1.json](./191237-artists-of-fortune-paint-by-numbers-spooky-rush-ep-1.json) |
+| Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 3 | 191233 | [191233-artists-of-fortune-paint-by-numbers-spooky-rush-ep-3.json](./191233-artists-of-fortune-paint-by-numbers-spooky-rush-ep-3.json) |
+| Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 4 | 191227 | [191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json](./191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json) |
+| Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
+| Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
 | Arx, After the Reckoning | 228694 | [228694-arx-after-the-reckoning.json](./228694-arx-after-the-reckoning.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
@@ -648,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
+| Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
@@ -692,8 +706,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
+| Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
+| Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
