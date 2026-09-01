@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intesa Vincente | 341899 | [341899-intesa-vincente.json](./341899-intesa-vincente.json) |
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
+| Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
 | Island Crisis | 331109 | [331109-island-crisis.json](./331109-island-crisis.json) |
 | Island Designer | 296652 | [296652-island-designer.json](./296652-island-designer.json) |
+| Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
