@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
+| A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
@@ -125,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
+| Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
@@ -415,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
+| Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
@@ -602,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
+| Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
