@@ -419,9 +419,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
+| Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
+| Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
@@ -486,7 +488,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
+| Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
+| Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
@@ -527,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
+| Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
