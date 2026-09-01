@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
 | LEGO Hill Climb Adventures | 242226 | [242226-lego-hill-climb-adventures.json](./242226-lego-hill-climb-adventures.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
+| LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
@@ -335,6 +336,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | LogiKing | 231051 | [231051-logiking.json](./231051-logiking.json) |
+| Logistical 2: Indonesia - Bundle | 168349 | [168349-logistical-2-indonesia-bundle.json](./168349-logistical-2-indonesia-bundle.json) |
+| Logistical 2: Mall Rats | 168348 | [168348-logistical-2-mall-rats.json](./168348-logistical-2-mall-rats.json) |
+| Logistical 2: Suriname - Xmas 2018 | 168346 | [168346-logistical-2-suriname-xmas-2018.json](./168346-logistical-2-suriname-xmas-2018.json) |
+| Logistical 2: Vampires - Bundle | 168347 | [168347-logistical-2-vampires-bundle.json](./168347-logistical-2-vampires-bundle.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
