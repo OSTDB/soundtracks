@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
+| Meat Shift | 181895 | [181895-meat-shift.json](./181895-meat-shift.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
+| Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melvor Idle: Atlas of Discovery | 259837 | [259837-melvor-idle-atlas-of-discovery.json](./259837-melvor-idle-atlas-of-discovery.json) |
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
@@ -730,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
+| Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
