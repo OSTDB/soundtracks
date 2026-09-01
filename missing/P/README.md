@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
+| Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
