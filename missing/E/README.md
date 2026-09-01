@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
+| Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
