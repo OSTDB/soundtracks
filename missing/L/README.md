@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
+| Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
@@ -234,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
+| Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
