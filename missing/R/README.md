@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
+| Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
+| Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
