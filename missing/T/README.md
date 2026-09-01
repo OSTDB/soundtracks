@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
+| Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
@@ -347,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bugger! | 258222 | [258222-the-bugger.json](./258222-the-bugger.json) |
+| The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
@@ -578,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
+| The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
@@ -793,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
+| The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
@@ -987,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
+| The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
@@ -1684,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 6 | 315264 | [315264-treasure-of-big-totem-6.json](./315264-treasure-of-big-totem-6.json) |
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
+| Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
