@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
+| Rock Paper Clicker | 191856 | [191856-rock-paper-clicker.json](./191856-rock-paper-clicker.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
@@ -437,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
+| Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
@@ -500,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
+| Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
@@ -556,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
+| Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
