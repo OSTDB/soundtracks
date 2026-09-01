@@ -941,6 +941,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
+| The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
+| The Tower of TigerQiuQiu 2: Ball Break | 157696 | [157696-the-tower-of-tigerqiuqiu-2-ball-break.json](./157696-the-tower-of-tigerqiuqiu-2-ball-break.json) |
+| The Tower of TigerQiuQiu 2: Ball Eliminate | 157688 | [157688-the-tower-of-tigerqiuqiu-2-ball-eliminate.json](./157688-the-tower-of-tigerqiuqiu-2-ball-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Ball Shooter | 157691 | [157691-the-tower-of-tigerqiuqiu-2-ball-shooter.json](./157691-the-tower-of-tigerqiuqiu-2-ball-shooter.json) |
+| The Tower of TigerQiuQiu 2: Ball Snake | 157683 | [157683-the-tower-of-tigerqiuqiu-2-ball-snake.json](./157683-the-tower-of-tigerqiuqiu-2-ball-snake.json) |
+| The Tower of TigerQiuQiu 2: Cat Eliminate | 157682 | [157682-the-tower-of-tigerqiuqiu-2-cat-eliminate.json](./157682-the-tower-of-tigerqiuqiu-2-cat-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Cats Eliminate | 157692 | [157692-the-tower-of-tigerqiuqiu-2-cats-eliminate.json](./157692-the-tower-of-tigerqiuqiu-2-cats-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Duck Eliminate | 157693 | [157693-the-tower-of-tigerqiuqiu-2-duck-eliminate.json](./157693-the-tower-of-tigerqiuqiu-2-duck-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Duck Killer | 157678 | [157678-the-tower-of-tigerqiuqiu-2-duck-killer.json](./157678-the-tower-of-tigerqiuqiu-2-duck-killer.json) |
+| The Tower of TigerQiuQiu 2: Duck Shooter | 157697 | [157697-the-tower-of-tigerqiuqiu-2-duck-shooter.json](./157697-the-tower-of-tigerqiuqiu-2-duck-shooter.json) |
+| The Tower of TigerQiuQiu 2: Flag Eliminate | 157689 | [157689-the-tower-of-tigerqiuqiu-2-flag-eliminate.json](./157689-the-tower-of-tigerqiuqiu-2-flag-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Flag Exam | 157677 | [157677-the-tower-of-tigerqiuqiu-2-flag-exam.json](./157677-the-tower-of-tigerqiuqiu-2-flag-exam.json) |
+| The Tower of TigerQiuQiu 2: Gem Three Elimin | 157699 | [157699-the-tower-of-tigerqiuqiu-2-gem-three-elimin.json](./157699-the-tower-of-tigerqiuqiu-2-gem-three-elimin.json) |
+| The Tower of TigerQiuQiu 2: Space Eliminate | 157681 | [157681-the-tower-of-tigerqiuqiu-2-space-eliminate.json](./157681-the-tower-of-tigerqiuqiu-2-space-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Star Eliminate | 157685 | [157685-the-tower-of-tigerqiuqiu-2-star-eliminate.json](./157685-the-tower-of-tigerqiuqiu-2-star-eliminate.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 | 157694 | [157694-the-tower-of-tigerqiuqiu-2-tiger-tank-70.json](./157694-the-tower-of-tigerqiuqiu-2-tiger-tank-70.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 II | 157680 | [157680-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ii.json](./157680-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ii.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 III | 157686 | [157686-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iii.json](./157686-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iii.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 IV | 157695 | [157695-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iv.json](./157695-the-tower-of-tigerqiuqiu-2-tiger-tank-70-iv.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 IX | 157700 | [157700-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ix.json](./157700-the-tower-of-tigerqiuqiu-2-tiger-tank-70-ix.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 V | 157679 | [157679-the-tower-of-tigerqiuqiu-2-tiger-tank-70-v.json](./157679-the-tower-of-tigerqiuqiu-2-tiger-tank-70-v.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 VI | 157687 | [157687-the-tower-of-tigerqiuqiu-2-tiger-tank-70-vi.json](./157687-the-tower-of-tigerqiuqiu-2-tiger-tank-70-vi.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 VII | 157684 | [157684-the-tower-of-tigerqiuqiu-2-tiger-tank-70-vii.json](./157684-the-tower-of-tigerqiuqiu-2-tiger-tank-70-vii.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 VIII | 157703 | [157703-the-tower-of-tigerqiuqiu-2-tiger-tank-70-viii.json](./157703-the-tower-of-tigerqiuqiu-2-tiger-tank-70-viii.json) |
+| The Tower of TigerQiuQiu 2: Tiger Tank 70 X | 157701 | [157701-the-tower-of-tigerqiuqiu-2-tiger-tank-70-x.json](./157701-the-tower-of-tigerqiuqiu-2-tiger-tank-70-x.json) |
+| The Tower of TigerQiuQiu 2: Under Water Bubble | 157704 | [157704-the-tower-of-tigerqiuqiu-2-under-water-bubble.json](./157704-the-tower-of-tigerqiuqiu-2-under-water-bubble.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
