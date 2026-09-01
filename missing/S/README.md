@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
+| Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
@@ -298,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
+| Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shall we date?: Angel or Devil | 225315 | [225315-shall-we-date-angel-or-devil.json](./225315-shall-we-date-angel-or-devil.json) |
 | Shall we date?: Ninja Love | 225316 | [225316-shall-we-date-ninja-love.json](./225316-shall-we-date-ninja-love.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
@@ -395,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short 'n Quick 2 | 274204 | [274204-short-n-quick-2.json](./274204-short-n-quick-2.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
+| Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
@@ -673,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
+| Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
@@ -919,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
+| Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
