@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
+| KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Music | 321169 | [321169-kill-the-music.json](./321169-kill-the-music.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
+| Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
