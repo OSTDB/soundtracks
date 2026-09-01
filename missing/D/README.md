@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
 | Divine Wish | 333379 | [333379-divine-wish.json](./333379-divine-wish.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
+| DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
