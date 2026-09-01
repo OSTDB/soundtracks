@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
+| Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
@@ -106,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
+| Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banzai Escape 2: Subterranean - KTactical | 297781 | [297781-banzai-escape-2-subterranean-ktactical.json](./297781-banzai-escape-2-subterranean-ktactical.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
@@ -335,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
+| Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
