@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
@@ -150,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
+| Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Radiation: Ready | 304860 | [304860-sea-of-radiation-ready.json](./304860-sea-of-radiation-ready.json) |
@@ -285,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
+| Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
@@ -930,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
+| Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
@@ -1300,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
+| Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
@@ -1353,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
+| Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
@@ -1408,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
 | Synapses | 302131 | [302131-synapses.json](./302131-synapses.json) |
+| SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
