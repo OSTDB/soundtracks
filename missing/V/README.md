@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
+| Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
