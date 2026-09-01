@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOT.vinnik Chess 2 | 219300 | [219300-bot-vinnik-chess-2.json](./219300-bot-vinnik-chess-2.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
+| Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
