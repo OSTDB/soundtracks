@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
+| Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
@@ -509,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
+| Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
@@ -526,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
+| Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
 | Clockwork Pussy | 158218 | [158218-clockwork-pussy.json](./158218-clockwork-pussy.json) |
@@ -1010,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
+| Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
