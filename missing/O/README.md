@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
+| Orisinal: Morning Sunshine | 194618 | [194618-orisinal-morning-sunshine.json](./194618-orisinal-morning-sunshine.json) |
 | Orisries | 314635 | [314635-orisries.json](./314635-orisries.json) |
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
 | Outbreak: Blood & Teeth Collection | 304365 | [304365-outbreak-blood-and-teeth-collection.json](./304365-outbreak-blood-and-teeth-collection.json) |
 | Outbreak: Co-Op Collection | 275903 | [275903-outbreak-co-op-collection.json](./275903-outbreak-co-op-collection.json) |
+| Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
