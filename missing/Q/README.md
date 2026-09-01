@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
+| Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
