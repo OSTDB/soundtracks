@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
