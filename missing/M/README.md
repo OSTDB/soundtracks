@@ -90,6 +90,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
+| Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
+| Maimai DX Universe | 167281 | [167281-maimai-dx-universe.json](./167281-maimai-dx-universe.json) |
 | Maimai DX Universe Plus | 331677 | [331677-maimai-dx-universe-plus.json](./331677-maimai-dx-universe-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
@@ -367,6 +369,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
+| Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
+| Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
+| Memory Match Saga: Expansion Pack 12 | 167330 | [167330-memory-match-saga-expansion-pack-12.json](./167330-memory-match-saga-expansion-pack-12.json) |
+| Memory Match Saga: Expansion Pack 2 | 167321 | [167321-memory-match-saga-expansion-pack-2.json](./167321-memory-match-saga-expansion-pack-2.json) |
+| Memory Match Saga: Expansion Pack 3 | 167322 | [167322-memory-match-saga-expansion-pack-3.json](./167322-memory-match-saga-expansion-pack-3.json) |
+| Memory Match Saga: Expansion Pack 4 | 167323 | [167323-memory-match-saga-expansion-pack-4.json](./167323-memory-match-saga-expansion-pack-4.json) |
+| Memory Match Saga: Expansion Pack 5 | 167324 | [167324-memory-match-saga-expansion-pack-5.json](./167324-memory-match-saga-expansion-pack-5.json) |
+| Memory Match Saga: Expansion Pack 6 | 167325 | [167325-memory-match-saga-expansion-pack-6.json](./167325-memory-match-saga-expansion-pack-6.json) |
+| Memory Match Saga: Expansion Pack 7 | 167326 | [167326-memory-match-saga-expansion-pack-7.json](./167326-memory-match-saga-expansion-pack-7.json) |
+| Memory Match Saga: Expansion Pack 8 | 167327 | [167327-memory-match-saga-expansion-pack-8.json](./167327-memory-match-saga-expansion-pack-8.json) |
+| Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
@@ -653,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
+| Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
