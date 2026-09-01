@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
+| Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
+| Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
