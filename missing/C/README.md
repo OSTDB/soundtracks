@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
+| Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
