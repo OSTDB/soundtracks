@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
+| Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
