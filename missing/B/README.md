@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
+| Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
@@ -792,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
+| Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
@@ -846,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
+| Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
