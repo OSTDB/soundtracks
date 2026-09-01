@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
 | I Love Food | 197907 | [197907-i-love-food.json](./197907-i-love-food.json) |
+| I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
+| It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
