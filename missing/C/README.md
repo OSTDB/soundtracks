@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
+| Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
@@ -651,6 +652,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
+| Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
+| Construction Simulator 2015: Liebherr A 918 | 168922 | [168922-construction-simulator-2015-liebherr-a-918.json](./168922-construction-simulator-2015-liebherr-a-918.json) |
+| Construction Simulator 2015: Liebherr HTM 1204 ZA | 168920 | [168920-construction-simulator-2015-liebherr-htm-1204-za.json](./168920-construction-simulator-2015-liebherr-htm-1204-za.json) |
+| Construction Simulator 2015: Liebherr LB 28 | 168921 | [168921-construction-simulator-2015-liebherr-lb-28.json](./168921-construction-simulator-2015-liebherr-lb-28.json) |
+| Construction Simulator 2015: Liebherr LR 1300 | 168919 | [168919-construction-simulator-2015-liebherr-lr-1300.json](./168919-construction-simulator-2015-liebherr-lr-1300.json) |
+| Construction Simulator 2015: Liebherr LTM 1300 6.2 | 168918 | [168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json](./168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json) |
+| Construction Simulator 2015: St. John's Hospital Fuchsberg | 168915 | [168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json](./168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json) |
+| Construction Simulator 2015: Vertical Skyline | 168917 | [168917-construction-simulator-2015-vertical-skyline.json](./168917-construction-simulator-2015-vertical-skyline.json) |
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
