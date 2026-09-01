@@ -572,3 +572,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
+| Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
