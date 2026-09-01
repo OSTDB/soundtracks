@@ -41,12 +41,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
+| Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
+| Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
