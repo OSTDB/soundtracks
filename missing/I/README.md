@@ -214,6 +214,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
+| Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
+| Injustice 2: Brainiac | 165042 | [165042-injustice-2-brainiac.json](./165042-injustice-2-brainiac.json) |
+| Injustice 2: Darkseid | 165043 | [165043-injustice-2-darkseid.json](./165043-injustice-2-darkseid.json) |
+| Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
+| Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
+| Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
+| Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
