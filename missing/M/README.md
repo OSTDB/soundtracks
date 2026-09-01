@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
+| Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
+| Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
@@ -764,6 +766,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
+| Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
+| Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
