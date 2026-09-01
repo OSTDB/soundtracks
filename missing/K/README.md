@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
+| Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
+| Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
@@ -190,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
+| Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | KMON: Genesis | 254790 | [254790-kmon-genesis.json](./254790-kmon-genesis.json) |
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
