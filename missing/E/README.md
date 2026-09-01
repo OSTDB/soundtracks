@@ -84,6 +84,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
+| Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
+| Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -288,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
+| Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
