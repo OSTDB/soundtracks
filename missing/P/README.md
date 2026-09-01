@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
+| Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
+| Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
