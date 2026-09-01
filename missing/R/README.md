@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
+| Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
+| Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | Robodash | 257093 | [257093-robodash.json](./257093-robodash.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
@@ -390,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
+| Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
