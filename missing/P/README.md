@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
+| Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
+| Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
+| Phoenix Point: Corrupted Horizons | 171628 | [171628-phoenix-point-corrupted-horizons.json](./171628-phoenix-point-corrupted-horizons.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
