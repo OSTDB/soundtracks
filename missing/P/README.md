@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
+| Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
+| Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
