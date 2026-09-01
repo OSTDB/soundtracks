@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
+| Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
