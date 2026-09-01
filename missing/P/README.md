@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
+| Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
