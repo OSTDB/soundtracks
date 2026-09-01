@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
+| Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
