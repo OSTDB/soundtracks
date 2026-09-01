@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
+| Tales of the Underworld: Legends of Primordial Sea | 186337 | [186337-tales-of-the-underworld-legends-of-primordial-sea.json](./186337-tales-of-the-underworld-legends-of-primordial-sea.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
@@ -186,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
+| Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tetris | 215381 | [215381-tetris.json](./215381-tetris.json) |
 | Tetris | 215386 | [215386-tetris.json](./215386-tetris.json) |
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
@@ -385,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
@@ -810,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1 | 271466 | [271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json](./271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
+| Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
@@ -949,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
+| Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
