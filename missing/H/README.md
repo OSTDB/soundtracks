@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
+| HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
+| Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
 | Heretic’s Fork: Probation | 251822 | [251822-heretic-s-fork-probation.json](./251822-heretic-s-fork-probation.json) |
@@ -322,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
+| Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
@@ -547,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
