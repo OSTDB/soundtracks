@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
+| Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
+| Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
