@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Aim Trainer | 338555 | [338555-waifu-aim-trainer.json](./338555-waifu-aim-trainer.json) |
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
+| Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
