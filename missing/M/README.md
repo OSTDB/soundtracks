@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monkey Doomsday | 190192 | [190192-monkey-doomsday.json](./190192-monkey-doomsday.json) |
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
+| Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
