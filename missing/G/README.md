@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
+| Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
+| Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
