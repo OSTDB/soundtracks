@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:03:29.486Z",
-  "total_missing": 15062,
+  "generated_at": "2026-09-01T18:17:51.925Z",
+  "total_missing": 15112,
   "games": [
     {
       "igdb_id": 306086,
@@ -23998,6 +23998,11 @@
       "file": "missing/F/253568-frontera.json"
     },
     {
+      "igdb_id": 162905,
+      "game_name": "Frontier",
+      "file": "missing/F/162905-frontier.json"
+    },
+    {
       "igdb_id": 337478,
       "game_name": "Frontier Force Vanguard",
       "file": "missing/F/337478-frontier-force-vanguard.json"
@@ -39876,6 +39881,126 @@
       "igdb_id": 300373,
       "game_name": "MOE Emo Girls Multiplayer",
       "file": "missing/M/300373-moe-emo-girls-multiplayer.json"
+    },
+    {
+      "igdb_id": 162921,
+      "game_name": "Moe Jigsaw: Abnormal Lovers Pack",
+      "file": "missing/M/162921-moe-jigsaw-abnormal-lovers-pack.json"
+    },
+    {
+      "igdb_id": 162925,
+      "game_name": "Moe Jigsaw: Aikagi Pack",
+      "file": "missing/M/162925-moe-jigsaw-aikagi-pack.json"
+    },
+    {
+      "igdb_id": 162909,
+      "game_name": "Moe Jigsaw: Amakano Pack",
+      "file": "missing/M/162909-moe-jigsaw-amakano-pack.json"
+    },
+    {
+      "igdb_id": 162911,
+      "game_name": "Moe Jigsaw: Blessing of the Campanella Pack",
+      "file": "missing/M/162911-moe-jigsaw-blessing-of-the-campanella-pack.json"
+    },
+    {
+      "igdb_id": 162918,
+      "game_name": "Moe Jigsaw: Blessing of the Campanella vol.2 Pack",
+      "file": "missing/M/162918-moe-jigsaw-blessing-of-the-campanella-vol-2-pack.json"
+    },
+    {
+      "igdb_id": 162908,
+      "game_name": "Moe Jigsaw: Blessing of the Campanella X Pack",
+      "file": "missing/M/162908-moe-jigsaw-blessing-of-the-campanella-x-pack.json"
+    },
+    {
+      "igdb_id": 162926,
+      "game_name": "Moe Jigsaw: Harukaze Sensation! Pack",
+      "file": "missing/M/162926-moe-jigsaw-harukaze-sensation-pack.json"
+    },
+    {
+      "igdb_id": 162906,
+      "game_name": "Moe Jigsaw: Hatsukoi Sankaime Pack",
+      "file": "missing/M/162906-moe-jigsaw-hatsukoi-sankaime-pack.json"
+    },
+    {
+      "igdb_id": 162915,
+      "game_name": "Moe Jigsaw: HHG -The end of the Goddess Pack",
+      "file": "missing/M/162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json"
+    },
+    {
+      "igdb_id": 162912,
+      "game_name": "Moe Jigsaw: Hyper-Highspeed-Genius vol.2 Pack",
+      "file": "missing/M/162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json"
+    },
+    {
+      "igdb_id": 162913,
+      "game_name": "Moe Jigsaw: Hyper-Highspeed-Genius X Pack",
+      "file": "missing/M/162913-moe-jigsaw-hyper-highspeed-genius-x-pack.json"
+    },
+    {
+      "igdb_id": 162928,
+      "game_name": "Moe Jigsaw: Iro ni idenikeri waga koi ha Pack",
+      "file": "missing/M/162928-moe-jigsaw-iro-ni-idenikeri-waga-koi-ha-pack.json"
+    },
+    {
+      "igdb_id": 162910,
+      "game_name": "Moe Jigsaw: Kamigakari Cross Heart! Pack",
+      "file": "missing/M/162910-moe-jigsaw-kamigakari-cross-heart-pack.json"
+    },
+    {
+      "igdb_id": 162907,
+      "game_name": "Moe Jigsaw: Kamigakari Cross Heart! vol.2 Pack",
+      "file": "missing/M/162907-moe-jigsaw-kamigakari-cross-heart-vol-2-pack.json"
+    },
+    {
+      "igdb_id": 162919,
+      "game_name": "Moe Jigsaw: Sengoku Koihime Pack",
+      "file": "missing/M/162919-moe-jigsaw-sengoku-koihime-pack.json"
+    },
+    {
+      "igdb_id": 162924,
+      "game_name": "Moe Jigsaw: Shin Koihime Musou Pack",
+      "file": "missing/M/162924-moe-jigsaw-shin-koihime-musou-pack.json"
+    },
+    {
+      "igdb_id": 162922,
+      "game_name": "Moe Jigsaw: Shin Koihime Musou vol.2 Pack",
+      "file": "missing/M/162922-moe-jigsaw-shin-koihime-musou-vol-2-pack.json"
+    },
+    {
+      "igdb_id": 162923,
+      "game_name": "Moe Jigsaw: Shin Koihime Musou vol.3 Pack",
+      "file": "missing/M/162923-moe-jigsaw-shin-koihime-musou-vol-3-pack.json"
+    },
+    {
+      "igdb_id": 162916,
+      "game_name": "Moe Jigsaw: Shin Koihime Musou vol.4 Pack",
+      "file": "missing/M/162916-moe-jigsaw-shin-koihime-musou-vol-4-pack.json"
+    },
+    {
+      "igdb_id": 162920,
+      "game_name": "Moe Jigsaw: Special prices Pack",
+      "file": "missing/M/162920-moe-jigsaw-special-prices-pack.json"
+    },
+    {
+      "igdb_id": 162927,
+      "game_name": "Moe Jigsaw: Tsunagaru Bangle Pack",
+      "file": "missing/M/162927-moe-jigsaw-tsunagaru-bangle-pack.json"
+    },
+    {
+      "igdb_id": 162914,
+      "game_name": "Moe Jigsaw: Unlucky Reverse Pack",
+      "file": "missing/M/162914-moe-jigsaw-unlucky-reverse-pack.json"
+    },
+    {
+      "igdb_id": 162929,
+      "game_name": "Moe Jigsaw: Witch's Garden Pack",
+      "file": "missing/M/162929-moe-jigsaw-witchs-garden-pack.json"
+    },
+    {
+      "igdb_id": 162917,
+      "game_name": "Moe Jigsaw: Witch's Garden vol.2 Pack",
+      "file": "missing/M/162917-moe-jigsaw-witchs-garden-vol-2-pack.json"
     },
     {
       "igdb_id": 337988,
@@ -62361,6 +62486,131 @@
       "igdb_id": 339092,
       "game_name": "TableSoccer",
       "file": "missing/T/339092-tablesoccer.json"
+    },
+    {
+      "igdb_id": 162891,
+      "game_name": "Tabletopia: Aquanauts",
+      "file": "missing/T/162891-tabletopia-aquanauts.json"
+    },
+    {
+      "igdb_id": 162882,
+      "game_name": "Tabletopia: Argent - the Consortium",
+      "file": "missing/T/162882-tabletopia-argent-the-consortium.json"
+    },
+    {
+      "igdb_id": 162896,
+      "game_name": "Tabletopia: Champions of Midgard",
+      "file": "missing/T/162896-tabletopia-champions-of-midgard.json"
+    },
+    {
+      "igdb_id": 162893,
+      "game_name": "Tabletopia: Champions of Midgard - The Dark Mountains",
+      "file": "missing/T/162893-tabletopia-champions-of-midgard-the-dark-mountains.json"
+    },
+    {
+      "igdb_id": 162890,
+      "game_name": "Tabletopia: Champions of Midgard - Valhalla",
+      "file": "missing/T/162890-tabletopia-champions-of-midgard-valhalla.json"
+    },
+    {
+      "igdb_id": 162903,
+      "game_name": "Tabletopia: Constellations",
+      "file": "missing/T/162903-tabletopia-constellations.json"
+    },
+    {
+      "igdb_id": 162888,
+      "game_name": "Tabletopia: Eight-Minute Empire - Legends",
+      "file": "missing/T/162888-tabletopia-eight-minute-empire-legends.json"
+    },
+    {
+      "igdb_id": 162895,
+      "game_name": "Tabletopia: Feudum + Expansions",
+      "file": "missing/T/162895-tabletopia-feudum-expansions.json"
+    },
+    {
+      "igdb_id": 162899,
+      "game_name": "Tabletopia: Guards of Atlantis II",
+      "file": "missing/T/162899-tabletopia-guards-of-atlantis-ii.json"
+    },
+    {
+      "igdb_id": 162881,
+      "game_name": "Tabletopia: Maximum Apocalypse",
+      "file": "missing/T/162881-tabletopia-maximum-apocalypse.json"
+    },
+    {
+      "igdb_id": 162884,
+      "game_name": "Tabletopia: NewSpeak",
+      "file": "missing/T/162884-tabletopia-newspeak.json"
+    },
+    {
+      "igdb_id": 162904,
+      "game_name": "Tabletopia: Orléans",
+      "file": "missing/T/162904-tabletopia-orleans.json"
+    },
+    {
+      "igdb_id": 162885,
+      "game_name": "Tabletopia: Raiders of the North Sea",
+      "file": "missing/T/162885-tabletopia-raiders-of-the-north-sea.json"
+    },
+    {
+      "igdb_id": 162880,
+      "game_name": "Tabletopia: Scythe - The Wind Gambit",
+      "file": "missing/T/162880-tabletopia-scythe-the-wind-gambit.json"
+    },
+    {
+      "igdb_id": 162901,
+      "game_name": "Tabletopia: Scythe - The Wind Gambit + Invaders from Afar",
+      "file": "missing/T/162901-tabletopia-scythe-the-wind-gambit-invaders-from-afar.json"
+    },
+    {
+      "igdb_id": 162889,
+      "game_name": "Tabletopia: Sellswords + Olympus",
+      "file": "missing/T/162889-tabletopia-sellswords-olympus.json"
+    },
+    {
+      "igdb_id": 162897,
+      "game_name": "Tabletopia: Sub Terra + Expansions",
+      "file": "missing/T/162897-tabletopia-sub-terra-expansions.json"
+    },
+    {
+      "igdb_id": 162894,
+      "game_name": "Tabletopia: Sub Terra II - Inferno's Edge",
+      "file": "missing/T/162894-tabletopia-sub-terra-ii-infernos-edge.json"
+    },
+    {
+      "igdb_id": 162886,
+      "game_name": "Tabletopia: Tapestry",
+      "file": "missing/T/162886-tabletopia-tapestry.json"
+    },
+    {
+      "igdb_id": 162902,
+      "game_name": "Tabletopia: The Networks",
+      "file": "missing/T/162902-tabletopia-the-networks.json"
+    },
+    {
+      "igdb_id": 162900,
+      "game_name": "Tabletopia: Viticulture - Essential Edition",
+      "file": "missing/T/162900-tabletopia-viticulture-essential-edition.json"
+    },
+    {
+      "igdb_id": 162892,
+      "game_name": "Tabletopia: Wingspan",
+      "file": "missing/T/162892-tabletopia-wingspan.json"
+    },
+    {
+      "igdb_id": 162887,
+      "game_name": "Tabletopia: Wingspan - European Expansion",
+      "file": "missing/T/162887-tabletopia-wingspan-european-expansion.json"
+    },
+    {
+      "igdb_id": 162883,
+      "game_name": "Tabletopia: Wizard Kittens + Magical Monsters Expansion",
+      "file": "missing/T/162883-tabletopia-wizard-kittens-magical-monsters-expansion.json"
+    },
+    {
+      "igdb_id": 162898,
+      "game_name": "Tabletopia: Zoom In Barcelona",
+      "file": "missing/T/162898-tabletopia-zoom-in-barcelona.json"
     },
     {
       "igdb_id": 315850,
