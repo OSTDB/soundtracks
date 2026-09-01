@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 8 | 305504 | [305504-paint-by-numbers-8-bit-world-ep-8.json](./305504-paint-by-numbers-8-bit-world-ep-8.json) |
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
+| Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
+| Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
@@ -422,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Player: Bubble Bobble | 245544 | [245544-pocket-player-bubble-bobble.json](./245544-pocket-player-bubble-bobble.json) |
 | Pocket Pool | 225877 | [225877-pocket-pool.json](./225877-pocket-pool.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
+| Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
@@ -658,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
+| Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
@@ -684,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
+| Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Puppet Tale | 242814 | [242814-puppet-tale.json](./242814-puppet-tale.json) |
