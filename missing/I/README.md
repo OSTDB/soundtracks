@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
+| Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
