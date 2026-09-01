@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
+| Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
