@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark City: Paris Collector's Edition | 190743 | [190743-dark-city-paris-collectors-edition.json](./190743-dark-city-paris-collectors-edition.json) |
+| Dark Colors | 190235 | [190235-dark-colors.json](./190235-dark-colors.json) |
 | Dark Days: Zombie Survival | 197372 | [197372-dark-days-zombie-survival.json](./197372-dark-days-zombie-survival.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
+| Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
@@ -427,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
+| Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
@@ -540,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
+| Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
@@ -649,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
+| Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
