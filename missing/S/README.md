@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
+| Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
