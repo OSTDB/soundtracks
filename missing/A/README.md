@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Beaks | 230536 | [230536-adventure-beaks.json](./230536-adventure-beaks.json) |
 | Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
+| Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Space | 237670 | [237670-adventure-in-space.json](./237670-adventure-in-space.json) |
 | Adventure in Wachirawit World | 314076 | [314076-adventure-in-wachirawit-world.json](./314076-adventure-in-wachirawit-world.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
@@ -441,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
+| Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Orange Pinball | 266517 | [266517-annoying-orange-pinball.json](./266517-annoying-orange-pinball.json) |
@@ -509,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
+| Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
@@ -605,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
+| Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
