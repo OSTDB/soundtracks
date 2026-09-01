@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
+| Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
