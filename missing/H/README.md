@@ -25,6 +25,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
+| Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
+| HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
@@ -66,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
+| Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
