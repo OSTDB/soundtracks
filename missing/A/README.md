@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
+| A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
@@ -334,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
+| All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
