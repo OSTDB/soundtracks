@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
+| Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | Ippan Mario | 268193 | [268193-ippan-mario.json](./268193-ippan-mario.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
