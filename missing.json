@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:18:15.201Z",
-  "total_missing": 14912,
+  "generated_at": "2026-09-01T17:33:06.185Z",
+  "total_missing": 14962,
   "games": [
     {
       "igdb_id": 306086,
@@ -191,6 +191,96 @@
       "igdb_id": 212457,
       "game_name": "100 Years: Life Simulator",
       "file": "missing/0-9/212457-100-years-life-simulator.json"
+    },
+    {
+      "igdb_id": 164483,
+      "game_name": "100% Orange Juice: Acceleration Pack",
+      "file": "missing/0-9/164483-100-orange-juice-acceleration-pack.json"
+    },
+    {
+      "igdb_id": 164469,
+      "game_name": "100% Orange Juice: Alicianrone & Teotoratta",
+      "file": "missing/0-9/164469-100-orange-juice-alicianrone-and-teotoratta.json"
+    },
+    {
+      "igdb_id": 164468,
+      "game_name": "100% Orange Juice: Alte & Kyoko",
+      "file": "missing/0-9/164468-100-orange-juice-alte-and-kyoko.json"
+    },
+    {
+      "igdb_id": 164476,
+      "game_name": "100% Orange Juice: Chris & Kyupita",
+      "file": "missing/0-9/164476-100-orange-juice-chris-and-kyupita.json"
+    },
+    {
+      "igdb_id": 164482,
+      "game_name": "100% Orange Juice: Krila & Kae",
+      "file": "missing/0-9/164482-100-orange-juice-krila-and-kae.json"
+    },
+    {
+      "igdb_id": 164475,
+      "game_name": "100% Orange Juice: Mei & Natsumi",
+      "file": "missing/0-9/164475-100-orange-juice-mei-and-natsumi.json"
+    },
+    {
+      "igdb_id": 164472,
+      "game_name": "100% Orange Juice: Nath & Tomato+Mimyuu",
+      "file": "missing/0-9/164472-100-orange-juice-nath-and-tomato-mimyuu.json"
+    },
+    {
+      "igdb_id": 164466,
+      "game_name": "100% Orange Juice: Pudding Pack",
+      "file": "missing/0-9/164466-100-orange-juice-pudding-pack.json"
+    },
+    {
+      "igdb_id": 164474,
+      "game_name": "100% Orange Juice: Railway Runners Pack",
+      "file": "missing/0-9/164474-100-orange-juice-railway-runners-pack.json"
+    },
+    {
+      "igdb_id": 164471,
+      "game_name": "100% Orange Juice: Saki & Kyousuke",
+      "file": "missing/0-9/164471-100-orange-juice-saki-and-kyousuke.json"
+    },
+    {
+      "igdb_id": 164477,
+      "game_name": "100% Orange Juice: Sham & Sherry",
+      "file": "missing/0-9/164477-100-orange-juice-sham-and-sherry.json"
+    },
+    {
+      "igdb_id": 164478,
+      "game_name": "100% Orange Juice: Sora & Sham (Cuties)",
+      "file": "missing/0-9/164478-100-orange-juice-sora-and-sham-cuties.json"
+    },
+    {
+      "igdb_id": 164473,
+      "game_name": "100% Orange Juice: Syura & Nanako",
+      "file": "missing/0-9/164473-100-orange-juice-syura-and-nanako.json"
+    },
+    {
+      "igdb_id": 164479,
+      "game_name": "100% Orange Juice: Toy Store Pack",
+      "file": "missing/0-9/164479-100-orange-juice-toy-store-pack.json"
+    },
+    {
+      "igdb_id": 164480,
+      "game_name": "100% Orange Juice: Wanderer Pack",
+      "file": "missing/0-9/164480-100-orange-juice-wanderer-pack.json"
+    },
+    {
+      "igdb_id": 164467,
+      "game_name": "100% Orange Juice: Witch Pack",
+      "file": "missing/0-9/164467-100-orange-juice-witch-pack.json"
+    },
+    {
+      "igdb_id": 164470,
+      "game_name": "100% Orange Juice: Yuki & Tomomo Renewal Pack",
+      "file": "missing/0-9/164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json"
+    },
+    {
+      "igdb_id": 164481,
+      "game_name": "100% Orange Juice: Yuuki & Islay",
+      "file": "missing/0-9/164481-100-orange-juice-yuuki-and-islay.json"
     },
     {
       "igdb_id": 293938,
@@ -1386,6 +1476,11 @@
       "igdb_id": 316439,
       "game_name": "Abandoned City",
       "file": "missing/A/316439-abandoned-city.json"
+    },
+    {
+      "igdb_id": 164513,
+      "game_name": "Abandoned Life",
+      "file": "missing/A/164513-abandoned-life.json"
     },
     {
       "igdb_id": 178084,
@@ -8408,6 +8503,11 @@
       "file": "missing/B/197906-borneo-a-jungle-nightmare.json"
     },
     {
+      "igdb_id": 164506,
+      "game_name": "Börnies Journey",
+      "file": "missing/B/164506-bornies-journey.json"
+    },
+    {
       "igdb_id": 314071,
       "game_name": "Borrowed Book",
       "file": "missing/B/314071-borrowed-book.json"
@@ -13983,6 +14083,11 @@
       "file": "missing/C/173296-crusade-of-deitra.json"
     },
     {
+      "igdb_id": 164510,
+      "game_name": "Crusader Kings III: Northern Lords",
+      "file": "missing/C/164510-crusader-kings-iii-northern-lords.json"
+    },
+    {
       "igdb_id": 260406,
       "game_name": "Crusaders Arena",
       "file": "missing/C/260406-crusaders-arena.json"
@@ -18648,6 +18753,11 @@
       "file": "missing/D/184626-dungeontracks-in-charms-way.json"
     },
     {
+      "igdb_id": 164512,
+      "game_name": "Dungless 2",
+      "file": "missing/D/164512-dungless-2.json"
+    },
+    {
       "igdb_id": 254776,
       "game_name": "Dunia: The North Wood",
       "file": "missing/D/254776-dunia-the-north-wood.json"
@@ -22693,6 +22803,11 @@
       "file": "missing/F/236512-flyghts.json"
     },
     {
+      "igdb_id": 164504,
+      "game_name": "Flying Hero VR",
+      "file": "missing/F/164504-flying-hero-vr.json"
+    },
+    {
       "igdb_id": 278156,
       "game_name": "Flying Stunt Simulator",
       "file": "missing/F/278156-flying-stunt-simulator.json"
@@ -26008,6 +26123,11 @@
       "file": "missing/G/225268-gospel-of-eve.json"
     },
     {
+      "igdb_id": 164515,
+      "game_name": "GOTC: Siege on the Lightorder Citadel",
+      "file": "missing/G/164515-gotc-siege-on-the-lightorder-citadel.json"
+    },
+    {
       "igdb_id": 250633,
       "game_name": "Gotcha",
       "file": "missing/G/250633-gotcha.json"
@@ -26273,6 +26393,11 @@
       "file": "missing/G/278134-gravity-backpack.json"
     },
     {
+      "igdb_id": 164511,
+      "game_name": "Gravity Block",
+      "file": "missing/G/164511-gravity-block.json"
+    },
+    {
       "igdb_id": 190204,
       "game_name": "Gravity Flip",
       "file": "missing/G/190204-gravity-flip.json"
@@ -26411,6 +26536,11 @@
       "igdb_id": 323501,
       "game_name": "Gretel: The Lost Tale",
       "file": "missing/G/323501-gretel-the-lost-tale.json"
+    },
+    {
+      "igdb_id": 164505,
+      "game_name": "Grey Bones",
+      "file": "missing/G/164505-grey-bones.json"
     },
     {
       "igdb_id": 304905,
@@ -30476,6 +30606,11 @@
       "igdb_id": 167302,
       "game_name": "Immure: Part Two",
       "file": "missing/I/167302-immure-part-two.json"
+    },
+    {
+      "igdb_id": 164508,
+      "game_name": "Impact Trial: Simulation",
+      "file": "missing/I/164508-impact-trial-simulation.json"
     },
     {
       "igdb_id": 339091,
@@ -39971,6 +40106,11 @@
       "igdb_id": 214198,
       "game_name": "Monsters: The Hunter of Darkness",
       "file": "missing/M/214198-monsters-the-hunter-of-darkness.json"
+    },
+    {
+      "igdb_id": 164509,
+      "game_name": "Monsty Corp",
+      "file": "missing/M/164509-monsty-corp.json"
     },
     {
       "igdb_id": 296059,
@@ -52498,9 +52638,109 @@
       "file": "missing/R/273098-romance-is-dead.json"
     },
     {
+      "igdb_id": 164485,
+      "game_name": "Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu",
+      "file": "missing/R/164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json"
+    },
+    {
+      "igdb_id": 164487,
+      "game_name": "Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers",
+      "file": "missing/R/164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json"
+    },
+    {
+      "igdb_id": 164488,
+      "game_name": "Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei",
+      "file": "missing/R/164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json"
+    },
+    {
+      "igdb_id": 164496,
+      "game_name": "Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 4th Wave: The Battle for Wu",
+      "file": "missing/R/164496-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-4th-wave-the-battle-for-wu.json"
+    },
+    {
+      "igdb_id": 164503,
+      "game_name": "Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set",
+      "file": "missing/R/164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json"
+    },
+    {
       "igdb_id": 225915,
       "game_name": "Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3",
       "file": "missing/R/225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json"
+    },
+    {
+      "igdb_id": 164492,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky",
+      "file": "missing/R/164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json"
+    },
+    {
+      "igdb_id": 164490,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - Battle of Tong Gate & Event Set",
+      "file": "missing/R/164490-romance-of-the-three-kingdoms-xiii-scenario-battle-of-tong-gate-and-event-set.json"
+    },
+    {
+      "igdb_id": 164489,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - Conflict among Clans",
+      "file": "missing/R/164489-romance-of-the-three-kingdoms-xiii-scenario-conflict-among-clans.json"
+    },
+    {
+      "igdb_id": 164501,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - Gongsun Zan: The Hero of Hebei",
+      "file": "missing/R/164501-romance-of-the-three-kingdoms-xiii-scenario-gongsun-zan-the-hero-of-hebei.json"
+    },
+    {
+      "igdb_id": 164491,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - Hebei Conflict & Event Set",
+      "file": "missing/R/164491-romance-of-the-three-kingdoms-xiii-scenario-hebei-conflict-and-event-set.json"
+    },
+    {
+      "igdb_id": 164494,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Battle of Hefei & Event Set",
+      "file": "missing/R/164494-romance-of-the-three-kingdoms-xiii-scenario-the-battle-of-hefei-and-event-set.json"
+    },
+    {
+      "igdb_id": 164486,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Lu Bu Campaign & Event Set",
+      "file": "missing/R/164486-romance-of-the-three-kingdoms-xiii-scenario-the-lu-bu-campaign-and-event-set.json"
+    },
+    {
+      "igdb_id": 164495,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Rise of Cao Cao & Event Set",
+      "file": "missing/R/164495-romance-of-the-three-kingdoms-xiii-scenario-the-rise-of-cao-cao-and-event-set.json"
+    },
+    {
+      "igdb_id": 164484,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Start of Change",
+      "file": "missing/R/164484-romance-of-the-three-kingdoms-xiii-scenario-the-start-of-change.json"
+    },
+    {
+      "igdb_id": 164497,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Subjugation of Nanman & Event Set",
+      "file": "missing/R/164497-romance-of-the-three-kingdoms-xiii-scenario-the-subjugation-of-nanman-and-event-set.json"
+    },
+    {
+      "igdb_id": 164498,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario - The Wavering Han Dynasty & Event Set",
+      "file": "missing/R/164498-romance-of-the-three-kingdoms-xiii-scenario-the-wavering-han-dynasty-and-event-set.json"
+    },
+    {
+      "igdb_id": 164499,
+      "game_name": "Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province",
+      "file": "missing/R/164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json"
+    },
+    {
+      "igdb_id": 164493,
+      "game_name": "Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set",
+      "file": "missing/R/164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json"
+    },
+    {
+      "igdb_id": 164502,
+      "game_name": "Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set",
+      "file": "missing/R/164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json"
+    },
+    {
+      "igdb_id": 164500,
+      "game_name": "Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang",
+      "file": "missing/R/164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json"
     },
     {
       "igdb_id": 224775,
@@ -52826,6 +53066,11 @@
       "igdb_id": 263759,
       "game_name": "RPG Golf with Vampires",
       "file": "missing/R/263759-rpg-golf-with-vampires.json"
+    },
+    {
+      "igdb_id": 164507,
+      "game_name": "RPG Tycoon: Supply & Demand",
+      "file": "missing/R/164507-rpg-tycoon-supply-and-demand.json"
     },
     {
       "igdb_id": 232708,
@@ -74026,6 +74271,11 @@
       "igdb_id": 257650,
       "game_name": "Yuji Naka's NES Game",
       "file": "missing/Y/257650-yuji-nakas-nes-game.json"
+    },
+    {
+      "igdb_id": 164514,
+      "game_name": "Yukiguni no Shoujo",
+      "file": "missing/Y/164514-yukiguni-no-shoujo.json"
     },
     {
       "igdb_id": 220302,
