@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
+| Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
+| Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
+| Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
 | Don't Look | 177547 | [177547-dont-look.json](./177547-dont-look.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
@@ -773,6 +776,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
+| Dungeon Arena: Arena Alien planet | 167843 | [167843-dungeon-arena-arena-alien-planet.json](./167843-dungeon-arena-arena-alien-planet.json) |
+| Dungeon Arena: Arena King's palace | 167842 | [167842-dungeon-arena-arena-kings-palace.json](./167842-dungeon-arena-arena-kings-palace.json) |
+| Dungeon Arena: Arena Pirates | 167840 | [167840-dungeon-arena-arena-pirates.json](./167840-dungeon-arena-arena-pirates.json) |
+| Dungeon Arena: Arena Snowy plain | 167844 | [167844-dungeon-arena-arena-snowy-plain.json](./167844-dungeon-arena-arena-snowy-plain.json) |
+| Dungeon Arena: Class Bard | 167848 | [167848-dungeon-arena-class-bard.json](./167848-dungeon-arena-class-bard.json) |
+| Dungeon Arena: Class Dancer | 167846 | [167846-dungeon-arena-class-dancer.json](./167846-dungeon-arena-class-dancer.json) |
+| Dungeon Arena: Class Gnome | 167847 | [167847-dungeon-arena-class-gnome.json](./167847-dungeon-arena-class-gnome.json) |
+| Dungeon Arena: Class Ninja | 167845 | [167845-dungeon-arena-class-ninja.json](./167845-dungeon-arena-class-ninja.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
