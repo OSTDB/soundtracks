@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
+| Börnies Journey | 164506 | [164506-bornies-journey.json](./164506-bornies-journey.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
