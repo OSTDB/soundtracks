@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
+| Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
+| First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
