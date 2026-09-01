@@ -12,7 +12,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Oblitus Mortis | 336918 | [336918-oblitus-mortis.json](./336918-oblitus-mortis.json) |
+| Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
+| Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
@@ -254,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
+| Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | OverDrift Festival: Exclusive Cars Pack #2 | 293403 | [293403-overdrift-festival-exclusive-cars-pack-2.json](./293403-overdrift-festival-exclusive-cars-pack-2.json) |
 | Overdrive | 203565 | [203565-overdrive.json](./203565-overdrive.json) |
