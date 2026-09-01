@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
+| 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2-Dates Dating Simulator | 178688 | [178688-2-dates-dating-simulator.json](./178688-2-dates-dating-simulator.json) |
 | 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
 | 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
