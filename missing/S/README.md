@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
+| Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
+| Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
 | Slime Evolution | 235464 | [235464-slime-evolution.json](./235464-slime-evolution.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
+| Story of the Survivor: The Escape | 156154 | [156154-story-of-the-survivor-the-escape.json](./156154-story-of-the-survivor-the-escape.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
