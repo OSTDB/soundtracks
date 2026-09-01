@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knight Chronicles: International EX Edition | 268742 | [268742-white-knight-chronicles-international-ex-edition.json](./268742-white-knight-chronicles-international-ex-edition.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
+| Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
 | Who Are You!? | 256522 | [256522-who-are-you.json](./256522-who-are-you.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
+| Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
@@ -353,10 +355,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
+| Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
+| wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
+| Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
