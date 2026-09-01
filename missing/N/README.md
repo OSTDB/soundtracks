@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
+| Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
 | Nonogram Mon | 312367 | [312367-nonogram-mon.json](./312367-nonogram-mon.json) |
 | Nonogram: Girl's Sweets II | 228090 | [228090-nonogram-girls-sweets-ii.json](./228090-nonogram-girls-sweets-ii.json) |
