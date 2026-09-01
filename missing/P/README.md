@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
+| Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
+| Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
@@ -784,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
+| PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
@@ -798,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
+| Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
