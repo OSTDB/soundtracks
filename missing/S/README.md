@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
+| Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
 | Sengoku Koihime X: Otome Kenran Sengoku Emaki Koujou-ke Souran-hen | 339635 | [339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json](./339635-sengoku-koihime-x-otome-kenran-sengoku-emaki-koujou-ke-souran-hen.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
+| Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
@@ -681,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
+| Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
@@ -714,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
+| Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
@@ -942,12 +946,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
+| Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
+| Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
@@ -1023,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
+| Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
@@ -1554,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
+| Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
