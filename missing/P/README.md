@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
+| Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogglewash | 249504 | [249504-pogglewash.json](./249504-pogglewash.json) |
 | Pogo Knight | 320566 | [320566-pogo-knight.json](./320566-pogo-knight.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
+| Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
