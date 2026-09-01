@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
+| Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
