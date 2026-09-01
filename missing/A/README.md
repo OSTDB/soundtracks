@@ -667,7 +667,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
+| Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
+| Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
+| Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
+| Arma 3: Tanks | 168907 | [168907-arma-3-tanks.json](./168907-arma-3-tanks.json) |
+| Arma 3: Zeus | 168908 | [168908-arma-3-zeus.json](./168908-arma-3-zeus.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
@@ -751,7 +756,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
+| Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
+| Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
+| Assetto Corsa: Dream Pack 3 | 168901 | [168901-assetto-corsa-dream-pack-3.json](./168901-assetto-corsa-dream-pack-3.json) |
+| Assetto Corsa: Ferrari 70th Anniversary Pack | 168902 | [168902-assetto-corsa-ferrari-70th-anniversary-pack.json](./168902-assetto-corsa-ferrari-70th-anniversary-pack.json) |
+| Assetto Corsa: Porsche Pack I | 168894 | [168894-assetto-corsa-porsche-pack-i.json](./168894-assetto-corsa-porsche-pack-i.json) |
+| Assetto Corsa: Porsche Pack III | 168895 | [168895-assetto-corsa-porsche-pack-iii.json](./168895-assetto-corsa-porsche-pack-iii.json) |
+| Assetto Corsa: Ready to Race Pack | 168896 | [168896-assetto-corsa-ready-to-race-pack.json](./168896-assetto-corsa-ready-to-race-pack.json) |
+| Assetto Corsa: Red Pack | 168897 | [168897-assetto-corsa-red-pack.json](./168897-assetto-corsa-red-pack.json) |
 | Assetto Corsa: Red Pack | 225910 | [225910-assetto-corsa-red-pack.json](./225910-assetto-corsa-red-pack.json) |
+| Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
