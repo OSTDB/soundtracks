@@ -40,7 +40,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
+| Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
+| Half-Life: Residual Point | 196837 | [196837-half-life-residual-point.json](./196837-half-life-residual-point.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
+| Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
@@ -74,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
+| Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Life | 219810 | [219810-hard-life.json](./219810-hard-life.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
