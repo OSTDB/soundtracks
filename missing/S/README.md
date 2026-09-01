@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
+| Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
+| Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
@@ -477,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
+| Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
@@ -746,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Heroes: Empire Wars | 247175 | [247175-soul-of-heroes-empire-wars.json](./247175-soul-of-heroes-empire-wars.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
+| Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
@@ -874,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
+| Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
