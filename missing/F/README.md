@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
+| Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
