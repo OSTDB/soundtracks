@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Me Pick Me | 321125 | [321125-pick-me-pick-me.json](./321125-pick-me-pick-me.json) |
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
+| Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
