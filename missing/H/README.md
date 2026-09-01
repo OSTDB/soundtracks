@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
+| Half-Cat | 163958 | [163958-half-cat.json](./163958-half-cat.json) |
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
