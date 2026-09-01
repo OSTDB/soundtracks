@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
