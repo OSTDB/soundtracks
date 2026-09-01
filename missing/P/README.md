@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
+| Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
+| Pixel Game Maker Series: Isekai Quartet Adventure - Action Game | 152891 | [152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json](./152891-pixel-game-maker-series-isekai-quartet-adventure-action-game.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
@@ -922,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
 | Puzznic | 307912 | [307912-puzznic.json](./307912-puzznic.json) |
+| Puzzrama | 152918 | [152918-puzzrama.json](./152918-puzzrama.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
