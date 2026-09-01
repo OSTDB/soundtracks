@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
+| Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
@@ -441,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
+| Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
@@ -484,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
+| Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
