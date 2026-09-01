@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
+| It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
