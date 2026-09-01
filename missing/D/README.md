@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
+| Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
 | Dogville | 272032 | [272032-dogville.json](./272032-dogville.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
+| Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
