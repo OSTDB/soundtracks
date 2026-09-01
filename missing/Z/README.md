@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
+| Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
+| Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
