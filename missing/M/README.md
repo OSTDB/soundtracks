@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
+| Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
+| Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
@@ -323,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
+| MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
@@ -614,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight | 261534 | [261534-moonlight.json](./261534-moonlight.json) |
 | Moonlight Assault | 275314 | [275314-moonlight-assault.json](./275314-moonlight-assault.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
+| Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
@@ -632,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
+| Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
