@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
+| Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
