@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
+| Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
@@ -255,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
+| The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
@@ -312,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
+| The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
@@ -400,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
+| The Final Heist | 184640 | [184640-the-final-heist.json](./184640-the-final-heist.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
@@ -811,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard Party | 277609 | [277609-the-wizard-party.json](./277609-the-wizard-party.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
+| The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
@@ -1127,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
+| Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
@@ -1285,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
+| Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
