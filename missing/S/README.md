@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
+| Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
+| Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
@@ -898,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
+| Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
@@ -1536,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - Artisan | 238174 | [238174-super-neptunia-rpg-party-member-artisan.json](./238174-super-neptunia-rpg-party-member-artisan.json) |
 | Super Neptunia RPG: Party Member - Compa | 238175 | [238175-super-neptunia-rpg-party-member-compa.json](./238175-super-neptunia-rpg-party-member-compa.json) |
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
+| Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
