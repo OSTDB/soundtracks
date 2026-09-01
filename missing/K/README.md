@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
+| Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
+| Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
