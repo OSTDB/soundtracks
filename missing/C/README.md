@@ -301,6 +301,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
+| Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
+| Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
@@ -684,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
+| Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
