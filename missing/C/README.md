@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
+| Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
@@ -133,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
+| Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
@@ -357,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
+| Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chunithm Sun Plus | 269300 | [269300-chunithm-sun-plus.json](./269300-chunithm-sun-plus.json) |
