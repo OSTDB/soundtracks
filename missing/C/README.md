@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
+| Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
+| Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castelian | 295029 | [295029-castelian.json](./295029-castelian.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
@@ -246,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
+| Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
@@ -775,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
+| Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
@@ -882,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
+| Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
