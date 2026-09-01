@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
+| Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
 | Rainbow Lines HD | 174362 | [174362-rainbow-lines-hd.json](./174362-rainbow-lines-hd.json) |
 | Rainbow Mosaics 12: Easter Helper | 294458 | [294458-rainbow-mosaics-12-easter-helper.json](./294458-rainbow-mosaics-12-easter-helper.json) |
 | Rainbow Mosaics: Blooming Garden | 294460 | [294460-rainbow-mosaics-blooming-garden.json](./294460-rainbow-mosaics-blooming-garden.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
+| Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
 | Rocksmith 2014: R.E.M. Song Pack | 226937 | [226937-rocksmith-2014-r-e-m-song-pack.json](./226937-rocksmith-2014-r-e-m-song-pack.json) |
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
