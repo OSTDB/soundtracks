@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homefront: The Rock Map Pack | 224224 | [224224-homefront-the-rock-map-pack.json](./224224-homefront-the-rock-map-pack.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
+| Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
