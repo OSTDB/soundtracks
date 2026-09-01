@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
+| Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
+| Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
