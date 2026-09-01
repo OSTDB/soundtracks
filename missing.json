@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T19:48:25.592Z",
-  "total_missing": 15412,
+  "generated_at": "2026-09-01T20:03:39.962Z",
+  "total_missing": 15462,
   "games": [
     {
       "igdb_id": 306086,
@@ -5808,6 +5808,11 @@
       "file": "missing/B/179176-backwards.json"
     },
     {
+      "igdb_id": 159324,
+      "game_name": "Backyard Monsters",
+      "file": "missing/B/159324-backyard-monsters.json"
+    },
+    {
       "igdb_id": 309097,
       "game_name": "Bacteria Warfare",
       "file": "missing/B/309097-bacteria-warfare.json"
@@ -7738,6 +7743,11 @@
       "file": "missing/B/231063-blacksmith-forger.json"
     },
     {
+      "igdb_id": 159348,
+      "game_name": "Blacksmith Legends",
+      "file": "missing/B/159348-blacksmith-legends.json"
+    },
+    {
       "igdb_id": 190210,
       "game_name": "Blade Crusade",
       "file": "missing/B/190210-blade-crusade.json"
@@ -8513,6 +8523,16 @@
       "file": "missing/B/221419-book-end.json"
     },
     {
+      "igdb_id": 159321,
+      "game_name": "Book of Mario",
+      "file": "missing/B/159321-book-of-mario.json"
+    },
+    {
+      "igdb_id": 159323,
+      "game_name": "Book of Mario: Thousands of Doors",
+      "file": "missing/B/159323-book-of-mario-thousands-of-doors.json"
+    },
+    {
       "igdb_id": 333915,
       "game_name": "Bookey Manor",
       "file": "missing/B/333915-bookey-manor.json"
@@ -8956,6 +8976,11 @@
       "igdb_id": 306637,
       "game_name": "Bread Fish Clicker",
       "file": "missing/B/306637-bread-fish-clicker.json"
+    },
+    {
+      "igdb_id": 159352,
+      "game_name": "Bread Kittens",
+      "file": "missing/B/159352-bread-kittens.json"
     },
     {
       "igdb_id": 321736,
@@ -11071,6 +11096,11 @@
       "igdb_id": 241618,
       "game_name": "Chadboy",
       "file": "missing/C/241618-chadboy.json"
+    },
+    {
+      "igdb_id": 159355,
+      "game_name": "Chain Break",
+      "file": "missing/C/159355-chain-break.json"
     },
     {
       "igdb_id": 177011,
@@ -25343,6 +25373,11 @@
       "file": "missing/G/264894-generic-brazilian-favela-game-with-generic-enemies-2003.json"
     },
     {
+      "igdb_id": 159346,
+      "game_name": "Genfanad",
+      "file": "missing/G/159346-genfanad.json"
+    },
+    {
       "igdb_id": 308557,
       "game_name": "Genghis Khan",
       "file": "missing/G/308557-genghis-khan.json"
@@ -25661,6 +25696,11 @@
       "igdb_id": 290702,
       "game_name": "Gift for You",
       "file": "missing/G/290702-gift-for-you.json"
+    },
+    {
+      "igdb_id": 159360,
+      "game_name": "Gift Shop Factory",
+      "file": "missing/G/159360-gift-shop-factory.json"
     },
     {
       "igdb_id": 272556,
@@ -26921,6 +26961,11 @@
       "igdb_id": 164505,
       "game_name": "Grey Bones",
       "file": "missing/G/164505-grey-bones.json"
+    },
+    {
+      "igdb_id": 159305,
+      "game_name": "Grey Instinct",
+      "file": "missing/G/159305-grey-instinct.json"
     },
     {
       "igdb_id": 304905,
@@ -29823,6 +29868,11 @@
       "file": "missing/H/249469-hot-cocoa-magic.json"
     },
     {
+      "igdb_id": 159351,
+      "game_name": "Hot Dog Bush",
+      "file": "missing/H/159351-hot-dog-bush.json"
+    },
+    {
       "igdb_id": 326406,
       "game_name": "Hot Dog Simulator",
       "file": "missing/H/326406-hot-dog-simulator.json"
@@ -30166,6 +30216,11 @@
       "igdb_id": 205247,
       "game_name": "Hunt for Junk",
       "file": "missing/H/205247-hunt-for-junk.json"
+    },
+    {
+      "igdb_id": 159347,
+      "game_name": "Hunt Royale",
+      "file": "missing/H/159347-hunt-royale.json"
     },
     {
       "igdb_id": 224219,
@@ -34353,6 +34408,11 @@
       "file": "missing/K/202373-koigig-devil-x-angel.json"
     },
     {
+      "igdb_id": 159307,
+      "game_name": "Koihime Enbu RyoRaiRai: Jokou and Kakuka",
+      "file": "missing/K/159307-koihime-enbu-ryorairai-jokou-and-kakuka.json"
+    },
+    {
       "igdb_id": 206338,
       "game_name": "Kokorowa Onigiri Delivery",
       "file": "missing/K/206338-kokorowa-onigiri-delivery.json"
@@ -34516,6 +34576,11 @@
       "igdb_id": 296690,
       "game_name": "Kubits Gallery",
       "file": "missing/K/296690-kubits-gallery.json"
+    },
+    {
+      "igdb_id": 159353,
+      "game_name": "Kubo 3",
+      "file": "missing/K/159353-kubo-3.json"
     },
     {
       "igdb_id": 200745,
@@ -36283,6 +36348,11 @@
       "file": "missing/L/335708-lock-on.json"
     },
     {
+      "igdb_id": 159315,
+      "game_name": "Lockdown Lewd Up!",
+      "file": "missing/L/159315-lockdown-lewd-up.json"
+    },
+    {
       "igdb_id": 176469,
       "game_name": "Lockdown Protocol",
       "file": "missing/L/176469-lockdown-protocol.json"
@@ -37376,6 +37446,11 @@
       "igdb_id": 252990,
       "game_name": "Magical Paradise Train",
       "file": "missing/M/252990-magical-paradise-train.json"
+    },
+    {
+      "igdb_id": 159359,
+      "game_name": "Magical Sound Car",
+      "file": "missing/M/159359-magical-sound-car.json"
     },
     {
       "igdb_id": 180301,
@@ -44883,6 +44958,11 @@
       "file": "missing/O/276467-oku-dake-drill-shougaku-6-nensei-kanji.json"
     },
     {
+      "igdb_id": 159311,
+      "game_name": "Old Friends Dog Game",
+      "file": "missing/O/159311-old-friends-dog-game.json"
+    },
+    {
       "igdb_id": 196882,
       "game_name": "Old Future: Post-Apocalyptic Times",
       "file": "missing/O/196882-old-future-post-apocalyptic-times.json"
@@ -45276,6 +45356,11 @@
       "igdb_id": 258706,
       "game_name": "One S'More",
       "file": "missing/O/258706-one-smore.json"
+    },
+    {
+      "igdb_id": 159335,
+      "game_name": "One Shot in the Dark, Now I'm Dead.",
+      "file": "missing/O/159335-one-shot-in-the-dark-now-im-dead.json"
     },
     {
       "igdb_id": 212461,
@@ -46638,6 +46723,11 @@
       "file": "missing/P/245039-paper-mario-eggstraordinary-egg-hunt.json"
     },
     {
+      "igdb_id": 159325,
+      "game_name": "Paper Mario Multiplayer",
+      "file": "missing/P/159325-paper-mario-multiplayer.json"
+    },
+    {
       "igdb_id": 257636,
       "game_name": "Paper Mario TTYD64",
       "file": "missing/P/257636-paper-mario-ttyd64.json"
@@ -46651,6 +46741,11 @@
       "igdb_id": 339668,
       "game_name": "Paper Mario World 2",
       "file": "missing/P/339668-paper-mario-world-2.json"
+    },
+    {
+      "igdb_id": 159343,
+      "game_name": "Paper Mario: Black Pit",
+      "file": "missing/P/159343-paper-mario-black-pit.json"
     },
     {
       "igdb_id": 266504,
@@ -49618,6 +49713,16 @@
       "file": "missing/P/244469-primal-fray.json"
     },
     {
+      "igdb_id": 159312,
+      "game_name": "Primal Hearts",
+      "file": "missing/P/159312-primal-hearts.json"
+    },
+    {
+      "igdb_id": 159313,
+      "game_name": "Primal Hearts 2",
+      "file": "missing/P/159313-primal-hearts-2.json"
+    },
+    {
       "igdb_id": 243924,
       "game_name": "Primal Planet",
       "file": "missing/P/243924-primal-planet.json"
@@ -51491,6 +51596,11 @@
       "igdb_id": 204678,
       "game_name": "Ramblings",
       "file": "missing/R/204678-ramblings.json"
+    },
+    {
+      "igdb_id": 159345,
+      "game_name": "Ramen Chain",
+      "file": "missing/R/159345-ramen-chain.json"
     },
     {
       "igdb_id": 341311,
@@ -55263,6 +55373,11 @@
       "file": "missing/S/224757-schrodingers-code.json"
     },
     {
+      "igdb_id": 159320,
+      "game_name": "Science Simulator",
+      "file": "missing/S/159320-science-simulator.json"
+    },
+    {
       "igdb_id": 248299,
       "game_name": "Scientist Hunt",
       "file": "missing/S/248299-scientist-hunt.json"
@@ -58023,6 +58138,11 @@
       "file": "missing/S/307281-sniper-elite-5-winter-weapons-skin-pack.json"
     },
     {
+      "igdb_id": 159362,
+      "game_name": "Sniper Ghost Warrior Contracts 2: Butcher's Banquet",
+      "file": "missing/S/159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json"
+    },
+    {
       "igdb_id": 199639,
       "game_name": "Sniper Ghost Warrior Contracts: Full Arsenal Edition",
       "file": "missing/S/199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json"
@@ -59238,6 +59358,11 @@
       "file": "missing/S/181400-souzou-cliff.json"
     },
     {
+      "igdb_id": 159317,
+      "game_name": "Sovereign Tea",
+      "file": "missing/S/159317-sovereign-tea.json"
+    },
+    {
       "igdb_id": 174329,
       "game_name": "Soviet Challenge: Javelin 1980",
       "file": "missing/S/174329-soviet-challenge-javelin-1980.json"
@@ -59651,6 +59776,11 @@
       "igdb_id": 185133,
       "game_name": "Speedrun Squid",
       "file": "missing/S/185133-speedrun-squid.json"
+    },
+    {
+      "igdb_id": 159309,
+      "game_name": "Speedrun the Game",
+      "file": "missing/S/159309-speedrun-the-game.json"
     },
     {
       "igdb_id": 203562,
@@ -62148,6 +62278,11 @@
       "file": "missing/S/175958-super-mario-spikers.json"
     },
     {
+      "igdb_id": 159342,
+      "game_name": "Super Mario Star Road Multiplayer",
+      "file": "missing/S/159342-super-mario-star-road-multiplayer.json"
+    },
+    {
       "igdb_id": 185685,
       "game_name": "Super Mario Star World",
       "file": "missing/S/185685-super-mario-star-world.json"
@@ -63021,6 +63156,11 @@
       "igdb_id": 236536,
       "game_name": "Sylvio and the Mountains Giants",
       "file": "missing/S/236536-sylvio-and-the-mountains-giants.json"
+    },
+    {
+      "igdb_id": 159361,
+      "game_name": "Symbiotic Love",
+      "file": "missing/S/159361-symbiotic-love.json"
     },
     {
       "igdb_id": 229930,
@@ -64483,6 +64623,11 @@
       "file": "missing/T/293385-the-adventure-story-of-yixiu.json"
     },
     {
+      "igdb_id": 159365,
+      "game_name": "The Adventurer",
+      "file": "missing/T/159365-the-adventurer.json"
+    },
+    {
       "igdb_id": 200721,
       "game_name": "The Adventures of Detective Bron",
       "file": "missing/T/200721-the-adventures-of-detective-bron.json"
@@ -64908,6 +65053,11 @@
       "file": "missing/T/292289-the-chronicles-of-penghao-ming.json"
     },
     {
+      "igdb_id": 159364,
+      "game_name": "The Church of Cheesus Crisp: An All You Can Pray Buffet",
+      "file": "missing/T/159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json"
+    },
+    {
       "igdb_id": 271462,
       "game_name": "The Circulation of Shadows",
       "file": "missing/T/271462-the-circulation-of-shadows.json"
@@ -65091,6 +65241,11 @@
       "igdb_id": 302677,
       "game_name": "The Cursed Tape",
       "file": "missing/T/302677-the-cursed-tape.json"
+    },
+    {
+      "igdb_id": 159354,
+      "game_name": "The Cyclist: Tactics",
+      "file": "missing/T/159354-the-cyclist-tactics.json"
     },
     {
       "igdb_id": 278725,
@@ -67313,9 +67468,54 @@
       "file": "missing/T/317646-the-sims-4-artist-studio-kit.json"
     },
     {
+      "igdb_id": 159331,
+      "game_name": "The Sims 4: Back to School Bundle",
+      "file": "missing/T/159331-the-sims-4-back-to-school-bundle.json"
+    },
+    {
       "igdb_id": 246619,
       "game_name": "The Sims 4: Basement Treasures Kit",
       "file": "missing/T/246619-the-sims-4-basement-treasures-kit.json"
+    },
+    {
+      "igdb_id": 159333,
+      "game_name": "The Sims 4: Bundle - Cats & Dogs, Parenthood, Toddler Stuff",
+      "file": "missing/T/159333-the-sims-4-bundle-cats-and-dogs-parenthood-toddler-stuff.json"
+    },
+    {
+      "igdb_id": 159336,
+      "game_name": "The Sims 4: Bundle - City Living, Vampires, Vintage Glamour Stuff",
+      "file": "missing/T/159336-the-sims-4-bundle-city-living-vampires-vintage-glamour-stuff.json"
+    },
+    {
+      "igdb_id": 159334,
+      "game_name": "The Sims 4: Bundle - Get to Work, Dine Out, Cool Kitchen Stuff",
+      "file": "missing/T/159334-the-sims-4-bundle-get-to-work-dine-out-cool-kitchen-stuff.json"
+    },
+    {
+      "igdb_id": 159326,
+      "game_name": "The Sims 4: Bundle Pack 1",
+      "file": "missing/T/159326-the-sims-4-bundle-pack-1.json"
+    },
+    {
+      "igdb_id": 159327,
+      "game_name": "The Sims 4: Bundle Pack 3",
+      "file": "missing/T/159327-the-sims-4-bundle-pack-3.json"
+    },
+    {
+      "igdb_id": 159328,
+      "game_name": "The Sims 4: Bundle Pack 4",
+      "file": "missing/T/159328-the-sims-4-bundle-pack-4.json"
+    },
+    {
+      "igdb_id": 159329,
+      "game_name": "The Sims 4: Bundle Pack 6",
+      "file": "missing/T/159329-the-sims-4-bundle-pack-6.json"
+    },
+    {
+      "igdb_id": 159341,
+      "game_name": "The Sims 4: Everyday Stuff Bundle",
+      "file": "missing/T/159341-the-sims-4-everyday-stuff-bundle.json"
     },
     {
       "igdb_id": 259250,
@@ -67328,9 +67528,39 @@
       "file": "missing/T/316426-the-sims-4-life-and-death.json"
     },
     {
+      "igdb_id": 159330,
+      "game_name": "The Sims 4: Live Lavishly Bundle",
+      "file": "missing/T/159330-the-sims-4-live-lavishly-bundle.json"
+    },
+    {
+      "igdb_id": 159339,
+      "game_name": "The Sims 4: Outdoor Bundle",
+      "file": "missing/T/159339-the-sims-4-outdoor-bundle.json"
+    },
+    {
+      "igdb_id": 159332,
+      "game_name": "The Sims 4: Seasons, Jungle Adventure, Spooky Stuff",
+      "file": "missing/T/159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json"
+    },
+    {
+      "igdb_id": 159337,
+      "game_name": "The Sims 4: Sims' Night Out Bundle",
+      "file": "missing/T/159337-the-sims-4-sims-night-out-bundle.json"
+    },
+    {
+      "igdb_id": 159338,
+      "game_name": "The Sims 4: Starter Bundle",
+      "file": "missing/T/159338-the-sims-4-starter-bundle.json"
+    },
+    {
       "igdb_id": 317647,
       "game_name": "The Sims 4: Storybook Nursery Kit",
       "file": "missing/T/317647-the-sims-4-storybook-nursery-kit.json"
+    },
+    {
+      "igdb_id": 159340,
+      "game_name": "The Sims 4: Stuff Bundle",
+      "file": "missing/T/159340-the-sims-4-stuff-bundle.json"
     },
     {
       "igdb_id": 249484,
@@ -69773,6 +70003,11 @@
       "file": "missing/T/299439-tomb-raider-collection-1.json"
     },
     {
+      "igdb_id": 159319,
+      "game_name": "Tomb Raider II: Collector's Edition",
+      "file": "missing/T/159319-tomb-raider-ii-collectors-edition.json"
+    },
+    {
       "igdb_id": 202972,
       "game_name": "Tomb Raider: Anniversary - Collectors Edition",
       "file": "missing/T/202972-tomb-raider-anniversary-collectors-edition.json"
@@ -70938,6 +71173,11 @@
       "file": "missing/T/335116-transformers-revenge-of-the-fallen.json"
     },
     {
+      "igdb_id": 159310,
+      "game_name": "Transformers: War for Cybertron - Autobots",
+      "file": "missing/T/159310-transformers-war-for-cybertron-autobots.json"
+    },
+    {
       "igdb_id": 186911,
       "game_name": "Transient: Extended Edition",
       "file": "missing/T/186911-transient-extended-edition.json"
@@ -71728,6 +71968,11 @@
       "file": "missing/T/166205-twilight-wars-declassified.json"
     },
     {
+      "igdb_id": 159356,
+      "game_name": "Twin Dragons",
+      "file": "missing/T/159356-twin-dragons.json"
+    },
+    {
       "igdb_id": 228076,
       "game_name": "Twin Mind: Nobody's Here",
       "file": "missing/T/228076-twin-mind-nobodys-here.json"
@@ -72496,6 +72741,11 @@
       "igdb_id": 199094,
       "game_name": "Unlock the Feelings",
       "file": "missing/U/199094-unlock-the-feelings.json"
+    },
+    {
+      "igdb_id": 159363,
+      "game_name": "Unmaze",
+      "file": "missing/U/159363-unmaze.json"
     },
     {
       "igdb_id": 338586,
