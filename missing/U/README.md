@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
+| Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
