@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make My Life Worse | 318788 | [318788-make-my-life-worse.json](./318788-make-my-life-worse.json) |
+| Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
@@ -436,7 +437,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
+| Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
+| Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
