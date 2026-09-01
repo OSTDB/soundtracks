@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
+| Nightmare Shift | 179716 | [179716-nightmare-shift.json](./179716-nightmare-shift.json) |
 | Nightmare Shift | 321774 | [321774-nightmare-shift.json](./321774-nightmare-shift.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
@@ -284,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
+| Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
