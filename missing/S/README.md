@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
 | Soulframe | 209643 | [209643-soulframe.json](./209643-soulframe.json) |
 | SoulJah Kingdom Rise | 243372 | [243372-souljah-kingdom-rise.json](./243372-souljah-kingdom-rise.json) |
+| Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
+| Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
@@ -918,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
+| Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
@@ -1041,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
+| Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
@@ -1108,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suika Jelly Game | 310174 | [310174-suika-jelly-game.json](./310174-suika-jelly-game.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
+| Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
