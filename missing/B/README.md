@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
+| Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
+| Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
@@ -383,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
+| Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
@@ -814,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
+| Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
