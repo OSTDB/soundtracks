@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T15:18:21.965Z",
-  "total_missing": 14512,
+  "generated_at": "2026-09-01T15:33:02.726Z",
+  "total_missing": 14562,
   "games": [
     {
       "igdb_id": 306086,
@@ -4213,9 +4213,34 @@
       "file": "missing/A/314036-arla-milkout.json"
     },
     {
+      "igdb_id": 168912,
+      "game_name": "Arma 3: Creator DLC - CSLA Iron Curtain",
+      "file": "missing/A/168912-arma-3-creator-dlc-csla-iron-curtain.json"
+    },
+    {
       "igdb_id": 259281,
       "game_name": "Arma 3: Creator DLC - Spearhead 1944",
       "file": "missing/A/259281-arma-3-creator-dlc-spearhead-1944.json"
+    },
+    {
+      "igdb_id": 168910,
+      "game_name": "Arma 3: Jets",
+      "file": "missing/A/168910-arma-3-jets.json"
+    },
+    {
+      "igdb_id": 168911,
+      "game_name": "Arma 3: Malden",
+      "file": "missing/A/168911-arma-3-malden.json"
+    },
+    {
+      "igdb_id": 168907,
+      "game_name": "Arma 3: Tanks",
+      "file": "missing/A/168907-arma-3-tanks.json"
+    },
+    {
+      "igdb_id": 168908,
+      "game_name": "Arma 3: Zeus",
+      "file": "missing/A/168908-arma-3-zeus.json"
     },
     {
       "igdb_id": 174889,
@@ -4633,9 +4658,54 @@
       "file": "missing/A/208627-assetto-corsa-competizione-american-track-pack.json"
     },
     {
+      "igdb_id": 168900,
+      "game_name": "Assetto Corsa: Dream Pack 1",
+      "file": "missing/A/168900-assetto-corsa-dream-pack-1.json"
+    },
+    {
+      "igdb_id": 168899,
+      "game_name": "Assetto Corsa: Dream Pack 2",
+      "file": "missing/A/168899-assetto-corsa-dream-pack-2.json"
+    },
+    {
+      "igdb_id": 168901,
+      "game_name": "Assetto Corsa: Dream Pack 3",
+      "file": "missing/A/168901-assetto-corsa-dream-pack-3.json"
+    },
+    {
+      "igdb_id": 168902,
+      "game_name": "Assetto Corsa: Ferrari 70th Anniversary Pack",
+      "file": "missing/A/168902-assetto-corsa-ferrari-70th-anniversary-pack.json"
+    },
+    {
+      "igdb_id": 168894,
+      "game_name": "Assetto Corsa: Porsche Pack I",
+      "file": "missing/A/168894-assetto-corsa-porsche-pack-i.json"
+    },
+    {
+      "igdb_id": 168895,
+      "game_name": "Assetto Corsa: Porsche Pack III",
+      "file": "missing/A/168895-assetto-corsa-porsche-pack-iii.json"
+    },
+    {
+      "igdb_id": 168896,
+      "game_name": "Assetto Corsa: Ready to Race Pack",
+      "file": "missing/A/168896-assetto-corsa-ready-to-race-pack.json"
+    },
+    {
+      "igdb_id": 168897,
+      "game_name": "Assetto Corsa: Red Pack",
+      "file": "missing/A/168897-assetto-corsa-red-pack.json"
+    },
+    {
       "igdb_id": 225910,
       "game_name": "Assetto Corsa: Red Pack",
       "file": "missing/A/225910-assetto-corsa-red-pack.json"
+    },
+    {
+      "igdb_id": 168898,
+      "game_name": "Assetto Corsa: Tripl3 Pack",
+      "file": "missing/A/168898-assetto-corsa-tripl3-pack.json"
     },
     {
       "igdb_id": 262663,
@@ -11073,6 +11143,11 @@
       "file": "missing/C/314046-christmas-escape.json"
     },
     {
+      "igdb_id": 168903,
+      "game_name": "Christmas Griddlers",
+      "file": "missing/C/168903-christmas-griddlers.json"
+    },
+    {
       "igdb_id": 326981,
       "game_name": "Christmas Jumper Jam",
       "file": "missing/C/326981-christmas-jumper-jam.json"
@@ -12546,6 +12621,46 @@
       "igdb_id": 259233,
       "game_name": "Construction Machine Simulator 2023: Hard Truck Work Job",
       "file": "missing/C/259233-construction-machine-simulator-2023-hard-truck-work-job.json"
+    },
+    {
+      "igdb_id": 168916,
+      "game_name": "Construction Simulator 2015: Liebherr 150 EC-B",
+      "file": "missing/C/168916-construction-simulator-2015-liebherr-150-ec-b.json"
+    },
+    {
+      "igdb_id": 168922,
+      "game_name": "Construction Simulator 2015: Liebherr A 918",
+      "file": "missing/C/168922-construction-simulator-2015-liebherr-a-918.json"
+    },
+    {
+      "igdb_id": 168920,
+      "game_name": "Construction Simulator 2015: Liebherr HTM 1204 ZA",
+      "file": "missing/C/168920-construction-simulator-2015-liebherr-htm-1204-za.json"
+    },
+    {
+      "igdb_id": 168921,
+      "game_name": "Construction Simulator 2015: Liebherr LB 28",
+      "file": "missing/C/168921-construction-simulator-2015-liebherr-lb-28.json"
+    },
+    {
+      "igdb_id": 168919,
+      "game_name": "Construction Simulator 2015: Liebherr LR 1300",
+      "file": "missing/C/168919-construction-simulator-2015-liebherr-lr-1300.json"
+    },
+    {
+      "igdb_id": 168918,
+      "game_name": "Construction Simulator 2015: Liebherr LTM 1300 6.2",
+      "file": "missing/C/168918-construction-simulator-2015-liebherr-ltm-1300-6-2.json"
+    },
+    {
+      "igdb_id": 168915,
+      "game_name": "Construction Simulator 2015: St. John's Hospital Fuchsberg",
+      "file": "missing/C/168915-construction-simulator-2015-st-johns-hospital-fuchsberg.json"
+    },
+    {
+      "igdb_id": 168917,
+      "game_name": "Construction Simulator 2015: Vertical Skyline",
+      "file": "missing/C/168917-construction-simulator-2015-vertical-skyline.json"
     },
     {
       "igdb_id": 277569,
@@ -19243,6 +19358,16 @@
       "file": "missing/E/303801-equiverse.json"
     },
     {
+      "igdb_id": 168914,
+      "game_name": "Erannorth Reborn: Blood Coven Rise",
+      "file": "missing/E/168914-erannorth-reborn-blood-coven-rise.json"
+    },
+    {
+      "igdb_id": 168913,
+      "game_name": "Erannorth Reborn: Canticum Noctem",
+      "file": "missing/E/168913-erannorth-reborn-canticum-noctem.json"
+    },
+    {
       "igdb_id": 208588,
       "game_name": "Eremidia: Archivist's Curse",
       "file": "missing/E/208588-eremidia-archivists-curse.json"
@@ -22036,6 +22161,76 @@
       "igdb_id": 244480,
       "game_name": "Flyto",
       "file": "missing/F/244480-flyto.json"
+    },
+    {
+      "igdb_id": 168883,
+      "game_name": "FlyWings 2018 Flight Simulator: Aerobatic Family",
+      "file": "missing/F/168883-flywings-2018-flight-simulator-aerobatic-family.json"
+    },
+    {
+      "igdb_id": 168884,
+      "game_name": "FlyWings 2018 Flight Simulator: Air Race Family",
+      "file": "missing/F/168884-flywings-2018-flight-simulator-air-race-family.json"
+    },
+    {
+      "igdb_id": 168882,
+      "game_name": "FlyWings 2018 Flight Simulator: Airbus A320 Family",
+      "file": "missing/F/168882-flywings-2018-flight-simulator-airbus-a320-family.json"
+    },
+    {
+      "igdb_id": 168877,
+      "game_name": "FlyWings 2018 Flight Simulator: Airbus A380 Family",
+      "file": "missing/F/168877-flywings-2018-flight-simulator-airbus-a380-family.json"
+    },
+    {
+      "igdb_id": 168871,
+      "game_name": "FlyWings 2018 Flight Simulator: Amazing Airplanes",
+      "file": "missing/F/168871-flywings-2018-flight-simulator-amazing-airplanes.json"
+    },
+    {
+      "igdb_id": 168881,
+      "game_name": "FlyWings 2018 Flight Simulator: Baron G58",
+      "file": "missing/F/168881-flywings-2018-flight-simulator-baron-g58.json"
+    },
+    {
+      "igdb_id": 168873,
+      "game_name": "FlyWings 2018 Flight Simulator: Boeing 757 Family",
+      "file": "missing/F/168873-flywings-2018-flight-simulator-boeing-757-family.json"
+    },
+    {
+      "igdb_id": 168876,
+      "game_name": "FlyWings 2018 Flight Simulator: Boeing 777 Family",
+      "file": "missing/F/168876-flywings-2018-flight-simulator-boeing-777-family.json"
+    },
+    {
+      "igdb_id": 168878,
+      "game_name": "FlyWings 2018 Flight Simulator: Civilian Helicopters",
+      "file": "missing/F/168878-flywings-2018-flight-simulator-civilian-helicopters.json"
+    },
+    {
+      "igdb_id": 168872,
+      "game_name": "FlyWings 2018 Flight Simulator: Drones",
+      "file": "missing/F/168872-flywings-2018-flight-simulator-drones.json"
+    },
+    {
+      "igdb_id": 168874,
+      "game_name": "FlyWings 2018 Flight Simulator: Embraer 170 Family",
+      "file": "missing/F/168874-flywings-2018-flight-simulator-embraer-170-family.json"
+    },
+    {
+      "igdb_id": 168875,
+      "game_name": "FlyWings 2018 Flight Simulator: Embraer 190 Family",
+      "file": "missing/F/168875-flywings-2018-flight-simulator-embraer-190-family.json"
+    },
+    {
+      "igdb_id": 168880,
+      "game_name": "FlyWings 2018 Flight Simulator: Military Helicopters",
+      "file": "missing/F/168880-flywings-2018-flight-simulator-military-helicopters.json"
+    },
+    {
+      "igdb_id": 168879,
+      "game_name": "FlyWings 2018 Flight Simulator: World War I Fighters",
+      "file": "missing/F/168879-flywings-2018-flight-simulator-world-war-i-fighters.json"
     },
     {
       "igdb_id": 314044,
@@ -26211,6 +26406,11 @@
       "igdb_id": 243920,
       "game_name": "Hakuoki: Kyoto Winds - Deluxe Edition",
       "file": "missing/H/243920-hakuoki-kyoto-winds-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 168905,
+      "game_name": "Hakuoki: Kyoto Winds - Winds Treasure Box",
+      "file": "missing/H/168905-hakuoki-kyoto-winds-winds-treasure-box.json"
     },
     {
       "igdb_id": 198534,
@@ -52578,6 +52778,11 @@
       "file": "missing/S/205271-sd-gundam-battle-alliance-limited-edition.json"
     },
     {
+      "igdb_id": 168904,
+      "game_name": "SDST: Deluxe",
+      "file": "missing/S/168904-sdst-deluxe.json"
+    },
+    {
       "igdb_id": 192947,
       "game_name": "Sea Battle Minimal",
       "file": "missing/S/192947-sea-battle-minimal.json"
@@ -66271,6 +66476,51 @@
       "igdb_id": 194031,
       "game_name": "Touken Ranbu: Online Pocket",
       "file": "missing/T/194031-touken-ranbu-online-pocket.json"
+    },
+    {
+      "igdb_id": 168891,
+      "game_name": "Tourist Bus Simulator: BB40",
+      "file": "missing/T/168891-tourist-bus-simulator-bb40.json"
+    },
+    {
+      "igdb_id": 168888,
+      "game_name": "Tourist Bus Simulator: Comfort Class HD",
+      "file": "missing/T/168888-tourist-bus-simulator-comfort-class-hd.json"
+    },
+    {
+      "igdb_id": 168890,
+      "game_name": "Tourist Bus Simulator: Man Lion's Coach 3rd Gen",
+      "file": "missing/T/168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json"
+    },
+    {
+      "igdb_id": 168889,
+      "game_name": "Tourist Bus Simulator: Man Lion's Intercity",
+      "file": "missing/T/168889-tourist-bus-simulator-man-lions-intercity.json"
+    },
+    {
+      "igdb_id": 168892,
+      "game_name": "Tourist Bus Simulator: Neoplan Skyliner",
+      "file": "missing/T/168892-tourist-bus-simulator-neoplan-skyliner.json"
+    },
+    {
+      "igdb_id": 168885,
+      "game_name": "Tourist Bus Simulator: Scania Touring",
+      "file": "missing/T/168885-tourist-bus-simulator-scania-touring.json"
+    },
+    {
+      "igdb_id": 168887,
+      "game_name": "Tourist Bus Simulator: VDL Futura FDD2",
+      "file": "missing/T/168887-tourist-bus-simulator-vdl-futura-fdd2.json"
+    },
+    {
+      "igdb_id": 168886,
+      "game_name": "Tourist Bus Simulator: VDL Futura FHD2",
+      "file": "missing/T/168886-tourist-bus-simulator-vdl-futura-fhd2.json"
+    },
+    {
+      "igdb_id": 168893,
+      "game_name": "Tourist Bus Simulator: W906",
+      "file": "missing/T/168893-tourist-bus-simulator-w906.json"
     },
     {
       "igdb_id": 175943,
