@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
+| The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
@@ -614,6 +615,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
 | The Lima Project | 271492 | [271492-the-lima-project.json](./271492-the-lima-project.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
+| The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
+| The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
+| The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
