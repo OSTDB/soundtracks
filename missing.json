@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T20:03:39.962Z",
-  "total_missing": 15462,
+  "generated_at": "2026-09-01T20:18:11.366Z",
+  "total_missing": 15512,
   "games": [
     {
       "igdb_id": 306086,
@@ -7138,6 +7138,11 @@
       "file": "missing/B/230559-belle-de-nuit-point-du-jour.json"
     },
     {
+      "igdb_id": 158707,
+      "game_name": "Belongings",
+      "file": "missing/B/158707-belongings.json"
+    },
+    {
       "igdb_id": 173312,
       "game_name": "Below the Ocean",
       "file": "missing/B/173312-below-the-ocean.json"
@@ -7931,6 +7936,11 @@
       "igdb_id": 248291,
       "game_name": "Blobi Sprint",
       "file": "missing/B/248291-blobi-sprint.json"
+    },
+    {
+      "igdb_id": 158699,
+      "game_name": "Blobkin Blaster",
+      "file": "missing/B/158699-blobkin-blaster.json"
     },
     {
       "igdb_id": 219299,
@@ -9138,6 +9148,11 @@
       "file": "missing/B/325830-bricksbumpbump.json"
     },
     {
+      "igdb_id": 158731,
+      "game_name": "BridgeFix 2=3-1",
+      "file": "missing/B/158731-bridgefix-2-3-1.json"
+    },
+    {
       "igdb_id": 277016,
       "game_name": "Bright Oak",
       "file": "missing/B/277016-bright-oak.json"
@@ -9713,6 +9728,11 @@
       "file": "missing/B/182507-burger-king-orientation-cd-i-training.json"
     },
     {
+      "igdb_id": 158708,
+      "game_name": "Burger Night",
+      "file": "missing/B/158708-burger-night.json"
+    },
+    {
       "igdb_id": 231613,
       "game_name": "Burninate the Barnyard",
       "file": "missing/B/231613-burninate-the-barnyard.json"
@@ -9736,6 +9756,11 @@
       "igdb_id": 317602,
       "game_name": "BurntOut Capital",
       "file": "missing/B/317602-burntout-capital.json"
+    },
+    {
+      "igdb_id": 158717,
+      "game_name": "Burrow",
+      "file": "missing/B/158717-burrow.json"
     },
     {
       "igdb_id": 237042,
@@ -14318,6 +14343,11 @@
       "file": "missing/C/260406-crusaders-arena.json"
     },
     {
+      "igdb_id": 158700,
+      "game_name": "Crush the Industry",
+      "file": "missing/C/158700-crush-the-industry.json"
+    },
+    {
       "igdb_id": 199626,
       "game_name": "CrushBorgs",
       "file": "missing/C/199626-crushborgs.json"
@@ -17646,6 +17676,11 @@
       "igdb_id": 159863,
       "game_name": "Don't Crash: The Political Game",
       "file": "missing/D/159863-dont-crash-the-political-game.json"
+    },
+    {
+      "igdb_id": 158729,
+      "game_name": "Don't Cut Your Hand 2",
+      "file": "missing/D/158729-dont-cut-your-hand-2.json"
     },
     {
       "igdb_id": 323532,
@@ -21468,6 +21503,11 @@
       "file": "missing/F/232689-fallout-76-season-11-nuka-world.json"
     },
     {
+      "igdb_id": 158730,
+      "game_name": "Falnarion Tactics: Oathbreaker",
+      "file": "missing/F/158730-falnarion-tactics-oathbreaker.json"
+    },
+    {
       "igdb_id": 319932,
       "game_name": "Familiar Stranger",
       "file": "missing/F/319932-familiar-stranger.json"
@@ -21856,6 +21896,11 @@
       "igdb_id": 302123,
       "game_name": "Fastival",
       "file": "missing/F/302123-fastival.json"
+    },
+    {
+      "igdb_id": 158720,
+      "game_name": "Fat Man Fights",
+      "file": "missing/F/158720-fat-man-fights.json"
     },
     {
       "igdb_id": 185653,
@@ -24651,6 +24696,11 @@
       "igdb_id": 267090,
       "game_name": "Fusing Noracam",
       "file": "missing/F/267090-fusing-noracam.json"
+    },
+    {
+      "igdb_id": 158712,
+      "game_name": "Fusion",
+      "file": "missing/F/158712-fusion.json"
     },
     {
       "igdb_id": 291776,
@@ -28543,6 +28593,11 @@
       "file": "missing/H/234906-hellfire-saga.json"
     },
     {
+      "igdb_id": 158718,
+      "game_name": "Hellgate VR",
+      "file": "missing/H/158718-hellgate-vr.json"
+    },
+    {
       "igdb_id": 318223,
       "game_name": "Hello Counsel",
       "file": "missing/H/318223-hello-counsel.json"
@@ -29866,6 +29921,11 @@
       "igdb_id": 249469,
       "game_name": "Hot Cocoa Magic!",
       "file": "missing/H/249469-hot-cocoa-magic.json"
+    },
+    {
+      "igdb_id": 158721,
+      "game_name": "Hot Dodge!",
+      "file": "missing/H/158721-hot-dodge.json"
     },
     {
       "igdb_id": 159351,
@@ -31301,6 +31361,11 @@
       "igdb_id": 340749,
       "game_name": "Incredible Dracula: Academy of Shadows",
       "file": "missing/I/340749-incredible-dracula-academy-of-shadows.json"
+    },
+    {
+      "igdb_id": 158719,
+      "game_name": "Increlution",
+      "file": "missing/I/158719-increlution.json"
     },
     {
       "igdb_id": 163968,
@@ -35293,6 +35358,11 @@
       "file": "missing/L/173280-legend-of-labot-the-golden-pearl.json"
     },
     {
+      "igdb_id": 158702,
+      "game_name": "Legend of Maratha Warriors",
+      "file": "missing/L/158702-legend-of-maratha-warriors.json"
+    },
+    {
       "igdb_id": 192946,
       "game_name": "Legend of Radiance",
       "file": "missing/L/192946-legend-of-radiance.json"
@@ -35546,6 +35616,11 @@
       "igdb_id": 166240,
       "game_name": "Let It Die: Uncle Prime Edition",
       "file": "missing/L/166240-let-it-die-uncle-prime-edition.json"
+    },
+    {
+      "igdb_id": 158724,
+      "game_name": "Let Yourself Out, Eddie Kaspbrak!",
+      "file": "missing/L/158724-let-yourself-out-eddie-kaspbrak.json"
     },
     {
       "igdb_id": 326944,
@@ -36338,9 +36413,94 @@
       "file": "missing/L/182506-loch-ness.json"
     },
     {
+      "igdb_id": 158746,
+      "game_name": "Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack",
+      "file": "missing/L/158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json"
+    },
+    {
+      "igdb_id": 158741,
+      "game_name": "Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack",
+      "file": "missing/L/158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json"
+    },
+    {
+      "igdb_id": 158738,
+      "game_name": "Lock 'n Load Tactical Digital: For the Emperor - Battlepack",
+      "file": "missing/L/158738-lock-n-load-tactical-digital-for-the-emperor-battlepack.json"
+    },
+    {
+      "igdb_id": 158744,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes Against the Red Star - Battlepack 1",
+      "file": "missing/L/158744-lock-n-load-tactical-digital-heroes-against-the-red-star-battlepack-1.json"
+    },
+    {
+      "igdb_id": 158733,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes in Defiance - Battlepack 1",
+      "file": "missing/L/158733-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-1.json"
+    },
+    {
       "igdb_id": 239343,
       "game_name": "Lock 'n Load Tactical Digital: Heroes in Defiance Battlepack 2",
       "file": "missing/L/239343-lock-n-load-tactical-digital-heroes-in-defiance-battlepack-2.json"
+    },
+    {
+      "igdb_id": 158747,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of Grenada",
+      "file": "missing/L/158747-lock-n-load-tactical-digital-heroes-of-grenada.json"
+    },
+    {
+      "igdb_id": 158743,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of Nam - Battlepack 1",
+      "file": "missing/L/158743-lock-n-load-tactical-digital-heroes-of-nam-battlepack-1.json"
+    },
+    {
+      "igdb_id": 158732,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 1",
+      "file": "missing/L/158732-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-1.json"
+    },
+    {
+      "igdb_id": 158745,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of Normandy - Battlepack 2",
+      "file": "missing/L/158745-lock-n-load-tactical-digital-heroes-of-normandy-battlepack-2.json"
+    },
+    {
+      "igdb_id": 158728,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of North Africa - Battle Pack 1",
+      "file": "missing/L/158728-lock-n-load-tactical-digital-heroes-of-north-africa-battle-pack-1.json"
+    },
+    {
+      "igdb_id": 158742,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of the Bitter Harvest - Battlepack 1",
+      "file": "missing/L/158742-lock-n-load-tactical-digital-heroes-of-the-bitter-harvest-battlepack-1.json"
+    },
+    {
+      "igdb_id": 158734,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of the Falklands - Pack 1",
+      "file": "missing/L/158734-lock-n-load-tactical-digital-heroes-of-the-falklands-pack-1.json"
+    },
+    {
+      "igdb_id": 158735,
+      "game_name": "Lock 'n Load Tactical Digital: Heroes of the Motherland - Battlepack 1",
+      "file": "missing/L/158735-lock-n-load-tactical-digital-heroes-of-the-motherland-battlepack-1.json"
+    },
+    {
+      "igdb_id": 158739,
+      "game_name": "Lock 'n Load Tactical Digital: Pledge of Honor - Battlepack",
+      "file": "missing/L/158739-lock-n-load-tactical-digital-pledge-of-honor-battlepack.json"
+    },
+    {
+      "igdb_id": 158740,
+      "game_name": "Lock 'n Load Tactical Digital: Red Gauntlet - Battlepack",
+      "file": "missing/L/158740-lock-n-load-tactical-digital-red-gauntlet-battlepack.json"
+    },
+    {
+      "igdb_id": 158736,
+      "game_name": "Lock 'n Load Tactical Digital: The Untold Stories - Battlepack",
+      "file": "missing/L/158736-lock-n-load-tactical-digital-the-untold-stories-battlepack.json"
+    },
+    {
+      "igdb_id": 158737,
+      "game_name": "Lock 'n Load Tactical Digital: We Stand Alone - Battlepack",
+      "file": "missing/L/158737-lock-n-load-tactical-digital-we-stand-alone-battlepack.json"
     },
     {
       "igdb_id": 335708,
@@ -42401,6 +42561,11 @@
       "igdb_id": 221949,
       "game_name": "My Universe: Pets Edition",
       "file": "missing/M/221949-my-universe-pets-edition.json"
+    },
+    {
+      "igdb_id": 158705,
+      "game_name": "My UnReal Pet",
+      "file": "missing/M/158705-my-unreal-pet.json"
     },
     {
       "igdb_id": 321784,
@@ -51658,6 +51823,11 @@
       "file": "missing/R/330517-rapid-the-hedgehog.json"
     },
     {
+      "igdb_id": 158710,
+      "game_name": "Rapper Life Simulation",
+      "file": "missing/R/158710-rapper-life-simulation.json"
+    },
+    {
       "igdb_id": 331106,
       "game_name": "Rapture Island",
       "file": "missing/R/331106-rapture-island.json"
@@ -51761,6 +51931,11 @@
       "igdb_id": 192423,
       "game_name": "Razed Earth",
       "file": "missing/R/192423-razed-earth.json"
+    },
+    {
+      "igdb_id": 158711,
+      "game_name": "RC Airplane Challenge",
+      "file": "missing/R/158711-rc-airplane-challenge.json"
     },
     {
       "igdb_id": 226977,
@@ -53021,6 +53196,11 @@
       "igdb_id": 226950,
       "game_name": "RideOp: New Heights - Expansion pack",
       "file": "missing/R/226950-rideop-new-heights-expansion-pack.json"
+    },
+    {
+      "igdb_id": 158706,
+      "game_name": "Riders 2491",
+      "file": "missing/R/158706-riders-2491.json"
     },
     {
       "igdb_id": 293916,
@@ -54593,6 +54773,11 @@
       "file": "missing/R/197376-russian-driver.json"
     },
     {
+      "igdb_id": 158697,
+      "game_name": "Russian Drunken Boxers",
+      "file": "missing/R/158697-russian-drunken-boxers.json"
+    },
+    {
       "igdb_id": 263767,
       "game_name": "Russian Fight Simulator",
       "file": "missing/R/263767-russian-fight-simulator.json"
@@ -55151,6 +55336,11 @@
       "igdb_id": 299436,
       "game_name": "Savage Pond",
       "file": "missing/S/299436-savage-pond.json"
+    },
+    {
+      "igdb_id": 158715,
+      "game_name": "Savage Tower Defense",
+      "file": "missing/S/158715-savage-tower-defense.json"
     },
     {
       "igdb_id": 260399,
@@ -56548,6 +56738,11 @@
       "file": "missing/S/221385-shiba-eternity.json"
     },
     {
+      "igdb_id": 158726,
+      "game_name": "Shiba Mekuri",
+      "file": "missing/S/158726-shiba-mekuri.json"
+    },
+    {
       "igdb_id": 197408,
       "game_name": "Shibainu: VR Katana Simulator",
       "file": "missing/S/197408-shibainu-vr-katana-simulator.json"
@@ -57921,6 +58116,11 @@
       "igdb_id": 172147,
       "game_name": "Smash Up: Pretty Pretty",
       "file": "missing/S/172147-smash-up-pretty-pretty.json"
+    },
+    {
+      "igdb_id": 158703,
+      "game_name": "Smash'em",
+      "file": "missing/S/158703-smashem.json"
     },
     {
       "igdb_id": 311274,
@@ -62213,6 +62413,11 @@
       "file": "missing/S/321172-super-mario-bros-2-deluxe.json"
     },
     {
+      "igdb_id": 158723,
+      "game_name": "Super Mario Bros. 3",
+      "file": "missing/S/158723-super-mario-bros-3.json"
+    },
+    {
       "igdb_id": 239902,
       "game_name": "Super Mario Bros. 3: The Lost Levels",
       "file": "missing/S/239902-super-mario-bros-3-the-lost-levels.json"
@@ -62856,6 +63061,11 @@
       "igdb_id": 201323,
       "game_name": "Survive 10 Minutes Please",
       "file": "missing/S/201323-survive-10-minutes-please.json"
+    },
+    {
+      "igdb_id": 158709,
+      "game_name": "Survive Avalon",
+      "file": "missing/S/158709-survive-avalon.json"
     },
     {
       "igdb_id": 306094,
@@ -64368,6 +64578,11 @@
       "file": "missing/T/177556-terminal.json"
     },
     {
+      "igdb_id": 158701,
+      "game_name": "Terminal Singularity",
+      "file": "missing/T/158701-terminal-singularity.json"
+    },
+    {
       "igdb_id": 253574,
       "game_name": "Terminate: Study X",
       "file": "missing/T/253574-terminate-study-x.json"
@@ -65468,6 +65683,11 @@
       "file": "missing/T/311807-the-drawnjuring.json"
     },
     {
+      "igdb_id": 158714,
+      "game_name": "The Dream Libra Had",
+      "file": "missing/T/158714-the-dream-libra-had.json"
+    },
+    {
       "igdb_id": 196872,
       "game_name": "The Dream Team",
       "file": "missing/T/196872-the-dream-team.json"
@@ -66403,6 +66623,11 @@
       "file": "missing/T/251812-the-last-stand-at-camp-zombie.json"
     },
     {
+      "igdb_id": 158727,
+      "game_name": "The Last Stand Legacy Collection",
+      "file": "missing/T/158727-the-last-stand-legacy-collection.json"
+    },
+    {
       "igdb_id": 188090,
       "game_name": "The Late D. Flate's Great Estate",
       "file": "missing/T/188090-the-late-d-flates-great-estate.json"
@@ -67141,6 +67366,11 @@
       "igdb_id": 211923,
       "game_name": "The Perfect Garden",
       "file": "missing/T/211923-the-perfect-garden.json"
+    },
+    {
+      "igdb_id": 158713,
+      "game_name": "The Perfect Shape",
+      "file": "missing/T/158713-the-perfect-shape.json"
     },
     {
       "igdb_id": 324671,
@@ -69656,6 +69886,11 @@
       "igdb_id": 186335,
       "game_name": "Tkium Exclusion Area",
       "file": "missing/T/186335-tkium-exclusion-area.json"
+    },
+    {
+      "igdb_id": 158722,
+      "game_name": "TKKG: Wer stoppt den Feuerteufel?",
+      "file": "missing/T/158722-tkkg-wer-stoppt-den-feuerteufel.json"
     },
     {
       "igdb_id": 240520,
@@ -74258,6 +74493,11 @@
       "file": "missing/W/178085-wanderers-io.json"
     },
     {
+      "igdb_id": 158716,
+      "game_name": "Wanderfar",
+      "file": "missing/W/158716-wanderfar.json"
+    },
+    {
       "igdb_id": 339131,
       "game_name": "Wandering Dreams of Yuri",
       "file": "missing/W/339131-wandering-dreams-of-yuri.json"
@@ -75051,6 +75291,11 @@
       "igdb_id": 329970,
       "game_name": "Whisperstring",
       "file": "missing/W/329970-whisperstring.json"
+    },
+    {
+      "igdb_id": 158698,
+      "game_name": "White Dandelion",
+      "file": "missing/W/158698-white-dandelion.json"
     },
     {
       "igdb_id": 248335,
@@ -76586,6 +76831,11 @@
       "igdb_id": 298849,
       "game_name": "You Can Only Turn Left",
       "file": "missing/Y/298849-you-can-only-turn-left.json"
+    },
+    {
+      "igdb_id": 158704,
+      "game_name": "You Can Pet the Dog VR",
+      "file": "missing/Y/158704-you-can-pet-the-dog-vr.json"
     },
     {
       "igdb_id": 205804,
