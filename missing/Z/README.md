@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
+| Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
