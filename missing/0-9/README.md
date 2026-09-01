@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
+| 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
