@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
+| Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
+| Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
