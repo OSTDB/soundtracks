@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
+| Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
+| Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Pix' N Love Limited Edition | 221404 | [221404-resident-evil-2-pix-n-love-limited-edition.json](./221404-resident-evil-2-pix-n-love-limited-edition.json) |
@@ -240,9 +242,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
+| Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
+| Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
 | Retrograde Arena: Deathmatch Pack | 226967 | [226967-retrograde-arena-deathmatch-pack.json](./226967-retrograde-arena-deathmatch-pack.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
@@ -402,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
 | Rocket League: Season 1 | 202392 | [202392-rocket-league-season-1.json](./202392-rocket-league-season-1.json) |
 | Rocket League: Season 11 | 252378 | [252378-rocket-league-season-11.json](./252378-rocket-league-season-11.json) |
+| Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
@@ -467,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
+| Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
