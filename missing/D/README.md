@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
+| Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
