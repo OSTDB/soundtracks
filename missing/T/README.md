@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
+| Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
+| The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
