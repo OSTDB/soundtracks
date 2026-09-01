@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T04:18:00.578Z",
-  "total_missing": 12429,
+  "generated_at": "2026-09-01T04:33:08.065Z",
+  "total_missing": 12479,
   "games": [
     {
       "igdb_id": 306086,
@@ -26,6 +26,11 @@
       "igdb_id": 192969,
       "game_name": "(Dis)assemble",
       "file": "missing/0-9/192969-dis-assemble.json"
+    },
+    {
+      "igdb_id": 191250,
+      "game_name": "001 Earth",
+      "file": "missing/0-9/191250-001-earth.json"
     },
     {
       "igdb_id": 316429,
@@ -3393,6 +3398,11 @@
       "file": "missing/A/220306-arcana-boundless-horizon.json"
     },
     {
+      "igdb_id": 191241,
+      "game_name": "Arcana: Heat and Cold - Season 2",
+      "file": "missing/A/191241-arcana-heat-and-cold-season-2.json"
+    },
+    {
       "igdb_id": 312351,
       "game_name": "Arcana: Seal of Rimsala",
       "file": "missing/A/312351-arcana-seal-of-rimsala.json"
@@ -3783,6 +3793,66 @@
       "file": "missing/A/216470-artificial-extinction-2.json"
     },
     {
+      "igdb_id": 191235,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Aquaris Planet",
+      "file": "missing/A/191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json"
+    },
+    {
+      "igdb_id": 191230,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1",
+      "file": "missing/A/191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json"
+    },
+    {
+      "igdb_id": 191229,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2",
+      "file": "missing/A/191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json"
+    },
+    {
+      "igdb_id": 191236,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 3",
+      "file": "missing/A/191236-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-3.json"
+    },
+    {
+      "igdb_id": 191234,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 4",
+      "file": "missing/A/191234-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-4.json"
+    },
+    {
+      "igdb_id": 191228,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 5",
+      "file": "missing/A/191228-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-5.json"
+    },
+    {
+      "igdb_id": 191231,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 6",
+      "file": "missing/A/191231-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-6.json"
+    },
+    {
+      "igdb_id": 191237,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 1",
+      "file": "missing/A/191237-artists-of-fortune-paint-by-numbers-spooky-rush-ep-1.json"
+    },
+    {
+      "igdb_id": 191233,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 3",
+      "file": "missing/A/191233-artists-of-fortune-paint-by-numbers-spooky-rush-ep-3.json"
+    },
+    {
+      "igdb_id": 191227,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 4",
+      "file": "missing/A/191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json"
+    },
+    {
+      "igdb_id": 191232,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5",
+      "file": "missing/A/191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json"
+    },
+    {
+      "igdb_id": 191238,
+      "game_name": "Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6",
+      "file": "missing/A/191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json"
+    },
+    {
       "igdb_id": 228694,
       "game_name": "Arx, After the Reckoning",
       "file": "missing/A/228694-arx-after-the-reckoning.json"
@@ -3991,6 +4061,11 @@
       "igdb_id": 309660,
       "game_name": "Astra Protocol 2: Audio Pack",
       "file": "missing/A/309660-astra-protocol-2-audio-pack.json"
+    },
+    {
+      "igdb_id": 191226,
+      "game_name": "Astralojia",
+      "file": "missing/A/191226-astralojia.json"
     },
     {
       "igdb_id": 241655,
@@ -4213,6 +4288,11 @@
       "file": "missing/A/332239-aton.json"
     },
     {
+      "igdb_id": 191222,
+      "game_name": "Atria-1",
+      "file": "missing/A/191222-atria-1.json"
+    },
+    {
       "igdb_id": 292837,
       "game_name": "Attack at EP-CYG-4",
       "file": "missing/A/292837-attack-at-ep-cyg-4.json"
@@ -4221,6 +4301,11 @@
       "igdb_id": 273079,
       "game_name": "Attack of the Killer Tomatoes",
       "file": "missing/A/273079-attack-of-the-killer-tomatoes.json"
+    },
+    {
+      "igdb_id": 191242,
+      "game_name": "Attack of Undo Zai",
+      "file": "missing/A/191242-attack-of-undo-zai.json"
     },
     {
       "igdb_id": 231612,
@@ -7171,6 +7256,11 @@
       "igdb_id": 209671,
       "game_name": "Box Runner!",
       "file": "missing/B/209671-box-runner.json"
+    },
+    {
+      "igdb_id": 191243,
+      "game_name": "Box Rush",
+      "file": "missing/B/191243-box-rush.json"
     },
     {
       "igdb_id": 263202,
@@ -11008,6 +11098,11 @@
       "file": "missing/C/247735-costly-adventure.json"
     },
     {
+      "igdb_id": 191266,
+      "game_name": "Costrutto",
+      "file": "missing/C/191266-costrutto.json"
+    },
+    {
       "igdb_id": 219304,
       "game_name": "Counter Crossline: Crime War",
       "file": "missing/C/219304-counter-crossline-crime-war.json"
@@ -11721,6 +11816,11 @@
       "igdb_id": 218149,
       "game_name": "Cubeism 2: Baroque Edition",
       "file": "missing/C/218149-cubeism-2-baroque-edition.json"
+    },
+    {
+      "igdb_id": 191251,
+      "game_name": "CubeLines",
+      "file": "missing/C/191251-cubelines.json"
     },
     {
       "igdb_id": 249488,
@@ -14278,6 +14378,11 @@
       "file": "missing/D/332855-doki-doki-sayori-date.json"
     },
     {
+      "igdb_id": 191218,
+      "game_name": "Doki Doki Tri-Line Quest",
+      "file": "missing/D/191218-doki-doki-tri-line-quest.json"
+    },
+    {
       "igdb_id": 332853,
       "game_name": "Doki Doki Your Bully: Natsuki",
       "file": "missing/D/332853-doki-doki-your-bully-natsuki.json"
@@ -14421,6 +14526,11 @@
       "igdb_id": 231637,
       "game_name": "Donkey Kong Country: Barrel Maze",
       "file": "missing/D/231637-donkey-kong-country-barrel-maze.json"
+    },
+    {
+      "igdb_id": 191268,
+      "game_name": "Donkey Kong Craze",
+      "file": "missing/D/191268-donkey-kong-craze.json"
     },
     {
       "igdb_id": 257639,
@@ -15471,6 +15581,11 @@
       "igdb_id": 248317,
       "game_name": "Dying Light: Enhanced Edition",
       "file": "missing/D/248317-dying-light-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 191262,
+      "game_name": "Dymension",
+      "file": "missing/D/191262-dymension.json"
     },
     {
       "igdb_id": 214722,
@@ -18358,6 +18473,11 @@
       "file": "missing/F/212475-fishery-tycoon.json"
     },
     {
+      "igdb_id": 191256,
+      "game_name": "Fishhead 3: The Search For a Heart of Gold",
+      "file": "missing/F/191256-fishhead-3-the-search-for-a-heart-of-gold.json"
+    },
+    {
       "igdb_id": 299454,
       "game_name": "Fishing Adventure",
       "file": "missing/F/299454-fishing-adventure.json"
@@ -19286,6 +19406,11 @@
       "igdb_id": 294422,
       "game_name": "Frank Fux",
       "file": "missing/F/294422-frank-fux.json"
+    },
+    {
+      "igdb_id": 191258,
+      "game_name": "Frank's Adventure",
+      "file": "missing/F/191258-franks-adventure.json"
     },
     {
       "igdb_id": 208014,
@@ -20748,6 +20873,11 @@
       "file": "missing/G/224236-ghost-bros.json"
     },
     {
+      "igdb_id": 191224,
+      "game_name": "Ghost Follows",
+      "file": "missing/G/191224-ghost-follows.json"
+    },
+    {
       "igdb_id": 263224,
       "game_name": "Ghost in the Brain",
       "file": "missing/G/263224-ghost-in-the-brain.json"
@@ -20826,6 +20956,16 @@
       "igdb_id": 246125,
       "game_name": "Ghostwire Tokyo: Spider's Thread",
       "file": "missing/G/246125-ghostwire-tokyo-spiders-thread.json"
+    },
+    {
+      "igdb_id": 191269,
+      "game_name": "Ghouls 'n Ghosts Remix",
+      "file": "missing/G/191269-ghouls-n-ghosts-remix.json"
+    },
+    {
+      "igdb_id": 191271,
+      "game_name": "Ghouls 'n Ghosts Remix: Queen Edition",
+      "file": "missing/G/191271-ghouls-n-ghosts-remix-queen-edition.json"
     },
     {
       "igdb_id": 218132,
@@ -21201,6 +21341,11 @@
       "igdb_id": 264872,
       "game_name": "God: The Game",
       "file": "missing/G/264872-god-the-game.json"
+    },
+    {
+      "igdb_id": 191219,
+      "game_name": "Godbeast Mk.II",
+      "file": "missing/G/191219-godbeast-mk-ii.json"
     },
     {
       "igdb_id": 310203,
@@ -23518,6 +23663,11 @@
       "file": "missing/H/322376-hero-world.json"
     },
     {
+      "igdb_id": 191254,
+      "game_name": "Hero Zex",
+      "file": "missing/H/191254-hero-zex.json"
+    },
+    {
       "igdb_id": 199663,
       "game_name": "Hero's Quest: Automatic Roguelite RPG",
       "file": "missing/H/199663-heros-quest-automatic-roguelite-rpg.json"
@@ -24943,6 +25093,11 @@
       "file": "missing/I/223669-i-remember-the-rain.json"
     },
     {
+      "igdb_id": 191263,
+      "game_name": "I Wanna Eat the Lemon",
+      "file": "missing/I/191263-i-wanna-eat-the-lemon.json"
+    },
+    {
       "igdb_id": 242822,
       "game_name": "I Was in the War",
       "file": "missing/I/242822-i-was-in-the-war.json"
@@ -25383,6 +25538,11 @@
       "file": "missing/I/234300-immeowtal-festival.json"
     },
     {
+      "igdb_id": 191247,
+      "game_name": "Immersion",
+      "file": "missing/I/191247-immersion.json"
+    },
+    {
       "igdb_id": 232715,
       "game_name": "Immersive Engineering",
       "file": "missing/I/232715-immersive-engineering.json"
@@ -25646,6 +25806,11 @@
       "igdb_id": 203569,
       "game_name": "Infinity Dungeons",
       "file": "missing/I/203569-infinity-dungeons.json"
+    },
+    {
+      "igdb_id": 191217,
+      "game_name": "Infinity Girl",
+      "file": "missing/I/191217-infinity-girl.json"
     },
     {
       "igdb_id": 340752,
@@ -26171,6 +26336,11 @@
       "igdb_id": 199657,
       "game_name": "Island of Aito",
       "file": "missing/I/199657-island-of-aito.json"
+    },
+    {
+      "igdb_id": 191220,
+      "game_name": "Island of Lust",
+      "file": "missing/I/191220-island-of-lust.json"
     },
     {
       "igdb_id": 333961,
@@ -28453,6 +28623,11 @@
       "file": "missing/L/291737-la-llorona-wants-your-soul.json"
     },
     {
+      "igdb_id": 191225,
+      "game_name": "La Maledizione dell'Uccello Serpente",
+      "file": "missing/L/191225-la-maledizione-delluccello-serpente.json"
+    },
+    {
       "igdb_id": 252994,
       "game_name": "La Mina",
       "file": "missing/L/252994-la-mina.json"
@@ -28721,6 +28896,11 @@
       "igdb_id": 255964,
       "game_name": "Last Survivors",
       "file": "missing/L/255964-last-survivors.json"
+    },
+    {
+      "igdb_id": 191252,
+      "game_name": "Late For Class: Variety King",
+      "file": "missing/L/191252-late-for-class-variety-king.json"
     },
     {
       "igdb_id": 225267,
@@ -35933,6 +36113,11 @@
       "file": "missing/N/208045-nirvana-pilot-yume-deluxe-edition.json"
     },
     {
+      "igdb_id": 191261,
+      "game_name": "Nirvana: Game of Life",
+      "file": "missing/N/191261-nirvana-game-of-life.json"
+    },
+    {
       "igdb_id": 216460,
       "game_name": "Nitori Dungeon",
       "file": "missing/N/216460-nitori-dungeon.json"
@@ -39548,6 +39733,11 @@
       "file": "missing/P/195265-planet-td.json"
     },
     {
+      "igdb_id": 191245,
+      "game_name": "Planet Zoo: Europe Pack",
+      "file": "missing/P/191245-planet-zoo-europe-pack.json"
+    },
+    {
       "igdb_id": 210873,
       "game_name": "Planetoids",
       "file": "missing/P/210873-planetoids.json"
@@ -40153,6 +40343,11 @@
       "file": "missing/P/223131-poogers.json"
     },
     {
+      "igdb_id": 191221,
+      "game_name": "Pool Adventure",
+      "file": "missing/P/191221-pool-adventure.json"
+    },
+    {
       "igdb_id": 315842,
       "game_name": "Pool Together Bundle",
       "file": "missing/P/315842-pool-together-bundle.json"
@@ -40351,6 +40546,11 @@
       "igdb_id": 251845,
       "game_name": "Power Solenoid",
       "file": "missing/P/251845-power-solenoid.json"
+    },
+    {
+      "igdb_id": 191257,
+      "game_name": "Powerline.io",
+      "file": "missing/P/191257-powerline-io.json"
     },
     {
       "igdb_id": 251808,
@@ -40991,6 +41191,11 @@
       "igdb_id": 219822,
       "game_name": "Proton Bus Simulator Road",
       "file": "missing/P/219822-proton-bus-simulator-road.json"
+    },
+    {
+      "igdb_id": 191244,
+      "game_name": "Prototype Blocks",
+      "file": "missing/P/191244-prototype-blocks.json"
     },
     {
       "igdb_id": 195796,
@@ -45643,6 +45848,11 @@
       "file": "missing/S/245007-serial-experiments-lain-bootleg.json"
     },
     {
+      "igdb_id": 191223,
+      "game_name": "Serious Breakdown",
+      "file": "missing/S/191223-serious-breakdown.json"
+    },
+    {
       "igdb_id": 205226,
       "game_name": "Serious Sam: GOG Collection",
       "file": "missing/S/205226-serious-sam-gog-collection.json"
@@ -45831,6 +46041,11 @@
       "igdb_id": 311258,
       "game_name": "Shadow Falls",
       "file": "missing/S/311258-shadow-falls.json"
+    },
+    {
+      "igdb_id": 191264,
+      "game_name": "Shadow Fate",
+      "file": "missing/S/191264-shadow-fate.json"
     },
     {
       "igdb_id": 239335,
@@ -49228,6 +49443,11 @@
       "file": "missing/S/219264-stack-tower.json"
     },
     {
+      "igdb_id": 191216,
+      "game_name": "Stack!",
+      "file": "missing/S/191216-stack.json"
+    },
+    {
       "igdb_id": 206976,
       "game_name": "Stack'em",
       "file": "missing/S/206976-stackem.json"
@@ -51748,6 +51968,11 @@
       "file": "missing/T/304335-t2048.json"
     },
     {
+      "igdb_id": 191239,
+      "game_name": "Tabboz Simulator",
+      "file": "missing/T/191239-tabboz-simulator.json"
+    },
+    {
       "igdb_id": 293399,
       "game_name": "Table Ball: Amazing Extras Skin Pack",
       "file": "missing/T/293399-table-ball-amazing-extras-skin-pack.json"
@@ -53071,6 +53296,11 @@
       "igdb_id": 333942,
       "game_name": "The Charity Shop",
       "file": "missing/T/333942-the-charity-shop.json"
+    },
+    {
+      "igdb_id": 191265,
+      "game_name": "The Chick C",
+      "file": "missing/T/191265-the-chick-c.json"
     },
     {
       "igdb_id": 292289,
@@ -58508,6 +58738,11 @@
       "file": "missing/U/338584-unsolved-case-ash-and-secrets-collectors-edition.json"
     },
     {
+      "igdb_id": 191248,
+      "game_name": "Unstable",
+      "file": "missing/U/191248-unstable.json"
+    },
+    {
       "igdb_id": 303224,
       "game_name": "Unstable Blocks",
       "file": "missing/U/303224-unstable-blocks.json"
@@ -59351,6 +59586,11 @@
       "igdb_id": 338565,
       "game_name": "VocabVan",
       "file": "missing/V/338565-vocabvan.json"
+    },
+    {
+      "igdb_id": 191246,
+      "game_name": "Voice",
+      "file": "missing/V/191246-voice.json"
     },
     {
       "igdb_id": 224746,
@@ -61538,6 +61778,11 @@
       "file": "missing/Y/307308-yoiyami-biscuit.json"
     },
     {
+      "igdb_id": 191240,
+      "game_name": "Yoko Redux: Dreams of a Blue Planet",
+      "file": "missing/Y/191240-yoko-redux-dreams-of-a-blue-planet.json"
+    },
+    {
       "igdb_id": 238768,
       "game_name": "Yomaia",
       "file": "missing/Y/238768-yomaia.json"
@@ -61986,6 +62231,11 @@
       "igdb_id": 251231,
       "game_name": "Zombie Forest 3: Underground",
       "file": "missing/Z/251231-zombie-forest-3-underground.json"
+    },
+    {
+      "igdb_id": 191255,
+      "game_name": "Zombie frenzy",
+      "file": "missing/Z/191255-zombie-frenzy.json"
     },
     {
       "igdb_id": 201839,
