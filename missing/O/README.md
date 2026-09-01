@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnlyFap Simulator 2 | 209657 | [209657-onlyfap-simulator-2.json](./209657-onlyfap-simulator-2.json) |
 | OnlyFap Simulator 4 | 224790 | [224790-onlyfap-simulator-4.json](./224790-onlyfap-simulator-4.json) |
 | Onmitsu Kiritan | 204729 | [204729-onmitsu-kiritan.json](./204729-onmitsu-kiritan.json) |
+| Onmyoji Chess | 194010 | [194010-onmyoji-chess.json](./194010-onmyoji-chess.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
+| Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
