@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
+| Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
