@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
+| Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
 | Flipz | 249455 | [249455-flipz.json](./249455-flipz.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
+| For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
