@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
+| A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Terrible Place | 237062 | [237062-a-terrible-place.json](./237062-a-terrible-place.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
+| Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
@@ -719,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
+| Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
