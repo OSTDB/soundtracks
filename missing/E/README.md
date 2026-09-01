@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
+| Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
@@ -198,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
+| EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
