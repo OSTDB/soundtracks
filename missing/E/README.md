@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
+| Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
@@ -128,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Empty | 229384 | [229384-empty.json](./229384-empty.json) |
+| Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
@@ -260,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville: Kaif Pack | 263235 | [263235-eville-kaif-pack.json](./263235-eville-kaif-pack.json) |
 | Eville: Mr. Peterson | 221423 | [221423-eville-mr-peterson.json](./221423-eville-mr-peterson.json) |
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
+| Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
