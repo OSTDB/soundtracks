@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
+| Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
 | Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
+| AFK Heroes | 194034 | [194034-afk-heroes.json](./194034-afk-heroes.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After Burner | 200166 | [200166-after-burner.json](./200166-after-burner.json) |
 | After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
@@ -319,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | AllFive Classic | 307277 | [307277-allfive-classic.json](./307277-allfive-classic.json) |
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
+| Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
@@ -525,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
+| Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
@@ -607,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
+| Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
