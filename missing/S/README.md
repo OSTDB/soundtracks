@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Asha | 203542 | [203542-shadow-of-asha.json](./203542-shadow-of-asha.json) |
 | Shadow of Atlantis | 298294 | [298294-shadow-of-atlantis.json](./298294-shadow-of-atlantis.json) |
 | Shadow of Chaos | 324701 | [324701-shadow-of-chaos.json](./324701-shadow-of-chaos.json) |
+| Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Stalker | 264319 | [264319-shadow-stalker.json](./264319-shadow-stalker.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
+| Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
+| Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
@@ -811,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
+| Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
@@ -935,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
+| Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
@@ -1094,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
+| Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
