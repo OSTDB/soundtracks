@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
+| Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
