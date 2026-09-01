@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
+| A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
@@ -98,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
+| Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
@@ -224,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
+| Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
 | Air | 270403 | [270403-air.json](./270403-air.json) |
@@ -495,7 +498,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apico 4.0: Hive of Industry | 330561 | [330561-apico-4-0-hive-of-industry.json](./330561-apico-4-0-hive-of-industry.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
+| Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
+| Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
