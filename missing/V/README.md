@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
+| Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
