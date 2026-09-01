@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
+| Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
