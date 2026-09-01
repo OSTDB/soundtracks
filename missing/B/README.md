@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
+| Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
+| Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
