@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
+| SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
@@ -275,11 +276,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
+| Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
+| Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
@@ -295,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
+| Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
@@ -306,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining | 290683 | [290683-shining.json](./290683-shining.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
+| Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
@@ -692,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
+| Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
 | Sonic the Hedgehog Revitalized | 326955 | [326955-sonic-the-hedgehog-revitalized.json](./326955-sonic-the-hedgehog-revitalized.json) |
 | Sonic the Hedgehog RPG: Entropy | 317585 | [317585-sonic-the-hedgehog-rpg-entropy.json](./317585-sonic-the-hedgehog-rpg-entropy.json) |
@@ -893,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
+| Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
@@ -944,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
+| Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
@@ -1022,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
+| Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
@@ -1099,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
+| Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
