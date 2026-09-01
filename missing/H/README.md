@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
+| Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
