@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
+| Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
