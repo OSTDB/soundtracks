@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
+| The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Butcher | 203534 | [203534-the-butcher.json](./203534-the-butcher.json) |
 | The Button Be | 213629 | [213629-the-button-be.json](./213629-the-button-be.json) |
 | The Button Be: Fields | 217542 | [217542-the-button-be-fields.json](./217542-the-button-be-fields.json) |
@@ -864,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
+| The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Home | 248902 | [248902-the-way-home.json](./248902-the-way-home.json) |
@@ -959,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
+| Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: Tora! MP013 | 189682 | [189682-tiger-fighter-1931-tora-mp013.json](./189682-tiger-fighter-1931-tora-mp013.json) |
 | Tiger Fighter 1931: Tora! MP014 | 189695 | [189695-tiger-fighter-1931-tora-mp014.json](./189695-tiger-fighter-1931-tora-mp014.json) |
 | Tiger Fighter 1931: Tora! MP021 | 189694 | [189694-tiger-fighter-1931-tora-mp021.json](./189694-tiger-fighter-1931-tora-mp021.json) |
@@ -1010,6 +1013,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Striker: MP094 | 189722 | [189722-tiger-striker-mp094.json](./189722-tiger-striker-mp094.json) |
 | Tiger Striker: MP100 | 189723 | [189723-tiger-striker-mp100.json](./189723-tiger-striker-mp100.json) |
 | Tiger Tank 59 I: A-Gun MP040 | 238717 | [238717-tiger-tank-59-i-a-gun-mp040.json](./238717-tiger-tank-59-i-a-gun-mp040.json) |
+| Tiger Tank 59 I: Winter Assault MP062 | 173761 | [173761-tiger-tank-59-i-winter-assault-mp062.json](./173761-tiger-tank-59-i-winter-assault-mp062.json) |
+| Tiger Tank 59 I: Winter Assault MP066 | 173764 | [173764-tiger-tank-59-i-winter-assault-mp066.json](./173764-tiger-tank-59-i-winter-assault-mp066.json) |
+| Tiger Tank 59 I: Winter Assault MP072 | 173765 | [173765-tiger-tank-59-i-winter-assault-mp072.json](./173765-tiger-tank-59-i-winter-assault-mp072.json) |
+| Tiger Tank 59 I: Winter Assault MP074 | 173760 | [173760-tiger-tank-59-i-winter-assault-mp074.json](./173760-tiger-tank-59-i-winter-assault-mp074.json) |
+| Tiger Tank 59 I: Winter Assault MP082 | 173762 | [173762-tiger-tank-59-i-winter-assault-mp082.json](./173762-tiger-tank-59-i-winter-assault-mp082.json) |
+| Tiger Tank 59 I: Winter Assault MP084 | 173769 | [173769-tiger-tank-59-i-winter-assault-mp084.json](./173769-tiger-tank-59-i-winter-assault-mp084.json) |
+| Tiger Tank 59 I: Winter Assault MP087 | 173767 | [173767-tiger-tank-59-i-winter-assault-mp087.json](./173767-tiger-tank-59-i-winter-assault-mp087.json) |
+| Tiger Tank 59 I: Winter Assault MP088 | 173768 | [173768-tiger-tank-59-i-winter-assault-mp088.json](./173768-tiger-tank-59-i-winter-assault-mp088.json) |
+| Tiger Tank 59 I: Winter Assault MP090 | 173766 | [173766-tiger-tank-59-i-winter-assault-mp090.json](./173766-tiger-tank-59-i-winter-assault-mp090.json) |
+| Tiger Tank 59 I: Winter Assault MP091 | 173758 | [173758-tiger-tank-59-i-winter-assault-mp091.json](./173758-tiger-tank-59-i-winter-assault-mp091.json) |
+| Tiger Tank 59 I: Winter Assault MP093 | 173770 | [173770-tiger-tank-59-i-winter-assault-mp093.json](./173770-tiger-tank-59-i-winter-assault-mp093.json) |
+| Tiger Tank 59 I: Winter Assault MP098 | 173759 | [173759-tiger-tank-59-i-winter-assault-mp098.json](./173759-tiger-tank-59-i-winter-assault-mp098.json) |
+| Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
@@ -1098,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Yamanote Boys Pure Raspberry Disc | 221959 | [221959-tokyo-yamanote-boys-pure-raspberry-disc.json](./221959-tokyo-yamanote-boys-pure-raspberry-disc.json) |
 | Tokyo Yamanote Boys Super Mint Disc | 221953 | [221953-tokyo-yamanote-boys-super-mint-disc.json](./221953-tokyo-yamanote-boys-super-mint-disc.json) |
 | Tokyo Yamanote Boys Sweet Jelly Beans Disc | 221960 | [221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json](./221960-tokyo-yamanote-boys-sweet-jelly-beans-disc.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Frontline | 174907 | [174907-tom-clancys-ghost-recon-frontline.json](./174907-tom-clancys-ghost-recon-frontline.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
