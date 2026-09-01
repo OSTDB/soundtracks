@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
+| Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
@@ -1185,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
+| Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
+| Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
@@ -1434,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
+| Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
@@ -1750,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
+| Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
