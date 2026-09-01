@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
+| Abandoned Nursery | 178084 | [178084-abandoned-nursery.json](./178084-abandoned-nursery.json) |
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Search With Me: Extended Edition | 199109 | [199109-abc-search-with-me-extended-edition.json](./199109-abc-search-with-me-extended-edition.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
+| Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
