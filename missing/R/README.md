@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
+| Rapper Life Simulation | 158710 | [158710-rapper-life-simulation.json](./158710-rapper-life-simulation.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapz | 264325 | [264325-rapz.json](./264325-rapz.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
+| RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
+| Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
@@ -684,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
+| Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
