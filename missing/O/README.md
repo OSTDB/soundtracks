@@ -110,12 +110,45 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
+| OMSI 2: Aachen | 155135 | [155135-omsi-2-aachen.json](./155135-omsi-2-aachen.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
+| OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
+| OMSI 2: Berlin X10 | 155132 | [155132-omsi-2-berlin-x10.json](./155132-omsi-2-berlin-x10.json) |
+| OMSI 2: Busbetrieb-Simulator | 155140 | [155140-omsi-2-busbetrieb-simulator.json](./155140-omsi-2-busbetrieb-simulator.json) |
+| OMSI 2: C2-Stadtbus-Familie Vol.1 | 155109 | [155109-omsi-2-c2-stadtbus-familie-vol-1.json](./155109-omsi-2-c2-stadtbus-familie-vol-1.json) |
+| OMSI 2: City Bus O305 | 155116 | [155116-omsi-2-city-bus-o305.json](./155116-omsi-2-city-bus-o305.json) |
+| OMSI 2: Citybus i260 Series | 155127 | [155127-omsi-2-citybus-i260-series.json](./155127-omsi-2-citybus-i260-series.json) |
+| OMSI 2: Digibus Phantom | 155114 | [155114-omsi-2-digibus-phantom.json](./155114-omsi-2-digibus-phantom.json) |
+| OMSI 2: Doppelgelenkbus AGG 300 | 155124 | [155124-omsi-2-doppelgelenkbus-agg-300.json](./155124-omsi-2-doppelgelenkbus-agg-300.json) |
 | OMSI 2: Download Pack Vol. 13 - AI Cars | 293404 | [293404-omsi-2-download-pack-vol-13-ai-cars.json](./293404-omsi-2-download-pack-vol-13-ai-cars.json) |
+| OMSI 2: Downloadpack Vol.2 - KI-Fahrzeuge | 155126 | [155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json](./155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json) |
+| OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge | 155128 | [155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json](./155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json) |
+| OMSI 2: Downloadpack Vol.5 - KI-Menschen | 155133 | [155133-omsi-2-downloadpack-vol-5-ki-menschen.json](./155133-omsi-2-downloadpack-vol-5-ki-menschen.json) |
+| OMSI 2: Downloadpack Vol.6 - KI-Menschen | 155136 | [155136-omsi-2-downloadpack-vol-6-ki-menschen.json](./155136-omsi-2-downloadpack-vol-6-ki-menschen.json) |
+| OMSI 2: Downloadpack Vol.9 - KI-Luxusautos | 155120 | [155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json](./155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json) |
+| OMSI 2: Düsseldorf M2 | 155141 | [155141-omsi-2-dusseldorf-m2.json](./155141-omsi-2-dusseldorf-m2.json) |
+| OMSI 2: Express 91.06 | 155129 | [155129-omsi-2-express-91-06.json](./155129-omsi-2-express-91-06.json) |
 | OMSI 2: Hamburg Linie 20 | 195764 | [195764-omsi-2-hamburg-linie-20.json](./195764-omsi-2-hamburg-linie-20.json) |
 | OMSI 2: Heuliez Bus Pack - GX x37: Diesel Edition | 237624 | [237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json](./237624-omsi-2-heuliez-bus-pack-gx-x37-diesel-edition.json) |
+| OMSI 2: Irisbus Intercity Pack | 155117 | [155117-omsi-2-irisbus-intercity-pack.json](./155117-omsi-2-irisbus-intercity-pack.json) |
+| OMSI 2: IVECO Bus Family Interurban Generation | 155111 | [155111-omsi-2-iveco-bus-family-interurban-generation.json](./155111-omsi-2-iveco-bus-family-interurban-generation.json) |
 | OMSI 2: Iveco Bus-Familie Urbanway | 237071 | [237071-omsi-2-iveco-bus-familie-urbanway.json](./237071-omsi-2-iveco-bus-familie-urbanway.json) |
+| OMSI 2: K-Bergbahn | 155139 | [155139-omsi-2-k-bergbahn.json](./155139-omsi-2-k-bergbahn.json) |
+| OMSI 2: Köln | 155118 | [155118-omsi-2-koln.json](./155118-omsi-2-koln.json) |
+| OMSI 2: Luzern - Linie 24 | 155131 | [155131-omsi-2-luzern-linie-24.json](./155131-omsi-2-luzern-linie-24.json) |
+| OMSI 2: Mallorca | 155115 | [155115-omsi-2-mallorca.json](./155115-omsi-2-mallorca.json) |
+| OMSI 2: Man DN95 | 155113 | [155113-omsi-2-man-dn95.json](./155113-omsi-2-man-dn95.json) |
+| OMSI 2: Masterbus Gen 3 Pack | 155138 | [155138-omsi-2-masterbus-gen-3-pack.json](./155138-omsi-2-masterbus-gen-3-pack.json) |
+| OMSI 2: Metropole Ruhr | 155121 | [155121-omsi-2-metropole-ruhr.json](./155121-omsi-2-metropole-ruhr.json) |
+| OMSI 2: Saint-Servan | 155137 | [155137-omsi-2-saint-servan.json](./155137-omsi-2-saint-servan.json) |
 | OMSI 2: Steam Edition - AI-Articulated Bus for Vienna | 238753 | [238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json](./238753-omsi-2-steam-edition-ai-articulated-bus-for-vienna.json) |
+| OMSI 2: Strassenbahn NF6D Essen/Gelsenkirchen | 155125 | [155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json](./155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json) |
+| OMSI 2: Three Generations | 155112 | [155112-omsi-2-three-generations.json](./155112-omsi-2-three-generations.json) |
+| OMSI 2: Urbino Stadtbusfamilie | 155134 | [155134-omsi-2-urbino-stadtbusfamilie.json](./155134-omsi-2-urbino-stadtbusfamilie.json) |
+| OMSI 2: Velbert | 155110 | [155110-omsi-2-velbert.json](./155110-omsi-2-velbert.json) |
+| OMSI 2: Vienna | 155119 | [155119-omsi-2-vienna.json](./155119-omsi-2-vienna.json) |
+| OMSI 2: Vienna 1 - Line 24A | 155122 | [155122-omsi-2-vienna-1-line-24a.json](./155122-omsi-2-vienna-1-line-24a.json) |
+| OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
