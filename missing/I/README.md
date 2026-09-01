@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
+| Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder on the Bridge | 173839 | [173839-intruder-on-the-bridge.json](./173839-intruder-on-the-bridge.json) |
