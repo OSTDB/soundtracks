@@ -267,12 +267,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
+| Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
+| Hidden Object: Ghost of King Black Magic | 200196 | [200196-hidden-object-ghost-of-king-black-magic.json](./200196-hidden-object-ghost-of-king-black-magic.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
+| Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
