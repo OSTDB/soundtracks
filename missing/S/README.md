@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
+| Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
+| Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister Mansion | 297798 | [297798-sinister-mansion.json](./297798-sinister-mansion.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
@@ -535,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Up Close and Personal Weapon & Skin Pack | 307282 | [307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json](./307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
+| Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
@@ -591,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
+| Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
 | Solitons | 204096 | [204096-solitons.json](./204096-solitons.json) |
@@ -736,10 +740,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
+| Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
+| Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
