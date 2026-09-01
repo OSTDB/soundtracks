@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
+| Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
@@ -353,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
+| Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
