@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | Ace Defender | 177535 | [177535-ace-defender.json](./177535-ace-defender.json) |
+| Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
+| Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
