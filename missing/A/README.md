@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
+| A Siren's Call VR: Death Comes At Night | 195228 | [195228-a-sirens-call-vr-death-comes-at-night.json](./195228-a-sirens-call-vr-death-comes-at-night.json) |
 | A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Brutal | 197913 | [197913-arena-brutal.json](./197913-arena-brutal.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
