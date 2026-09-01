@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
+| A Bright Light in the Middle of the Ocean | 182551 | [182551-a-bright-light-in-the-middle-of-the-ocean.json](./182551-a-bright-light-in-the-middle-of-the-ocean.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
@@ -54,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
 | A Maiden's Serenade | 302680 | [302680-a-maidens-serenade.json](./302680-a-maidens-serenade.json) |
 | A Mall Near You | 229968 | [229968-a-mall-near-you.json](./229968-a-mall-near-you.json) |
+| A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Maze Fox | 187535 | [187535-a-maze-fox.json](./187535-a-maze-fox.json) |
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
@@ -95,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Search With Me: Extended Edition | 199109 | [199109-abc-search-with-me-extended-edition.json](./199109-abc-search-with-me-extended-edition.json) |
+| Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
@@ -123,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Online: The Game | 303774 | [303774-ace-attorney-online-the-game.json](./303774-ace-attorney-online-the-game.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
+| Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
