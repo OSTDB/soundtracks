@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
 | Vagrus: The Riven Realms - Praetor Edition | 338031 | [338031-vagrus-the-riven-realms-praetor-edition.json](./338031-vagrus-the-riven-realms-praetor-edition.json) |
+| Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
@@ -148,6 +149,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
+| Void Destroyer 2: Ashes | 168377 | [168377-void-destroyer-2-ashes.json](./168377-void-destroyer-2-ashes.json) |
+| Void Destroyer 2: Big Red | 168376 | [168376-void-destroyer-2-big-red.json](./168376-void-destroyer-2-big-red.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
