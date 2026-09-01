@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
+| (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
