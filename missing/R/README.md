@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
+| Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
 | Radiant Princess: Poni Ceres | 331115 | [331115-radiant-princess-poni-ceres.json](./331115-radiant-princess-poni-ceres.json) |
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
@@ -69,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
+| Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
@@ -158,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
+| Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
@@ -545,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby Rose: Ace Attorney | 303243 | [303243-ruby-rose-ace-attorney.json](./303243-ruby-rose-ace-attorney.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
+| Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
