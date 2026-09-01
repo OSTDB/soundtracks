@@ -755,7 +755,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
+| Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
+| Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
 | Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
 | Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
 | Assetto Corsa: Dream Pack 3 | 168901 | [168901-assetto-corsa-dream-pack-3.json](./168901-assetto-corsa-dream-pack-3.json) |
