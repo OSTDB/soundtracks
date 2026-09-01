@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307927 | [307927-outrun.json](./307927-outrun.json) |
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
+| Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outspace | 332263 | [332263-outspace.json](./332263-outspace.json) |
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
@@ -270,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
+| Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
