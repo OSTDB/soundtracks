@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest | 171596 | [171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json](./171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
+| Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
