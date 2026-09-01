@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
+| Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Hajwala Desert | 332819 | [332819-hajwala-desert.json](./332819-hajwala-desert.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
+| Heroes & Generals: GE Super Pack | 156172 | [156172-heroes-and-generals-ge-super-pack.json](./156172-heroes-and-generals-ge-super-pack.json) |
 | Heroes & Generals: SU Soldier Pack - Light Tanker | 161909 | [161909-heroes-and-generals-su-soldier-pack-light-tanker.json](./161909-heroes-and-generals-su-soldier-pack-light-tanker.json) |
 | Heroes & Generals: US Giga Pack | 161912 | [161912-heroes-and-generals-us-giga-pack.json](./161912-heroes-and-generals-us-giga-pack.json) |
 | Heroes & Generals: US Soldier Pack - Heavy Tanker | 161907 | [161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json](./161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json) |
@@ -564,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
+| Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
