@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
+| Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
+| Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
@@ -956,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
+| Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
@@ -1023,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
@@ -1033,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Squad Battles: The Proud and the Few | 186303 | [186303-squad-battles-the-proud-and-the-few.json](./186303-squad-battles-the-proud-and-the-few.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
+| Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
