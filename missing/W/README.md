@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
+| Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
