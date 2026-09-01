@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
 | 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
+| 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
@@ -146,6 +147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 66 Balls | 232139 | [232139-66-balls.json](./232139-66-balls.json) |
 | 69 Andariel Hot | 208630 | [208630-69-andariel-hot.json](./208630-69-andariel-hot.json) |
 | 69 Estera Hot | 192449 | [192449-69-estera-hot.json](./192449-69-estera-hot.json) |
+| 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
+| 69 Lisa Love | 173826 | [173826-69-lisa-love.json](./173826-69-lisa-love.json) |
 | 6ix9ine Runner | 224198 | [224198-6ix9ine-runner.json](./224198-6ix9ine-runner.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
