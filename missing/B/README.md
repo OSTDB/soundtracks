@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
+| B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
+| Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Broken Life | 265391 | [265391-broken-life.json](./265391-broken-life.json) |
@@ -727,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
+| Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buramato | 214744 | [214744-buramato.json](./214744-buramato.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
