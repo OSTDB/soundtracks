@@ -164,6 +164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
+| Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
+| Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
@@ -488,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
+| How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
 | How to Build a Flying City | 321746 | [321746-how-to-build-a-flying-city.json](./321746-how-to-build-a-flying-city.json) |
 | How to Chicken 101 | 181399 | [181399-how-to-chicken-101.json](./181399-how-to-chicken-101.json) |
 | How to Date a Non-Terrian Person | 184081 | [184081-how-to-date-a-non-terrian-person.json](./184081-how-to-date-a-non-terrian-person.json) |
