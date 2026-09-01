@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
+| Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
