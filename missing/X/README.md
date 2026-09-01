@@ -17,7 +17,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: The Warrior Princess | 205821 | [205821-xena-the-warrior-princess.json](./205821-xena-the-warrior-princess.json) |
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
+| Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
+| Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
