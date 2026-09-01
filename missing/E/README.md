@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
+| Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 5 | 234922 | [234922-endless-war-5.json](./234922-endless-war-5.json) |
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
+| Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
