@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
+| Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
+| Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
