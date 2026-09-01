@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
+| Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
+| Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Graveyard Simulator: Submarines | 197405 | [197405-ship-graveyard-simulator-submarines.json](./197405-ship-graveyard-simulator-submarines.json) |
@@ -1569,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
+| SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
