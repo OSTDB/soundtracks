@@ -313,6 +313,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 2: Free Bikes Pack 8 | 226953 | [226953-ride-2-free-bikes-pack-8.json](./226953-ride-2-free-bikes-pack-8.json) |
 | Ride 2: Free Bikes Pack 9 | 226952 | [226952-ride-2-free-bikes-pack-9.json](./226952-ride-2-free-bikes-pack-9.json) |
 | Ride 2: Rising Sun Bikes Pack | 226951 | [226951-ride-2-rising-sun-bikes-pack.json](./226951-ride-2-rising-sun-bikes-pack.json) |
+| Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
+| Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
