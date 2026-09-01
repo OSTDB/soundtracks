@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
+| Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
