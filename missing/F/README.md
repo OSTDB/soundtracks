@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
+| Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
+| Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
