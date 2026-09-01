@@ -10,20 +10,20 @@ Want the raw list instead? See **[../missing.json](../missing.json)**.
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 769 games | 691 games | 832 games | 686 games | 328 games | 578 games | 471 games |
+| 773 games | 695 games | 837 games | 691 games | 330 games | 578 games | 472 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 486 games | 308 games | 177 games | 251 games | 386 games | 873 games | 328 games |
+| 488 games | 308 games | 177 games | 253 games | 387 games | 878 games | 328 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 268 games | 744 games | 63 games | 581 games | 1444 games | 1251 games | 175 games |
+| 269 games | 747 games | 63 games | 581 games | 1451 games | 1257 games | 175 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 157 games | 346 games | 31 games | 68 games | 79 games | 158 games |
+| 158 games | 346 games | 31 games | 68 games | 80 games | 158 games |
 
 ---
 
-_12529 games missing a soundtrack · last updated 2026-09-01T04:48:02.086Z_
+_12579 games missing a soundtrack · last updated 2026-09-01T05:03:05.106Z_
