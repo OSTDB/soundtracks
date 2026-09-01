@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Dead: Ghost Pack | 293409 | [293409-night-of-the-dead-ghost-pack.json](./293409-night-of-the-dead-ghost-pack.json) |
 | Night of the Dead: White Collar Civilian Pack | 293405 | [293405-night-of-the-dead-white-collar-civilian-pack.json](./293405-night-of-the-dead-white-collar-civilian-pack.json) |
 | Night of the Dead: Wood Carving Doll Pack | 293406 | [293406-night-of-the-dead-wood-carving-doll-pack.json](./293406-night-of-the-dead-wood-carving-doll-pack.json) |
+| Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
