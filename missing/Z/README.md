@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
+| Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
 | Zoolovelogy | 236504 | [236504-zoolovelogy.json](./236504-zoolovelogy.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
