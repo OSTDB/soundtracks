@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
+| Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
@@ -587,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
+| Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
