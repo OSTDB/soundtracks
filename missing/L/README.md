@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
+| La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
+| Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
