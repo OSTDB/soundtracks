@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatum Betula + Knights & Guns | 246080 | [246080-fatum-betula-knights-and-guns.json](./246080-fatum-betula-knights-and-guns.json) |
+| Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
@@ -253,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
+| Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
@@ -381,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
+| Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
