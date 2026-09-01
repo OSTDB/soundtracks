@@ -43,6 +43,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
+| Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
+| Nations At War Digital: Desert Heat Battlepack 2 | 166199 | [166199-nations-at-war-digital-desert-heat-battlepack-2.json](./166199-nations-at-war-digital-desert-heat-battlepack-2.json) |
+| Nations At War Digital: Stalin's Triumph Battlepack 1 | 166197 | [166197-nations-at-war-digital-stalins-triumph-battlepack-1.json](./166197-nations-at-war-digital-stalins-triumph-battlepack-1.json) |
+| Nations At War Digital: Stalin's Triumph Battlepack 2 | 166196 | [166196-nations-at-war-digital-stalins-triumph-battlepack-2.json](./166196-nations-at-war-digital-stalins-triumph-battlepack-2.json) |
+| Nations At War Digital: White Star Rising Battlepack 1 | 166198 | [166198-nations-at-war-digital-white-star-rising-battlepack-1.json](./166198-nations-at-war-digital-white-star-rising-battlepack-1.json) |
+| Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
@@ -134,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
+| Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
@@ -289,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
+| No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
