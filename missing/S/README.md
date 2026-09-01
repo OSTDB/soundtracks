@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
+| SamuraiRising | 170019 | [170019-samurairising.json](./170019-samurairising.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
+| SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
+| Super Mario Advance 4: Super Mario Bros. 3 | 170021 | [170021-super-mario-advance-4-super-mario-bros-3.json](./170021-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour | 241014 | [241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json](./241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure | 241020 | [241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json](./241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json) |
@@ -1447,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Koopaling Confusion | 241022 | [241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json](./241022-super-mario-advance-4-super-mario-bros-3-e-koopaling-confusion.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - No Time to Dawdle | 241026 | [241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json](./241026-super-mario-advance-4-super-mario-bros-3-e-no-time-to-dawdle.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Rich with Ropes | 241016 | [241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json](./241016-super-mario-advance-4-super-mario-bros-3-e-rich-with-ropes.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Series 1 | 170000 | [170000-super-mario-advance-4-super-mario-bros-3-e-series-1.json](./170000-super-mario-advance-4-super-mario-bros-3-e-series-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
