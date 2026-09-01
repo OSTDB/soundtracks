@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
 | Rainbow Slide | 233235 | [233235-rainbow-slide.json](./233235-rainbow-slide.json) |
 | Rainbow Splash | 242792 | [242792-rainbow-splash.json](./242792-rainbow-splash.json) |
+| Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
@@ -150,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
+| Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
@@ -281,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
+| Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
