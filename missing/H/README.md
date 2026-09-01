@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
+| Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
@@ -244,6 +245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
+| Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
+| Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
