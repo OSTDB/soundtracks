@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
 | E.T. the Extra-Terrestrial: Return to the Green Planet | 201276 | [201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json](./201276-e-t-the-extra-terrestrial-return-to-the-green-planet.json) |
 | E.T. the Extra-Terrestrial: Venrom's Assault | 238198 | [238198-e-t-the-extra-terrestrial-venroms-assault.json](./238198-e-t-the-extra-terrestrial-venroms-assault.json) |
+| E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
+| Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
@@ -169,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
+| Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
@@ -216,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
+| Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
