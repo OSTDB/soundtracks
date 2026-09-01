@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
+| Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
 | Omega no Shikai 1. Shiki no Hajimari | 260965 | [260965-omega-no-shikai-1-shiki-no-hajimari.json](./260965-omega-no-shikai-1-shiki-no-hajimari.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
+| Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
 | Oops! All Gyarus! | 294991 | [294991-oops-all-gyarus.json](./294991-oops-all-gyarus.json) |
