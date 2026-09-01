@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
+| Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
@@ -688,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
+| Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
