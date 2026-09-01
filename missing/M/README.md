@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
+| Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid Ecliption | 324077 | [324077-metroid-ecliption.json](./324077-metroid-ecliption.json) |
 | Metroid Fool | 295024 | [295024-metroid-fool.json](./295024-metroid-fool.json) |
