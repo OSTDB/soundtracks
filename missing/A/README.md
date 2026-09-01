@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
+| Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
@@ -122,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
+| Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
