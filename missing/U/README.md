@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
+| Underneath | 177545 | [177545-underneath.json](./177545-underneath.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
