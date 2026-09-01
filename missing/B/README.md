@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Bertie the Stableboy | 265410 | [265410-bertie-the-stableboy.json](./265410-bertie-the-stableboy.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
+| Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
+| Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -418,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
+| Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobo and the Chest of Nightmares | 332274 | [332274-bobo-and-the-chest-of-nightmares.json](./332274-bobo-and-the-chest-of-nightmares.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
