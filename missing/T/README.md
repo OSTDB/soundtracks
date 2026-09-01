@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
+| The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
+| The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
@@ -600,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
+| The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
@@ -691,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
