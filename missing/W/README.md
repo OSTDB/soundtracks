@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
+| Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
