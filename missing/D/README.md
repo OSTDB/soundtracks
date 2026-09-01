@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
+| Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
+| Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Delivery INC: Large Cargo | 274759 | [274759-delivery-inc-large-cargo.json](./274759-delivery-inc-large-cargo.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
@@ -239,10 +241,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
+| Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
+| Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
@@ -341,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
+| Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
@@ -616,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
+| Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
@@ -635,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
+| Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
