@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
+| Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
@@ -470,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
+| Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
@@ -680,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
+| Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
