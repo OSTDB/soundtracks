@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
+| Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
@@ -77,4 +78,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
+| Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
