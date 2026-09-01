@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
+| Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
@@ -567,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
+| Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
