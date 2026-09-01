@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
+| Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
@@ -350,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
+| Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Survival Game 2 | 241636 | [241636-pixel-survival-game-2.json](./241636-pixel-survival-game-2.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
@@ -509,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
+| Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
