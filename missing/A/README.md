@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
+| Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
+| ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
