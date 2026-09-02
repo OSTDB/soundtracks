@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
+| DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
@@ -916,6 +917,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
+| Dynamic Chord feat. Apple-Polisher | 142447 | [142447-dynamic-chord-feat-apple-polisher.json](./142447-dynamic-chord-feat-apple-polisher.json) |
+| Dynamic Chord feat. Kyohso | 142446 | [142446-dynamic-chord-feat-kyohso.json](./142446-dynamic-chord-feat-kyohso.json) |
+| Dynamic Chord feat. Liar-S | 142445 | [142445-dynamic-chord-feat-liar-s.json](./142445-dynamic-chord-feat-liar-s.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
