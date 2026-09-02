@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T23:03:19.214Z",
-  "total_missing": 20549,
+  "generated_at": "2026-09-02T23:18:18.983Z",
+  "total_missing": 20599,
   "games": [
     {
       "igdb_id": 306086,
@@ -511,6 +511,46 @@
       "igdb_id": 143075,
       "game_name": "16 Tales: Vol. 2",
       "file": "missing/0-9/143075-16-tales-vol-2.json"
+    },
+    {
+      "igdb_id": 97891,
+      "game_name": "16bit-Collection Athena Vol. 01",
+      "file": "missing/0-9/97891-16bit-collection-athena-vol-01.json"
+    },
+    {
+      "igdb_id": 97893,
+      "game_name": "16bit-Collection Culture Brain Vol. 01",
+      "file": "missing/0-9/97893-16bit-collection-culture-brain-vol-01.json"
+    },
+    {
+      "igdb_id": 97888,
+      "game_name": "16bit-Collection Culture Brain Vol. 02",
+      "file": "missing/0-9/97888-16bit-collection-culture-brain-vol-02.json"
+    },
+    {
+      "igdb_id": 97889,
+      "game_name": "16bit-Collection Culture Brain Vol. 03",
+      "file": "missing/0-9/97889-16bit-collection-culture-brain-vol-03.json"
+    },
+    {
+      "igdb_id": 97894,
+      "game_name": "16bit-Collection Data East Vol. 02",
+      "file": "missing/0-9/97894-16bit-collection-data-east-vol-02.json"
+    },
+    {
+      "igdb_id": 97887,
+      "game_name": "16bit-Collection Data East Vol. 03",
+      "file": "missing/0-9/97887-16bit-collection-data-east-vol-03.json"
+    },
+    {
+      "igdb_id": 97892,
+      "game_name": "16bit-Collection Data East Vol. 1",
+      "file": "missing/0-9/97892-16bit-collection-data-east-vol-1.json"
+    },
+    {
+      "igdb_id": 97895,
+      "game_name": "16bit-Collection Jaleco Vol. 01",
+      "file": "missing/0-9/97895-16bit-collection-jaleco-vol-01.json"
     },
     {
       "igdb_id": 183562,
@@ -1286,6 +1326,26 @@
       "igdb_id": 320544,
       "game_name": "8alloween",
       "file": "missing/0-9/320544-8alloween.json"
+    },
+    {
+      "igdb_id": 97881,
+      "game_name": "8bit-Collection Culture Brain Vol. 01",
+      "file": "missing/0-9/97881-8bit-collection-culture-brain-vol-01.json"
+    },
+    {
+      "igdb_id": 97886,
+      "game_name": "8bit-Collection Data East Vol. 01",
+      "file": "missing/0-9/97886-8bit-collection-data-east-vol-01.json"
+    },
+    {
+      "igdb_id": 97885,
+      "game_name": "8bit-Collection Jaleco Vol. 01",
+      "file": "missing/0-9/97885-8bit-collection-jaleco-vol-01.json"
+    },
+    {
+      "igdb_id": 97884,
+      "game_name": "8bit-Collection Jaleco Vol. 02",
+      "file": "missing/0-9/97884-8bit-collection-jaleco-vol-02.json"
     },
     {
       "igdb_id": 259835,
@@ -15611,6 +15671,11 @@
       "igdb_id": 229952,
       "game_name": "Chou Jinsei Enjoi! Tamagotchi Plus",
       "file": "missing/C/229952-chou-jinsei-enjoi-tamagotchi-plus.json"
+    },
+    {
+      "igdb_id": 97906,
+      "game_name": "Chousoku Shoujo: Hypersonic Speed Girl",
+      "file": "missing/C/97906-chousoku-shoujo-hypersonic-speed-girl.json"
     },
     {
       "igdb_id": 325265,
@@ -31418,6 +31483,11 @@
       "file": "missing/F/320556-fox-and-shadow.json"
     },
     {
+      "igdb_id": 97912,
+      "game_name": "Fox Detective",
+      "file": "missing/F/97912-fox-detective.json"
+    },
+    {
       "igdb_id": 239318,
       "game_name": "Fox Girl Taming",
       "file": "missing/F/239318-fox-girl-taming.json"
@@ -35868,6 +35938,11 @@
       "file": "missing/G/235969-grundheim.json"
     },
     {
+      "igdb_id": 97914,
+      "game_name": "GSIII: Combat Flight Simulator - Heroes of the MIG Alley",
+      "file": "missing/G/97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json"
+    },
+    {
       "igdb_id": 204699,
       "game_name": "GT New Horizons",
       "file": "missing/G/204699-gt-new-horizons.json"
@@ -35901,6 +35976,11 @@
       "igdb_id": 113735,
       "game_name": "Guardian Master VR",
       "file": "missing/G/113735-guardian-master-vr.json"
+    },
+    {
+      "igdb_id": 97904,
+      "game_name": "Guardian of Immortal Mountain",
+      "file": "missing/G/97904-guardian-of-immortal-mountain.json"
     },
     {
       "igdb_id": 202369,
@@ -41163,6 +41243,11 @@
       "file": "missing/I/147432-imagine-rescue-vet.json"
     },
     {
+      "igdb_id": 97864,
+      "game_name": "Imago",
+      "file": "missing/I/97864-imago.json"
+    },
+    {
       "igdb_id": 101554,
       "game_name": "iMake IcePops",
       "file": "missing/I/101554-imake-icepops.json"
@@ -43468,6 +43553,16 @@
       "file": "missing/J/340775-joongboongis-adventure.json"
     },
     {
+      "igdb_id": 97861,
+      "game_name": "Joryuu Janshi ni Chousen",
+      "file": "missing/J/97861-joryuu-janshi-ni-chousen.json"
+    },
+    {
+      "igdb_id": 97857,
+      "game_name": "Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne!",
+      "file": "missing/J/97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json"
+    },
+    {
       "igdb_id": 204726,
       "game_name": "Josephine and Friends",
       "file": "missing/J/204726-josephine-and-friends.json"
@@ -44443,6 +44538,11 @@
       "file": "missing/K/340785-kato-pirato.json"
     },
     {
+      "igdb_id": 97858,
+      "game_name": "Katou Hifumi Kudan no Shogi Kyoushitsu",
+      "file": "missing/K/97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json"
+    },
+    {
       "igdb_id": 218726,
       "game_name": "Kattish",
       "file": "missing/K/218726-kattish.json"
@@ -44806,6 +44906,11 @@
       "igdb_id": 101552,
       "game_name": "Kids Dreamland Adventures",
       "file": "missing/K/101552-kids-dreamland-adventures.json"
+    },
+    {
+      "igdb_id": 97915,
+      "game_name": "Kids Learn Animal Words",
+      "file": "missing/K/97915-kids-learn-animal-words.json"
     },
     {
       "igdb_id": 231048,
@@ -48176,6 +48281,11 @@
       "igdb_id": 293894,
       "game_name": "Livli: A Sámi Story",
       "file": "missing/L/293894-livli-a-sami-story.json"
+    },
+    {
+      "igdb_id": 97896,
+      "game_name": "Lix",
+      "file": "missing/L/97896-lix.json"
     },
     {
       "igdb_id": 275349,
@@ -52263,6 +52373,11 @@
       "file": "missing/M/127321-meteor.json"
     },
     {
+      "igdb_id": 97913,
+      "game_name": "Meteor Blaster",
+      "file": "missing/M/97913-meteor-blaster.json"
+    },
+    {
       "igdb_id": 199093,
       "game_name": "Meteor Blasters",
       "file": "missing/M/199093-meteor-blasters.json"
@@ -54376,6 +54491,11 @@
       "igdb_id": 203531,
       "game_name": "Monsterlands",
       "file": "missing/M/203531-monsterlands.json"
+    },
+    {
+      "igdb_id": 97917,
+      "game_name": "MonsterRoll",
+      "file": "missing/M/97917-monsterroll.json"
     },
     {
       "igdb_id": 238721,
@@ -58128,6 +58248,11 @@
       "file": "missing/N/131617-ninshi-masuta.json"
     },
     {
+      "igdb_id": 97862,
+      "game_name": "Nintama Rantarou GB: E-awase Challenge Puzzle",
+      "file": "missing/N/97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json"
+    },
+    {
       "igdb_id": 270387,
       "game_name": "Nintendo Adventure Books 3: Monster Mix-Up",
       "file": "missing/N/270387-nintendo-adventure-books-3-monster-mix-up.json"
@@ -58991,6 +59116,11 @@
       "igdb_id": 187504,
       "game_name": "Num One: Revised Edition",
       "file": "missing/N/187504-num-one-revised-edition.json"
+    },
+    {
+      "igdb_id": 97905,
+      "game_name": "Number Guesser",
+      "file": "missing/N/97905-number-guesser.json"
     },
     {
       "igdb_id": 128661,
@@ -66293,6 +66423,71 @@
       "file": "missing/P/103471-pro-gamer-tycoon.json"
     },
     {
+      "igdb_id": 97880,
+      "game_name": "Pro Mahjong Kiwame 64",
+      "file": "missing/P/97880-pro-mahjong-kiwame-64.json"
+    },
+    {
+      "igdb_id": 97874,
+      "game_name": "Pro Mahjong Kiwame D",
+      "file": "missing/P/97874-pro-mahjong-kiwame-d.json"
+    },
+    {
+      "igdb_id": 97878,
+      "game_name": "Pro Mahjong Kiwame GB II",
+      "file": "missing/P/97878-pro-mahjong-kiwame-gb-ii.json"
+    },
+    {
+      "igdb_id": 97879,
+      "game_name": "Pro Mahjong Kiwame Plus",
+      "file": "missing/P/97879-pro-mahjong-kiwame-plus.json"
+    },
+    {
+      "igdb_id": 97877,
+      "game_name": "Pro Mahjong Kiwame Plus II",
+      "file": "missing/P/97877-pro-mahjong-kiwame-plus-ii.json"
+    },
+    {
+      "igdb_id": 97875,
+      "game_name": "Pro Mahjong Kiwame Tengensenhen",
+      "file": "missing/P/97875-pro-mahjong-kiwame-tengensenhen.json"
+    },
+    {
+      "igdb_id": 97882,
+      "game_name": "Pro Mahjong Kiwame-S",
+      "file": "missing/P/97882-pro-mahjong-kiwame-s.json"
+    },
+    {
+      "igdb_id": 97869,
+      "game_name": "Pro Mahjong Tsuwamono 2",
+      "file": "missing/P/97869-pro-mahjong-tsuwamono-2.json"
+    },
+    {
+      "igdb_id": 97865,
+      "game_name": "Pro Mahjong Tsuwamono 3",
+      "file": "missing/P/97865-pro-mahjong-tsuwamono-3.json"
+    },
+    {
+      "igdb_id": 97867,
+      "game_name": "Pro Mahjong Tsuwamono 64 Jansou Battle ni Chousen",
+      "file": "missing/P/97867-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.json"
+    },
+    {
+      "igdb_id": 97870,
+      "game_name": "Pro Mahjong Tsuwamono GB",
+      "file": "missing/P/97870-pro-mahjong-tsuwamono-gb.json"
+    },
+    {
+      "igdb_id": 97868,
+      "game_name": "Pro Mahjong Tsuwamono GB 2",
+      "file": "missing/P/97868-pro-mahjong-tsuwamono-gb-2.json"
+    },
+    {
+      "igdb_id": 97866,
+      "game_name": "Pro Mahjong Tsuwamono GBA",
+      "file": "missing/P/97866-pro-mahjong-tsuwamono-gba.json"
+    },
+    {
       "igdb_id": 142457,
       "game_name": "Pro Office Calculator",
       "file": "missing/P/142457-pro-office-calculator.json"
@@ -66333,6 +66528,11 @@
       "file": "missing/P/231611-pro-yakyuu-greatest-nine-97.json"
     },
     {
+      "igdb_id": 97873,
+      "game_name": "Pro-Mahjong Kiwame Next",
+      "file": "missing/P/97873-pro-mahjong-kiwame-next.json"
+    },
+    {
       "igdb_id": 193488,
       "game_name": "Problem Animals",
       "file": "missing/P/193488-problem-animals.json"
@@ -66361,6 +66561,11 @@
       "igdb_id": 239869,
       "game_name": "Professional Boyfriend",
       "file": "missing/P/239869-professional-boyfriend.json"
+    },
+    {
+      "igdb_id": 97871,
+      "game_name": "Professional Mahjong Kiwame",
+      "file": "missing/P/97871-professional-mahjong-kiwame.json"
     },
     {
       "igdb_id": 109682,
@@ -67283,6 +67488,11 @@
       "file": "missing/P/104657-puzzle-masters.json"
     },
     {
+      "igdb_id": 97863,
+      "game_name": "Puzzle Nintama Rantarou GB",
+      "file": "missing/P/97863-puzzle-nintama-rantarou-gb.json"
+    },
+    {
       "igdb_id": 215882,
       "game_name": "Puzzle Park",
       "file": "missing/P/215882-puzzle-park.json"
@@ -67501,6 +67711,11 @@
       "igdb_id": 159850,
       "game_name": "Pyxel Knight",
       "file": "missing/P/159850-pyxel-knight.json"
+    },
+    {
+      "igdb_id": 97909,
+      "game_name": "Qanga",
+      "file": "missing/Q/97909-qanga.json"
     },
     {
       "igdb_id": 150686,
@@ -72843,6 +73058,11 @@
       "file": "missing/S/326988-safecracker.json"
     },
     {
+      "igdb_id": 97908,
+      "game_name": "SaGa: Scarlet Grace - Hiiro no Yabou",
+      "file": "missing/S/97908-saga-scarlet-grace-hiiro-no-yabou.json"
+    },
+    {
       "igdb_id": 263237,
       "game_name": "Sagashimono ha, Natsu desuka.",
       "file": "missing/S/263237-sagashimono-ha-natsu-desuka.json"
@@ -72921,6 +73141,11 @@
       "igdb_id": 293893,
       "game_name": "Sáivu",
       "file": "missing/S/293893-saivu.json"
+    },
+    {
+      "igdb_id": 97859,
+      "game_name": "Sakata Goro Kudan no Renju Kyoushitsu",
+      "file": "missing/S/97859-sakata-goro-kudan-no-renju-kyoushitsu.json"
     },
     {
       "igdb_id": 135902,
@@ -74266,6 +74491,11 @@
       "igdb_id": 220877,
       "game_name": "Seduced in the Sleepless City",
       "file": "missing/S/220877-seduced-in-the-sleepless-city.json"
+    },
+    {
+      "igdb_id": 97903,
+      "game_name": "See Me",
+      "file": "missing/S/97903-see-me.json"
     },
     {
       "igdb_id": 235451,
@@ -79113,6 +79343,11 @@
       "file": "missing/S/341883-space-harrier.json"
     },
     {
+      "igdb_id": 97916,
+      "game_name": "Space Harvest II",
+      "file": "missing/S/97916-space-harvest-ii.json"
+    },
+    {
       "igdb_id": 290685,
       "game_name": "Space Hat",
       "file": "missing/S/290685-space-hat.json"
@@ -81861,6 +82096,11 @@
       "igdb_id": 292281,
       "game_name": "Sudoku Constellation",
       "file": "missing/S/292281-sudoku-constellation.json"
+    },
+    {
+      "igdb_id": 97911,
+      "game_name": "Sudoku HD",
+      "file": "missing/S/97911-sudoku-hd.json"
     },
     {
       "igdb_id": 102769,
@@ -86448,6 +86688,11 @@
       "file": "missing/T/172719-the-bend.json"
     },
     {
+      "igdb_id": 97910,
+      "game_name": "The Berlin Wall",
+      "file": "missing/T/97910-the-berlin-wall.json"
+    },
+    {
       "igdb_id": 267635,
       "game_name": "The Best Play Baseball '90",
       "file": "missing/T/267635-the-best-play-baseball-90.json"
@@ -88101,6 +88346,11 @@
       "igdb_id": 225292,
       "game_name": "The I of It",
       "file": "missing/T/225292-the-i-of-it.json"
+    },
+    {
+      "igdb_id": 97876,
+      "game_name": "The Idolmaster: Shiny Colors",
+      "file": "missing/T/97876-the-idolmaster-shiny-colors.json"
     },
     {
       "igdb_id": 118368,
