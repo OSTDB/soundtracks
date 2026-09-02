@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
+| Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
+| Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | Sega Superstars Tennis | 255326 | [255326-sega-superstars-tennis.json](./255326-sega-superstars-tennis.json) |
@@ -309,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
+| Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
@@ -1146,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
+| Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
@@ -1536,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
+| Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
@@ -1585,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
+| Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
@@ -1746,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
+| Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
@@ -2162,4 +2169,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
+| Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
