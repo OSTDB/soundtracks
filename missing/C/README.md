@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
+| Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Lyrical Spectacle Forest | 258711 | [258711-connect-lyrical-spectacle-forest.json](./258711-connect-lyrical-spectacle-forest.json) |
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
+| Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
