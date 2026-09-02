@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPack: Random Maps for ZDoom | 260981 | [260981-zpack-random-maps-for-zdoom.json](./260981-zpack-random-maps-for-zdoom.json) |
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
+| Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
