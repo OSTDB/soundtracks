@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
+| Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
@@ -237,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
+| Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
@@ -360,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
+| Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
@@ -1055,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Cryptic | 122425 | [122425-cryptic.json](./122425-cryptic.json) |
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
@@ -1099,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
+| Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
