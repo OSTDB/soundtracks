@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
+| D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
@@ -45,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
+| Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -410,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
+| Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
@@ -541,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station #12 | 266479 | [266479-disc-station-12.json](./266479-disc-station-12.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
+| Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
