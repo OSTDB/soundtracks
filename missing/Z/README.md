@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
+| Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
+| Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
@@ -93,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
 | Zombie School | 110348 | [110348-zombie-school.json](./110348-zombie-school.json) |
+| Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
@@ -101,6 +104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
+| Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
+| Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
