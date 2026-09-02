@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
+| Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
 | Dance of Cubes | 170552 | [170552-dance-of-cubes.json](./170552-dance-of-cubes.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
 | Duck Dynasty: Battle of the Beards | 234327 | [234327-duck-dynasty-battle-of-the-beards.json](./234327-duck-dynasty-battle-of-the-beards.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
+| Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
