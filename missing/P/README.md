@@ -472,6 +472,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
+| PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
+| PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
+| PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
+| PixelJunk Monsters 2: Encore Pack | 140016 | [140016-pixeljunk-monsters-2-encore-pack.json](./140016-pixeljunk-monsters-2-encore-pack.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
