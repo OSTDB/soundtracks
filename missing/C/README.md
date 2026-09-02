@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
+| Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
@@ -185,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
+| Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
@@ -375,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
+| Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
 | Cheddly and Cloud's Crazy Adventure 2 | 332261 | [332261-cheddly-and-clouds-crazy-adventure-2.json](./332261-cheddly-and-clouds-crazy-adventure-2.json) |
@@ -491,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
+| Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
 | Christmas Race | 322983 | [322983-christmas-race.json](./322983-christmas-race.json) |
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas with Freddy's | 239286 | [239286-christmas-with-freddys.json](./239286-christmas-with-freddys.json) |
