@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot Rush | 243388 | [243388-pilot-rush.json](./243388-pilot-rush.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
+| Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
@@ -408,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
 | Pinball FX3: Carnivals and Legends Demo | 325864 | [325864-pinball-fx3-carnivals-and-legends-demo.json](./325864-pinball-fx3-carnivals-and-legends-demo.json) |
+| Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
@@ -442,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
+| Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
@@ -901,10 +904,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
+| Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
@@ -963,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
+| Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
