@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
+| Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
