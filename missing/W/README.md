@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome To... Chichester OVN: Omnibus Edition | 248334 | [248334-welcome-to-chichester-ovn-omnibus-edition.json](./248334-welcome-to-chichester-ovn-omnibus-edition.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
+| Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
+| Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
@@ -427,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
+| Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
@@ -440,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
+| Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
