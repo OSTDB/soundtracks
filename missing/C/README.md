@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
+| Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
+| Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Bite | 115008 | [115008-cold-bite.json](./115008-cold-bite.json) |
@@ -940,12 +942,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Maze: Home Cleanup | 291251 | [291251-corridor-maze-home-cleanup.json](./291251-corridor-maze-home-cleanup.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
 | Corrosion: Cold Winter Waiting | 126027 | [126027-corrosion-cold-winter-waiting.json](./126027-corrosion-cold-winter-waiting.json) |
+| Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
+| Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
@@ -1266,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
+| Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
 | Custom Order Maid 3D2: Mature, Level-Headed, and Dependable Secretary Maid GP-01 | 296663 | [296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json](./296663-custom-order-maid-3d2-mature-level-headed-and-dependable-secretary-maid-gp-01.json) |
