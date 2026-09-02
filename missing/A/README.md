@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actias | 204681 | [204681-actias.json](./204681-actias.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
+| Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
@@ -347,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
+| Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
@@ -722,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
+| Ant Empire | 109705 | [109705-ant-empire.json](./109705-ant-empire.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
@@ -969,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
+| Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashes 2 | 119774 | [119774-ashes-2.json](./119774-ashes-2.json) |
@@ -1138,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Formula Truck | 171085 | [171085-automobilista-formula-truck.json](./171085-automobilista-formula-truck.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
+| Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
