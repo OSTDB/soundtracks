@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
+| Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Zone | 203555 | [203555-dead-zone.json](./203555-dead-zone.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
+| Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
@@ -892,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
+| Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
@@ -970,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
+| Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
 | Dungeon Universe | 185665 | [185665-dungeon-universe.json](./185665-dungeon-universe.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
