@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | AltLife | 331148 | [331148-altlife.json](./331148-altlife.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
+| Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
+| Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
 | Arma 3: Tanks | 168907 | [168907-arma-3-tanks.json](./168907-arma-3-tanks.json) |
 | Arma 3: Zeus | 168908 | [168908-arma-3-zeus.json](./168908-arma-3-zeus.json) |
+| Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
@@ -985,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
+| Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
@@ -1008,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
@@ -1119,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
 | Aviary Attorney: Definitive Edition | 136443 | [136443-aviary-attorney-definitive-edition.json](./136443-aviary-attorney-definitive-edition.json) |
 | Aviassembly | 291217 | [291217-aviassembly.json](./291217-aviassembly.json) |
+| Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avo Escape Space | 275882 | [275882-avo-escape-space.json](./275882-avo-escape-space.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
