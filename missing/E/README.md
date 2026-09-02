@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
+| El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
