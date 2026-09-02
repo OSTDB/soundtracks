@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
+| Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
+| Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
