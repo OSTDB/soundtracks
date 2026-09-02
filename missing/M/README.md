@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
+| Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
+| Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Muscle Ranking Vol. 3: Saikyou no Challenger Tanjou! | 209614 | [209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json](./209614-muscle-ranking-vol-3-saikyou-no-challenger-tanjou.json) |
