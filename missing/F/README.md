@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
+| Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
+| Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
