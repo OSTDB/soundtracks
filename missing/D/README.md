@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
+| Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
@@ -331,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
+| Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Desires of a Dragon Prince | 298893 | [298893-desires-of-a-dragon-prince.json](./298893-desires-of-a-dragon-prince.json) |
