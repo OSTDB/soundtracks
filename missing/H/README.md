@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads-Up | 231634 | [231634-heads-up.json](./231634-heads-up.json) |
+| Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
+| Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
