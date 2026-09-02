@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
+| Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Pet Playmate | 243930 | [243930-secret-pet-playmate.json](./243930-secret-pet-playmate.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
@@ -681,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
+| Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
@@ -737,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
+| SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
@@ -961,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Requeset | 266510 | [266510-sonic-requeset.json](./266510-sonic-requeset.json) |
 | Sonic Rerun | 336367 | [336367-sonic-rerun.json](./336367-sonic-rerun.json) |
 | Sonic Reshuffled | 331706 | [331706-sonic-reshuffled.json](./331706-sonic-reshuffled.json) |
+| Sonic Robo Blast | 134011 | [134011-sonic-robo-blast.json](./134011-sonic-robo-blast.json) |
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
 | Sonic Sky Chase Zone | 339670 | [339670-sonic-sky-chase-zone.json](./339670-sonic-sky-chase-zone.json) |
@@ -1545,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
+| Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
@@ -1628,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
+| Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
@@ -1743,11 +1749,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
+| Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
+| Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
