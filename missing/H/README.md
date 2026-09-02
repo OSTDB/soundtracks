@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
 | Haunted Hotel: Ancient Bane - Collector's Edition | 180302 | [180302-haunted-hotel-ancient-bane-collectors-edition.json](./180302-haunted-hotel-ancient-bane-collectors-edition.json) |
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
+| Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
@@ -510,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
+| Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
@@ -622,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
