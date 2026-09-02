@@ -299,10 +299,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
+| Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
+| Our Church and Halloween: Story One | 146311 | [146311-our-church-and-halloween-story-one.json](./146311-our-church-and-halloween-story-one.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
