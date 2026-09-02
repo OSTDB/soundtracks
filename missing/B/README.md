@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy 101 | 192964 | [192964-billy-101.json](./192964-billy-101.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
+| Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
 | Blobkin Blaster | 158699 | [158699-blobkin-blaster.json](./158699-blobkin-blaster.json) |
+| Bloble.io | 126022 | [126022-bloble-io.json](./126022-bloble-io.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
