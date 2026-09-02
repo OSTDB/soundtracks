@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
+| Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
