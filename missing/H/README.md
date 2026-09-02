@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
+| Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
+| Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
@@ -469,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
+| Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen | 262682 | [262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json](./262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json) |
@@ -746,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
+| Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
