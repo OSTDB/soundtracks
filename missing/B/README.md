@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
+| Battle of Kings | 101591 | [101591-battle-of-kings.json](./101591-battle-of-kings.json) |
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
+| Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
@@ -553,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
+| Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
@@ -560,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
+| Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
@@ -596,9 +600,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
 | BlazBlue: Cross Tag Battle - Additional Character Pack Vol.1 to Vol.7 | 238224 | [238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json](./238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
+| Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
+| Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
@@ -1047,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
+| Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
