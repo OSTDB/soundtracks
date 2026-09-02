@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Galaxy Fighters | 205839 | [205839-3d-galaxy-fighters.json](./205839-3d-galaxy-fighters.json) |
 | 3D Knife | 265428 | [265428-3d-knife.json](./265428-3d-knife.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
+| 3D Morris | 144318 | [144318-3d-morris.json](./144318-3d-morris.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
 | 3D Puzzle: World War II | 278174 | [278174-3d-puzzle-world-war-ii.json](./278174-3d-puzzle-world-war-ii.json) |
