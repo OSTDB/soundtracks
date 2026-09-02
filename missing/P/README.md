@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
+| Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
@@ -350,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
+| Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
+| Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
@@ -932,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
+| Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
