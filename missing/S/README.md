@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
+| Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
 | Secrets of the Middle Ages | 165660 | [165660-secrets-of-the-middle-ages.json](./165660-secrets-of-the-middle-ages.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
+| Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitomb | 325859 | [325859-solitomb.json](./325859-solitomb.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
+| South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
@@ -1305,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
+| Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
 | Space Show Edition 17 | 290709 | [290709-space-show-edition-17.json](./290709-space-show-edition-17.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
@@ -1378,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
+| Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -1637,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
+| Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
