@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
+| Bitworm | 113701 | [113701-bitworm.json](./113701-bitworm.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
+| BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
@@ -968,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug-o-Buster | 322985 | [322985-bug-o-buster.json](./322985-bug-o-buster.json) |
+| Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
