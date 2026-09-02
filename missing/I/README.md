@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
+| Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
@@ -87,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
+| Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
@@ -154,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
+| Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
@@ -409,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
+| It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
