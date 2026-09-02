@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
+| Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
@@ -116,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
+| Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
