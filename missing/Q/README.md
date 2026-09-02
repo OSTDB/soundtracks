@@ -95,5 +95,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
 | Quynh | 185162 | [185162-quynh.json](./185162-quynh.json) |
 | QV | 141251 | [141251-qv.json](./141251-qv.json) |
+| Qvabllock | 99631 | [99631-qvabllock.json](./99631-qvabllock.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
