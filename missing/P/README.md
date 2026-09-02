@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross.io | 126640 | [126640-picross-io.json](./126640-picross-io.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
+| Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
+| Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
@@ -929,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
+| Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
@@ -1088,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
+| Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
