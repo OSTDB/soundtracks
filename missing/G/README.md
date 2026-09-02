@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
+| General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
 | Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
 | Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
@@ -368,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
+| Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
@@ -503,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
+| Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity Angels Part 2: The Betrayal | 229359 | [229359-gravity-angels-part-2-the-betrayal.json](./229359-gravity-angels-part-2-the-betrayal.json) |
 | Gravity Angels Part 3: Payback | 229360 | [229360-gravity-angels-part-3-payback.json](./229360-gravity-angels-part-3-payback.json) |
@@ -563,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
+| Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
