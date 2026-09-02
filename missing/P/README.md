@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Parisian Brasserie Simulator | 326380 | [326380-parisian-brasserie-simulator.json](./326380-parisian-brasserie-simulator.json) |
+| Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
+| Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
@@ -807,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | Prepare for the Jelly | 184633 | [184633-prepare-for-the-jelly.json](./184633-prepare-for-the-jelly.json) |
+| Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
