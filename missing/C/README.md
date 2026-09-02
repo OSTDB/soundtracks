@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
+| Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
+| Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
@@ -962,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
+| CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
@@ -990,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
+| Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
 | Crisis Point: Extinction | 140581 | [140581-crisis-point-extinction.json](./140581-crisis-point-extinction.json) |
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
