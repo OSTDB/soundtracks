@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
 | Impious Pumpkins | 183611 | [183611-impious-pumpkins.json](./183611-impious-pumpkins.json) |
 | Impish Rat Electronic Pet | 314645 | [314645-impish-rat-electronic-pet.json](./314645-impish-rat-electronic-pet.json) |
+| Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Road 2 | 278688 | [278688-impossible-road-2.json](./278688-impossible-road-2.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
