@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
+| Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
@@ -526,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
+| Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
