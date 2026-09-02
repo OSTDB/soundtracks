@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
+| Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
