@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
+| Hexxagon - Board Game | 147988 | [147988-hexxagon-board-game.json](./147988-hexxagon-board-game.json) |
 | Hexxen: Hunters | 262676 | [262676-hexxen-hunters.json](./262676-hexxen-hunters.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
