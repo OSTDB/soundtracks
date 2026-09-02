@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
+| Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
+| Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
@@ -914,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
+| CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
@@ -1008,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
@@ -1061,6 +1065,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
+| Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
+| Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
@@ -1253,4 +1259,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
+| Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
