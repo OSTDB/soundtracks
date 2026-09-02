@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
+| Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
