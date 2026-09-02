@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
+| Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
