@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
+| Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
