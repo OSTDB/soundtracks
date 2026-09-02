@@ -358,6 +358,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
+| Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
+| Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
