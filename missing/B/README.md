@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barn Bashers | 177009 | [177009-barn-bashers.json](./177009-barn-bashers.json) |
 | Barn Finders VR | 172184 | [172184-barn-finders-vr.json](./172184-barn-finders-vr.json) |
+| Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
+| Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
+| Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
