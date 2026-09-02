@@ -390,6 +390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlong Swansong | 257086 | [257086-everlong-swansong.json](./257086-everlong-swansong.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
+| EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
+| EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
