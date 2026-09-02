@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
+| Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescue Heroes: Molten Menace | 209168 | [209168-rescue-heroes-molten-menace.json](./209168-rescue-heroes-molten-menace.json) |
