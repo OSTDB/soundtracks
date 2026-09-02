@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
@@ -359,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
 | Words | 197391 | [197391-words.json](./197391-words.json) |
