@@ -262,4 +262,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
+| Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
