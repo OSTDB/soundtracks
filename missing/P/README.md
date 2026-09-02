@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
+| Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Palette Swap | 163993 | [163993-palette-swap.json](./163993-palette-swap.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
+| Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
@@ -135,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
+| Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parasight: Chlorophyll worms | 195793 | [195793-parasight-chlorophyll-worms.json](./195793-parasight-chlorophyll-worms.json) |
 | Parasite | 195754 | [195754-parasite.json](./195754-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
@@ -168,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
+| Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
@@ -207,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
+| Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
@@ -363,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick My Heart Chapter 1 | 324132 | [324132-pick-my-heart-chapter-1.json](./324132-pick-my-heart-chapter-1.json) |
 | Pick My Heart Chapter 2 | 324131 | [324131-pick-my-heart-chapter-2.json](./324131-pick-my-heart-chapter-2.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
+| Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | PicoMix By NuSan | 328259 | [328259-picomix-by-nusan.json](./328259-picomix-by-nusan.json) |
@@ -733,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
+| Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
