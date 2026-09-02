@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrider | 143083 | [143083-hellrider.json](./143083-hellrider.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
+| HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
