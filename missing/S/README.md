@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
+| Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
+| Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
@@ -1646,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
+| Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
@@ -1668,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
+| Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
