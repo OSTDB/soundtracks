@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
+| Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank War Defender 3 | 175405 | [175405-tank-war-defender-3.json](./175405-tank-war-defender-3.json) |
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
+| The Dark Veil: West Haven | 119780 | [119780-the-dark-veil-west-haven.json](./119780-the-dark-veil-west-haven.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkness | 331150 | [331150-the-darkness.json](./331150-the-darkness.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
@@ -748,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Activity Center | 229378 | [229378-the-land-before-time-activity-center.json](./229378-the-land-before-time-activity-center.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
+| The Last Cowboy | 119784 | [119784-the-last-cowboy.json](./119784-the-last-cowboy.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
@@ -1259,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Easter Eggs | 273630 | [273630-theres-no-easter-eggs.json](./273630-theres-no-easter-eggs.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
+| They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
@@ -1514,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
+| Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
@@ -1963,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
+| Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
