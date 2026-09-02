@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
+| Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
 | Arrow Snake | 135874 | [135874-arrow-snake.json](./135874-arrow-snake.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
