@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
+| Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
