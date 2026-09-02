@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
+| Off the Record: The Final Interview Collector's Edition | 102186 | [102186-off-the-record-the-final-interview-collectors-edition.json](./102186-off-the-record-the-final-interview-collectors-edition.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
