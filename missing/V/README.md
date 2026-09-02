@@ -34,6 +34,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
 | Valkeala Birds | 338577 | [338577-valkeala-birds.json](./338577-valkeala-birds.json) |
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
+| Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
+| Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
+| Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
+| Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
+| Valkyria Chronicles: Hard EX Mode | 138836 | [138836-valkyria-chronicles-hard-ex-mode.json](./138836-valkyria-chronicles-hard-ex-mode.json) |
+| Valkyria Chronicles: Selveria's Mission - Behind Her Blue Flame | 138835 | [138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json](./138835-valkyria-chronicles-selverias-mission-behind-her-blue-flame.json) |
+| Valkyria Revolution Scenario Pack: Maxim and Remembrance | 138818 | [138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json](./138818-valkyria-revolution-scenario-pack-maxim-and-remembrance.json) |
+| Valkyria Revolution Scenario Pack: Princess and Valkyria DLC | 138815 | [138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json](./138815-valkyria-revolution-scenario-pack-princess-and-valkyria-dlc.json) |
+| Valkyria Revolution Scenario Pack: Vanargand Bundle DLC | 138817 | [138817-valkyria-revolution-scenario-pack-vanargand-bundle-dlc.json](./138817-valkyria-revolution-scenario-pack-vanargand-bundle-dlc.json) |
+| Valkyria Revolution Scenario: The Formation of Vanargand DLC | 138819 | [138819-valkyria-revolution-scenario-the-formation-of-vanargand-dlc.json](./138819-valkyria-revolution-scenario-the-formation-of-vanargand-dlc.json) |
+| Valkyria Revolution Scenario: The Ring of Contract DLC | 138820 | [138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json](./138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json) |
+| Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
+| Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
@@ -102,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
+| Viaje al centro de la Tierra | 138807 | [138807-viaje-al-centro-de-la-tierra.json](./138807-viaje-al-centro-de-la-tierra.json) |
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
