@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution Scenario: The Ring of Contract DLC | 138820 | [138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json](./138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json) |
 | Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
+| Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
@@ -232,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
+| VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
