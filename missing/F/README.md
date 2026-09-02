@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
+| Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
+| Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
