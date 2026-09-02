@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
+| Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooma: Chapter 2 - "Cave" | 168375 | [168375-zooma-chapter-2-cave.json](./168375-zooma-chapter-2-cave.json) |
 | Zooma:Chapter 3 - "Shadow Valley" | 168374 | [168374-zooma-chapter-3-shadow-valley.json](./168374-zooma-chapter-3-shadow-valley.json) |
 | Zooma:Chapter 4 - "Temple of the Damned" | 168373 | [168373-zooma-chapter-4-temple-of-the-damned.json](./168373-zooma-chapter-4-temple-of-the-damned.json) |
+| ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
