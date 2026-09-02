@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
+| Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
