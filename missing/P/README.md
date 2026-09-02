@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
+| PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
+| Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
@@ -808,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
+| Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pride Quiz | 272561 | [272561-pride-quiz.json](./272561-pride-quiz.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
