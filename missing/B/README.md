@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
+| Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bus stop in the fog | 159877 | [159877-bus-stop-in-the-fog.json](./159877-bus-stop-in-the-fog.json) |
+| Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
