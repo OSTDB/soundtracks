@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
+| Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
