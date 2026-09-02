@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
+| Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Ever Maiden: Daraku no Sono no Otome-tachi | 249497 | [249497-ever-maiden-daraku-no-sono-no-otome-tachi.json](./249497-ever-maiden-daraku-no-sono-no-otome-tachi.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
+| Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
