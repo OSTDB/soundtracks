@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
+| Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
