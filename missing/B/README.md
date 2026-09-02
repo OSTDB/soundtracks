@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
+| Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
+| Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
