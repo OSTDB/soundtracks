@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
+| Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
@@ -115,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
+| Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
@@ -155,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
+| Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
@@ -175,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
+| King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
@@ -349,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
+| KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
