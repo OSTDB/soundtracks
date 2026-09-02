@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
+| Ivanoile ~ Christalixeur Corruption | 119023 | [119023-ivanoile-christalixeur-corruption.json](./119023-ivanoile-christalixeur-corruption.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus | 229950 | [229950-iwai-keitai-kaitsuu-tamagotchi-plus.json](./229950-iwai-keitai-kaitsuu-tamagotchi-plus.json) |
 | Iwai Keitai Kaitsuu! Tamagotchi Plus Akai | 229951 | [229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json](./229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
