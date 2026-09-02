@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
+| Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
