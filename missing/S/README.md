@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
+| Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
+| Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
@@ -272,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
@@ -753,6 +756,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
+| Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
+| Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
+| Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
+| Snolf: The Sonic Golf Experience | 143733 | [143733-snolf-the-sonic-golf-experience.json](./143733-snolf-the-sonic-golf-experience.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
@@ -969,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
 | Soreike! Anpanman Waku-waku Eigo Game! | 327611 | [327611-soreike-anpanman-waku-waku-eigo-game.json](./327611-soreike-anpanman-waku-waku-eigo-game.json) |
+| Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
@@ -1326,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
+| Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
@@ -1403,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
+| Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streamline | 177552 | [177552-streamline.json](./177552-streamline.json) |
