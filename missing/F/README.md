@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
+| Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
