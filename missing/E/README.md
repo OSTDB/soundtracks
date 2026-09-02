@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldritchvania | 223680 | [223680-eldritchvania.json](./223680-eldritchvania.json) |
+| Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
