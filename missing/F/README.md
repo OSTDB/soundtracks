@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
+| Fear for Sale: Endless Voyage HD | 102204 | [102204-fear-for-sale-endless-voyage-hd.json](./102204-fear-for-sale-endless-voyage-hd.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
+| Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
@@ -700,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray | 305518 | [305518-fray.json](./305518-fray.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
+| Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
