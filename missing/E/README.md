@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
+| Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
