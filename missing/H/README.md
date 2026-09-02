@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Crunch | 233210 | [233210-hunger-crunch.json](./233210-hunger-crunch.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
+| Hungry Tea Party | 129756 | [129756-hungry-tea-party.json](./129756-hungry-tea-party.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
