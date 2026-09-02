@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
+| Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
+| Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
@@ -171,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faul! | 194659 | [194659-faul.json](./194659-faul.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
+| FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
@@ -199,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
+| Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
@@ -365,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
+| Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
