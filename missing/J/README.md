@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Joongboongi's Adventure | 340775 | [340775-joongboongis-adventure.json](./340775-joongboongis-adventure.json) |
 | Josephine and Friends | 204726 | [204726-josephine-and-friends.json](./204726-josephine-and-friends.json) |
+| Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
+| Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
