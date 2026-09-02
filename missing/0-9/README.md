@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1917: The Prologue | 151197 | [151197-1917-the-prologue.json](./151197-1917-the-prologue.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
+| 1942 Pacific Front | 109016 | [109016-1942-pacific-front.json](./109016-1942-pacific-front.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
@@ -189,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
+| 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4X4 Masters | 148563 | [148563-4x4-masters.json](./148563-4x4-masters.json) |
@@ -197,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4xM | 269841 | [269841-4xm.json](./269841-4xm.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
+| 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Loops | 174911 | [174911-50-loops.json](./174911-50-loops.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
