@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
+| Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball Pain | 193465 | [193465-ball-pain.json](./193465-ball-pain.json) |
 | Ball Panic! | 116393 | [116393-ball-panic.json](./116393-ball-panic.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
+| Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Bargain Hunter | 110350 | [110350-bargain-hunter.json](./110350-bargain-hunter.json) |
@@ -312,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
+| BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
@@ -325,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
+| Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
@@ -816,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
+| Boxigon! | 109656 | [109656-boxigon.json](./109656-boxigon.json) |
 | Boxing Babes: Sexy Fight Hentai Anime Girls | 165016 | [165016-boxing-babes-sexy-fight-hentai-anime-girls.json](./165016-boxing-babes-sexy-fight-hentai-anime-girls.json) |
 | Boxing Gym Story | 174339 | [174339-boxing-gym-story.json](./174339-boxing-gym-story.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
@@ -1063,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
+| Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
