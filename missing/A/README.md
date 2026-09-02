@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
+| Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
