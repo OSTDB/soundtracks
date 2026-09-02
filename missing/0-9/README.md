@@ -25,6 +25,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
+| 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
+| 1/2 Summer | 98415 | [98415-1-2-summer.json](./98415-1-2-summer.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Days Under the Sea | 205800 | [205800-10-days-under-the-sea.json](./205800-10-days-under-the-sea.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
@@ -75,20 +77,33 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1001 Jigsaw: Cute Cats 4 | 242231 | [242231-1001-jigsaw-cute-cats-4.json](./242231-1001-jigsaw-cute-cats-4.json) |
 | 1001 Jigsaw: Myths of Ancient Greece | 130923 | [130923-1001-jigsaw-myths-of-ancient-greece.json](./130923-1001-jigsaw-myths-of-ancient-greece.json) |
+| 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 100th Anniversary of the Crossword Puzzle | 233780 | [233780-100th-anniversary-of-the-crossword-puzzle.json](./233780-100th-anniversary-of-the-crossword-puzzle.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 11.45 A Vivid Life | 176512 | [176512-11-45-a-vivid-life.json](./176512-11-45-a-vivid-life.json) |
+| 11eyes: Resona Forma | 98425 | [98425-11eyes-resona-forma.json](./98425-11eyes-resona-forma.json) |
+| 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
+| 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
+| 12+ | 98424 | [98424-12.json](./98424-12.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
+| 121 N | 98421 | [98421-121-n.json](./98421-121-n.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
+| 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
+| 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
+| 12nin no Onna Kyoushi Re-Innovation: San | 98418 | [98418-12nin-no-onna-kyoushi-re-innovation-san.json](./98418-12nin-no-onna-kyoushi-re-innovation-san.json) |
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
+| 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
+| 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
+| 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
 | 16 Planes:Return | 112980 | [112980-16-planes-return.json](./112980-16-planes-return.json) |
