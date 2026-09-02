@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inazuma Eleven Re | 317592 | [317592-inazuma-eleven-re.json](./317592-inazuma-eleven-re.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
+| Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
@@ -283,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
