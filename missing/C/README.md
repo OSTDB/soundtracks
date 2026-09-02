@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
+| Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
+| Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car! | 314670 | [314670-car.json](./314670-car.json) |
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
@@ -803,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking Arena: 9 in 1 Edition | 275892 | [275892-cooking-arena-9-in-1-edition.json](./275892-cooking-arena-9-in-1-edition.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
+| Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Truck | 227475 | [227475-cooking-truck.json](./227475-cooking-truck.json) |
 | Cooking Tycoons 3: 3 in 1 Bundle | 231045 | [231045-cooking-tycoons-3-3-in-1-bundle.json](./231045-cooking-tycoons-3-3-in-1-bundle.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
@@ -1047,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
+| Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
