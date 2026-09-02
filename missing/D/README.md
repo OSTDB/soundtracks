@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in the Forest | 183042 | [183042-deep-in-the-forest.json](./183042-deep-in-the-forest.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
+| Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dendam | 262104 | [262104-dendam.json](./262104-dendam.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
+| Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
@@ -440,6 +442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
+| Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
@@ -449,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
+| Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
