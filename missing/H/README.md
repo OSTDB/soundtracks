@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
+| Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
