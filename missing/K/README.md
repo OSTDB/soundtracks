@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
+| Kill the Monster | 105362 | [105362-kill-the-monster.json](./105362-kill-the-monster.json) |
 | Kill The Monster Z | 189165 | [189165-kill-the-monster-z.json](./189165-kill-the-monster-z.json) |
 | Kill The Music | 321169 | [321169-kill-the-music.json](./321169-kill-the-music.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kitori Academy | 136477 | [136477-kitori-academy.json](./136477-kitori-academy.json) |
+| Kitrinos: Inside the Cube | 105349 | [105349-kitrinos-inside-the-cube.json](./105349-kitrinos-inside-the-cube.json) |
 | Kitsune Battlemage | 190236 | [190236-kitsune-battlemage.json](./190236-kitsune-battlemage.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
