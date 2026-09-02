@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
+| Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
+| The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The Endless Adventure | 165686 | [165686-the-endless-adventure.json](./165686-the-endless-adventure.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
@@ -633,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
+| The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
@@ -1016,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
+| The Savior's Gang | 115049 | [115049-the-saviors-gang.json](./115049-the-saviors-gang.json) |
 | The Scourge | 267072 | [267072-the-scourge.json](./267072-the-scourge.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
@@ -1134,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
+| The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
@@ -2067,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
+| Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
@@ -2143,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
+| TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
