@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
+| Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
 | Algebra Ridge | 150695 | [150695-algebra-ridge.json](./150695-algebra-ridge.json) |
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
+| Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
@@ -908,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arhaekon | 195204 | [195204-arhaekon.json](./195204-arhaekon.json) |
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
+| ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
