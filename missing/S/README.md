@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
+| Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
+| Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
@@ -625,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
+| Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
@@ -672,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
+| Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
@@ -1252,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
+| SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
@@ -1264,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
+| Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
@@ -1271,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
+| Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
@@ -2039,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
+| Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
