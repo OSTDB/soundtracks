@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
+| Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | SandRipper | 270930 | [270930-sandripper.json](./270930-sandripper.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | SandTest | 146870 | [146870-sandtest.json](./146870-sandtest.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
+| Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
@@ -519,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
+| Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
@@ -624,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
+| Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Sker Ritual: Goon Brenn | 235466 | [235466-sker-ritual-goon-brenn.json](./235466-sker-ritual-goon-brenn.json) |
@@ -1323,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
+| StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -1490,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
+| Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
@@ -1625,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
+| Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
