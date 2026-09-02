@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystical Chain | 202950 | [202950-mystical-chain.json](./202950-mystical-chain.json) |
+| Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
