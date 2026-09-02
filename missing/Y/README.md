@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
+| Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Ys III: Wanderers from Ys | 201313 | [201313-ys-iii-wanderers-from-ys.json](./201313-ys-iii-wanderers-from-ys.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
