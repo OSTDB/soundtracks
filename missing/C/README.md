@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
+| Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -365,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
+| Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
 | Chicago 2020 | 235999 | [235999-chicago-2020.json](./235999-chicago-2020.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
@@ -538,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
+| Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
 | Classical Jukebox | 175933 | [175933-classical-jukebox.json](./175933-classical-jukebox.json) |
@@ -687,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
+| Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
 | Coloring Pixels: Collection 2 | 224199 | [224199-coloring-pixels-collection-2.json](./224199-coloring-pixels-collection-2.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
@@ -828,6 +832,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
+| Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
+| Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
