@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Juggle Struggle | 250659 | [250659-juggle-struggle.json](./250659-juggle-struggle.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
+| Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
