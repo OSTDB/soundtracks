@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
+| Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
@@ -214,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Letter Boxed | 296097 | [296097-letter-boxed.json](./296097-letter-boxed.json) |
+| Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
@@ -316,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
+| Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
