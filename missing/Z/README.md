@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
+| Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
