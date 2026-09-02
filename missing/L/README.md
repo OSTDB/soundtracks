@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
+| Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
