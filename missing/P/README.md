@@ -265,6 +265,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perseus | 274767 | [274767-perseus.json](./274767-perseus.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
+| Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
+| Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -364,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
+| Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
