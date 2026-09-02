@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persona 2 Batsu: Infinity Mask | 138231 | [138231-persona-2-batsu-infinity-mask.json](./138231-persona-2-batsu-infinity-mask.json) |
 | Persona 2 Tsumi: Lost Memories | 138268 | [138268-persona-2-tsumi-lost-memories.json](./138268-persona-2-tsumi-lost-memories.json) |
+| Persona 3 Em | 136488 | [136488-persona-3-em.json](./136488-persona-3-em.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
+| Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
