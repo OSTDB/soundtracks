@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
+| Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Talks | 225267 | [225267-late-night-talks.json](./225267-late-night-talks.json) |
 | Late Photographer 6 | 228086 | [228086-late-photographer-6.json](./228086-late-photographer-6.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
+| Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
