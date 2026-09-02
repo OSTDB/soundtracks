@@ -142,6 +142,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
+| Neophyte: Koplio's Story | 145695 | [145695-neophyte-koplios-story.json](./145695-neophyte-koplios-story.json) |
+| Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
@@ -233,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night&Scape | 237052 | [237052-night-and-scape.json](./237052-night-and-scape.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
+| Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
 | Nightfall Conquest | 290725 | [290725-nightfall-conquest.json](./290725-nightfall-conquest.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
@@ -375,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
+| Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
@@ -413,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
 | Nullptr | 158234 | [158234-nullptr.json](./158234-nullptr.json) |
