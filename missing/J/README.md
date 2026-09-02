@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
+| Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
+| Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
