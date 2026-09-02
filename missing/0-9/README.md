@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
+| 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
+| 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4X4 Masters | 148563 | [148563-4x4-masters.json](./148563-4x4-masters.json) |
 | 4x4 Offroad Car Exploration | 264899 | [264899-4x4-offroad-car-exploration.json](./264899-4x4-offroad-car-exploration.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
