@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
+| FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
