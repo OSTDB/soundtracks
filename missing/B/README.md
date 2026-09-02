@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
+| Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
+| Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
@@ -768,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
+| Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
@@ -856,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bule Form | 158224 | [158224-bule-form.json](./158224-bule-form.json) |
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
+| Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
@@ -892,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
+| Burn. Pulse. Detach. | 143115 | [143115-burn-pulse-detach.json](./143115-burn-pulse-detach.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
