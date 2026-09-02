@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
+| GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
@@ -663,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
+| Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
