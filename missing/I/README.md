@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
+| Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
