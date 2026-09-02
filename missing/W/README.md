@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wireball | 121721 | [121721-wireball.json](./121721-wireball.json) |
 | Wired | 105334 | [105334-wired.json](./105334-wired.json) |
+| Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wish Stone: Nonogram | 312363 | [312363-wish-stone-nonogram.json](./312363-wish-stone-nonogram.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
