@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
+| Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
@@ -204,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
+| Real Winners: Victoryball | 109659 | [109659-real-winners-victoryball.json](./109659-real-winners-victoryball.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
@@ -244,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursive Riftfall | 310725 | [310725-recursive-riftfall.json](./310725-recursive-riftfall.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
+| Red and Blue: Cycles of Existence | 109739 | [109739-red-and-blue-cycles-of-existence.json](./109739-red-and-blue-cycles-of-existence.json) |
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
@@ -271,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
+| RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | RedCat: De Brutale Bankroof | 201297 | [201297-redcat-de-brutale-bankroof.json](./201297-redcat-de-brutale-bankroof.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
@@ -398,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
+| Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
