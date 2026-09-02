@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
+| Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
@@ -380,12 +381,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
+| Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
+| Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
@@ -829,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
+| Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
