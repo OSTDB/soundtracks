@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
+| Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
