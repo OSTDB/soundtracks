@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
+| Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
