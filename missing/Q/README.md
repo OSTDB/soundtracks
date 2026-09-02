@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
+| Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
 | Quest for King's Underpants | 173809 | [173809-quest-for-kings-underpants.json](./173809-quest-for-kings-underpants.json) |
 | Quest for the Crystal Skulls | 268756 | [268756-quest-for-the-crystal-skulls.json](./268756-quest-for-the-crystal-skulls.json) |
