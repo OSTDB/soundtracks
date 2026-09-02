@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
+| Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
+| Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
