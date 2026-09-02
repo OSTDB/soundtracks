@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.L.T.: Cheguei Louco no Trabalho | 255390 | [255390-c-l-t-cheguei-louco-no-trabalho.json](./255390-c-l-t-cheguei-louco-no-trabalho.json) |
+| C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
+| Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
@@ -703,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
+| Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
@@ -1089,9 +1092,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube World | 195215 | [195215-cube-world.json](./195215-cube-world.json) |
+| Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
+| CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
 | Cubic Juice | 158221 | [158221-cubic-juice.json](./158221-cubic-juice.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
