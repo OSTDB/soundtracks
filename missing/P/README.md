@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
+| Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Red Full Color | 213036 | [213036-pokemon-red-full-color.json](./213036-pokemon-red-full-color.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
@@ -750,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
+| Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
@@ -838,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
+| Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
 | Prison Tycoon: Under New Management - Maximum Security | 196298 | [196298-prison-tycoon-under-new-management-maximum-security.json](./196298-prison-tycoon-under-new-management-maximum-security.json) |
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
@@ -933,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
+| Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
