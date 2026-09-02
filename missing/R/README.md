@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
+| Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
@@ -312,9 +313,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
+| Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
@@ -370,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
+| Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
@@ -489,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
+| Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
