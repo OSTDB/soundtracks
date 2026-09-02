@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
+| Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
@@ -172,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
+| Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
+| Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
