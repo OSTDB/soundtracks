@@ -226,6 +226,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
+| Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
+| Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
@@ -282,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
+| Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
@@ -518,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
+| The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
@@ -1386,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
+| Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time Traveler | 201849 | [201849-time-traveler.json](./201849-time-traveler.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
@@ -1394,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times & Galaxy | 248316 | [248316-times-and-galaxy.json](./248316-times-and-galaxy.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
+| Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Atolls | 230529 | [230529-tiny-atolls.json](./230529-tiny-atolls.json) |
