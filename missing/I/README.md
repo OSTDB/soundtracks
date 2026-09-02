@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
+| iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
