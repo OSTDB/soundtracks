@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
+| Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakuten Shoot Beyblade 2002: Beybattle Tournament 2 | 303784 | [303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json](./303784-bakuten-shoot-beyblade-2002-beybattle-tournament-2.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
