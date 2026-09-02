@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.C.A.R | 169437 | [169437-s-c-a-r.json](./169437-s-c-a-r.json) |
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
+| S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
@@ -343,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
@@ -835,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
+| Sling Drift | 102767 | [102767-sling-drift.json](./102767-sling-drift.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
@@ -1024,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
+| Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
@@ -1378,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
+| Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
@@ -1684,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
+| Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Strandzha Adventures 3D | 311825 | [311825-strandzha-adventures-3d.json](./311825-strandzha-adventures-3d.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
@@ -1788,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
+| Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
@@ -1812,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
+| Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
@@ -2141,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
+| Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
