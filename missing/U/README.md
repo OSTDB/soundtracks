@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jewel | 242209 | [242209-ultimate-jewel.json](./242209-ultimate-jewel.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
+| Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
