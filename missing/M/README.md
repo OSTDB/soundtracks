@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
+| Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
+| Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
