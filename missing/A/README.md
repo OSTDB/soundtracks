@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
 | Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
+| Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
+| Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
@@ -1001,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
+| Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
@@ -1176,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
+| Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
