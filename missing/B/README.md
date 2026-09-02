@@ -60,7 +60,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
@@ -298,9 +297,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
+| BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
+| Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Birdie Puzzle 2 | 278659 | [278659-breakout-birdie-puzzle-2.json](./278659-breakout-birdie-puzzle-2.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
+| BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
