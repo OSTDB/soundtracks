@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
+| Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
+| The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
@@ -1071,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
+| The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
@@ -1170,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
+| The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
