@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
 | Jumpy Bunny | 307309 | [307309-jumpy-bunny.json](./307309-jumpy-bunny.json) |
 | Jumpy Dog | 172752 | [172752-jumpy-dog.json](./172752-jumpy-dog.json) |
+| Jumpy Dunk! | 96755 | [96755-jumpy-dunk.json](./96755-jumpy-dunk.json) |
 | Jumpy Road Race | 232162 | [232162-jumpy-road-race.json](./232162-jumpy-road-race.json) |
 | Junction | 109032 | [109032-junction.json](./109032-junction.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
