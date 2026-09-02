@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm the Policeman | 278704 | [278704-im-the-policeman.json](./278704-im-the-policeman.json) |
 | I'm Truely a Good Guy! | 337483 | [337483-im-truely-a-good-guy.json](./337483-im-truely-a-good-guy.json) |
+| I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | IAlly | 250008 | [250008-ially.json](./250008-ially.json) |
@@ -78,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
+| Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
@@ -377,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Aito | 199657 | [199657-island-of-aito.json](./199657-island-of-aito.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
+| Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
