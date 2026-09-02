@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
+| Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
@@ -425,7 +426,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
+| Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
+| Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
+| Richman 4 | 125448 | [125448-richman-4.json](./125448-richman-4.json) |
 | RichMan 4 Fun | 252402 | [252402-richman-4-fun.json](./252402-richman-4-fun.json) |
+| Richman 5 | 125449 | [125449-richman-5.json](./125449-richman-5.json) |
+| Richman 6 | 125450 | [125450-richman-6.json](./125450-richman-6.json) |
+| Richman 7 | 125451 | [125451-richman-7.json](./125451-richman-7.json) |
+| Richman 8 | 125452 | [125452-richman-8.json](./125452-richman-8.json) |
+| Richman 9 | 125453 | [125453-richman-9.json](./125453-richman-9.json) |
+| Richman Online | 125441 | [125441-richman-online.json](./125441-richman-online.json) |
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
@@ -721,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
+| Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Roto Force | 191870 | [191870-roto-force.json](./191870-roto-force.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
