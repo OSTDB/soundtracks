@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
+| Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
