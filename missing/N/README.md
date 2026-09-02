@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
+| Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Power | 242772 | [242772-next-power.json](./242772-next-power.json) |
 | Next Room | 292280 | [292280-next-room.json](./292280-next-room.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
