@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
+| Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
@@ -142,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | Saving Clicklandia | 295017 | [295017-saving-clicklandia.json](./295017-saving-clicklandia.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
+| Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
@@ -464,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
+| Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
@@ -484,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
+| Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi.io | 194016 | [194016-shinobi-io.json](./194016-shinobi-io.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
@@ -1153,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
+| Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
@@ -1537,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
+| Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
@@ -1915,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Neptunia RPG: Party Member - If | 238176 | [238176-super-neptunia-rpg-party-member-if.json](./238176-super-neptunia-rpg-party-member-if.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
+| Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
