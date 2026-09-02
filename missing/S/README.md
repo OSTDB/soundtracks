@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.Q. Sound Qube | 230505 | [230505-s-q-sound-qube.json](./230505-s-q-sound-qube.json) |
+| S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
@@ -211,12 +212,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
+| SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
 | Search | 233771 | [233771-search.json](./233771-search.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
 | Seashells | 197922 | [197922-seashells.json](./197922-seashells.json) |
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
+| Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
@@ -1282,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
+| Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
@@ -1290,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
+| Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -1545,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
+| Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
@@ -1753,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
