@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | Margonem Adventures | 237638 | [237638-margonem-adventures.json](./237638-margonem-adventures.json) |
+| Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
+| Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
@@ -816,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
+| Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
