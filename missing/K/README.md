@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
+| Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
