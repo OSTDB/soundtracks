@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
+| Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
 | Glitchhikers: The Spaces Between - Deluxe Glitchpod Edition | 205227 | [205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json](./205227-glitchhikers-the-spaces-between-deluxe-glitchpod-edition.json) |
+| Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
