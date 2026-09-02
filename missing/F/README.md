@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
+| Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -144,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
+| Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
