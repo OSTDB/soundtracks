@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
+| Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Forest: Healing Camp | 239918 | [239918-cat-forest-healing-camp.json](./239918-cat-forest-healing-camp.json) |
 | Cat From Hell: Cat Simulator | 338008 | [338008-cat-from-hell-cat-simulator.json](./338008-cat-from-hell-cat-simulator.json) |
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
+| Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
@@ -356,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
+| Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
