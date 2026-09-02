@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
+| >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
 | 001 Earth | 191250 | [191250-001-earth.json](./191250-001-earth.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-Dates Dating Simulator | 178688 | [178688-2-dates-dating-simulator.json](./178688-2-dates-dating-simulator.json) |
 | 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
 | 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
+| 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 2000s Rock Legends: Music Pack | 325822 | [325822-2000s-rock-legends-music-pack.json](./325822-2000s-rock-legends-music-pack.json) |
 | 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
@@ -120,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
+| 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 209 | 316432 | [316432-209.json](./316432-209.json) |
@@ -138,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
 | 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
+| 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Minute Walk | 182550 | [182550-3-minute-walk.json](./182550-3-minute-walk.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 30 Years of Nintendon't | 215379 | [215379-30-years-of-nintendont.json](./215379-30-years-of-nintendont.json) |
@@ -215,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
+| 7Rhythm | 124268 | [124268-7rhythm.json](./124268-7rhythm.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
