@@ -454,6 +454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Bear | 219803 | [219803-good-bear.json](./219803-good-bear.json) |
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
+| Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
+| Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Game | 215358 | [215358-good-game.json](./215358-good-game.json) |
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
