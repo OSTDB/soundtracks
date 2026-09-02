@@ -356,7 +356,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing For Cats | 309685 | [309685-fishing-for-cats.json](./309685-fishing-for-cats.json) |
+| Fishing Freaks: Bass Rise Plus | 123044 | [123044-fishing-freaks-bass-rise-plus.json](./123044-fishing-freaks-bass-rise-plus.json) |
 | Fishing Kingdom | 195226 | [195226-fishing-kingdom.json](./195226-fishing-kingdom.json) |
+| Fishing Koushien II | 123045 | [123045-fishing-koushien-ii.json](./123045-fishing-koushien-ii.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
@@ -432,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting Island | 303786 | [303786-flirting-island.json](./303786-flirting-island.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
+| Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
 | Flood the Chamber | 242813 | [242813-flood-the-chamber.json](./242813-flood-the-chamber.json) |
 | Floodbound | 298852 | [298852-floodbound.json](./298852-floodbound.json) |
