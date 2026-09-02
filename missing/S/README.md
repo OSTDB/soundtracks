@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
+| Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Bob 3: Egypt Journey | 213638 | [213638-snail-bob-3-egypt-journey.json](./213638-snail-bob-3-egypt-journey.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
+| Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
@@ -1241,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
+| Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
@@ -1328,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
+| Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
@@ -1340,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Legends | 234330 | [234330-speed-legends.json](./234330-speed-legends.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
+| Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
