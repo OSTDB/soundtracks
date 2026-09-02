@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
+| Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
+| Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
 | Mario Golf: World Tour - Mushroom Pack | 309116 | [309116-mario-golf-world-tour-mushroom-pack.json](./309116-mario-golf-world-tour-mushroom-pack.json) |
 | Mario Golf: World Tour - Star Pack | 309118 | [309118-mario-golf-world-tour-star-pack.json](./309118-mario-golf-world-tour-star-pack.json) |
@@ -400,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MEIOU and Taxes | 294450 | [294450-meiou-and-taxes.json](./294450-meiou-and-taxes.json) |
 | MeiQi 2022 | 190735 | [190735-meiqi-2022.json](./190735-meiqi-2022.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
+| Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melli's Retro Land | 270414 | [270414-mellis-retro-land.json](./270414-mellis-retro-land.json) |
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
@@ -919,6 +922,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Sektor | 312333 | [312333-mortal-kombat-1-sektor.json](./312333-mortal-kombat-1-sektor.json) |
 | Mortal Kombat 1: Shang Tsung | 265938 | [265938-mortal-kombat-1-shang-tsung.json](./265938-mortal-kombat-1-shang-tsung.json) |
 | Mortal Kombat 1: T-1000 | 312340 | [312340-mortal-kombat-1-t-1000.json](./312340-mortal-kombat-1-t-1000.json) |
+| Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
+| Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
+| Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
+| Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
+| Mortal Kombat 11: Rambo | 139444 | [139444-mortal-kombat-11-rambo.json](./139444-mortal-kombat-11-rambo.json) |
+| Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
+| Mortal Kombat 11: Sheeva | 139441 | [139441-mortal-kombat-11-sheeva.json](./139441-mortal-kombat-11-sheeva.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
