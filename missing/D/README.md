@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
+| Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
