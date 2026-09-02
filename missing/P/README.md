@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
+| Pingwinek Kelvin | 142495 | [142495-pingwinek-kelvin.json](./142495-pingwinek-kelvin.json) |
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
+| Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
@@ -792,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
+| Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
