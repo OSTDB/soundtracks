@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
+| IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
