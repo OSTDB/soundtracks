@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
+| Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
+| Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
@@ -762,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
+| Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
 | Arcade Basketball 3D Tournament Edition | 241611 | [241611-arcade-basketball-3d-tournament-edition.json](./241611-arcade-basketball-3d-tournament-edition.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
@@ -858,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
+| Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
@@ -1035,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
+| Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
