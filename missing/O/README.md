@@ -30,7 +30,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
+| Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
+| Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
