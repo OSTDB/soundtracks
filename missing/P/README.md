@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
+| Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Panama Canal | 156143 | [156143-panama-canal.json](./156143-panama-canal.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
+| Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
@@ -794,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Pots and Potions | 170540 | [170540-pots-and-potions.json](./170540-pots-and-potions.json) |
+| Potshot Pirates | 117750 | [117750-potshot-pirates.json](./117750-potshot-pirates.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
@@ -935,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
+| Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
@@ -1031,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
+| Purple Chicken Spaceman | 117777 | [117777-purple-chicken-spaceman.json](./117777-purple-chicken-spaceman.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purrdy's Race | 335111 | [335111-purrdys-race.json](./335111-purrdys-race.json) |
