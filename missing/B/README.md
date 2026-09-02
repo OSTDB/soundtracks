@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
+| Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Desert: Traveler Edition | 150142 | [150142-black-desert-traveler-edition.json](./150142-black-desert-traveler-edition.json) |
 | Black Diamond | 275309 | [275309-black-diamond.json](./275309-black-diamond.json) |
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
+| Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
@@ -605,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
+| Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | Bloodroot | 296107 | [296107-bloodroot.json](./296107-bloodroot.json) |
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
