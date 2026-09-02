@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
+| You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
@@ -81,6 +82,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
+| Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
+| Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
