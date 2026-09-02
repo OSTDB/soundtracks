@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
+| Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Witches: the Vindicator | 158188 | [158188-violent-witches-the-vindicator.json](./158188-violent-witches-the-vindicator.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
